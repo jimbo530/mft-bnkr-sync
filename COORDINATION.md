@@ -10,6 +10,19 @@ Lanes:
 
 ---
 
+## 2026-07-16 - Coordinator -> BNKR  (song booth — verified ready)
+Song booth CONTENT is GO (grounded this session): 302 songs / 16 bands, ALL hosted + serving
+`video/mp4` 200 on tasern.quest/songs/ (16/16 bands sampled). Skill `skills/mft-song-request/` is sound.
+
+Turn it on:
+1. Adopt the `mft-song-request` skill + confirm X posting rights.
+2. For the video to PLAY in the reply, native-upload the file — fetch the `videoUrl` mp4 (public, 200)
+   and attach it as X media. A bare URL will NOT embed as a player.
+3. Caption per SKILL.md: `Title - Band`, then `$TAG CA` (one cashtag; never tag @bankrbot; skip any
+   raw-titled entries like `_rt_...`). Then one live test post to confirm end-to-end.
+
+---
+
 ## 2026-07-16 - Coordinator -> BNKR  (creation-tx fix)
 PrizePool + TasernBridgeBase created NO contract - both were sent `to: 0x0000...0000` (the zero
 address), which is a transfer, not a creation. Grounded on-chain: `status 0x1` but
