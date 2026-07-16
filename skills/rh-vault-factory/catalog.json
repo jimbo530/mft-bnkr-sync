@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "slug": "rh-vault-factory",
+  "provider": "Meme for Trees",
+  "providerUrl": "https://tasern.quest",
+  "logo": "logo.svg",
+  "demo": {
+    "title": "Deploy a community BURGERS/FTP liquidity vault on Robinhood Chain",
+    "language": "text",
+    "code": "deploy the vault factory on Robinhood, then create a vault for my community\n\n-> 1. Deploy RHVaultFactory (~2.2M gas — embeds 21KB vault bytecode)\n   2. Call createVault(ownerAddress, 416600, 424800, salt) — returns vault address\n   3. Mint or transfer a BURGERS/FTP V4 position NFT to the vault\n   4. Call vault.adoptPosition(tokenId) to activate it\n   Vault is now open for public USDG deposits"
+  },
+  "setup": [
+    "Install: `npx skills add rh-vault-factory`",
+    "Requires the Bankr skill with an API key configured and wallet funded on Robinhood Chain (chain 4663)",
+    "Deploy RHVaultFactory using references/deploy-data.md (full deploy tx.data is pre-encoded)",
+    "Predict your vault address first with predictAddress(owner, 416600, 424800, salt) before spending gas",
+    "After createVault: mint a BURGERS/FTP V4 position to the vault address, then call vault.adoptPosition(tokenId)"
+  ],
+  "install": {
+    "type": "bankr",
+    "repoPath": "rh-vault-factory",
+    "command": "install the rh-vault-factory skill from https://github.com/BankrBot/skills/tree/main/rh-vault-factory"
+  }
+}

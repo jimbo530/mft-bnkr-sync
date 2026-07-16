@@ -1,0 +1,6 @@
+EMPTY — no constructor arguments.
+
+Grounded in source: TasernBridgeBase constructor (line 183-185 of TasernBridge.sol):
+  constructor() { owner = msg.sender; }
+
+No parameters. ABI-encoded constructor args = 0x (nothing to append to creation bytecode).

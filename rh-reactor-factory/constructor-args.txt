@@ -1,0 +1,90 @@
+RHReactorFactory — Constructor Arguments
+==========================================
+
+Chain: Robinhood Chain (chainId 4663)
+RPC: https://rpc.mainnet.chain.robinhood.com
+
+CONTRACT: RHReactorFactory
+SOURCE: RHReactorFactory.sol (self-contained, no OZ imports)
+COMPILER: solc 0.8.35+commit.47b9dedd, viaIR:true, optimizer runs 200, evmVersion paris
+FACTORY BYTECODE SIZE: 4208 bytes (see creation-bytecode.txt)
+
+=== CONSTRUCTOR SIGNATURE ===
+
+  constructor(
+    address _positionManager,    // arg 1
+    address _universalRouter,    // arg 2
+    address _permit2,            // arg 3
+    address _poolManager,        // arg 4
+    address _prime,              // arg 5
+    bytes   _childCreationCode   // arg 6
+  )
+
+=== RAW VALUES ===
+
+Arg 1  _positionManager   = 0x58daec3116aae6D93017bAAea7749052E8a04fA7
+       Type: address
+       Source: rh-v4-addresses.json positionManager (verified 2026-07-13)
+
+Arg 2  _universalRouter   = 0x53BF6B0684Ec7eF91e1387Da3D1a1769bC5A6F77
+       Type: address
+       Source: rh-v4-addresses.json universalRouter
+       IMPORTANT: Canonical Uniswap V4 UR. NOT the Bankr intent router
+       (0x8876789976dEcBfCbBbe364623C63652db8C0904 — that one REVERTS on
+       vanilla pools, confirmed broken 2026-07-12).
+
+Arg 3  _permit2           = 0x000000000022D473030F116dDEE9F6B43aC78BA3
+       Type: address
+       Source: rh-v4-addresses.json permit2
+
+Arg 4  _poolManager       = 0x8366a39CC670B4001A1121B8F6A443A643e40951
+       Type: address
+       Source: rh-v4-addresses.json poolManager
+
+Arg 5  _prime             = 0xd51125e200689bf07A9b36A6c12fE440bb92dd4D
+       Type: address
+       Source: _sweep-vps.md / rh-reactors-v2.json
+       Label: "FTP meme reactor (RH) — REAL PRIME"
+       Note: The live V4ReactorPrime on RH. All child reactors send their
+             10% upstream fuel cut here. Confirmed in rh-reactors-v2.json
+             as the REAL prime (not the disowned one at 0xCE35).
+
+Arg 6  _childCreationCode = <V4BurgersReactor creation bytecode>
+       Type: bytes
+       Size: 17010 bytes
+       Source: V4BurgersReactor.artifact.json
+               (output of: node compile-rh-suite.cjs in mftusd-build)
+       First 32 bytes: 0x6101003461022a57601f61427238819003918201601f19168301916001600160
+
+       This is the bytecode the factory stamps for every createReactor() call.
+       The factory appends ABI-encoded constructor args at deploy time:
+         (coreToken, positionManager, universalRouter, permit2, prime, poolManager)
+
+=== ABI-ENCODED CONSTRUCTOR ARGS ===
+
+See constructor-args-encoded.hex (17248 bytes total).
+
+Structure of the ABI encoding:
+  word  0: 0x000...58daec... (positionManager, padded to 32 bytes)
+  word  1: 0x000...53bf6b... (universalRouter, padded)
+  word  2: 0x000...0022d4... (permit2, padded)
+  word  3: 0x000...8366a3... (poolManager, padded)
+  word  4: 0x000...d51125... (prime, padded)
+  word  5: offset to bytes arg (0xc0 = 192 bytes in)
+  word  6: length of bytes arg (0x4272 = 17010 bytes)
+  bytes 7+: child creation bytecode data (17010 bytes, padded to 32-byte boundary)
+
+To reproduce: ethers.AbiCoder.defaultAbiCoder().encode(
+  ['address','address','address','address','address','bytes'],
+  [positionManager, universalRouter, permit2, poolManager, prime,
+   '0x' + V4BurgersReactor_artifact.bytecode]
+)
+
+=== AFTER DEPLOYING THE FACTORY ===
+
+Call createReactor(coreToken) for each new meme/token:
+  - Deploys a new V4BurgersReactor-pattern child wired to the prime + RH V4 infra.
+  - Emits ReactorCreated(coreToken, reactor, deployer).
+  - Reactor admin starts as the factory (CREATE opcode), factory immediately calls
+    transferAdmin(msg.sender) — caller then calls reactor.acceptAdmin() to claim.
+  - Registry: factory.reactorOf[coreToken] -> reactor address.

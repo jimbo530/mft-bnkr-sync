@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "slug": "rh-prize-pool",
+  "provider": "Meme for Trees",
+  "providerUrl": "https://tasern.quest",
+  "logo": "logo.svg",
+  "demo": {
+    "title": "Deploy and fund a USDG achievement prize pool on Robinhood Chain",
+    "language": "text",
+    "code": "deploy the prize pool on Robinhood, fund it with USDG, then claim a reward for NFT #42\n\n-> 1. Deploy PrizePool(usdgAddress, adminAddress)\n   2. Approve USDG to pool, call fund(amount) — USDG enters, can never be admin-withdrawn\n   3. Admin calls addAchievement(id, rewardType, amountOrBps, eligMode, ...)\n   4. Anyone calls claim(achievementId, collection, tokenId) — USDG goes to NFT owner"
+  },
+  "setup": [
+    "Install: `npx skills add rh-prize-pool`",
+    "Requires the Bankr skill with an API key configured and wallet funded on Robinhood Chain (chain 4663)",
+    "USDG on RH: 0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168 (6 decimals)",
+    "Deploy PrizePool with prizeToken=USDG and your admin address (see references/deploy-data.md)",
+    "Fund the pool via approve(pool, amount) on USDG then fund(amount) on the pool — no admin withdrawal ever"
+  ],
+  "install": {
+    "type": "bankr",
+    "repoPath": "rh-prize-pool",
+    "command": "install the rh-prize-pool skill from https://github.com/BankrBot/skills/tree/main/rh-prize-pool"
+  }
+}

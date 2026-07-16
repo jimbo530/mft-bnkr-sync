@@ -1,0 +1,97 @@
+TASERN BRIDGE — ROBINHOOD CHAIN DEPLOY
+For Bankr / Fable-5 agent deployment
+======================================
+
+CHAIN: Robinhood (chain ID 4663)
+RPC:   https://rpc.mainnet.chain.robinhood.com
+
+CONTRACT TO DEPLOY: TasernBridgeBase
+(from TasernBridge.sol — the mint/burn side; correct for RH because RH holds
+no original token supply, it receives bridged twins minted on demand)
+
+SOURCE FILE:        TasernBridge.sol  (same file, no OZ imports, fully self-contained)
+COMPILER:           solc 0.8.35+commit.47b9dedd
+SETTINGS:           viaIR=true, optimizer runs=200, evmVersion=paris
+CONSTRUCTOR ARGS:   none (constructor takes zero params; owner = deployer)
+BYTECODE FILE:      creation-bytecode.txt  (12294 hex chars = 6147 bytes)
+
+
+DEPLOY STEP
+-----------
+1. On chain 4663, send a contract-creation tx with the contents of
+   creation-bytecode.txt as the tx data. No constructor args to append.
+2. Record the deployed address — call it RH_BRIDGE below.
+3. Confirm: call owner() on RH_BRIDGE; should return the deployer address.
+
+
+POST-DEPLOY WIRING (owner-only calls on RH_BRIDGE)
+---------------------------------------------------
+All functions below are grounded in TasernBridgeBase / BridgeCore in TasernBridge.sol.
+
+STEP 1 — Set relayer
+  Function: setRelayer(address _relayer)          [BridgeCore line 113]
+  Who calls: owner (deployer)
+  Arg: the relayer wallet that will call mintFromPolygon() when it sees
+       a Locked event from the Polygon vault (0xBB62...016f).
+  Current relayer on Base/Polygon: 0x849639C5D2ec97be27b90B2aC12c9d29e18f6CbC
+  Action: use that same relayer key (or a new one if rotating for RH).
+
+STEP 2 — Deploy twins for each token you want bridged to RH
+  Function: deployTwin(address polygonToken, string name_, string symbol_,
+                       uint8 decimals_, uint256 cap_)    [TasernBridgeBase line 190]
+  Who calls: owner
+  One call per token. Add-only; one twin per original (reverts "twin exists" on re-add).
+
+  Known token originals from tasern-bridge-deployment.json
+  (use Polygon originals as the key, same as the Base bridge does):
+
+  DDD:  polygonToken=0x4bf82cf0d6b2afc87367052b793097153c859d38
+  OGC:  polygonToken=0xccf37622e6b72352e7b410481dd4913563038b7c
+  PKT:  polygonToken=0x8a088dceecbcf457762eb7c66f78fff27dc0c04a
+  BTN:  polygonToken=0xd7c584d40216576f1d8651eab8bef9de69497666  (8 decimals — confirm)
+  IGS:  polygonToken=0xe302672798d12e7f68c783db2c2d5e6b48ccf3ce  (8 decimals — confirm)
+  DHG:  polygonToken=0x75c0a194cd8b4f01d5ed58be5b7c5b61a9c69d0a
+  LGP:  polygonToken=0xddc330761761751e005333208889bfe36c6e6760
+  PR25: polygonToken=0x72e4327f592e9cb09d5730a55d1d68de144af53c
+  MfT:  polygonToken = confirm from Polygon MfT original
+         (rh-v4-addresses.json lists mftTwin=0x6ae576... on RH, but that is
+          an existing RH address; fetch the Polygon MfT original address from
+          chain or the team before calling deployTwin for MfT)
+
+  For each call supply: the correct on-chain name/symbol/decimals/cap
+  (read from the Polygon original contract before calling — do not guess cap).
+
+  After each deployTwin call the contract emits TwinDeployed(polygonToken, twin, symbol).
+  Save the emitted twin addresses — those are the RH ERC20 addresses users hold.
+
+STEP 3 — Wire the relayer to watch this bridge
+  The relayer must be told to:
+  a) Watch TasernBridgePolygon (0xBB62C2DCcCa84047b4445b1dB568A3c475B5016f on Polygon)
+     for Locked(nonce, token, from, baseRecipient, amount) events.
+  b) For each Locked event call mintFromPolygon(inboundNonce, polygonToken, to, amount)
+     on RH_BRIDGE  [TasernBridgeBase line 205].
+  c) Watch RH_BRIDGE for Burned(nonce, twin, from, polygonRecipient, amount) events.
+  d) For each Burned event call release(inboundNonce, token, to, amount)
+     on TasernBridgePolygon [TasernBridgePolygon line 157].
+  Replay is blocked on-chain: processedInbound mapping [BridgeCore line 106].
+
+STEP 4 — (optional, build-phase) Pause control
+  setPaused(bool)  [BridgeCore line 118]
+  Start paused (true) while testing, unpause when confident.
+
+
+WHAT THIS CONTRACT DOES NOT NEED
+---------------------------------
+- No AMM dependency (no V4 / Uniswap addresses in constructor or storage)
+- No token pre-funding (it mints twins on demand via deployTwin + mintFromPolygon)
+- No adminWithdraw (that function is on TasernBridgePolygon only, not TasernBridgeBase)
+
+
+VERIFICATION CHECK (after deploy)
+----------------------------------
+Call on RH_BRIDGE:
+  owner()          -> deployer address
+  relayer()        -> relayer address you set in Step 1
+  paused()         -> false (or true if you started paused)
+  outboundNonce()  -> 0 (no outbound yet)
+  twinOf(<polygonToken>) -> twin ERC20 address (after Step 2 deployTwin calls)

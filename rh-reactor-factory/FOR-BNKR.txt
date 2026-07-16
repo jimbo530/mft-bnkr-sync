@@ -1,0 +1,144 @@
+FOR BNKR / FABLE-5 — RH Reactor Factory Deploy Instructions
+=============================================================
+
+Chain: Robinhood Chain  |  chainId: 4663
+RPC: https://rpc.mainnet.chain.robinhood.com
+
+This package deploys ONE factory contract. The factory then stamps individual
+child reactors (one per token) on demand.
+
+=========================================================================
+STEP 1 — Deploy RHReactorFactory
+=========================================================================
+
+Contract: RHReactorFactory
+Source: RHReactorFactory.sol (in this folder)
+Bytecode: creation-bytecode.txt  (factory only, 4208 bytes — NOT the child)
+
+Constructor args (6 total):
+
+  Arg 1 — _positionManager  (address)
+    0x58daec3116aae6D93017bAAea7749052E8a04fA7
+
+  Arg 2 — _universalRouter  (address)
+    0x53BF6B0684Ec7eF91e1387Da3D1a1769bC5A6F77
+    (Canonical Uniswap V4 UniversalRouter — verified working on RH)
+
+  Arg 3 — _permit2  (address)
+    0x000000000022D473030F116dDEE9F6B43aC78BA3
+
+  Arg 4 — _poolManager  (address)
+    0x8366a39CC670B4001A1121B8F6A443A643e40951
+
+  Arg 5 — _prime  (address)
+    0xd51125e200689bf07A9b36A6c12fE440bb92dd4D
+    (The REAL V4ReactorPrime already live on RH — confirmed in rh-reactors-v2.json)
+
+  Arg 6 — _childCreationCode  (bytes)
+    This is the creation bytecode of V4BurgersReactor (17010 bytes).
+    The full ABI-encoded constructor args are in: constructor-args-encoded.hex
+    (17248 bytes — includes padding for the bytes arg).
+
+HOW TO DEPLOY IN BANKR UI:
+  Option A: paste creation-bytecode.txt into a raw deploy call, then append
+            the ABI-encoded constructor args from constructor-args-encoded.hex.
+            (creation-bytecode.txt + constructor-args-encoded.hex concatenated
+             = the full deployment data sent to the chain.)
+
+  Option B: If Bankr supports typed constructor inputs, enter the 5 address
+            args manually and paste the V4BurgersReactor creation bytecode
+            (from compile-rh-suite.cjs output: V4BurgersReactor.artifact.json
+            .bytecode field prefixed with 0x) as the bytes arg.
+
+  GAS: factory is 4208 bytes. Estimated ~800k gas. Use maxFeePerGas 0.15 gwei /
+       maxPriorityFeePerGas 0.01 gwei (matches existing RH deployments).
+
+  Save the deployed factory address as: FACTORY_ADDRESS
+
+=========================================================================
+STEP 2 — Call createReactor for each token
+=========================================================================
+
+For each new meme token you want a reactor for:
+
+  Function: createReactor(address coreToken)
+  Contract: FACTORY_ADDRESS (deployed in Step 1)
+  Chain: 4663
+
+  Input:
+    coreToken = the ERC20 address of the token the reactor will BURN
+
+  What happens:
+    - A new V4BurgersReactor-pattern child is deployed, wired to:
+        positionManager, universalRouter, permit2, prime, poolManager
+      (all hardwired in the factory from Step 1)
+    - Event emitted: ReactorCreated(coreToken, reactor, deployer)
+    - Factory registry updated: factory.reactorOf[coreToken] = reactor
+    - The reactor's admin is initially the factory, which immediately calls
+      reactor.transferAdmin(your_address) — so YOU must call:
+          reactor.acceptAdmin()
+      on the newly deployed reactor address to claim admin.
+
+  GAS: child reactor is 17010 bytes. Estimated ~3.5M gas. Use same gas fees.
+
+  Example for SHILLWOOD token (0xXXXX...):
+    Call createReactor(0xXXXX...)
+    -> ReactorCreated event gives you the reactor address
+    -> Call reactor.acceptAdmin() to take admin
+
+=========================================================================
+STEP 3 — Wire each reactor (post-deploy, admin only)
+=========================================================================
+
+After acceptAdmin(), you are the admin of each child reactor.
+
+  3a. Register the prime's tokens (on V4ReactorPrime at 0xd51125):
+      prime.registerToken(pairedToken, burnFlag)
+      (only needed if a new paired token is introduced)
+
+  3b. Transfer position NFTs to the reactor:
+      positionManager.safeTransferFrom(you, reactor, tokenId)
+      (the reactor's onERC721Received only accepts transfers from admin)
+
+  3c. Add the position:
+      reactor.addPool(tokenId)
+
+  3d. Execute:
+      reactor.execute([minCoreOut_per_pool])
+      (permissionless after 2-hour cooldown; keeper or anyone can call)
+
+=========================================================================
+VERIFICATION
+=========================================================================
+
+  factory.prime()            -> 0xd51125e200689bf07A9b36A6c12fE440bb92dd4D
+  factory.positionManager()  -> 0x58daec3116aae6D93017bAAea7749052E8a04fA7
+  factory.universalRouter()  -> 0x53BF6B0684Ec7eF91e1387Da3D1a1769bC5A6F77
+  factory.permit2()          -> 0x000000000022D473030F116dDEE9F6B43aC78BA3
+  factory.poolManager()      -> 0x8366a39CC670B4001A1121B8F6A443A643e40951
+  factory.reactorCount()     -> number of reactors deployed
+  factory.reactorOf(token)   -> reactor address for that token
+
+=========================================================================
+FILES IN THIS PACKAGE
+=========================================================================
+
+  RHReactorFactory.sol           — contract source
+  creation-bytecode.txt          — factory creation bytecode (0x prefixed)
+  constructor-args.txt           — this file + human-readable arg breakdown
+  constructor-args-encoded.hex   — ABI-encoded hex for all 6 constructor args
+  FOR-BNKR.txt                   — these instructions
+
+=========================================================================
+NOTES
+=========================================================================
+
+- The factory was built from V4ReactorSuite.sol (mftusd-build/contracts/).
+  It uses the same no-OZ self-contained style and identical compiler settings.
+- VPS was reachable during build. Base factory source at
+  /root/baseling-api/reactor-map-data.js was a DIFFERENT pattern (Base V3
+  reactor factory with TokenLaunched event + different ABI). The RH factory
+  was built from the V4ReactorSuite constructor pattern directly.
+- The REAL prime (0xd51125) is confirmed in _sweep-vps.md under
+  "FTP meme reactor (RH) — REAL PRIME". Do NOT use the disowned prime at
+  0xCE35A7279e34670D133e659747B96c82770a8549.

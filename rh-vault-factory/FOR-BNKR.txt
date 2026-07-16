@@ -1,0 +1,126 @@
+FOR-BNKR.txt — RHVaultFactory deploy steps for Fable-5 / Bankr UI
+=================================================================
+Chain: Robinhood (4663)
+Date: 2026-07-16
+
+BACKGROUND
+----------
+BurgersCommunityVault uses constructor-baked immutables (not initialize()).
+It cannot be EIP-1167 cloned. The factory embeds the full vault creation
+bytecode and deploys a fresh instance via CREATE2 for each new vault.
+
+Two deployed vaults already exist on-chain (full deploys, not proxies):
+  - V1: 0x35f67D74402dd46aAd94809808698FCDB93BEE50  (71091 NFT)
+  - V2: 0x261F76D20983f299962b1481d7968d2F27b79BB1  (burgersV2, active)
+
+These were individual deploys. The factory automates that pattern.
+There is NO existing factory or reusable impl-only contract on chain 4663.
+
+
+=== STEP 1: DEPLOY RHVaultFactory ===
+
+Use: creation-bytecode.txt -> "FULL deploy tx.data" section
+
+  Chain:      4663 (Robinhood)
+  To:         (empty — contract creation)
+  Value:      0
+  Data:       the hex string under "FULL deploy tx.data" in creation-bytecode.txt
+  Gas limit:  ~2,200,000 (factory + 21KB impl bytecode in constructor storage)
+
+This deploys the factory. The factory constructor:
+  - Stores the BurgersCommunityVault creation bytecode in storage
+  - Bakes in all canonical RH V4 addresses as constants:
+      poolManager  = 0x8366a39CC670B4001A1121B8F6A443A643e40951
+      positionMgr  = 0x58daec3116aae6D93017bAAea7749052E8a04fA7
+      universalRouter = 0x53BF6B0684Ec7eF91e1387Da3D1a1769bC5A6F77
+      permit2      = 0x000000000022D473030F116dDEE9F6B43aC78BA3
+      usdg         = 0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168
+      ftpVault     = 0x873739aeD7b49f005965377b5645914b1D78Ccd3
+      burgers      = 0xf796e42EA375bcD592c892FE64968Ba06188bbA3
+      weth         = 0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73
+
+Record the deployed factory address as FACTORY_ADDRESS.
+
+
+=== STEP 2: CALL createVault ===
+
+Function:   createVault(address vaultOwner, int24 tickLower, int24 tickUpper, bytes32 salt)
+
+Arguments for a standard vault (matching the existing live vaults):
+  vaultOwner:  the address that will own and manage the vault
+               (e.g. 0xE2a4A8b9d77080c57799A94BA8eDeb2Dd6e0aC10 for agent wallet)
+  tickLower:   416600   (the verified reactor BURGERS/FTP range from rh-ftp-vault-v2.json)
+  tickUpper:   424800
+  salt:        any bytes32 — e.g. keccak256(abi.encode(vaultOwner, 1)) for first vault
+
+Gas estimate: ~3,000,000 (deploys 21KB vault bytecode + wiring check)
+
+Returns: vault address (also emitted as VaultDeployed event).
+
+PREDICT ADDRESS first (optional, no gas):
+  Call predictAddress(vaultOwner, tickLower, tickUpper, salt)
+  to get the vault address before deploying.
+
+Record the new vault address as NEW_VAULT_ADDRESS.
+
+
+=== STEP 3: ACTIVATE THE VAULT ===
+
+The vault is deployed but has no position yet (positionId == 0).
+To activate it, follow the same flow as the existing vaults:
+
+3a. MINT a V4 BURGERS/FTP position NFT directly to NEW_VAULT_ADDRESS
+    (or transfer an existing position using POSM.safeTransferFrom).
+    Pool:       BURGERS/FTP  fee=10000 tickSpacing=200 hooks=0x0
+    Range:      tickLower=416600 tickUpper=424800
+    POSM:       0x58daec3116aae6D93017bAAea7749052E8a04fA7
+
+3b. Call vault.adoptPosition(tokenId)
+    - Only callable by vaultOwner.
+    - Confirms the NFT is in the right pool/range.
+    - Credits owner shares for the seed liquidity.
+    - After this call, positionId != 0 and the vault is live.
+
+3c. Verify by calling vault.getInfo(someAddress) — should not revert.
+
+Done. The vault is now open for public deposits via deposit(usdgAmount, displayName).
+
+
+=== CANONICAL POOL KEYS (for reference when minting positions) ===
+
+bfKey (BURGERS/FTP — the vault's position pool):
+  currency0:   0x873739aeD7b49f005965377b5645914b1D78Ccd3  (ftpVault)
+  currency1:   0xf796e42EA375bcD592c892FE64968Ba06188bbA3  (burgers)
+  fee:         10000
+  tickSpacing: 200
+  hooks:       0x0000000000000000000000000000000000000000
+
+bwKey (BURGERS/WETH — deep route leg 1, doppler):
+  currency0:   0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73  (weth)
+  currency1:   0xf796e42EA375bcD592c892FE64968Ba06188bbA3  (burgers)
+  fee:         8388608  (V4 DYNAMIC_FEE_FLAG)
+  tickSpacing: 200
+  hooks:       0x4e3468951D49f2EEa976eD0D6e75fFCb44a9a544
+
+wuKey (WETH/USDG — deep route leg 2, vanilla):
+  currency0:   0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73  (weth)
+  currency1:   0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168  (usdg)
+  fee:         3000
+  tickSpacing: 60
+  hooks:       0x0000000000000000000000000000000000000000
+
+
+=== FILE MANIFEST ===
+
+RHVaultFactory.sol           — factory source (self-contained, no imports)
+BurgersCommunityVault.sol    — vault impl source (for reference; bytecode embedded in factory)
+RHVaultFactory.artifact.json — compiled ABI + factory bytecode
+creation-bytecode.txt        — factory-only hex / encoded args / full deploy tx.data
+constructor-args.txt         — constructor arg detail (ABI-encoded + raw impl bytecode)
+FOR-BNKR.txt                 — this file
+
+Source addresses grounded from:
+  rh-v4-addresses.json (resolvedAt 2026-07-12)
+  rh-burgers-route.json (resolvedAt 2026-07-13)
+  rh-ftp-vault-v2.json (deployedAt 2026-07-13)
+  On-chain verification: V2 vault owner/burgers/ftpVault confirmed via RPC 2026-07-16.

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "slug": "rh-reactor-factory",
+  "provider": "Meme for Trees",
+  "providerUrl": "https://tasern.quest",
+  "logo": "logo.svg",
+  "demo": {
+    "title": "Deploy a V4 burn reactor for any token on Robinhood Chain",
+    "language": "text",
+    "code": "deploy the reactor factory on Robinhood, then stamp a reactor for $SHILLWOOD\n\n-> 1. Deploy RHReactorFactory (one-time, ~800k gas)\n   2. Call createReactor(shillwoodAddress) — emits ReactorCreated, ~3.5M gas\n   3. Call acceptAdmin() on the new reactor to take admin\n   Factory registry: reactorOf(token) -> reactor address forever"
+  },
+  "setup": [
+    "Install: `npx skills add rh-reactor-factory`",
+    "Requires the Bankr skill with an API key configured and wallet funded on Robinhood Chain (chain 4663)",
+    "Deploy the factory first using references/deploy-data.md (paste bytecode + encoded constructor args)",
+    "Save the factory address — you will need it for every createReactor call",
+    "After createReactor, call acceptAdmin() on the returned reactor address to claim admin"
+  ],
+  "install": {
+    "type": "bankr",
+    "repoPath": "rh-reactor-factory",
+    "command": "install the rh-reactor-factory skill from https://github.com/BankrBot/skills/tree/main/rh-reactor-factory"
+  }
+}

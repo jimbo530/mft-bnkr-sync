@@ -1,0 +1,139 @@
+{
+  "note": "Minimal ABIs for vault and fund creation on Base. Source: FundVaultFactory.json, MfTVaultFactory.json, ETHTVaultFactory.json, BTCTVaultFactory.json, CharityFundFactory.sol. All addresses verified on-chain 2026-07-14. Chain: Base (8453).",
+  "fundVaultFactory": {
+    "note": "createVault(address token, uint256 seedAmount, uint256 tokenAmount, uint256 maxImpactBps) — same signature across all FundVaultFactory variants. Caller must pre-approve both underlying asset and token to the factory.",
+    "abi": [
+      {
+        "type": "function",
+        "name": "createVault",
+        "stateMutability": "nonpayable",
+        "inputs": [
+          { "name": "token", "type": "address", "description": "Community/meme token to pair" },
+          { "name": "seedAmount", "type": "uint256", "description": "Underlying asset seed in raw base units (USDC 6dec, cbBTC 8dec, wETH 18dec)" },
+          { "name": "tokenAmount", "type": "uint256", "description": "Token seed in raw base units (sets initial price ratio)" },
+          { "name": "maxImpactBps", "type": "uint256", "description": "Max price impact in bps (1-1500)" }
+        ],
+        "outputs": [ { "name": "vault", "type": "address" } ]
+      },
+      {
+        "type": "function",
+        "name": "vaultCount",
+        "stateMutability": "view",
+        "inputs": [],
+        "outputs": [ { "name": "", "type": "uint256" } ]
+      },
+      {
+        "type": "function",
+        "name": "FUND",
+        "stateMutability": "view",
+        "inputs": [],
+        "outputs": [ { "name": "", "type": "address" } ]
+      },
+      {
+        "type": "function",
+        "name": "implementation",
+        "stateMutability": "view",
+        "inputs": [],
+        "outputs": [ { "name": "", "type": "address" } ]
+      },
+      {
+        "type": "event",
+        "name": "VaultCreated",
+        "inputs": [
+          { "indexed": true, "name": "vault", "type": "address" },
+          { "indexed": true, "name": "token", "type": "address" },
+          { "indexed": true, "name": "creator", "type": "address" },
+          { "indexed": false, "name": "lp", "type": "address" },
+          { "indexed": false, "name": "seedUnderlying", "type": "uint256" },
+          { "indexed": false, "name": "seedToken", "type": "uint256" },
+          { "indexed": false, "name": "seedLpBurned", "type": "uint256" }
+        ]
+      }
+    ]
+  },
+  "charityFundFactory": {
+    "note": "createFund(string name_, string symbol_, address charityWallet, uint16 charityBps). No approvals needed — pure deployment. Infrastructure (USDC, Aave, reactor, serviceBps) inherited from factory.",
+    "abi": [
+      {
+        "type": "function",
+        "name": "createFund",
+        "stateMutability": "nonpayable",
+        "inputs": [
+          { "name": "name_", "type": "string", "description": "Receipt token name (e.g. 'My Charity Token')" },
+          { "name": "symbol_", "type": "string", "description": "Receipt token symbol (e.g. 'MCT')" },
+          { "name": "charityWallet", "type": "address", "description": "Address that receives charity's USDC yield share" },
+          { "name": "charityBps", "type": "uint16", "description": "Charity share in basis points (min 1000=10%; max 9000-serviceBps)" }
+        ],
+        "outputs": [ { "name": "fund", "type": "address" } ]
+      },
+      {
+        "type": "function",
+        "name": "fundCount",
+        "stateMutability": "view",
+        "inputs": [],
+        "outputs": [ { "name": "", "type": "uint256" } ]
+      },
+      {
+        "type": "function",
+        "name": "isFund",
+        "stateMutability": "view",
+        "inputs": [ { "name": "", "type": "address" } ],
+        "outputs": [ { "name": "", "type": "bool" } ]
+      },
+      {
+        "type": "function",
+        "name": "implementation",
+        "stateMutability": "view",
+        "inputs": [],
+        "outputs": [ { "name": "", "type": "address" } ]
+      },
+      {
+        "type": "function",
+        "name": "serviceBps",
+        "stateMutability": "view",
+        "inputs": [],
+        "outputs": [ { "name": "", "type": "uint16" } ]
+      },
+      {
+        "type": "function",
+        "name": "usdc",
+        "stateMutability": "view",
+        "inputs": [],
+        "outputs": [ { "name": "", "type": "address" } ]
+      },
+      {
+        "type": "function",
+        "name": "reactor",
+        "stateMutability": "view",
+        "inputs": [],
+        "outputs": [ { "name": "", "type": "address" } ]
+      },
+      {
+        "type": "event",
+        "name": "FundCreated",
+        "inputs": [
+          { "indexed": true, "name": "fund", "type": "address" },
+          { "indexed": true, "name": "charityWallet", "type": "address" },
+          { "indexed": false, "name": "name", "type": "string" },
+          { "indexed": false, "name": "symbol", "type": "string" },
+          { "indexed": false, "name": "charityBps", "type": "uint16" },
+          { "indexed": false, "name": "serviceBps", "type": "uint16" }
+        ]
+      }
+    ]
+  },
+  "erc20_approve": [
+    {
+      "type": "function",
+      "name": "approve",
+      "stateMutability": "nonpayable",
+      "inputs": [ { "name": "spender", "type": "address" }, { "name": "amount", "type": "uint256" } ],
+      "outputs": [ { "name": "", "type": "bool" } ]
+    }
+  ],
+  "selectors": {
+    "createVault(address,uint256,uint256,uint256)": "0x0eabcca1",
+    "createFund(string,string,address,uint16)": "0x5c275a39",
+    "approve(address,uint256)": "0x095ea7b3"
+  }
+}

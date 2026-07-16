@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "slug": "base-charity-deposit",
+  "provider": "Meme for Trees",
+  "providerUrl": "https://tasern.quest",
+  "logo": "logo.svg",
+  "demo": {
+    "title": "Deposit into any Base charity fund",
+    "language": "bash",
+    "code": "# Deposit $25 USDC into Money for Trees — receive 25 Money (1:1 receipt)\n./scripts/deposit.sh money 25\n\n# Deposit into carbon-retirement fund (CHAR-R)\n./scripts/deposit.sh char-r 50\n\n# Deposit cbBTC into BTC for Trees\n./scripts/deposit.sh btc-t 0.001\n\n# Or ask Bankr directly:\n#   deposit $25 into Money for Trees\n#   put $50 into CHAR-R\n#   deposit 0.001 cbBTC into BTC for Trees"
+  },
+  "setup": [
+    "Install: `npx skills add base-charity-deposit`",
+    "Requires the Bankr skill with an API key configured",
+    "Fund your Bankr wallet with the relevant deposit asset on Base (USDC for Money/CHAR-R/CCC-R/PRGT; cbBTC for BTC-T; wETH for ETH-T)",
+    "Enable arbitrary contract calls (Bankr Security -> keep 'Disable arbitrary contract calls' OFF)",
+    "Deposit: `./scripts/deposit.sh <vault-key> <amount>`"
+  ],
+  "install": {
+    "type": "bankr",
+    "repoPath": "base-charity-deposit",
+    "command": "install the base-charity-deposit skill from https://github.com/BankrBot/skills/tree/main/base-charity-deposit"
+  }
+}

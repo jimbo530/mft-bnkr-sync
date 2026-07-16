@@ -1,0 +1,21 @@
+Constructor: (address prizeToken, address admin)
+
+prizeToken = USDG on Robinhood chain (chain 4663)
+USDG address: 0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168
+  (source: C:/Users/bigji/Documents/mftusd-build/rh-v4-addresses.json .tokens.usdg)
+
+admin = agent wallet
+Admin address: 0xE2a4A8b9d77080c57799A94BA8eDeb2Dd6e0aC10
+
+--- ABI-encoded constructor args (append to bytecode for deployment) ---
+(no 0x prefix)
+0000000000000000000000005fc5360d0400a0fd4f2af552add042d716f1d168000000000000000000000000e2a4a8b9d77080c57799a94ba8edeb2dd6e0ac10
+
+--- With 0x prefix ---
+0x0000000000000000000000005fc5360d0400a0fd4f2af552add042d716f1d168000000000000000000000000e2a4a8b9d77080c57799a94ba8edeb2dd6e0ac10
+
+--- Breakdown ---
+arg1 (prizeToken/USDG, padded to 32 bytes):
+  0000000000000000000000005fc5360d0400a0fd4f2af552add042d716f1d168
+arg2 (admin/agent, padded to 32 bytes):
+  000000000000000000000000e2a4a8b9d77080c57799a94ba8edeb2dd6e0ac10

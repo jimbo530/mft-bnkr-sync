@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "slug": "rh-tasern-bridge",
+  "provider": "Meme for Trees",
+  "providerUrl": "https://tasern.quest",
+  "logo": "logo.svg",
+  "demo": {
+    "title": "Deploy the Tasern token bridge on Robinhood Chain and bridge a nation token",
+    "language": "text",
+    "code": "deploy the bridge on Robinhood, add a twin for DDD, then bridge 100 DDD from Polygon\n\n-> 1. Deploy TasernBridgeBase (no constructor args, ~6.1KB)\n   2. Call setRelayer(relayerAddress) — relayer watches both chains\n   3. Call deployTwin(polygonDDD, name, symbol, decimals, cap) — emits TwinDeployed\n   4. Relayer calls mintFromPolygon(nonce, polygonDDD, recipient, amount) when Locked fires on Polygon\n   5. User calls bridgeToPolygon(twin, amount, polygonRecipient) to bridge back"
+  },
+  "setup": [
+    "Install: `npx skills add rh-tasern-bridge`",
+    "Requires the Bankr skill with an API key configured and wallet funded on Robinhood Chain (chain 4663)",
+    "Deploy TasernBridgeBase using references/deploy-data.md — no constructor args, owner = deployer",
+    "Call setRelayer() with the relayer wallet address that watches Polygon for Locked events",
+    "Call deployTwin() once per token before any bridging — read name/symbol/decimals/cap from the Polygon original"
+  ],
+  "install": {
+    "type": "bankr",
+    "repoPath": "rh-tasern-bridge",
+    "command": "install the rh-tasern-bridge skill from https://github.com/BankrBot/skills/tree/main/rh-tasern-bridge"
+  }
+}

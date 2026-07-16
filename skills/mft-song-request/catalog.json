@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "slug": "mft-song-request",
+  "provider": "Meme for Trees",
+  "providerUrl": "https://tasern.quest",
+  "logo": "logo.svg",
+  "demo": {
+    "title": "Play a song on X",
+    "language": "text",
+    "code": "post a song from EBM\n\n-> looks up EBM in songs-catalog.json, picks a song,\n   replies to the requester with the video URL and the\n   correct caption: title + $EBM + CA."
+  },
+  "setup": [
+    "Install: `npx skills add mft-song-request`",
+    "No on-chain transactions required — this skill only posts to X",
+    "Bankr must have X posting permissions configured",
+    "Trigger: a user on X asks for a song from a Meme for Trees band"
+  ],
+  "install": {
+    "type": "bankr",
+    "repoPath": "mft-song-request",
+    "command": "install the mft-song-request skill from https://github.com/BankrBot/skills/tree/main/mft-song-request"
+  }
+}

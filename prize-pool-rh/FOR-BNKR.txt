@@ -1,0 +1,40 @@
+FOR-BNKR.txt — PrizePool deployment on Robinhood chain (chainId 4663)
+================================================================
+
+WHAT: Deploy PrizePool.sol so BNKR/Fable-5 earns the deployment points.
+NO AMM DEPENDENCY — pure prize/achievement vault, no Uniswap/V4 needed.
+
+--- NETWORK ---
+Chain: Robinhood (chainId 4663)
+RPC:   https://rpc.mainnet.chain.robinhood.com
+
+--- CONTRACT ---
+Contract: PrizePool
+Source:   PrizePool.sol (in this folder)
+Compiler: solc 0.8.35+commit.47b9dedd, viaIR:true, optimizer 200 runs, evmVersion paris
+
+--- CONSTRUCTOR ARGS ---
+arg1 prizeToken (USDG): 0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168
+  Source: rh-v4-addresses.json .tokens.usdg
+arg2 admin (agent wallet): 0xE2a4A8b9d77080c57799A94BA8eDeb2Dd6e0aC10
+
+--- DEPLOY STEPS ---
+1. Switch wallet/signer to chain 4663 (Robinhood mainnet).
+2. In BNKR deploy UI: paste the contents of creation-bytecode.txt as the bytecode.
+3. Append the ABI-encoded constructor args from constructor-args.txt (the long hex at the bottom, no 0x).
+   Full deploy payload = bytecode + constructor-args (concatenated, no separator).
+4. Send the deploy transaction. The deploying wallet does NOT need to be the admin.
+5. Confirm tx on chain 4663 and record the deployed contract address.
+6. Pass that address back to the MfT team for the achievement registry.
+
+--- WHAT THIS CONTRACT DOES (no-fluff summary) ---
+PrizePool holds USDG and pays it out for configurable achievements.
+Admin can add achievements and attest eligibility — but CANNOT withdraw.
+The ONLY way USDG leaves is via claim(), which pays the NFT owner.
+Add-only, no-rug by design (mirrors the Base add-only reactor rule).
+
+--- FILES IN THIS PACKAGE ---
+PrizePool.sol           — verified source (from mftusd-build, not fabricated)
+creation-bytecode.txt   — compilation output, solc 0.8.35+commit.47b9dedd
+constructor-args.txt    — ABI-encoded args + breakdown
+FOR-BNKR.txt            — this file

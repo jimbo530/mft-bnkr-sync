@@ -1,0 +1,31 @@
+{
+  "note": "Minimal ABIs for the Meme for Trees charity-fund deposit flow on Base. Source: CharityFund.sol (EIP-1167 clones via CharityFundFactory 0x955383723E8A1AD82800406D6f492260918DF882). All amounts are in the deposit asset's base units (6 dec for USDC, 8 dec for cbBTC, 18 dec for wETH). Verified on-chain 2026-07-14.",
+  "depositAsset_ERC20": [
+    { "type": "function", "name": "approve", "stateMutability": "nonpayable", "inputs": [ { "name": "spender", "type": "address" }, { "name": "amount", "type": "uint256" } ], "outputs": [ { "name": "", "type": "bool" } ] },
+    { "type": "function", "name": "allowance", "stateMutability": "view", "inputs": [ { "name": "owner", "type": "address" }, { "name": "spender", "type": "address" } ], "outputs": [ { "name": "", "type": "uint256" } ] },
+    { "type": "function", "name": "balanceOf", "stateMutability": "view", "inputs": [ { "name": "account", "type": "address" } ], "outputs": [ { "name": "", "type": "uint256" } ] }
+  ],
+  "charityFund": [
+    { "type": "function", "name": "deposit", "stateMutability": "nonpayable", "inputs": [ { "name": "amount", "type": "uint256" } ], "outputs": [] },
+    { "type": "function", "name": "depositFor", "stateMutability": "nonpayable", "inputs": [ { "name": "to", "type": "address" }, { "name": "amount", "type": "uint256" } ], "outputs": [] },
+    { "type": "function", "name": "redeem", "stateMutability": "nonpayable", "inputs": [ { "name": "amount", "type": "uint256" } ], "outputs": [] },
+    { "type": "function", "name": "balanceOf", "stateMutability": "view", "inputs": [ { "name": "account", "type": "address" } ], "outputs": [ { "name": "", "type": "uint256" } ] },
+    { "type": "function", "name": "decimals", "stateMutability": "pure", "inputs": [], "outputs": [ { "name": "", "type": "uint8" } ] },
+    { "type": "function", "name": "totalSupply", "stateMutability": "view", "inputs": [], "outputs": [ { "name": "", "type": "uint256" } ] },
+    { "type": "function", "name": "pendingYield", "stateMutability": "view", "inputs": [], "outputs": [ { "name": "", "type": "uint256" } ] },
+    { "type": "function", "name": "totalBacking", "stateMutability": "view", "inputs": [], "outputs": [ { "name": "", "type": "uint256" } ] },
+    { "type": "function", "name": "charityWallet", "stateMutability": "view", "inputs": [], "outputs": [ { "name": "", "type": "address" } ] },
+    { "type": "function", "name": "charityBps", "stateMutability": "view", "inputs": [], "outputs": [ { "name": "", "type": "uint16" } ] },
+    { "type": "function", "name": "serviceBps", "stateMutability": "view", "inputs": [], "outputs": [ { "name": "", "type": "uint16" } ] },
+    { "type": "function", "name": "holderBps", "stateMutability": "view", "inputs": [], "outputs": [ { "name": "", "type": "uint16" } ] },
+    { "type": "function", "name": "harvest", "stateMutability": "nonpayable", "inputs": [], "outputs": [] }
+  ],
+  "selectors": {
+    "approve(address,uint256)": "0x095ea7b3",
+    "deposit(uint256)": "0xb6b55f25",
+    "depositFor(address,uint256)": "0x2f4f21e2",
+    "redeem(uint256)": "0xdb006a75",
+    "balanceOf(address)": "0x70a08231",
+    "harvest()": "0x4641257d"
+  }
+}

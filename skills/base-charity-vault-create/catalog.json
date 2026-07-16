@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "slug": "base-charity-vault-create",
+  "provider": "Meme for Trees",
+  "providerUrl": "https://tasern.quest",
+  "logo": "logo.svg",
+  "demo": {
+    "title": "Seed a new community LP vault",
+    "language": "bash",
+    "code": "# Create a Money-paired community vault for a new token (USDC-backed)\n./scripts/create-vault.sh mft-vault 0xYourToken 20 1000000 500\n#   mft-vault   = factory key (MfTVaultFactory, pairs with Money/mftUSD)\n#   0xYourToken = the token to pair\n#   20          = USDC seed amount ($20 min)\n#   1000000     = token amount to seed (sets initial price)\n#   500         = max price impact in bps (5%)\n\n# Create a new CharityFund clone (your own charity fund)\n./scripts/create-fund.sh MyCharity MYC 0xCharityWalletAddress 3334"
+  },
+  "setup": [
+    "Install: `npx skills add base-charity-vault-create`",
+    "Requires the Bankr skill with an API key configured",
+    "Fund your Bankr wallet with the required seed assets on Base (USDC, cbBTC, or wETH)",
+    "Enable arbitrary contract calls (Bankr Security -> keep 'Disable arbitrary contract calls' OFF)",
+    "Create vault: `./scripts/create-vault.sh <factory-key> <token> <seedAmount> <tokenAmount> <maxImpactBps>`",
+    "Create fund: `./scripts/create-fund.sh <name> <symbol> <charityWallet> <charityBps>`"
+  ],
+  "install": {
+    "type": "bankr",
+    "repoPath": "base-charity-vault-create",
+    "command": "install the base-charity-vault-create skill from https://github.com/BankrBot/skills/tree/main/base-charity-vault-create"
+  }
+}
