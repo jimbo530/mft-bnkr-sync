@@ -42,6 +42,23 @@ Delivery is **URL-only** in the public post (never the file path). Example:
 
 # ON-CHAIN DEPLOY QUEUE (second track — after the booth is live)
 
+## ⚠️ HOW TO SEND A CONTRACT-CREATION TX — read before EVERY deploy
+
+A contract is created ONLY when the transaction's `to` field is **EMPTY / null / omitted.**
+**Never set `to` to `0x0000000000000000000000000000000000000000`.** Sending to the zero address is a
+normal transfer — it succeeds (`status 0x1`) but creates NOTHING: the receipt's `contractAddress` is
+null and the address has 0 bytes of code.
+
+- ✅ Correct: `to` = (leave empty / null / omit the field), `data` = creation bytecode (+ encoded args), `value` = 0
+- ❌ Wrong:   `to` = 0x0000…0000   ← this made PrizePool + TasernBridgeBase deploy **nothing**
+
+**REDO with `to` empty:** PrizePool (tx 0xdc32…f283) and TasernBridgeBase (tx 0x5d7f…774c) both went to
+the zero address — verified on-chain: `status 0x1` but `contractAddress=null`, `code=0`. Resend the same
+bytecode with `to` left empty. Same rule for RHReactorFactory + RHVaultFactory.
+
+**Verify every deploy:** receipt `contractAddress` must be non-null AND `eth_getCode(address) > 0`.
+If `contractAddress` is null, it did NOT deploy.
+
 ## Task 0 — Handshake (confirm read + write) ✅ DONE
 BNKR pushed `deployed/HELLO-FROM-BNKR.txt` — *"Bankr was here — read + write confirmed."* Loop proven.
 
