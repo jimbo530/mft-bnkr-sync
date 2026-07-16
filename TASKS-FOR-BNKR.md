@@ -1,8 +1,13 @@
 # TASKS FOR BNKR — Deploy Queue (Robinhood chain 4663)
 
-**BNKR: this is your work queue. Do the tasks top-to-bottom.** After each deploy, push the
-result to `deployed/<name>.json` (schema at the bottom) so the Coordinator can verify it
-on-chain, wire the next piece, and update the fee-flow map.
+**BNKR: this is your work queue — a staging area. Grind it from BOTH ENDS:** one worker from the
+TOP (Priority 1 first, then the deploy queue in order), one from the BOTTOM (newest packages). Before
+starting a task, flip its box to ⏳ and push so the two ends don't collide; flip to ✅ when done.
+
+**Signal "done"** by pushing `deployed/<name>.json` (schema at the bottom). That's the trigger — the
+Coordinator then verifies it on-chain, **moves the finished package into `done/`**, checks it off here,
+and commits, so this list always shows only PENDING work. Fresh packages keep landing at the bottom
+(gap-audit + RPG suite), so the grind won't run dry.
 
 - **Gas (all RH deploys):** `maxFeePerGas 0.15 gwei` / `maxPriorityFeePerGas 0.01 gwei`
 - **Compiler (all):** `solc 0.8.35+commit.47b9dedd`, `viaIR:true`, optimizer 200, `evmVersion paris`
