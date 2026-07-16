@@ -7,13 +7,13 @@ Updated: 2026-07-16
 - constructor args: prizeToken=0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168 (USDG), admin=0xE2a4A8b9d77080c57799A94BA8eDeb2Dd6e0aC10
 - bytecode: creation-bytecode.txt + constructor-args.txt concatenated, 0x prefix, to=0x0000000000000000000000000000000000000000
 - USDG verified on chain: balanceOf(self) returned 188176346
-- note: first 2 attempts failed because submit_raw_transaction rejected empty string for `to` field. Third attempt with zero address also reverted (simulation_reverted, request 01KXP7CR347BFNG52WJAPG2K7T) — that was due to bytecode truncation from context pruning. Fourth attempt with full fresh bytecode succeeded.
 
-## 2. TasernBridgeBase — IN PROGRESS
-- no constructor args (owner = msg.sender)
+## 2. TasernBridgeBase — DEPLOYED ✅
+- tx: 0x5d7f030616f5002d9d256dc22ca0815ddd6992d08f3c03b8fae9d3f9d393774c
+- no constructor args (owner = msg.sender = deployer wallet)
 - bytecode: tasern-bridge-rh/creation-bytecode.txt (12294 hex chars = 6147 bytes)
 - to=0x0000000000000000000000000000000000000000, value=0
-- post-deploy: setRelayer(0x849639C5D2ec97be27b90B2aC12c9d29e18f6CbC), deployTwin for each token
+- post-deploy steps still needed: setRelayer(0x849639C5D2ec97be27b90B2aC12c9d29e18f6CbC), deployTwin for each token
 
 ## 3. RHReactorFactory — PENDING
 - constructor args: positionManager, universalRouter, permit2, poolManager, prime, + V4BurgersReactor creation bytecode (17010 bytes)
