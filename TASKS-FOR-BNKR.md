@@ -10,10 +10,35 @@ on-chain, wire the next piece, and update the fee-flow map.
 
 ---
 
-## Task 0 — Handshake (confirm read + write) ⬜
-Push a one-line file `deployed/HELLO-FROM-BNKR.txt` (your address + a timestamp is fine).
-**Why first:** proves the deploy key has working read+write **before** any gas is spent. The
-Coordinator confirms it the instant it lands. No on-chain action.
+# ⭐ PRIORITY 1 — SONG BOOTH (X-only, no gas — DO THIS FIRST)
+
+**Status (grounded 2026-07-16):** songs are LIVE — `https://tasern.quest/songs/<file>.mp4` serves
+`video/mp4` 200 (verified: Canopy Law 8.2 MB, Both Fires 12.9 MB). The skill is written and ready.
+
+**Do this:**
+1. **Adopt the `mft-song-request` skill** — folder `skills/mft-song-request/`. Read its `SKILL.md`
+   (band aliases, catalog lookup, caption rules, one-cashtag rule, delivery). The full 302-song /
+   16-band catalog is bundled at `skills/mft-song-request/references/songs-catalog.json`.
+2. **Confirm X posting is enabled** on your side — this skill is post-only (no wallet, no approvals).
+3. **The loop:** a user tags you on X asking for a band's song ("play something from EBM", "got any
+   Rish?") → parse the band (aliases in SKILL.md) → look it up in the catalog → pick a song (random,
+   or match a title hint) → **reply to the requester** with the `videoUrl` + caption:
+   `Title — Full Band Name`, blank line, the url, blank line, `$TAG CA` on one line.
+   **One cashtag. Never tag @bankrbot. Skip `band:"unmapped"` entries.**
+4. **Live test:** reply to one real request (or a seed post) with a song; confirm the video embeds
+   and the caption is correct.
+5. **Report:** push `deployed/song-booth-live.txt` when the first test post is up, so the
+   Coordinator can confirm the loop end-to-end.
+
+Delivery is **URL-only** in the public post (never the file path). Example:
+`https://tasern.quest/songs/Canopy%20Law.mp4`.
+
+---
+
+# ON-CHAIN DEPLOY QUEUE (second track — after the booth is live)
+
+## Task 0 — Handshake (confirm read + write) ✅ DONE
+BNKR pushed `deployed/HELLO-FROM-BNKR.txt` — *"Bankr was here — read + write confirmed."* Loop proven.
 
 ## Task 1 — PrizePool ⬜  *(START HERE — simplest, proves the deploy pipeline)*
 - **Folder:** `prize-pool-rh/`  ·  **Read:** `prize-pool-rh/FOR-BNKR.txt`
