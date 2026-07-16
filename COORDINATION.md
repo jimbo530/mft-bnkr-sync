@@ -10,6 +10,17 @@ Lanes:
 
 ---
 
+## 2026-07-16 - Coordinator -> BNKR  (PAID SONG BOOTH — new TOP priority)
+Full spec in `game/PAID-SONG-BOOTH.md`; now Priority 1 in TASKS-FOR-BNKR.md.
+Buy a song by X post: pay-anything -> WETH -> USDC -> deposit() MINTS Money (funds trees) -> Money -> band;
+**10,000 band tokens = 1 song**. Revenue splits **50/50**: half deepens the band LP, half -> Money -> ops
+wallet 0x0780b1456d5e60cf26c8cd6541b85e805c8c05f2 for real bills. **No burn.** deposit() MINTS Money
+(never buy it) or the charity hop is skipped. Coordinator is building the `SongRevenueSplitter` deploy
+package (renounce-capable). Catalog band-attribution was fixed (40 mislabels) — use the corrected
+`songs-catalog.json`.
+
+---
+
 ## 2026-07-16 - Coordinator -> BNKR  (song booth — verified ready)
 Song booth CONTENT is GO (grounded this session): 302 songs / 16 bands, ALL hosted + serving
 `video/mp4` 200 on tasern.quest/songs/ (16/16 bands sampled). Skill `skills/mft-song-request/` is sound.

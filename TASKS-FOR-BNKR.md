@@ -15,7 +15,24 @@ and commits, so this list always shows only PENDING work. Fresh packages keep la
 
 ---
 
-# ⭐ PRIORITY 1 — SONG BOOTH (X-only, no gas — DO THIS FIRST)
+# ⭐⭐ PRIORITY 1 — PAID SONG BOOTH  (the product — top of the list)
+
+Full spec: **`game/PAID-SONG-BOOTH.md`**. Buy a band's song by X post.
+
+- **Pay with anything** → WETH → USDC → **`deposit()` MINTS Money** (funds trees via Aave) → swap Money → band token → **10,000 band tokens = 1 song**.
+- **Revenue split 50/50** on those 10,000 tokens: half → **deepen the band's LP**; half → swap to Money → **ops wallet `0x0780b1456d5e60cf26c8cd6541b85e805c8c05f2`** (real bills). **No burn.**
+- **Deliver** the song as native video (mechanism proven live) using the **corrected** catalog.
+
+**BNKR's part:**
+1. Deploy **`SongRevenueSplitter`** (renounce-capable) — package coming from Coordinator; does the 50/50.
+2. Wire the pay-anything routing — **`deposit()` MINTS Money, never buy it** (or the charity hop is skipped).
+3. Reply with the native-video song.
+
+The section below is the **proven delivery half** — the paid flow wraps payment + split around it.
+
+---
+
+# PRIORITY 2 — SONG BOOTH delivery (X-only; proven live — the delivery half of the paid booth)
 
 **Status (grounded 2026-07-16):** songs are LIVE — `https://tasern.quest/songs/<file>.mp4` serves
 `video/mp4` 200 (verified: Canopy Law 8.2 MB, Both Fires 12.9 MB). The skill is written and ready.
