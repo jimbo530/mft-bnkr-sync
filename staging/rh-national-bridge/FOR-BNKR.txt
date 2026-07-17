@@ -1,0 +1,143 @@
+FOR BNKR — RH NATIONAL BRIDGE (7 Tasern nation tokens onto Robinhood Chain)
+===========================================================================
+
+WHAT: The Base <-> Robinhood lane of the Tasern twin bridge, a 1:1 port of the
+LIVE machinery that already runs twice (POL<->Base nation bridge, Base<->RH MfT
+lane). TWO deploys: a lock vault on BASE and a mint bridge on ROBINHOOD. Users
+lock a nation token's Base twin in the vault; the relayer mints an RH twin;
+burning the RH twin releases the Base twin. Full flow + design rationale: PATH.md.
+
+SUPERSEDES: tasern-bridge-rh/ (Task 2). That package's relayer note pointed at
+the POLYGON vault 0xBB62...016f — but every Locked event there is ALREADY
+consumed 1:1 by the live Base lane; a second consumer minting on RH from the
+same events would double-mint. This lane locks on BASE instead, exactly like
+the live MfT->RH lane. Coordinator promotes this package into the queue.
+
+CREATION TX RULE (both deploys): `to` MUST be EMPTY / null / omitted —
+NEVER 0x0000...0000. Verify after each: receipt.contractAddress non-null
+AND eth_getCode(address) > 0.
+
+COMPILER (both): solc 0.8.35+commit.47b9dedd, viaIR:true, optimizer 200 runs,
+evmVersion paris. Source: TasernBridgeRH.sol (this folder, self-contained, no
+imports). Compile script: mftusd-build/compile-rh-national-bridge.cjs.
+
+CONSTRUCTOR ARGS: NONE for either contract (owner = deployer). Deploy tx data
+= the creation bytecode file alone. See constructor-args.txt.
+
+GAS: creation bytecodes are 2,661 bytes (vault) and 6,147 bytes (bridge) —
+each deploy is well under 2M gas. Biggest post-deploy op = deployTwin (~1M,
+deploys one BridgedToken). NOTHING here approaches the ~16.5M Base/RH per-tx
+gas cap — no staged/router pattern needed for this package.
+RH gas: maxFeePerGas 0.15 gwei / maxPriorityFeePerGas 0.01 gwei (queue rule).
+
+
+DEPLOY A — lock vault on BASE
+------------------------------
+CHAIN:    Base mainnet (8453)
+CONTRACT: TasernBridgePolygon   (name kept 1:1 from the live source; its role
+          here is "lock side on the source chain" — the live MfT lane deployed
+          this exact contract on Base at 0xD79360396ECa0c9A1Db6BC486fa80Db6449a93Cb)
+BYTECODE: creation-bytecode-TasernBridgePolygon-BASE.txt
+ABI:      TasernBridgePolygon-abi.json
+Record the address — called BASE_VAULT below.
+
+DEPLOY B — mint bridge on ROBINHOOD
+------------------------------------
+CHAIN:    Robinhood (4663), RPC https://rpc.mainnet.chain.robinhood.com
+CONTRACT: TasernBridgeBase   (same contract the live MfT lane runs on RH at
+          0xa819b6D99135222f604047A3304ba53424D4779d)
+BYTECODE: creation-bytecode-TasernBridgeBase-RH.txt
+ABI:      TasernBridgeBase-abi.json
+Record the address — called RH_BRIDGE below.
+
+
+POST-DEPLOY WIRING (owner-only; you are owner until the final handoff)
+----------------------------------------------------------------------
+STEP 1 — BASE_VAULT.setRelayer(0x849639C5D2ec97be27b90B2aC12c9d29e18f6CbC)
+  Same relayer wallet as both live lanes (verified on-chain 2026-07-16 on
+  0xD79360... and 0xa819b6...).
+
+STEP 2 — BASE_VAULT.addToken(token) — one call per nation, 7 calls.
+  These are the nation tokens' BASE twins (the tokens users actually hold on
+  Base). Add-only allowlist.
+
+STEP 3 — RH_BRIDGE.setRelayer(0x849639C5D2ec97be27b90B2aC12c9d29e18f6CbC)
+
+STEP 4 — RH_BRIDGE.deployTwin(polygonToken, name, symbol, decimals, cap)
+  — one call per nation, 7 calls. `polygonToken` = the BASE twin address (the
+  source-chain token for THIS lane; param name is historical). name / symbol /
+  decimals / cap MUST mirror the Base twin — read them off the Base twin
+  contract (name(), symbol(), decimals(), cap()) before each call; do not guess.
+
+  GROUNDED TABLE — read live from Base RPC 2026-07-16 (re-verify before calling):
+
+  tag  polygonToken (= BASE twin)                   name                       symbol  dec  cap
+  DDD  0x87CD3a19a30b7f714dd0D6020dAb8e9EBE4fe8C4   Durgan Dynasty Doubloon    DDD     18   100000000000000000000000000
+  OGC  0xa294dF3BB33197a579756Fc530c0504b2a75aF32   Orklin Gold Coin           OGC     18   100000000000000000000000000
+  PKT  0x9157359C9a1CDbAD85414069DDc29a63C55cfEc4   Pirate Kings Treasure      PKT     18   100000000000000000000000000
+  BTN  0xe11C804CD5eF617302c18c946370fE245DC43c5C   Button                     BTN     8    10000000000000000
+  IGS  0xea320718a64854f0547A1213A3043678ea5755bB   Igypt Gold Sovereign       IGS     8    10000000000000000
+  DHG  0x25cFE0a4dC89c6D1Ad3984D30B6F8365bCb4a75C   Dragon Hoard Gold          DHG     8    10000000000000000
+  LGP  0x72b92244E8eE724F12bcC02B3CE158121e0E3666   Luminosity Gold Piece      LGP     18   100000000000000000000000000
+
+  (caps = 100M in native units: 100M * 1e18 for 18-dec, 100M * 1e8 for 8-dec.
+   All 7 verified: bridge() on each twin = 0x492Ae01aad197D77ebB817597d8Fa096122040F8,
+   the live POL<->Base vault — these are the genuine twins.)
+
+  Each call emits TwinDeployed(polygonToken, twin, symbol). SAVE every twin
+  address — those are the RH ERC20s users will hold.
+
+STEP 5 — pause until the relayer lane is live:
+  BASE_VAULT.setPaused(true) and RH_BRIDGE.setPaused(true).
+  The Coordinator wires the VPS relayer for this lane (NOT your job), runs the
+  canary round-trip, then unpauses. This prevents anyone locking tokens into a
+  vault whose relayer isn't watching yet.
+
+STEP 6 — LAST: hand ownership to the agent wallet on BOTH contracts:
+  BASE_VAULT.setOwner(0xE2a4A8b9d77080c57799A94BA8eDeb2Dd6e0aC10)
+  RH_BRIDGE.setOwner(0xE2a4A8b9d77080c57799A94BA8eDeb2Dd6e0aC10)
+  This matches the live lane governance (verified on-chain: both live lane
+  contracts are owner=0xE2a4...). Must be LAST — steps 2/4/5 are onlyOwner.
+
+DO NOT call renounceAdminWithdraw() on BASE_VAULT. Build withdrawable,
+renounce at SHIP — the Coordinator signals ship-time (queue-wide renounce
+rule). It is ONE-WAY: once called, adminWithdraw is disabled forever.
+
+DO NOT seed/lock any token value. The Coordinator runs the canary after the
+relayer is up.
+
+
+REPORT
+------
+Push deployed/rh-national-bridge.json:
+{
+  "contract": "TasernBridgePolygon(BASE) + TasernBridgeBase(RH)",
+  "baseVault":  { "chainId": 8453, "address": "0x...", "txHash": "0x..." },
+  "rhBridge":   { "chainId": 4663, "address": "0x...", "txHash": "0x..." },
+  "relayerSet": "0x849639C5D2ec97be27b90B2aC12c9d29e18f6CbC",
+  "twins": { "DDD": "0x...", "OGC": "0x...", "PKT": "0x...", "BTN": "0x...",
+             "IGS": "0x...", "DHG": "0x...", "LGP": "0x..." },
+  "ownerHandoff": "0xE2a4A8b9d77080c57799A94BA8eDeb2Dd6e0aC10",
+  "paused": true,
+  "deployedAt": "...", "deployer": "0x...", "notes": ""
+}
+
+
+SCOPE NOTES (do not "fix" these)
+--------------------------------
+- 7 nations only: DDD, OGC, PKT, BTN, IGS, DHG, LGP.
+- PR25 is NOT a nation (1 token per kid Polyraiders helped in 2025) — it can
+  be added later via addToken + deployTwin (add-only), founder's call.
+- EGP is the 8th nation but is ChainPort-bridged — NOT on this bridge, ever.
+- MfT already has its own live Base->RH lane (0xD79360... -> 0xa819b6...) —
+  do NOT add MfT to this one.
+
+FILES IN THIS PACKAGE
+---------------------
+TasernBridgeRH.sol                              — source, 1:1 port (one flagged rename, see header)
+creation-bytecode-TasernBridgePolygon-BASE.txt  — lock vault, deploy on Base 8453
+creation-bytecode-TasernBridgeBase-RH.txt       — mint bridge, deploy on RH 4663
+TasernBridgePolygon-abi.json / TasernBridgeBase-abi.json / BridgedToken-abi.json
+constructor-args.txt                            — EMPTY (both)
+PATH.md                                         — full POL/Base -> RH flow + invariants
+FOR-BNKR.txt                                    — this file

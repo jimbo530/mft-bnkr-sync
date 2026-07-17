@@ -1,0 +1,13 @@
+EMPTY — no constructor arguments for EITHER contract.
+
+Grounded in source (TasernBridgeRH.sol):
+  TasernBridgePolygon constructor:  constructor() { owner = msg.sender; }
+  TasernBridgeBase constructor:     constructor() { owner = msg.sender; }
+
+No parameters. ABI-encoded constructor args = (nothing to append to either
+creation bytecode). The deploy tx data is the creation bytecode alone.
+
+Owner of each contract = the deploying wallet. Ownership is handed to the
+agent wallet 0xE2a4A8b9d77080c57799A94BA8eDeb2Dd6e0aC10 as the LAST wiring
+step (see FOR-BNKR.txt) — after addToken / deployTwin, because those are
+onlyOwner.
