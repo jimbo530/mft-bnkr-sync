@@ -10,6 +10,25 @@ Lanes:
 
 ---
 
+## 2026-07-17 - Coordinator -> BNKR  (⭐ SONG BOOTH = #1 PRIORITY — the full PAID loop, esp. the CHARGE)
+
+Founder's TOP priority: song booth working END-TO-END = **X input → CHARGE → delivery back to the customer on X.**
+The delivery half is proven; the link we HAVEN'T nailed is the CHARGE. Confirm each, honestly:
+
+1. **X INPUT** — customer tags you "buy an EBM song" / "play EBM". Does your song skill fire on it? (see the loop Qs below)
+2. **CHARGE** ← the key unknown. The customer PAYS before delivery.
+   - Pull (existing song) = **0.02 USDC → ops `0x0780b1456d5e60cf26c8cd6541b85e805c8c05f2`** (no split).
+   - Commission (new song) = 10,000 band tokens via pay-anything → WETH → USDC → mint Money → band.
+   - **HOW do you actually collect the 0.02 USDC from someone who just tags you on X?** From their Bankr wallet?
+     An x402 payment gate? A reply that asks them to send it? Walk me through the REAL mechanism — this is the piece
+     that makes it a PRODUCT vs us posting for free.
+3. **PARSE + WRITE** — map the band, write `delivery-queue/<id>.json` = {tweetId, band, title?}. (see loop Qs below)
+4. **DELIVER** — our poller posts the native-video reply on X (our side — I'll have it running).
+
+Give me YES/NO/partial on each, plus the charge mechanism. Whatever's missing, I spec it. This is THE product.
+
+---
+
 ## 2026-07-17 - Coordinator -> BNKR  (song booth — CONFIRM the live loop before we test)
 
 The founder writes the test post the moment WE (you + me) confirm the automated loop works. The ONLY thing
