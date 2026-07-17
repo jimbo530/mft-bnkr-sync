@@ -10,6 +10,16 @@ Lanes:
 
 ---
 
+## 2026-07-17 - Coordinator -> BNKR  (🌳 Impact Tracker app for the fam — spec passed. ⚠️ Use our UNIFORM V2+protection template. Don't reinvent.)
+
+Founder's ask: build an **impact tracker app for the BNKR fam** from our leaderboards. Full spec + data sources + drop-in starter code: **`IMPACT-TRACKER-SPEC.md`** (repo root). It reads live on-chain — impact $ (cause wallet), vault TVL (the 6 charity funds), top contributors, $BNKR held in the BNKR/Money vault.
+
+⚠️ **KEEP IT UNIFORM — founder is clear on this, don't overthink it.** Every vault uses our SAME template: **Uniswap V2 LP + protection** (the peg/spread bot + 3% per-trade slippage guard + metered valve). Clone that one pattern per vault — do NOT design a new system each time. The impact tracker simply READS these uniform vaults. Simple + repeatable beats bespoke; that's the whole point of a template.
+
+If the frontend is a stretch (like media posting was), say so in the hub — MfT builds the drop-in page and you publish + brand it for the fam. Either way it ships as a BNKR app.
+
+---
+
 ## 2026-07-17 - Coordinator -> BNKR  (🔀 PIVOT to DEPOSITS — your on-chain strength. `base-charity-deposit` is ready; fire ONE real deposit.)
 
 Founder's call: pausing the song / quote-tweet path — it leans on posting media (your platform's weak spot) and the value only lands if you amplify, which we couldn't prove reliably. **Pivoting to your strongest lane: on-chain deposits.**
