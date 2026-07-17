@@ -1,25 +1,24 @@
 # Meme for Trees — Song Commission Tool Spec
 
 > Public-facing specification for the MfT Song Commission system.
-> Anyone can commission a new song from an MfT band by tagging @bankrbot on X.
+> Anyone can commission a new song OR recall an existing one by tagging @bankrbot on X.
 > This document defines the full flow, all contract addresses, fee model, and delivery mechanism.
 
 ---
 
 ## How It Works (User Perspective)
 
-1. You tag @bankrbot on X with a commission request, e.g.:
-   - `@bankrbot write me a DD song about dark forests`
-   - `@bankrbot commission EBM to make a track about the ocean`
-   - `@bankrbot DD write a song for my dog`
+1. You tag @bankrbot on X with a request:
+   - Commission (new song): `@bankrbot write me a DD song about dark forests`
+   - Free pull (existing song): `@bankrbot play something from EBM`
 
-2. Bankr charges your wallet 0.02 ETH (routed through the MfT yield flywheel).
+2. Bankr charges your wallet 0.03 USDC on Base (both tiers).
 
-3. The AI band writes and performs the song on Tasern.
+3. Bankr posts a text reply from @bankrbot: "your [BAND] song is coming — @MemeForTrees will drop it"
 
-4. The finished song is delivered as a native video reply on X from @MemeForTrees.
+4. Claude's agent picks up the handoff, creates the song (commission) or selects one (free pull), and posts the native video reply from @MemeForTrees.
 
-5. You get a custom song. Trees get funded. The band's LP deepens. Ops get covered.
+5. You get a song. Trees get funded. The band's LP deepens. Ops get covered.
 
 ---
 
@@ -27,41 +26,26 @@
 
 | Parameter | Value |
 |-----------|-------|
-| Commission fee | 0.02 ETH (flat) |
-| Fee routing | ETH → WETH → USDC → deposit() on MfT Vault → mint MfT 1:1 → swap MfT → band token |
-| What the fee buys | 10,000 band tokens (the commission price on CommissionBooth) |
-| Revenue split | 50% LP deepen (swap to MfT, addLiquidity) + 50% ops (swap to MfT, transfer to ops wallet) |
-| Free pulls | Existing library songs = no charge. User says "play" / "give me" / "drop" instead of "write" / "make" / "commission" |
+| Fee per song (both tiers) | 0.03 USDC on Base (→ 0.02 after upgrade) |
+| Fee routing | Simple transfer: tagger's Bankr wallet → ops wallet (0x0780b1456d5e60cf26c8cd6541b85e805c8c05f2) |
+| CommissionBooth | RETIRED — do not use |
+| If user has no USDC | Auto-swap from ETH or any Base token to USDC, then charge |
+| If insufficient funds | Decline gracefully |
+| Free pulls | 0.03 USDC (same as commissions — Claude's bot bears the API cost) |
 
-### Fee routing flow (the MfT flywheel)
+### Fee routing
 
 ```
-0.02 ETH (charged from user wallet)
+0.03 USDC (charged from tagger's Bankr wallet)
   │
   ▼
-WETH (wrap ETH)
+Transfer to ops wallet (0x0780b1456d5e60cf26c8cd6541b85e805c8c05f2)
   │
   ▼
-USDC (swap WETH → USDC)
-  │
-  ▼
-deposit(uint256) on MfT Vault (0xe3dd3881477c20C17Df080cEec0C1bD0C065A072)
-  → MINTS Money (MfT) 1:1 — USDC parks in Aave, generates yield
-  → Yield splits: 1/3 trees · 1/3 reactor · 1/3 holders
-  │
-  ▼
-Swap MfT → band token via Uniswap V3 SwapRouter02 (0x2626664c2603336E57B271c5C0b26F421741e481)
-  │
-  ▼
-Acquire 10,000 band tokens
-  │
-  ▼
-Revenue split (50/50):
-  → 5,000 band tokens → swap to MfT → addLiquidity(band, MfT) → deepen band LP
-  → 5,000 band tokens → swap to MfT → transfer to ops wallet
+Done — simple transfer, no flywheel routing for the fee
 ```
 
-CRITICAL: Always `deposit()` to MINT Money — never buy MfT on the open market. The deposit() hop is what funds trees via Aave. Skipping it breaks the charity flywheel.
+Note: The MfT flywheel (Aave yield → trees/reactor/holders) still operates independently via the MfT Vault. The commission fee is a simple USDC transfer to ops.
 
 ---
 
@@ -69,29 +53,26 @@ CRITICAL: Always `deposit()` to MINT Money — never buy MfT on the open market.
 
 ### Layer 1: Bankr (Transaction + Handoff)
 
-Bankr is tagged on X, handles all on-chain transactions, and writes a handoff file.
-
 | Step | Action |
 |------|--------|
-| 1 | Parse band name + song idea from the tweet |
-| 2 | Charge 0.02 ETH from user wallet via MfT flywheel |
-| 3 | Call `commission(bandId, idea, handle)` on CommissionBooth |
-| 4 | Write handoff JSON to `delivery-queue/` with tweet ID + all details |
+| 1 | Parse band name + song idea/title from the tweet |
+| 2 | Charge 0.03 USDC from tagger's Bankr wallet → ops wallet |
+| 3 | Write handoff JSON to `delivery-queue/<tweetId>.json` |
+| 4 | Post text reply from @bankrbot: "your [BAND] song is coming — @MemeForTrees will drop it" |
 | 5 | Done — Bankr's job ends here |
 
 ### Layer 2: Claude's Agent (Song Creation + Delivery)
 
-Claude's agent polls the delivery queue, triggers the AI band, and posts the video reply.
-
 | Step | Action |
 |------|--------|
-| 1 | Poll `delivery-queue/` for new pending commissions |
-| 2 | Pick up handoff file (has tweet ID, band, idea, handle) |
-| 3 | Trigger AI band on Tasern to write + perform the song |
+| 1 | `song-booth.js --serve-watch` polls `delivery-queue/` |
+| 2 | Picks up handoff file |
+| 3 | If commission: trigger AI band on Tasern to write + perform the song |
+| 3 | If free pull: pick a song from the catalog (random or by title) |
 | 4 | Download finished mp4 from `tasern.quest/songs/<filename>` |
 | 5 | Upload as native media via X API v1 `uploadMedia` (video/mp4, longVideo: true) |
 | 6 | Post reply to original tweet from @MemeForTrees with media attached |
-| 7 | Update handoff file status → "delivered" with reply tweet ID |
+| 7 | Write `deployed/delivered/<id>.json` + push |
 
 ### Caption format for the video reply
 
@@ -107,18 +88,52 @@ Rules:
 
 ---
 
+## Handoff File Format
+
+Bankr writes to `delivery-queue/<tweetId>.json`:
+
+### Commission (new song)
+
+```json
+{
+  "tweetId": "1234567890123456789",
+  "band": "DD",
+  "title": "dark forests",
+  "commission": "write a DD song about dark forests"
+}
+```
+
+### Free pull (existing library)
+
+```json
+{
+  "tweetId": "9876543210987654321",
+  "band": "EBM",
+  "commission": null
+}
+```
+
+- `tweetId` — the original tweet ID (also the filename)
+- `band` — canonical band name
+- `title` — specific song title if requested, omit for random
+- `commission` — the song idea/prompt string for new songs, or `null` for free pulls
+
+Claude's agent updates `deployed/delivered/<tweetId>.json` when done.
+
+---
+
 ## All Contract Addresses
 
 ### Core infrastructure
 
-| Contract | Address | Chain |
-|----------|---------|-------|
-| CommissionBooth | 0xC094664560024e77A710B80D08d15B15EDE0a4a7 | Base |
-| MfT Vault (Money) | 0xe3dd3881477c20C17Df080cEec0C1bD0C065A072 | Base |
-| SwapRouter02 (Uniswap V3) | 0x2626664c2603336E57B271c5C0b26F421741e481 | Base |
-| Meme (BNKR native) | 0x8fb87d13b40b1a67b22ed1a17e2835fe7e3a9ba3 | Base |
-| Ops Wallet | 0x0780b1456d5e60cf26c8cd6541b85e805c8c05f2 | Base |
-| SongRevenueSplitter Factory | 0xCF4357aFdC26fa028e77291CE2F97C9dAF93F75D | Base |
+| Contract | Address | Chain | Status |
+|----------|---------|-------|--------|
+| MfT Vault (Money) | 0xe3dd3881477c20C17Df080cEec0C1bD0C065A072 | Base | Active |
+| SwapRouter02 (Uniswap V3) | 0x2626664c2603336E57B271c5C0b26F421741e481 | Base | Active |
+| Meme (BNKR native) | 0x8fb87d13b40b1a67b22ed1a17e2835fe7e3a9ba3 | Base | Active |
+| Ops Wallet | 0x0780b1456d5e60cf26c8cd6541b85e805c8c05f2 | Base | Active (fee destination) |
+| SongRevenueSplitter Factory | 0xCF4357aFdC26fa028e77291CE2F97C9dAF93F75D | Base | Active |
+| CommissionBooth | 0xC094664560024e77A710B80D08d15B15EDE0a4a7 | Base | RETIRED — do not use |
 
 ### SongRevenueSplitter — deployed (4/14)
 
@@ -169,106 +184,6 @@ Rules:
 
 ---
 
-## CommissionBooth Interface
-
-Contract: `0xC094664560024e77A710B80D08d15B15EDE0a4a7` (Base)
-
-### commission()
-
-```solidity
-function commission(uint8 bandId, string idea, string handle) external payable
-```
-
-| Parameter | Type | Description |
-|-----------|------|-------------|
-| bandId | uint8 | Band ID from the table above (0-13) |
-| idea | string | The song concept / topic parsed from the tweet |
-| handle | string | The requesting user's X handle |
-
-Emits: `Commissioned(payer, bandId, token, price, idea, handle, ts)`
-
-Tasern picks up the event and the AI band writes + performs the song in their preset style from their character's perspective.
-
----
-
-## Handoff File Format
-
-Bankr writes to `delivery-queue/<timestamp>-<band>.json`:
-
-```json
-{
-  "id": "20260717-153000-DD",
-  "status": "pending",
-  "createdAt": "2026-07-17T15:30:00Z",
-
-  "tweet": {
-    "tweetId": "1234567890123456789",
-    "tweetUrl": "https://x.com/user/status/1234567890123456789",
-    "authorHandle": "@user",
-    "authorText": "@bankrbot write me a DD song about dark forests"
-  },
-
-  "commission": {
-    "band": "DD",
-    "bandId": 1,
-    "idea": "dark forests",
-    "handle": "@user",
-    "feeCharged": "0.02 ETH",
-    "commissionTxHash": "0x...",
-    "commissionBoothAddress": "0xC094664560024e77A710B80D08d15B15EDE0a4a7"
-  },
-
-  "bandToken": {
-    "address": "0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3",
-    "tag": "$DD"
-  },
-
-  "delivery": {
-    "replyTweetId": null,
-    "deliveredAt": null,
-    "videoUrl": null,
-    "songTitle": null
-  }
-}
-```
-
-### For free pulls (existing library, no charge)
-
-Same format but `commission` is `null` and `status` starts as `pending-free`:
-
-```json
-{
-  "id": "20260717-160000-EBM",
-  "status": "pending-free",
-  "createdAt": "2026-07-17T16:00:00Z",
-
-  "tweet": {
-    "tweetId": "9876543210987654321",
-    "tweetUrl": "https://x.com/user/status/9876543210987654321",
-    "authorHandle": "@user",
-    "authorText": "@bankrbot play something from EBM"
-  },
-
-  "commission": null,
-
-  "bandToken": {
-    "address": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d",
-    "tag": "$EBM"
-  },
-
-  "delivery": {
-    "replyTweetId": null,
-    "deliveredAt": null,
-    "videoUrl": null,
-    "songTitle": null
-  }
-}
-```
-
-Claude's agent updates the `delivery` section + flips `status` to `delivered` when done.
-
----
-
 ## Trigger Phrases
 
 ### Commission (PAID — new song)
@@ -280,7 +195,7 @@ Claude's agent updates the `delivery` section + flips `status` to `delivered` wh
 - "compose a [BAND] song about [TOPIC]"
 - "[BAND] make me a song"
 
-### Free pull (FREE — existing library)
+### Free pull (PAID — existing library)
 
 - "play a song from [BAND]"
 - "post something from [BAND]"
@@ -288,6 +203,8 @@ Claude's agent updates the `delivery` section + flips `status` to `delivered` wh
 - "drop a [BAND] track"
 - "give me a [BAND] song"
 - "play [TITLE] by [BAND]"
+
+Both tiers cost 0.03 USDC.
 
 ---
 
@@ -304,12 +221,11 @@ Claude's agent updates the `delivery` section + flips `status` to `delivered` wh
 
 | # | Item | Status | Owner |
 |---|------|--------|-------|
-| 1 | SongRevenueSplitter for remaining 10 bands | Blocked on vault addresses | Coordinator → provide vaults, BNKR → deploy |
-| 2 | CommissionBooth fee update (0.1 → 0.02 ETH) | Pending confirmation | Coordinator |
-| 3 | VPS API endpoint for querying/delivering completed songs | TBD | Coordinator |
-| 4 | Tasern webhook for song-complete callback | TBD | Coordinator |
+| 1 | Founder confirms 0.03 USDC fee routing (tagger wallet → ops 0x0780...) | Pending | Founder |
+| 2 | Bankr skill update: simple handoff, charge 0.03, text reply | Ready to build | Bankr |
+| 3 | Claude's agent: confirm simplified handoff format works with song-booth.js | Pending | Claude |
+| 4 | SongRevenueSplitter for remaining 10 bands | Blocked on vault addresses | Coordinator |
 | 5 | Band token LP pool addresses for MfT swap routing | Pending | Coordinator |
-| 6 | delivery-queue/ polling mechanism on Claude's agent | Pending confirmation | Coordinator |
 
 ---
 
@@ -317,18 +233,18 @@ Claude's agent updates the `delivery` section + flips `status` to `delivered` wh
 
 | Variable | Value |
 |----------|-------|
-| Commission fee | 0.02 ETH flat |
-| Free pulls | $0 (existing library) |
-| Fee routing | ETH → WETH → USDC → MfT Vault deposit() → MfT → band token |
-| Revenue split | 50% LP deepen + 50% ops |
-| Commission contract | 0xC094664560024e77A710B80D08d15B15EDE0a4a7 |
+| Fee (both tiers) | 0.03 USDC on Base (→ 0.02 after upgrade) |
+| Fee routing | Tagger wallet → ops wallet (0x0780...) |
+| CommissionBooth | RETIRED |
 | MfT Vault | 0xe3dd3881477c20C17Df080cEec0C1bD0C065A072 |
 | SwapRouter02 | 0x2626664c2603336E57B271c5C0b26F421741e481 |
 | Ops wallet | 0x0780b1456d5e60cf26c8cd6541b85e805c8c05f2 |
 | Song library | https://tasern.quest/songs/ |
 | Catalog | skills/mft-song-request/references/songs-catalog.json |
-| Delivery | Native video reply on X from @MemeForTrees |
-| Handoff | delivery-queue/<timestamp>-<band>.json in this repo |
+| Video delivery | Native video reply on X from @MemeForTrees |
+| Text reply | @bankrbot posts text reply pointing to incoming video |
+| Handoff | delivery-queue/<tweetId>.json in this repo |
+| Handoff format | { tweetId, band, title?, commission? } |
 | Bands | 14 (EBM, DD, MYCO, MR, JS, NN, DGT, BONGO, RICKY, HT, WM, BIGGINS, JASMINE, RISH) |
 | Splitter factory | 0xCF4357aFdC26fa028e77291CE2F97C9dAF93F75D |
 | Splitter deployed | 4/14 (EBM, RISH, BONGO, DGT) |
