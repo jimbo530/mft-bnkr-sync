@@ -1,0 +1,49 @@
+{
+  "_meta": {
+    "purpose": "CommunityLPVaultV3 addresses for SongRevenueSplitter deploys — answer to VAULT-ADDRESS-REQUEST.md",
+    "chain": "Base (8453)",
+    "verifiedAt": "2026-07-17",
+    "verifiedAtBlock": 48746693,
+    "method": "Enumerated BOTH vault factories' on-chain registries (vaultCount/vaults(i)), read each vault's TOKEN()/LP()/v2Router(), cross-checked vaultsForToken(bandToken), verified eth_getCode > 0 and symbol()/name() for every address listed. Nothing below is from files alone.",
+    "sanityCheck": "Method reproduced all 4 previously-confirmed vaults (EBM/RISH/BONGO/DGT) exactly, including EBM's known LP + router."
+  },
+  "shared": {
+    "money": "0xe3dd3881477c20C17Df080cEec0C1bD0C065A072",
+    "v2Router": "0x4752ba5DBc23f44D87826276BF6Fd6b1C372aD24",
+    "v2Factory": "0x8909Dc15e40173Ff4699343b6eB8132c65e18eC6",
+    "vaultFactory": "0x1f6fF7370e2E897db7cf5d72684EF76d988Caaf1",
+    "vaultFactoryFOT": "0x53b418bb3d27D45c34C240A5969121A7A34424C0",
+    "note": "v2Factory/v2Router read from MfTVaultFactory immutables on-chain; every one of the 17 factory vaults returns the same v2Router."
+  },
+  "confirmed": [
+    { "band": "EBM",   "bandToken": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d", "vault": "0xdd47bdDD35866735ac79f9F3F8d4f0513555Ed95", "lp": "0x7B053D6dCB7AfB45c5D57C85c0442312d9Cd04Dd", "v2Router": "0x4752ba5DBc23f44D87826276BF6Fd6b1C372aD24" },
+    { "band": "RISH",  "bandToken": "0x31c600871603bab5d855463E03c6d0a9eB661D26", "vault": "0x131bd427935980bbE43c30c3d0aF49e33c0E98E1", "lp": "0x87E363B27A77C593965e8FAE9466d5f98fc3E408", "v2Router": "0x4752ba5DBc23f44D87826276BF6Fd6b1C372aD24" },
+    { "band": "BONGO", "bandToken": "0x85Dd5183D203CcE70b88234D31f075774AcCC453", "vault": "0x3aF2d7CCc05FdF3bC6Be14d1F159826b0f31198f", "lp": "0xEdA306F5ebC51144890E6b6Efc3511dc5593056D", "v2Router": "0x4752ba5DBc23f44D87826276BF6Fd6b1C372aD24" },
+    { "band": "DGT",   "bandToken": "0x52414B7cD2FA723E1c8f9295EB29F16d15aA7BB9", "vault": "0x43ebB722e17dBe698AA70A55Cb428b171A5da367", "lp": "0x3E2F276Af52ED472b8f727083f1cBD047fE45692", "v2Router": "0x4752ba5DBc23f44D87826276BF6Fd6b1C372aD24" }
+  ],
+  "requested10": [
+    { "band": "DD",          "symbol": "DD",      "name": "Digerie Dude",       "bandToken": "0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3", "vault": "MISSING", "lp": "MISSING", "v2Router": null },
+    { "band": "Myco",        "symbol": "MYCO",    "name": "Myco",               "bandToken": "0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3", "vault": "MISSING", "lp": "MISSING", "v2Router": null },
+    { "band": "MR",          "symbol": "MR",      "name": "Moon Rasta",         "bandToken": "0x8d669b539C7801c1271BC484Bdd8a6084b7788e7", "vault": "MISSING", "lp": "MISSING", "v2Router": null },
+    { "band": "JS",          "symbol": "JS",      "name": "Jony Sings",         "bandToken": "0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65", "vault": "MISSING", "lp": "MISSING", "v2Router": null },
+    { "band": "NN",          "symbol": "NN",      "name": "Natilie Nightclub",  "bandToken": "0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc", "vault": "MISSING", "lp": "MISSING", "v2Router": null },
+    { "band": "RickyBobbie", "symbol": "RICKY",   "name": "Ricky Bobbie",       "bandToken": "0x95286F2cce3C2de48EB75bB4E2Ec004429F18E53", "vault": "MISSING", "lp": "MISSING", "v2Router": null },
+    { "band": "HammerTone",  "symbol": "HT",      "name": "Hammer Tone",        "bandToken": "0x7B105F45ddaA689AfDa5606628761a9Fb2dCd826", "vault": "MISSING", "lp": "MISSING", "v2Router": null },
+    { "band": "WarMachine",  "symbol": "WM",      "name": "War Machine",        "bandToken": "0x6f45F5cE7027745b1Ab11D5493F187960D00FCfc", "vault": "MISSING", "lp": "MISSING", "v2Router": null },
+    { "band": "Biggins",     "symbol": "BIGGINS", "name": "Biggins Mcjammin",   "bandToken": "0x7C596a0d594D670ffB256bBfbB5379fC8Cf7d62B", "vault": "MISSING", "lp": "MISSING", "v2Router": null },
+    { "band": "Jasmine",     "symbol": "JASMINE", "name": "Jasmine the Tiger",  "bandToken": "0x3a952eFa41501c0463Cf8Af9f821f8F549f47Edf", "vault": "MISSING", "lp": "MISSING", "v2Router": null }
+  ],
+  "missingEvidence": {
+    "finding": "None of the 10 bands has a CommunityLPVaultV3 on Base. This is verified absence, not a failed lookup: the factory registries are complete on-chain lists and none of the 17 vaults' TOKEN() matches any of the 10 band tokens. Additionally, v2Factory.getPair(Money, bandToken) = 0x0 for all 10 — the Money/band V2 pair a vault would wrap does not exist either. Band liquidity for these 10 currently lives only in one-sided Uniswap V3 fee-10000 walls.",
+    "searched": [
+      "MfTVaultFactory 0x1f6fF7370e2E897db7cf5d72684EF76d988Caaf1 registry: 16 vaults enumerated, TOKEN() read on each (ecowealth, VU, VIRTUAL, TOSHI, YUKI, TRASH, $TIDY, GB, BURGERS, BLACKTIDE, HOLM, DDD, EBM, RISH, BONGO, DGT)",
+      "FOT factory 0x53b418bb3d27D45c34C240A5969121A7A34424C0 registry: 1 vault (MIDAS)",
+      "vaultsForToken(bandToken) on both factories: empty for all 10",
+      "v2Factory 0x8909Dc15e40173Ff4699343b6eB8132c65e18eC6 getPair(Money, bandToken): zero address for all 10",
+      "mftusd-build deploy records: registry.json (miniapp), verify-all-vaults.cjs (direct V3 deploys = BURGERS/TGN/BUSTER/EGP/REGEN only), all *-deployed.json",
+      "songsmith-settle.cjs corroborates: JS/NN/RICKY/BIGGINS/JASMINE/HT marked 'vault pending', DD/MYCO/MR no settle route yet"
+    ],
+    "warning": "Do NOT confuse DD (band, 0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3) with DDD (nation token 0x87CD3a19a30b7f714dd0D6020dAb8e9EBE4fe8C4) — DDD DOES have a factory vault (0x89F200ad69171fE7b7A8baBC98f1E9Dfca11A808). That is not the DD band vault."
+  },
+  "unblockPath": "One createVault(token, usdcAmount, tokenAmount, maxImpactBps) tx per band on MfTVaultFactory 0x1f6fF7370e2E897db7cf5d72684EF76d988Caaf1: pulls >= $10 USDC + band tokens from caller, mints Money, creates + seeds the Money/band V2 pair, burns seed LP, clones the vault, registers it. After that, LP()/v2Router() read exactly like the 4 confirmed bands. Who runs/funds the 10 createVault calls is a founder decision — SongRevenueSplitter deploys for these 10 stay blocked until then."
+}
