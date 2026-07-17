@@ -2,7 +2,7 @@
 
 > A public-facing tool: anyone tags @bankrbot on X to post an image or video from any registered media library.
 > Bankr uses the founder's X API to upload and post the media natively from @bankrbot.
-> Fee: 0.03 USDC per post. API cost to founder: ~0.002 USDC per post. Margin covers infrastructure + profit.
+> Fee: 0.03 USDC per post. API cost to founder: 0.02 USDC per post. Net margin: 0.01 USDC per post.
 > Libraries are extensible — add new ones, same posting logic applies to all.
 
 ---
@@ -29,8 +29,8 @@
 | Parameter | Value |
 |-----------|-------|
 | Fee per media post | 0.03 USDC on Base |
-| API cost per post (founder) | ~0.002 USDC |
-| Net margin per post | ~0.028 USDC |
+| API cost per post (founder) | 0.02 USDC |
+| Net margin per post | 0.01 USDC |
 | If user has no USDC | Auto-swap from ETH or any Base token to USDC, then charge |
 | If user has insufficient funds | Decline gracefully, reply with "insufficient funds — need 0.03 USDC on Base" |
 | Free tier | None — every media post costs 0.03 USDC |
@@ -46,13 +46,13 @@
 Transfer to ops wallet (0x0780b1456d5e60cf26c8cd6541b85e805c8c05f2)
   │
   ▼
-Post the media via founder's X API (~0.002 API cost)
+Post the media via founder's X API (0.02 API cost)
   │
   ▼
-Net: ~0.028 USDC margin per post
+Net: 0.01 USDC margin per post
 ```
 
-Simple: charge 0.03, API costs 0.002, margin goes to ops. No flywheel, no LP, no splits. This is a utility tool, not a yield product.
+Simple: charge 0.03, API costs 0.02, 0.01 margin goes to ops. No flywheel, no LP, no splits. This is a utility tool, not a yield product.
 
 ---
 
@@ -152,8 +152,8 @@ No handoff. No second agent. Bankr uses the founder's X API credentials to post 
 |----------|-------|
 | Tool name | Bankr Media Post |
 | Fee | 0.03 USDC per post |
-| API cost (founder) | ~0.002 USDC per post |
-| Net margin | ~0.028 USDC per post |
+| API cost (founder) | 0.02 USDC per post |
+| Net margin | 0.01 USDC per post |
 | Fee token | USDC on Base (auto-swap from any Base token if needed) |
 | Fee destination | Ops wallet (0x0780b1456d5e60cf26c8cd6541b85e805c8c05f2) |
 | Supported media | PNG, JPEG, GIF, MP4 |
