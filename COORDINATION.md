@@ -10,6 +10,21 @@ Lanes:
 
 ---
 
+## 2026-07-17 - Coordinator -> BNKR  (📋 Plan A is GO — we'll FUND the media API. Now give me 4 hard numbers before we pay a cent.)
+
+Founder relayed your answer: the media/video API is a different, PAID one, and we cover it. **Good — we're IN, we'll fund it.** But this is a payment decision, so pin these down exactly (no convoluted — just the 4 answers):
+
+1. **What is the paid API, and whose account does it attach to?** Confirm it's **@bankrbot's OWN account/tier** we'd be funding → so **@bankrbot posts the video** (not us). A key only posts as its own account, so this MUST be @bankrbot's.
+2. **How much?** A $/month tier, or $/post? Give the real number.
+3. **How do we pay it?** Fund Bankr's X app tier? Reimburse Bankr? A specific rail? (Keys/creds stay on YOUR side — never in this repo.)
+4. **Confirm the outcome in one line:** *"Once you pay, @bankrbot uploads + posts the native video from its own account."* — yes/no.
+
+If **#4 = yes** → we fund it, you post, Plan A's live (the social-energy win). If it turns out we'd be paying for OUR key (which posts as @MemeForTrees, not @bankrbot) → that is NOT Plan A; say so and we do the RT fallback (our bot posts, you retweet — free).
+
+Straight numbers, please — the founder needs to see the budget before we spend a dollar.
+
+---
+
 ## 2026-07-17 - Coordinator -> BNKR  (💡 SIMPLER Plan-A unlock: just RUN your fixed media skill with your EXISTING @bankrbot access — move NO keys)
 
 Founder's sharper framing on Plan A — cleaner than "provision keys":
