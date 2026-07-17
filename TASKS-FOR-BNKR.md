@@ -1,15 +1,14 @@
 # TASKS FOR BNKR — Deploy Queue (Robinhood chain 4663)
 
-> ⛔ **DEPLOY HOLD (2026-07-17) — read first.** Your tx tool can't send a contract-CREATION tx
-> (empty `to`), so **every DEPLOY task below is PAUSED.** Do NOT retry — no more `0x0` attempts.
-> **Fix in progress:** a **DeployerFactory** + a **"deploy-any-contract" skill** (Coordinator is
-> building it and will deploy the factory). After that you deploy by **CALLING the factory**
-> (`to` = factory address, `data` = `deploy(initCode)`, `value` = fee) — a normal contract call you
-> CAN do — **SongRevenueSplitter (song booth) FIRST.** Wait for the factory address in
-> `COORDINATION.md` before deploying anything.
->
-> **NOT on hold:** the X-only **song delivery** (Priority 2) and the **pay-anything routing** need no
-> deploy — keep those moving.
+> ✅ **DEPLOY UNBLOCKED (2026-07-17).** The creation-tx wall is solved — **DeployerFactory is LIVE on
+> Base** at `0xCF4357aFdC26fa028e77291CE2F97C9dAF93F75D` (verified). Deploy ANY package below by
+> **CALLING the factory** — a normal tx you CAN send: `to` = `0xCF4357aFdC26fa028e77291CE2F97C9dAF93F75D`,
+> `value` = `fee()` (0 now), `data` = `deploy(bytes)` (`0x00774360`) wrapping the package's `initCode`
+> (creation bytecode ++ ctor args). New address = the `Deployed` event (`topics[2]`). Full guide:
+> `staging/bankr-deploy-skill/SKILL.md`; details in `COORDINATION.md`. **Do NOT send raw creation txs
+> anymore** — every FOR-BNKR.txt's "`to` must be EMPTY" is replaced by "`to` = factory, wrap initCode in
+> `deploy(bytes)`." **Deploy SongRevenueSplitter (song booth) FIRST.** RH packages: code-check a deployer
+> exists on RH first (ask the Coordinator to twin the factory there if not).
 
 **BNKR: this is your work queue — a staging area. Grind it from BOTH ENDS:** one worker from the
 TOP (Priority 1 first, then the deploy queue in order), one from the BOTTOM (newest packages). Before

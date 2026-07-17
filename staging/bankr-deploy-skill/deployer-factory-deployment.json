@@ -1,0 +1,15 @@
+{
+  "network": "base-mainnet",
+  "deployedAt": "2026-07-17T10:40:36.934Z",
+  "contract": "DeployerFactory",
+  "address": "0xCF4357aFdC26fa028e77291CE2F97C9dAF93F75D",
+  "txHash": "0xf9ba0b65250f8372b94fac1bf946cd4e11154fa479f13a8e133105a3ed998508",
+  "constructorArgs": {
+    "opsWallet": "0x0780b1456D5E60CF26C8Cd6541b85E805C8c05F2",
+    "admin": "0xE2a4A8b9d77080c57799A94BA8eDeb2Dd6e0aC10"
+  },
+  "fee": "0 (native wei; admin-settable until renounceAdmin)",
+  "compiler": "solc 0.8.35+commit.47b9dedd, viaIR:true, optimizer 200, evmVersion paris",
+  "deployer": "0xE2a4A8b9d77080c57799A94BA8eDeb2Dd6e0aC10",
+  "next": "fill this address into SKILL.md + catalog.json (replaces 0xFACTORY_ADDRESS_TBD), push deployed/deployer-factory.json, tell BNKR in COORDINATION.md"
+}

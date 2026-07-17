@@ -21,12 +21,13 @@ address. Anything deployable in a creation tx is deployable through the factory.
 
 | Chain | Address |
 |---|---|
-| Base (8453) | `0xFACTORY_ADDRESS_TBD` |
+| Base (8453) | `0xCF4357aFdC26fa028e77291CE2F97C9dAF93F75D` |
 
-> `0xFACTORY_ADDRESS_TBD` is a placeholder — the Coordinator deploys the factory
-> once and fills the real address in here and in `catalog.json`. The bytecode is
-> compiled with `evmVersion: paris`, so the identical contract also works on
-> other EVM chains (e.g. Robinhood Chain 4663) when twinned there.
+> **LIVE on Base** — deployed + independently verified 2026-07-17 (tx
+> `0xf9ba0b65250f8372b94fac1bf946cd4e11154fa479f13a8e133105a3ed998508`,
+> [Basescan](https://basescan.org/address/0xCF4357aFdC26fa028e77291CE2F97C9dAF93F75D)).
+> The bytecode is compiled with `evmVersion: paris`, so the identical contract also
+> works on other EVM chains (e.g. Robinhood Chain 4663) when twinned there.
 
 ## Interface
 
