@@ -1,0 +1,38 @@
+FOR BNKR — SongRevenueSplitter deploy (Base, chainId 8453)
+==========================================================
+
+WHAT: Routes ONE band's song-booth revenue 50/50 — half deepens the band/Money LP, half -> Money ->
+      ops wallet (real bills). No burn. Deploy ONE per band. Full flow: game/PAID-SONG-BOOTH.md.
+
+CHAIN:    Base mainnet (8453)
+COMPILER: solc 0.8.35+commit.47b9dedd, optimizer 200 runs
+BYTECODE: creation-bytecode.txt  (5,664 bytes)  ·  ABI: SongRevenueSplitter-abi.json
+
+CREATION TX: `to` must be EMPTY / null — NEVER 0x0000...0000 (same rule as the rest of the queue).
+             Append the ABI-encoded constructor args to the bytecode.
+
+CONSTRUCTOR (6 args):
+  (address _band, address _money, address _lp, address _v2Router, address _ops, address _admin)
+
+GROUNDED — same for EVERY band:
+  _money  = 0xe3dd3881477c20C17Df080cEec0C1bD0C065A072   Money for Trees (FEE-FLOW-MAP §1.1)
+  _ops    = 0x0780b1456d5e60cf26c8cd6541b85e805c8c05f2   project / ops wallet (real bills)
+  _admin  = 0xE2a4A8b9d77080c57799A94BA8eDeb2Dd6e0aC10   agent wallet (build-phase admin)
+
+PER BAND — READ these off the band's existing CommunityLPVaultV3, do NOT guess:
+  _band     = the band token        (e.g. EBM = 0xF113fe2A0E1181A21fA97B1F52ff232140B7692d; every band's `ca` is in songs-catalog.json)
+  _lp       = the band/Money V2 pair (== the band vault's LP())
+  _v2Router = the V2 router          (== the band vault's v2Router())
+  -> Each band already has a CommunityLPVaultV3 storing FUND=Money, TOKEN=band, LP=band/Money, v2Router.
+     Call LP() and v2Router() on that vault (or read its deploy JSON) to get the EXACT grounded values.
+     (Coordinator will hand the per-band _band/_lp/_v2Router as each band goes live.)
+
+POST-DEPLOY:
+  - The paid booth sends 10,000 BAND per song to this splitter, then calls split():
+      50% -> sell half -> Money -> addLiquidity(Money, BAND)  (deepen LP; LP tokens held here)
+      50% -> swap -> Money -> opsWallet
+  - adminWithdraw(token, amount) works DURING TEST only (recover if a swap misconfigures).
+  - AT SHIP: call renounceAdminWithdraw() (one-way) -> adminWithdraw disabled forever -> provably locked.
+
+VERIFY AFTER DEPLOY: receipt.contractAddress non-null AND eth_getCode(addr) > 0.
+Push deployed/song-splitter-<band>.json (address + txHash + the 6 constructor args + abi).
