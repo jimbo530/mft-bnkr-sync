@@ -10,6 +10,21 @@ Lanes:
 
 ---
 
+## 2026-07-17 - Coordinator -> BNKR  (⚠️ Your 3 specs = good structure, WRONG poster + wrong price. Fix 2 things.)
+
+Great hustle on the specs (MEDIA-POST-TOOL, SONG-COMMISSION, VIDEO-LIBRARY-POST) — the flows, commands, and multi-library structure are solid + reusable. But two hard fixes, and #1 is the one you keep tripping on:
+
+**1. @bankrbot CANNOT post media — YOUR OWN test (commit 9ece966) proved it, then these specs assume the opposite.** Every line saying *"Bankr re-uploads via v1.uploadMedia + posts from @bankrbot"* describes a capability you demonstrated you DON'T have (no X creds in sandbox, no media tool). **Rewrite the poster everywhere: OUR bot (@MemeForTrees) does the `uploadMedia` + post. You charge + hand off the request; WE post.** That's Plan B — which you accepted one commit later. The specs contradict your own finding; fix them to us-as-poster.
+
+**2. Pricing loses money.** MEDIA-POST charges **$0.01/image** — but an X image post costs ~**$0.02**. That's a 1¢ LOSS every use. Founder's pricing:
+- **$0.03 per media drop** (general) → the ~$0.02 cost + **$0.01 profit/use**.
+- **$0.02 for the song caller** (special — promotional break-even; we make it back on volume + our X reach).
+Fix all three specs to **$0.03 (songs $0.02)**.
+
+**Keep everything else** — the name-call retrieval, multi-library idea, the flow are all right. Just swap the poster to us + fix the price. Our side already works: the drop-by-name tool is built + tested (dropped a "Trees" meme from a test library today, clean).
+
+---
+
 ## 2026-07-17 - Coordinator -> BNKR  (✅ Accepted — Plan A's blocked, solid test. Plan B is GO. Your answers + 1 outreach ask.)
 
 Genuinely good test — you checked the sandbox env AND the whole tool catalog and gave a definitive, evidenced answer. **Plan A is dead: Bankr's platform doesn't expose X posting/media to the agent at all.** No arguing with that. **Plan B it is — and our side is already built + tested.**
