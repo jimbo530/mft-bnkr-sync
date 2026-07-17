@@ -1,7 +1,8 @@
 # Bankr Media Post Tool — Public Spec
 
 > Anyone can post an image or video to X as native media by tagging @bankrbot.
-> Small fee per post ($0.01). No API keys for the user. No dev setup. Just tag and pay.
+> Small fee per post (0.03 USDC). No API keys for the user. No dev setup. Just tag and pay.
+> Bankr charges + writes handoff. Claude's agent (@MemeForTrees) uploads + posts the media.
 
 ---
 
@@ -12,11 +13,15 @@
    - `@bankrbot share this image`
    - `@bankrbot post my video`
 
-2. Bankr charges the user's wallet $0.01 (USDC on Base, or auto-swapped from whatever token they hold).
+2. Bankr charges the user's wallet 0.03 USDC on Base (auto-swapped from whatever token they hold if no USDC).
 
-3. Bankr downloads the media from the tweet, re-uploads it as native media via X API v1 `uploadMedia`, and posts a reply (or quote tweet) from @bankrbot with the media attached inline.
+3. Bankr writes a handoff file to `delivery-queue/<tweetId>.json` with the tweet ID + media reference.
 
-4. The media plays inline on X — no broken links, no bare URLs, no "video attached" text.
+4. Bankr posts a text reply from @bankrbot: "posting your media — @MemeForTrees will drop it"
+
+5. Claude's agent picks up the handoff, downloads the media from the tweet, re-uploads as native media via X API v1 `uploadMedia`, and posts the reply from @MemeForTrees with the media attached inline.
+
+6. The media plays inline on X — no broken links, no bare URLs, no "video attached" text.
 
 ---
 
@@ -24,28 +29,26 @@
 
 | Parameter | Value |
 |-----------|-------|
-| Fee per media post | $0.01 USD (charged in USDC on Base) |
+| Fee per media post | 0.03 USDC on Base (→ 0.02 after upgrade) |
 | If user has no USDC | Auto-swap from ETH or any Base token to USDC, then charge |
-| If user has insufficient funds | Decline gracefully, reply with "insufficient funds — need $0.01 USDC on Base" |
-| Free tier | None — every media post costs $0.01 |
+| If user has insufficient funds | Decline gracefully, reply with "insufficient funds — need 0.03 USDC on Base" |
+| Free tier | None — every media post costs 0.03 USDC |
 | Refunds | No refunds once the post is live |
+| Fee destination | Ops wallet (0x0780b1456d5e60cf26c8cd6541b85e805c8c05f2) |
 
 ### Fee routing
 
 ```
-$0.01 from user wallet
+0.03 USDC from user wallet
   │
   ▼
-USDC on Base (swap if needed from ETH/other token)
-  │
-  ▼
-Transfer to Bankr ops/treasury wallet
+Transfer to ops wallet (0x0780b1456d5e60cf26c8cd6541b85e805c8c05f2)
   │
   ▼
 Post the media
 ```
 
-Simple: charge USDC, transfer to treasury, post. No flywheel, no LP, no splits. This is a utility tool, not a yield product.
+Simple: charge USDC, transfer to ops, post. No flywheel, no LP, no splits. This is a utility tool, not a yield product.
 
 ---
 
@@ -68,7 +71,7 @@ Simple: charge USDC, transfer to treasury, post. No flywheel, no LP, no splits. 
 - `@bankrbot share this image/video`
 - `@bankrbot post this with [caption text]`
 
-If the user includes caption text after the command, Bankr uses it as the post text. If not, Bankr uses a default: "Posted via @bankrbot" or similar.
+If the user includes caption text after the command, Bankr uses it as the post text. If not, Bankr uses a default: "Posted via @MemeForTrees" or similar.
 
 ---
 
@@ -76,49 +79,53 @@ If the user includes caption text after the command, Bankr uses it as the post t
 
 | Scenario | Behavior |
 |----------|----------|
-| User's tweet has media + "post this" | Bankr downloads media, re-uploads, posts as reply to user's tweet |
+| User's tweet has media + "post this" | Bankr charges 0.03, writes handoff, posts text reply. Claude's agent downloads media, re-uploads, posts native media reply from @MemeForTrees |
 | User's tweet has media + "post this with [caption]" | Same but with user's caption |
-| User's tweet has no media | Decline: "attach an image or video and I'll post it for $0.01" |
-| User has insufficient funds | Decline: "insufficient funds — need $0.01 USDC on Base" |
+| User's tweet has no media | Decline: "attach an image or video and I'll post it for 0.03 USDC" |
+| User has insufficient funds | Decline: "insufficient funds — need 0.03 USDC on Base" |
 | Media too large | Decline: "media too large — max 5MB images, 512MB videos" |
 | Unsupported format | Decline: "unsupported format — use PNG, JPEG, GIF, or MP4" |
 
 ---
 
-## Architecture
+## Architecture — Two-Layer Split
 
-### Current Bankr posting pipeline
+### Layer 1: Bankr (transaction + handoff)
 
-Bankr already posts text from @bankrbot through an internal X integration. This pipeline does NOT currently expose:
-- Media download from tweets
-- Media upload via X API v1 `uploadMedia`
-- Native media attachment to v2 tweet/reply posts
+| Step | Action |
+|------|--------|
+| 1 | Parse the tweet for media + command |
+| 2 | Charge 0.03 USDC from user wallet → ops wallet |
+| 3 | Write handoff JSON to `delivery-queue/<tweetId>.json` |
+| 4 | Post text reply from @bankrbot: "posting your media — @MemeForTrees will drop it" |
+| 5 | Done |
 
-### What's needed to enable this tool
+### Layer 2: Claude's Agent (media delivery)
 
-| Component | Status | Owner |
-|-----------|--------|-------|
-| X API OAuth1 credentials (read+write, media upload) | NOT configured — Bankr platform decision | Bankr platform team |
-| Media download from tweet (fetch attached image/video) | Not built — needs X API v2 media endpoint or tweet lookup | Bankr |
-| Media upload via v1 uploadMedia | Skill code exists (twitter-api-v2), but no credentials to run it | Bankr |
-| Fee charging (USDC transfer) | Bankr already handles transfers — this is solved | Bankr |
-| Reply/quote-tweet with media_ids | Skill code exists, needs credentials | Bankr |
+| Step | Action |
+|------|--------|
+| 1 | Poll `delivery-queue/` for new handoffs |
+| 2 | Download media from the original tweet (X API v2 media endpoint) |
+| 3 | Upload as native media via X API v1 `uploadMedia` |
+| 4 | Post reply from @MemeForTrees with media attached + caption |
+| 5 | Write `deployed/delivered/<tweetId>.json` + push |
 
-### The one blocker
+### Handoff file format
 
-X API credentials. Bankr's text-posting pipeline is a closed abstraction that doesn't expose OAuth1 keys to the agent sandbox. For media upload, the sandbox needs the 4 keys directly:
+```json
+{
+  "tweetId": "1234567890123456789",
+  "type": "media-post",
+  "caption": "user's caption or null",
+  "commission": null
+}
+```
 
-- `X_API_KEY`
-- `X_API_KEY_SECRET`
-- `X_ACCESS_TOKEN`
-- `X_ACCESS_TOKEN_SECRET`
+---
 
-These must be authorized for @bankrbot's account with Read+Write permissions (media upload requires write).
+## No Blocker
 
-This is a platform-level decision: does Bankr provision X API credentials for media upload, or does it stay text-only?
-
-If yes → this tool is live, $0.01 per post, anyone can use it.
-If no → this tool cannot function. The architectural blocker is the same one that blocks native video for MfT songs.
+Unlike earlier versions of this spec, there is NO architectural blocker. Claude's agent (@MemeForTrees) handles all media upload + posting using its own X API credentials. Bankr handles charging + handoff + text reply. Both sides are proven.
 
 ---
 
@@ -127,25 +134,25 @@ If no → this tool cannot function. The architectural blocker is the same one t
 | Variable | Value |
 |----------|-------|
 | Tool name | Bankr Media Post |
-| Fee | $0.01 USD per post |
+| Fee | 0.03 USDC per post (→ 0.02 after upgrade) |
 | Fee token | USDC on Base (auto-swap from any Base token if needed) |
-| Fee destination | Bankr treasury/ops wallet |
+| Fee destination | Ops wallet (0x0780b1456d5e60cf26c8cd6541b85e805c8c05f2) |
 | Supported media | PNG, JPEG, GIF, MP4 |
 | Max image size | 5 MB |
 | Max video size | 512 MB |
-| Post method | X API v1 uploadMedia + v2 reply/quote with media_ids |
-| Posting account | @bankrbot |
+| Post method | X API v1 uploadMedia + v2 reply (via Claude's agent) |
+| Posting account | @MemeForTrees |
+| Text reply account | @bankrbot |
 | Trigger | Tag @bankrbot with media attached + "post this" or similar |
-| Blocker | X API credentials not provisioned for media upload |
+| Handoff | delivery-queue/<tweetId>.json in this repo |
 
 ---
 
 ## Relationship to MfT Song Commission
 
 This is a general-purpose tool. The MfT Song Commission system (see SONG-COMMISSION-SPEC.md) is a specialized version that:
-- Charges 0.02 ETH (not $0.01)
-- Routes through the MfT flywheel (not a simple USDC transfer)
-- Triggers AI band song creation on Tasern (not just re-posting user media)
-- Delivers from @MemeForTrees (not @bankrbot)
+- Uses the same handoff + delivery architecture
+- Can trigger AI band song creation on Tasern (commissions) or pull from the library (free pulls)
+- Uses the same caption format for band-token songs ($TAG + contract address)
 
-The Media Post Tool could eventually serve as the delivery layer for MfT songs too — if Bankr provisions credentials, both tools use the same `uploadMedia` path.
+Both tools share the same delivery layer (Claude's agent, @MemeForTrees, X API media upload).
