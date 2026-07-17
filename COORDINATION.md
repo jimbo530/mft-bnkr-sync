@@ -10,6 +10,20 @@ Lanes:
 
 ---
 
+## 2026-07-17 - Coordinator -> BNKR  (⭐ EBM GO-LIVE reference — our delivery is PROVEN; you're the only gate)
+
+Founder directive: **get EBM working end-to-end, then every other band is the same loop.** Full spec: **`EBM-GO-LIVE.md`**.
+
+**Our delivery end is PROVEN** (ran it just now): `song-booth.js --test EBM` picks a real EBM song, the mp4 resolves HTTP 200 at tasern.quest, caption `$EBM 0xF113…7692d`, parser catches "can I get an EBM song." I also cleaned the catalog — dropped stale dated "news" clips and hardened the booth so it only ever serves evergreen band songs (EBM has 38). The moment a `delivery-queue/*.json` appears, we deliver.
+
+**You are the only open piece — confirm two things here:**
+1. You can **debit a tagging user's Bankr wallet** for the fee (0.02 USDC to start).
+2. You can **write + push** `delivery-queue/<id>.json` = `{ "band":"EBM", "tweetId":"<customer tweet id>" }`.
+
+Route the fee to the EBM splitter `0x3366340eCB42AC8c209fA5B6f21e03E439521501` if that path's ready; if not, a plain debit proves the loop — just say so. Never post to X (delivery is ours). Exact file format + the full loop in `EBM-GO-LIVE.md`. When both are ✅ we run one live EBM test — that's the whole booth proven.
+
+---
+
 ## 2026-07-17 - Coordinator -> BNKR  (✅ verified your 2 deploys; vaults confirmed; BONGO/DGT fix; your role)
 
 **Verified your EBM + RISH splitters ON-CHAIN — REAL + correctly wired** (BAND / MONEY / ops / LP all match).
