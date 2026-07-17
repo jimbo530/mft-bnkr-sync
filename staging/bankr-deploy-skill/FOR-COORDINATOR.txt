@@ -1,0 +1,77 @@
+FOR COORDINATOR — DeployerFactory deploy (Base, chainId 8453) + skill publish
+=============================================================================
+
+WHAT: THE fix for the queue-wide blocker (COORDINATION.md 2026-07-17): BNKR's
+      submit_raw_transaction forces a `to` field -> can't send a creation tx.
+      DeployerFactory turns deployment into a NORMAL CALL: BNKR sends
+      to=<factory>, data=deploy(initCode) -> factory runs CREATE -> new address
+      in the Deployed event. Every staged package then deploys as a BNKR-sent tx
+      (BNKR keeps builder points). Also a publishable community skill.
+
+CHAIN:    Base mainnet (8453) first. Same bytecode works on RH 4663 later (paris).
+COMPILER: solc 0.8.35+commit.47b9dedd, viaIR:true, optimizer 200, evmVersion paris
+BYTECODE: creation-bytecode.txt (2,756 bytes) · ABI: DeployerFactory-abi.json
+TESTS:    test-bnkr-factory.cjs — 32/32 PASS on a clean local EVM
+          (npx hardhat node --port 8595 from mftusd-build, then run the file;
+          suite uses a local nonce ledger — HH3 EDR lags 'latest' reads).
+
+CONSTRUCTOR (2 args — GROUNDED, the queue's standard pair):
+  _ops   = 0x0780b1456D5E60CF26C8Cd6541b85E805C8c05F2   project/ops wallet (fee dest)
+  _admin = 0xE2a4A8b9d77080c57799A94BA8eDeb2Dd6e0aC10   agent wallet (fee-exempt, build-phase admin)
+  ABI-encoded tail to append to the bytecode:
+  0x0000000000000000000000000780b1456d5e60cf26c8cd6541b85e805c8c05f2000000000000000000000000e2a4a8b9d77080c57799a94ba8edeb2dd6e0ac10
+
+DEPLOY — PATH A (agent wallet, simple):
+  node deploy-deployer-factory.cjs           # DRY: gas estimate only
+  node deploy-deployer-factory.cjs --live    # broadcast + wiring check + record
+  (env: DEPLOY_RPC to use the local Base node http://127.0.0.1:8545; script
+   hard-checks deployer == 0xE2a4… and post-deploy admin/ops/fee wiring.)
+
+DEPLOY — PATH B (points-preserving: BNKR deploys the factory ITSELF):
+  Arachnid's CREATE2 proxy is LIVE on Base at
+  0x4e59b44847b379578588920cA78FbF26c0B4956C (verified this session: 69 bytes
+  of code). It deploys from a plain CALL, so BNKR can bootstrap the factory:
+    to    = 0x4e59b44847b379578588920cA78FbF26c0B4956C
+    value = 0
+    data  = <32-byte salt> ++ <factory initCode>
+            where factory initCode = creation-bytecode.txt ++ ctor tail above
+            (2,820 bytes total, keccak256 =
+             0x653eef7ed1390e25d1d71c832b751799e61b93f2f76dd03c7c39bd6466cfa39a)
+  With salt = keccak256("mft-factory-v1") =
+    0x624a4386a7b32465710986d8fe0307dce9dad81a21045dd017b35da1a7e300c2
+  the factory lands at the precomputed address:
+    0x5862f5E4554b9d1DBDC2426Faf470D2b6c10722F
+  NOTE: the proxy returns the address but emits NO event — verify with
+  eth_getCode(predicted) > 0. This is exactly why OUR factory emits Deployed:
+  agents can read addresses straight off receipts for every later deploy.
+  (RH 4663: do NOT assume the proxy exists there — verify code first.)
+
+POST-DEPLOY (either path):
+  1. Verify: eth_getCode(factory) > 0; admin()==0xE2a4…; opsWallet()==0x0780…;
+     fee()==0; adminRenounced()==false.
+  2. Fill the real factory address over 0xFACTORY_ADDRESS_TBD in:
+       SKILL.md (address table) + catalog.json (demo code FACTORY const).
+  3. Write deployed/deployer-factory.json (address + txHash + ctor args + abi)
+     and message BNKR in COORDINATION.md: creation-tx blocker CLOSED — deploy
+     the whole queue via deploy(initCode); packages' FOR-BNKR.txt "to must be
+     EMPTY" instruction becomes "to = factory, wrap initCode in deploy(bytes)".
+  4. Point BNKR at SKILL.md — worked example + raw calldata layout included.
+
+⚑ FEE UNIT DECISION (founder call, BEFORE renounce):
+  - Current: fee = 0 (launch free, build usage).
+  - Fee is NATIVE ETH per deploy — single-tx UX, no approvals. RECOMMENDED unit.
+  - A USDC fee (e.g. 0.01) would force every deployer through approve +
+    transferFrom = 2 txs + allowance management = real friction for agents.
+  - renounceAdmin() FREEZES the fee forever — set the final fee first, then
+    renounce at ship (renounce-capable-always standard). Deploys stay
+    permissionless either way; admin 0xE2a4… stays fee-exempt after renounce.
+
+FILES:
+  DeployerFactory.sol            self-contained source (no imports)
+  creation-bytecode.txt          pinned-compiler creation bytecode
+  DeployerFactory-abi.json       ABI
+  SKILL.md + catalog.json        the publishable Bankr skill (clanker format)
+  Hello-example.json             worked-example artifact used in SKILL.md
+  deploy-deployer-factory.cjs    Path-A deploy script (DRY default)
+  test-bnkr-factory.cjs          local EVM suite (32 checks)
+  (compile script: mftusd-build/compile-bnkr-factory.cjs)
