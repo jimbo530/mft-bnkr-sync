@@ -1,7 +1,7 @@
 # Video Library Post Skill — Spec
 
 > Bankr posts music videos from registered libraries as native X video replies.
-> Anyone tags @bankrbot on X → Bankr fetches the video from the library → posts it inline → charges $0.03.
+> Anyone tags @bankrbot on X → Bankr charges 0.03 USDC → writes handoff → Claude's agent (@MemeForTrees) posts the video inline.
 > Libraries are extensible — add new ones, same posting logic applies to all.
 
 ---
@@ -10,10 +10,10 @@
 
 1. User tags @bankrbot on X: `@bankrbot play an EBM song` or `@bankrbot drop a DD track`
 2. Bankr parses the request, looks up the band/artist in the registered library
-3. Bankr picks a song (random or by title if named)
-4. Bankr downloads the mp4 from the library's URL
-5. Bankr uploads as native media via X API and posts a reply with the video inline
-6. Bankr charges $0.03 to the user's wallet
+3. Bankr charges 0.03 USDC from the user's wallet → ops wallet
+4. Bankr writes a handoff file to `delivery-queue/<tweetId>.json`
+5. Bankr posts a text reply from @bankrbot: "your [BAND] song is coming — @MemeForTrees will drop it"
+6. Claude's agent picks up the handoff, fetches the video, uploads as native media, posts the video reply from @MemeForTrees
 
 The video plays inline on X. No bare URLs, no "video attached" text, no broken posts.
 
@@ -23,12 +23,58 @@ The video plays inline on X. No bare URLs, no "video attached" text, no broken p
 
 | Parameter | Value |
 |-----------|-------|
-| Fee per video post | $0.03 USD |
-| Fee token | USDC on Base (auto-swap from ETH or any Base token if no USDC) |
+| Fee per video post | 0.03 USDC on Base (→ 0.02 after upgrade) |
+| Fee routing | Tagger's Bankr wallet → ops wallet (0x0780b1456d5e60cf26c8cd6541b85e805c8c05f2) |
+| If user has no USDC | Auto-swap from ETH or any Base token to USDC, then charge |
 | If insufficient funds | Decline gracefully |
-| Fee destination | Bankr treasury |
+| Free tier | None — every video post costs 0.03 USDC |
 
-$0.03 covers the X API media upload cost + margin. Simple charge, no flywheel, no LP routing.
+$0.03 covers the X API media upload cost (borne by Claude's agent) + margin. Simple charge, no flywheel, no LP routing.
+
+---
+
+## Architecture — Two-Layer Split
+
+### Layer 1: Bankr (transaction + handoff)
+
+| Step | Action |
+|------|--------|
+| 1 | Parse band/artist name + optional title from the tweet |
+| 2 | Charge 0.03 USDC from tagger's wallet → ops wallet |
+| 3 | Write handoff JSON to `delivery-queue/<tweetId>.json` |
+| 4 | Post text reply from @bankrbot pointing to the incoming video |
+| 5 | Done |
+
+### Layer 2: Claude's Agent (video delivery)
+
+| Step | Action |
+|------|--------|
+| 1 | `song-booth.js --serve-watch` polls `delivery-queue/` |
+| 2 | Picks up handoff file |
+| 3 | Looks up song in catalog (random or by title) |
+| 4 | Downloads mp4 from library baseUrl + filename |
+| 5 | Uploads as native media via X API v1 `uploadMedia` (video/mp4, longVideo: true) |
+| 6 | Posts reply from @MemeForTrees with media attached + caption |
+| 7 | Writes `deployed/delivered/<tweetId>.json` + pushes |
+
+### Handoff file format
+
+```
+delivery-queue/<tweetId>.json
+```
+
+```json
+{
+  "tweetId": "1234567890123456789",
+  "band": "EBM",
+  "title": "A Billion Strong",
+  "commission": null
+}
+```
+
+- `commission` = null for library pulls (existing songs)
+- `commission` = prompt string for new song commissions
+- `title` = specific song title if requested, omit for random
 
 ---
 
@@ -98,31 +144,7 @@ When @bankrbot is tagged on X:
 
 ---
 
-## Posting Flow
-
-```
-User tags @bankrbot on X
-  │
-  ▼
-Parse request → match library + band/artist + optional title
-  │
-  ▼
-Look up song in catalog → get filename
-  │
-  ▼
-Download mp4 from library baseUrl + filename
-  │
-  ▼
-Upload as native media via X API v1 uploadMedia (video/mp4, longVideo: true)
-  │
-  ▼
-Post reply from @bankrbot with media attached + caption
-  │
-  ▼
-Charge $0.03 to user wallet (USDC on Base)
-```
-
-### Caption format
+## Caption format
 
 ```
 Title — Full Band Name
@@ -140,23 +162,19 @@ Rules:
 
 | Component | Status |
 |-----------|--------|
-| MfT song catalog (302 songs) | ✅ Live in repo |
-| tasern.quest video hosting | ✅ Live (HTTP 200, video/mp4) |
-| Request parsing (band aliases) | ✅ In mft-song-delivery skill |
-| Caption formatting | ✅ In mft-song-delivery skill |
-| Fee charging ($0.03 USDC) | ✅ Bankr handles transfers natively |
-| Library registry (extensible) | 🔲 Needs building |
-| Native video upload + post | 🔲 Needs X API media upload capability |
+| MfT song catalog (302 songs) | Live in repo |
+| tasern.quest video hosting | Live (HTTP 200, video/mp4) |
+| Request parsing (band aliases) | In mft-song-delivery skill |
+| Caption formatting | In mft-song-delivery skill |
+| Fee charging (0.03 USDC transfer) | Bankr handles transfers natively |
+| Handoff file writing | Ready to build |
+| Text reply from @bankrbot | Bankr's text pipeline works |
+| Claude's agent video delivery | LIVE — song-booth.js --serve-watch, poster.js |
+| Library registry (extensible) | Needs building |
 
-### The one blocker
+### No blocker
 
-Native video upload requires X API credentials with media upload permission. Bankr's current X posting pipeline posts text only — it does not upload media.
-
-To enable video posting, Bankr needs one of:
-1. X API OAuth1 credentials provisioned for @bankrbot (read+write, media upload)
-2. A native Bankr tool that handles media upload + posting (like the text reply pipeline, but for video)
-
-Once either is in place, the skill runs end-to-end: fetch video → upload → post → charge.
+Unlike the earlier specs, there is NO architectural blocker. Claude's agent (@MemeForTrees) handles all media upload + posting. Bankr handles charging + handoff + text reply. Both sides are proven.
 
 ---
 
@@ -165,12 +183,14 @@ Once either is in place, the skill runs end-to-end: fetch video → upload → p
 | Variable | Value |
 |----------|-------|
 | Skill name | Video Library Post |
-| Fee | $0.03 USD per video post |
+| Fee | 0.03 USDC per video post (→ 0.02 after upgrade) |
 | Fee token | USDC on Base |
+| Fee destination | Ops wallet (0x0780b1456d5e60cf26c8cd6541b85e805c8c05f2) |
 | First library | MfT Songs (tasern.quest/songs/) |
 | Library count | Extensible — add more via registry |
 | Catalog | 302 songs, 14 bands (MfT) |
-| Post method | X API v1 uploadMedia + v2 reply |
-| Posting account | @bankrbot |
+| Video delivery | @MemeForTrees via X API v1 uploadMedia + v2 reply |
+| Text reply | @bankrbot posts text reply pointing to incoming video |
+| Handoff | delivery-queue/<tweetId>.json in this repo |
+| Handoff format | { tweetId, band, title?, commission? } |
 | Trigger | Tag @bankrbot + band/artist name + "play/drop/give me/post" |
-| Blocker | X API media upload capability |
