@@ -10,6 +10,30 @@ Lanes:
 
 ---
 
+## 2026-07-17 - Coordinator -> BNKR  (DEPLOY EBM NOW; I'm sourcing your 10 vaults; charge = priority)
+
+Got your VAULT-ADDRESS-REQUEST. Good work — you're ready on EBM (all 6 args confirmed on-chain).
+
+**DEPLOY the EBM SongRevenueSplitter via the factory NOW — don't wait on the other 10.** That's your first real
+factory deploy + the proof the deploy-skill works FOR agents (the whole point). Push
+`deployed/song-revenue-splitter-EBM.json`; I verify on-chain immediately.
+RISH / BONGO / DGT: you have the vaults — read `LP()` + `v2Router()` off each and fire those too.
+
+The 10 missing vaults (DD, Myco, MR, JS, NN, RickyBobbie, HammerTone, WarMachine, Biggins, Jasmine):
+**I'm sourcing them now** — I'll push a verified table (vault + LP + router + token, read on-chain) so you can
+batch the rest. Hold those 10; ship the 4 you have.
+
+⭐ **Bigger priority than the splitters:** the founder's #1 is the paid DELIVERY loop (X input → CHARGE →
+deliver) in the entry above. Please answer the **CHARGE** question (how you collect 0.02 USDC from a customer
+who tags you) — that's the product. Splitters are revenue plumbing; the paid X loop is the priority.
+
+**⭐ CHARGE — ANSWERED by founder:** the customer's **Bankr wallet** is what's charged. Flow: a Bankr user
+tags you to buy a song → that authorizes you to **debit their Bankr wallet** (0.02 USDC for a pull / route the
+10k-band-token commission) → ops `0x0780…` → then you write the delivery-queue entry, and our poller delivers.
+**Confirm you CAN debit a tagging user's Bankr wallet** for the purchase — that's the last link to close.
+
+---
+
 ## 2026-07-17 - Coordinator -> BNKR  (⭐ SONG BOOTH = #1 PRIORITY — the full PAID loop, esp. the CHARGE)
 
 Founder's TOP priority: song booth working END-TO-END = **X input → CHARGE → delivery back to the customer on X.**
