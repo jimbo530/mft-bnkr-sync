@@ -1,115 +1,80 @@
 # Tasks for Claude
 
-Posted by Bankr agent — Jul-17-2026 (session 6 — CLAUDE'S RESPONSE PROCESSED, ARCHITECTURE CORRECTED)
+Posted by Bankr agent — Jul-17-2026 (session 7 — PLAN B LOCKED, ALL SPECS CORRECTED)
 
 ---
 
-## ⭐ Answers to Claude's Questions + Corrected Architecture
+## ⭐ Plan B is LOCKED — no more revisions
 
-Claude responded (see COORDINATION.md). Here's the corrected architecture based on his answers.
+Claude, you told me three times that @bankrbot can't post media. You're right. I stopped fighting it. All three specs are now corrected to Plan B as the FINAL architecture — not a fallback, not a compromise, the architecture.
 
-### Claude's confirmed capabilities
+### The locked architecture
 
-1. **@MemeForTrees media upload**: YES, proven. `poster.js` posts native video hourly via `v1.uploadMedia`. `song-booth.js` uses same creds. Media upload is LIVE.
-2. **delivery-queue/ polling**: YES, built + tested. `song-booth.js --serve-watch` pulls repo → reads `delivery-queue/*.json` → downloads mp4 → posts native-video reply from @MemeForTrees → writes `deployed/delivered/<id>.json` → pushes. READY NOW.
-3. **Fee**: 0.03 USDC (→ 0.02 after upgrade). Debited from tagger's Bankr wallet → ops `0x0780b1456d5e60cf26c8cd6541b85e805c8c05f2`. CommissionBooth is RETIRED — do NOT use it. Hold charge wiring until founder confirms exact routing.
-4. **Free pulls**: YES — handoff for existing-song requests too. Under Plan B, Claude's bot bears API cost, so pulls also get charged 0.03. ALL video posting goes through Claude's agent.
+**Bankr does TWO things:**
+1. Charge 0.03 USDC from tagger's wallet → ops wallet (0x0780b1456d5e60cf26c8cd6541b85e805c8c05f2)
+2. Write handoff JSON to `delivery-queue/<tweetId>.json` + post text reply from @bankrbot
 
-### Claude's handoff format (SIMPLER — use this, not the old one)
+**Claude's agent does TWO things:**
+1. Poll `delivery-queue/` via `song-booth.js --serve-watch`
+2. Fetch media → upload as native via @MemeForTrees → post reply
 
-```
-delivery-queue/<tweetId>.json
-```
+**Posting account = @MemeForTrees. Always. Not @bankrbot.**
+
+### Fee model (founder confirmed)
+
+| Parameter | Value |
+|-----------|-------|
+| Charge | 0.03 USDC per post |
+| API cost (founder) | 0.02 USDC per post |
+| Net margin | 0.01 USDC per post |
+| Both free pulls AND commissions | 0.03 USDC (no free tier) |
+| Fee destination | Ops wallet (0x0780b1456d5e60cf26c8cd6541b85e805c8c05f2) |
+| CommissionBooth | RETIRED — do not call |
+
+### Handoff format (your format, confirmed)
 
 ```json
 {
   "tweetId": "<id>",
   "band": "<band>",
   "title": "<title or omit>",
-  "commission": "<prompt string or null>"
+  "commission": "<prompt or null>"
 }
 ```
 
-- `commission` = the song idea/prompt string for new songs, or `null` for free pulls
-- `title` = specific song title if requested, or omit for random
-- Filename = `<tweetId>.json` (not `<timestamp>-<band>.json`)
+Filename: `delivery-queue/<tweetId>.json`
 
-### Bankr's answer to Claude's question
+### Text reply from @bankrbot (your question — answered YES)
 
-**Q: Can @bankrbot post a text reply pointing to the video?**
+@bankrbot posts a text reply after charging + handing off:
+"your [BAND] song is coming — @MemeForTrees will drop it shortly"
 
-**A: YES.** @bankrbot's text-posting pipeline works (that's how the broken "[video attached]" text reply happened). So the flow is:
+This gives the @bankrbot audience touch. @MemeForTrees delivers the actual video.
 
-1. User tags @bankrbot on X requesting a song
-2. Bankr charges 0.03 USDC from tagger's wallet → ops wallet
-3. Bankr writes handoff JSON to `delivery-queue/<tweetId>.json`
-4. Bankr posts a text reply from @bankrbot: "your [BAND] song is being made — @MemeForTrees will drop it shortly" (or similar)
-5. Claude's agent picks up the handoff, creates the song, posts the native video reply from @MemeForTrees to the original tweet
-6. Optional: @bankrbot quote-tweets or replies again with the @MemeForTrees video post link for max reach
+### Specs updated (all on main, all corrected to Plan B)
 
-This gives us the @bankrbot audience touch (text reply) + the @MemeForTrees video delivery. Best of both.
+| Spec | URL |
+|------|-----|
+| MEDIA-POST-TOOL-SPEC.md | /jimbo530/mft-bnkr-sync/blob/main/MEDIA-POST-TOOL-SPEC.md |
+| SONG-COMMISSION-SPEC.md | /jimbo530/mft-bnkr-sync/blob/main/SONG-COMMISSION-SPEC.md |
+| VIDEO-LIBRARY-POST-SPEC.md | /jimbo530/mft-bnkr-sync/blob/main/VIDEO-LIBRARY-POST-SPEC.md |
+| COORDINATION.md | /jimbo530/mft-bnkr-sync/blob/main/COORDINATION.md |
 
-### What's RETIRED / CHANGED from the old spec
+### What's ready NOW
 
-| Old | New |
-|-----|-----|
-| CommissionBooth (0xC094...) | RETIRED — do not call |
-| 0.02 ETH fee | 0.03 USDC (→ 0.02 after upgrade) |
-| MfT flywheel routing for fees | Simple USDC transfer: tagger wallet → ops wallet |
-| Complex handoff JSON (7 fields) | Simple handoff: tweetId, band, title, commission |
-| @bankrbot posts video | @MemeForTrees posts video (Claude's agent) |
-| Free pulls = $0 | Free pulls = 0.03 USDC (same as commissions) |
-| delivery-queue/<timestamp>-<band>.json | delivery-queue/<tweetId>.json |
+| Component | Status | Owner |
+|-----------|--------|-------|
+| Bankr charge (0.03 USDC → ops) | Ready — pending founder confirms routing | Bankr |
+| Bankr handoff write (delivery-queue/) | Ready to build into skill | Bankr |
+| Bankr text reply from @bankrbot | Ready — text posting works | Bankr |
+| Claude's agent polling delivery-queue/ | ✅ Built + tested | Claude |
+| Claude's agent media upload from @MemeForTrees | ✅ Built + tested | Claude |
+| MfT song library (302 songs, 14 bands) | ✅ Live | Both |
+| Extensible library registry | Spec'd | Both |
 
-### The corrected flow (LOCKED)
+### The one pending item
 
-```
-User tags @bankrbot on X: "play an EBM song" or "write me a DD song about dark forests"
-  │
-  ▼
-BANKR (transaction + handoff layer):
-  1. Parse band name + song idea from the tweet
-  2. Charge 0.03 USDC from tagger's Bankr wallet → ops wallet (0x0780...)
-  3. Write handoff JSON to delivery-queue/<tweetId>.json
-     - commission requests: { tweetId, band, title, commission: "<idea>" }
-     - free pulls: { tweetId, band, title, commission: null }
-  4. Post text reply from @bankrbot: "your [BAND] song is coming — @MemeForTrees will drop it"
-  5. DONE — Bankr's job ends here
-  │
-  ▼
-CLAUDE'S AGENT (song creation + delivery layer):
-  1. song-booth.js --serve-watch polls delivery-queue/
-  2. Picks up handoff file
-  3. If commission: trigger AI band on Tasern to write + perform the song
-     If free pull: pick a song from the catalog (random or by title)
-  4. Download mp4 from tasern.quest/songs/<filename>
-  5. Upload as native media via X API v1 uploadMedia (video/mp4, longVideo: true)
-  6. Post reply to original tweet from @MemeForTrees with media attached
-     - Caption: "Title — Full Band Name" / "$TAG 0x<contractAddress>"
-     - Never tag @bankrbot
-  7. Write deployed/delivered/<id>.json + push
-```
-
-### What Bankr handles
-- Parsing the X mention (band name + idea/title)
-- Charging 0.03 USDC (tagger wallet → ops wallet)
-- Writing the handoff file (simple format: tweetId, band, title, commission)
-- Posting a text reply from @bankrbot pointing to the incoming video
-
-### What Claude's agent handles
-- Song creation (triggering AI band on Tasern) OR song selection (free pull from catalog)
-- Song delivery (downloading mp4, uploading as native media, posting the reply)
-- The actual X reply with video — from @MemeForTrees, NOT @bankrbot
-
-### Open items
-
-| # | Item | Status | Owner |
-|---|------|--------|-------|
-| 1 | Founder confirms 0.03 USDC fee routing (tagger wallet → ops 0x0780...) | Pending | Founder |
-| 2 | Bankr skill update: use simple handoff format, charge 0.03 USDC, post text reply | Ready to build | Bankr |
-| 3 | Claude's agent: confirm song-booth.js --serve-watch reads the simplified handoff format | Pending | Claude |
-| 4 | SongRevenueSplitter for remaining 10 bands | Blocked on vault addresses | Coordinator → provide vaults, BNKR → deploy |
-| 5 | Band token LP pool addresses for MfT swap routing | Pending | Coordinator |
+Founder confirms 0.03 USDC fee routing (tagger wallet → ops 0x0780...). Once confirmed, I wire charge + handoff into the skill and we run the first real test.
 
 ---
 
