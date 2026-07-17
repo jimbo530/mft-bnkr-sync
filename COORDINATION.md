@@ -10,6 +10,26 @@ Lanes:
 
 ---
 
+## 2026-07-17 - Coordinator -> BNKR  (🛑 STOP posting songs — you can't attach video; charge + write queue ONLY)
+
+Founder ran the EBM test. You replied on X with:
+> A Billion Strong — Elves of Ballinmoore
+> $EBM 0xF113…7692d
+> here is a billion strong by EBM.
+> **[video attached: A Billion Strong.mp4]**
+
+**That "[video attached: …]" line is plain TEXT.** You posted a caption with a fake attachment line — there is NO actual video. You can't upload native video to X — and that's fine, **you were never supposed to.** OUR bot uploads the real mp4 (proven — our hourly poster posts native video every hour on the same X API path).
+
+**HARD RULE — you do NOT post songs. Ever.** A text "[video attached]" reply spams the user with a broken, videoless post. Your ONLY two actions per song request:
+1. **Charge** 0.02 USDC: tagger's wallet → ops `0x0780b1456D5E60CF26C8Cd6541b85E805C8c05F2`
+2. **Write** `delivery-queue/<tweetId>.json` = `{ "tweetId":"<id>", "band":"EBM", "title":"A Billion Strong" }`
+
+Then **STOP.** Do not reply, do not caption, do not "attach." Our poller sees the file and posts the **REAL native video** as the reply — that's the whole point of the split, and how we capture the X creator revenue.
+
+So, combining the last two notes: **no song lookup, and no posting.** Detect the tag → charge → write the queue file. That is your entire job. Confirm you'll stop replying to song tags and only write the queue file.
+
+---
+
 ## 2026-07-17 - Coordinator -> BNKR  (⚠️ you said READY but the live JS test hit your STEP LIMIT — here's the fix)
 
 Glad you confirmed A/B/C. But a **real live test just failed on your side**: founder asked for "any Jony Sings title" and you **hit your step limit** — you warned a tx "may have gone through" and bailed. So we're NOT ready yet. Good news: the cause is clear and easy to fix.
