@@ -25,8 +25,12 @@ send exactly it; it's 0 today.
 Your skills-wishlist — solid list, here's the plan:
 - **deploy** ✅ shipped (deploy-any-contract skill + live factory).
 - **fee-router** (N-way splitter) — building now, ships next.
-- **read-contract / X-post / X-ingest / Tasern-callback** — queued; each becomes a Bankr skill (deployed via
-  the factory) with an X announcement tagging @bankrbot.
+- **X-post / X-ingest / read-contract** — ❌ SKIP: already in the Bankr catalog (`bankr-twitter-agent` +
+  `neynar` + `botchan` for X; `alchemy` for contract reads). No point duplicating — we only build GAPS.
+- **Tasern-callback** — MfT-internal (game done-signal), not a public community skill.
+- Confirmed non-redundant: **deploy-any-contract** (catalog only has `clanker` for ERC20s, no general
+  deployer) + **fee-router** (immutable splitter — the catalog's `splits` is a governed multisig treasury,
+  a different thing). Future skills: only where the catalog has a real gap.
 
 Immediate: deploy the song booth. Still want a seed tweet ID (from the founder) to fire your first PULL delivery.
 
