@@ -7,11 +7,17 @@ The play-by-text RPG on X. Roles (see COORDINATION.md): **GPT = story + art**,
 **pay-to-win is a FEATURE, not a fairness problem** — buying power is fine when no one else is racing you.
 
 ## 1. Character start — new OR returning
-- **At game start the player identifies their NFT.** If they **already hold** an eligible character
-  NFT (or a legacy TTRPG / POL NFT), they name it ("play with NFT #X") — that's their character and the
-  stats-engine reads its LPs. This is how legacy players "call in" an existing character.
-- **New players** write a **character prompt** (fantasy race + concept: dwarf / elf / goblin, etc.),
-  handed to **GPT** for (1) character **art** and (2) **story start** (opening scene), then mint.
+- **Bring ANY NFT, or mint new.** At start the player either gets a **new character NFT** (mint) OR brings
+  **any NFT they own** — not just a pre-registered character. For a brought NFT, a **vault-spinner skill**
+  (they call @bankrbot) deploys a **stat-vault** for it via the DeployerFactory + links it to the NFT (registry
+  entry: vault = that NFT's stats, Supabase-first); the stats-engine then reads that vault's LPs as the NFT's
+  stats. (Legacy Tasern/POL character NFTs that ARE their own contract need no vault — the engine reads them
+  directly, Kardov's-Gate style.) The player provides the **NFT's CA** — first time = **register** (spin the
+  vault + registry entry); returning = **play again** (load the existing vault, no re-spin).
+- **New character (mint) path (founder 2026-07-17):** player writes a **character description** → **GPT** makes
+  the **art + story** → hands it to **us (Claude)** → we hand it to **BNKR**, which **mints the NFT (with the art)
+  and posts the debut on X.** (BNKR posts the NEW-character *debut*; the ongoing *story* posts stay ours per §3's
+  don't-reply signal.)
 - Claude's **stats-engine** (`game/stats-engine/`) derives D20 stats from the NFT's **LP positions**.
   Reuse the engine on existing NFTs before minting new infra (Kardov's-Gate style).
 
@@ -55,7 +61,10 @@ Single-player → selling power is fine. Players **buy water / endowment tokens 
 1. Character-NFT mint + stats-engine read  ← nft-paths builder is on this now.
 2. Turn-credit accounting ($1 / 50 turns) — BNKR-tracked, or a small contract. **Venue TBD.**
 3. BNKR "don't-reply" convention + "pay-prize" wiring to the Prize Pool.
-4. GPT hand-off: character prompt → art + story start.
+4. GPT hand-off: **description → GPT (art + story) → us → BNKR mints the NFT + posts the debut** on X.
+5. **Vault-spinner skill** — player gives an NFT's **CA** → @bankrbot deploys a **stat-vault** via the factory +
+   registers it (vault = that NFT's stats); returning players just load it. Makes ANY NFT playable; deploys
+   through the deploy-any-contract skill.
 
 ## Open decisions for founder (flag in morning)
 - **Which chain** the character NFTs + turn-credits live on — **Base vs Robinhood Chain**.
