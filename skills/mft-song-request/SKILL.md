@@ -1,6 +1,6 @@
 ---
 name: mft-song-request
-description: Serve a Meme for Trees song as an X reply. Use when a user on X asks to hear a song from one of the MfT bands — e.g. "play something from EBM", "post a Rish song", "give me a Bongo track", "got any DGT?". Look up the band in songs-catalog.json (in references/), pick a song (random or best match to any title hint the user gave), and reply to the requester's tweet with the video URL embedded and the correct caption. For band-token songs the caption MUST include the band's $TAG and CA on the same line. Never tag @bankrbot in the post. One cashtag per post only.
+description: Serve a Meme for Trees song as an X reply. Use when a user on X asks to hear a song from one of the MfT bands — e.g. "play something from EBM", "post a Rish song", "give me a Bongo track", "got any DGT?". Look up the band in songs-catalog.json (in references/), pick a song (random or best match to any title hint the user gave), download the mp4, upload it as native media via the X API, and reply to the requester's tweet with the video attached and the correct caption. For band-token songs the caption MUST include the band's $TAG and CA on the same line. Never tag @bankrbot in the post. One cashtag per post only.
 ---
 
 # Meme for Trees — Song Request
@@ -10,7 +10,7 @@ When a user on X asks for a song from a Meme for Trees band, Bankr:
 1. Parses the band name from the request (case-insensitive, aliases accepted — see Band Name Aliases below).
 2. Looks the band up in `references/songs-catalog.json`.
 3. Picks a song — random by default; if the user named a title, pick the closest match.
-4. Posts a reply to the requesting tweet with the video URL and the correct caption.
+4. Downloads the mp4 from `videoUrl`, uploads it as native media via the X API, and posts a reply to the requesting tweet with the video attached and the correct caption.
 
 No wallet transactions. No approvals. X post only.
 
@@ -75,14 +75,12 @@ Filter by `band` field (case-insensitive match against canonical name). If the u
 
 ## Caption rules
 
-Build the reply caption as follows:
+Build the reply caption as follows. The caption is the TEXT of the tweet — the video is attached separately as native media (see Video delivery), NOT pasted as a URL.
 
 ### Band-token songs (type = "band-token-song")
 
 ```
 [Title] — [Full band name]
-
-[videoUrl]
 
 [tag] [ca]
 ```
@@ -91,8 +89,6 @@ Example for EBM "Canopy Law":
 ```
 Canopy Law — Elves of Ballinmoore
 
-https://tasern.quest/songs/Canopy%20Law.mp4
-
 $EBM 0xF113fe2A0E1181A21fA97B1F52ff232140B7692d
 ```
 
@@ -100,8 +96,6 @@ $EBM 0xF113fe2A0E1181A21fA97B1F52ff232140B7692d
 
 ```
 [Title] — CB
-
-[videoUrl]
 
 $MfT
 ```
@@ -115,8 +109,6 @@ Same format as band-token-song. The band still has a tag and/or CA — include t
 ```
 [Title] — Seize the Seas OST
 
-[videoUrl]
-
 tasern.quest
 ```
 
@@ -124,8 +116,6 @@ tasern.quest
 
 ```
 [Title] — EBM Grove Report / Base Wire
-
-[videoUrl]
 
 $EBM 0xF113fe2A0E1181A21fA97B1F52ff232140B7692d
 ```
@@ -140,11 +130,33 @@ The `tag` field in the catalog entry is the single cashtag to use. CB tracks use
 
 ---
 
-## Video delivery
+## Video delivery (CRITICAL — native media, not URL embed)
 
-- Include `videoUrl` in the post body — X will embed the video if the integration supports direct URL embed.
-- If Bankr's X integration supports file attachment: the file is at `D:\suno-pipeline\auto\output\[filename]` on the originating machine. Prefer URL embed; note attachment path as fallback only.
-- Do NOT include the file path in the public post — URL only.
+X does NOT inline-play arbitrary mp4 URLs. A bare `videoUrl` pasted into the tweet body
+will render as a plain text link, not a video player. The video only plays inline if it
+is uploaded as native media and the resulting media id is attached to the tweet.
+
+Delivery flow (via `execute_cli` with `twitter-api-v2@1.17.2`, env vars required):
+
+1. Download the mp4 from the catalog entry's `videoUrl` to a local temp file.
+2. Upload it as native media using the X API v1 media endpoint:
+   - `client.v1.uploadMedia(fileBuffer, { mimeType: 'video/mp4', longVideo: true })`
+   - Returns a `mediaIdString`.
+   - `longVideo: true` is required for videos > ~15s / larger chunks.
+3. Post the reply with the media attached:
+   - `client.v2.reply(captionText, originalTweetId, { media: { media_ids: [mediaIdString] } })`
+4. The caption text follows the Caption rules above (title + band name + cashtag line).
+   Do NOT include the `videoUrl` in the tweet body — the video is attached as media.
+
+Required env vars (set under Tools → Environment Variables):
+- `X_API_KEY`, `X_API_KEY_SECRET`, `X_ACCESS_TOKEN`, `X_ACCESS_TOKEN_SECRET`
+  (from the X Developer Portal, Read and Write permissions)
+
+If X API credentials are not configured, the delivery CANNOT attach a video — report
+that the credentials are missing rather than falling back to a URL-in-body post.
+
+Do NOT include the on-disk file path in the public post. Do NOT include `videoUrl`
+in the public post. The video is attached as native media only.
 
 ---
 
@@ -161,6 +173,8 @@ Songs with `band:"unmapped"` are pipeline artifacts with no confirmed metadata. 
 | Band name not recognised          | "I don't know that band. Try: EBM, Rish, Bongo, DGT, DD, MR, JS, NN, Myco, CB, RickyBobbie, HammerTone, WarMachine, Biggins, or Jasmine." |
 | Title requested but not found     | Pick a random song from the band and note the requested title wasn't found. |
 | Catalog empty for that band       | "No songs found for [BAND] yet."                               |
+| X API credentials missing         | Report that X API env vars are not configured; do not post a URL-only reply. |
+| Media upload fails                | Report the error — do not silently fall back to a URL-in-body post. |
 | X post fails                      | Report the error — do not silently swallow it.                  |
 
 ---
