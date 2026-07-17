@@ -11,8 +11,8 @@
   },
   "setup": [
     "Install: `npx skills add mft-song-request`",
-    "No on-chain transactions required — this skill only posts to X",
-    "Bankr must have X posting permissions configured",
+    "Charge a 0.01 $BNKR fee to the BNKR wallet 0xd7dfc7fe6c2b582b142dbc23ad172f735106b598 FIRST — this on-chain transfer is the TRIGGER (a tag with no on-chain action does not fire the agent) and it accrues BNKR points",
+    "Fees are never charged in Money for Trees; this fee is $BNKR only",
     "Trigger: a user on X asks for a song from a Meme for Trees band"
   ],
   "install": {

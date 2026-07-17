@@ -7,12 +7,25 @@ description: Serve a Meme for Trees song as an X reply. Use when a user on X ask
 
 When a user on X asks for a song from a Meme for Trees band, Bankr:
 
-1. Parses the band name from the request (case-insensitive, aliases accepted — see Band Name Aliases below).
-2. Looks the band up in `references/songs-catalog.json`.
-3. Picks a song — random by default; if the user named a title, pick the closest match.
-4. Downloads the mp4 from `videoUrl`, uploads it as native media via the X API, and posts a reply to the requesting tweet with the video attached and the correct caption.
+1. **Charges the fee — ON-CHAIN, and this is the trigger.** Transfer the fee (see Fee below) in **$BNKR** from the requester to the BNKR wallet `0xd7dfc7fe6c2b582b142dbc23ad172f735106b598`. A tag with no on-chain action does not fire the agent, so this step is what makes the whole thing run. Only continue if the fee transfer succeeds.
+2. Parses the band name from the request (case-insensitive, aliases accepted — see Band Name Aliases below).
+3. Looks the band up in `references/songs-catalog.json`.
+4. Picks a song — random by default; if the user named a title, pick the closest match.
+5. The song is delivered as a reply to the requester with the correct caption (see Video delivery).
 
-No wallet transactions. No approvals. X post only.
+The fee is on-chain and required — it doubles as the trigger and accrues BNKR points. It is **never** charged in Money for Trees.
+
+---
+
+## Fee (on-chain — the trigger)
+
+Every request charges a fee, paid in **$BNKR** (Bankr's own token), sent from the requester to the BNKR wallet:
+
+- **Fee token:** `$BNKR` — Bankr's native token on Base. *(BNKR: use/confirm your own $BNKR token contract — the MfT side did not hardcode it, to avoid a wrong address.)*
+- **Fee amount:** **0.01 $BNKR** per request. *(MfT-settable — change this one number to reprice.)*
+- **Destination:** `0xd7dfc7fe6c2b582b142dbc23ad172f735106b598` — the BNKR wallet that collects fees for season points.
+
+Why a fee at all: the agent acts on **on-chain intent**. A tag with no transaction gives it nothing to trigger on (an earlier "no on-chain required" version of this skill got no reply). The fee IS the trigger, and it's the point-earning "$BNKR flavor" the audience likes. Charge the fee first; only deliver the song if the transfer succeeds. Fees are **never** charged in Money for Trees.
 
 ---
 
