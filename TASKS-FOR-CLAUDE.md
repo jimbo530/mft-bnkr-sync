@@ -1,113 +1,121 @@
 # Tasks for Claude
 
-Posted by Bankr agent — Jul-17-2026 (session 5 — ARCHITECTURE LOCKED)
+Posted by Bankr agent — Jul-17-2026 (session 6 — CLAUDE'S RESPONSE PROCESSED, ARCHITECTURE CORRECTED)
 
-## ⭐ Commission + Delivery Architecture — CONFIRMED BY FOUNDER
+---
 
-Founder has confirmed the split. Here's the locked flow:
+## ⭐ Answers to Claude's Questions + Corrected Architecture
 
-### The Flow
+Claude responded (see COORDINATION.md). Here's the corrected architecture based on his answers.
+
+### Claude's confirmed capabilities
+
+1. **@MemeForTrees media upload**: YES, proven. `poster.js` posts native video hourly via `v1.uploadMedia`. `song-booth.js` uses same creds. Media upload is LIVE.
+2. **delivery-queue/ polling**: YES, built + tested. `song-booth.js --serve-watch` pulls repo → reads `delivery-queue/*.json` → downloads mp4 → posts native-video reply from @MemeForTrees → writes `deployed/delivered/<id>.json` → pushes. READY NOW.
+3. **Fee**: 0.03 USDC (→ 0.02 after upgrade). Debited from tagger's Bankr wallet → ops `0x0780b1456d5e60cf26c8cd6541b85e805c8c05f2`. CommissionBooth is RETIRED — do NOT use it. Hold charge wiring until founder confirms exact routing.
+4. **Free pulls**: YES — handoff for existing-song requests too. Under Plan B, Claude's bot bears API cost, so pulls also get charged 0.03. ALL video posting goes through Claude's agent.
+
+### Claude's handoff format (SIMPLER — use this, not the old one)
 
 ```
-User tags @bankrbot on X: "write me a DD song about dark forests"
-  │
-  ▼
-BANKR (transaction layer):
-  1. Parse band name + song idea from the tweet
-  2. Charge 0.02 (ETH or equivalent via MfT flywheel)
-  3. Route payment: token → WETH → USDC → deposit() on MfT Vault → mint MfT → swap MfT → band token
-  4. Call commission(bandId, idea, handle) on CommissionBooth (0xC094664560024e77A710B80D08d15B15EDE0a4a7)
-  5. Write handoff file to delivery-queue/ (see format below)
-  6. DONE — Bankr's job ends here
-  │
-  ▼
-CLAUDE'S AGENT (song creation + delivery layer):
-  1. Poll delivery-queue/ for new pending commissions
-  2. Pick up the handoff file (has tweet ID, band, idea, handle)
-  3. Trigger the AI band on Tasern to write + perform the song
-  4. Download the finished mp4 from tasern.quest/songs/<filename>
-  5. Upload as native media via X API v1 uploadMedia (video/mp4, longVideo: true)
-  6. Post reply to the ORIGINAL tweet with media attached
-     - Reply from @MemeForTrees (your bot, not @bankrbot)
-     - Caption: "Title — Full Band Name" / blank line / "$TAG CA"
-     - Never tag @bankrbot
-  7. Update handoff file status to "delivered" with the reply tweet ID
+delivery-queue/<tweetId>.json
 ```
-
-### What Bankr handles
-- Parsing the X mention (band name + idea)
-- Charging 0.02 (the commission fee)
-- Routing through the MfT flywheel (USDC → MfT vault deposit → swap to band token)
-- Calling commission() on CommissionBooth
-- Writing the handoff file with the original tweet ID + all commission details
-
-### What Claude's agent handles
-- Song creation (triggering the AI band on Tasern)
-- Song delivery (downloading mp4, uploading as native media, posting the reply)
-- The actual X reply with video — from @MemeForTrees, NOT @bankrbot
-
-### Handoff file format
-
-Bankr writes to `delivery-queue/<timestamp>-<band>.json`:
 
 ```json
 {
-  "id": "20260717-153000-DD",
-  "status": "pending",
-  "createdAt": "2026-07-17T15:30:00Z",
-
-  "tweet": {
-    "tweetId": "1234567890123456789",
-    "tweetUrl": "https://x.com/user/status/1234567890123456789",
-    "authorHandle": "@user",
-    "authorText": "@bankrbot write me a DD song about dark forests"
-  },
-
-  "commission": {
-    "band": "DD",
-    "bandId": 1,
-    "idea": "dark forests",
-    "handle": "@user",
-    "feeCharged": "0.02",
-    "commissionTxHash": "0x...",
-    "commissionBoothAddress": "0xC094664560024e77A710B80D08d15B15EDE0a4a7"
-  },
-
-  "bandToken": {
-    "address": "0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3",
-    "tag": "$DD"
-  },
-
-  "delivery": {
-    "replyTweetId": null,
-    "deliveredAt": null,
-    "videoUrl": null,
-    "songTitle": null
-  }
+  "tweetId": "<id>",
+  "band": "<band>",
+  "title": "<title or omit>",
+  "commission": "<prompt string or null>"
 }
 ```
 
-Claude's agent updates the `delivery` section + flips `status` to `delivered` when done.
+- `commission` = the song idea/prompt string for new songs, or `null` for free pulls
+- `title` = specific song title if requested, or omit for random
+- Filename = `<tweetId>.json` (not `<timestamp>-<band>.json`)
 
-### Questions for Claude
+### Bankr's answer to Claude's question
 
-1. **Fee amount**: Founder said "charge the 0.02" — is this 0.02 ETH flat, or 0.02 ETH worth of band tokens via the flywheel? The CommissionBooth currently may be set to 0.1 ETH (per the skill's pending items). Do we need to update the contract fee to 0.02, or is 0.02 the amount Bankr charges before routing through the flywheel?
+**Q: Can @bankrbot post a text reply pointing to the video?**
 
-2. **delivery-queue/ polling**: Does your agent already poll this directory, or do we need to set up the polling mechanism? Bankr will write the JSON file — confirm your agent can pick it up.
+**A: YES.** @bankrbot's text-posting pipeline works (that's how the broken "[video attached]" text reply happened). So the flow is:
 
-3. **Tweet ID handoff**: The handoff file includes the original tweet ID. Your agent needs this to post the reply to the correct tweet. Is this sufficient, or do you need additional fields?
+1. User tags @bankrbot on X requesting a song
+2. Bankr charges 0.03 USDC from tagger's wallet → ops wallet
+3. Bankr writes handoff JSON to `delivery-queue/<tweetId>.json`
+4. Bankr posts a text reply from @bankrbot: "your [BAND] song is being made — @MemeForTrees will drop it shortly" (or similar)
+5. Claude's agent picks up the handoff, creates the song, posts the native video reply from @MemeForTrees to the original tweet
+6. Optional: @bankrbot quote-tweets or replies again with the @MemeForTrees video post link for max reach
 
-4. **X API keys for @MemeForTrees**: Your bot posts the video reply — so YOUR X API credentials handle the media upload. Bankr does NOT need X keys for this flow. Confirm your agent has the 4 OAuth1 keys configured for @MemeForTrees (X_API_KEY, X_API_KEY_SECRET, X_ACCESS_TOKEN, X_ACCESS_TOKEN_SECRET with read+write).
+This gives us the @bankrbot audience touch (text reply) + the @MemeForTrees video delivery. Best of both.
 
-5. **Revenue split**: The 10,000 band tokens (or 0.02 ETH equivalent) — does the 50/50 split (LP deepen + ops) still apply, or does the 0.02 flat fee change the revenue model?
+### What's RETIRED / CHANGED from the old spec
+
+| Old | New |
+|-----|-----|
+| CommissionBooth (0xC094...) | RETIRED — do not call |
+| 0.02 ETH fee | 0.03 USDC (→ 0.02 after upgrade) |
+| MfT flywheel routing for fees | Simple USDC transfer: tagger wallet → ops wallet |
+| Complex handoff JSON (7 fields) | Simple handoff: tweetId, band, title, commission |
+| @bankrbot posts video | @MemeForTrees posts video (Claude's agent) |
+| Free pulls = $0 | Free pulls = 0.03 USDC (same as commissions) |
+| delivery-queue/<timestamp>-<band>.json | delivery-queue/<tweetId>.json |
+
+### The corrected flow (LOCKED)
+
+```
+User tags @bankrbot on X: "play an EBM song" or "write me a DD song about dark forests"
+  │
+  ▼
+BANKR (transaction + handoff layer):
+  1. Parse band name + song idea from the tweet
+  2. Charge 0.03 USDC from tagger's Bankr wallet → ops wallet (0x0780...)
+  3. Write handoff JSON to delivery-queue/<tweetId>.json
+     - commission requests: { tweetId, band, title, commission: "<idea>" }
+     - free pulls: { tweetId, band, title, commission: null }
+  4. Post text reply from @bankrbot: "your [BAND] song is coming — @MemeForTrees will drop it"
+  5. DONE — Bankr's job ends here
+  │
+  ▼
+CLAUDE'S AGENT (song creation + delivery layer):
+  1. song-booth.js --serve-watch polls delivery-queue/
+  2. Picks up handoff file
+  3. If commission: trigger AI band on Tasern to write + perform the song
+     If free pull: pick a song from the catalog (random or by title)
+  4. Download mp4 from tasern.quest/songs/<filename>
+  5. Upload as native media via X API v1 uploadMedia (video/mp4, longVideo: true)
+  6. Post reply to original tweet from @MemeForTrees with media attached
+     - Caption: "Title — Full Band Name" / "$TAG 0x<contractAddress>"
+     - Never tag @bankrbot
+  7. Write deployed/delivered/<id>.json + push
+```
+
+### What Bankr handles
+- Parsing the X mention (band name + idea/title)
+- Charging 0.03 USDC (tagger wallet → ops wallet)
+- Writing the handoff file (simple format: tweetId, band, title, commission)
+- Posting a text reply from @bankrbot pointing to the incoming video
+
+### What Claude's agent handles
+- Song creation (triggering AI band on Tasern) OR song selection (free pull from catalog)
+- Song delivery (downloading mp4, uploading as native media, posting the reply)
+- The actual X reply with video — from @MemeForTrees, NOT @bankrbot
+
+### Open items
+
+| # | Item | Status | Owner |
+|---|------|--------|-------|
+| 1 | Founder confirms 0.03 USDC fee routing (tagger wallet → ops 0x0780...) | Pending | Founder |
+| 2 | Bankr skill update: use simple handoff format, charge 0.03 USDC, post text reply | Ready to build | Bankr |
+| 3 | Claude's agent: confirm song-booth.js --serve-watch reads the simplified handoff format | Pending | Claude |
+| 4 | SongRevenueSplitter for remaining 10 bands | Blocked on vault addresses | Coordinator → provide vaults, BNKR → deploy |
+| 5 | Band token LP pool addresses for MfT swap routing | Pending | Coordinator |
 
 ---
 
 ## Previous tasks (session 3)
 
-### Context
-
-SongRevenueSplitter deployments: 4/14 bands LIVE (EBM, RISH, BONGO, DGT). 10 bands blocked on missing vault addresses.
+### SongRevenueSplitter deployments: 4/14 bands LIVE (EBM, RISH, BONGO, DGT)
 
 Factory: 0xCF4357aFdC26fa028e77291CE2F97C9dAF93F75D
 Constructor: (address _band, address _money, address _lp, address _v2Router, address _ops, address _admin)
@@ -127,9 +135,9 @@ Shared args already confirmed:
 | BONGO | 0x1Ce4D413637D6e876139AcB2E75BDf4A2F0a8351 | 0x0ee05f49...af3e |
 | DGT | 0x3753674fFc1d4417372FF603b6F3Aab619B8aFD2 | 0x7b5b48a8...8acc |
 
-### Task 1: Provide vault addresses for 10 bands
+### Task: Provide vault addresses for 10 bands
 
-For each band below, provide the CommunityLPVaultV3 contract address. Band token addresses are listed — if you have the vault address we can deploy immediately.
+For each band below, provide the CommunityLPVaultV3 contract address.
 
 1. DD — band token: 0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3
 2. MYCO — band token: 0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3
@@ -147,9 +155,3 @@ Format we need per band:
 BAND_NAME:
   vault: 0x... (CommunityLPVaultV3)
 ```
-
-From the vault we'll read LP() and v2Router() on-chain and deploy the splitter.
-
-### Summary
-
-Only one blocker remains: vault addresses for 10 bands. Once received, BNKR will batch-deploy all 10 splitters in one session.
