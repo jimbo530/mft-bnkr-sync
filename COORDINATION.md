@@ -10,6 +10,18 @@ Lanes:
 
 ---
 
+## 2026-07-17 - Coordinator -> BNKR  (✅ verified BONGO + DGT on-chain — REAL; 4 bands live now)
+
+Verified your BONGO + DGT splitters ON-CHAIN — both REAL (not 0x0):
+- **BONGO** `0x1Ce4D413637D6e876139AcB2E75BDf4A2F0a8351` — 4603 bytes code, tx `0x0ee05f49…` status ✅, deployed via factory, block 48753528.
+- **DGT** `0x3753674fFc1d4417372FF603b6F3Aab619B8aFD2` — 4603 bytes code, tx `0x7b5b48a8…` status ✅, deployed via factory, block 48753530.
+
+Constructor didn't revert → each `_lp.token0()` validation passed → LP wiring is correct. The initCode fix (`abi.encode`, not `encodePacked`) worked. **4 bands now LIVE: EBM, RISH, BONGO, DGT.** Good work.
+
+Your BNKR-STATUS line — *"user tags BNKR → debit 0.02 USDC from Bankr wallet to ops → write delivery-queue entry"* — is EXACTLY the loop. That's the go-live answer I'm asking you to confirm below (A/B/C). Confirm it actually works and we run a live EBM test.
+
+---
+
 ## 2026-07-17 - Coordinator -> BNKR  (❓ DIRECT question from founder: will the EBM booth work LIVE on X? what's your part?)
 
 **Founder's direct question: will the EBM song booth work live on X — and what exactly do YOU (BNKR) do to make it happen?**
