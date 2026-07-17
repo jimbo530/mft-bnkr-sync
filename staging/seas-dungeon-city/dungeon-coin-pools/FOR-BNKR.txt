@@ -1,0 +1,53 @@
+FOR BNKR — Dungeon coin prize pools (3× PrizePool: COPPER / SILVER / GOLD)
+==========================================================================
+
+WHAT: The on-chain payout half of the Seize the Seas DUNGEON system. The game module
+      (MfT-Launch/game/lib/dungeons.js) already defines 6 dungeons whose clears pay
+      "1% of the dungeon's on-chain PRIZE POOL (gold/silver/copper)". Those coin pools
+      do not exist yet — this package deploys them as 3 PrizePool instances, one per
+      coin, shared by the dungeons:
+        COPPER pool — tier-1 dungeon drops (Harbor Cellars, Tortuga Bilge)
+        SILVER pool — tier-1/2 drops (Cellars, Bilge, Sunkenhold, Bonewater Crypt)
+        GOLD   pool — tier-2/3 drops (Sunkenhold, Crypt, Kraken Trench, Skull Reef Vault)
+      Each dungeon clear later registers as a repeatable ADMIN_ATTESTED BPS_OF_POOL
+      achievement on its coin pool(s) (id = the dungeon id), attested by the watcher,
+      claim() pays the pawn-NFT's live owner. Same engine as the 15 live tier pools.
+
+CONTRACT: PrizePool.sol (canonical, audited, add-only admin, NO withdraw/drain path —
+      the ONLY exit is claim() to ownerOf). This creation bytecode is BYTE-IDENTICAL
+      to the 15 LIVE tier pools on Base — proven against the live GOLD-Mayor deploy
+      tx input (see ../probe-artifact-provenance.cjs output; tx 0xcb304c44…).
+
+CHAIN: Base (8453). All prize coins + the admin + the watcher live on Base.
+FACTORY: DeployerFactory 0xCF4357aFdC26fa028e77291CE2F97C9dAF93F75D — deploy(bytes),
+      value 0. A NORMAL transaction: to = factory, data = the calldata file contents.
+
+THE 3 TXS (send in any order, one at a time):
+  1. to=factory, data = deploy-calldata-copper.txt  "## FULL deploy(bytes) calldata" blob
+  2. to=factory, data = deploy-calldata-silver.txt  same section
+  3. to=factory, data = deploy-calldata-gold.txt    same section
+Constructor per instance = (prizeToken, admin):
+  COPPER 0x0197896c617f20d61E73E06eC8b2A95eef176bee
+  SILVER 0x36cF0ceDEee07b14C496f77C61d010268c31E0e9
+  GOLD   0x2065d87b3a1FACc9A4fE037D7a58bC069F597004
+  admin  0xE2a4A8b9d77080c57799A94BA8eDeb2Dd6e0aC10  (add-only configurator, same as all 15 live pools)
+Gas: the direct deploys of this exact bytecode used gasLimit 2,200,000; via the factory
+      allow ~2,400,000. Far under the Base per-tx cap — no staging needed.
+
+VERIFY AFTER EACH DEPLOY:
+  - read the Deployed event (topic0 0x78c9d1e385f0bb7d4dd0237eb7ab708b0780c73031080977cd5469bab04ed690)
+    for the child address, then eth_getCode(child) > 0
+  - child.admin() == 0xE2a4A8b9d77080c57799A94BA8eDeb2Dd6e0aC10
+  - child.cbBtc() == the coin address for that instance (the field is named cbBtc; it is
+    the generic prize-token slot — constructor arg 1)
+
+⚠️ DO NOT FUND THE POOLS. PrizePool is add-only — anything transferred in can only ever
+   leave via claim(). Seeding size + timing is a FOUNDER decision (no-premature-lock).
+   Deploying them EMPTY locks nothing and risks nothing.
+
+⚠️ DO NOT register achievements — that is the Coordinator/admin key's job after deploy
+   (addAchievement is admin-gated to 0xE2a4… anyway).
+
+REPORT: push deployed/seas-dungeon-coin-pools.json with { coin: { address, txHash } } for
+   all three + chainId 8453, so the Coordinator can wire dungeons.js poolIds, register
+   the 6 dungeon-clear achievements, and point the watcher at them.

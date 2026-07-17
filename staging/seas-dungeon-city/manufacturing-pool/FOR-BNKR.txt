@@ -1,0 +1,49 @@
+FOR BNKR — ManufacturingPool (player-owned production line)
+===========================================================
+
+⚠️ HOLD — DO NOT DEPLOY YET. The contract is FOUNDER-GATED ("deploy when wired +
+   founder-go", recorded at build time 2026-06-27). This package stages the proven
+   artifact + the recipe so the moment the founder says go, instances are one normal
+   tx away. The Coordinator promotes this to TASKS-FOR-BNKR with args pinned.
+
+WHAT: The layer-(b) BUSINESS primitive of the camp→town system — a LOCATION-KEYED,
+      OWNER-WITHDRAWABLE, automated production pool (the player's business). Owner
+      deposits input stock (logs/ore/ingredients), process() converts by a fixed
+      recipe into pre-funded output stock, owner can ALWAYS withdraw either side.
+      Stock is NEVER locked (that is the founder's design, permanently — it is
+      working capital, not an escape hatch). seal() freezes only the RECIPE.
+      Complements (does not replace) the LIVE StructureFactory foundation layer
+      0x98D4306095f67035780DafB7D5897B4fE04EA647, which locks the build stake.
+
+STATUS: built + FULLY FORK-VERIFIED (mftusd-build/fork-test-manufacturing-pool.cjs,
+      A–L pass: deposit/withdraw no-lock, multi+single-input conversion, input cap,
+      owner+keeper gating, seal-freezes-recipe-not-stock, presence storefront).
+      NEVER deployed anywhere. Artifact: mftusd-build/ManufacturingPool.json
+      (this folder's creation-bytecode.txt is that artifact's bytecode, 8,526 bytes).
+
+CHAIN: Base (8453).
+FACTORY-SAFE: yes — constructor takes owner explicitly (nothing grants powers to
+      msg.sender at construction): constructor(address _owner, uint256 _location,
+      address _keeper, address _gameSigner).
+
+PER-INSTANCE ARGS (pinned at promotion time, one instance per player business):
+  _owner       the PLAYER wallet that owns the business (never the factory, never BNKR)
+  _location    the hex/location id the business is keyed to (immobile)
+  _keeper      automation wallet allowed to call process() (0x0 = owner only)
+  _gameSigner  presence attestor for the OPTIONAL public storefront (0x0 = none)
+initCode = creation-bytecode.txt ++ abi.encode(address,uint256,address,address).
+deploy tx: to = DeployerFactory 0xCF4357aFdC26fa028e77291CE2F97C9dAF93F75D,
+  data = deploy(bytes initCode), value 0. Gas: allow ~2,600,000.
+
+POST-DEPLOY (owner key, not BNKR): setRecipe(...), deposit stock, optionally
+  setPublicBuy(...). seal() only when the line design is final.
+
+STILL OPEN BEFORE UN-GATING (why this is a HOLD):
+  1. FOUNDER-GO — the gate is a founder decision on when player businesses open.
+  2. Wage/goods waters per site (the modular 50/50 WaterV2 pair) attach via keeper —
+     wiring plan not final.
+  3. First instances: which structures/players/locations get lines first, and the
+     keeper + gameSigner wallets to use.
+
+REPORT (when live): push deployed/manufacturing-pools.json entries
+  { owner, location, address, txHash } per instance.

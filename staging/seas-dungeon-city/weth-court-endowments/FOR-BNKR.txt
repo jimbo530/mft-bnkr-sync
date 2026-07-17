@@ -1,0 +1,59 @@
+FOR BNKR — WETH CourtEndowments (5× — the "same taxing system" for the WETH prize line)
+=======================================================================================
+
+WHAT: The founder asked (2026-06-25) for the 5 deployed-but-EMPTY WETH tier PrizePools to
+      be filled "with the same taxing system" as the cbBTC line. That system is
+      CourtEndowment: permanent USDC principal → Aave; keeper harvest() takes ONLY the
+      yield, buys the prize token, sends 100% to the tier's PrizePool. The live cbBTC
+      endowments are cbBTC only by CONSTRUCTOR ARG — the contract is fully parameterized,
+      so the SAME bytecode deploys the WETH variant with zero code changes.
+
+CONTRACT: CourtEndowment.sol — no owner over funds, principal can NEVER be withdrawn,
+      keepers can only trigger harvests. This creation bytecode is the artifact the 5
+      LIVE cbBTC endowments were deployed from (all 5 re-verified on-chain today:
+      code present, wired to their cbBTC pools).
+
+CHAIN: Base (8453).
+FACTORY: DeployerFactory 0xCF4357aFdC26fa028e77291CE2F97C9dAF93F75D — deploy(bytes), value 0.
+      Factory-safe: admin/wirer/keepers are ALL explicit constructor args (nothing reads
+      msg.sender at construction), and prizePool is wired AT CONSTRUCTION — there is no
+      post-deploy setPrizePool step to forget.
+
+THE 5 TXS (one per tier, one at a time):
+  to=factory, data = the "## FULL deploy(bytes) calldata" blob of:
+    deploy-calldata-mayor.txt      → funnels to WETH-Mayor     pool 0x0590AE358c9DdDBbe36CCf5D9F9FBe69290980f2
+    deploy-calldata-lord.txt       → funnels to WETH-Lord      pool 0x98750a778E8A65C5Deac9BA26ceDCf8bb8c9A66B
+    deploy-calldata-pettyking.txt  → funnels to WETH-PettyKing pool 0x2C7737eaAa70e031EDd04d3712525368d93C0a9A
+    deploy-calldata-highking.txt   → funnels to WETH-HighKing  pool 0xf17792CACE3FD578a7b2d75e19afeA301f6c8D7f
+    deploy-calldata-emperor.txt    → funnels to WETH-Emperor   pool 0x15B5F48d378D1F73fd151a6eD3B97508C818498a
+
+CONSTRUCTOR (12 args, identical infra to the live cbBTC endowments except token + fee):
+  tierName   "Mayor" / "Lord" / "PettyKing" / "HighKing" / "Emperor"
+  usdc       0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913
+  aavePool   0xA238Dd80C259a72e81d7e4664a9801593F98d1c5
+  aUsdc      0x4e65fE4DbA92790696d040ac24Aa414708F5c0AB
+  buyToken   0x4200000000000000000000000000000000000006  (WETH — the field is named cbBtc, it is the generic buy-token slot)
+  v3Router   0x2626664c2603336E57B271c5C0b26F421741e481
+  poolFee    500  (USDC/WETH 0.05% V3 pool 0xd0b53D9277642d899DF5C87A3966A349A798F224 —
+                   existence + liquidity read on-chain from the Uniswap V3 factory 2026-07-17)
+  prizePool  the tier's WETH pool (above) — wired at construction, locked forever
+  wirer      0xE2a4A8b9d77080c57799A94BA8eDeb2Dd6e0aC10
+  keeperA/B/C 0xE2a4A8b9d77080c57799A94BA8eDeb2Dd6e0aC10 /
+              0x4ce0cd77055bA868f3C6328607D45ce37443d97c /
+              0xb4D045c656a303fa6452C43EefAEB7D8B40917CC  (the 3 standard harvest keepers)
+Gas: bytecode 7,059 bytes + 448-byte ctor tail; allow gasLimit ~2,000,000 per tx.
+
+VERIFY AFTER EACH DEPLOY:
+  - Deployed event (topic0 0x78c9d1e385f0bb7d4dd0237eb7ab708b0780c73031080977cd5469bab04ed690) → child address, eth_getCode > 0
+  - child.prizePool() == the tier's WETH pool address
+  - child.principal() == 0
+
+⚠️ DO NOT CALL tribute(). Principal is PERMANENT — one-way, forever. Whether and how much
+   USDC to endow each tier is a FOUNDER decision (no-premature-lock). Deploying the
+   endowments EMPTY locks nothing: an unfunded endowment is inert until tribute() is called.
+
+⚠️ Keepers stay OFF until funded (keepers-off-when-idle rule) — harvest() reverts under
+   MIN_HARVEST $0.10 yield anyway.
+
+REPORT: push deployed/weth-court-endowments.json with { tier: { address, txHash } } ×5 +
+   chainId 8453 so the Coordinator can log the wiring and the founder can decide funding.

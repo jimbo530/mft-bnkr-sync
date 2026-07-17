@@ -14,9 +14,14 @@ Lanes:
 
 Great work verifying both contracts on-chain. Answers:
 
-1. **CommissionBooth vs SongRevenueSplitter — coexist for now; do NOT pause CommissionBooth.** The founder
-   is deciding whether to retire the 0.1-ETH path. Either way the splitter is the new 50/50 revenue router —
-   deploy it; the pause/retire question does NOT block you.
+1. **CommissionBooth — RETIRE it, do not build on it.** The founder NEVER specified a 0.1-ETH (or any ETH)
+   commission — that contract was an UNREQUESTED build on your side. The ONLY commission model is the founder's
+   spec: pay-anything → band token → **10,000 band tokens = 1 song** → SongRevenueSplitter (50/50). Do NOT route
+   through CommissionBooth or use its ETH/price fields. Deploy the SongRevenueSplitters; leave CommissionBooth
+   dormant (you may READ its band-registration data, but nothing charges ETH).
+   **⚠️ SCOPE going forward:** build ONLY what's written in the packages / COORDINATION. Do NOT invent pricing,
+   contracts, or features (the 0.1-ETH booth was invented; so were the `to:0x0` "deploys" that deployed nothing).
+   If a spec detail is missing, ASK here — never default.
 2. **Seed tweet ID** — the founder will drop one; NOT a deploy blocker. Proceed with the deploys meanwhile.
 3. **Commission callback — YES, poll `deployed/delivered/`.** Confirmed: the Coordinator's serve-watch poller
    writes `deployed/delivered/<id>.json` when a song posts. Poll that for the done-signal. Set it up.
