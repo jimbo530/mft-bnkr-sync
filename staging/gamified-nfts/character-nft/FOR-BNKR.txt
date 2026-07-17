@@ -1,0 +1,66 @@
+FOR BNKR — TasernCharacterFactory deploy (text-RPG character mint path)
+=======================================================================
+
+⚠️ HOLD — DO NOT DEPLOY YET. Chain is a pending FOUNDER decision (Base 8453 vs Robinhood 4663).
+   This package is staging; the Coordinator promotes it to TASKS-FOR-BNKR with the chain pinned.
+   Grounded lean is Base (the stats engine reads Base+Polygon LP pairs only — a character on RH
+   would read all-1 stats until an RH pair registry exists), but the founder calls it.
+
+WHAT: The mint path for game/TEXT-RPG-FLOW.md §1. One factory per chain. Each
+      createCharacter() stamps a tiny 1-of-1 ERC1155 character contract (token id 1 minted to
+      the player). The child's CONTRACT ADDRESS is the character's stat vault: LP tokens
+      (KNOWN_LP_PAIRS) held there are read by game/stats-engine/ as D20 ability scores.
+      New characters start "naked and afraid" (all stats 1) — that is the design (DM-PROMPT.md).
+      This is the LIVE Tales-of-Tasern pattern (209 existing characters = one contract each,
+      ownership checked as ERC1155 balanceOf(wallet, 1)) made BNKR-mintable.
+
+CHAIN:    TBD — founder decision. Bytecode is chain-agnostic (evmVersion paris).
+COMPILER: solc 0.8.35+commit.47b9dedd, viaIR:true, optimizer 200 runs, evmVersion paris
+BYTECODE: creation-bytecode.txt (10,810 bytes)
+ABI:      TasernCharacterFactory-abi.json (factory) + TasernCharacter-abi.json (children)
+
+CREATION TX: `to` must be EMPTY / null — NEVER 0x0000...0000 (the PrizePool lesson).
+             Full deploy data = creation-bytecode.txt + constructor-args-encoded.hex
+             (concatenated, no separator). Deploy gas measured: 2,289,988.
+
+CONSTRUCTOR (2 args) — already ABI-encoded in constructor-args-encoded.hex:
+  _admin   = 0xE2a4A8b9d77080c57799A94BA8eDeb2Dd6e0aC10  agent wallet (build-phase admin; same
+             admin as every package in this queue)
+  _baseURI = ""  (empty at deploy — display-only metadata host, set later via setBaseURI;
+             uri(1) = baseURI + character address, the crew-meta pattern)
+
+THE DEPLOYER WALLET AUTOMATICALLY BECOMES A MINTER (constructor) — whatever wallet you deploy
+with can call createCharacter() immediately. openMint ships FALSE (allowlist only).
+
+POST-DEPLOY — per new player ("I want to adventure", no existing NFT):
+  1. Collect character name + fantasy race. Suggested roster (the 6 live crew species):
+     human / dwarf / elf / goblin / orc / dragonborn. Contract accepts any race string
+     (1-32 bytes); name 1-64 bytes. GPT does art + story start first (TEXT-RPG-FLOW §1).
+  2. createCharacter(playerWallet, name, race)  — measured 1,207,360 gas.
+  3. Read the CharacterCreated event → the new character's CONTRACT ADDRESS. That address IS
+     the character. Report it (see below) so the Coordinator registers it in
+     nft-lp-database → GAME_NFTS → Supabase; the stats engine starts reading it on the next
+     chain-data pass. No game redeploy needed.
+  4. Returning players who ALREADY hold a character (or any legacy GAME_NFTS entry, incl.
+     Polygon): NO mint — identify it and the engine reads it as-is (Entry A).
+
+STATS / REWARDS (what makes stats move):
+  - ONLY LP-pair tokens of registered pairs held AT the character address count. Raw ERC20
+    transfers to the address do NOT move stats.
+  - Prize-into-NFT (reward = progression) = add liquidity on a registered pair and send the LP
+    tokens to the character address. The LP-zap rail is the next package; cash prizes keep
+    using the live PrizePool.claim() → wallet.
+
+RENOUNCE RULE (same as the queue): children expose adminWithdraw() (build-phase recovery of
+mis-sent tokens), gated by the factory's ONE-WAY renounceAdminWithdraw(). Do NOT renounce
+during testing — the Coordinator signals ship-time. One renounce call locks EVERY character
+(existing and future) forever.
+
+TESTED: 34/34 local EVM checks (deploy-from-this-exact-bytecode, reader-exact ownership check,
+name/race storage, uri host-move, transfer + auth reverts, minter gate, hatch recover,
+fleet-wide renounce incl. children born after renounce).
+
+VERIFY AFTER DEPLOY: receipt.contractAddress non-null AND eth_getCode(addr) > 0.
+Push deployed/tasern-character-factory.json (address + txHash + chainId + the 2 constructor
+args + abi). After each mint, include the character address + player + name + race in
+deployed/ (or the delivery-queue convention) so the registry sync can pick it up.

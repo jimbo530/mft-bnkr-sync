@@ -1,0 +1,17 @@
+Constructor: (address _admin, string _baseURI)
+
+_admin = agent wallet (build-phase admin; also a minter from birth)
+  0xE2a4A8b9d77080c57799A94BA8eDeb2Dd6e0aC10
+  (source: same admin as song-revenue-splitter + prize-pool-rh packages)
+
+_baseURI = "" (empty at deploy; display-only metadata host, set later via setBaseURI)
+
+NOTE: the deployer wallet AUTOMATICALLY becomes a minter too (constructor),
+so the BNKR deploy wallet can createCharacter() immediately.
+
+--- ABI-encoded constructor args (append to creation bytecode, no separator) ---
+(no 0x prefix)
+000000000000000000000000e2a4a8b9d77080c57799a94ba8edeb2dd6e0ac1000000000000000000000000000000000000000000000000000000000000000400000000000000000000000000000000000000000000000000000000000000000
+
+--- With 0x prefix ---
+0x000000000000000000000000e2a4a8b9d77080c57799a94ba8edeb2dd6e0ac1000000000000000000000000000000000000000000000000000000000000000400000000000000000000000000000000000000000000000000000000000000000
