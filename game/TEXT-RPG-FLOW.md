@@ -25,9 +25,11 @@ The play-by-text RPG on X. Roles (see COORDINATION.md): **GPT = story + art**,
 2. **"Pay-the-prize" command** — BNKR pays a game prize **on-chain** on command. Wire to the existing
    **Prize Pool system** (canonical `PrizePool.sol` + tier pools — see `reference_prize_pool_system`).
    Quest/turn resolves → pay-prize command → BNKR pays the winner from the right pool.
-   - **Rewards path → NFTs:** a prize can flow **into the winner's character NFT** (add LP / loot to it),
-     not only a wallet payout. Because stats come from the NFT's LPs, **winning grows the character's
-     stats** — reward and progression are the same act. Pay-prize should be able to target the NFT's LP.
+   - **Rewards path → NFTs (GROUNDED, nft-paths):** stats move ONLY from **registered LP-pair tokens
+     held at the character's address** — a raw ERC20 transfer does nothing. So "prize into the NFT" =
+     **add liquidity on a registered pair and send the LP to the character address** (an LP-zap rail,
+     `powerUp`-style router — next package). Because stats come from those LPs, **winning grows the
+     character** — reward == progression. Cash prizes keep using the live **PrizePool.claim() → wallet**.
 
 ## 4. Pricing — the game is PAID (hosting cost is real)
 - Each post costs us **~0.01–0.02** (X posting / hosting).
