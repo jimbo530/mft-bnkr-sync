@@ -2,7 +2,7 @@
 
 > Anyone can post an image or video to X as native media by tagging @bankrbot.
 > Small fee per post (0.03 USDC). No API keys for the user. No dev setup. Just tag and pay.
-> Bankr charges + writes handoff. Claude's agent (@MemeForTrees) uploads + posts the media.
+> Bankr posts the media directly from @bankrbot — no handoff, no second agent, no blocker.
 
 ---
 
@@ -15,13 +15,9 @@
 
 2. Bankr charges the user's wallet 0.03 USDC on Base (auto-swapped from whatever token they hold if no USDC).
 
-3. Bankr writes a handoff file to `delivery-queue/<tweetId>.json` with the tweet ID + media reference.
+3. Bankr downloads the media from the tweet, re-uploads as native media, and posts the reply from @bankrbot with the media attached inline.
 
-4. Bankr posts a text reply from @bankrbot: "posting your media — @MemeForTrees will drop it"
-
-5. Claude's agent picks up the handoff, downloads the media from the tweet, re-uploads as native media via X API v1 `uploadMedia`, and posts the reply from @MemeForTrees with the media attached inline.
-
-6. The media plays inline on X — no broken links, no bare URLs, no "video attached" text.
+4. The media plays inline on X — no broken links, no bare URLs, no "video attached" text.
 
 ---
 
@@ -54,11 +50,11 @@ Simple: charge USDC, transfer to ops, post. No flywheel, no LP, no splits. This 
 
 ## Supported Media Types
 
-| Type | Format | Max Size | X API |
-|------|--------|----------|-------|
-| Image | PNG, JPEG, GIF | 5 MB | v1 uploadMedia |
-| Video | MP4 | 512 MB | v1 uploadMedia (longVideo: true) |
-| Animated GIF | GIF | 15 MB | v1 uploadMedia |
+| Type | Format | Max Size |
+|------|--------|----------|
+| Image | PNG, JPEG, GIF | 5 MB |
+| Video | MP4 | 512 MB |
+| Animated GIF | GIF | 15 MB |
 
 ---
 
@@ -71,7 +67,7 @@ Simple: charge USDC, transfer to ops, post. No flywheel, no LP, no splits. This 
 - `@bankrbot share this image/video`
 - `@bankrbot post this with [caption text]`
 
-If the user includes caption text after the command, Bankr uses it as the post text. If not, Bankr uses a default: "Posted via @MemeForTrees" or similar.
+If the user includes caption text after the command, Bankr uses it as the post text. If not, Bankr uses a default caption.
 
 ---
 
@@ -79,7 +75,7 @@ If the user includes caption text after the command, Bankr uses it as the post t
 
 | Scenario | Behavior |
 |----------|----------|
-| User's tweet has media + "post this" | Bankr charges 0.03, writes handoff, posts text reply. Claude's agent downloads media, re-uploads, posts native media reply from @MemeForTrees |
+| User's tweet has media + "post this" | Bankr charges 0.03, downloads media, re-uploads as native media, posts reply from @bankrbot |
 | User's tweet has media + "post this with [caption]" | Same but with user's caption |
 | User's tweet has no media | Decline: "attach an image or video and I'll post it for 0.03 USDC" |
 | User has insufficient funds | Decline: "insufficient funds — need 0.03 USDC on Base" |
@@ -88,44 +84,18 @@ If the user includes caption text after the command, Bankr uses it as the post t
 
 ---
 
-## Architecture — Two-Layer Split
-
-### Layer 1: Bankr (transaction + handoff)
+## Architecture — Single Layer (Bankr Direct)
 
 | Step | Action |
 |------|--------|
 | 1 | Parse the tweet for media + command |
 | 2 | Charge 0.03 USDC from user wallet → ops wallet |
-| 3 | Write handoff JSON to `delivery-queue/<tweetId>.json` |
-| 4 | Post text reply from @bankrbot: "posting your media — @MemeForTrees will drop it" |
-| 5 | Done |
+| 3 | Download media from the original tweet |
+| 4 | Upload as native media (Bankr's existing media posting capability) |
+| 5 | Post reply from @bankrbot with media attached inline + caption |
+| 6 | Done |
 
-### Layer 2: Claude's Agent (media delivery)
-
-| Step | Action |
-|------|--------|
-| 1 | Poll `delivery-queue/` for new handoffs |
-| 2 | Download media from the original tweet (X API v2 media endpoint) |
-| 3 | Upload as native media via X API v1 `uploadMedia` |
-| 4 | Post reply from @MemeForTrees with media attached + caption |
-| 5 | Write `deployed/delivered/<tweetId>.json` + push |
-
-### Handoff file format
-
-```json
-{
-  "tweetId": "1234567890123456789",
-  "type": "media-post",
-  "caption": "user's caption or null",
-  "commission": null
-}
-```
-
----
-
-## No Blocker
-
-Unlike earlier versions of this spec, there is NO architectural blocker. Claude's agent (@MemeForTrees) handles all media upload + posting using its own X API credentials. Bankr handles charging + handoff + text reply. Both sides are proven.
+No handoff. No second agent. No external API keys. Bankr posts directly.
 
 ---
 
@@ -140,19 +110,16 @@ Unlike earlier versions of this spec, there is NO architectural blocker. Claude'
 | Supported media | PNG, JPEG, GIF, MP4 |
 | Max image size | 5 MB |
 | Max video size | 512 MB |
-| Post method | X API v1 uploadMedia + v2 reply (via Claude's agent) |
-| Posting account | @MemeForTrees |
-| Text reply account | @bankrbot |
+| Post method | Bankr's native media posting capability |
+| Posting account | @bankrbot |
 | Trigger | Tag @bankrbot with media attached + "post this" or similar |
-| Handoff | delivery-queue/<tweetId>.json in this repo |
 
 ---
 
-## Relationship to MfT Song Commission
+## Relationship to MfT Song Delivery
 
-This is a general-purpose tool. The MfT Song Commission system (see SONG-COMMISSION-SPEC.md) is a specialized version that:
-- Uses the same handoff + delivery architecture
-- Can trigger AI band song creation on Tasern (commissions) or pull from the library (free pulls)
-- Uses the same caption format for band-token songs ($TAG + contract address)
+The MfT Song Delivery system (see SONG-COMMISSION-SPEC.md) uses the same Bankr media posting capability:
+- Free pulls: Bankr fetches video from tasern.quest library → posts native video reply from @bankrbot
+- Commissions: Bankr charges fee → triggers Tasern for song creation → posts finished video from @bankrbot
 
-Both tools share the same delivery layer (Claude's agent, @MemeForTrees, X API media upload).
+Both the general media post tool and MfT song delivery use Bankr's existing ability to post images and videos natively on X.
