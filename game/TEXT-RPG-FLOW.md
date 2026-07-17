@@ -6,6 +6,12 @@ The play-by-text RPG on X. Roles (see COORDINATION.md): **GPT = story + art**,
 **SINGLE-PLAYER (founder 2026-07-17):** the RPG is one-player — you vs the DM / story, no PvP. So
 **pay-to-win is a FEATURE, not a fairness problem** — buying power is fine when no one else is racing you.
 
+**ARCHITECTURE (founder 2026-07-17):** WE run **our own bot** that HOSTS the game + does **ALL the X posting**
+(story, NFT debut, song delivery) → so *we* capture the X creator revenue. **BNKR is called ONLY for
+transactions** — mint the NFT, debit the customer's Bankr wallet (charge), deploy contracts, pay prizes.
+Pay-to-play (turn credits + buy-stats) covers our API/hosting costs, so long-running threads never run at a loss.
+(This SUPERSEDES any "BNKR posts" note below — BNKR does the transaction; our bot does the posting.)
+
 ## 1. Character start — new OR returning
 - **Bring ANY NFT, or mint new.** At start the player either gets a **new character NFT** (mint) OR brings
   **any NFT they own** — not just a pre-registered character. For a brought NFT, a **vault-spinner skill**
