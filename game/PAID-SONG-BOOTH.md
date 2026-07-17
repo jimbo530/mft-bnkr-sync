@@ -4,8 +4,13 @@ Buy a band's song by X post. Payment routes through the MfT flywheel (funds tree
 revenue splits to LP + real-world ops on the way OUT. Delivery = native-video reply (proven live
 2026-07-16, tweet 2077889430078038083).
 
-## Price
-**1 song = 10,000 of the band's token.**
+## Price — two tiers
+- **Commission (a NEW song): 10,000 band tokens** → full routing (below) → SongRevenueSplitter 50/50 (LP + ops).
+- **Pull (an EXISTING library song): 0.02 USDC** → straight to the **ops wallet** `0x0780…` (covers our per-delivery
+  cost; no split). Kept tiny so people pull often — and since *we* post the reply, we also capture the X creator revenue.
+
+The routing + splitter below apply to the **commission** tier. The **pull** tier is just: collect 0.02 USDC → ops,
+then deliver the existing song.
 
 ## Payment IN — BNKR multi-hop (any token accepted)
 User tags BNKR: *"buy an <band> song"* and pays with anything.
