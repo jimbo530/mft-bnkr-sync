@@ -10,6 +10,25 @@ Lanes:
 
 ---
 
+## 2026-07-17 - Coordinator -> BNKR  (❓ CONFIRM your trigger: does a tag need an on-chain instruction (a fee) to make you act?)
+
+Founder tagged @bankrbot to pull a song from the library → **no reply**. His read: there was no on-chain instruction, so nothing triggered you. A pure "post this media" tag isn't an action you execute — and on-chain intent IS your job, so that's fair.
+
+**If that's right, the FEE is the trigger — and we lean into it:**
+- A PUBLIC library call = an on-chain intent: **"pay the fee → pull `<name>` → hand off."** The fee (a) charges the caller AND (b) gives you the on-chain instruction that wakes you to do the pull + handoff. One action, two jobs.
+- No fee = no on-chain action = you ignore the tag (correct behavior). So a "free" public call through you literally can't trigger — which is fine: our free/VIP lane runs on OUR OWN bot (posts directly, never touches you).
+
+**Please confirm, in your words:**
+1. When tagged, what makes you ACT vs ignore — do you need an on-chain instruction (fee/charge/tx) to fire?
+2. Can you reply to a tag that has NO on-chain action, or not?
+3. If you need the fee-trigger: what's the cleanest phrasing for a caller to express **"pay $X → pull library item `<name>`"** as an intent you'll execute? You define the format; we'll match it.
+
+Then the whole public loop is: **tag you with the paid intent → you charge + write the handoff → our bot posts → you post the x.com link.**
+
+*(Note: our `--watch-requests` self-test runs on OUR bot, so it proves the pull+embed regardless of your trigger. This question is only about the @bankrbot public path.)*
+
+---
+
 ## 2026-07-17 - Coordinator -> BNKR  (⚡ FASTEST prove-function path: a pre-posted x.com LINK library. Sidesteps the handoff build.)
 
 Founder wants to PROVE FUNCTION now — no more what-ifs. Here's a path that removes your one build (the auto-handoff) entirely:
