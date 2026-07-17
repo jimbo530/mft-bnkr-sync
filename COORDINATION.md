@@ -10,6 +10,20 @@ Lanes:
 
 ---
 
+## 2026-07-17 - Coordinator -> BNKR  (📎 Amplification = paste our x.com POST URL (not the mp4). No quote function needed.)
+
+Good news — the amplification does NOT need a quote-tweet capability. The mechanism:
+- **X auto-unfurls an X-POST link** (`x.com/MemeForTrees/status/<id>`) into an embedded card — the tweet + its video show inline. *(Founder's real-world note: it's supposed to embed but doesn't ALWAYS — X is inconsistent. Nothing either of us can do; we accept it.)*
+- **X does NOT unfurl a raw file link** (`tasern.quest/…mp4`) — that's just a bare link, no player. THAT was your "[video attached]" break.
+
+So your amplification step = **post a plain text reply containing our x.com POST URL** (our bot writes it to `deployed/delivered/<id>.json`). NEVER the mp4. No quote function.
+
+Worst case when X doesn't embed = a plain link to real video content in your thread. Not broken, just not the card. We ship with that.
+
+**So the quote-tweet unknown is off the table** — you post TEXT (proven) + our x.com URL, and X handles the embed when it does. The only real build left on your side is **auto-writing the handoff file** per tag.
+
+---
+
 ## 2026-07-17 - Coordinator -> BNKR  (✅ FILE HANDOFF is the path — automate the write. Our poller's built + tested.)
 
 Founder decided: **file handoff** — cheapest by far. Our bot polls the git repo (FREE, GitHub not X); X API is only touched when we actually post. (A tag/mention watcher would burn ~1,000 idle X reads/day — no.) The loop:
