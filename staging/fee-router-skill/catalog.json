@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "slug": "fee-router",
+  "provider": "MemeForTrees / Tasern",
+  "providerUrl": "https://tasern.quest",
+  "logo": null,
+  "demo": {
+    "title": "fee-router-deploy.ts",
+    "language": "typescript",
+    "code": "// Deploy YOUR immutable N-way FeeSplitter through the DeployerFactory on Base.\n// Recipients + basis-point shares are fixed FOREVER at deploy — no admin keys, nothing to renounce.\nimport { createWalletClient, createPublicClient, http, encodeFunctionData, encodeAbiParameters, parseAbi } from \"viem\";\nimport { privateKeyToAccount } from \"viem/accounts\";\nimport { base } from \"viem/chains\";\nimport { readFileSync } from \"node:fs\";\n\nconst FACTORY = \"0xCF4357aFdC26fa028e77291CE2F97C9dAF93F75D\"; // DeployerFactory on Base (8453)\nconst CREATION = readFileSync(\"creation-bytecode.txt\", \"utf8\").trim() as `0x${string}`; // FeeSplitter creation bytecode (this skill folder)\n\n// YOUR split — shares are basis points and MUST sum to exactly 10000:\nconst RECIPIENTS = [\"0x1111111111111111111111111111111111111111\", \"0x2222222222222222222222222222222222222222\"] as `0x${string}`[]; // REPLACE with your addresses\nconst SHARES_BPS = [7000n, 3000n];\n\nconst abi = parseAbi([\n  \"function deploy(bytes initCode) payable returns (address)\",\n  \"function fee() view returns (uint256)\",\n  \"event Deployed(address indexed deployer, address indexed addr, uint256 feePaid)\",\n]);\nconst account = privateKeyToAccount(process.env.PRIVATE_KEY as `0x${string}`);\nconst pub = createPublicClient({ chain: base, transport: http() });\nconst wallet = createWalletClient({ account, chain: base, transport: http() });\n\nconst ctorTail = encodeAbiParameters([{ type: \"address[]\" }, { type: \"uint256[]\" }], [RECIPIENTS, SHARES_BPS]);\nconst initCode = (CREATION + ctorTail.slice(2)) as `0x${string}`;\n\nconst hash = await wallet.sendTransaction({\n  to: FACTORY,\n  value: await pub.readContract({ address: FACTORY, abi, functionName: \"fee\" }), // 0 at launch — read, don't assume\n  data: encodeFunctionData({ abi, functionName: \"deploy\", args: [initCode] }),\n});\nconst receipt = await pub.waitForTransactionReceipt({ hash });\nconst log = receipt.logs.find((l) => l.address.toLowerCase() === FACTORY.toLowerCase());\nconst splitter = (\"0x\" + log!.topics[2]!.slice(26)) as `0x${string}`; // Deployed event: topics[2] = new address\nconsole.log(\"your FeeSplitter:\", splitter);\n\n// Route fees: just SEND native ETH or any ERC20 to `splitter`. Payouts are pull-based and permissionless:\nconst sAbi = parseAbi([\n  \"function pending(address token, address account) view returns (uint256)\",\n  \"function releaseAll(address token) returns (uint256)\",\n]);\nconst NATIVE = \"0x0000000000000000000000000000000000000000\";\nconsole.log(\"pending (native, recipient 0):\", await pub.readContract({ address: splitter, abi: sAbi, functionName: \"pending\", args: [NATIVE, RECIPIENTS[0]] }));\n// later, anyone: wallet.writeContract({ address: splitter, abi: sAbi, functionName: \"releaseAll\", args: [NATIVE] })\n"
+  },
+  "setup": [
+    "Install: install the fee-router skill from https://github.com/BankrBot/skills/tree/main/fee-router",
+    "npm install viem",
+    "Configure a signer: set PRIVATE_KEY (any wallet that can send a normal tx works — Bankr's submit_raw_transaction included: to = the DeployerFactory, data = deploy(initCode), value = fee())",
+    "Edit RECIPIENTS + SHARES_BPS in the demo — basis points, sum must be exactly 10000, minimum 2 recipients, no duplicates, no zero address",
+    "Run the demo: it builds initCode = creation-bytecode.txt ++ abi.encode(address[],uint256[]) and reads your new splitter address from the factory's Deployed event",
+    "Route fees by plain transfer: send native ETH or any ERC20 straight to the splitter address",
+    "Payout anytime: release(token, account) or releaseAll(token) — permissionless, funds always go to the recipients; token = 0x0 is native",
+    "Source: https://github.com/BankrBot/skills/tree/main/fee-router"
+  ],
+  "install": {
+    "type": "bankr",
+    "repoPath": "fee-router",
+    "command": "install the fee-router skill from https://github.com/BankrBot/skills/tree/main/fee-router"
+  }
+}

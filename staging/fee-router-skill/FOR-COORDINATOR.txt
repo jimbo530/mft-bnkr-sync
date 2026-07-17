@@ -1,0 +1,80 @@
+FOR COORDINATOR — Fee Router skill (FeeSplitter) — smoke deploy + publish
+=========================================================================
+
+WHAT: community skill #2 (founder's pick): a configurable N-way fee splitter.
+      FeeSplitter = IMMUTABLE, pull-based, native + ERC20. NO admin, no owner,
+      no pause, nothing to renounce — that's the selling point (trustless by
+      construction; the ABI's only mutating fns are release/releaseAll).
+      Bankr natively only splits fees inside fixed token-launch flows — this
+      covers everything else (2, 3, or N recipients by basis-point shares).
+
+      It does NOT deploy as a creation tx — it deploys THROUGH the live
+      DeployerFactory (Base 0xCF4357aFdC26fa028e77291CE2F97C9dAF93F75D):
+      initCode = creation-bytecode.txt ++ abi.encode(address[],uint256[])
+      wrapped in deploy(bytes) (selector 0x00774360). SKILL.md carries two
+      fully-encoded worked examples (2-way 50/50, 3-way 50/30/20) with the
+      complete calldata ready to paste.
+
+CHAIN:    Base (8453). Same bytecode works on RH 4663 (paris) via a factory twin.
+COMPILER: solc 0.8.35+commit.47b9dedd, viaIR:true, optimizer 200, evmVersion paris
+BYTECODE: creation-bytecode.txt (3,284 bytes; runtime 2,259) · ABI: FeeSplitter-abi.json
+TESTS:    test-fee-splitter.cjs — 50/50 PASS on a clean local EVM
+          (npx hardhat node --port 8596 from mftusd-build, then run the file).
+          Includes the EXACT skill path: splitter deployed through the factory,
+          Deployed-event address == simulated address, 703,728 gas measured.
+STATUS:   NOT deployed on-chain (per task hard limit — deploy authority is yours).
+
+⭐ POINTS RULE (BNKR points strategy): this skill's PRODUCTION use is BNKR
+   deploying splitters via the SKILL.md calldata recipe — BNKR-sent txs keep
+   BNKR builder points. Coordinator does ONE smoke deploy to prove the rail,
+   then hands the recipe over. Do not batch-deploy production splitters from
+   the agent wallet.
+
+SMOKE DEPLOY (one, throwaway-but-real):
+  node smoke-deploy-via-factory.cjs           # DRY: simulates via eth_call,
+                                              #      prints predicted addr + gas
+  node smoke-deploy-via-factory.cjs --live    # broadcast + verify + record
+  Defaults: 50/50 between ops 0x0780…05F2 and agent 0xE2a4…aC10 (both ours —
+  anything mis-sent to it stays recoverable by releasing to our own wallets).
+  Env overrides: RECIPIENTS / SHARES_BPS (bps, sum 10000) / DEPLOY_RPC.
+  Signer: AGENT_PRIVATE_KEY from mftusd-build/.env. Reads factory fee() and
+  sends exactly that value (ctor NOT payable). Writes
+  fee-splitter-smoke-deployment.json on success.
+
+VERIFY AFTER SMOKE:
+  1. eth_getCode(splitter) > 0; recipients()/shares()/recipientCount()/TOTAL_BPS
+     match what you encoded (the --live path checks all of this and refuses to
+     record otherwise).
+  2. Send a dust native amount (e.g. 0.00001 ETH) to the splitter →
+     pending(0x0, ops) == half → release(0x0, ops) pays it → repeat release
+     reverts "nothing due". That's the whole lifecycle proven on mainnet.
+  3. Optional Basescan source verify: single file FeeSplitter.sol, compiler
+     v0.8.35+commit.47b9dedd, viaIR true, optimizer 200, evmVersion paris,
+     ctor args = the ABI tail the script printed.
+
+INTERNAL USE-CASES QUEUED BEHIND THIS (why founder picked it):
+  - Seas ship tax upstream: [captain, kingdom] @ [9000, 1000] — "10% up" per
+    ship token (TOWN-SHIP-NATION model).
+  - Court/prize-pool splits: the 10/20/20/20/20 family (our live TributeSplitter
+    0x6B901D2a… runs 1111/2222/2222/2222/2223 as the 90% systems leg) — future
+    court routings can be plain FeeSplitters BNKR deploys on demand.
+  - Any launcher/charity/NFT fee split in the Shillwood v2 direction.
+  NOTE: FeeSplitter routes VALUE SENT TO IT. It does not replace reactors or
+  swap-based routers (SongRevenueSplitter keeps its swap+LP logic).
+
+X POST: X-POST.md in this folder — ready per the founder playbook (tags
+  @bankrbot, asks the community-vs-MfT question, one cashtag, no hashtags).
+  HOLD until (a) the skill lands at a public URL so the link resolves, and
+  (b) Guardian review per marketing-compliance rules.
+
+FILES:
+  FeeSplitter.sol                  self-contained source (no imports, no admin)
+  creation-bytecode.txt            pinned-compiler creation bytecode
+  FeeSplitter-abi.json             ABI
+  SKILL.md + catalog.json          the publishable Bankr skill (clanker format)
+  example-2way-50-50.txt           fully-encoded worked example (placeholder recipients)
+  example-3way-50-30-20.txt        fully-encoded worked example (placeholder recipients)
+  compile-fee-splitter.cjs         pinned rebuild (regenerates bytecode/ABI/examples)
+  smoke-deploy-via-factory.cjs     your smoke-deploy script (DRY default)
+  test-fee-splitter.cjs            local EVM suite (50 checks)
+  X-POST.md                        announcement draft (hold for link + Guardian)
