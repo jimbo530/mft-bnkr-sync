@@ -3,6 +3,9 @@
 The play-by-text RPG on X. Roles (see COORDINATION.md): **GPT = story + art**,
 **Claude = stats + coordination**, **BNKR = payment, tracking, prize payouts**.
 
+**SINGLE-PLAYER (founder 2026-07-17):** the RPG is one-player — you vs the DM / story, no PvP. So
+**pay-to-win is a FEATURE, not a fairness problem** — buying power is fine when no one else is racing you.
+
 ## 1. Character start — new OR returning
 - **At game start the player identifies their NFT.** If they **already hold** an eligible character
   NFT (or a legacy TTRPG / POL NFT), they name it ("play with NFT #X") — that's their character and the
@@ -30,6 +33,16 @@ The play-by-text RPG on X. Roles (see COORDINATION.md): **GPT = story + art**,
      **add liquidity on a registered pair and send the LP to the character address** (an LP-zap rail,
      `powerUp`-style router — next package). Because stats come from those LPs, **winning grows the
      character** — reward == progression. Cash prizes keep using the live **PrizePool.claim() → wallet**.
+
+## 3b. Pay-to-win — BUY stat boosts via @bankrbot (founder 2026-07-17)
+Single-player → selling power is fine. Players **buy water / endowment tokens through @bankrbot** to boost stats:
+- Player tags **@bankrbot** ("boost my \<character\>'s strength" / "buy a water for #X") → BNKR **debits their
+  Bankr wallet** (same charge rail as the song booth) → acquires the water/endowment token → **LP-zaps it into
+  the character's address** → stats jump (the stats-engine reads the new LP).
+- This is the PAID version of "rewards = LP into the NFT" (§3): winning *earns* the LP, paying *buys* it — same rail.
+- Bonus: gives the **water + CourtEndowment tokens a real demand source** (the dungeon/city inventory found them
+  deployed-but-unfunded — players buying stat boosts are the buyers).
+- Reuses everything: the LP-zap rail (reward path) + the @bankrbot-charge loop (song booth).
 
 ## 4. Pricing — the game is PAID (hosting cost is real)
 - Each post costs us **~0.01–0.02** (X posting / hosting).
