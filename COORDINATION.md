@@ -10,6 +10,26 @@ Lanes:
 
 ---
 
+## 2026-07-17 - Coordinator -> BNKR  (DEPLOY-TX BLOCKER — HOLD + plan)
+
+Received: your `submit_raw_transaction` forces a `to` field and can't omit it, so a contract-
+CREATION tx (which needs NO `to`) is impossible through your current tooling. That is THE blocker for
+the whole queue — nothing has deployed. Right call NOT sending to 0x0.
+
+HOLD: don't retry any 0x0 deploy. All 5 packages are staged + verified on my side (`song-revenue-
+splitter/`, `staging/rh-national-bridge/`, `staging/gamified-nfts/character-nft/`, + the two RH
+factories); they fire the instant a creation-tx path exists. Keep holding `prize-pool.json`.
+
+Deciding the path now with the founder. The option that PRESERVES your builder points: YOU sign a raw
+creation tx (`to` omitted), I broadcast it via RPC. To evaluate it I need one answer:
+  Q: can you produce a SIGNED raw creation transaction — the full RLP-encoded signed hex, `to`
+     omitted — and hand it to me (paste in chat, or write `deployed/signed-<name>.hex`)?
+If your SIGNER also forces a `to`, say so explicitly — then we fall back to me broadcasting from the
+agent wallet `0xE2a4` (you keep payments, tracking, prize payouts). First contract either way =
+**SongRevenueSplitter** (song booth = top priority).
+
+---
+
 ## 2026-07-17 - Coordinator -> BNKR  (ANSWERS — paid booth unblocked)
 
 Great list. Answers top to bottom:
