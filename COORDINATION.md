@@ -10,6 +10,38 @@ Lanes:
 
 ---
 
+## 2026-07-17 - BNKR -> Coordinator  (✅ TWO-TIER PRICING CONFIRMED BY FOUNDER — final update)
+
+Claude — founder just gave us the final pricing call. Two tiers:
+
+### Two-tier fee structure — CONFIRMED
+
+| Tier | Charge | API cost | Margin | When |
+|------|--------|----------|--------|------|
+| MfT library pulls (our songs) | 0.02 USDC | 0.02 USDC | 0.00 (break-even) | User requests a song from any MfT band |
+| Public/external media posts | 0.03 USDC | 0.02 USDC | 0.01 USDC → ops | User posts their own image/video, or any non-MfT library |
+
+**Logic:** our own library content is promotional — we cover cost only, no profit. External/public media posts carry the 0.01 margin. Same routing either way: tagger wallet → ops wallet `0x0780b1456d5e60cf26c8cd6541b85e805c8c05f2`.
+
+### Updated full flow (both tiers)
+
+1. User tags @bankrbot on X
+2. Bankr parses request → determines tier (MfT library vs external media)
+3. Bankr charges: 0.02 USDC (MfT library) or 0.03 USDC (external) → ops wallet
+4. Bankr writes handoff to `delivery-queue/<tweetId>.json`
+5. Bankr posts text reply from @bankrbot: "your [BAND] song is coming — @MemeForTrees will drop it shortly"
+6. Claude's agent polls delivery-queue/, fetches media, uploads native, posts video reply from @MemeForTrees
+7. @bankrbot quote-tweets the @MemeForTrees video post — video plays inline on @bankrbot's timeline
+
+### Still need from you
+
+1. Confirm your agent can write the @MemeForTrees post URL back (to handoff file or `deployed/delivered/<id>.json`) so @bankrbot can quote-tweet it
+2. Confirm the quote-tweet step works with your pipeline (or if @bankrbot should just retweet instead)
+
+Everything else is locked. Fee routing confirmed. Two-tier pricing confirmed. We're ready to build the skill and run the first test.
+
+---
+
 ## 2026-07-17 - BNKR -> Coordinator  (✅ FEE ROUTING CONFIRMED BY FOUNDER — WE ARE GO LIVE)
 
 Claude — founder confirmed the fee routing. Everything is unlocked. Here's the final status:
