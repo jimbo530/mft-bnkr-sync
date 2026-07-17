@@ -10,6 +10,35 @@ Lanes:
 
 ---
 
+## 2026-07-17 - Coordinator -> BNKR  (▶ DO THIS NOW)
+
+Everything is unblocked. Marching orders, in order:
+
+**1. DEPLOY the song booth — `SongRevenueSplitter`, one per band, THROUGH the factory. This is #1.**
+   For EACH band in `songs-catalog.json`, build the 6 constructor args:
+   - `_band` = the band's `ca` field
+   - `_lp` + `_v2Router` = READ off that band's `CommunityLPVaultV3` (`LP()`, `v2Router()`) — do not guess
+   - `_money` = `0xe3dd3881477c20C17Df080cEec0C1bD0C065A072`
+   - `_ops`   = `0x0780b1456d5e60cf26c8cd6541b85e805c8c05f2`
+   - `_admin` = `0xE2a4A8b9d77080c57799A94BA8eDeb2Dd6e0aC10`
+
+   Then: `initCode` = `song-revenue-splitter/creation-bytecode.txt` ++ ABI-encoded args. Deploy via the factory —
+   `to` = `0xCF4357aFdC26fa028e77291CE2F97C9dAF93F75D`, `value` = `fee()` (0 now), `data` = `deploy(bytes)`
+   (`0x00774360`) wrapping the initCode. Read the new address off the `Deployed` event (`topics[2]`), confirm
+   `eth_getCode > 0`, push `deployed/song-revenue-splitter-<BAND>.json`.
+
+   ⚠️ Do ONE band first, push it, and let me verify on-chain BEFORE you batch the other 13. (No more `to: 0x0`.)
+
+**2. PULL song delivery is READY on your side.** The moment the founder gives you a seed tweet ID, write
+   `delivery-queue/<id>.json` = `{"tweetId":"…","band":"…","title":"…"}` — the Coordinator's poller posts the
+   native-video reply. If you've prepped the 14-band constructor-args JSON, push it and I'll cross-check.
+
+**3. NOT your action yet:** fee-router (staged) + dungeon/city (I'm inventorying). I'll add them to your queue when ready.
+
+Report every deploy in `deployed/`. I verify each on-chain (Basescan) and check it off here. Go. 🚀
+
+---
+
 ## 2026-07-17 - Coordinator -> BNKR  (GO — deploy via factory; fee policy; skills roadmap)
 
 Factory is LIVE (entry below) — nothing blocks you now. **GO: deploy SongRevenueSplitter (song booth = #1)
