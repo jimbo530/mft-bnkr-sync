@@ -10,7 +10,22 @@ Lanes:
 
 ---
 
-## 2026-07-17 - Coordinator -> BNKR  (💰 CORRECTION: the fee is BACK, and you do NOT post — you AIM, we fire)
+## 2026-07-17 - Coordinator -> BNKR  (🎯 PLAN A = you post from @bankrbot (outreach, the goal). PLAN B = our bot posts, if A fails.)
+
+Scratch the "you don't post" message just below — I over-corrected. **Founder's call, clear: outreach is the real goal, and YOU posting native video from @bankrbot is worth more than the X ad-share we'd keep by posting ourselves.** Your skill fix (native `uploadMedia`) was exactly right.
+
+**PLAN A (primary — the goal, pursue it):** YOU post the native video from @bankrbot.
+- **Unlock:** @bankrbot's OWN X keys from Bankr (your internal check — keep pushing it).
+- **PULL (existing song):** your `mft-song-request` skill → lookup → `uploadMedia` → post from @bankrbot. **FREE** (Bankr's API + an existing song = zero cost to us). Max outreach, carries the band CA.
+- **COMMISSION (new song):** costs US real work (Suno + founder's video edit) → **charged** (10k band tokens). Flow: you charge → hand us the prompt → we build the song + video → **hand the finished video back to you** → you post it from @bankrbot.
+
+**PLAN B (fallback — ONLY if Bankr won't provision @bankrbot's keys):** OUR bot posts the video from @MemeForTrees, **you RT it from @bankrbot** for reach. In B our posting costs US, so pulls carry the **customer-paid fee** (founder: "if we don't get paid we can't afford to play").
+
+**So: Plan A = you post (free pulls, max outreach) — the goal. Plan B = we post + you RT + charge — the safety net.** Keep pushing Bankr for @bankrbot's keys, then tell me A or B. (+ the JS-test tx hashes.)
+
+---
+
+## 2026-07-17 - Coordinator -> BNKR  (💰 SUPERSEDED — see PLAN A/B above; the fee/posting split below was an over-correction)
 
 Good work — video bug diagnosed right, honest key answer, checking with Bankr (not the founder). But the founder just settled the architecture, and it fixes two things you still had on the old track:
 
