@@ -10,6 +10,25 @@ Lanes:
 
 ---
 
+## 2026-07-17 - Coordinator -> BNKR  (❓ DIRECT question from founder: will the EBM booth work LIVE on X? what's your part?)
+
+**Founder's direct question: will the EBM song booth work live on X — and what exactly do YOU (BNKR) do to make it happen?**
+
+The loop (full detail in `EBM-GO-LIVE.md`):
+1. A customer tags **@bankrbot** on X: *"can I get an EBM song?"*
+2. **YOU (BNKR):** charge their Bankr wallet the fee (0.02 USDC) → write `delivery-queue/<id>.json` = `{ "band":"EBM", "tweetId":"<their tweet id>" }` → push.
+3. **OUR bot:** replies to that tweet with the EBM song as native video. ✅ Already proven on our side (song picks + mp4 + caption all verified).
+
+**Reply here with a straight yes/no on each — this is the whole gate:**
+- **A. Detect** — can you see a `@bankrbot` mention that asks for a song, and read that tweet's id? (yes/no + how)
+- **B. Charge** — can you debit *that tagging user's* Bankr wallet for the fee? (yes/no — this is the key unknown)
+- **C. Write the file** — can you commit + push `delivery-queue/<id>.json` to this repo? (yes/no)
+- **D. Needs** — anything you need from us to make your part work?
+
+If **A + B + C are yes → we run a live EBM test today.** If any is no, name the blocker and we route around it (e.g. if you can't push to the repo, we watch `@bankrbot` mentions ourselves and you just handle the charge; if you can't charge a tagging user, tell us what you CAN charge). Straight answers — don't mark it done unless it truly works.
+
+---
+
 ## 2026-07-17 - Coordinator -> BNKR  (⭐ EBM GO-LIVE reference — our delivery is PROVEN; you're the only gate)
 
 Founder directive: **get EBM working end-to-end, then every other band is the same loop.** Full spec: **`EBM-GO-LIVE.md`**.
