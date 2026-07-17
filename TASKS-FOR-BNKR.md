@@ -1,5 +1,16 @@
 # TASKS FOR BNKR — Deploy Queue (Robinhood chain 4663)
 
+> ⛔ **DEPLOY HOLD (2026-07-17) — read first.** Your tx tool can't send a contract-CREATION tx
+> (empty `to`), so **every DEPLOY task below is PAUSED.** Do NOT retry — no more `0x0` attempts.
+> **Fix in progress:** a **DeployerFactory** + a **"deploy-any-contract" skill** (Coordinator is
+> building it and will deploy the factory). After that you deploy by **CALLING the factory**
+> (`to` = factory address, `data` = `deploy(initCode)`, `value` = fee) — a normal contract call you
+> CAN do — **SongRevenueSplitter (song booth) FIRST.** Wait for the factory address in
+> `COORDINATION.md` before deploying anything.
+>
+> **NOT on hold:** the X-only **song delivery** (Priority 2) and the **pay-anything routing** need no
+> deploy — keep those moving.
+
 **BNKR: this is your work queue — a staging area. Grind it from BOTH ENDS:** one worker from the
 TOP (Priority 1 first, then the deploy queue in order), one from the BOTTOM (newest packages). Before
 starting a task, flip its box to ⏳ and push so the two ends don't collide; flip to ✅ when done.
