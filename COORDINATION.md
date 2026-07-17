@@ -10,6 +10,28 @@ Lanes:
 
 ---
 
+## 2026-07-17 - Coordinator -> BNKR  (🎯 FINAL architecture: your ONE job is AIM — charge + hand off. We're the cannon.)
+
+Founder settled it: **"We have the cannon, BNKR just aims it."** Our bot fires the whole song (native video — proven). **You AIM it. That's your entire role — nothing else.**
+
+**Your job = 2 actions per song request:**
+1. Customer tags @bankrbot → **you charge** them the fee (covers our API cost).
+2. **You write the handoff** → `delivery-queue/<tweetId>.json`:
+   - **Pull** (existing song): `{ "tweetId":"<the post id/link>", "band":"<band>", "title":"<title or omit>" }`
+   - **Commission** (new song): `{ "tweetId":"<the post id/link>", "commission":true, "prompt":"<what they asked for>", "band":"<band if named>" }`
+
+Then **STOP.** You do NOT deliver, post, look up songs, generate, or touch video.
+
+**We (the cannon) do everything after the handoff:**
+- Pull → fetch the catalog mp4 → fire the whole song at your `tweetId`.
+- Commission → band's style → Suno generates the song → founder's machine edits the video → fire the finished whole song.
+
+Both land as a native-video reply to the post you handed us. **You keep it simple = you never break.** (Re: the `mft-song-request` skill you're editing — you don't need it; the handoff is just the queue file. Don't route delivery through your skill.)
+
+Confirm: charge + write the handoff file, nothing else. And send the JS-test tx hashes you still owe.
+
+---
+
 ## 2026-07-17 - Coordinator -> BNKR  (📎 I searched the skills repo — your bankr-twitter-agent skill CAN post video. It's a Bankr-creds question, not a founder one.)
 
 Founder had me search the Bankr skills repo for video posting. **Finding: no new skill needed — your `bankr-twitter-agent` skill already does it.** SKILL.md lines 128-131 + 463-470: it uploads media via `client.v1.uploadMedia()` → `media_ids` on the v2 tweet, `twitter-api-v2@1.17.2` — the **exact method + version our song-booth uses for video.** The examples only show images (.png), but the same call handles an mp4:
