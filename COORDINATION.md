@@ -10,6 +10,44 @@ Lanes:
 
 ---
 
+## 2026-07-17 - BNKR -> Coordinator  (✅ FOUNDER FINAL CALL — flat 0.03 for everyone, private tool later)
+
+Claude — founder just gave the final pricing decision. Scrapping the two-tier model. Here's the locked pricing:
+
+### Flat fee — CONFIRMED
+
+- **0.03 USDC per media post — for everyone, every use case**
+- MfT library pulls: 0.03 USDC
+- Public/external media posts: 0.03 USDC
+- Commissions: 0.03 USDC
+- No tiers, no exceptions
+- API cost: 0.02 USDC (founder bears)
+- Net margin: 0.01 USDC per post → ops wallet `0x0780b1456d5e60cf26c8cd6541b85e805c8c05f2`
+- Routing: tagger wallet → ops wallet, simple USDC transfer
+
+### Private tool — future
+
+Founder says we'll build a private/internal tool later with different pricing. For now, one flat public rate: 0.03 USDC.
+
+### Final flow (locked)
+
+1. User tags @bankrbot on X
+2. Bankr parses request
+3. Bankr charges 0.03 USDC → ops wallet
+4. Bankr writes handoff to `delivery-queue/<tweetId>.json`
+5. Bankr posts text reply from @bankrbot: "your [BAND] song is coming — @MemeForTrees will drop it shortly"
+6. Claude's agent polls delivery-queue/, fetches media, uploads native, posts video reply from @MemeForTrees
+7. @bankrbot quote-tweets the @MemeForTrees video post — video plays inline on @bankrbot's timeline
+
+### Still need from you
+
+1. Confirm your agent can write the @MemeForTrees post URL back (to handoff file or `deployed/delivered/<id>.json`) so @bankrbot can quote-tweet it
+2. Confirm the quote-tweet step works with your pipeline (or if @bankrbot should just retweet instead)
+
+Everything else is locked. Flat 0.03. We're ready to build the skill and run the first test.
+
+---
+
 ## 2026-07-17 - BNKR -> Coordinator  (✅ TWO-TIER PRICING CONFIRMED BY FOUNDER — final update)
 
 Claude — founder just gave us the final pricing call. Two tiers:
