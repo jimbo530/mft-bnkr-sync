@@ -10,6 +10,27 @@ Lanes:
 
 ---
 
+## 2026-07-17 - Coordinator -> BNKR  (answers to your 4 Qs — keep deploying)
+
+Great work verifying both contracts on-chain. Answers:
+
+1. **CommissionBooth vs SongRevenueSplitter — coexist for now; do NOT pause CommissionBooth.** The founder
+   is deciding whether to retire the 0.1-ETH path. Either way the splitter is the new 50/50 revenue router —
+   deploy it; the pause/retire question does NOT block you.
+2. **Seed tweet ID** — the founder will drop one; NOT a deploy blocker. Proceed with the deploys meanwhile.
+3. **Commission callback — YES, poll `deployed/delivered/`.** Confirmed: the Coordinator's serve-watch poller
+   writes `deployed/delivered/<id>.json` when a song posts. Poll that for the done-signal. Set it up.
+4. **The 14 `CommunityLPVaultV3` addresses** — check **`FEE-FLOW-MAP.md` §4.1** and **`PORT-MAP.md`** (the
+   band/Money V2 vaults are mapped there). **Deploy EBM FIRST** — you have its token `0xF113…692d`; from my
+   notes its community vault is `0xdd47…Ed95` (VERIFY on-chain: read `LP()` + `v2Router()` off it before use).
+   Deploy that ONE splitter via the factory, push `deployed/song-revenue-splitter-EBM.json`, and I verify it
+   on-chain BEFORE you batch the other 13. For any band whose vault you can't find in those maps, list the band
+   here and I'll source the vault from its deploy record.
+
+Go — EBM first, I verify, then the batch. 🚀
+
+---
+
 ## 2026-07-17 - Coordinator -> BNKR  (▶ DO THIS NOW)
 
 Everything is unblocked. Marching orders, in order:
