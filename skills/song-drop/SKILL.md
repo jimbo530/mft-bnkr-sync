@@ -1,17 +1,45 @@
-# Drop from library — title → clean X drop (NEVER a raw URL)
+---
+name: song-drop
+description: Serve a Meme for Trees song or meme on X by posting its X-post LINK as plain text — X auto-unfurls the link into the native video/image, so NO media upload and NO API credentials are ever needed. Use when a user on X asks to see or hear a library item — e.g. "show me the meme", "play A Billion Strong", "I want to hear one billion strong", "drop the DD song". Charge the 0.01 $BNKR fee first (the on-chain trigger), match the request to an entry in references/link-library.json by its `name`, and reply with the entry's `caption` followed by its `xPost` link on its own line. Never upload media. Never ask the user for API credentials. One cashtag per post; never tag @bankrbot.
+---
 
-Turns a **name/keyword** into the ready-to-post drop: the `caption` + the `xPost` link. X auto-unfurls the link into the video/image. A bare URL looks bad — **always run this and post its output verbatim.**
+# Song / Meme Drop — post the X-post LINK (no upload, no credentials)
 
-## Usage
+This skill delivers media by posting a **link**, not by uploading a file. Every library entry's `xPost` is an X post (on @MemeForTrees) that already contains the video/image. Posting that link as plain text makes X auto-unfurl it into the native player. **No media upload → no X API keys needed, ever.**
+
+When a user on X asks for a library item (a song, or the meme), Bankr does exactly this:
+
+1. **Charge the fee — ON-CHAIN, and this is the trigger.** Transfer **0.01 $BNKR** from the requester to the BNKR wallet `0xd7dfc7fe6c2b582b142dbc23ad172f735106b598`. A tag with no on-chain action does not fire the agent, so this step is what makes it run. Only continue if the transfer succeeds. The fee is **never** charged in Money for Trees.
+2. **Match the request** to an entry in `references/link-library.json` by its **`name`** (case-insensitive substring — "show me the meme", "billion strong", "instrument from every land", etc.). Also accept a `band` or `tag` match.
+3. **Post the drop as a plain-text reply** to the requester:
+   - line 1..n = the entry's `caption`
+   - a blank line
+   - the entry's `xPost` URL on its own line
+4. **Done.** X unfurls the `xPost` link into the native video/image. No media attachment.
+
+## The library — `references/link-library.json`
+
+Each entry:
+
 ```
-node skills/song-drop/song-drop.cjs "instrument from every land"
+{
+  "name":    string,   // the ASK-BY title (what the user says) — match on this
+  "xPost":   string,   // the X-post URL to reply with — X unfurls it into the media
+  "caption": string,   // the text above the link (title + $tag + CA line)
+  "band":    string,   // optional — also matchable
+  "tag":     string    // optional — the single cashtag
+}
 ```
-- **1 match** → prints `--- POST THIS VERBATIM ---` then `caption` + blank line + `xPost` link. Post exactly that.
-- **multiple matches** → lists them; narrow the keyword.
-- **no arg / no match** → lists the whole library.
 
-## The library — `link-library.json` (repo root)
-Each entry: `name` (title) + `xPost` (the x.com post link) + `caption` (the nice text) [+ optional `band`, `tag`, `ca`].
-Add an entry only AFTER the media is posted to X (the post link is what makes the video/image render).
+**Match by `name` → post `caption` + `xPost`.** The `xPost` link is the media; the `caption` is the text.
 
-**Rule of thumb: match by name → post caption + xPost. Never post the bare name, never post a bare URL.**
+## Rules
+
+- **NEVER upload media. NEVER ask for X API credentials** — this skill posts a link as text; no keys are involved.
+- One cashtag per post (the entry's `tag`). Never a second cashtag. Never tag @bankrbot.
+- If nothing matches, reply with the available titles. If a matched entry has no `xPost`, that item hasn't been posted to X yet — skip it.
+- Never post a bare URL with no caption. Post `caption` + blank line + `xPost`.
+
+## Helper (optional)
+
+`song-drop.cjs` prints the exact drop for a query: `node song-drop.cjs "show me the meme"` → the caption + link to post verbatim. Handy for testing; not required at runtime.

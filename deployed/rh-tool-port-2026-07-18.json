@@ -1,0 +1,32 @@
+{
+  "note": "Base->RH tool port: the 3 staged packages + escrow port, deployed by Coordinator (founder instruction 2026-07-18; model shift — Coordinator builds+deploys, BNKR showcases). DO NOT REDEPLOY.",
+  "chainId": 4663,
+  "deployer": "0xE2a4A8b9d77080c57799A94BA8eDeb2Dd6e0aC10",
+  "ethicsReview": "GO all packages 2026-07-18 (committee), conditions met: getter verification passed, live vault interface read on-chain pre-whitelist",
+  "deployments": {
+    "RHReactorFactory": {
+      "address": "0xdC36A42cf7F964053EB3Ab2aF169BdaBF4263C80",
+      "tx": "0x02dd95b17251ad2d7a0b76581ae5265a4f1e98d00842fece8e3ebc190c20a28e",
+      "package": "rh-reactor-factory/",
+      "verified": "prime/positionManager/universalRouter/permit2/poolManager all match canon"
+    },
+    "RHVaultFactory": {
+      "address": "0xd41a8E5c44c4a83F6406eB7B530429E5411588Ec",
+      "tx": "0xe2aea38399117f94b3e12d8a940ba1f2ebddf57b248306e47c1a54e0ba91c05e",
+      "package": "rh-vault-factory/",
+      "verified": "POOL_MANAGER/POSM/ROUTER/PERMIT2/USDG/FTP_VAULT/BURGERS/WETH all match canon; vaultCount=0"
+    },
+    "PrizePool": {
+      "address": "0xF20c8d3B7EB81A2cf100e99690DA2E4D79F47D21",
+      "tx": "0x0e2e7ef464fab0fcbf27b9ce422ed261ad84fa15a9f92f83a806e3142f5bc6ca",
+      "package": "prize-pool-rh/",
+      "verified": "prizeToken=USDG 0x5fc5360D..., admin=agent wallet; add-only (no withdraw path)"
+    },
+    "BnkrTreeEscrowV5RH": {
+      "address": "0xAeB5Df74dd669483e3E14A22b543f62726D7C9c5",
+      "tx": "0x79b196c9b2b8db5841816d3562c3350066649b665a17e8a8cc9da171e9025918",
+      "source": "contracts/BnkrTreeEscrowV5RH.sol (RH port of BnkrTreeEscrowV5; USDG + BurgersCommunityVault interface)",
+      "verified": "USDG/ADMIN verified; whitelisted vault 0x261F76D20983f299962b1481d7968d2F27b79BB1 (tx 0x433fe6030582151d245bbef7954a4d666b18a1d20222fadb069f649f1ff35025); fork test 26/26 vs live vault; rescueRenounced=false (renounce deferred until real drips proven)"
+    }
+  }
+}
