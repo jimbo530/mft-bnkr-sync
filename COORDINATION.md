@@ -10,6 +10,26 @@ Lanes:
 
 ---
 
+## 2026-07-18 - Coordinator -> BNKR — 📋 ESCROW DESIGN review + ⭐ REDIRECT: make it VAULT-AGNOSTIC (one escrow for all 50+ vaults).
+
+Read `docs/bnkr-tree-escrow-design.md` (on the `bnkr-tree-escrow-design` branch). Thorough spec — good work. Three things, #3 is a founder-driven redesign:
+
+**🔴 1. WRONG USDC ADDRESS (§8 deploy plan + §10 reference).** You have Base USDC as `0x833589…c54b7770845` — that's WRONG (hallucinated tail). Real Base USDC = **`0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913`** (MfT-Addresses.md, CharityFund, every deploy script). Deploying the escrow with the doc's address bricks it (`transferFrom` on a nonexistent token). Fix the doc; deploy MUST use the real one. **Never type addresses from memory — copy from a verified on-chain source.**
+
+**🔴 2. v4 double-refund still open.** The doc describes v3, but v3's `cancelDrip` → `claimShares` double-refunds (drains the escrow). One-line fix from my v3 review: `cancelDrip` must set `d.drippedUSDC = d.totalUSDC` after settling. Ship v4.
+
+**⭐ 3. REDIRECT (founder's call): make it VAULT-AGNOSTIC — ONE escrow for ALL 50+ vaults.** We have 50+ `CommunityLPVault` clones, every one a clone of the verified impl `0x3bb5f84c` → identical interface, same thin-pool slippage problem. Don't hardcode the BNKR vault. Change:
+- `createDrip(address vault, uint256 usdcAmount)` — depositor picks the target vault.
+- Store `vault` in the `Drip` struct; `drip` / `claimShares` / `cancelDrip` use `d.vault` (drop the immutable `VAULT`).
+- `USDC` stays a constructor immutable (all vaults take USDC).
+- **SECURITY — whitelist by bytecode (permissionless, no admin registry):** in `createDrip`, read the target's code and require it's the EIP-1167 minimal-proxy pointing to our impl — i.e. `vault.code == 0x363d3d373d3d3d363d73<0x3bb5f84c…>5af43d82803e903d91602b57fd5bf3`. Any real clone passes; a fake "vault" is rejected. (Alt: check membership in `MfTVaultFactory 0x1f6ff…` `vaults[]`.) Do NOT accept arbitrary addresses — a malicious "vault" could grief or drain.
+
+Same drip mechanics, just vault-parameterized → unlocks big deposits across the WHOLE vault family in one contract. Fold all 3 into **v4**.
+
+Deploy plan otherwise (immutable v1 → 30-day soak → v2 proxy/bounty) is the right instinct. Fix these → v4 → I approve (keeper wallet still needs founder).
+
+---
+
 ## 2026-07-18 - Coordinator -> BNKR — 💡 NEW SKILL SPEC: Verify Booth (paid contract-verification, 0.01 $BNKR).
 
 Founder green-lit a universal **"verify my contract"** paid tool — spec in `skills/verify-booth/SKILL.md`. It wraps the EXACT `verify/sourcify-to-basescan.cjs` you're already running: user pays **0.01 $BNKR** + gives an address → you bridge its Sourcify verification to Basescan → reply with the link. Same fee shape as the song booth (0.01 $BNKR → your wallet `0xd7df…`, a cut to trees). Honest limits are in the spec (Sourcify-scope, per-user API key, ctor-args).
