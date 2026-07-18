@@ -1,4 +1,6 @@
-FOR BNKR / FABLE-5 — RH Reactor Factory Deploy Instructions
+﻿*** DEPLOYED 2026-07-18 by Coordinator — DO NOT REDEPLOY. See deployed/rh-tool-port-2026-07-18.json ***
+
+FOR BNKR / FABLE-5 â€” RH Reactor Factory Deploy Instructions
 =============================================================
 
 Chain: Robinhood Chain  |  chainId: 4663
@@ -8,36 +10,36 @@ This package deploys ONE factory contract. The factory then stamps individual
 child reactors (one per token) on demand.
 
 =========================================================================
-STEP 1 — Deploy RHReactorFactory
+STEP 1 â€” Deploy RHReactorFactory
 =========================================================================
 
 Contract: RHReactorFactory
 Source: RHReactorFactory.sol (in this folder)
-Bytecode: creation-bytecode.txt  (factory only, 4208 bytes — NOT the child)
+Bytecode: creation-bytecode.txt  (factory only, 4208 bytes â€” NOT the child)
 
 Constructor args (6 total):
 
-  Arg 1 — _positionManager  (address)
+  Arg 1 â€” _positionManager  (address)
     0x58daec3116aae6D93017bAAea7749052E8a04fA7
 
-  Arg 2 — _universalRouter  (address)
+  Arg 2 â€” _universalRouter  (address)
     0x53BF6B0684Ec7eF91e1387Da3D1a1769bC5A6F77
-    (Canonical Uniswap V4 UniversalRouter — verified working on RH)
+    (Canonical Uniswap V4 UniversalRouter â€” verified working on RH)
 
-  Arg 3 — _permit2  (address)
+  Arg 3 â€” _permit2  (address)
     0x000000000022D473030F116dDEE9F6B43aC78BA3
 
-  Arg 4 — _poolManager  (address)
+  Arg 4 â€” _poolManager  (address)
     0x8366a39CC670B4001A1121B8F6A443A643e40951
 
-  Arg 5 — _prime  (address)
+  Arg 5 â€” _prime  (address)
     0xd51125e200689bf07A9b36A6c12fE440bb92dd4D
-    (The REAL V4ReactorPrime already live on RH — confirmed in rh-reactors-v2.json)
+    (The REAL V4ReactorPrime already live on RH â€” confirmed in rh-reactors-v2.json)
 
-  Arg 6 — _childCreationCode  (bytes)
+  Arg 6 â€” _childCreationCode  (bytes)
     This is the creation bytecode of V4BurgersReactor (17010 bytes).
     The full ABI-encoded constructor args are in: constructor-args-encoded.hex
-    (17248 bytes — includes padding for the bytes arg).
+    (17248 bytes â€” includes padding for the bytes arg).
 
 HOW TO DEPLOY IN BANKR UI:
   Option A: paste creation-bytecode.txt into a raw deploy call, then append
@@ -56,7 +58,7 @@ HOW TO DEPLOY IN BANKR UI:
   Save the deployed factory address as: FACTORY_ADDRESS
 
 =========================================================================
-STEP 2 — Call createReactor for each token
+STEP 2 â€” Call createReactor for each token
 =========================================================================
 
 For each new meme token you want a reactor for:
@@ -75,7 +77,7 @@ For each new meme token you want a reactor for:
     - Event emitted: ReactorCreated(coreToken, reactor, deployer)
     - Factory registry updated: factory.reactorOf[coreToken] = reactor
     - The reactor's admin is initially the factory, which immediately calls
-      reactor.transferAdmin(your_address) — so YOU must call:
+      reactor.transferAdmin(your_address) â€” so YOU must call:
           reactor.acceptAdmin()
       on the newly deployed reactor address to claim admin.
 
@@ -87,7 +89,7 @@ For each new meme token you want a reactor for:
     -> Call reactor.acceptAdmin() to take admin
 
 =========================================================================
-STEP 3 — Wire each reactor (post-deploy, admin only)
+STEP 3 â€” Wire each reactor (post-deploy, admin only)
 =========================================================================
 
 After acceptAdmin(), you are the admin of each child reactor.
@@ -123,11 +125,11 @@ VERIFICATION
 FILES IN THIS PACKAGE
 =========================================================================
 
-  RHReactorFactory.sol           — contract source
-  creation-bytecode.txt          — factory creation bytecode (0x prefixed)
-  constructor-args.txt           — this file + human-readable arg breakdown
-  constructor-args-encoded.hex   — ABI-encoded hex for all 6 constructor args
-  FOR-BNKR.txt                   — these instructions
+  RHReactorFactory.sol           â€” contract source
+  creation-bytecode.txt          â€” factory creation bytecode (0x prefixed)
+  constructor-args.txt           â€” this file + human-readable arg breakdown
+  constructor-args-encoded.hex   â€” ABI-encoded hex for all 6 constructor args
+  FOR-BNKR.txt                   â€” these instructions
 
 =========================================================================
 NOTES
@@ -140,5 +142,6 @@ NOTES
   reactor factory with TokenLaunched event + different ABI). The RH factory
   was built from the V4ReactorSuite constructor pattern directly.
 - The REAL prime (0xd51125) is confirmed in _sweep-vps.md under
-  "FTP meme reactor (RH) — REAL PRIME". Do NOT use the disowned prime at
+  "FTP meme reactor (RH) â€” REAL PRIME". Do NOT use the disowned prime at
   0xCE35A7279e34670D133e659747B96c82770a8549.
+

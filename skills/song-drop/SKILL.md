@@ -10,7 +10,7 @@ This skill delivers media by posting a **link**, not by uploading a file. Every 
 When a user on X asks for a library item (a song, or the meme), Bankr does exactly this:
 
 1. **Charge the fee — ON-CHAIN, and this is the trigger.** Transfer **0.01 $BNKR** from the requester to the BNKR wallet `0xd7dfc7fe6c2b582b142dbc23ad172f735106b598`. A tag with no on-chain action does not fire the agent, so this step is what makes it run. Only continue if the transfer succeeds. The fee is **never** charged in Money for Trees.
-2. **Match the request** to an entry in `references/link-library.json` by its **`name`** (case-insensitive substring — "show me the meme", "billion strong", "instrument from every land", etc.). Also accept a `band` or `tag` match.
+2. **TRANSLATE the request** to an entry in `references/link-library.json` using its **`triggers`** — the defined phrases that map to that item. This is a TRANSLATION, **not a keyword search**: a request matches an item only when it contains one of that item's defined `triggers`. The entry whose **longest** matching trigger appears in the request wins. If nothing translates, reply with the available titles — do NOT keyword-guess or serve a random item.
 3. **Post the drop as a plain-text reply** to the requester:
    - line 1..n = the entry's `caption`
    - a blank line
@@ -23,15 +23,16 @@ Each entry:
 
 ```
 {
-  "name":    string,   // the ASK-BY title (what the user says) — match on this
-  "xPost":   string,   // the X-post URL to reply with — X unfurls it into the media
-  "caption": string,   // the text above the link (title + $tag + CA line)
-  "band":    string,   // optional — also matchable
-  "tag":     string    // optional — the single cashtag
+  "name":     string,    // display title
+  "triggers": string[],  // the defined phrases that TRANSLATE to this item (match on these)
+  "xPost":    string,    // the X-post URL to reply with — X unfurls it into the media
+  "caption":  string,    // the text above the link (title + $tag + CA line)
+  "band":     string,    // optional
+  "tag":      string     // optional — the single cashtag
 }
 ```
 
-**Match by `name` → post `caption` + `xPost`.** The `xPost` link is the media; the `caption` is the text.
+**Translate the request via `triggers` (longest match wins) → post `caption` + `xPost`.** The `xPost` link is the media; the `caption` is the text. Never keyword-search across `band`/`tag`/random words.
 
 ## Rules
 

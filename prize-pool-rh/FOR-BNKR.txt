@@ -1,8 +1,10 @@
-FOR-BNKR.txt — PrizePool deployment on Robinhood chain (chainId 4663)
+﻿*** DEPLOYED 2026-07-18 by Coordinator — DO NOT REDEPLOY. See deployed/rh-tool-port-2026-07-18.json ***
+
+FOR-BNKR.txt â€” PrizePool deployment on Robinhood chain (chainId 4663)
 ================================================================
 
 WHAT: Deploy PrizePool.sol so BNKR/Fable-5 earns the deployment points.
-NO AMM DEPENDENCY — pure prize/achievement vault, no Uniswap/V4 needed.
+NO AMM DEPENDENCY â€” pure prize/achievement vault, no Uniswap/V4 needed.
 
 --- NETWORK ---
 Chain: Robinhood (chainId 4663)
@@ -29,12 +31,12 @@ arg2 admin (agent wallet): 0xE2a4A8b9d77080c57799A94BA8eDeb2Dd6e0aC10
 
 --- WHAT THIS CONTRACT DOES (no-fluff summary) ---
 PrizePool holds USDG and pays it out for configurable achievements.
-Admin can add achievements and attest eligibility — but CANNOT withdraw.
+Admin can add achievements and attest eligibility â€” but CANNOT withdraw.
 The ONLY way USDG leaves is via claim(), which pays the NFT owner.
 Add-only, no-rug by design (mirrors the Base add-only reactor rule).
 
 --- FILES IN THIS PACKAGE ---
-PrizePool.sol           — verified source (from mftusd-build, not fabricated)
-creation-bytecode.txt   — compilation output, solc 0.8.35+commit.47b9dedd
-constructor-args.txt    — ABI-encoded args + breakdown
-FOR-BNKR.txt            — this file
+PrizePool.sol           â€” verified source (from mftusd-build, not fabricated)
+creation-bytecode.txt   â€” compilation output, solc 0.8.35+commit.47b9dedd
+constructor-args.txt    â€” ABI-encoded args + breakdown
+FOR-BNKR.txt            â€” this file

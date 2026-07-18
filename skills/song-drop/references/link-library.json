@@ -1,18 +1,21 @@
 [
   {
-    "name": "show me the meme",
+    "name": "the meme",
+    "triggers": ["show me the meme", "the meme"],
     "xPost": "https://x.com/MemeForTrees/status/2078504421709738394",
     "caption": "🌱 Meme for Trees\n\n0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "tag": "$MfT"
   },
   {
     "name": "An Instrument From Every Land",
+    "triggers": ["an instrument from every land", "instrument from every land", "digerie dude"],
     "xPost": "https://x.com/MemeForTrees/status/2078218260470706262",
     "caption": "🎵 An Instrument From Every Land — Digerie Dude\n\n$DD",
     "tag": "$DD"
   },
   {
     "name": "A Billion Strong",
+    "triggers": ["a billion strong", "billion strong", "one billion strong"],
     "xPost": "https://x.com/MemeForTrees/status/2078254843701928332",
     "caption": "A Billion Strong\n\n$EBM 0xF113fe2A0E1181A21fA97B1F52ff232140B7692d",
     "band": "EBM",

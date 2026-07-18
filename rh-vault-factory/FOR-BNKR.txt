@@ -1,4 +1,6 @@
-FOR-BNKR.txt — RHVaultFactory deploy steps for Fable-5 / Bankr UI
+﻿*** DEPLOYED 2026-07-18 by Coordinator — DO NOT REDEPLOY. See deployed/rh-tool-port-2026-07-18.json ***
+
+FOR-BNKR.txt â€” RHVaultFactory deploy steps for Fable-5 / Bankr UI
 =================================================================
 Chain: Robinhood (4663)
 Date: 2026-07-16
@@ -22,7 +24,7 @@ There is NO existing factory or reusable impl-only contract on chain 4663.
 Use: creation-bytecode.txt -> "FULL deploy tx.data" section
 
   Chain:      4663 (Robinhood)
-  To:         (empty — contract creation)
+  To:         (empty â€” contract creation)
   Value:      0
   Data:       the hex string under "FULL deploy tx.data" in creation-bytecode.txt
   Gas limit:  ~2,200,000 (factory + 21KB impl bytecode in constructor storage)
@@ -51,7 +53,7 @@ Arguments for a standard vault (matching the existing live vaults):
                (e.g. 0xE2a4A8b9d77080c57799A94BA8eDeb2Dd6e0aC10 for agent wallet)
   tickLower:   416600   (the verified reactor BURGERS/FTP range from rh-ftp-vault-v2.json)
   tickUpper:   424800
-  salt:        any bytes32 — e.g. keccak256(abi.encode(vaultOwner, 1)) for first vault
+  salt:        any bytes32 â€” e.g. keccak256(abi.encode(vaultOwner, 1)) for first vault
 
 Gas estimate: ~3,000,000 (deploys 21KB vault bytecode + wiring check)
 
@@ -81,28 +83,28 @@ To activate it, follow the same flow as the existing vaults:
     - Credits owner shares for the seed liquidity.
     - After this call, positionId != 0 and the vault is live.
 
-3c. Verify by calling vault.getInfo(someAddress) — should not revert.
+3c. Verify by calling vault.getInfo(someAddress) â€” should not revert.
 
 Done. The vault is now open for public deposits via deposit(usdgAmount, displayName).
 
 
 === CANONICAL POOL KEYS (for reference when minting positions) ===
 
-bfKey (BURGERS/FTP — the vault's position pool):
+bfKey (BURGERS/FTP â€” the vault's position pool):
   currency0:   0x873739aeD7b49f005965377b5645914b1D78Ccd3  (ftpVault)
   currency1:   0xf796e42EA375bcD592c892FE64968Ba06188bbA3  (burgers)
   fee:         10000
   tickSpacing: 200
   hooks:       0x0000000000000000000000000000000000000000
 
-bwKey (BURGERS/WETH — deep route leg 1, doppler):
+bwKey (BURGERS/WETH â€” deep route leg 1, doppler):
   currency0:   0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73  (weth)
   currency1:   0xf796e42EA375bcD592c892FE64968Ba06188bbA3  (burgers)
   fee:         8388608  (V4 DYNAMIC_FEE_FLAG)
   tickSpacing: 200
   hooks:       0x4e3468951D49f2EEa976eD0D6e75fFCb44a9a544
 
-wuKey (WETH/USDG — deep route leg 2, vanilla):
+wuKey (WETH/USDG â€” deep route leg 2, vanilla):
   currency0:   0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73  (weth)
   currency1:   0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168  (usdg)
   fee:         3000
@@ -112,15 +114,16 @@ wuKey (WETH/USDG — deep route leg 2, vanilla):
 
 === FILE MANIFEST ===
 
-RHVaultFactory.sol           — factory source (self-contained, no imports)
-BurgersCommunityVault.sol    — vault impl source (for reference; bytecode embedded in factory)
-RHVaultFactory.artifact.json — compiled ABI + factory bytecode
-creation-bytecode.txt        — factory-only hex / encoded args / full deploy tx.data
-constructor-args.txt         — constructor arg detail (ABI-encoded + raw impl bytecode)
-FOR-BNKR.txt                 — this file
+RHVaultFactory.sol           â€” factory source (self-contained, no imports)
+BurgersCommunityVault.sol    â€” vault impl source (for reference; bytecode embedded in factory)
+RHVaultFactory.artifact.json â€” compiled ABI + factory bytecode
+creation-bytecode.txt        â€” factory-only hex / encoded args / full deploy tx.data
+constructor-args.txt         â€” constructor arg detail (ABI-encoded + raw impl bytecode)
+FOR-BNKR.txt                 â€” this file
 
 Source addresses grounded from:
   rh-v4-addresses.json (resolvedAt 2026-07-12)
   rh-burgers-route.json (resolvedAt 2026-07-13)
   rh-ftp-vault-v2.json (deployedAt 2026-07-13)
   On-chain verification: V2 vault owner/burgers/ftpVault confirmed via RPC 2026-07-16.
+

@@ -1,20 +1,27 @@
-// Song drop lookup: a song TITLE/keyword -> the formatted X drop (caption + link) from link-library.json.
-// Post exactly what this prints — NEVER a bare URL (that looks bad). X auto-unfurls the link into the video.
-//   node skills/song-drop/song-drop.cjs "instrument from every land"
+// Song/meme drop TRANSLATOR — translate an X request to a library entry via its DEFINED triggers,
+// then print the exact drop to post (the entry's caption + its xPost link). This is a translation
+// (defined trigger phrase -> item), NOT a keyword search.
+//   node song-drop.cjs "show me the meme"
 const fs = require('fs');
 const path = require('path');
-const LIB = path.join(__dirname, '..', '..', 'link-library.json');
+const LIB = path.join(__dirname, 'references', 'link-library.json');
 const lib = JSON.parse(fs.readFileSync(LIB, 'utf8'));
 const q = (process.argv.slice(2).join(' ') || '').toLowerCase().trim();
-const listing = () => '(' + lib.length + ') ' + lib.map(x => x.name).join(' | ');
+const listing = () => lib.map(x => '  - ' + x.name + '   → say: "' + (x.triggers ? x.triggers[0] : x.name) + '"').join('\n');
 
-if (!q) { console.log('usage: node song-drop.cjs "<title or keyword>"\nlibrary: ' + listing()); process.exit(0); }
-const hit = lib.filter(x => [x.name, x.band, x.tag].filter(Boolean).some(v => String(v).toLowerCase().includes(q)));
-if (!hit.length) { console.log('no match for "' + q + '"\nlibrary: ' + listing()); process.exit(1); }
-if (hit.length > 1) { console.log('multiple matches — narrow it:\n' + hit.map(h => '  - ' + h.name).join('\n')); process.exit(0); }
-const s = hit[0];
-if (!s.xPost) { console.log('⚠️ "' + s.name + '" has no xPost link yet — it must be posted to X first.'); process.exit(1); }
+if (!q) { console.log('usage: node song-drop.cjs "<what the user said>"\nlibrary:\n' + listing()); process.exit(0); }
 
-// The drop = nice caption + the link. X turns the link into the video card below the text.
+// TRANSLATE: find the entry whose DEFINED trigger phrase appears in the request. Longest trigger wins
+// (so "one billion strong" beats a shorter partial). No keyword scan of band/tag/random words.
+let best = null, bestLen = 0;
+for (const x of lib) {
+  const triggers = (x.triggers && x.triggers.length ? x.triggers : [x.name]).map(s => String(s).toLowerCase());
+  for (const t of triggers) {
+    if (t && q.includes(t) && t.length > bestLen) { best = x; bestLen = t.length; }
+  }
+}
+
+if (!best) { console.log('no library item matches "' + q + '" — nothing to translate. Available:\n' + listing()); process.exit(1); }
+if (!best.xPost) { console.log('⚠️ "' + best.name + '" has no xPost link yet — post it to X first.'); process.exit(1); }
 console.log('--- POST THIS VERBATIM ---');
-console.log((s.caption || s.name) + '\n\n' + s.xPost);
+console.log((best.caption || best.name) + '\n\n' + best.xPost);
