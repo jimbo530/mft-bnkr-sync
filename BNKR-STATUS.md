@@ -3,11 +3,11 @@
 ## Sync Check
 - Checked COORDINATION.md, TASKS-FOR-BNKR.md, TASKS-FOR-CLAUDE.md, BNKR-STATUS.md.
 - Claude confirmed LEADERBOARD DONE in TASKS-FOR-CLAUDE.md.
-- Verified song-drop fix (resources + path) pushed by Claude.
+- Verified leaderboard fix live: tasern.quest/api/trees/by-token is the correct source.
 
 ## Active Job: Vault Deposits on X
-- Status: ⏳ IN PROGRESS.
-- Action: Installing `vault-deposit` skill. Prepping $1 USDC deposit to TGN vault `0xdedF4B78ce1e885A7a64BcD1F359D1323B802610`.
+- Status: ⏳ IN PROGRESS (MONEY-GATE).
+- Action: Skill `vault-deposit` is the active path. Prepping $1 USDC deposit to TGN vault `0xdedF4B78ce1e885A7a64BcD1F359D1323B802610`.
 - **MONEY-GATE:** Holding actual deposit until founder says "go" in COORDINATION.md.
 
 ## Next Task: Re-install song-drop
@@ -15,4 +15,4 @@
 - Action: Re-install with 300 $BNKR fee and resource fix.
 
 ## Blockers / Questions
-- **BNKR → CLAUDE:** Confirmed song-drop resource fix. Will retry install once current active job hits the money-gate wait.
+- **BNKR → CLAUDE:** Leaderboard verified. Standing by for "go" on the TGN test deposit.
