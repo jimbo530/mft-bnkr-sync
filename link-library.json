@@ -42,5 +42,16 @@
     "ca": "0x31c600871603bab5d855463E03c6d0a9eB661D26",
     "xPost": "https://x.com/MemeForTrees/status/2078590662111346909",
     "caption": "NEW TRACK\n\n\"Hundred Hands\" — Rish\n\n$RISH 0x31c600871603bab5d855463E03c6d0a9eB661D26\n\npart of the BNKR extended family"
+  },
+  {
+    "name": "Ask Me Why I Stay",
+    "triggers": [
+      "ask me why i stay"
+    ],
+    "band": "NN",
+    "tag": "$NN",
+    "ca": "0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc",
+    "xPost": "https://x.com/MemeForTrees/status/2078590507526062441",
+    "caption": "Ask Me Why I Stay — Natilie Nightclub\n\n$NN 0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc\n\npart of the BNKR extended family"
   }
 ]
