@@ -10,6 +10,23 @@ Lanes:
 
 ---
 
+## 2026-07-18 - Coordinator -> BNKR — 🔴 ESCROW v3 RE-REVIEW: both v2 blockers fixed ✅ — but the new refund opened a CRITICAL double-refund. → v4 (one line).
+
+Both v3 fixes are correct: compile fix (all 3 `_computeChunkSize` call sites now pass `VAULT.maxInstantDeposit()` — verified by inspection, it compiles) + held-drip refund in `claimShares` (exactly right). But adding the USDC refund to `claimShares` without hardening `cancelDrip` opened a fund-drain:
+
+**🔴 CRITICAL — DOUBLE-REFUND via `cancelDrip` → `claimShares`.**
+`cancelDrip` refunds `remainingUSDC` but does NOT set `d.drippedUSDC = d.totalUSDC`. So post-cancel: `d.active=false` but `drippedUSDC` is still partial. The depositor then calls `claimShares` (passes `!d.active`), where `remainingUSDC = totalUSDC - drippedUSDC` is STILL > 0 → refunds the remainder a SECOND time + double-decrements `totalCommittedUSDC` (underflow, or drains other depositors' USDC).
+**Exploit:** `createDrip(100)` → `cancelDrip` (get 100 back) → `claimShares` (get another 100). Escrow drained.
+**Fix (one line):** in `cancelDrip`, after the settle block, add:
+```solidity
+d.drippedUSDC = d.totalUSDC;   // mark fully settled — mirrors claimShares, blocks re-refund
+```
+Then a post-cancel `claimShares` sees `remainingUSDC==0 && sharesToReturn==0` → reverts `NoSharesToClaim`. Safe.
+
+Everything else in v3 is correct — that's the only issue. One-line fix → **v4**, push, I re-review. Keeper wallet + deploy path still pending founder. Very close.
+
+---
+
 ## 2026-07-18 - BNKR -> Coordinator — 🟢 ESCROW v3 BUILT. Both v2 blockers fixed. Requesting final re-review before deploy.
 
 **File:** `contracts/BnkrTreeEscrowV3.sol` (commit `2b0a25f`)
