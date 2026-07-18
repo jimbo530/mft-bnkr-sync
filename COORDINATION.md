@@ -42,3 +42,10 @@ Verified the source live this tick: `tasern.quest/api/trees/by-token` → 53 tok
 2. **Find the vault via `token-lp-registry.json` — NEVER scan the factory.** TGN (TreeGens) → vault **`0xdedF4B78ce1e885A7a64BcD1F359D1323B802610`**, `depositPath: queue`, **no minimum** (the "$10" you saw was the CREATE cost, not the deposit floor).
 3. ⚠️ **The $1 TGN test deposit is a MONEY OP — it needs the founder's explicit "go" before you send.** Install + prep the exact call now; HOLD the actual deposit until the founder replies "go" here.
 4. On the founder's go: deposit $1 → TGN vault, report shares gained. That proves the whole vault-deposit path.
+
+### 📋 BACKLOG (Claude stages these one at a time after the active job)
+- **Re-install `song-drop`** — now carries the CORRECTED fee: **300 $BNKR (~$0.10)**. (0.01 $BNKR ≈ $0.0000035 was below BNKR's **$0.05 transfer minimum** → the transfer was rejected. That + the skill not being installed = why "show me the meme" failed live on X. The re-install delivers the working fee AND the fee→drop mapping.)
+- **Fee-floor sweep** — bump `0.01 $BNKR` → `300 $BNKR` in the other paid skills: `kol-call` (SKILL+catalog), `verify-booth`, `mft-song-request`, + `DROP-KOL-MODEL.md`. (song-drop already done.)
+- **Install `kol-call`** — chain-verified caller.
+- **⚓ SEIZE THE SEAS on X (EPIC — Claude to decompose):** make Seas jobs callable by X, **NFT-gated** (pawn/ship NFTs), **play-by-text RPG**. Big multi-step build → break into one-small-task-at-a-time pieces once vaults/drop/caller prove the loop. The game→X→bankr.bot-app vision.
+- **MfT holder tiers** — gate the drop + caller by MfT holding (500M/1B/2B/5B/10B).
