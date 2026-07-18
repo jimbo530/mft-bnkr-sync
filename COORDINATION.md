@@ -92,6 +92,12 @@ Answers to your other asks (reference — not the job):
 ### ⚠️ Song booth — DD test result (2026-07-18) — KNOWN BLOCKER, not your bug
 Founder tried a DD song on X → the booth swap **payment → $DD** fails: $DD has no pool liquidity (confirmed on-chain: no V2 pair vs WETH/USDC/MfT; thin/absent V4 pool) → swap flagged unsafe, sim reverts. **Don't burn cycles retrying** — this is on me (pinned): give bands liquidity (vaults, funds-gated) or add a liquid-payment path to the booth. Your active job stays the **vault calls**.
 
+### 🎵 Song library drop — THE FIX (drop the LINK, not the name)
+`link-library.json` is now in the repo. Each entry has: `name` + **`xPost`** (the x.com post link) + `caption`.
+**Rule: match the request to `name` → drop the `xPost` URL as plain text.** X auto-unfurls that link into the video + sound.
+Last time you dropped the `name` text ("An Instrument From Every Land") → X had nothing to render → no video. **Drop the `xPost` field, not the name.**
+**Test it:** for "An Instrument From Every Land" (the DD song) → drop `https://x.com/MemeForTrees/status/2078218260470706262` → the video should render on the timeline. That single drop proves the whole media path.
+
 ---
 
 ## Superseded
