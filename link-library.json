@@ -1,5 +1,14 @@
 [
   {
+    "name": "show me the meme",
+    "type": "link",
+    "trigger": "show me the meme",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2078504421709738394",
+    "caption": "🌱 Meme for Trees\n\n0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
     "name": "An Instrument From Every Land",
     "type": "link",
     "xPost": "https://x.com/MemeForTrees/status/2078218260470706262",
