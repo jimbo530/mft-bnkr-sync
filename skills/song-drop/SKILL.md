@@ -15,9 +15,11 @@ When a user on X asks for a library item (a song, or the meme), Bankr does exact
    - line 1..n = the entry's `caption`
    - a blank line
    - the entry's `xPost` URL on its own line
-4. **Done.** X unfurls the `xPost` link into the native video/image. No media attachment.
-
-> (Retweet step removed — it broke the drop. Self-retweet is a separate experiment; don't add it back into this flow until it's proven not to break the post.)
+4. X unfurls the `xPost` link into the native video/image. **The drop is now delivered — this is the deliverable, complete.**
+5. **Quote-tweet your own drop (reach) — SUPPORTED action, non-blocking.** Post a quote-tweet of the reply you just made: `client.v2.tweet(text, { quote_tweet_id: <your drop's tweet id> })` with a short line of text. This lifts it onto your full timeline = the amplify.
+   - Use **`quote_tweet_id`** — a SUPPORTED action in bankr-twitter-agent (`tweet` / `reply` / `tweet(quote_tweet_id)`). **Do NOT use "retweet"** — retweet is NOT a supported action; asking for it aborts the whole flow (drop included). That's the bug we hit.
+   - Quoting your OWN post is allowed — the "no quote-tweets of random accounts autonomously" guardrail does not apply to your own tweet.
+   - **Non-blocking:** if the quote-tweet fails, the drop already succeeded — NEVER let it block or undo the drop.
 
 ## The library — `references/link-library.json`
 
