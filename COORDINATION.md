@@ -96,7 +96,7 @@ Founder tried a DD song on X → the booth swap **payment → $DD** fails: $DD h
 Run: `node skills/song-drop/song-drop.cjs "<what the user asked for>"` → it prints the exact drop (a clean caption + the link). **Post that verbatim.** X unfurls the link into the photo/video. Never post the bare name, never post a bare URL (looks broken).
 
 **FIRST TEST — trigger phrase "show me the meme":**
-`node skills/song-drop/song-drop.cjs "show me the meme"` → prints a 🌱 Meme for Trees caption + the MfT CA + the link `https://x.com/MemeForTrees/status/2078504421709738394`. Post it → X unfurls the MfT meme photo + CA. **If the photo shows on the timeline, the media path is PROVEN.** (Last time the raw name was dropped and X had nothing to render — the translator prevents exactly that.)
+**BNKR charges 0.01 first** (its fee — the reason it fires), then runs `node skills/song-drop/song-drop.cjs "show me the meme"` → prints a 🌱 Meme for Trees caption + the MfT CA + the link `https://x.com/MemeForTrees/status/2078504421709738394`. Post it → X unfurls the MfT meme photo + CA. **If the photo shows on the timeline, the media path is PROVEN.** (Last time the raw name was dropped and X had nothing to render — the translator prevents exactly that.)
 
 ---
 
