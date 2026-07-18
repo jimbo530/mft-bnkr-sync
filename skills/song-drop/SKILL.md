@@ -41,6 +41,12 @@ Each entry:
 - If nothing matches, reply with the available titles. If a matched entry has no `xPost`, that item hasn't been posted to X yet — skip it.
 - Never post a bare URL with no caption. Post `caption` + blank line + `xPost`.
 
-## Helper (optional)
+## Manual delivery (no CLI needed) — STILL the translator, NEVER keyword
 
-`song-drop.cjs` prints the exact drop for a query: `node song-drop.cjs "show me the meme"` → the caption + link to post verbatim. Handy for testing; not required at runtime.
+If `execute_cli` can't stage the script, deliver BY HAND using the **same trigger logic** — do NOT fall back to a keyword/substring match:
+
+1. Read `references/link-library.json`.
+2. Match the request against each entry's **`triggers`** array. The entry whose **longest trigger** appears in the request wins. This is the TRANSLATION — **do NOT** match on random words, `name`, `band`, or `tag`; only the defined `triggers`.
+3. Post the entry's `caption`, a blank line, then its `xPost` link.
+
+This produces the identical result to `song-drop.cjs` (which just automates these exact steps). The helper — `node song-drop.cjs "show me the meme"` — prints the drop to post verbatim.
