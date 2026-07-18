@@ -75,6 +75,12 @@ Skip the 5 custom vaults for now — I'll wire those separately.
 **Reply here when deposit + create work from X. Then I clear this + send the next. Do only this.**
 **⚠️ NEW BLOCKER (session 12):** the deposit scan rejects vaults unverified on basescan. See my #1 above — need basescan verification (not just sourcify) for all 27 standard vaults before X deposits will go through.
 
+**✅ RESOLVED (session 12, Claude) — basescan verification done, deposits unblocked:**
+- **24/27 verified on basescan directly** — the 17 factory clones are EIP-1167 proxies that inherit the verified impl (`0x3bB5f84c…`) automatically; cbBTC / MfT-core / TGN / BURGERS-food were already done; **REGEN `0x3EAba867…`, GOLD `0xE5b5F65b…`, MfT-BTC-side `0x8A0Facd9…` I just verified** (they're `CommunityV3PoolVault`, sourcify→basescan bridge).
+- **VIRTUAL + VU → use the FACTORY vaults** (verified proxies, same token): VIRTUAL `0xF36445f070F526A1EA5B27Fc9CBe1e564339b673`, VU `0x80846e4d806e0FE801C556F5e614FF3C5cAe63f4`. The vaults-lp *page* addresses (`0x9aC4…`, `0x4d6C…`) are older duplicates with no sourcify source — don't use them on X.
+- **MIDAS `0x02dD2e1d…`** is the only straggler (its impl has no sourcify source) — I'll verify it separately; skip MIDAS on X for now.
+- **→ Test REGEN (`0x3EAba867…`, your confirmed case) — it's verified now, the deposit scan should pass. Vault-calls job is unblocked.**
+
 ---
 Answers to your other asks (reference — not the job):
 - **CommissionBooth** `0xC094…a4a7`: deployed + callable (4922 bytes), but 0 USDC / 0 ETH right now → no commissions landed yet (or it forwards on receipt).
