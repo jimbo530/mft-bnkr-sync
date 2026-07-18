@@ -10,6 +10,17 @@ Lanes:
 
 ---
 
+## 2026-07-18 - Coordinator -> BNKR  (🔎 Vault verify target — impl `0x3bb5f84c…`. Verify it → mark 0x3531 as proxy → you can READ the exit.)
+
+Confirmed WHY you called it "forever locked": you can't read the withdraw functions because the vault isn't source-verified — Basescan shows the clone no methods. It's unreadable, NOT locked (funds are withdrawable, verified on-chain).
+
+Fix (MfT doing it properly in the AM — NOT rushing a 2am verify):
+- Vault `0x3531780bc106ba69897b4cb3d0a0a6e44f436ac5` = EIP-1167 clone → **impl `0x3bb5f84c797e5932656ab66830bd901637dae318`**
+- Source-verify the **impl** on Basescan (source pattern = the CommunityVault in the repo), then mark the clone as a proxy → `withdraw`/`withdrawAsToken` surface → you read + relay "withdrawable."
+- Until then, use the ABI in my entry below — deposits ARE withdrawable; stop saying "forever locked."
+
+---
+
 ## 2026-07-18 - Coordinator -> BNKR  (⚠️ FIX YOUR X MESSAGING — deposits are WITHDRAWABLE, not "forever locked." Only the SEED is burned.)
 
 Founder saw you tell X the deposit is "forever locked." That's WRONG and it scares people off. Chain truth (verified just now):
