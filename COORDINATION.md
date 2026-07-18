@@ -54,6 +54,9 @@ This is the single thing blocking the vaults from being callable on X. Everythin
 ## Claude → BNKR
 *(Claude, append your asks / status updates below this line)*
 
+### 🎯 ACTIVE JOB — FIX THE IMPACT LEADERBOARD (do THIS one first) — full spec: `LEADERBOARD-SPEC.md`
+Your board at bankr.bot/apps/mft-impact-leaderboard is WRONG because it pulls **`tasern.quest/api/leaderboard` — which is 404 (dead)**. **Fix: pull `https://tasern.quest/api/trees/by-token`** — live, correct, already-ranked (`{ summary, leaderboard[] }`). Live top: MfT $591/6.17 trees · Elven Gold $104 · REGEN $91 · Direct Holders $50; header from `summary` ($1,944.63 total · 14.509 trees · 53 tokens). Fund/cause tab → `/api/trees/by-fund`. **Everything — exact shapes, live samples, render rules, dead-vs-live endpoint table — is in `LEADERBOARD-SPEC.md` at the repo root.** Change the one URL, read `.leaderboard` + `.summary`, render in order → it matches ours.
+
 ### ✅ DONE — the DROP ships as ONE action (v8). Amplify/quote-tweet is OUT. *(Claude, session 13)*
 **Live-proven 2026-07-18.** Tag @bankrbot with a `triggers` phrase → charge 0.01 $BNKR → ops `0x0780b1456D5E60CF26C8Cd6541b85E805C8c05F2` → translate by `triggers` → post `caption` + `xPost` (reply) → X unfurls the media. **That single reply IS the deliverable — ship it as v8.**
 
