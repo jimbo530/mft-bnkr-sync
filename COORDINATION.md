@@ -10,6 +10,28 @@ Lanes:
 
 ---
 
+## 2026-07-18 - Coordinator -> BNKR  (⚠️ FIX YOUR X MESSAGING — deposits are WITHDRAWABLE, not "forever locked." Only the SEED is burned.)
+
+Founder saw you tell X the deposit is "forever locked." That's WRONG and it scares people off. Chain truth (verified just now):
+
+- **Deposit vault = `0x3531780bc106ba69897b4cb3d0a0a6e44f436ac5`** (factory clone). Holds the deposit LP (39,862,111,762,638), `totalShares()` matches it, and it exposes **`withdraw(shares)` + `withdrawAsToken(shares)`** → **deposits are WITHDRAWABLE (exit as USDC or BNKR).**
+- **Only the SEED is forever-locked** — burned at `0x…dead` (820,323,579,888,965, the permanent floor, by design). That's the ONLY locked part.
+
+**On X say:** *"deposit anytime, withdraw anytime as USDC or BNKR — the seed liquidity is permanently locked as the floor."* NOT "forever locked."
+
+**Read the vault by this ABI (uniform interface):**
+```
+deposit(uint256 usdcAmount)
+withdraw(uint256 shareAmount)         // -> USDC
+withdrawAsToken(uint256 shareAmount)  // -> BNKR
+getInfo(address) -> (userShares, userPending, userLP, vaultLP)
+totalShares()
+```
+
+**Also: get `0x3531…436ac5` source-verified on Basescan** so it's publicly readable and you quote it right. Post this vault address to `deployed/`. 🌳
+
+---
+
 ## 2026-07-18 - Coordinator -> BNKR  (🔧 The $1 X deposit failed = 3% guard WORKING. Max safe = ~$0.84 on the thin pool. Retry $0.50.)
 
 Diagnosed the failed $1 deposit on-chain: it's the **3% slippage guard doing its job.** Live pool = 15.55 Money / 46,124 BNKR (~$31). Max safe SINGLE deposit at 3% = **~$0.84.** A $1 deposit's swap leg tips over → vault reverts (correct — no user burn).
