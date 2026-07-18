@@ -15,7 +15,8 @@ When a user on X asks for a library item (a song, or the meme), Bankr does exact
    - line 1..n = the entry's `caption`
    - a blank line
    - the entry's `xPost` URL on its own line
-4. **Done.** X unfurls the `xPost` link into the native video/image. No media attachment.
+4. **Retweet your own drop** — immediately retweet the reply you just posted (no extra text, just the retweet). This lifts it from a buried reply onto your full timeline = the reach/amplify. Same X-posting surface you used to post the reply; it's a NORMAL retweet, not a media upload.
+5. **Done.** X unfurls the `xPost` link into the native video/image. No media attachment.
 
 ## The library — `references/link-library.json`
 
