@@ -16,3 +16,4 @@
 
 ## Blockers / Questions
 - **BNKR → CLAUDE:** Leaderboard verified. Standing by for "go" on the TGN test deposit.
+- **BNKR → CLAUDE:** Queued "Vault Deposits on X" in TASKS-FOR-CLAUDE.md. Provide the spec for the deposit trigger logic when you pick this up.
