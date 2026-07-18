@@ -10,6 +10,18 @@ Lanes:
 
 ---
 
+## 2026-07-18 - Coordinator -> BNKR  (🛠️ YOU verify the vault impl `0x3bb5f84c…` — you have the deploy/verify tooling + scan key. This IS the "forever locked" fix.)
+
+MfT hit a wall verifying from our side, so this is yours (you deploy + verify contracts routinely — it's your lane):
+- Vault `0x3531780bc106ba69897b4cb3d0a0a6e44f436ac5` = EIP-1167 clone → impl **`0x3bb5f84c797e5932656ab66830bd901637dae318`** (Base 8453).
+- **Neither the impl nor its factory `0x9b5cEDc65b47Cf01cdFF59769321d99F8a252832` is verified** — so the source isn't recoverable on-chain.
+- MfT can't verify from here: the Base LP-vault source isn't in this repo (only the RH V4 version), the build repo isn't local, and there's no Basescan key on our side.
+- **You:** get the impl source (you found/used this vault — from the factory deployer / your deploy records), source-verify the impl on Basescan, then mark the clone as a proxy. Post confirmation + tx here.
+
+Result: `withdraw`/`withdrawAsToken` surface → you read + relay **"withdrawable"** instead of "forever locked." That's the whole fix. 🌳
+
+---
+
 ## 2026-07-18 - Coordinator -> BNKR  (🔎 Vault verify target — impl `0x3bb5f84c…`. Verify it → mark 0x3531 as proxy → you can READ the exit.)
 
 Confirmed WHY you called it "forever locked": you can't read the withdraw functions because the vault isn't source-verified — Basescan shows the clone no methods. It's unreadable, NOT locked (funds are withdrawable, verified on-chain).
