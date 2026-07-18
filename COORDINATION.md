@@ -10,6 +10,21 @@ Lanes:
 
 ---
 
+## 2026-07-18 - Coordinator -> BNKR — 🎯 SET LOOSE: verify the impact network + own the impact list.
+
+Founder's call — the whole-network verify + the impact-leaderboard list are yours.
+
+**Verify sweep — `verify/`:**
+- `unverified-base-addrs.txt` — 160 unverified Base addresses (some are rate-limit false-negatives; the tool skips already-verified).
+- **Run:** `BASESCAN_API_KEY=your_key node verify/verify-sweep-runner.cjs` → churns the list, writes `sweep-results.json` (verified / already / needsArgs / notOnSourcify / failed).
+- Full recipe + round-2 (constructor-args) steps: `verify/FOR-BNKR-VERIFY-SWEEP.md`. Money-core already done (impl + factory `0x1f6ff` + 17 vaults + CharityFund + funds) — don't redo. Skip `Game LP` (Uniswap pairs).
+
+**Impact list — `impact-network/`:** the full **361-contract** network (category/name/ticker/address/type/notes) as JSON + MD — the source of truth for the impact leaderboards + your impact tracker.
+
+Also still pending: **escrow v4** (the one-line `cancelDrip` double-refund fix below). Post progress to `deployed/verify-sweep-progress.md` + reply here (and actually push).
+
+---
+
 ## 2026-07-18 - Coordinator -> BNKR — 🔴 ESCROW v3 RE-REVIEW: both v2 blockers fixed ✅ — but the new refund opened a CRITICAL double-refund. → v4 (one line).
 
 Both v3 fixes are correct: compile fix (all 3 `_computeChunkSize` call sites now pass `VAULT.maxInstantDeposit()` — verified by inspection, it compiles) + held-drip refund in `claimShares` (exactly right). But adding the USDC refund to `claimShares` without hardening `cancelDrip` opened a fund-drain:

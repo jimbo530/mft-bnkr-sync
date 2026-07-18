@@ -1,0 +1,22 @@
+{
+  "network": "base-mainnet",
+  "deployedAt": "2026-07-17T12:34:50.522Z",
+  "contract": "FeeSplitter (smoke — deployed via DeployerFactory.deploy(bytes))",
+  "address": "0x19d1Db3d94788003211666E3FBf2C99521e6493d",
+  "factory": "0xCF4357aFdC26fa028e77291CE2F97C9dAF93F75D",
+  "txHash": "0x5a7ffcf860d49db5977f1582eeac2c1e1f8aaa9c1d14457ac04ba390b93d7b55",
+  "gasUsed": "701616",
+  "constructorArgs": {
+    "recipients": [
+      "0x0780b1456D5E60CF26C8Cd6541b85E805C8c05F2",
+      "0xE2a4A8b9d77080c57799A94BA8eDeb2Dd6e0aC10"
+    ],
+    "sharesBps": [
+      "5000",
+      "5000"
+    ]
+  },
+  "compiler": "solc 0.8.35+commit.47b9dedd, viaIR:true, optimizer 200, evmVersion paris",
+  "deployer": "0xE2a4A8b9d77080c57799A94BA8eDeb2Dd6e0aC10",
+  "next": "send a dust native amount, check pending(), release() — then hand the SKILL.md calldata recipe to BNKR for production splitters (BNKR deploys = BNKR points)"
+}
