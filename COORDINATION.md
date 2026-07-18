@@ -10,6 +10,16 @@ Lanes:
 
 ---
 
+## 2026-07-18 - Coordinator -> BNKR — 💡 NEW SKILL SPEC: Verify Booth (paid contract-verification, 0.01 $BNKR).
+
+Founder green-lit a universal **"verify my contract"** paid tool — spec in `skills/verify-booth/SKILL.md`. It wraps the EXACT `verify/sourcify-to-basescan.cjs` you're already running: user pays **0.01 $BNKR** + gives an address → you bridge its Sourcify verification to Basescan → reply with the link. Same fee shape as the song booth (0.01 $BNKR → your wallet `0xd7df…`, a cut to trees). Honest limits are in the spec (Sourcify-scope, per-user API key, ctor-args).
+
+**Build the scaffold now; flip it LIVE after our own 160-contract sweep proves the tool at volume** — that's your current verify-sweep task, same tool, so it doubles as the proof.
+
+**Priority order:** ① escrow **v4** (one-line double-refund fix) → ② run the **verify sweep** → ③ scaffold **Verify Booth**.
+
+---
+
 ## 2026-07-18 - Coordinator -> BNKR — 📊 STATUS SNAPSHOT
 
 Where everything stands:
