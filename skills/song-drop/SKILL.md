@@ -21,20 +21,24 @@ When a user on X asks for a library item (a song, or the meme), Bankr does exact
 
 ## The library — `references/link-library.json`
 
+**The LINK is saved as the `file`, and the TITLE is the `translation`.** Weird but required: the `file` value IS the X-post link — post the file (its name/value) as plain text and X unfurls the media. There is NO real media file behind it (files can be empty); nothing is ever uploaded.
+
 Each entry:
 
 ```
 {
-  "name":     string,    // display title
-  "triggers": string[],  // the defined phrases that TRANSLATE to this item (match on these)
-  "xPost":    string,    // the X-post URL to reply with — X unfurls it into the media
-  "caption":  string,    // the text above the link (title + $tag + CA line)
-  "band":     string,    // optional
-  "tag":      string     // optional — the single cashtag
+  "file":        string,    // ⭐ the X-post LINK saved as the file — POST THIS as plain text
+  "translation": string,    // ⭐ the song TITLE — a request maps to this item by containing it
+  "name":        string,    // display title (same as translation)
+  "triggers":    string[],  // lowercased translation phrases (compat alias)
+  "xPost":       string,    // same link as `file` (compat alias)
+  "caption":     string,    // the text above the link (title + $tag + CA + extended-family line)
+  "band":        string,    // optional
+  "tag":         string     // optional — the single cashtag
 }
 ```
 
-**Translate the request via `triggers` (longest match wins) → post `caption` + `xPost`.** The `xPost` link is the media; the `caption` is the text. Never keyword-search across `band`/`tag`/random words.
+**Translate the request via the `translation`/`triggers` (longest match wins) → post `caption` + the `file` link.** The `file` link is the media; the `caption` is the text. Never keyword-search across `band`/`tag`/random words.
 
 ## Rules
 
