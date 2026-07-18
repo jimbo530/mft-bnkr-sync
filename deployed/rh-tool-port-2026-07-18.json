@@ -26,7 +26,9 @@
       "address": "0xAeB5Df74dd669483e3E14A22b543f62726D7C9c5",
       "tx": "0x79b196c9b2b8db5841816d3562c3350066649b665a17e8a8cc9da171e9025918",
       "source": "contracts/BnkrTreeEscrowV5RH.sol (RH port of BnkrTreeEscrowV5; USDG + BurgersCommunityVault interface)",
-      "verified": "USDG/ADMIN verified; whitelisted vault 0x261F76D20983f299962b1481d7968d2F27b79BB1 (tx 0x433fe6030582151d245bbef7954a4d666b18a1d20222fadb069f649f1ff35025); fork test 26/26 vs live vault; rescueRenounced=false (renounce deferred until real drips proven)"
+      "verified": "USDG/ADMIN verified; whitelisted vault 0x261F76D20983f299962b1481d7968d2F27b79BB1 (tx 0x433fe6030582151d245bbef7954a4d666b18a1d20222fadb069f649f1ff35025); fork test 26/26 vs live vault; rescueRenounced=false (renounce deferred until real drips proven)",
+      "status": "RETIRED — founder call 2026-07-18: drip escrow redundant, not part of tool stack; inert (no deposits), do not showcase or build on it"
     }
-  }
+  },
+  "sourceVerification": "2026-07-18: all 4 Sourcify-verified (RHVaultFactory+PrizePool exact_match; RHReactorFactory+Escrow full runtime+creation match) and showing verified on robinhoodchain.blockscout.com"
 }
