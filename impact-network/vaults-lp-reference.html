@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="icon" type="image/svg+xml" href="/tasern-icon.svg">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LP Vaults — Unrugable</title>
+<!-- miniapp-embed:start -->
+<meta name="fc:miniapp" content='{"version":"1","imageUrl":"https://tasern.quest/miniapp-assets/embed-vaults.png","button":{"title":"Build Liquidity","action":{"type":"launch_miniapp","url":"https://tasern.quest/vaults-lp.html","name":"Unrugable","splashImageUrl":"https://tasern.quest/ms.png","splashBackgroundColor":"#0a0a0a"}}}'>
+<meta name="fc:frame" content='{"version":"1","imageUrl":"https://tasern.quest/miniapp-assets/embed-vaults.png","button":{"title":"Build Liquidity","action":{"type":"launch_frame","url":"https://tasern.quest/vaults-lp.html","name":"Unrugable","splashImageUrl":"https://tasern.quest/ms.png","splashBackgroundColor":"#0a0a0a"}}}'>
+<!-- miniapp-embed:end -->
+<meta name="description" content="Pick a chain, pick a token. Deposit USDC — it builds liquidity whose fees fund meals and trees. Withdraw anytime.">
+<meta property="og:type" content="website">
+<meta property="og:title" content="LP Vaults — liquidity that funds trees">
+<meta property="og:image" content="https://tasern.quest/mft-logo.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+  *,*::before,*::after{margin:0;padding:0;box-sizing:border-box}
+  :root{--bg:#0a0a0a;--bg-card:#111;--bg-card-hover:#1a1a1a;--border:#222;--text:#fff;--text-muted:#888;--text-dim:#666;--accent:#22c55e;--accent-glow:rgba(34,197,94,0.15)}
+  body{font-family:'Inter',-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg);color:var(--text);min-height:100vh;display:flex;flex-direction:column;-webkit-font-smoothing:antialiased}
+  .glow{position:fixed;top:-30%;left:50%;transform:translateX(-50%);width:900px;height:900px;background:radial-gradient(circle,var(--accent-glow) 0%,transparent 70%);pointer-events:none;z-index:0}
+  .top{padding:1.5rem 1.5rem 0;position:relative;z-index:1}
+  .back{color:var(--text-muted);text-decoration:none;font-size:.85rem;font-weight:600;cursor:pointer}
+  .back:hover{color:var(--accent)}
+  .wrap{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:2rem 1.5rem 3rem;position:relative;z-index:1}
+  .kicker{font-size:.75rem;text-transform:uppercase;letter-spacing:.14em;color:var(--accent);font-weight:700}
+  h1{font-size:clamp(2rem,5.5vw,3rem);font-weight:900;letter-spacing:-.04em;line-height:1.05;margin:.9rem 0 .7rem}
+  .tag{color:var(--text-muted);font-size:clamp(1rem,2.3vw,1.15rem);max-width:34ch;margin-bottom:2.6rem;line-height:1.5}
+  .doors{display:grid;grid-template-columns:repeat(3,1fr);gap:1.15rem;width:100%;max-width:900px}
+  .doors.n2{grid-template-columns:repeat(2,1fr);max-width:600px}
+  @media(max-width:720px){.doors,.doors.n2{grid-template-columns:1fr;max-width:420px}}
+  .door{display:flex;flex-direction:column;align-items:center;gap:.75rem;text-decoration:none;color:var(--text);background:var(--bg-card);border:1px solid var(--border);border-radius:16px;padding:2.2rem 1.5rem;transition:transform .2s,border-color .2s,background .2s,box-shadow .2s;cursor:pointer}
+  .door:hover{border-color:var(--accent);background:var(--bg-card-hover);transform:translateY(-4px);box-shadow:0 12px 36px var(--accent-glow)}
+  .door .ico{font-size:2.6rem;line-height:1}
+  .door h2{font-size:1.25rem;font-weight:800;letter-spacing:-.02em}
+  .door p{color:var(--text-muted);font-size:.9rem;line-height:1.55;max-width:26ch}
+  .door .sub{margin-top:.3rem;font-size:.82rem;font-weight:700;color:var(--accent)}
+  /* list screen */
+  .listwrap{width:100%;max-width:640px;text-align:left;display:flex;flex-direction:column;gap:.9rem}
+  .search{width:100%;background:var(--bg-card);border:1px solid var(--border);border-radius:12px;padding:.95rem 1.1rem;color:var(--text);font-family:inherit;font-size:1rem;outline:none;transition:border-color .2s}
+  .search:focus{border-color:var(--accent)}
+  .search::placeholder{color:var(--text-dim)}
+  .create{display:flex;align-items:center;justify-content:center;gap:.5rem;background:var(--accent);color:#04140a;font-size:1.05rem;font-weight:800;padding:1rem 1.5rem;border-radius:12px;text-decoration:none;transition:transform .2s;box-shadow:0 0 26px rgba(34,197,94,.28)}
+  .create:hover{transform:translateY(-2px)}
+  .vlist{display:flex;flex-direction:column;gap:10px}
+  .vault{display:flex;align-items:center;gap:14px;background:var(--bg-card);border:1px solid var(--border);border-radius:14px;padding:15px 17px;text-decoration:none;color:var(--text);transition:border-color .2s,background .2s,transform .2s}
+  .vault:hover{border-color:var(--accent);background:var(--bg-card-hover);transform:translateY(-1px)}
+  .vicon{width:46px;height:46px;border-radius:50%;overflow:hidden;flex-shrink:0;display:flex;align-items:center;justify-content:center;font-size:23px;background:#1a1a1a}
+  .vicon img{width:100%;height:100%;object-fit:cover}
+  .vinfo{flex:1;min-width:0}
+  .vname{font-size:1rem;font-weight:700;color:var(--text)}
+  .vtag{font-size:.68rem;font-weight:700}
+  .vdesc{font-size:.8rem;color:var(--text-muted);margin-top:2px;line-height:1.45}
+  .vaddr{font-size:.62rem;color:#444;margin-top:4px;font-family:monospace;word-break:break-all}
+  .varrow{color:var(--text-dim);font-size:1.2rem;flex-shrink:0}
+  .vault:hover .varrow{color:var(--accent)}
+  .empty{background:var(--bg-card);border:1px dashed var(--border);border-radius:14px;padding:1.8rem 1.3rem;text-align:center;color:var(--text-muted);font-size:.92rem;line-height:1.6}
+  .fot{text-align:center;font-size:.8rem;color:var(--text-dim)}
+  .fot a{color:var(--text-muted);text-decoration:none}
+  .fot a:hover{color:var(--accent)}
+  .hidden{display:none!important}
+  .foot{border-top:1px solid var(--border);padding:1.4rem;text-align:center;font-size:.78rem;color:var(--text-dim);position:relative;z-index:1}
+  .foot a{color:var(--text-muted);text-decoration:none;margin:0 .55rem}
+  .foot a:hover{color:var(--accent)}
+</style>
+</head>
+<body>
+<div class="glow"></div>
+<div class="top"><a class="back" id="backLink" href="/crypto.html">← Back</a></div>
+<div class="wrap">
+
+  <!-- Screen 1: pick a chain -->
+  <section id="scr-chains">
+    <div class="kicker">Crypto · LP Vaults</div>
+    <h1>Pick a chain</h1>
+    <p class="tag">Deposit USDC — it builds liquidity whose fees fund meals and trees. Withdraw anytime.</p>
+    <div class="doors">
+      <a class="door" href="#base">
+        <div class="ico">🔵</div>
+        <h2>Base</h2>
+        <p>Home turf — most vaults live here.</p>
+        <span class="sub" id="cnt-base"></span>
+      </a>
+      <a class="door" href="#robinhood">
+        <div class="ico">🏹</div>
+        <h2>Robinhood</h2>
+        <p>Chain 4663 — Feed The People lives here.</p>
+        <span class="sub" id="cnt-robinhood"></span>
+      </a>
+      <a class="door" href="#polygon">
+        <div class="ico">⬡</div>
+        <h2>Polygon</h2>
+        <p>Bridged nations territory.</p>
+        <span class="sub" id="cnt-polygon"></span>
+      </a>
+    </div>
+  </section>
+
+  <!-- Screen 2: pick a cause -->
+  <section id="scr-causes" class="hidden">
+    <div class="kicker" id="causeKicker">LP Vaults</div>
+    <h1>Pick a cause</h1>
+    <p class="tag">Your liquidity funds one of three causes. Pick yours.</p>
+    <div class="doors">
+      <a class="door" id="door-trees" href="#">
+        <div class="ico">🌳</div>
+        <h2>Trees</h2>
+        <p>Liquidity fees plant real trees.</p>
+        <span class="sub" id="cnt-trees"></span>
+      </a>
+      <a class="door" id="door-food" href="#">
+        <div class="ico">🍞</div>
+        <h2>Food</h2>
+        <p>Liquidity fees fund real meals and clean water.</p>
+        <span class="sub" id="cnt-food"></span>
+      </a>
+      <a class="door" id="door-carbon" href="#">
+        <div class="ico">🌍</div>
+        <h2>Carbon</h2>
+        <p>Yield retires biochar carbon by the tonne.</p>
+        <span class="sub" id="cnt-carbon"></span>
+      </a>
+    </div>
+  </section>
+
+  <!-- Screen 3: pick a backing token -->
+  <section id="scr-backings" class="hidden">
+    <div class="kicker" id="backKicker">LP Vaults</div>
+    <h1>Pick a backing</h1>
+    <p class="tag">The internal token doing the work behind these vaults — not what you deposit.</p>
+    <div class="doors" id="backDoors"></div>
+  </section>
+
+  <!-- Screen 4: vault list -->
+  <section id="scr-list" class="hidden">
+    <div class="kicker" id="listKicker">LP Vaults</div>
+    <h1 id="listTitle"></h1>
+    <p class="tag">Pick a token — or start your own vault.</p>
+    <div class="listwrap">
+      <input class="search" id="q" type="search" placeholder="Search tokens…" autocomplete="off">
+      <a class="create" href="/create-vault.html">＋ Create a Vault</a>
+      <div class="vlist" id="vlist"></div>
+      <div class="empty hidden" id="empty"></div>
+      <div class="fot">Token with a transfer tax? <a href="/create-vault-fot.html">Create a taxed-token vault →</a></div>
+    </div>
+  </section>
+
+</div>
+<div class="foot">
+  <a href="/terms.html">Terms</a> · <a href="/privacy.html">Privacy</a> · <a href="/risk.html">Risk</a>
+  <div style="margin-top:.5rem;color:#3a3a3a">A gift baked into every trade · liquidity, permanently locked</div>
+</div>
+
+<script>
+// Vault manifest — assembled from the live /vaults/ index. Fields:
+// c=chain, cause=trees|food|carbon (from the vault's charity pairing: Money/MfT/GST=trees, FTP=food, biochar retirement=carbon),
+// b=backing token (trees: money|eth-t|btc-t · food: ftp · carbon: char-r|ccc-r).
+// cause and b take a single value OR an array — a vault that genuinely spans two
+// lanes (e.g. b:['money','btc-t'] for a USDC-in cbBTC/Money LP) lists in BOTH.
+// n=name, t=mini-tag, tc=tag color, d=description, a=vault address, h=page link, i=logo img, e=emoji icon
+var VAULTS=[
+  // ---- BASE ----
+  {c:'base',cause:'trees',b:'money',n:'USDC Vault',t:'calm lane',tc:'#22c55e',d:'USDC/Money peg liquidity · forever-locked base',a:'0xFAc84b28A4278e495a5A433D0f353B3bD185f564',h:'/usdc-vault.html',e:'💵'},
+  {c:'base',cause:'trees',b:['money','btc-t'],n:'Bitcoin Vault',d:'Deposit USDC — cbBTC/Money LP, withdraw to USDC or BTC',a:'0x9e730EacBD43C496C4cDc4B6C88A78B33076720F',h:'/btc-vault.html',e:'₿'},
+  {c:'base',cause:'trees',b:'money',n:'Meme for Trees',d:'Core MfT liquidity',a:'0x9b5cEDc65b47Cf01cdFF59769321d99F8a252832',h:'/mft-vault.html',i:'/mft-logo.png'},
+  {c:'base',cause:'trees',b:'btc-t',n:'Meme for Trees — BTC side',t:'funds trees in BTC',tc:'#f7931a',d:'Deposit cbBTC — yield funds trees in Bitcoin, deposit builds MfT liquidity',a:'0x8A0Facd90dF1a0bfbc45C8cBb640d5D981beF409',h:'/btc-lp-vault.html',i:'/mft-logo.png'},
+  {c:'base',cause:'trees',b:'btc-t',n:'BTC Calm Lane',t:'calm lane',tc:'#f7931a',d:'cbBTC/BTC-T peg band — both sides Bitcoin, exits always cbBTC',a:'0x9323802796852Daac898193394F86000BBD0B07d',h:'/calm-btc-vault.html',e:'₿'},
+  {c:'base',cause:'trees',b:'money',n:'Toshi',d:'Toshi liquidity that funds real trees',a:'0xaD5B9972A7d6bff940C1d6642f5E680707a8e880',h:'/toshi-vault.html',i:'/toshi-logo.jpg'},
+  {c:'base',cause:'trees',b:'money',n:'The Black Tide',t:'crew',tc:'#e0334a',d:'Black Tide liquidity that funds real trees',a:'0x57ebD864E81963b18E30a1D4224f70A242E28d2F',h:'/blacktide-vault.html',i:'/blacktide-logo.jpg'},
+  {c:'base',cause:'trees',b:'money',n:'TRASH',d:'TRASH liquidity that funds real trees',a:'0x1c902B90B9973103e8836a811579b2263F5b37d6',h:'/trash-vault.html',i:'/trash-logo.jpg'},
+  {c:'base',cause:'trees',b:'money',n:'YUKI',d:'YUKI liquidity that funds real trees',a:'0xbaa9ed3E3971143CF48952361aD96b7b7bad647D',h:'/yuki-vault.html',i:'/yuki-logo.jpg'},
+  {c:'base',cause:'trees',b:'money',n:'$TIDY',d:'$TIDY liquidity that funds real trees',a:'0xE88e2011FE635CAbaebAB403ee10f8FFd572BeA8',h:'/tidy-vault.html',i:'/tidy-logo.jpg'},
+  {c:'base',cause:'trees',b:'money',n:'Elves of Ballinmoore',t:'band',tc:'#3ddc97',d:'EBM liquidity that funds real trees',a:'0xdd47bdDD35866735ac79f9F3F8d4f0513555Ed95',h:'/ebm-vault.html',i:'/ebm-logo.webp'},
+  {c:'base',cause:'trees',b:'money',n:'Rish',t:'band',tc:'#e8695f',d:'RISH liquidity that funds real trees',a:'0x131bd427935980bbE43c30c3d0aF49e33c0E98E1',h:'/rish-vault.html',i:'/rish-logo.webp'},
+  {c:'base',cause:'trees',b:'money',n:'Bongo',t:'band',tc:'#35c9b8',d:'BONGO liquidity that funds real trees',a:'0x3aF2d7CCc05FdF3bC6Be14d1F159826b0f31198f',h:'/bongo-vault.html',i:'/bongo-logo.webp'},
+  {c:'base',cause:'trees',b:'money',n:'Damned Good Time Orchestra',t:'band',tc:'#e0a832',d:'DGT liquidity that funds real trees',a:'0x43ebB722e17dBe698AA70A55Cb428b171A5da367',h:'/dgt-vault.html',i:'/dgt-logo.webp'},
+  {c:'base',cause:'trees',b:'money',n:'Midas',t:'taxed token',tc:'#e0a832',d:'Taxed-token vault — Midas liquidity funding trees',a:'0x02dD2e1d9F16793Bc130A34EA35DE8Be5Ee226d8',h:'/midas-vault.html',i:'/midas-logo.jpg'},
+  {c:'base',cause:'trees',b:'money',n:'TGN',d:'TreeGens liquidity',a:'0xdedF4B78ce1e885A7a64BcD1F359D1323B802610',h:'/tgn/',i:'/tgn/tgn-logo.png'},
+  {c:'base',cause:'trees',b:'money',n:'VIRTUAL',d:'Virtuals AI society liquidity',a:'0x9aC44164EcCDDb7c1fC4ef6b6f3dB8ef96E5F38f',h:'/virtual/',i:'/virtual/virtual-logo.png'},
+  {c:'base',cause:'trees',b:'money',n:'VU',d:'Velvet Unicorn liquidity',a:'0x4d6CC4eA92F2c241fE58C51680aC318502B9CBd9',h:'/vu/',i:'/vu/vu-logo.png'},
+  {c:'base',cause:'trees',b:'money',n:'EcoWealth',d:'EcoWealth liquidity',a:'0x3C87B164c7794176d5f744fBDaebA004fA1d8cA7',h:'/ecowealth/',i:'/ecowealth/logo.png'},
+  {c:'base',cause:'trees',b:'money',n:'GOLD',d:'GOLD liquidity — coin of the Seas',a:'0xE5b5F65bca4b2D624B0FddF5E3733290B7ceeb66',h:'/gold-vault.html',i:'/gold-logo.png'},
+  {c:'base',cause:'trees',b:'money',n:'REGEN',d:'REGEN Network liquidity',a:'0x3EAba867436264da998685f35839B8952b6cEB75',h:'/regen-vault.html',i:'/regen-logo.png'},
+  {c:'base',cause:'food',b:'ftp',n:'BURGERS',d:'BURGERS liquidity — helps fund food and clean water',a:'0xF10566bc48Da3a8A9c6367aA36904A2e162A2914',h:'/burgers-vault.html',e:'🍔'},
+  {c:'base',cause:'trees',b:'money',n:'AZUSD',d:'Tree funding peg vault',h:'/azusd-vault/',e:'🌳'},
+  {c:'base',cause:'carbon',b:'char-r',n:'CHAR-R',t:'retires tonnes',tc:'#f0823c',d:'Deposit USDC — yield retires biochar by the TONNE',a:'0xD4110DA32E769cebc0Fe43B98BF8081cbae5AF2e',h:'/char-r-vault.html',e:'🔥'},
+  {c:'base',cause:'carbon',b:'ccc-r',n:'CCC-R',t:'retires pounds',tc:'#4fc47f',d:'Deposit USDC — yield retires biochar by the POUND',a:'0xdD7E7596BD1F89D0d7f529A03EA5307342824b6A',h:'/ccc-r-vault.html',e:'🌍'},
+  {c:'base',cause:'food',b:'ftp',n:'Poly Raiders',t:'calm lane',tc:'#1fa8c4',d:'PRGT/USDC peg liquidity — helps fund food and clean water',a:'0x130fDBa1F16bC8b2d88FCc3A34583807eeA6656B',h:'/prgt-vault.html',e:'💧'},
+  // ---- ROBINHOOD (chain 4663) ----
+  {c:'robinhood',cause:'food',b:'ftp',n:'Feed The People',t:'peg liquidity',tc:'#f0823c',d:'FTP peg liquidity — funds real meals',h:'/ftp-peg-vault.html',e:'🍽️'},
+  {c:'robinhood',cause:'food',b:'ftp',n:'BURGERS',d:'BURGERS liquidity — community vault on Robinhood Chain',h:'/ftp-burgers-vault.html',e:'🍔'}
+  // ---- POLYGON: none yet ----
+];
+
+var CHAINS={base:{name:'Base',e:'🔵'},robinhood:{name:'Robinhood',e:'🏹'},polygon:{name:'Polygon',e:'⬡'}};
+var CAUSES={
+  trees:{name:'Trees',e:'🌳',adj:'tree',empty:'every vault funds trees.',backs:['money','eth-t','btc-t']},
+  food:{name:'Food',e:'🍞',adj:'food',empty:'every vault funds real meals.',backs:['ftp']},
+  carbon:{name:'Carbon',e:'🌍',adj:'carbon',empty:'every vault retires real carbon.',backs:['char-r','ccc-r']}
+};
+var BACKINGS={
+  'money':{name:'Money',e:'💵',d:'Deposit USDC — Money is just the internal 1:1 receipt. Most vaults grow here.'},
+  'eth-t':{name:'ETH-T',e:'⟠',d:'The ETH tree fund — trees funded in ether.'},
+  'btc-t':{name:'BTC-T',e:'₿',d:'The Bitcoin tree fund — trees funded in BTC.'},
+  'ftp':{name:'FTP',e:'🍽️',d:'Feed The People — the food fund working behind these vaults.'},
+  'char-r':{name:'CHAR-R',e:'🔥',d:'Retires biochar by the tonne.'},
+  'ccc-r':{name:'CCC-R',e:'🌍',d:'Retires biochar by the pound.'}
+};
+var TYPE_LABEL='LP vaults';
+
+var scrChains=document.getElementById('scr-chains');
+var scrCauses=document.getElementById('scr-causes');
+var scrBackings=document.getElementById('scr-backings');
+var scrList=document.getElementById('scr-list');
+var backLink=document.getElementById('backLink');
+var vlist=document.getElementById('vlist');
+var emptyBox=document.getElementById('empty');
+var q=document.getElementById('q');
+
+function esc(s){return String(s).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});}
+
+// cause/b accept a string or an array — cross-listed vaults show in every lane they carry
+function hasCause(v,k){return Array.isArray(v.cause)?v.cause.indexOf(k)!==-1:v.cause===k;}
+function hasB(v,bk){return Array.isArray(v.b)?v.b.indexOf(bk)!==-1:v.b===bk;}
+
+function row(v){
+  var icon=v.i?'<img src="'+v.i+'" alt="">':(v.e||'🌳');
+  var tag=v.t?' <span class="vtag" style="color:'+(v.tc||'#22c55e')+'">· '+esc(v.t)+'</span>':'';
+  var addr=v.a?'<div class="vaddr">'+esc(v.a)+'</div>':'';
+  var s=(v.n+' '+v.d+' '+(v.a||'')).toLowerCase();
+  return '<a class="vault" href="'+v.h+'" data-s="'+esc(s)+'">'
+    +'<div class="vicon">'+icon+'</div>'
+    +'<div class="vinfo"><div class="vname">'+esc(v.n)+tag+'</div><div class="vdesc">'+esc(v.d)+'</div>'+addr+'</div>'
+    +'<div class="varrow">›</div></a>';
+}
+
+function counts(){
+  Object.keys(CHAINS).forEach(function(c){
+    var n=VAULTS.filter(function(v){return v.c===c;}).length;
+    var el=document.getElementById('cnt-'+c);
+    el.textContent=n>0?(n+(n===1?' vault →':' vaults →')):'none yet — be first →';
+  });
+}
+
+function hideAll(){
+  scrChains.classList.add('hidden');
+  scrCauses.classList.add('hidden');
+  scrBackings.classList.add('hidden');
+  scrList.classList.add('hidden');
+}
+
+function showChains(){
+  hideAll();
+  scrChains.classList.remove('hidden');
+  backLink.href='/crypto.html';
+}
+
+function showCauses(c){
+  hideAll();
+  scrCauses.classList.remove('hidden');
+  backLink.href='#chains';
+  document.getElementById('causeKicker').textContent='LP Vaults · '+CHAINS[c].name;
+  Object.keys(CAUSES).forEach(function(k){
+    document.getElementById('door-'+k).href='#'+c+'/'+k;
+    var n=VAULTS.filter(function(v){return v.c===c&&hasCause(v,k);}).length;
+    document.getElementById('cnt-'+k).textContent=n>0?(n+(n===1?' vault →':' vaults →')):'none yet — be first →';
+  });
+}
+
+function showBackings(c,k){
+  hideAll();
+  scrBackings.classList.remove('hidden');
+  backLink.href='#'+c;
+  document.getElementById('backKicker').textContent='LP Vaults · '+CHAINS[c].name+' · '+CAUSES[k].name;
+  var doors=document.getElementById('backDoors');
+  doors.className='doors'+(CAUSES[k].backs.length===2?' n2':'');
+  doors.innerHTML=CAUSES[k].backs.map(function(bk){
+    var n=VAULTS.filter(function(v){return v.c===c&&hasCause(v,k)&&hasB(v,bk);}).length;
+    var cnt=n>0?(n+(n===1?' vault →':' vaults →')):'none yet — be first →';
+    return '<a class="door" href="#'+c+'/'+k+'/'+bk+'">'
+      +'<div class="ico">'+BACKINGS[bk].e+'</div>'
+      +'<h2>'+esc(BACKINGS[bk].name)+'</h2>'
+      +'<p>'+esc(BACKINGS[bk].d)+'</p>'
+      +'<span class="sub">'+cnt+'</span></a>';
+  }).join('');
+}
+
+function showList(c,k,b){
+  hideAll();
+  scrList.classList.remove('hidden');
+  // single-backing causes skip the backing screen, so back goes to the cause screen
+  backLink.href=CAUSES[k].backs.length===1?('#'+c):('#'+c+'/'+k);
+  document.getElementById('listKicker').textContent='LP Vaults · '+CHAINS[c].name+' · '+CAUSES[k].name+' · '+BACKINGS[b].name;
+  document.getElementById('listTitle').textContent=BACKINGS[b].e+' '+BACKINGS[b].name+' '+CAUSES[k].adj+' vaults';
+  var items=VAULTS.filter(function(v){return v.c===c&&hasCause(v,k)&&hasB(v,b);});
+  vlist.innerHTML=items.map(row).join('');
+  q.value='';
+  if(items.length===0){
+    emptyBox.textContent='No '+BACKINGS[b].name+' '+TYPE_LABEL+' on '+CHAINS[c].name+' yet. Yours could be the first — '+CAUSES[k].empty;
+    emptyBox.classList.remove('hidden');
+  }else{
+    emptyBox.classList.add('hidden');
+  }
+}
+
+function route(){
+  var p=(location.hash||'').replace(/^#/,'').split('/');
+  var c=p[0],k=p[1],b=p[2];
+  if(CHAINS[c]&&CAUSES[k]&&b&&CAUSES[k].backs.indexOf(b)!==-1){showList(c,k,b);}
+  else if(CHAINS[c]&&CAUSES[k]){
+    if(CAUSES[k].backs.length===1){showList(c,k,CAUSES[k].backs[0]);}
+    else{showBackings(c,k);}
+  }
+  else if(CHAINS[c]){showCauses(c);}
+  else{showChains();}
+}
+
+q.addEventListener('input',function(){
+  var t=q.value.trim().toLowerCase();
+  var any=false;
+  vlist.querySelectorAll('.vault').forEach(function(r){
+    var hit=!t||r.getAttribute('data-s').indexOf(t)!==-1;
+    r.classList.toggle('hidden',!hit);
+    if(hit)any=true;
+  });
+  var p=(location.hash||'').replace(/^#/,'').split('/');
+  if(!any&&CHAINS[p[0]]&&vlist.children.length>0){
+    emptyBox.textContent='No match for "'+q.value.trim()+'" on '+CHAINS[p[0]].name+'. Want it here? Create the vault.';
+    emptyBox.classList.remove('hidden');
+  }else if(vlist.children.length>0){
+    emptyBox.classList.add('hidden');
+  }
+});
+
+window.addEventListener('hashchange',route);
+counts();
+route();
+</script>
+<script src="/track.js" defer></script>
+<!-- miniapp-sdk:start -->
+<script type="module">
+// Farcaster / Base Mini App handshake — dismisses the host splash once the page is up.
+// In a normal browser tab this logs one console line and does nothing else.
+try {
+  const { sdk } = await import('https://esm.sh/@farcaster/miniapp-sdk');
+  const inMiniApp = typeof sdk.isInMiniApp === 'function' ? await sdk.isInMiniApp() : true;
+  if (inMiniApp) await sdk.actions.ready();
+} catch (err) {
+  console.info('[miniapp] handshake skipped:', err && err.message ? err.message : String(err));
+}
+</script>
+<!-- miniapp-sdk:end -->
+</body>
+</html>

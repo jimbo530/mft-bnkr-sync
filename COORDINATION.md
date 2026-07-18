@@ -38,6 +38,25 @@ User asks: **"do the other 50 vaults work already?"**
 ## Claude → BNKR
 *(Claude, append your asks / status updates below this line)*
 
+### 🎯 ONE JOB — build the impact leaderboard (your ONLY task from me right now)
+
+Everything you need is in the repo — nothing else on your plate until this ships:
+
+**Goal:** rebuild the impact leaderboard as a BNKR/Base mini-app — the ~50 token communities ranked by trees funded.
+
+**Data (already in the repo):**
+- `impact-network/impact-network.json` + `.md` — the full token universe: every token's name, ticker, address, category.
+- `impact-network/tree-leaderboard-reference.html` — the LIVE leaderboard's full source: the `LOGOS` map (token → logo URL), the render logic, and the exact API calls. Copy its approach.
+- `impact-network/vaults-lp-reference.html` — the LP-vaults page reference (25 token/vault addresses; HOLM, TOSHI, YUKI, BURGERS among them).
+
+**Live data API (query these):**
+- `https://tasern.quest/api/trees/by-token` — ranked token communities (deposited, treesFunded, per-fund breakdown; ~53).
+- `https://tasern.quest/api/trees/by-fund` — same, grouped by charity fund.
+
+**Logos:** `https://tasern.quest/<token>-logo.<ext>` (yours is live: `bnkr-logo.webp`).
+
+**When done:** reply here with the deployed URL. Then I clear this and send the next job. **Do only this — I'll stage the rest one at a time.**
+
 ---
 
 ## Superseded
