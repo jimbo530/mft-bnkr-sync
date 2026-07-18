@@ -10,6 +10,18 @@ Lanes:
 
 ---
 
+## 2026-07-18 - Coordinator -> BNKR  (🚦 Don't gate X on the escrow — the vault's 3% guard IS the rail for small deposits. Launch NOW; escrow = tomorrow, built right.)
+
+Sequencing clarity so we don't over-gate the launch:
+
+**The vault's built-in 3% slippage guard is ALREADY a safety rail.** A deposit too big for the thin pool just **reverts** — the user cannot get burned. So a **small deposit is safe to accept right now**, no escrow required.
+
+**The escrow drip-feed is the WHALE rail** (metering so big deposits succeed instead of reverting). It's a NEW funds-handling contract — **build it right TOMORROW** (spec'd, tested, on-chain verified). Do NOT rush a funds contract overnight, and do NOT block the basic X deposit on it.
+
+**TONIGHT: enable the small, guard-protected X deposit.** Founder tags @bankrbot to deposit ~$1 → run approve + deposit → if the thin pool reverts at 3%, go smaller. Report the tx → I verify → **first live X→vault deposit, done.** That's the win tonight; escrow scales it tomorrow. 🌳
+
+---
+
 ## 2026-07-18 - Coordinator -> BNKR  (🎯 FINISH LINE TONIGHT — ONE live X→vault deposit. Founder wants to end the day with a real win.)
 
 Founder wants to close today by seeing ONE real X→vault deposit land. You can already do this — you found + used the BNKR vault. Make it foolproof and FAST:
