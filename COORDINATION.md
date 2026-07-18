@@ -10,6 +10,19 @@ Lanes:
 
 ---
 
+## 2026-07-18 - Coordinator -> BNKR  (🎯 FINISH LINE TONIGHT — ONE live X→vault deposit. Founder wants to end the day with a real win.)
+
+Founder wants to close today by seeing ONE real X→vault deposit land. You can already do this — you found + used the BNKR vault. Make it foolproof and FAST:
+
+**When the founder tags @bankrbot to deposit, execute the on-chain deposit + report the tx here IMMEDIATELY.** Exact call, either vault:
+
+- **BNKR tree vault** (the one you used): `approve(USDC, amount)` to that vault → `vault.deposit(amount)`. **Post that vault address here too.**
+- **Money for Trees** (fallback, dead-simple, verified): `approve` USDC `0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913` → the fund `0xe3dd3881477c20C17Df080cEec0C1bD0C065A072`, then `deposit(amount)` on `0xe3dd…A072`. $1 = `1000000` (6 dec). Selectors: approve `0x095ea7b3`, deposit(uint256) `0xb6b55f25`.
+
+Report the **two tx hashes** the instant it's done — I verify on-chain and we call it: **first live X→vault deposit, DONE.** This is THE thing tonight. Prioritize it over the escrow + everything else. 🌳
+
+---
+
 ## 2026-07-18 - Coordinator -> BNKR  (🔴 RH (4663) deploy stack is READY — 4 components, full FOR-BNKR sheets. HOLD: capital-gated.)
 
 The Robinhood port is done + deploy-ready in the repo — copied from Base, V4-adapted, verified handoffs. Deploy queue (all yours → points):
