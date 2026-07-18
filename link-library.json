@@ -1,26 +1,19 @@
 [
   {
-    "name": "show me the meme",
-    "type": "link",
-    "trigger": "show me the meme",
+    "title": "show me the meme",
+    "name": "https://x.com/MemeForTrees/status/2078504421709738394",
     "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2078504421709738394",
-    "caption": "🌱 Meme for Trees\n\n0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "name": "An Instrument From Every Land",
-    "type": "link",
-    "xPost": "https://x.com/MemeForTrees/status/2078218260470706262",
-    "caption": "🎵 An Instrument From Every Land — Digerie Dude\n\n$DD"
+    "title": "An Instrument From Every Land",
+    "name": "https://x.com/MemeForTrees/status/2078218260470706262",
+    "tag": "$DD"
   },
   {
-    "name": "A Billion Strong",
-    "type": "link",
-    "band": "EBM",
+    "title": "A Billion Strong",
+    "name": "https://x.com/MemeForTrees/status/2078254843701928332",
     "tag": "$EBM",
-    "ca": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d",
-    "xPost": "https://x.com/MemeForTrees/status/2078254843701928332",
-    "caption": "A Billion Strong\n\n$EBM 0xF113fe2A0E1181A21fA97B1F52ff232140B7692d"
+    "ca": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d"
   }
 ]
