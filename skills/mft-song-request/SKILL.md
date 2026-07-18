@@ -1,6 +1,6 @@
 ---
 name: mft-song-request
-description: Serve a Meme for Trees song as an X reply. Use when a user on X asks to hear a song from one of the MfT bands — e.g. "play something from EBM", "post a Rish song", "give me a Bongo track", "got any DGT?". Look up the band in songs-catalog.json (in references/), pick a song (random or best match to any title hint the user gave), download the mp4, upload it as native media via the X API, and reply to the requester's tweet with the video attached and the correct caption. For band-token songs the caption MUST include the band's $TAG and CA on the same line. Never tag @bankrbot in the post. One cashtag per post only.
+description: Serve a Meme for Trees song as an X reply. Use when a user on X asks to hear a song from one of the MfT bands — e.g. "play something from EBM", "post a Rish song", "give me a Bongo track", "got any DGT?". Look up the band in songs-catalog.json (in references/), pick a song (random or best match to any title hint the user gave), and reply to the requester's tweet with the song's X-post link (its `xPost` field) posted as plain text — X auto-unfurls it into the native video. NO media upload and NO API credentials are needed. Include the correct caption line. For band-token songs the caption MUST include the band's $TAG and CA on the same line. Never tag @bankrbot in the post. One cashtag per post only.
 ---
 
 # Meme for Trees — Song Request
@@ -143,33 +143,21 @@ The `tag` field in the catalog entry is the single cashtag to use. CB tracks use
 
 ---
 
-## Video delivery (CRITICAL — native media, not URL embed)
+## Delivery — post the X-POST LINK as plain text (NO media upload, NO credentials)
 
-X does NOT inline-play arbitrary mp4 URLs. A bare `videoUrl` pasted into the tweet body
-will render as a plain text link, not a video player. The video only plays inline if it
-is uploaded as native media and the resulting media id is attached to the tweet.
+**This is the whole mechanism, and it removes the credential requirement entirely.**
 
-Delivery flow (via `execute_cli` with `twitter-api-v2@1.17.2`, env vars required):
+Every catalog entry has an **`xPost`** field: the URL of an X post (on @MemeForTrees) that ALREADY has the song's video. You do NOT upload anything and you do NOT need any API keys — you just **post that link as plain text**, and X auto-unfurls it into the native video player (a quoted post with the video inline).
 
-1. Download the mp4 from the catalog entry's `videoUrl` to a local temp file.
-2. Upload it as native media using the X API v1 media endpoint:
-   - `client.v1.uploadMedia(fileBuffer, { mimeType: 'video/mp4', longVideo: true })`
-   - Returns a `mediaIdString`.
-   - `longVideo: true` is required for videos > ~15s / larger chunks.
-3. Post the reply with the media attached:
-   - `client.v2.reply(captionText, originalTweetId, { media: { media_ids: [mediaIdString] } })`
-4. The caption text follows the Caption rules above (title + band name + cashtag line).
-   Do NOT include the `videoUrl` in the tweet body — the video is attached as media.
+Delivery flow:
+1. From the matched catalog entry, take its **`xPost`** link.
+2. Build the reply text = the Caption (title + band + cashtag line, per Caption rules) + a blank line + the `xPost` URL on its own line.
+3. Post it as a normal **text** reply to the requester — the same kind of text reply you post to confirm any on-chain action. No media attachment.
+4. X unfurls the `xPost` link into the video. Done.
 
-Required env vars (set under Tools → Environment Variables):
-- `X_API_KEY`, `X_API_KEY_SECRET`, `X_ACCESS_TOKEN`, `X_ACCESS_TOKEN_SECRET`
-  (from the X Developer Portal, Read and Write permissions)
+**No X API credentials are needed — this is a plain-text post from your own account, exactly like a deposit confirmation.** If a catalog entry has no `xPost` yet, that song simply hasn't been posted to X yet — skip it (or post it to X first to mint its link).
 
-If X API credentials are not configured, the delivery CANNOT attach a video — report
-that the credentials are missing rather than falling back to a URL-in-body post.
-
-Do NOT include the on-disk file path in the public post. Do NOT include `videoUrl`
-in the public post. The video is attached as native media only.
+Do NOT upload media. Do NOT ask the user for API credentials. Just post the caption + the `xPost` link as text.
 
 ---
 

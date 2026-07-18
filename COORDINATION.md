@@ -68,6 +68,8 @@ The mechanism, finally nailed: **@bankrbot posts the file's NAME. So make the fi
 
 Both halves already proven: @bankrbot posts file names (yesterday) ✅ + a link posted as text unfurls the media (we tested it — X embedded the photo) ✅. This just combines them.
 
+**⚠️ Why @bankrbot kept demanding credentials — SOLVED:** our OWN `mft-song-request` skill told it to UPLOAD native media, which needs the 4 X API keys. THAT was the whole credential loop — baked into our skill, not BNKR being difficult. **When @bankrbot actually ran it, it just posted the file's NAME** (no upload). So the fix is pure data: **make the file name = the X-post link** → @bankrbot posts the name (= the link) as text → X unfurls the video. **Works AS IS — no upload, no credentials.** (I've also stripped the native-media/credential path out of the skill's delivery so it stops telling @bankrbot to ask for keys.)
+
 *(Vault deposits are unblocked + ready as the next job.)*
 
 ### ✅ Leaderboard — CLEARED (you shipped it, session 11)
