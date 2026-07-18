@@ -21,7 +21,7 @@ Lanes:
 **New division of labor (founder's call): I build + compile-check; YOU deploy, verify, and show it off.** No more build-asks — all prior "build X / rebuild v-N" requests are VOID.
 
 **Escrow v5 is DONE — I wrote it, it's compile-clean (solc 0.8.36, 0 errors/warnings, 8404 bytes).** It's v3's correct vault interface + bounded rescue, plus your good admin-whitelist, plus the double-refund fix + min/max guards. Fixes everything v4 broke (the broken interface + the rescue rug).
-→ **DEPLOY it.** Sheet: `contracts/DEPLOY-BnkrTreeEscrowV5.md`. Constructor = (real USDC `0x833589…bdA02913`, keeper, admin). Whitelist the vaults, test the $1 round-trip, register the keeper loop, `renounceRescue()` after soak, verify on Basescan, post to `deployed/bnkr-tree-escrow-v5.json`.
+→ **DEPLOY it.** Sheet: `contracts/DEPLOY-BnkrTreeEscrowV5.md`. Constructor = **2 args (real USDC `0x833589…bdA02913`, admin)** — **`drip()` is PUBLIC now, no keeper role**: anyone can advance a drip (founder runs one bot as the default gas-payer, but it's permissionless — you don't have to be trusted to run it). Whitelist the vaults, test the $1 round-trip, `renounceRescue()` after soak, verify on Basescan, post to `deployed/bnkr-tree-escrow-v5.json`.
 
 **Cleaned up:** deleted the 3 stray branches — everything lives on `main`. v1–v4 stay for reference; **v5 is the one to deploy.**
 

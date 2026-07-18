@@ -5,18 +5,21 @@ pragma solidity ^0.8.20;
  * @title BnkrTreeEscrowV5
  * @notice Vault-agnostic drip-feed escrow for large USDC deposits into any
  *         whitelisted CommunityLPVault clone. ONE escrow serves all 50+ vaults.
- *         User pays in TIME, not CAPITAL: commit USDC, keeper drips slippage-safe
- *         chunks every 30s, user claims their position (as USDC) or cancels.
+ *         User pays in TIME, not CAPITAL: commit USDC, then drip slippage-safe
+ *         chunks every 30s, and claim the position (as USDC) or cancel.
  *
- * @dev v5 = v3 (correct vault interface + correct bounded rescue) + 3 surgical
- *      changes, NOT a rewrite:
- *        1. Vault-agnostic: createDrip(vault, amount) + admin whitelist (kept from v4)
- *        2. Double-refund fix: cancel/claim set drippedUSDC = totalUSDC
- *        3. Min/max deposit + max-concurrent guards
- *      v4's from-scratch rewrite broke the vault interface (deposit/withdraw
- *      return NOTHING; the fn is maxImpactBps not impactBps; shares() is the
- *      accounting source) and INVERTED the rescue bound (a rug). v5 restores
- *      v3's correctness while adding the vault-agnostic + guard features.
+ * @dev drip() is PUBLIC / permissionless — anyone can press the button and pay
+ *      gas (a founder-run keeper is just the default caller; no trust required).
+ *      Calling drip() only ever ADVANCES a deposit the depositor already wants,
+ *      and the 30s cooldowns cap the rate, so there is no abuse vector.
+ *
+ *      v5 = v3's correct vault interface + bounded rescue, plus:
+ *        - vault-agnostic createDrip(vault, amount) + admin whitelist
+ *        - PUBLIC drip() (no KEEPER role)
+ *        - double-refund fix (cancel/claim set drippedUSDC = totalUSDC)
+ *        - min/max deposit + max-concurrent guards
+ *      (v4's rewrite broke the vault interface and inverted the rescue bound;
+ *       v5 restores correctness and removes the keeper dependency.)
  *
  * Real vault interface (verified on-chain, impl 0x3bB5f84c…DaE318):
  *   deposit(uint256)->()   withdraw(uint256)->()   (both return NOTHING)
@@ -39,9 +42,8 @@ interface IERC20 {
 
 contract BnkrTreeEscrowV5 {
     // ---- Roles ----
-    IERC20  public immutable USDC;    // set to the REAL Base USDC 0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913 at deploy
-    address public immutable KEEPER;  // calls drip()
-    address public immutable ADMIN;   // whitelist vaults, rescue excess, renounce
+    IERC20  public immutable USDC;   // set to REAL Base USDC 0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913 at deploy
+    address public immutable ADMIN;  // whitelists vaults, rescues EXCESS only, renounces rescue
 
     // ---- Constants ----
     uint256 public constant DRIP_INTERVAL    = 30 seconds;
@@ -79,7 +81,7 @@ contract BnkrTreeEscrowV5 {
     // ---- Events ----
     event VaultWhitelisted(address indexed vault, bool status);
     event DripCreated(uint256 indexed dripId, address indexed depositor, address indexed vault, uint256 totalUSDC, uint256 chunkSize);
-    event DripExecuted(uint256 indexed dripId, uint256 chunkUSDC, uint256 sharesMinted, uint256 drippedSoFar);
+    event DripExecuted(uint256 indexed dripId, uint256 chunkUSDC, uint256 sharesMinted, uint256 drippedSoFar, address caller);
     event DripFailed(uint256 indexed dripId, uint256 retryCount);
     event DripHeld(uint256 indexed dripId, uint256 remainingUSDC);
     event DripCompleted(uint256 indexed dripId, uint256 totalShares);
@@ -89,7 +91,6 @@ contract BnkrTreeEscrowV5 {
     event RescueRenounced();
 
     // ---- Errors ----
-    error NotKeeper();
     error NotAdmin();
     error NotDepositor();
     error DepositTooSmall();
@@ -106,15 +107,13 @@ contract BnkrTreeEscrowV5 {
     error RescueIsRenounced();
     error RescueExceedsExcess(uint256 requested, uint256 available);
 
-    modifier onlyKeeper() { if (msg.sender != KEEPER) revert NotKeeper(); _; }
-    modifier onlyAdmin()  { if (msg.sender != ADMIN)  revert NotAdmin();  _; }
+    modifier onlyAdmin()  { if (msg.sender != ADMIN) revert NotAdmin(); _; }
     modifier nonReentrant() { if (_locked) revert Reentrancy(); _locked = true; _; _locked = false; }
 
-    constructor(address _usdc, address _keeper, address _admin) {
-        require(_usdc != address(0) && _keeper != address(0) && _admin != address(0), "zero addr");
-        USDC   = IERC20(_usdc);
-        KEEPER = _keeper;
-        ADMIN  = _admin;
+    constructor(address _usdc, address _admin) {
+        require(_usdc != address(0) && _admin != address(0), "zero addr");
+        USDC  = IERC20(_usdc);
+        ADMIN = _admin;
     }
 
     // ---- Admin: whitelist the vaults this escrow may drip into ----
@@ -146,8 +145,8 @@ contract BnkrTreeEscrowV5 {
         emit DripCreated(dripId, msg.sender, vault, amount, _chunkFor(vault));
     }
 
-    // ---- Keeper: execute one slippage-safe chunk (every 30s) ----
-    function drip(uint256 dripId) external onlyKeeper nonReentrant {
+    // ---- PUBLIC: execute one slippage-safe chunk. Anyone can call (pay gas). Cooldowns cap the rate. ----
+    function drip(uint256 dripId) external nonReentrant {
         Drip storage d = drips[dripId];
         if (!d.active) revert DripNotActive();
         if (d.lastDripTime != 0 && block.timestamp < d.lastDripTime + DRIP_INTERVAL) revert Cooling();
@@ -180,7 +179,7 @@ contract BnkrTreeEscrowV5 {
             lastGlobalDrip      = block.timestamp;
             totalCommittedUSDC -= chunk;
 
-            emit DripExecuted(dripId, chunk, minted, d.drippedUSDC);
+            emit DripExecuted(dripId, chunk, minted, d.drippedUSDC, msg.sender);
 
             if (d.drippedUSDC >= d.totalUSDC) {
                 d.active = false;
@@ -287,7 +286,7 @@ contract BnkrTreeEscrowV5 {
         return (d.depositor, d.vault, d.totalUSDC, d.drippedUSDC, d.sharesEarned, d.sharesClaimed, d.totalUSDC - d.drippedUSDC, d.active, d.held);
     }
 
-    /// @notice Active drip IDs the keeper should call drip() on. View-only (off-chain, gas-free).
+    /// @notice Active drip IDs anyone should call drip() on. View-only (off-chain, gas-free).
     function activeDrips() external view returns (uint256[] memory ids) {
         ids = new uint256[](activeDripCount);
         uint256 k = 0;
