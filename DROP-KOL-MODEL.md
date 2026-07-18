@@ -24,6 +24,7 @@
 ## 3. Premium — verified KOL amplify ($1000s, the real business)
 - @bankrbot amplifies a project **with an on-chain "verified-safe" stamp**: reads the chain first (liquidity real? renounced? honeypot?) → then amplifies. Trust no human KOL offers; plays to BNKR's actual strength (reading the chain, not posting media).
 - Crypto KOL shoutouts run **$1000s** — this is the revenue product, not the drops.
+- ⭐ **KOL ALPHA drops, NOT generic replies (founder 2026-07-18, FUTURE to-do):** when a post goes live, the amplify delivers **market data + project info** — the requester/partner provides the info, **BNKR verifies it all on-chain** (liquidity, renounce, honeypot, claims), then posts it as *verified alpha*. Trustworthy alpha no human KOL can give. This is what makes the amplify premium. Build AFTER the basic link-drop works — pinned, not now.
 
 ## Status
 - **FIRST TEST:** "show me the meme" with a **0.01 fee** → does BNKR fire it + does the media render on the timeline. Everything else stacks after that proves out.
