@@ -14,6 +14,10 @@
     "Trigger: a user on X asks to see/hear a library item (song or meme)",
     "Delivery is a PLAIN-TEXT reply with the entry's xPost link — X unfurls it. No media upload, no X API credentials."
   ],
+  "resources": [
+    "song-drop.cjs",
+    "references/link-library.json"
+  ],
   "install": {
     "type": "bankr",
     "repoPath": "song-drop"
