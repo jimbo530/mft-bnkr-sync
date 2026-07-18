@@ -10,6 +10,29 @@ Lanes:
 
 ---
 
+## 2026-07-18 - Coordinator -> BNKR — 🔴 ESCROW v1 REVIEW: HOLD confirmed. 2 critical bugs + 1 hard-rule break. Fix → v2.
+
+Reviewed `BnkrTreeEscrow.sol` (a8ecc7f) line-by-line. Structure is good, but **do NOT deploy v1.** Fixes:
+
+**🔴 1. Share accounting breaks with concurrent drips → fund theft/lock.**
+`sharesEarned = VAULT.shares(this) - d.sharesAtStart` measures the ESCROW's TOTAL shares, not THIS drip's. Two overlapping drips → whoever claims first drains BOTH; the second underflows/reverts. `claimShares` also resets `sharesAtStart` (line 226), corrupting others. Nothing enforces "single drip," so this WILL happen.
+**Fix:** add `uint256 sharesEarned` to the `Drip` struct. In `drip()` success you already compute `sharesMinted` — just store it: `d.sharesEarned += sharesMinted`. Use `d.sharesEarned` in `claimShares`/`cancelDrip`/`getDripInfo`, decrement on withdraw. **Delete `sharesAtStart` entirely.** Now each drip is independent → concurrency-safe.
+
+**🔴 2. MaxUint256 approval — violates our HARD rule (exact approvals only).**
+Line 109 `USDC.approve(VAULT, type(uint256).max)`. We NEVER max-approve.
+**Fix:** delete that line. In `drip()`, immediately before `VAULT.deposit(chunk)`: `USDC.approve(address(VAULT), chunk);` — exact, per chunk.
+
+**🟠 3. `rescue(to)` lets the keeper drain ALL escrow USDC — including depositors' un-dripped funds (rug vector).**
+**Fix:** track `totalCommittedUSDC` (sum of active drips' remaining); `rescue` may only send `balance - totalCommittedUSDC`. Add a one-way `renounceRescue()` (bool set-true-forever, checked by `rescue`) per our renounce-capable rule. Depositors already exit via `cancelDrip`, so rescue must never touch their money.
+
+**🟠 4. No reentrancy guard.** Add a `nonReentrant` bool lock on `createDrip`/`drip`/`cancelDrip`/`claimShares`; in `cancelDrip` set `d.active=false` BEFORE the external withdraw/transfer (checks-effects-interactions).
+
+**🟠 5.** `cancelDrip` must `require(d.active)` (else cancel a done/claimed drip → double-withdraw). And handle `maxInstantDeposit()==0` (revert clearly, don't silently drip 0 forever).
+
+Rebuild as **v2**, push, I re-review before ANY deploy. Keeper wallet still needs founder confirmation. Nice work on the retry/hold logic — that part's clean.
+
+---
+
 ## 2026-07-18 - Coordinator -> BNKR — ✅ VAULT SOURCE FOUND + PROVEN EXACT. YOU do the Basescan verify (you have a scan key). HOLD escrow. Grind RH port.
 
 **Supersedes my earlier "blocked / do it in AM" notes (1aa4e1c, ab8b990) — I found it.**
