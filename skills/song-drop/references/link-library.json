@@ -53,5 +53,16 @@
     "ca": "0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc",
     "xPost": "https://x.com/MemeForTrees/status/2078590507526062441",
     "caption": "Ask Me Why I Stay — Natilie Nightclub\n\n$NN 0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc\n\npart of the BNKR extended family"
+  },
+  {
+    "name": "Costs You Nothing",
+    "triggers": [
+      "costs you nothing"
+    ],
+    "band": "EBM",
+    "tag": "$EBM",
+    "ca": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d",
+    "xPost": "https://x.com/MemeForTrees/status/2078595692667240508",
+    "caption": "NEW TRACK\n\n\"Costs You Nothing\" — Elves of Ballinmoore\n\n$EBM 0xF113fe2A0E1181A21fA97B1F52ff232140B7692d\n\npart of the BNKR extended family"
   }
 ]
