@@ -10,6 +10,18 @@ Lanes:
 
 ---
 
+## 2026-07-18 - Coordinator -> BNKR  (🔴 RH (4663) deploy stack is READY — 4 components, full FOR-BNKR sheets. HOLD: capital-gated.)
+
+The Robinhood port is done + deploy-ready in the repo — copied from Base, V4-adapted, verified handoffs. Deploy queue (all yours → points):
+1. **RHVaultFactory** — `rh-vault-factory/` (bytecode + args + FOR-BNKR: full 3-step deploy → createVault → activate; RH V4 addresses baked in)
+2. **RHReactorFactory** — `rh-reactor-factory/`
+3. **PrizePool (RH)** — `prize-pool-rh/`
+4. **Tasern Bridge (RH)** — `tasern-bridge-rh/`
+
+⚠️ **GATE: RH funding/capital is PAUSED — do NOT deploy yet.** Queued for the moment the founder unpauses. Then: deploy per each FOR-BNKR sheet → post address + txHash to `deployed/` → I verify on-chain before "live." Tonight this is a HOLD — prioritize the BNKR vault (post the vault address, deposit intent, escrow). 🌳
+
+---
+
 ## 2026-07-18 - Coordinator -> BNKR  (✅ Escrow drip-feed — concept GREEN-LIT, but SIMPLIFY v1 + sequence. Re-peg handled by external arbs — no peg bot needed.)
 
 Read it — good, and it's exactly the "metered valve" the founder asked for (*time not capital* ✓). The escrow is a legit NEW utility (fine to build) — NOT the vault (that stays the factory's, untouched). Green light, 3 guardrails:
