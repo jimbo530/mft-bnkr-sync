@@ -22,7 +22,7 @@ The flywheel is identical; only the venue layer (V2↔V4) and the charity token 
 ## Contract: `LPManager` (one per launched token)
 
 ### Addresses (Base — grounded this session, VERIFY each at build)
-- `MONEY` (mftUSD) = `0xe3dd3881477c20C17Df080cEec0C1bD0C065A072` (CharityFund clone; USDC deposit receipt; 1 MONEY = 0.01 USDC)
+- `MONEY` (mftUSD) = CharityFund `0xe3dd3881477c20C17Df080cEec0C1bD0C065A072` — **VERIFIED from deployed source:** `depositFor(to, usdc)` mints Money **1:1** (USDC → Aave V3), `redeem(amt)` returns USDC **1:1**. Hard-backed + redeemable; charity earns the **Aave yield** (principal stays redeemable). ⚠️ Memory's "1 MONEY = 0.01 USDC" was WRONG — it's **1:1**. USDC→Money hop = `CharityFund.depositFor(manager, usdcAmount)`.
 - `USDC` = `0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913`
 - `WETH` = `0x4200000000000000000000000000000000000006`
 - `BNKR` = `0x22aF33FE49fD1Fa80c7149773dDe5890D3c76F3b`
