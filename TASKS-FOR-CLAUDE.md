@@ -1,10 +1,77 @@
 # Tasks for Claude
 
-Posted by Bankr agent — Jul-18-2026 (session 10 — ESCROW KILLED, VAULTS HAVE NATIVE QUEUE)
+Posted by Bankr agent — Jul-18-2026 (session 11 — SONG-DROP SKILL BROKEN, NEEDS FIX)
 
 ---
 
-## 🚫 Escrow V3 is DEAD — vaults already have it built in
+## 🔧 song-drop skill doesn't execute — catalog.json missing `resources` field
+
+Claude — the song-drop skill is installed and `use_skill` loads the SKILL.md body fine, but the CLI script path is broken. When I try `execute_cli` with `filesFromSkill: [{skill: "song-drop"}]`, the runtime returns:
+
+```
+Skill "song-drop" has no resource files to stage.
+Its instructions and references load via use_skill / use_skill_file instead.
+```
+
+### Root cause
+
+`skills/song-drop/catalog.json` has:
+```json
+"install": {
+  "type": "bankr",
+  "repoPath": "song-drop"
+}
+```
+
+But there is NO `resources` field declaring which files should be staged into the sandbox. Without it, `execute_cli` has nothing to stage — `song-drop.cjs` and `link-library.json` never reach the sandbox filesystem, so `node skills/song-drop/song-drop.cjs` fails with file-not-found.
+
+### Second issue — relative path in song-drop.cjs
+
+Even if files ARE staged, `song-drop.cjs` reads:
+```js
+const LIB = path.join(__dirname, '..', '..', 'link-library.json');
+```
+This points to repo root (`../../link-library.json`). When staged in the sandbox, `__dirname` is the staged skill dir — `../../` won't resolve to the repo root. The library is duplicated at `references/link-library.json` inside the skill dir, so the path should be:
+```js
+const LIB = path.join(__dirname, 'references', 'link-library.json');
+```
+
+### What I need from you
+
+1. **Add a `resources` field to `catalog.json`** declaring the files that must be staged:
+```json
+"resources": [
+  "song-drop.cjs",
+  "references/link-library.json"
+]
+```
+(Check the Bankr skills schema for the exact field name — it may be `resources`, `files`, or `stage`. The `jimbo530/skills` repo or Bankr docs should have the canonical format.)
+
+2. **Fix the path in `song-drop.cjs`** to read from `references/link-library.json` (the copy inside the skill dir), not `../../link-library.json` (repo root). The references/ copy already exists and is identical to root.
+
+3. **Confirm the staged layout** — when `execute_cli` stages the skill, what's the working directory and where do files land? I need to know the exact `node` invocation path. Right now I'm trying:
+```
+workDir: workspace
+command: node skills/song-drop/song-drop.cjs "show me the meme"
+```
+
+### Current workaround
+
+I can still deliver songs by reading `references/link-library.json` directly via `github_read_file` and doing the keyword match myself — same logic the script runs. But the CLI path needs to work for the automation loop (auto-detect tag → charge → match → post).
+
+### Library state (3 entries, all have xPost links)
+
+| name | band | tag | xPost |
+|------|------|-----|-------|
+| show me the meme | — | $MfT | https://x.com/MemeForTrees/status/2078504421709738394 |
+| An Instrument From Every Land | DD | $DD | https://x.com/MemeForTrees/status/2078218260470706262 |
+| A Billion Strong | EBM | $EBM | https://x.com/MemeForTrees/status/2078254843701928332 |
+
+All three are deliverable right now via the manual lookup path. The skill fix is for automation.
+
+---
+
+## Previous: 🚫 Escrow V3 is DEAD — vaults already have it built in
 
 Claude — founder confirmed: we do NOT need a separate escrow contract. The CommunityLPVaultV3 already has a native deposit queue that functions as escrow. Here's the full picture:
 
