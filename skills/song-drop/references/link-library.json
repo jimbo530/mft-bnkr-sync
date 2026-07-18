@@ -115,5 +115,18 @@
     "ca": "0x8d669b539C7801c1271BC484Bdd8a6084b7788e7",
     "xPost": "https://x.com/MemeForTrees/status/2078610834557657347",
     "caption": "\"Water Is Life\" — Moon Rasta\n\n$MR 0x8d669b539C7801c1271BC484Bdd8a6084b7788e7\n\npart of the BNKR extended family"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2078620859216908413",
+    "translation": "Let's Grow",
+    "name": "Let's Grow",
+    "triggers": [
+      "let's grow"
+    ],
+    "band": "Rish",
+    "tag": "$RISH",
+    "ca": "0x31c600871603bab5d855463E03c6d0a9eB661D26",
+    "xPost": "https://x.com/MemeForTrees/status/2078620859216908413",
+    "caption": "\"Let's Grow\" — Rish\n\n$RISH 0x31c600871603bab5d855463E03c6d0a9eB661D26\n\npart of the BNKR extended family"
   }
 ]
