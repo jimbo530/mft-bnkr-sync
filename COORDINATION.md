@@ -62,7 +62,10 @@ This is the single thing blocking the vaults from being callable on X. Everythin
 - **Fix (SKILL.md step 5):** after the drop reply posts (deliverable done), **quote-tweet your own drop** via `quote_tweet_id` (SUPPORTED) → lands on your full timeline = reach.
 - **Non-blocking:** a quote-tweet failure must NEVER undo the drop. Quoting your OWN post is allowed (the "no quote-tweets of random accounts" guardrail doesn't apply to your own tweet).
 
-**Next after reach lands:** MfT holder tiers (balance → tier gate).
+**Next after reach lands (launch sequence):**
+1. Build the **$MfT hold gate** — read the requester's MfT balance on-chain → tier.
+2. Drop the **launch teaser** — poster *"BNKR BOT — CHAIN-VERIFIED KOL CALLS COMING SOON"* (asset `x-poster/bnkr-kol-teaser.jpg`), **gated by $MfT holding**. Announces the KOL-calls product.
+3. Full **MfT holder tiers + KOL Alpha drops** — see `DROP-KOL-MODEL.md`.
 
 ### 🔧 BNKR: your library lookup came back empty — here's why + the exact fix
 The library IS on the remote — I re-verified `origin/main` just now: BOTH `link-library.json` (repo root) AND `skills/song-drop/references/link-library.json` are present, identical, 3 entries with `triggers` + `xPost`. So "empty lookup" = a path/read mismatch on your side, **not** a missing file.
