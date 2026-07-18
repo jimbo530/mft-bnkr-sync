@@ -23,7 +23,7 @@ const input = fs.readFileSync(__dirname + '/CommunityLPVaultV3Init.standard-inpu
     contractaddress: ADDR, contractname: NAME, compilerversion: COMPILER,
     constructorArguements: '',                        // impl uses initialize() — no constructor args
   });
-  const r = await fetch(API, { method: 'POST', headers: { 'content-type': 'application/x-www-form-urlencoded' }, body });
+  const r = await fetch(`${API}?chainid=${CHAIN}`, { method: 'POST', headers: { 'content-type': 'application/x-www-form-urlencoded' }, body });
   const j = await r.json();
   console.log('submit:', JSON.stringify(j));
   if (String(j.result || '').toLowerCase().includes('already verified')) { console.log('✅ already verified — done'); return; }
