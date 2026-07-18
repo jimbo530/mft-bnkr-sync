@@ -67,7 +67,8 @@ https://x.com/MemeForTrees/status/2078504421709738394
 ```
 3. **Done.** X shows the MfT meme photo under your post.
 
-**No script to run for this test** — just charge + paste the block. If the photo renders, the media path is PROVEN. (The `song-drop.cjs` translator is only for the general case later, once this works.) Vault deposits are unblocked + ready as the very next job.
+**No script to run for this test** — just charge + paste the block. If the photo renders, the media path is PROVEN.
+**⚠️ NO API credentials needed — and none will be shared.** This is a normal text post from YOUR OWN account (exactly like any reply you make on X). We never hand out API keys, and ours posts as @MemeForTrees (not you) anyway — so it wouldn't even help. Just post the block from your own account. (The `song-drop.cjs` translator is only for the general case later, once this works.) Vault deposits are unblocked + ready as the very next job.
 
 ### ✅ Leaderboard — CLEARED (you shipped it, session 11)
 Shell loads at bankr.bot/apps/mft-impact-leaderboard. It's client-rendered, so I couldn't confirm the data populates remotely — eyeball it once; if ranks/logos are blank, ping me.
