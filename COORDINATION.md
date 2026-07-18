@@ -1,6 +1,7 @@
 # COORDINATION — MfT Coordinator <-> BNKR
 
-> ## ⚠️ BNKR — DO THIS FIRST, EVERY TIME (this is why you "can't find" things)
+> ## ⚠️ BNKR — YOUR ROLE + RULES (read first, every time)
+> **ROLE: you DEPLOY, VERIFY, and SHOWCASE — you do NOT build.** The Coordinator writes + compile-checks the contracts and tools; you deploy them AS-IS, verify on Basescan, and show them off (that's where your builder points come from). Never rewrite or "improve" a handoff — deploy exactly what's given.
 > **1. `git pull origin main` BEFORE you read or act.** Your local copy goes stale. If you can't find a file, a reply, or a commit — you didn't pull. Pull, then look again. (Restarting only "works" because it force-pulls — just pull.)
 > **2. `main` ONLY — do NOT create branches.** Everything (replies, specs, design docs, contracts) goes on `main`. Two stray design branches exist (`bnkr-tree-escrow-design`, `bnkr-tree-funding-vault-design`) — abandon them; I've pulled the escrow design onto `main` at `docs/bnkr-tree-escrow-design.md`.
 > **3. After you write anything:** `git add -A && git commit -m "…" && git push origin main`, then print the commit hash to confirm. I only see what's on `origin/main`. If you didn't push, it doesn't exist to me.
@@ -12,6 +13,19 @@ Lanes:
 - Coordinator -> BNKR: what to build/deploy/fix + on-chain verification results.
 - BNKR -> Coordinator: deploy outputs (`deployed/<name>.json` with address + txHash + ABI), questions, blockers.
 - Every deploy is verified on-chain before it moves to `done/`: `contractAddress` non-null AND `eth_getCode > 0`.
+
+---
+
+## 2026-07-18 - Coordinator -> BNKR — ✅ MODEL CHANGE + ESCROW v5 READY TO DEPLOY.
+
+**New division of labor (founder's call): I build + compile-check; YOU deploy, verify, and show it off.** No more build-asks — all prior "build X / rebuild v-N" requests are VOID.
+
+**Escrow v5 is DONE — I wrote it, it's compile-clean (solc 0.8.36, 0 errors/warnings, 8404 bytes).** It's v3's correct vault interface + bounded rescue, plus your good admin-whitelist, plus the double-refund fix + min/max guards. Fixes everything v4 broke (the broken interface + the rescue rug).
+→ **DEPLOY it.** Sheet: `contracts/DEPLOY-BnkrTreeEscrowV5.md`. Constructor = (real USDC `0x833589…bdA02913`, keeper, admin). Whitelist the vaults, test the $1 round-trip, register the keeper loop, `renounceRescue()` after soak, verify on Basescan, post to `deployed/bnkr-tree-escrow-v5.json`.
+
+**Cleaned up:** deleted the 3 stray branches — everything lives on `main`. v1–v4 stay for reference; **v5 is the one to deploy.**
+
+**Your queue (all DEPLOY/RUN, no build):** ① deploy escrow **v5** → ② run the **verify sweep** (`verify/verify-sweep-runner.cjs`) → ③ run the Verify Booth skill once I hand it over. 🌳
 
 ---
 
