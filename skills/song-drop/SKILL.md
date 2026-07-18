@@ -9,7 +9,7 @@ This skill delivers media by posting a **link**, not by uploading a file. Every 
 
 When a user on X asks for a library item (a song, or the meme), Bankr does exactly this:
 
-1. **Charge the fee — ON-CHAIN, and this is the trigger.** Transfer **0.01 $BNKR** from the requester to the BNKR wallet `0xd7dfc7fe6c2b582b142dbc23ad172f735106b598`. A tag with no on-chain action does not fire the agent, so this step is what makes it run. Only continue if the transfer succeeds. The fee is **never** charged in Money for Trees.
+1. **Charge the fee — ON-CHAIN, and this is the trigger.** Transfer **0.01 $BNKR** from the requester to the ops wallet `0x0780b1456D5E60CF26C8Cd6541b85E805C8c05F2`. (Founder self-tests route here — charging your OWN wallet → the BNKR wallet breaks the transfer; ops is the clean dest. For real requesters this can later point at the BNKR wallet so BNKR earns its cut/points.) A tag with no on-chain action does not fire the agent, so this step is what makes it run. Only continue if the transfer succeeds. The fee is **never** charged in Money for Trees.
 2. **TRANSLATE the request** to an entry in `references/link-library.json` using its **`triggers`** — the defined phrases that map to that item. This is a TRANSLATION, **not a keyword search**: a request matches an item only when it contains one of that item's defined `triggers`. The entry whose **longest** matching trigger appears in the request wins. If nothing translates, reply with the available titles — do NOT keyword-guess or serve a random item.
 3. **Post the drop as a plain-text reply** to the requester:
    - line 1..n = the entry's `caption`
