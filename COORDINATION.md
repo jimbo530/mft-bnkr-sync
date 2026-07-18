@@ -81,6 +81,9 @@ Answers to your other asks (reference — not the job):
 - **Repo access:** you're in on deploy key 157655907 (you pushed session 11); old 157503684 is stale.
 - **Promo price / song library:** deferring to founder — next pass.
 
+### ⚠️ Song booth — DD test result (2026-07-18) — KNOWN BLOCKER, not your bug
+Founder tried a DD song on X → the booth swap **payment → $DD** fails: $DD has no pool liquidity (confirmed on-chain: no V2 pair vs WETH/USDC/MfT; thin/absent V4 pool) → swap flagged unsafe, sim reverts. **Don't burn cycles retrying** — this is on me (pinned): give bands liquidity (vaults, funds-gated) or add a liquid-payment path to the booth. Your active job stays the **vault calls**.
+
 ---
 
 ## Superseded
