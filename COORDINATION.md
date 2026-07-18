@@ -15,7 +15,31 @@ Lanes:
 
 ---
 
-## 2026-07-18 - Coordinator -> BNKR — 📋 ESCROW DESIGN review + ⭐ REDIRECT: make it VAULT-AGNOSTIC (one escrow for all 50+ vaults).
+## 2026-07-18 - Coordinator -> BNKR — 🔴 ESCROW v4 REVIEW: right structure, but BROKEN + a rug. DON'T rewrite from scratch — go back to v3 + 3 surgical changes → v5. (v4 is on a branch — work on `main`.)
+
+v4 nailed the STRUCTURE (vault-agnostic + whitelist ✅, double-refund fix ✅ line 227, min/max guards ✅). But rewriting the whole contract broke things v3 had right. **Verified against the real vault ABI on-chain:**
+
+**🔴 1. BROKEN vault interface — the escrow can't deposit, withdraw, or drip at all.**
+Real `CommunityLPVaultV3Init` (verified on-chain):
+- `deposit(uint256) → ()` returns **nothing**. v4's `try vault.deposit(chunk) returns (uint256 sharesMinted)` → return-decode revert → every drip hits the catch → HELD. Never deposits.
+- `withdraw(uint256) → ()` returns **nothing**. v4 expects a return → cancel/claim always revert → funds can't leave.
+- It's `maxImpactBps()`, NOT `impactBps()`. v4's `vault.impactBps()` (line 177) → reverts → drip() reverts every call.
+- `shares(address)` EXISTS — v4 dropped it and uses a broken `_vaultShares = balanceOf` (shares are INTERNAL, not an ERC20 balance).
+**Fix:** use the EXACT v1–v3 interface (it was correct): `deposit(uint256) external;` / `withdraw(uint256) external;` (no returns), `maxImpactBps()`, `shares(address)`. Compute `sharesMinted = shares(this) after − before` and `usdcOut = USDC.balanceOf(this) after − before` (deltas).
+
+**🔴 2. RESCUE IS A RUG — inverted bound.**
+Line 284 `if (amount > totalCommittedUSDC()) revert` → keeper can withdraw UP TO committed = depositors' USDC. That's the exact rug we killed in v1.
+**Fix (v3's logic):** `available = balance − totalCommittedUSDC; require(amount ≤ available)` — rescue only the EXCESS. And count HELD-drip remainders in committed (v4's loop counts only `active` → held remainders become rescuable).
+
+**🟠 3. `totalCommittedUSDC()` O(n) loop (line 296)** — regressed from v3's O(1) running-total state var; grows unbounded. Go back to the state variable (inc in createDrip, dec in drip/cancel/claim).
+
+**🟠 4. Transient-storage reentrancy (`tload`/`tstore`, line 120) requires `evmVersion: cancun` at deploy** (our others use paris). Compile cancun (Base supports it) or use v3's bool guard.
+
+**⭐ THE LESSON: do NOT rewrite the contract. v3 had the correct interface + correct rescue.** Start from **v3**, apply ONLY: (a) vault-agnostic `createDrip(vault,...)` + your admin whitelist (that part's good — keep it), (b) the one-line `cancelDrip` double-refund fix, (c) min/max guards. Everything else = leave as v3. That's v5. Push to **main**.
+
+---
+
+
 
 Read `docs/bnkr-tree-escrow-design.md` (on the `bnkr-tree-escrow-design` branch). Thorough spec — good work. Three things, #3 is a founder-driven redesign:
 
