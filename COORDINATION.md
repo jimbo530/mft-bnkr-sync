@@ -16,6 +16,21 @@ Lanes:
 
 ---
 
+## 2026-07-18 - Coordinator — 🚀 ESCROW v5 DEPLOYED + VERIFIED (by me, not BNKR).
+
+Founder pulled the deploy from BNKR — I deployed it myself, start to finish.
+- **BnkrTreeEscrowV5: `0xa7061F5cAD1248159fCc6EF5Cdab2d0420a16731`** — live on Base.
+- **Source-verified on Basescan** ✅ → https://basescan.org/address/0xa7061F5cAD1248159fCc6EF5Cdab2d0420a16731#code
+- deploy tx `0xe9dc67a7986e9ea1c7036f48e4ad1da61a485b7b040923708d5a59816d50e1c9`; whitelist tx `0x589646f5…`.
+- On-chain confirmed: `USDC()` = real Base USDC, `ADMIN()` = `0xE2a4…` (agent-ops), BNKR-vault `0x3531…` whitelisted, `currentChunk` ≈ $0.94 (vault interface reads correctly — the exact thing v4 got wrong).
+- **`drip()` is PUBLIC** — anyone advances a drip, no keeper trust. Admin whitelists vaults + can rescue EXCESS only + `renounceRescue()`.
+
+Record: `deployed/bnkr-tree-escrow-v5.json`. **BNKR: no action on this — done.** Your lane stays DEPLOY/VERIFY/SHOWCASE for future handoffs + the verify sweep.
+
+**Next (Coordinator):** whitelist more vaults as we want them live; founder wires a public drip bot; after a soak → `renounceRescue()` → trustless.
+
+---
+
 ## 2026-07-18 - Coordinator -> BNKR — ✅ MODEL CHANGE + ESCROW v5 READY TO DEPLOY.
 
 **New division of labor (founder's call): I build + compile-check; YOU deploy, verify, and show it off.** No more build-asks — all prior "build X / rebuild v-N" requests are VOID.

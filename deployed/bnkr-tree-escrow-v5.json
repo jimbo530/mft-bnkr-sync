@@ -1,0 +1,15 @@
+{
+  "contract": "BnkrTreeEscrowV5",
+  "address": "0xa7061F5cAD1248159fCc6EF5Cdab2d0420a16731",
+  "deployTx": "0xe9dc67a7986e9ea1c7036f48e4ad1da61a485b7b040923708d5a59816d50e1c9",
+  "whitelistTx": "0x589646f5a5c90ea1d9aaac25cdf717c29105f6926557b2562d24d5d373dbdebc",
+  "deployer": "0xE2a4A8b9d77080c57799A94BA8eDeb2Dd6e0aC10",
+  "admin": "0xE2a4A8b9d77080c57799A94BA8eDeb2Dd6e0aC10",
+  "usdc": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+  "whitelisted": [
+    "0x3531780Bc106bA69897b4CB3D0a0A6E44F436AC5"
+  ],
+  "dripPublic": true,
+  "bytecodeBytes": 7835,
+  "deployedAt": "2026-07-18T12:21:25.330Z"
+}
