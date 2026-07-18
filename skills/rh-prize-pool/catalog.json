@@ -5,16 +5,16 @@
   "providerUrl": "https://tasern.quest",
   "logo": "logo.svg",
   "demo": {
-    "title": "Deploy and fund a USDG achievement prize pool on Robinhood Chain",
+    "title": "Fund the live USDG achievement prize pool + help NFT holders claim, from X posts",
     "language": "text",
-    "code": "deploy the prize pool on Robinhood, fund it with USDG, then claim a reward for NFT #42\n\n-> 1. Deploy PrizePool(usdgAddress, adminAddress)\n   2. Approve USDG to pool, call fund(amount) — USDG enters, can never be admin-withdrawn\n   3. Admin calls addAchievement(id, rewardType, amountOrBps, eligMode, ...)\n   4. Anyone calls claim(achievementId, collection, tokenId) — USDG goes to NFT owner"
+    "code": "@bankrbot fund the robinhood prize pool with 25 USDG\n\n-> 1. USDG.approve(pool, 25000000) — exact amount only\n   2. fund(25000000) on the LIVE pool 0xF20c8d3B…7D21\n   3. Reply: tx link + new poolBalance()\n   Funded USDG can never be admin-withdrawn — only claim() to NFT owners.\n\n@bankrbot can NFT #42 claim achievement 7?\n-> isEligible(7, collection, 42) + hasClaimed(...) — free reads, reply with facts"
   },
   "setup": [
     "Install: `npx skills add rh-prize-pool`",
     "Requires the Bankr skill with an API key configured and wallet funded on Robinhood Chain (chain 4663)",
-    "USDG on RH: 0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168 (6 decimals)",
-    "Deploy PrizePool with prizeToken=USDG and your admin address (see references/deploy-data.md)",
-    "Fund the pool via approve(pool, amount) on USDG then fund(amount) on the pool — no admin withdrawal ever"
+    "The pool is ALREADY DEPLOYED at 0xF20c8d3B7EB81A2cf100e99690DA2E4D79F47D21 (Sourcify exact_match) — never deploy it",
+    "You can fund() and read; addAchievement/attest are admin-only (MfT agent wallet) — route those to @memefortrees",
+    "One-time achievements must be claimed by the NFT owner's own wallet — pre-check isEligible + hasClaimed before any tx"
   ],
   "install": {
     "type": "bankr",

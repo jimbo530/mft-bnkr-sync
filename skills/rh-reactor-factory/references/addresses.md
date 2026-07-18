@@ -15,6 +15,6 @@ Source: rh-v4-addresses.json (verified 2026-07-13)
 | BURGERS | `0xf796e42EA375bcD592c892FE64968Ba06188bbA3` |
 | WETH | `0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73` |
 
-## RHReactorFactory
+## RHReactorFactory (LIVE)
 
-FILL_AFTER_DEPLOY
+`0xdC36A42cf7F964053EB3Ab2aF169BdaBF4263C80` — deployed + source-verified 2026-07-18.

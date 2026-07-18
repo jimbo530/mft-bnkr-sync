@@ -1,151 +1,106 @@
 ---
 name: rh-reactor-factory
-description: Deploy the RHReactorFactory on Robinhood Chain (4663) and stamp V4 burn reactors for any token. Use when the user wants to deploy a burn reactor for a Robinhood Chain token, create a reactor factory, call createReactor for a new meme token, look up a reactor address via reactorOf, or take admin of a freshly deployed reactor. The factory is a one-time deploy; individual reactor creation is per-token after that.
+description: Stamp a V4 burn reactor for any Robinhood Chain (4663) token by calling the LIVE RHReactorFactory from an X post. Use when someone asks for a burn reactor / buyback engine for their RH token, asks what reactor is wired to a token (reactorOf), or asks to take or hand over admin of a stamped reactor. The factory is already deployed and source-verified — never deploy it again; every request is one createReactor call.
 ---
 
-# RH Reactor Factory — V4 Burn Reactors on Robinhood Chain
+# RH Reactor Factory — stamp V4 burn reactors from X posts
 
-Deploy **RHReactorFactory** once on Robinhood Chain (4663), then call
-`createReactor(coreToken)` for any ERC-20 to get a V4 burn reactor wired to
-the canonical RH Uniswap V4 infrastructure.
+The factory is **LIVE and source-verified** on Robinhood Chain (4663). Do NOT
+deploy anything. Every "make me a reactor" request is a single `createReactor`
+call on the live factory.
 
-> **Function names below are grounded in RHReactorFactory.sol.** Every
-> signature was read directly from the source — nothing is invented.
+> **Every signature below is grounded in RHReactorFactory.sol** (the verified
+> on-chain source — readable on Blockscout). Nothing is invented.
 
-## Contract addresses (chain 4663)
-
-The factory wires these at construction time (immutable):
+## The live contract (chain 4663)
 
 | Role | Address |
 |------|---------|
-| PositionManager | `0x58daec3116aae6D93017bAAea7749052E8a04fA7` |
-| UniversalRouter | `0x53BF6B0684Ec7eF91e1387Da3D1a1769bC5A6F77` |
-| Permit2 | `0x000000000022D473030F116dDEE9F6B43aC78BA3` |
-| PoolManager | `0x8366a39CC670B4001A1121B8F6A443A643e40951` |
-| V4ReactorPrime | `0xd51125e200689bf07A9b36A6c12fE440bb92dd4D` |
-| RHReactorFactory | `FILL_AFTER_DEPLOY` |
+| **RHReactorFactory (CALL THIS)** | `0xdC36A42cf7F964053EB3Ab2aF169BdaBF4263C80` |
+| V4ReactorPrime (upstream, baked in) | `0xd51125e200689bf07A9b36A6c12fE440bb92dd4D` |
+| PositionManager (baked in) | `0x58daec3116aae6D93017bAAea7749052E8a04fA7` |
+| UniversalRouter (baked in) | `0x53BF6B0684Ec7eF91e1387Da3D1a1769bC5A6F77` |
+| Permit2 (baked in) | `0x000000000022D473030F116dDEE9F6B43aC78BA3` |
+| PoolManager (baked in) | `0x8366a39CC670B4001A1121B8F6A443A643e40951` |
 
-## Step 1 — Deploy RHReactorFactory (one-time)
+Explorer: `https://robinhoodchain.blockscout.com/address/0xdC36A42cf7F964053EB3Ab2aF169BdaBF4263C80`
+RPC: `https://rpc.mainnet.chain.robinhood.com` · Gas: `maxFeePerGas 0.15 gwei / priority 0.01 gwei` (never 0.02 — undercuts basefee).
 
-The factory constructor takes 6 arguments:
+## X-post flow ("@bankrbot make a burn reactor for $TOKEN")
 
-```
-constructor(
-    address _positionManager,   // 0x58daec…fA7
-    address _universalRouter,   // 0x53BF6B…F77
-    address _permit2,           // 0x000000…BA3
-    address _poolManager,       // 0x8366a3…951
-    address _prime,             // 0xd51125…d4D
-    bytes   _childCreationCode  // V4BurgersReactor creation bytecode
-)
-```
+**Step 0 — resolve + pre-check (free reads, ALWAYS first):**
 
-Deploy instructions are in `references/deploy-data.md`. The encoded payload
-(bytecode + ABI-encoded constructor args) is provided pre-built — BNKR should
-not need to re-encode. Gas estimate: ~800k.
+1. Resolve `$TOKEN` to its chain-4663 address. If you cannot resolve it to a
+   contract with code on chain 4663, reply asking for the token address — do
+   not guess.
+2. `reactorOf(tokenAddress)` on the factory. If it returns non-zero, a reactor
+   already exists — reply with that address and STOP (the registry is
+   one-per-token, forever; a second createReactor reverts `"already exists"`).
+3. Shillwood-launched tokens already get a reactor clone at launch — if the
+   token came from the Shillwood factory (`0xbc275E1B91d03716846A7a83513f1E47929dEF46`),
+   check its launch record before stamping a duplicate-purpose reactor.
 
-Save the returned contract address as `FACTORY_ADDRESS`.
-
-## Step 2 — Stamp a reactor for a token
+**Step 1 — stamp it (one tx, ~3.5M gas):**
 
 ```solidity
-// Call on FACTORY_ADDRESS, chain 4663
+// on 0xdC36A42cf7F964053EB3Ab2aF169BdaBF4263C80, chain 4663
 function createReactor(address coreToken) external returns (address reactor)
 ```
 
-- `coreToken` — the ERC-20 the reactor will burn (e.g. your Shillwood token address).
-- Reverts if a reactor for that token already exists (`"already exists"`).
-- Emits `ReactorCreated(coreToken, reactor, deployer)` — read the reactor address from this event.
-- Gas estimate: ~3.5M (deploys 17 KB child bytecode).
+Read the new reactor address from the `ReactorCreated(coreToken, reactor, deployer)`
+event (or the return value).
 
-After this call the factory initiates a two-step admin transfer to `msg.sender`
-(see Step 3 — you must still call `acceptAdmin` on the reactor).
-
-## Step 3 — Accept admin on the new reactor
+**Step 2 — claim admin (one tx, on the NEW reactor address):**
 
 ```solidity
-// Call on the REACTOR address returned from Step 2, chain 4663
-function acceptAdmin() external
+function acceptAdmin() external   // caller must be the createReactor sender
 ```
 
-Caller must be `msg.sender` from the `createReactor` call (the pending admin).
-After this you own the reactor and can call `addPool`, `execute`, etc.
+The factory two-step-transfers reactor admin to whoever called `createReactor`
+— that is YOUR wallet, so you must `acceptAdmin()` or the reactor has no admin.
 
-## Step 4 — Wire the reactor (admin-only on the reactor)
+**Step 3 — reply on X (grounded facts only):**
 
-Once you are admin of the child reactor:
+Template — every claim verifiable on-chain, no hype, no price talk:
 
-**4a. Transfer the V4 position NFT** (POSM `safeTransferFrom`) to the reactor address.
-The reactor's `onERC721Received` only accepts transfers from admin.
+> Reactor stamped for $TOKEN on Robinhood Chain.
+> Reactor: 0x… (link: https://robinhoodchain.blockscout.com/address/0x…)
+> Burns $TOKEN, compounds the other side, sends the upstream cut to the MfT prime reactor.
+> It needs a V4 LP position added before it can run — reply if you want that wired.
 
-**4b. Register the position:**
+If the requester wants admin: `transferAdmin(theirAddress)` on the reactor,
+then THEY must call `acceptAdmin()` from their own wallet (tell them this
+explicitly — two-step, it is not done until they accept).
 
-```solidity
-function addPool(uint256 tokenId) external  // admin-only on the reactor
-```
+## Wiring a position (admin-only, only on request)
 
-**4c. Execute (permissionless after 2-hour cooldown):**
+1. Transfer a V4 position NFT to the reactor: `POSM.safeTransferFrom(you, reactor, tokenId)`
+   (the reactor only accepts transfers from its admin).
+2. **Dust-test first**: `addPool(tokenId)` with a tiny/test position before any
+   position of real value goes in. If addPool reverts, STOP and report.
+3. `execute(uint256[] minCoreOut)` — permissionless after a 2-hour cooldown,
+   one minCoreOut entry per registered pool.
 
-```solidity
-function execute(uint256[] calldata minCoreOut) external
-```
-
-`minCoreOut` — one entry per registered pool (slippage floor per pool).
-
-## Read-only queries on the factory
+## Read-only queries (free, use for any question)
 
 ```solidity
 function reactorOf(address coreToken) external view returns (address)
-function getReactor(address coreToken) external view returns (address)
 function reactorCount() external view returns (uint256)
 function allReactors(uint256 index) external view returns (address)
-
-// Factory-level admin (does NOT control deployed reactors)
-function admin() external view returns (address)
-function pendingAdmin() external view returns (address)
-function positionManager() external view returns (address)
-function universalRouter() external view returns (address)
-function permit2() external view returns (address)
-function poolManager() external view returns (address)
 function prime() external view returns (address)
-```
-
-`reactorOf` and `getReactor` are both present in the source and return the same
-mapping — use either.
-
-## Factory admin transfer (factory-level only)
-
-The factory admin cannot drain deployed reactors. These only affect who can
-modify the factory itself (e.g. future `childCreationCode` upgrades).
-
-```solidity
-function transferAdmin(address a) external onlyAdmin
-function acceptAdmin() external
-function renounceAdmin() external onlyAdmin
 ```
 
 ## Natural-language patterns
 
-- "deploy a reactor factory on Robinhood" → Step 1 (one-time deploy)
-- "stamp a reactor for [token]" → Step 2 `createReactor(tokenAddress)`
-- "what reactor is wired to [token]?" → `reactorOf(tokenAddress)` on the factory
-- "accept admin on my new reactor" → Step 3 `acceptAdmin()` on the reactor
-- "how many reactors has the factory deployed?" → `reactorCount()`
+- "make/stamp a burn reactor for $X" → Step 0 checks, then `createReactor`
+- "does $X have a reactor?" → `reactorOf(tokenAddress)` (free read, no tx)
+- "how many reactors exist?" → `reactorCount()`
+- "give me admin of my reactor" → `transferAdmin(their address)` + tell them to `acceptAdmin()`
+- "add my LP to the reactor" → Wiring section (dust-test rule applies)
 
-## Files
+## Hard rules
 
-| File | Purpose |
-|------|---------|
-| `references/RHReactorFactory.sol` | Contract source (all signatures verified here) |
-| `references/deploy-data.md` | Bytecode file location + constructor arg breakdown |
-| `references/addresses.md` | All canonical RH V4 addresses |
-
-## Notes
-
-- The factory holds NO funds. It cannot drain deployed reactors. Admin power is
-  add-only on the factory itself (no withdrawal paths anywhere).
-- The V4ReactorPrime at `0xd51125e200689bf07A9b36A6c12fE440bb92dd4D` is the
-  **real** prime confirmed in rh-reactors-v2.json. Do NOT use the disowned prime
-  at `0xCE35A7279e34670D133e659747B96c82770a8549`.
-- Gas fees on RH: use `maxFeePerGas 0.15 gwei / maxPriorityFeePerGas 0.01 gwei`
-  (matches existing RH deployments). Never use 0.02 gwei — it will undercut basefee.
+- **NEVER deploy a new factory or reactor implementation** — the factory is live; `FILL_AFTER_DEPLOY` era is over.
+- **NEVER reference the disowned prime** `0xCE35A7279e34670D133e659747B96c82770a8549`.
+- The factory holds no funds and has no withdrawal path anywhere; reactor admin is add-only. You may state this in replies — it is verifiable in the on-chain source.
+- Replies: grounded facts only (address, chain, what the contract verifiably does). No price/return talk, no "moon", never the word "invest".

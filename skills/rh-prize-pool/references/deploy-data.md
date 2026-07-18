@@ -1,36 +1,17 @@
-# PrizePool — Deploy Data
+# DEPLOYED — historical record only
 
-Chain: Robinhood (chainId 4663)
-RPC: https://rpc.mainnet.chain.robinhood.com
+The PrizePool was deployed by the MfT Coordinator on **2026-07-18**:
 
-## Source files (in package prize-pool-rh/)
+- **Address:** `0xF20c8d3B7EB81A2cf100e99690DA2E4D79F47D21` (chain 4663)
+- Deploy tx: `0x0e2e7ef464fab0fcbf27b9ce422ed261ad84fa15a9f92f83a806e3142f5bc6ca`
+- Source-verified: **Sourcify exact_match**; visible on robinhoodchain.blockscout.com
+- Constructor verified on-chain: `cbBtc()` (prize token) = USDG
+  `0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168`, `admin()` = MfT agent
+  `0xE2a4A8b9d77080c57799A94BA8eDeb2Dd6e0aC10`
 
-| File | Description |
-|------|-------------|
-| `PrizePool.sol` | Contract source |
-| `PrizePool-abi.json` | Full compiled ABI |
-| `creation-bytecode.txt` | Creation bytecode (0x prefixed) |
-| `constructor-args.txt` | ABI-encoded constructor args + breakdown |
+**Do NOT redeploy.** The original deploy payload lives in
+`bnkr-sync/prize-pool-rh/` for byte-level reference.
+Canonical record: `bnkr-sync/deployed/rh-tool-port-2026-07-18.json`.
 
-## Deploy transaction
-
-Full deploy tx.data = `creation-bytecode.txt` contents + constructor args hex from `constructor-args.txt` (concatenated, no separator).
-
-## Constructor args
-
-| Position | Parameter | Value |
-|----------|-----------|-------|
-| 1 | `_cbBtc` (prize token) | `0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168` (USDG on RH) |
-| 2 | `_admin` | `0xE2a4A8b9d77080c57799A94BA8eDeb2Dd6e0aC10` (agent wallet) |
-
-Note: the parameter is named `_cbBtc` in the source (ported from Base). On RH
-this immutable holds the USDG address. The logic is identical.
-
-## Gas
-
-Estimate: standard ERC-20 contract deploy, no large bytecode payload.
-Gas fees: `maxFeePerGas=0.15 gwei`, `maxPriorityFeePerGas=0.01 gwei`
-
-## Deployed PrizePool address
-
-FILL_AFTER_DEPLOY
+Naming note: the prize-token immutable is named `_cbBtc`/`cbBtc()` in the
+source (ported from Base). On this deployment it holds USDG (6 decimals).
