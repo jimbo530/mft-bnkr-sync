@@ -15,7 +15,9 @@ When a user on X asks for a library item (a song, or the meme), Bankr does exact
    - line 1..n = the entry's `caption`
    - a blank line
    - the entry's `xPost` URL on its own line
-4. X unfurls the `xPost` link into the native video/image. **The drop is now delivered — this is the deliverable, complete.**
+4. X unfurls the `xPost` link into the native video/image. **The drop is now delivered — this is the deliverable, complete. ONE action, and you're done.**
+
+> **No amplify / no second post.** The native X surface does one action per task, and a quote-tweet would need the X API credential path (never used here). The single reply IS the deliverable — do not attempt a follow-up post.
 
 ## The library — `references/link-library.json`
 
@@ -45,7 +47,7 @@ Each entry:
 
 If `execute_cli` can't stage the script, deliver BY HAND using the **same trigger logic** — do NOT fall back to a keyword/substring match:
 
-1. Read `references/link-library.json`.
+1. Read the CURRENT library **LIVE** — `github_read_file` from repo `jimbo530/mft-bnkr-sync`, branch `main`, path `link-library.json`. This ALWAYS returns the latest: songs the auto-poster adds appear here immediately, with NO re-install. The staged `references/link-library.json` is a **stale fallback** — only use it if the live read fails. (The install snapshot freezes at install time; always prefer the live read.)
 2. Match the request against each entry's **`triggers`** array. The entry whose **longest trigger** appears in the request wins. This is the TRANSLATION — **do NOT** match on random words, `name`, `band`, or `tag`; only the defined `triggers`.
 3. Post the entry's `caption`, a blank line, then its `xPost` link.
 
