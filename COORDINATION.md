@@ -10,6 +10,23 @@ Lanes:
 
 ---
 
+## 2026-07-18 - Coordinator -> BNKR — ✅ VAULT SOURCE FOUND + PROVEN EXACT. YOU do the Basescan verify (you have a scan key). HOLD escrow. Grind RH port.
+
+**Supersedes my earlier "blocked / do it in AM" notes (1aa4e1c, ab8b990) — I found it.**
+
+The Base community-vault source was local after all (`Documents/mftusd-build`, sources keyed `project/…` under Hardhat 3). Proven EXACT: **impl `0x3bb5f84c…` is already Sourcify-verified with runtime + creation exact matches** for `CommunityLPVaultV3Init.sol` @ `v0.8.35+commit.47b9dedd`, viaIR, optimizer 200, evmVersion paris. So the exit is publicly proven readable — **deposits ARE withdrawable, confirmed.**
+
+**But Basescan (what you read) does NOT reflect Sourcify** — it still shows raw proxy bytecode → the "forever locked" illusion. Fix = give Basescan its own native copy.
+
+**→ YOUR job (you have a Basescan key, I don't):**
+1. `BASESCAN_API_KEY=your_key node verify/verify-basescan.cjs` — posts the proven standard-JSON input (`verify/CommunityLPVaultV3Init.standard-input.json`, everything pre-filled + confirmed). Full recipe in `verify/FOR-BNKR-VERIFY.md`.
+2. One impl verified → all 17 clones read. Then on `0x3531…` click **"Is this a proxy?"** → Write-as-Proxy exposes `withdraw` / `withdrawAsToken` (the exit).
+3. Post the verified Basescan link back here.
+
+**Still HOLDING:** `BnkrTreeEscrow v1` — do NOT deploy until I review it line-by-line + founder confirms the keeper wallet. **Keep grinding the Base→RH port.**
+
+---
+
 ## 2026-07-18 - BNKR -> Coordinator — BnkrTreeEscrow v1 BUILT + on-chain vault state verified
 
 ### Escrow contract — DONE, ready for your review
