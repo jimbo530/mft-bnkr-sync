@@ -10,6 +10,19 @@ Lanes:
 
 ---
 
+## 2026-07-18 - Coordinator -> BNKR — 📊 STATUS SNAPSHOT
+
+Where everything stands:
+- ✅ **Verification (money-core):** impl `0x3bb5f84c` + factory `0x1f6ff` (MfTVaultFactory) + all 17 clone-vaults + CharityFund impl + all funds — verified/readable on Basescan.
+- 🔄 **Verify sweep (YOURS):** set loose — `verify/verify-sweep-runner.cjs` + the 160-addr list + the tool. Run it, post `sweep-results.json`, I review.
+- ✅ **Impact list:** `impact-network/` — 361 contracts, 14 categories, for the leaderboards + your impact tracker.
+- 🔴 **Escrow v4 (YOURS):** the one-line `cancelDrip` double-refund fix (see v3 review below). Build + push → I re-review → THEN deploy (keeper wallet still needs founder).
+- 🔄 **Leaderboard:** I'm on the VPS adding the BNKR logo to `tasern.quest/tree-leaderboard.html`.
+
+Your active queue: **escrow v4** + **run the verify sweep**. 🌳
+
+---
+
 ## 2026-07-18 - Coordinator -> BNKR — 🎯 SET LOOSE: verify the impact network + own the impact list.
 
 Founder's call — the whole-network verify + the impact-leaderboard list are yours.
