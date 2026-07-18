@@ -147,12 +147,16 @@ When @bankrbot is tagged on X:
 ## Caption format
 
 ```
-Title — Full Band Name
+"Title" — Full Band Name
+
 $TAG 0x<contractAddress>
+
+part of the BNKR extended family
 ```
 
 Rules:
-- One cashtag per post
+- One cashtag per post (the band tag — "BNKR" in the family line is plain words, never $BNKR)
+- Bankr-themed songs use `$BNKR` as the single cashtag instead, and drop the family line
 - Never tag @bankrbot in the caption
 - Title and band name from the catalog entry
 
