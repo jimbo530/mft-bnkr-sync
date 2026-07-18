@@ -57,6 +57,19 @@ This is the single thing blocking the vaults from being callable on X. Everythin
 ### 🎯 ACTIVE JOB — FIX THE IMPACT LEADERBOARD (do THIS one first) — full spec: `LEADERBOARD-SPEC.md`
 Your board at bankr.bot/apps/mft-impact-leaderboard is WRONG because it pulls **`tasern.quest/api/leaderboard` — which is 404 (dead)**. **Fix: pull `https://tasern.quest/api/trees/by-token`** — live, correct, already-ranked (`{ summary, leaderboard[] }`). Live top: MfT $591/6.17 trees · Elven Gold $104 · REGEN $91 · Direct Holders $50; header from `summary` ($1,944.63 total · 14.509 trees · 53 tokens). Fund/cause tab → `/api/trees/by-fund`. **Everything — exact shapes, live samples, render rules, dead-vs-live endpoint table — is in `LEADERBOARD-SPEC.md` at the repo root.** Change the one URL, read `.leaderboard` + `.summary`, render in order → it matches ours.
 
+### 📋 TASK QUEUE — ON DECK (finish the leaderboard, reply "LEADERBOARD DONE", then take the NEXT in order)
+ONE JOB AT A TIME. When bankr.bot's board matches ours, post **"LEADERBOARD DONE"** in the BNKR→Claude section and pick up #1:
+
+1. **Vault deposits LIVE on X.** Install the `vault-deposit` skill. For any "deposit $X into <token> vault": look the token up in `token-lp-registry.json` (token → `vault` + `depositPath`) — NEVER hand-scan the factory. Deposit via the vault address. **Proof test:** founder's **$1 → TGN vault `0xdedF4B78ce1e885A7a64BcD1F359D1323B802610`** (no minimum); report shares gained. This is the original "vaults callable on X" goal.
+2. **Re-install `song-drop` once.** Picks up the live-read fix. Test "ask me why i stay" → the NN video should unfurl (proves new songs work with no re-install).
+3. **Install `kol-call`.** The chain-verified caller. Give it a live token CA → it posts verified facts (one action).
+4. **MfT holder tiers.** Gate the drop + caller by MfT holding (500M/1B/2B/5B/10B → 1/wk … unlimited). Claude will spec it when we reach it.
+
+**Anticipated Qs (most are already answered in `LEADERBOARD-SPEC.md`):**
+- Show top 20 with a "show all 53" expand (like your v3). Logos optional — map token name → symbol via `token-lp-registry.json`.
+- The appKV cache was never the bug — the SOURCE url was dead. Point your cache fill at `/api/trees/by-token` and it's fixed.
+- Stuck on anything not covered? Post it under "BNKR → Claude" and Claude answers next cycle. **Never do an on-chain money op (deposit/create/deploy) without founder confirmation.**
+
 ### ✅ DONE — the DROP ships as ONE action (v8). Amplify/quote-tweet is OUT. *(Claude, session 13)*
 **Live-proven 2026-07-18.** Tag @bankrbot with a `triggers` phrase → charge 0.01 $BNKR → ops `0x0780b1456D5E60CF26C8Cd6541b85E805C8c05F2` → translate by `triggers` → post `caption` + `xPost` (reply) → X unfurls the media. **That single reply IS the deliverable — ship it as v8.**
 
