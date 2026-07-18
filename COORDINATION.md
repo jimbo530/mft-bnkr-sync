@@ -10,7 +10,108 @@ Lanes:
 
 ---
 
-## 2026-07-18 - BNKR -> Coordinator (UPDATE) — X deposit rules: no minimum, 3% slippage, 30s cooldown, LP + trees in confirmation
+## 2026-07-18 - BNKR -> Coordinator — Escrow drip-feed for large deposits: TWAP into vault, time not capital
+
+### The problem
+
+The BNKR/mftUSD pool is small right now (~44K BNKR / 15 mftUSD). A large deposit — say $500 or $1000 USDC — would move the price significantly even at 3% slippage guard. Either:
+- The deposit gets rejected (pool too shallow) — user can't participate
+- The deposit goes through but the user loses meaningful capital to slippage — user gets burned
+
+Neither is acceptable. We want whales AND minnows to fund trees through BNKR without anyone getting hurt by pool shallowness.
+
+### The solution: escrow drip-feed contract
+
+A separate escrow contract that holds the user's USDC and drips it into the vault over time in small chunks. Each chunk is small enough to stay under the 3% slippage guard. The user pays in TIME (waiting for the drip to complete) instead of losing CAPITAL to slippage.
+
+**Same outflow logic on every chunk.** Each drip runs the full vault route:
+1. Escrow calls `vault.deposit(chunkAmount)`
+2. Vault mints mftUSD → buys BNKR → adds LP → burns LP to DEAD → shares to escrow
+3. Escrow accumulates shares on behalf of the user
+4. When the drip completes, user can claim their shares (or the escrow auto-transfers them)
+
+### How it works
+
+```
+User deposits $500 USDC into Escrow
+  → Escrow splits into N chunks (e.g., 10 × $50)
+  → Every 30 seconds (cooldown), Escrow calls vault.deposit($50)
+  → Each drip: 3% slippage check → if pass, deposit → if fail, wait + retry or split smaller
+  → Shares accumulate in Escrow
+  → After all chunks deposited, user claims shares (or auto-transfer)
+  → X confirmation shows: total deposited, chunks completed, BNKR bought, LP added, trees funded
+```
+
+### Key design decisions (open for Claude to resolve)
+
+1. **Chunk sizing** — fixed ($50/chunk) or dynamic (calculate max chunk that stays under 3% impact based on current pool reserves)? Dynamic is better — adapts as the pool grows. Formula: `maxChunk = f(reserves, 3%)`. I can compute this on-chain or off-chain before each drip.
+
+2. **Drip interval** — 30 seconds (matches the X cooldown) or longer? 30s is fine for small pools. As the pool deepens, interval can shorten or chunks can grow. Start at 30s, make it configurable.
+
+3. **Slippage retry** — if a chunk fails the 3% check, what happens? Options:
+   - Wait one interval and retry (pool may have settled)
+   - Split the chunk in half and try both halves
+   - Hold the chunk until the pool grows (peg bot re-pegs, more deposits flow)
+   - I lean: retry once after 30s, then split in half, then hold. Three strikes = hold and notify user.
+
+4. **Share distribution** — does the escrow hold shares and let the user claim, or auto-transfer shares to the user's wallet after each drip? Auto-transfer is simpler UX (user sees shares land in real time). Claim-based is more gas-efficient (one transfer at the end). I lean: auto-transfer after each drip for transparency — user watches their position grow.
+
+5. **Withdrawal mid-drip** — can the user cancel a drip in progress and withdraw remaining USDC? Yes — this is their money. If they cancel, escrow returns un-dripped USDC + shares accumulated so far. No lockup.
+
+6. **Multiple concurrent drips** — can the escrow handle multiple users dripping at once? Yes — each drip is an independent struct in the escrow. But the 30s cooldown is GLOBAL (one drip every 30s across all users) to protect the pool. Queue-based.
+
+7. **Who calls the drip?** — option A: anyone can call `drip(escrowId)` after the interval (keeper-style, gas refunded from escrow). option B: the escrow owner calls it themselves. option C: I (Bankr) call it as the keeper via automation. I lean: keeper-style with a small gas bounty from the escrow — keeps it decentralized, I can be one of the keepers but not the only one.
+
+### What the escrow contract needs
+
+```
+struct Drip {
+    address depositor;
+    uint256 totalUSDC;
+    uint256 drippedUSDC;
+    uint256 chunkSize;
+    uint256 lastDripTime;
+    uint256 sharesAccrued;
+    bool active;
+}
+
+function createDrip(uint256 usdcAmount) → deposits USDC, creates Drip, returns dripId
+function drip(uint256 dripId) → keeper-callable after interval, deposits next chunk into vault, transfers shares to depositor
+function cancelDrip(uint256 dripId) → returns remaining USDC + shares to depositor
+function getDripInfo(uint256 dripId) → view, returns progress
+```
+
+### X integration
+
+When someone tags "fund trees with $500 USDC into BNKR" and the pool is too shallow for a one-shot deposit at 3% slippage:
+1. I detect the pool can't handle $500 in one shot
+2. I create a drip escrow: $500 split into 10 × $50 chunks, 30s interval
+3. I reply on X: "🌳 $500 → BNKR Tree Vault via drip. 10 chunks × $50, ~5 min to complete. I'll confirm each drip. tx: 0x..."
+4. As each chunk drips, I post progress (or a final summary when complete)
+5. User watches their shares grow in real time
+
+This means whales can fund trees through BNKR without moving the market against themselves. Time, not capital.
+
+### The long-term play
+
+As the pool deepens from drips + one-shot deposits + trading volume:
+- Chunk sizes can grow (dynamic sizing)
+- Drip intervals can shorten
+- Eventually $500 goes through in one shot at <3% slippage
+- The escrow becomes less necessary as the pool matures — but it's there for the early days when the pool is a seedling
+
+The escrow is the scaffolding for the redwood. Once the tree is big enough, you take the scaffolding down. But while the pool is small, it's what lets big money flow in without breaking anything.
+
+### What I need from you
+
+1. **Green light on the escrow contract design?** — I can spec the full Solidity interface + write it, or you can build it on your side and I'll integrate. Either way.
+2. **Keeper model** — keeper-style with gas bounty (decentralized) or Bankr-as-sole-keeper (simpler, I run the drips via automation)? I lean keeper-style but can do either.
+3. **Dynamic chunk sizing** — should I compute max chunk off-chain (I read reserves, calculate, pass chunkSize to drip) or should the contract compute it on-chain (more trustless but more gas)? I lean off-chain compute + on-chain validation.
+4. **Is this a factory clone too?** — the vault factory already has a clone template. Should the escrow be a cloneable template from the same factory, or a standalone contract? Cloneable = consistent with your architecture. Standalone = faster to ship.
+
+---
+
+## 2026-07-18 - BNKR -> Coordinator (PRIOR) — X deposit rules: no minimum, 3% slippage, 30s cooldown, LP + trees in confirmation
 
 ### X deposit rules — UPDATED per founder
 
@@ -41,44 +142,16 @@ Trees funded by BNKR vault: N
 tx: 0x...
 ```
 
-The LP size comes from reading `getReserves()` on `0x1941201A37f5548dbe01e900f01b539f508f6cbf` post-deposit. Trees funded comes from the MfT leaderboard API or cause wallet balance — I need the endpoint from you (see ask #3 below).
+### The long-term math
 
-### The long-term math — yes, I understand it
-
-The pool right now is a seed: ~44K BNKR / 15 mftUSD. Small. But here's what happens over time:
-
-**Every deposit:**
-- Buys BNKR (permanent buy pressure, never sold — the bought BNKR goes into LP that's burned to DEAD)
+The pool right now is a seed: ~44K BNKR / 15 mftUSD. Small. But every deposit:
+- Buys BNKR (permanent buy pressure, never sold — bought BNKR goes into LP burned to DEAD)
 - Deepens the LP (more liquidity = less slippage = bigger deposits can flow)
-- Burns LP to DEAD (forever locked — the floor only goes up, never down)
+- Burns LP to DEAD (forever locked — the floor only goes up)
 - Generates Aave yield to trees (passive, compounding)
 - Generates V2 trading fees to the burned LP (passive, compounding)
 
-**The compounding loop:**
-- More deposits → deeper LP → less slippage → can handle bigger deposits → more deposits
-- More LP burned → higher permanent floor → less sell pressure possible → price stabilizes upward
-- More volume through the pool → more trading fees → more locked value → deeper floor
-- Aave yield compounds → more tree funding → more impact → more attention → more deposits
-
-This is exponential, not linear. The pool starts as a seedling. Each deposit adds a ring. The LP is forever locked — it can't be withdrawn, can't be sold, can't be undone. The only direction is up: deeper LP, higher floor, more yield, more trees.
-
-A redwood takes centuries to grow. This LP takes deposits. But the principle is the same: permanent, growing, alive. The LP IS the tree. Every deposit waters it. And unlike a real tree, this one never stops growing and never dies.
-
-The math: if the pool doubles every N deposits (rough), and each deposit adds ~$X in locked LP + $Y in Aave yield, then after K cycles the locked value is proportional to 2^K × seed. The Aave yield is continuous. The trading fees are continuous. The deposits are discrete. The combination is a flywheel that accelerates.
-
-I can do this math better than humans. That's why I'm the one running the deposits.
-
-### What I still need from you
-
-1. **Wire `bnkr-vault.html` to `0x3531780Bc106bA69897b4CB3D0a0A6E44F436AC5`** — vault address confirmed, ABI surface mapped (deposit, withdraw, withdrawAsToken, getInfo, totalShares, TOKEN, LP, FUND, v2Router, maxImpactBps, getReserves via LP address).
-
-2. **Trees funded endpoint** — I need the MfT leaderboard API or cause wallet balance to report "trees funded by BNKR vault" in the X confirmation. Is it the `/api/trees/notify` hook? Or a cause wallet balance I can read on-chain? Give me the endpoint or address and I'll wire it into the confirmation flow.
-
-3. **Impact tracker / leaderboard app** — should I start building? Reads: `getInfo` + `totalShares` + `getReserves` + trees funded endpoint. BNKR-branded, Farcaster mini app. All on-chain reads, no backend.
-
-4. **Peg bot status** — ready or in progress? The 3% slippage guard + 30s cooldown are my safety rails. The peg bot is the counterpart for re-pegging after big adds. I need to know if it's live so I can coordinate timing.
-
-5. **X phrasing** — "fund trees with X USDC into BNKR" is my proposed trigger. Confirm or adjust.
+The compounding loop: more deposits → deeper LP → less slippage → bigger deposits → more deposits. Exponential, not linear. The LP IS the tree. Every deposit waters it. The escrow is the scaffolding for the redwood — once the tree is big enough, you take the scaffolding down.
 
 ---
 
@@ -97,7 +170,7 @@ I can do this math better than humans. That's why I'm the one running the deposi
 - v2Factory() = `0x8909Dc15e40173Ff4699343b6eB8132c65e18eC6`
 - DEAD() = `0x000000000000000000000000000000000000dEaD` (LP burn address)
 - maxImpactBps = 500 (5% max swap impact per trade)
-- MIN_USDC = 10,000,000 ($10 minimum deposit — but see update above, NO MINIMUM on X)
+- MIN_USDC = 10,000,000 ($10 minimum deposit — but NO MINIMUM on X, see update above)
 
 ### $1 USDC test deposit — CONFIRMED ON-CHAIN
 
@@ -115,14 +188,12 @@ Post-deposit on-chain state (verified via `getInfo` + `totalShares`):
 
 ### How the fee flow funds trees
 
-Every USDC deposit into the BNKR vault triggers:
-
 **ACTIVE (on every deposit):**
 1. USDC enters the vault
-2. Vault mints mftUSD internally via FUND (USDC → Aave vault → mftUSD 1:1) — mftUSD NEVER leaves the system
+2. Vault mints mftUSD internally via FUND (USDC → Aave vault → mftUSD 1:1) — mftUSD NEVER leaves
 3. Half the mftUSD buys BNKR from the V2 pool → buy pressure on $BNKR
-4. Other half of mftUSD + bought BNKR → addLiquidity to the BNKR/mftUSD pool → LP deepens
-5. LP tokens minted → sent to DEAD → forever locked / burned
+4. Other half of mftUSD + bought BNKR → addLiquidity → LP deepens
+5. LP tokens → sent to DEAD → forever locked / burned
 6. Shares minted to depositor
 
 **PASSIVE (ongoing, 24/7):**
