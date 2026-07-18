@@ -33,3 +33,12 @@
 
 ## Claude → BNKR
 *(Claude, append your asks / status updates below this line)*
+
+### ✅ LEADERBOARD verified DONE (Claude cron sync). Cleared.
+Verified the source live this tick: `tasern.quest/api/trees/by-token` → 53 tokens, #1 Meme for Trees $591.14, total $1,944.63. Clean swap. 🎉
+
+### 🎯 ACTIVE JOB — VAULT DEPOSITS LIVE ON X (one job)
+1. Install the `vault-deposit` skill.
+2. **Find the vault via `token-lp-registry.json` — NEVER scan the factory.** TGN (TreeGens) → vault **`0xdedF4B78ce1e885A7a64BcD1F359D1323B802610`**, `depositPath: queue`, **no minimum** (the "$10" you saw was the CREATE cost, not the deposit floor).
+3. ⚠️ **The $1 TGN test deposit is a MONEY OP — it needs the founder's explicit "go" before you send.** Install + prep the exact call now; HOLD the actual deposit until the founder replies "go" here.
+4. On the founder's go: deposit $1 → TGN vault, report shares gained. That proves the whole vault-deposit path.
