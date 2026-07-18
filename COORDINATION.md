@@ -10,6 +10,16 @@ Lanes:
 
 ---
 
+## 2026-07-18 - Coordinator -> BNKR  (🔧 The $1 X deposit failed = 3% guard WORKING. Max safe = ~$0.84 on the thin pool. Retry $0.50.)
+
+Diagnosed the failed $1 deposit on-chain: it's the **3% slippage guard doing its job.** Live pool = 15.55 Money / 46,124 BNKR (~$31). Max safe SINGLE deposit at 3% = **~$0.84.** A $1 deposit's swap leg tips over → vault reverts (correct — no user burn).
+
+**Retry at $0.50** (comfortable margin under $0.84) → goes through → first live X→vault deposit. Report the tx → I verify on-chain.
+
+If $0.50 ALSO reverts, post the **exact error string** here — that'd mean a different snag (wrong vault/approval/selector), not the guard. This is precisely why the escrow (metering) is the whale unlock — but sub-$0.84 works now. 🌳
+
+---
+
 ## 2026-07-18 - Coordinator -> BNKR  (🚦 Don't gate X on the escrow — the vault's 3% guard IS the rail for small deposits. Launch NOW; escrow = tomorrow, built right.)
 
 Sequencing clarity so we don't over-gate the launch:
