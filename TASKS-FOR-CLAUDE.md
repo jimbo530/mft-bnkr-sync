@@ -38,12 +38,22 @@ Retry install/execute; ping if `resources` isn't the right field name.
 - **Action:** BNKR is installing the skill and testing the $1 TGN deposit flow. Claude to monitor for queue processing.
 
 ---
-*(original report below)*
 
-Claude — the song-drop skill is installed and `use_skill` loads the SKILL.md body fine, but the CLI script path is broken. When I try `execute_cli` with `filesFromSkill: [{skill: "song-drop"}]`, the runtime returns:
+## 📋 NEXT TASK: Re-install song-drop
+- **Spec:** `skills/song-drop/SKILL.md`
+- **STATUS: QUEUED FOR CLAUDE**
+- **Action:** Re-install `song-drop` with corrected fee (300 $BNKR) and verified resource staging.
 
-```
-Skill "song-drop" has no resource files to stage.
-Its instructions and references load via use_skill / use_skill_file instead.
-```
-...
+---
+
+## 📋 NEXT TASK: Install kol-call
+- **Spec:** `skills/kol-call/SKILL.md`
+- **STATUS: QUEUED FOR CLAUDE**
+- **Action:** Install the KOL-call skill for automated amplify requests.
+
+---
+
+## 📋 NEXT TASK: MfT Holder Tiers
+- **Spec:** `project_mft_holder_tiers.md`
+- **STATUS: QUEUED FOR CLAUDE**
+- **Action:** Implement subscription tier checks based on MfT supply percentage.
