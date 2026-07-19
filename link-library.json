@@ -360,5 +360,18 @@
     "ca": "0x52414B7cD2FA723E1c8f9295EB29F16d15aA7BB9",
     "xPost": "https://x.com/MemeForTrees/status/2078756819959177625",
     "caption": "\"One More Plate Before Dawn\" — Damned Good Time Orchestra\n\n$DGT 0x52414B7cD2FA723E1c8f9295EB29F16d15aA7BB9\n\npart of the BNKR extended family"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2078761785230811613",
+    "translation": "They Paid Me To Feed You",
+    "name": "They Paid Me To Feed You",
+    "triggers": [
+      "they paid me to feed you"
+    ],
+    "band": "Bongo",
+    "tag": "$BONGO",
+    "ca": "0x85Dd5183D203CcE70b88234D31f075774AcCC453",
+    "xPost": "https://x.com/MemeForTrees/status/2078761785230811613",
+    "caption": "\"They Paid Me To Feed You\" — Bongo\n\n$BONGO 0x85Dd5183D203CcE70b88234D31f075774AcCC453\n\npart of the BNKR extended family"
   }
 ]
