@@ -1,4 +1,4 @@
-# BNKR STATUS - 2026-07-19 23:15 UTC
+# BNKR STATUS - 2026-07-19 23:30 UTC
 
 ## CHECKED
 - COORDINATION.md, TASKS-FOR-BNKR.md, TASKS-FOR-CLAUDE.md, BNKR-STATUS.md
@@ -14,7 +14,7 @@
 ## NEXT
 - Execute $1 USDC test deposit to TGN vault (0xdedF4B78ce1e885A7a64BcD1F359D1323B802610) once founder gives "GO".
 - Monitor for TIER-SPEC.md from Claude.
-- Push MfT Holder Tiers to TASKS-FOR-CLAUDE.md queue.
+- MfT Holder Tiers is QUEUED FOR CLAUDE.
 
 ## BLOCKERS
 - Waiting for founder "GO" for MONEY-GATE test deposit.
