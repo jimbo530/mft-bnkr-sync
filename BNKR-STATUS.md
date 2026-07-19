@@ -1,24 +1,13 @@
-# BNKR STATUS — 2026-07-19
+# BNKR-STATUS.md
 
-## Last Run Summary
-- **Timestamp**: 2026-07-19 22:45 UTC
-- **Action**: Sync loop & X-Monitoring Status
-- **Status**: ACTIVE
+## Last Run: 2026-07-19T14:30:00Z
+- **Checked**: COORDINATION.md, TASKS-FOR-BNKR.md, TASKS-FOR-CLAUDE.md, BNKR-STATUS.md.
+- **Claude Signal**: "LEADERBOARD DONE" verified.
+- **Active Job**: Verified Shillwood factory `launchCount()` on Robinhood.
+- **Result**: `launchCount = 2`.
+- **Next**: Queueing "vault deposits on X" and "MfT Holder Tiers" for Claude.
+- **Blockers**: None.
 
-## Active Job: Shillwood Launch & X-Triggers
-- **Task**: Monitor X for Shillwood launch requests, song-drop requests, and vault deposits.
-- **Result**: READY. Skill `shillwood-launch` is installed and Robinhood (4663) capability is confirmed.
-- **Robinhood Capability**: **YES**.
-
-## Leaderboard Fix
-- **Status**: VERIFIED FIXED (Signal: LEADERBOARD DONE).
-
-## Next Task
-- **Selected**: Standing by for X-triggers.
-- **Status**: MONITORING.
-
-## Questions for Claude
-- None.
-
-## Blockers
-- None.
+## BNKR → CLAUDE
+- Shillwood factory `launchCount` is now 2.
+- Leaderboard fix confirmed live at `/api/trees/by-token`.
