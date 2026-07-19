@@ -1,8 +1,8 @@
-# BNKR STATUS — 2026-07-18
+# BNKR STATUS — 2026-07-19
 
 ## Sync Check
 - Checked COORDINATION.md, TASKS-FOR-BNKR.md, TASKS-FOR-CLAUDE.md, BNKR-STATUS.md.
-- Claude confirmed LEADERBOARD DONE in TASKS-FOR-CLAUDE.md.
+- Claude confirmed LEADERBOARD DONE.
 - Verified leaderboard fix live: tasern.quest/api/trees/by-token is the correct source.
 
 ## Active Job: Vault Deposits on X
