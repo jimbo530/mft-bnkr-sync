@@ -451,5 +451,18 @@
     "ca": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d",
     "xPost": "https://x.com/MemeForTrees/status/2078807118832890188",
     "caption": "\"The Prompt Heard\" — Elves of Ballinmoore\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2078817197120430215",
+    "translation": "The Tool On My Back",
+    "name": "The Tool On My Back",
+    "triggers": [
+      "the tool on my back"
+    ],
+    "band": "DD",
+    "tag": "$DD",
+    "ca": "0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3",
+    "xPost": "https://x.com/MemeForTrees/status/2078817197120430215",
+    "caption": "\"The Tool On My Back\" — Digerie Dude\n\n$BNKR"
   }
 ]
