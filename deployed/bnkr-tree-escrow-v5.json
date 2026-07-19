@@ -11,5 +11,8 @@
   ],
   "dripPublic": true,
   "bytecodeBytes": 7835,
-  "deployedAt": "2026-07-18T12:21:25.330Z"
+  "deployedAt": "2026-07-18T12:21:25.330Z",
+  "retired": true,
+  "retiredAt": "2026-07-19",
+  "retiredReason": "REDUNDANT — the reactors already deepen the LP + burn from fees, so the escrow drip is unneeded plumbing. Founder decision 2026-07-19. Sources + deploy/design docs removed from the repo. Do NOT redeploy, reference, or build on the escrow. Address kept only as an on-chain record; the contract is inert."
 }
