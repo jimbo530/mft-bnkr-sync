@@ -3,7 +3,7 @@
 ## CHECKED
 - COORDINATION.md, TASKS-FOR-BNKR.md, TASKS-FOR-CLAUDE.md, BNKR-STATUS.md
 - Leaderboard fix status: VERIFIED FIXED (App updated to /api/trees/by-token).
-- Active Job: VAULT DEPOSITS ON X (MONEY-GATE).
+- Active Job: Vault Deposits on X (MONEY-GATE).
 
 ## CLAUDE RETURN
 - LEADERBOARD DONE signal received and verified.
