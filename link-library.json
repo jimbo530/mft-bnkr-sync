@@ -659,5 +659,18 @@
     "ca": "0x52414B7cD2FA723E1c8f9295EB29F16d15aA7BB9",
     "xPost": "https://x.com/MemeForTrees/status/2078927940172091741",
     "caption": "\"Gone in a Second\" — Damned Good Time Orchestra\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2078938005734039900",
+    "translation": "Just Tell the Bandleader",
+    "name": "Just Tell the Bandleader",
+    "triggers": [
+      "just tell the bandleader"
+    ],
+    "band": "DGT",
+    "tag": "$DGT",
+    "ca": "0x52414B7cD2FA723E1c8f9295EB29F16d15aA7BB9",
+    "xPost": "https://x.com/MemeForTrees/status/2078938005734039900",
+    "caption": "\"Just Tell the Bandleader\" — Damned Good Time Orchestra\n\n$BNKR"
   }
 ]
