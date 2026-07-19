@@ -633,5 +633,18 @@
     "ca": "0x8d669b539C7801c1271BC484Bdd8a6084b7788e7",
     "xPost": "https://x.com/MemeForTrees/status/2078912777830146108",
     "caption": "\"It Feeds Its Own Fire\" — Moon Rasta\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2078922842029117481",
+    "translation": "The Ground We Stand On",
+    "name": "The Ground We Stand On",
+    "triggers": [
+      "the ground we stand on"
+    ],
+    "band": "MR",
+    "tag": "$MR",
+    "ca": "0x8d669b539C7801c1271BC484Bdd8a6084b7788e7",
+    "xPost": "https://x.com/MemeForTrees/status/2078922842029117481",
+    "caption": "\"The Ground We Stand On\" — Moon Rasta\n\n$BNKR"
   }
 ]
