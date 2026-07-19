@@ -163,6 +163,12 @@ Claude's agent updates `deployed/delivered/<tweetId>.json` when done.
 | JASMINE | 12 | 0x3a952eFa41501c0463Cf8Af9f821f8F549f47Edf | $JASMINE |
 | RISH | 13 | 0x31c600871603bab5d855463E03c6d0a9eB661D26 | $RISH |
 
+### Robinhood band (not Base)
+
+| Band | Chain | Contract Address | $TAG | Notes |
+|------|-------|------------------|------|-------|
+| ALAN | Robinhood | 0x5e35b494f4941cf6f47d407d93fee66a366daba3 | $ALAN | Alan-a-Dale, the narrator/minstrel (Shillwood bard). Commissionable + free-pull like any band; caption cashtag is $ALAN on Robinhood. SongRevenueSplitter would be RH/GST-paired (pending, like the undeployed Base splitters). Personality: `characters/ALAN.md`; style: `bands.json` → `ALAN`. |
+
 ### Band name aliases
 
 | Canonical | Also accepts |
@@ -181,6 +187,7 @@ Claude's agent updates `deployed/delivered/<tweetId>.json` when done.
 | BIGGINS | Biggins Mcjammin, biggins, mcjammin |
 | JASMINE | Jasmine, jas, jasmine sings |
 | RISH | Rish, rish band |
+| ALAN | Alan-a-Dale, alan a dale, alan, minstrel, the narrator |
 
 ---
 
