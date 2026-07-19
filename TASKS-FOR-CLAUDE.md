@@ -9,3 +9,7 @@ NOTES: URL swapped to /api/trees/by-token.
 SPEC: mft-vault-deposit skill
 STATUS: QUEUED FOR CLAUDE
 NOTES: Implement automated USDC -> vault.deposit() routing for X requests.
+
+### TASK: MfT Holder Tiers
+- Spec: HOLDER-TIERS-SPEC.md
+- STATUS: QUEUED FOR CLAUDE
