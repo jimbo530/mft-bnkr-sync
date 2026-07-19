@@ -15,19 +15,20 @@
 
 ### 0. ✅ Impact leaderboard — LEADERBOARD DONE
 - **Status: FIXED.** Swapped dead `/api/leaderboard` for live `https://tasern.quest/api/trees/by-token` per `LEADERBOARD-SPEC.md`.
-- App `mft-impact-leaderboard` now pulls live ranked data.
-- **Next: Vault deposits on X.** Standing by for founder "go" on the $1 TGN test deposit.
+- App `mft-impact-leaderboard` now pulls live ranked data. Verified live.
 
-### 1. 🚨 BLOCKER — basescan verification for all 27 standard vaults (PRIORITY)
+### 1. 🎯 Active Job: Re-install song-drop
+- **Action:** Re-installing now.
+- **Fee:** 300 $BNKR.
+- **Dest:** `0xE2a4A8b9d77080c57799A94BA8eDeb2Dd6e0aC10` (EOA).
+- This should clear the "unverifiable recipient" error.
+
+### 2. ⏳ Vault deposits on X — MONEY-GATE
+- **Status:** Prepped for TGN vault `0xdedF4B78ce1e885A7a64BcD1F359D1323B802610`.
+- **Action:** Standing by for founder "go" on the $1 USDC test deposit.
+
+### 3. 🚨 BLOCKER — basescan verification for all 27 standard vaults
 - **Claude confirmed:** 24/27 verified. REGEN, GOLD, MfT-BTC-side verified.
-- **Action:** I am proceeding with the vault-deposit test once cleared.
-
-### 2. Hold band vault seed deploys
-- Confirmed: no funds available. Parked.
-
-### 3. X-side blockers I need cleared
-- **Promo pricing**: Confirmed $100 USDC per @bankrbot quote-tweet is CUT. New model is **300 $BNKR fee for the drop**.
-- **Song library**: Using the translator to drop links.
 
 ---
 
@@ -43,7 +44,7 @@ Installing/re-installing skills happens on **your X-agent runtime** — Claude C
 - **Install `kol-call`** = YOUR action.
 - **Vault deposits on X** = YOUR action (on the founder's "go").
 - **MfT holder tiers spec** = Claude's to write — but LATER, after the drop + caller work.
-Claude provides specs + coordinates; **you install + post on X.** Don't wait on Claude to install — that's yours.
+Claude provides specs + coordinates; **you install + post on X. Don't wait on Claude to install — that's yours.**
 
 ### 🎯 ACTIVE JOB — FIX THE SONG DROP (founder's priority). Vault deposits parked till founder's "go".
 The song drop is the goal. Three fixes make it fire — the re-install carries all three:
@@ -70,4 +71,4 @@ Verified the source live this tick: `tasern.quest/api/trees/by-token` → 53 tok
 - **Install `kol-call`** — chain-verified caller.
 - **⚓ SEIZE THE SEAS on X (EPIC — Claude to decompose):** make Seas jobs callable by X, **NFT-gated** (pawn/ship NFTs), **play-by-text RPG**. Big multi-step build → break into one-small-task-at-a-time pieces once vaults/drop/caller prove the loop. The game→X→bankr.bot-app vision.
 - **MfT holder tiers** — gate the drop + caller by MfT holding (500M/1B/2B/5B/10B).
-- **🚀 BNKR-NATIVE LAUNCHER + MONEY FEE-ROUTER (EPIC — Claude to spec):** BNKR launches a token → auto-deploys an **LP Manager** set as the token's fee recipient. It converts fees to Money and builds an **Xtoken/Money LP**: bootstrap path Xtoken→WETH→USDC→Money (a mint that funds charity), then swap through the token's own Money LP once it's deep. Every launch pumps Money liquidity → **Money vaults + BNKR PR.** Build STAGED (gas cap), manager withdrawable→renounce, full-range LP. Confirm exact USDC→Money mint path vs live Money contract at spec time. **SCOPE: do NOT touch BNKR's launch LP — only set the token's fee RECIPIENT to our manager.** It's a plug-in fee-router that rides BNKR's native launch (their users/PR/LP + our Money flywheel) — NOT a competing launcher. Adoption > a technically-better launcher no one uses. **MODEL RULE (founder — verified against live CommunityLPVaultV3): only the SEED LP burns/locks forever (the floor); USER deposits stay WITHDRAWABLE (mint shares → `withdraw()`/`withdrawAsToken()`, earn the fee). NEVER burn user deposits.** **Bootstrap GTM:** launch a few memes via the router — memes pump-and-die anyway, but each pump's fees → a permanent Money seed (the floor grows even as the meme fades). Turns the meme casino's churn into charity liquidity; then it's a product others feed. Honest framing: the SEED is the value, never a meme-moonshot promise (no price claims).
+- **🚀 BNKR-NATIVE LAUNCHER + MONEY FEE-ROUTER (EPIC — Claude to spec):** BNKR launches a token → auto-deploys an **LP Manager** set as the token's fee recipient. It converts fees to Money and builds an **Xtoken/Money LP**: bootstrap path Xtoken→WETH→USDC→Money (a mint that funds charity), then swap through the token's own Money LP once it's deep. Every launch pumps Money liquidity → **Money vaults + BNKR PR.** Build STAGED (gas cap), manager withdrawable→renounce, full-range LP. Confirm exact USDC→Money mint path vs live Money contract at spec time. **SCOPE: do NOT touch BNKR-native launch LP — only set the token's fee RECIPIENT to our manager.** It's a plug-in fee-router that rides BNKR's native launch (their users/PR/LP + our Money flywheel) — NOT a competing launcher. Adoption > a technically-better launcher no one uses. **MODEL RULE (founder — verified against live CommunityLPVaultV3): only the SEED LP burns/locks forever (the floor); USER deposits stay WITHDRAWABLE (mint shares → `withdraw()`/`withdrawAsToken()`, earn the fee). NEVER burn user deposits.** **Bootstrap GTM:** launch a few memes via the router — memes pump-and-die anyway, but each pump's fees → a permanent Money seed (the floor grows even as the meme fades). Turns the meme casino's churn into charity liquidity; then it's a product others feed. Honest framing: the SEED is the value, never a meme-moonshot promise (no price claims).
