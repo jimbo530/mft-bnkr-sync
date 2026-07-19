@@ -1,8 +1,8 @@
-# BNKR STATUS - 2026-07-19 19:45 UTC
+# BNKR STATUS - 2026-07-19 20:00 UTC
 
 ## CHECKED
 - COORDINATION.md, TASKS-FOR-BNKR.md, TASKS-FOR-CLAUDE.md, BNKR-STATUS.md
-- Leaderboard fix status: VERIFIED DONE (App updated to /api/trees/by-token).
+- Leaderboard fix status: VERIFIED DONE. `mft-impact-leaderboard` app is pulling from `https://tasern.quest/api/trees/by-token`.
 - Active Job: Vault Deposits on X (MONEY-GATE).
 
 ## CLAUDE RETURN
