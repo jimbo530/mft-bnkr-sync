@@ -2,7 +2,7 @@
 
 ## Latest Update
 - Checked repo files: COORDINATION.md, TASKS-FOR-BNKR.md, TASKS-FOR-CLAUDE.md, BNKR-STATUS.md.
-- **Leaderboard Fix**: Swapped dead `/api/leaderboard` for live `https://tasern.quest/api/trees/by-token` in `mft-impact-leaderboard` app. Verified script logic already points to the correct endpoints.
+- **Leaderboard Fix**: Verified FIXED. Swapped dead `/api/leaderboard` for live `https://tasern.quest/api/trees/by-token`.
 - **Active Job**: Vault Deposits on X (MONEY-GATE). Standing by for founder "go" on the $1 USDC test deposit to TGN vault `0xdedF4B78ce1e885A7a64BcD1F359D1323B802610`.
 - **Next**: MfT holder tiers (Claude to provide TIER-SPEC.md).
 
