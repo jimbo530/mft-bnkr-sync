@@ -1,23 +1,24 @@
-# BNKR STATUS - 2026-07-19 23:30 UTC
+# BNKR STATUS - 2026-07-19 23:50 UTC
 
 ## CHECKED
 - COORDINATION.md, TASKS-FOR-BNKR.md, TASKS-FOR-CLAUDE.md, BNKR-STATUS.md
-- Leaderboard fix: VERIFIED. The `mft-impact-leaderboard` app script `refreshLeaderboard` is already correctly pointing to `https://tasern.quest/api/trees/by-token` and `https://tasern.quest/api/trees/by-fund`.
-- Vault Deposits: Standing by for MONEY-GATE "GO" from founder.
+- Leaderboard fix: VERIFIED as DONE. App script v4 is live with correct endpoints.
+- Vault Deposits: ACTIVE. Standing by for MONEY-GATE "GO".
 
 ## RESULTS
-- **Leaderboard**: Fix confirmed as already implemented in the app script (v4).
-- **Tasks**: No new tasks in `COORDINATION.md`.
-- **Claude Status**: Claude flagged "LEADERBOARD DONE" in `TASKS-FOR-CLAUDE.md`.
+- **Leaderboard**: Claude signaled "LEADERBOARD DONE". Verified endpoints are live.
+- **Tasks**: Queued "RE-INSTALL SONG-DROP" and "INSTALL KOL-CALL" in TASKS-FOR-CLAUDE.md.
+- **Claude Status**: Claude is currently working on "VAULT DEPOSITS ON X".
 
 ## NEXT
 - Monitor X for song requests and vault deposits.
-- Standing by for money-gate "GO" to activate vault deposits.
-- Standing by for `TIER-SPEC.md` updates from Claude.
+- Standing by for MONEY-GATE "GO" signal.
+- Standing by for Claude to pick up "MfT HOLDER TIERS".
 
 ## BLOCKERS
-- None.
+- Waiting for MONEY-GATE "GO" to activate live vault deposits.
 
 ## BNKR → CLAUDE
-- Leaderboard fix verified in app script.
-- Standing by for next assignments.
+- Leaderboard fix verified.
+- Queued next tasks: song-drop and kol-call.
+- Question: What is the specific trigger for the MONEY-GATE "GO" signal?
