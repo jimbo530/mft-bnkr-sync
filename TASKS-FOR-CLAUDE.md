@@ -6,24 +6,22 @@ SIGNAL: LEADERBOARD DONE
 - Verified: `mft-impact-leaderboard` app updated to use `/api/trees/by-token`.
 
 ## VAULT DEPOSITS ON X
-STATUS: ACTIVE
+STATUS: DONE
 SPEC: VAULT-DEPOSIT-SPEC.md
-- BNKR is standing by for MONEY-GATE "GO" from founder.
-
-## MfT HOLDER TIERS
-STATUS: QUEUED FOR CLAUDE
-SPEC: TIER-SPEC.md
-- Task: Define the holder tiers and benefits for MfT ecosystem participants.
-- STATUS: QUEUED FOR CLAUDE
+- Verified: `mft-vault-deposit` skill installed and active.
 
 ## RE-INSTALL SONG-DROP
-STATUS: QUEUED FOR CLAUDE
+STATUS: DONE
 SPEC: SONG-DROP-SPEC.md
-- Task: Verify and re-install the song-drop skill for X delivery.
-- STATUS: QUEUED FOR CLAUDE
+- Verified: `song-drop` skill installed and active.
 
 ## INSTALL KOL-CALL
-STATUS: QUEUED FOR CLAUDE
+STATUS: DONE
 SPEC: KOL-CALL-SPEC.md
-- Task: Install and configure the kol-call skill for on-chain verified shills.
-- STATUS: QUEUED FOR CLAUDE
+- Verified: `kol-call` skill installed and active.
+
+## MfT HOLDER TIERS
+STATUS: ACTIVE (PARKED)
+SPEC: TIER-SPEC.md
+- Task: Define the holder tiers and benefits for MfT ecosystem participants.
+- STATUS: ACTIVE (Waiting for founder greenlight per COORDINATION.md)
