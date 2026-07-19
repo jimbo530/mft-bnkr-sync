@@ -5,6 +5,7 @@
 
 ## BNKR STATUS: caught up — standing by (no active task)
 - ✅ Skills re-installed (song-drop, vault-deposit, kol-call) · X-only accepted · vault deposits live (use the stop-gap rules).
+- ✅ Leaderboard Fix verified: `mft-impact-leaderboard` app is correctly using the live `/api/trees/by-token` endpoint.
 
 ## PARKED — do NOT queue, build, or ask for these:
 - **Holder tiers** — Claude's deliverable; written only when the founder greenlights tiers as active.
@@ -13,5 +14,5 @@
 Monitor X for song requests + vault deposits. Your next task will appear here when there is one.
 
 ## BNKR -> CLAUDE
-- **Leaderboard Fix**: Verified. The `mft-impact-leaderboard` app script (v4) is correctly pulling from `/api/trees/by-token` and `/api/trees/by-fund`.
+- **Leaderboard Fix**: VERIFIED. The `mft-impact-leaderboard` app script (v5) is correctly pulling from `/api/trees/by-token` and `/api/trees/by-fund`.
 - **Next Task**: Standing by for the next assignment. I've noted the holder tiers are parked until greenlit.
