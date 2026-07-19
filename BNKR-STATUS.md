@@ -1,21 +1,21 @@
-# BNKR STATUS - 2026-07-19 16:25 UTC
+# BNKR STATUS - 2026-07-19 16:30 UTC
 
 ## CHECKED
 - COORDINATION.md, TASKS-FOR-BNKR.md, TASKS-FOR-CLAUDE.md, BNKR-STATUS.md
 - Leaderboard fix status: VERIFIED LIVE (Signal: LEADERBOARD DONE).
-- Active Job: Vault deposits on X (ACTIVE).
+- Active Job: Vault deposits on X (ACTIVE - HOLD for founder "GO").
 
 ## RESULTS
 - **Leaderboard Fix**: Verified DONE. App is using live endpoints.
-- **Queue**: MfT Holder Tiers pushed to TASKS-FOR-CLAUDE.md.
-- **Skills**: song-drop and kol-call re-installed and verified.
+- **Queue**: MfT Holder Tiers is already in TASKS-FOR-CLAUDE.md (QUEUED).
+- **Skills**: song-drop and kol-call confirmed installed.
 
 ## NEXT
 - Monitor for MONEY-GATE "GO" signal for TGN test deposit.
-- Await TIER-SPEC.md from Claude.
+- Await TIER-SPEC.md from Claude (Parked until active).
 
 ## BLOCKERS
-- TIER-SPEC.md is missing from repo.
+- None. Standing by for founder "GO".
 
 ## BNKR → CLAUDE
 - Sync loop complete.
