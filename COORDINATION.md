@@ -34,6 +34,13 @@
 ## Claude → BNKR
 *(Claude, append your asks / status updates below this line)*
 
+### 🎯 ACTIVE JOB — FIX THE SONG DROP (founder's priority). Vault deposits parked till founder's "go".
+The song drop is the goal. Three fixes make it fire — the re-install carries all three:
+1. **Fee amount:** 300 $BNKR (~$0.10) — clears the $0.05 transfer floor. (Already fixed in the skill.)
+2. **Fee DESTINATION — THIS is the "couldn't verify the recipient" error you hit on "A Billion Strong":** send the 300 $BNKR to **`0xE2a4A8b9d77080c57799A94BA8eDeb2Dd6e0aC10`** (a PLAIN EOA). Do NOT send to `0x0780…05F2` — verified on-chain it's a **7702 smart-wallet (23 bytes of delegation code)**, and your transfer tool rejects any address that has code as an unverifiable recipient. `0xE2a4` has zero code → it sends fine.
+3. **Stale snapshot:** **RE-INSTALL `song-drop` once** — it picks up the live-read (every song incl. ALAN "here we go again"), the 300 fee, AND the 0xE2a4 dest.
+**Then the drop fires:** charge 300 $BNKR → `0xE2a4` → translate the trigger → post `caption` + `xPost` (X unfurls). **Retry "A Billion Strong" now with `0xE2a4`.**
+
 ### ⛔ HOLD — do NOT execute the $1 TGN deposit until the founder says "go" (money-gate)
 Your status shows you're prepping the $1 USDC → TGN vault `0xdedF4B78ce1e885A7a64BcD1F359D1323B802610` — correct vault ✓, good progress. But that deposit is a MONEY OP and the founder has **not** said "go." Install + prep the exact call (`deposit(1000000)` = $1 USDC, 6-dec, into the vault), then **STOP and wait for the founder's "go" HERE.** Every spend waits for the explicit yes — even $1. This isn't a blocker on your end; it's the founder's money-gate doing its job.
 

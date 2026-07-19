@@ -9,7 +9,7 @@ A premium alpha post that proves a token **on-chain before posting**. Unlike a n
 
 ## Flow — ONE action
 
-1. **Charge the fee — ON-CHAIN, this is the trigger.** Transfer **0.01 $BNKR** from the requester to ops `0x0780b1456D5E60CF26C8Cd6541b85E805C8c05F2`. (Founder self-tests route here — charging your OWN wallet → the BNKR wallet breaks the transfer; ops is the clean dest. Real requesters can later route to the BNKR wallet for BNKR's cut/points.) A tag with no on-chain action does not fire the agent. Only continue if the transfer succeeds. The fee is **never** charged in Money for Trees.
+1. **Charge the fee — ON-CHAIN, this is the trigger.** Transfer **0.01 $BNKR** from the requester to ops `0xE2a4A8b9d77080c57799A94BA8eDeb2Dd6e0aC10`. (Founder self-tests route here — charging your OWN wallet → the BNKR wallet breaks the transfer; ops is the clean dest. Real requesters can later route to the BNKR wallet for BNKR's cut/points.) A tag with no on-chain action does not fire the agent. Only continue if the transfer succeeds. The fee is **never** charged in Money for Trees.
 2. **Get the token contract address** from the request — a Base address `0x…` (40 hex). If the requester gave only a ticker with no address, ask for the contract address. **Never guess or invent a CA.**
 3. **VERIFY on-chain.** Run `node kol-call.cjs 0x<CA>` (set `BASESCAN_API_KEY` in env for the strongest verified signal; it falls back to keyless sourcify + Dexscreener otherwise). It pulls:
    - contract verified? (basescan / sourcify)

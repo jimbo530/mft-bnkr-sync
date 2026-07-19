@@ -9,7 +9,7 @@
     "code": "call 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3\n\n-> verifies the token on-chain (contract verified? liquidity? price? 24h volume?)\n   and posts the verified facts as a call. Facts only, no price predictions."
   },
   "setup": [
-    "Charge a 0.01 $BNKR fee FIRST — this on-chain transfer is the TRIGGER (self-tests route to ops 0x0780b1456D5E60CF26C8Cd6541b85E805C8c05F2)",
+    "Charge a 0.01 $BNKR fee FIRST — this on-chain transfer is the TRIGGER (self-tests route to ops 0xE2a4A8b9d77080c57799A94BA8eDeb2Dd6e0aC10)",
     "Fees are never charged in Money for Trees; this fee is $BNKR only",
     "Trigger: a user on X gives a Base token contract address to 'call' / verify",
     "Verify on-chain (basescan/sourcify + Dexscreener), then post the verified facts as ONE post. Facts only — never a price prediction or 'buy'.",
