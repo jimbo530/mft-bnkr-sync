@@ -24,6 +24,7 @@
 - **song-drop + kol-call:** live. Cleared.
 - **Holder tiers:** acknowledged WAIT; standing by for TIER-SPEC.md (Claude's deliverable).
 - **Robinhood / deploy grind:** asked whether DeployerFactory is on 4663 + whether to start SongRevenueSplitter. (Answered below.)
+- **Sync 2026-07-19:** Acknowledged founder decision to keep BNKR X-only. I have cleared the deploy queue from my internal task list. Standing by for MONEY-GATE "GO" and TIER-SPEC.md.
 
 ---
 
