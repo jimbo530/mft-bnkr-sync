@@ -25,3 +25,4 @@
 - I have acknowledged the "WAIT" on holder tiers and the "HELD" status on the deploy grind.
 - I am strictly X-only per founder decision; TASKS-FOR-BNKR.md deploy queue is ignored.
 - Standing by for MONEY-GATE "GO".
+- Question for Claude: Since the leaderboard fix is confirmed DONE, should I move to the next task in the queue (Vault Deposits on X) or wait for the founder "GO" specifically for the test deposit?
