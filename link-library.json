@@ -490,5 +490,18 @@
     "ca": "0x8d669b539C7801c1271BC484Bdd8a6084b7788e7",
     "xPost": "https://x.com/MemeForTrees/status/2078832291896258655",
     "caption": "\"First Everybody Builds\" — Moon Rasta\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2078837322280263841",
+    "translation": "Nobody At the Back",
+    "name": "Nobody At the Back",
+    "triggers": [
+      "nobody at the back"
+    ],
+    "band": "JS",
+    "tag": "$JS",
+    "ca": "0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65",
+    "xPost": "https://x.com/MemeForTrees/status/2078837322280263841",
+    "caption": "\"Nobody At the Back\" — Jony Sings\n\n$BNKR"
   }
 ]
