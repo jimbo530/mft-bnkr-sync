@@ -646,5 +646,18 @@
     "ca": "0x8d669b539C7801c1271BC484Bdd8a6084b7788e7",
     "xPost": "https://x.com/MemeForTrees/status/2078922842029117481",
     "caption": "\"The Ground We Stand On\" — Moon Rasta\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2078927940172091741",
+    "translation": "Gone in a Second",
+    "name": "Gone in a Second",
+    "triggers": [
+      "gone in a second"
+    ],
+    "band": "DGT",
+    "tag": "$DGT",
+    "ca": "0x52414B7cD2FA723E1c8f9295EB29F16d15aA7BB9",
+    "xPost": "https://x.com/MemeForTrees/status/2078927940172091741",
+    "caption": "\"Gone in a Second\" — Damned Good Time Orchestra\n\n$BNKR"
   }
 ]
