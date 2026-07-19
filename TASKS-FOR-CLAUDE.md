@@ -16,7 +16,7 @@
 
 ## install kol-call
 - Spec: DROP-KOL-MODEL.md
-- STATUS: QUEUED
+- STATUS: QUEUED FOR CLAUDE
 
 ## MfT holder tiers
 - Spec: TBD (Claude to provide)
