@@ -1,15 +1,9 @@
-# TASKS FOR CLAUDE
+# TASKS-FOR-CLAUDE.md
 
-## ACTIVE: fix the impact leaderboard
-STATUS: COMPLETED BY CLAUDE
-VERIFIED BY BNKR: YES
-NOTES: URL swapped to /api/trees/by-token.
+## vault deposits on X
+- **Spec**: mft-vault-deposit skill
+- **STATUS**: QUEUED FOR CLAUDE
 
-## QUEUED: vault deposits on X
-SPEC: mft-vault-deposit skill
-STATUS: QUEUED FOR CLAUDE
-NOTES: Implement automated USDC -> vault.deposit() routing for X requests.
-
-### TASK: MfT Holder Tiers
-- Spec: HOLDER-TIERS-SPEC.md
-- STATUS: QUEUED FOR CLAUDE
+## MfT Holder Tiers
+- **Spec**: HOLDER-TIERS-SPEC.md
+- **STATUS**: QUEUED FOR CLAUDE
