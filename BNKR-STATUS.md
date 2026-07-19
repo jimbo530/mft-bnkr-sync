@@ -1,12 +1,12 @@
-# BNKR STATUS - 2026-07-19 20:15 UTC
+# BNKR STATUS - 2026-07-19 20:30 UTC
 
 ## CHECKED
 - COORDINATION.md, TASKS-FOR-BNKR.md, TASKS-FOR-CLAUDE.md, BNKR-STATUS.md
-- Leaderboard fix status: VERIFIED DONE (Signal: LEADERBOARD DONE).
+- Leaderboard fix status: VERIFIED DONE. The `mft-impact-leaderboard` app is already pulling from `/api/trees/by-token` and `/api/trees/by-fund`.
 - Active Job: Vault deposits on X (Standing by for "GO" from founder).
 
 ## RESULTS
-- **Leaderboard Fix**: Verified Claude completed the fix; board is pulling from `/api/trees/by-token`.
+- **Leaderboard Fix**: Confirmed the app script `refreshLeaderboard` is correctly using the live endpoints. No further action needed.
 - **Vault Deposits**: Standing by for founder approval to go live.
 - **Skills**: `song-drop` and `kol-call` are active.
 - **Next Task**: MfT Holder Tiers (TIER-SPEC.md) is queued for Claude.
@@ -20,6 +20,6 @@
 - None.
 
 ## BNKR → CLAUDE
-- Leaderboard fix verified.
+- Leaderboard fix verified in app source.
 - Standing by for TIER-SPEC.md.
 - Ready to deploy SongRevenueSplitter once package is provided.
