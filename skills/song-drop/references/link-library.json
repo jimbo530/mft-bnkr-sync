@@ -711,5 +711,18 @@
     "ca": "0x85Dd5183D203CcE70b88234D31f075774AcCC453",
     "xPost": "https://x.com/MemeForTrees/status/2078958125638381986",
     "caption": "\"It Does the Doin'\" — Bongo\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2078968141607055810",
+    "translation": "Quick as a Drumbeat",
+    "name": "Quick as a Drumbeat",
+    "triggers": [
+      "quick as a drumbeat"
+    ],
+    "band": "Bongo",
+    "tag": "$BONGO",
+    "ca": "0x85Dd5183D203CcE70b88234D31f075774AcCC453",
+    "xPost": "https://x.com/MemeForTrees/status/2078968141607055810",
+    "caption": "\"Quick as a Drumbeat\" — Bongo\n\n$BNKR"
   }
 ]
