@@ -503,5 +503,18 @@
     "ca": "0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65",
     "xPost": "https://x.com/MemeForTrees/status/2078837322280263841",
     "caption": "\"Nobody At the Back\" — Jony Sings\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2078847389117432209",
+    "translation": "Just Ask Darling",
+    "name": "Just Ask Darling",
+    "triggers": [
+      "just ask darling"
+    ],
+    "band": "NN",
+    "tag": "$NN",
+    "ca": "0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc",
+    "xPost": "https://x.com/MemeForTrees/status/2078847389117432209",
+    "caption": "\"Just Ask Darling\" — Natilie Nightclub\n\n$BNKR"
   }
 ]
