@@ -698,5 +698,18 @@
     "ca": "0x85Dd5183D203CcE70b88234D31f075774AcCC453",
     "xPost": "https://x.com/MemeForTrees/status/2078953046122307802",
     "caption": "\"A Drawer Full of Tricks\" — Bongo\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2078958125638381986",
+    "translation": "It Does the Doin",
+    "name": "It Does the Doin",
+    "triggers": [
+      "it does the doin"
+    ],
+    "band": "Bongo",
+    "tag": "$BONGO",
+    "ca": "0x85Dd5183D203CcE70b88234D31f075774AcCC453",
+    "xPost": "https://x.com/MemeForTrees/status/2078958125638381986",
+    "caption": "\"It Does the Doin'\" — Bongo\n\n$BNKR"
   }
 ]
