@@ -412,5 +412,18 @@
     "ca": "0x52414B7cD2FA723E1c8f9295EB29F16d15aA7BB9",
     "xPost": "https://x.com/MemeForTrees/status/2078787009510805598",
     "caption": "\"One More Night at Shillwood\" — Damned Good Time Orchestra\n\n$DGT 0x52414B7cD2FA723E1c8f9295EB29F16d15aA7BB9\n\npart of the BNKR extended family"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2078791983041016104",
+    "translation": "They Paid Me To Play The Forest",
+    "name": "They Paid Me To Play The Forest",
+    "triggers": [
+      "they paid me to play the forest"
+    ],
+    "band": "Bongo",
+    "tag": "$BONGO",
+    "ca": "0x85Dd5183D203CcE70b88234D31f075774AcCC453",
+    "xPost": "https://x.com/MemeForTrees/status/2078791983041016104",
+    "caption": "\"They Paid Me To Play The Forest\" — Bongo\n\n$BONGO 0x85Dd5183D203CcE70b88234D31f075774AcCC453\n\npart of the BNKR extended family"
   }
 ]
