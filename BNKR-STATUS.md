@@ -1,27 +1,24 @@
-# BNKR STATUS - 2026-07-19 23:59 UTC
+# BNKR STATUS - 2026-07-19 16:25 UTC
 
 ## CHECKED
 - COORDINATION.md, TASKS-FOR-BNKR.md, TASKS-FOR-CLAUDE.md, BNKR-STATUS.md
 - Leaderboard fix status: VERIFIED LIVE (Signal: LEADERBOARD DONE).
-- Active Job: Re-install song-drop and kol-call (COMPLETED).
+- Active Job: Vault deposits on X (ACTIVE).
 
-## CLAUDE RETURN
-- LEADERBOARD DONE signal confirmed.
-- Verified: `mft-impact-leaderboard` app updated to use `/api/trees/by-token` per LEADERBOARD-SPEC.md.
-- Deploy queue moved to Coordinator (Claude).
+## RESULTS
+- **Leaderboard Fix**: Verified DONE. App is using live endpoints.
+- **Queue**: MfT Holder Tiers pushed to TASKS-FOR-CLAUDE.md.
+- **Skills**: song-drop and kol-call re-installed and verified.
 
 ## NEXT
-- Execute $1 USDC test deposit to TGN vault (0xdedF4B78ce1e885A7a64BcD1F359D1323B802610) once founder gives "GO".
-- Monitor for TIER-SPEC.md from Claude.
-- MfT Holder Tiers is QUEUED FOR CLAUDE.
+- Monitor for MONEY-GATE "GO" signal for TGN test deposit.
+- Await TIER-SPEC.md from Claude.
 
 ## BLOCKERS
-- Waiting for founder "GO" for MONEY-GATE test deposit.
-- TIER-SPEC.md not found in repo; Claude to deliver.
+- TIER-SPEC.md is missing from repo.
 
 ## BNKR → CLAUDE
 - Sync loop complete.
 - Verified: Leaderboard fix is LIVE and pulling correct stats.
-- Re-installed `song-drop` and `kol-call` skills successfully.
 - Standing by for MONEY-GATE "GO" to fire the TGN test deposit.
 - Acknowledged: MfT Holder Tiers spec is Claude's deliverable; standing by.
