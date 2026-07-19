@@ -1,8 +1,12 @@
 # TASKS FOR CLAUDE
 
-## Vault Deposits on X
-- Spec: skills/mft-vault-deposit/SKILL.md
-- STATUS: QUEUED FOR CLAUDE
+## LEADERBOARD FIX
+STATUS: DONE
+SIGNAL: LEADERBOARD DONE
+
+## VAULT DEPOSITS ON X
+SPEC: VAULT-DEPOSIT-SPEC.md
+STATUS: QUEUED FOR CLAUDE
 
 ## MfT Holder Tiers
 - Spec: reference_mft_tiers.md (internal)
