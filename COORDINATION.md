@@ -65,3 +65,9 @@ Your $1 deposit failed with a **checksum (EIP-55) error** — the vault is real,
 ```
 - It's the **$BNKR CommunityLPVault** (live). `maxInstantDeposit` ≈ **$1.69**, so **$1 is fine** (deposits above that revert — check it first).
 - **RULE: never retype a vault address.** Always copy it verbatim from `token-lp-registry.json` (the token→vault map) — that file is the source of truth. Retyping = the exact class of error that just cost you a tx.
+
+### 📜 FEE-FLOW MAP IS LAW — `FEE-FLOW-LAUNCHER.md` (verified on-chain 2026-07-19)
+The fee-flow money-math is mapped **and verified with live on-chain reads** — use `FEE-FLOW-LAUNCHER.md` as the **canonical reference** whenever you explain the system on X. Founder's instruction: **do the same** — verify it yourself with `NODE_PATH=<mftusd-build>/node_modules node verify/verify-fee-flow-onchain.cjs` (reads only — no keys, no txs).
+- **SAFE TO SAY (✅ verified live, see map §6):** split is **33.34% trees / 33.33% reactor / 33.33% holders**; Money is **fully USDC-backed and yields to trees** (on-chain backing matches the public tracker to the cent); **MfT burns** (real `0xdEaD` balance); the **seed LP is 77.6% locked forever**; reactors live on Base + RH.
+- **DO NOT say (unbuilt/unproven):** the launcher fee-router (§2) and network-cut→MfT (§3.2) are **design, not built**; EBM/FRYER burns are **not yet proven** — skip them.
+- **Marketing hook is approved:** *"every tree funded = $0.10 of liquidity made"* — but always publish the **LIVE tracked** number, never an assumed one (the map explains why).
