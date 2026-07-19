@@ -94,3 +94,16 @@ Reproduce: `NODE_PATH=…/mftusd-build/node_modules node verify/verify-fee-flow-
 | FRYER burn | token address | only in memory, **not** in repo | 🟡 not verified (won't use an ungrounded address) |
 
 **VERDICT — the engine is LIVE and PROVEN.** Money is fully USDC-backed and yielding (the surplus *is* the trees, matching the public tracker to the cent), the split routes exactly **33.34 / 33.33 / 33.33**, both chains' reactors are live, MfT is burning, and the seed LP is **77.6% locked forever**. Two honest 🟡: EBM's sealed reactor hasn't harvested yet (idle, not broken); FRYER's token address isn't repo-grounded, so its burn stays unasserted. **This is the law: what's ✅ here is verified reality; the launcher (§2) + network cut (§3.2) are the only unbuilt pieces, clearly marked.**
+
+---
+
+## 7. CHARITY DESTINATIONS — one engine, three outputs (verified 2026-07-19)
+Every CharityFund shares the **same 33.34% charity / 33.33% reactor / 33.33% holders** split (bps read live on Money, PRGT, CCC-R this sweep). Only the **charity leg's destination** differs:
+
+| Flavor | Fund(s) | Charity leg goes → | On-chain proof |
+|---|---|---|---|
+| 🌳 **Trees** | Money (MfT) · GST | project wallet → funds tree-planting | `charityWallet 0x0780…05F2` |
+| 🤝 **Direct** | **PRGT (Polyraiders)**, Base | **direct** payout to the Polyraiders charity | `charityWallet 0xEEDEd2D0…428d4f` |
+| ♻️ **Carbon** | CHAR-R · CCC-R | ImpactRouter **buys + retires** carbon credits → **our registry** | `charityWallet 0x228Eac0…` · `0xf12636…55cDc` |
+
+Same spine (deposit → yield → 33/33/33 split → reactor burns the meme + deepens LP), **different charity output**. All three splits verified on-chain (`verify/verify-all-gaps.cjs`). The feeding/direct model (PRGT) skips the endowment step — charity receives immediately.

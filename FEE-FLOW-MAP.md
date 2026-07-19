@@ -681,6 +681,31 @@ The following claims or states could NOT be fully grounded from local source fil
 
 ---
 
+### 9.1 GAP CLOSURE — on-chain sweep 2026-07-19 (12 of 15 closed)
+Live reads via `verify/verify-all-gaps.cjs` + `verify/verify-g7-fryer.cjs`. Base local node (blk 48,831,870) · RH public (blk 13,793,614) · Polygon publicnode (blk 90,503,099). Reads only.
+
+| Gap | Status | Verified value (live read this sweep) |
+|---|---|---|
+| G1 PRGT split + charity | ✅ CLOSED | `charityBps 3334` / `serviceBps 3333`; **charityWallet `0xEEDEd2D0…428d4f`** (direct Polyraiders charity); reactor `0xA97af977…` |
+| G2 FTP leg-3 recipients | ✅ CLOSED | 4 → `0x3dB6…0458` (Burgers reactor), `0xD3B0…123F`, `0x7562…bbf3` (peg vault), `0x261F…9BB1` (Burgers vault) |
+| G3 GST leg-3 recipients | ✅ CLOSED | `recipients(i)` reverts → **whitelist empty** (matches "leg empty") |
+| G4 RH PRIME coreToken | ✅ CLOSED | `coreToken() = 0x6ae5766…7608` = **MfT twin on RH** (the prime's burn target) |
+| G5 Base prime internal split | 🔴 OPEN | `coreToken`/`burnToken` revert (no view); prime confirmed LIVE + burns via doctrine — exact % needs deployed source |
+| G6 BONGO/DGT sealed admin | ✅ CLOSED | both `admin() = 0x0` (sealed) |
+| G7 Polygon bridge hatch | ✅ CLOSED | `escapeHatchRenounced() = true` (trustless, shipped) |
+| G8 GOLD prize pool funding | 🟡 OPEN | mechanism/design (game economy) — no single read; peripheral to fee flow |
+| G9 WETH prize pools | ✅ CLOSED | all 5 hold **0 WETH** → confirmed UNFILLED |
+| G10 MayorVault inflow | 🟡 OPEN | mechanism (game contract that deposits) — peripheral to fee flow |
+| G11 CCC-R serviceBps | ✅ CLOSED | `serviceBps 3333`; charityWallet `0xf12636…55cDc` (carbon-retire router) |
+| G12 FTP opsWallet | ✅ CLOSED | `0x0780…05F2` (re-confirmed) |
+| G13 MRB-BASE nonce | ✅ CLOSED | `outboundNonce() = 2` (bridge used) |
+| G14 RH FRYER coreToken | ✅ CLOSED | **FRYER `= 0xe15c7F62…0145`** (grounded from reactor); dead-balance 0 (reactor idle, no harvest fired) |
+| G15 community vault LPs | ✅ CLOSED | EBM-V LP `0x7B05…04Dd`, RISH-V `0x87E3…E408`, BONGO-V `0xEdA3…056D`, DGT-V `0x3E2F…5692` |
+
+**12/15 closed on-chain.** Remaining 3: **G5** (needs the deployed prime source — the prime itself is verified live + burning), **G8 + G10** (game-economy mechanism questions, not the fee flow). **None touch the core tree-funding flow, which is fully verified in `FEE-FLOW-LAUNCHER.md §6`.**
+
+---
+
 ## 10. CROSS-REFERENCE: Deployment Artifacts vs On-Chain
 
 | Contract | Artifact address | On-chain confirmed | Discrepancies |
