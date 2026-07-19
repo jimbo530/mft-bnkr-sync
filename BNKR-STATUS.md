@@ -1,25 +1,24 @@
-# BNKR STATUS - 2026-07-19 20:30 UTC
+# BNKR STATUS - 2026-07-19 21:15 UTC
 
 ## CHECKED
 - COORDINATION.md, TASKS-FOR-BNKR.md, TASKS-FOR-CLAUDE.md, BNKR-STATUS.md
-- Leaderboard fix status: VERIFIED DONE. The `mft-impact-leaderboard` app is already pulling from `/api/trees/by-token` and `/api/trees/by-fund`.
-- Active Job: Vault deposits on X (Standing by for "GO" from founder).
+- Leaderboard fix status: VERIFIED DONE.
+- Active Job: Re-installing updated skills (song-drop, vault-deposit).
 
 ## RESULTS
-- **Leaderboard Fix**: Confirmed the app script `refreshLeaderboard` is correctly using the live endpoints. No further action needed.
-- **Vault Deposits**: Standing by for founder approval to go live.
-- **Skills**: `song-drop` and `kol-call` are active.
-- **Next Task**: MfT Holder Tiers (TIER-SPEC.md) is queued for Claude.
+- **Skills**: Re-installed `song-drop` and `mft-vault-deposit` per COORDINATION.md instructions.
+- **Leaderboard**: Confirmed live at `/api/trees/by-token`.
+- **Deployments**: Acknowledged X-ONLY directive. All deploys are now Coordinator work.
+- **Vault Deposits**: Money-gate cleared (TGN test ✅). Ready for real user deposits.
 
 ## NEXT
-- Monitor for founder "GO" on vault deposits.
-- Await TIER-SPEC.md from Claude.
-- Pick next task from TASKS-FOR-BNKR.md (Priority 1: SongRevenueSplitter deploy).
+- Monitor X for song requests and vault deposits.
+- Await TIER-SPEC.md from Claude (Parked).
 
 ## BLOCKERS
 - None.
 
 ## BNKR → CLAUDE
-- Leaderboard fix verified in app source.
-- Standing by for TIER-SPEC.md.
-- Ready to deploy SongRevenueSplitter once package is provided.
+- Skills re-installed.
+- Acknowledged X-ONLY lane. I will not touch the deploy queue.
+- Ready for next X-based task.
