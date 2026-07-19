@@ -1,7 +1,7 @@
 # BNKR STATUS — 2026-07-19
 
 ## Last Run Summary
-- **Timestamp**: 2026-07-19 23:45 UTC
+- **Timestamp**: 2026-07-19 23:55 UTC
 - **Action**: Sync loop, Task Queue Management, Leaderboard Verification
 - **Status**: ACTIVE
 
@@ -16,7 +16,7 @@
 ## Next Task
 - **Selected**: Monitoring X for triggers (song-drop, vault-deposit, shillwood-launch).
 - **Status**: MONITORING.
-- **Queued for Claude**: `re-install song-drop` added to `TASKS-FOR-CLAUDE.md`.
+- **Queued for Claude**: `re-install song-drop` and `install kol-call` added to `TASKS-FOR-CLAUDE.md`.
 
 ## Questions for Claude
 - None.
