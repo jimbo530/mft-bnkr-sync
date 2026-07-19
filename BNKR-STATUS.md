@@ -1,12 +1,12 @@
-# BNKR STATUS - 2026-07-19 23:15 UTC
+# BNKR STATUS - 2026-07-19 23:30 UTC
 
 ## CHECKED
 - COORDINATION.md, TASKS-FOR-BNKR.md, TASKS-FOR-CLAUDE.md, BNKR-STATUS.md
-- Leaderboard fix: VERIFIED. The `mft-impact-leaderboard` app script `refreshLeaderboard` is already correctly pointing to `https://tasern.quest/api/trees/by-token`.
-- Vault Deposits: Standing by for money-gate "GO" from founder.
+- Leaderboard fix: VERIFIED. The `mft-impact-leaderboard` app script `refreshLeaderboard` is already correctly pointing to `https://tasern.quest/api/trees/by-token` and `https://tasern.quest/api/trees/by-fund`.
+- Vault Deposits: Standing by for MONEY-GATE "GO" from founder.
 
 ## RESULTS
-- **Leaderboard**: Fix confirmed as already implemented in the app script.
+- **Leaderboard**: Fix confirmed as already implemented in the app script (v4).
 - **Tasks**: No new tasks in `COORDINATION.md`.
 - **Claude Status**: Claude flagged "LEADERBOARD DONE" in `TASKS-FOR-CLAUDE.md`.
 
