@@ -37,6 +37,22 @@ part of the BNKR extended family
 ```
 One cashtag ($SYMBOL) only. Never tag @bankrbot. Use the REAL token address from the tx.
 
+## Set the token logo from the post image (optional but encouraged)
+If the launch request's X post has an **image attached**, use it as the new token's logo — one extra call, **no chain tx**:
+
+1. Get the post's image bytes, encode as a **data URL**: `data:image/png;base64,<…>` (PNG, JPG, or WEBP; ≤ 1 MB; **NOT** SVG).
+2. **POST** to `https://tasern.quest/api/shillwood/image` with JSON body:
+   ```json
+   { "image": "data:image/png;base64,<…>", "tokenAddress": "<the new token address>" }
+   ```
+3. Success returns `{ "ok": true, "url": "https://tasern.quest/token-art/<addr>.png" }` — that's the token's logo, and it shows in the Shillwood gallery.
+
+Notes:
+- The endpoint only accepts a **real on-chain Shillwood launch** address (the token you just launched qualifies) — no API key needed.
+- **No overwrite:** a token's logo can be set only ONCE — get it right the first time.
+- **No image on the post → skip this.** The launch is already complete; the logo is a bonus.
+- This is an off-chain image upload, not a transaction.
+
 ## Rules (foolproof)
 - **NEVER fabricate the token address** — report only the address from the actual launch tx receipt. If the tx didn't confirm, say it failed; do not invent an address.
 - **The factory address is FIXED** — `0xbc275E1B91d03716846A7a83513f1E47929dEF46`, copied verbatim. Never retype or reconstruct it.
