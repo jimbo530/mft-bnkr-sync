@@ -321,5 +321,18 @@
     "ca": "0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65",
     "xPost": "https://x.com/MemeForTrees/status/2078731585436676151",
     "caption": "\"Name Your Nobody\" — Jony Sings\n\nCommission the band — your story, their voice, one coin (no value but songs we sing):\nhttps://tasern.quest/songsmith.html\n\n$JS 0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65\n\npart of the BNKR extended family"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2078741656401047872",
+    "translation": "Toast to Tomorrow",
+    "name": "Toast to Tomorrow",
+    "triggers": [
+      "toast to tomorrow"
+    ],
+    "band": "NN",
+    "tag": "$NN",
+    "ca": "0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc",
+    "xPost": "https://x.com/MemeForTrees/status/2078741656401047872",
+    "caption": "\"Toast to Tomorrow\" — Natilie Nightclub\n\n$NN 0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc\n\npart of the BNKR extended family"
   }
 ]
