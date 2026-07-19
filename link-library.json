@@ -39,19 +39,6 @@
     "caption": "A Billion Strong\n\n$EBM 0xF113fe2A0E1181A21fA97B1F52ff232140B7692d"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2078590507526062441",
-    "translation": "Ask Me Why I Stay",
-    "name": "Ask Me Why I Stay",
-    "triggers": [
-      "ask me why i stay"
-    ],
-    "band": "NN",
-    "tag": "$NN",
-    "ca": "0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc",
-    "xPost": "https://x.com/MemeForTrees/status/2078590507526062441",
-    "caption": "Ask Me Why I Stay — Natilie Nightclub\n\n$NN 0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc\n\npart of the BNKR extended family"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2078598694442541106",
     "translation": "Hundred Hands",
     "name": "Hundred Hands",
@@ -165,5 +152,18 @@
     "tag": "$ALAN",
     "xPost": "https://x.com/MemeForTrees/status/2078635695023816869",
     "caption": "🎵 Here We Go Again — ALAN\n\n$ALAN 0x5e35b494f4941cf6f47d407d93fee66a366daba3\n\npart of the BNKR extended family — on Robinhood 🐓"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2078641032728617228",
+    "translation": "Ask Me Why I Stay",
+    "name": "Ask Me Why I Stay",
+    "triggers": [
+      "ask me why i stay"
+    ],
+    "band": "NN",
+    "tag": "$NN",
+    "ca": "0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc",
+    "xPost": "https://x.com/MemeForTrees/status/2078641032728617228",
+    "caption": "\"Ask Me Why I Stay\" — Natilie Nightclub\n\n$NN 0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc\n\npart of the BNKR extended family"
   }
 ]
