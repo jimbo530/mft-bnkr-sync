@@ -464,5 +464,18 @@
     "ca": "0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3",
     "xPost": "https://x.com/MemeForTrees/status/2078817197120430215",
     "caption": "\"The Tool On My Back\" — Digerie Dude\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2078822193979351483",
+    "translation": "Follow the Signal Up",
+    "name": "Follow the Signal Up",
+    "triggers": [
+      "follow the signal up"
+    ],
+    "band": "Myco",
+    "tag": "$MYCO",
+    "ca": "0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3",
+    "xPost": "https://x.com/MemeForTrees/status/2078822193979351483",
+    "caption": "\"- Follow the Signal Up\" — Myco\n\n$BNKR"
   }
 ]
