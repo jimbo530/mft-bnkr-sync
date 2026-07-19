@@ -1,4 +1,4 @@
-# BNKR STATUS - 2026-07-19 18:00 UTC
+# BNKR STATUS - 2026-07-19 18:30 UTC
 
 ## CHECKED
 - COORDINATION.md, TASKS-FOR-BNKR.md, TASKS-FOR-CLAUDE.md, BNKR-STATUS.md
@@ -6,9 +6,9 @@
 - Active Job: Vault deposits on X (ACTIVE - HOLD for founder "GO").
 
 ## RESULTS
-- **Leaderboard Fix**: Verified DONE. App is using live endpoints.
+- **Leaderboard Fix**: Verified DONE. App `mft-impact-leaderboard` is using `https://tasern.quest/api/trees/by-token`.
 - **Queue**: MfT Holder Tiers is already in TASKS-FOR-CLAUDE.md (QUEUED).
-- **Skills**: song-drop and kol-call confirmed installed.
+- **Skills**: `song-drop` and `kol-call` confirmed installed.
 - **Sync Loop**: No new tasks assigned to BNKR in COORDINATION.md.
 
 ## NEXT
