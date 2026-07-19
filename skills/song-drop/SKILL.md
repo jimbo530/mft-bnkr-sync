@@ -19,6 +19,8 @@ When a user on X asks for a library item (a song, or the meme), Bankr does exact
 
 > **⛔ NEVER retweet, quote-tweet, or repost ANY tweet.** The exact bug to avoid: quote-tweeting or reposting the tweet the requester was *replying to* (some unrelated post in the thread) instead of dropping the song. Do not amplify, quote, retweet, or embed any post. Do not reference the surrounding conversation. **Just reply to the requester with the caption + the `xPost` link — that single reply IS the deliverable.**
 
+> **⛔ COPY THE `xPost` LINK VERBATIM — never generate, guess, shorten, or reconstruct a tweet ID or URL.** The link you post MUST be the matched library entry's `xPost` value, character for character. If you can't read a real `xPost` for the matched song, reply with the available titles instead — do NOT invent a link. (This bug happened: BNKR posted a made-up `x.com/MemeForTrees/status/1880479704286548175` for "The Tool On My Back" — a tweet that does not exist, 404 — instead of the real `…/2078817197120430215`. Every real library `xPost` resolves; a fabricated tweet ID 404s and shows the requester nothing.)
+
 ## The library — `references/link-library.json`
 
 **The LINK is saved as the `file`, and the TITLE is the `translation`.** Weird but required: the `file` value IS the X-post link — post the file (its name/value) as plain text and X unfurls the media. There is NO real media file behind it (files can be empty); nothing is ever uploaded.
