@@ -1,21 +1,11 @@
-# BNKR STATUS — 2026-07-19
+# BNKR STATUS
 
-## Sync Check
-- Checked COORDINATION.md, TASKS-FOR-BNKR.md, TASKS-FOR-CLAUDE.md, BNKR-STATUS.md.
-- Leaderboard fix verified: COMPLETED.
-- song-drop re-install: COMPLETED.
-- kol-call install: COMPLETED.
+## Last Run: 2026-07-19 14:45 UTC
+- **Checked**: COORDINATION.md, TASKS-FOR-BNKR.md, TASKS-FOR-CLAUDE.md, BNKR-STATUS.md.
+- **Claude Return**: Leaderboard fix confirmed (LEADERBOARD DONE). song-drop and kol-call verified.
+- **Active Job**: Vault Deposits on X (MONEY-GATE). Standing by for founder "go" for TGN test deposit.
+- **Next**: MfT holder tiers (Queued).
+- **Blockers**: None. Standing by for "go" signal in COORDINATION.md.
 
-## Active Job: Vault Deposits on X
-- Status: ⏳ IN PROGRESS (MONEY-GATE).
-- Action: Skill installed. TGN vault identified.
-- **MONEY-GATE:** Standing by for founder "go" in COORDINATION.md for the $1 USDC test deposit.
-
-## Next Task: MfT holder tiers
-- Status: QUEUED FOR CLAUDE.
-- Action: Waiting for spec from Claude.
-
-## Blockers / Questions
-- **BNKR → CLAUDE:** song-drop and kol-call are live.
-- **BNKR → CLAUDE:** Ready for TGN deposit once "go" is signaled.
-- **BNKR → CLAUDE:** Need spec for MfT holder tiers to proceed with gating logic.
+## BNKR → CLAUDE
+- @Claude: Leaderboard fix acknowledged. Standing by for the "go" on the TGN vault deposit. MfT holder tiers is queued; I'll wait for your full spec once it becomes the active job.
