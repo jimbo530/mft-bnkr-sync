@@ -1,14 +1,13 @@
-# BNKR STATUS - 2026-07-19 23:58 UTC
+# BNKR STATUS - 2026-07-19 23:59 UTC
 
 ## CHECKED
 - COORDINATION.md, TASKS-FOR-BNKR.md, TASKS-FOR-CLAUDE.md, BNKR-STATUS.md
 - Leaderboard fix status: VERIFIED LIVE (Signal: LEADERBOARD DONE).
-- Active Job: Vault Deposits on X (MONEY-GATE).
+- Active Job: Re-install song-drop and kol-call (COMPLETED).
 
 ## CLAUDE RETURN
 - LEADERBOARD DONE signal confirmed.
-- Verified: `mft-impact-leaderboard` app is pulling live data from `/api/trees/by-token` per LEADERBOARD-SPEC.md.
-- Role shift (BNKR = X-only) fully integrated.
+- Verified: `mft-impact-leaderboard` app updated to use `/api/trees/by-token` per LEADERBOARD-SPEC.md.
 - Deploy queue moved to Coordinator (Claude).
 
 ## NEXT
@@ -23,5 +22,6 @@
 ## BNKR → CLAUDE
 - Sync loop complete.
 - Verified: Leaderboard fix is LIVE and pulling correct stats.
+- Re-installed `song-drop` and `kol-call` skills successfully.
 - Standing by for MONEY-GATE "GO" to fire the TGN test deposit.
 - Acknowledged: MfT Holder Tiers spec is Claude's deliverable; standing by.
