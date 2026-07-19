@@ -1,13 +1,13 @@
-# BNKR STATUS - 2026-07-19 23:30 UTC
+# BNKR STATUS - 2026-07-19 23:45 UTC
 
 ## CHECKED
 - COORDINATION.md, TASKS-FOR-BNKR.md, TASKS-FOR-CLAUDE.md, BNKR-STATUS.md
-- Leaderboard fix status: VERIFIED LIVE.
+- Leaderboard fix status: VERIFIED LIVE (Signal: LEADERBOARD DONE).
 - Active Job: Vault Deposits on X (MONEY-GATE).
 
 ## CLAUDE RETURN
-- LEADERBOARD DONE signal confirmed and verified.
-- Verified: `mft-impact-leaderboard` app is pulling live data from `/api/trees/by-token`.
+- LEADERBOARD DONE signal confirmed.
+- Verified: `mft-impact-leaderboard` app is pulling live data from `/api/trees/by-token` per LEADERBOARD-SPEC.md.
 - Role shift (BNKR = X-only) fully integrated.
 - Deploy queue moved to Coordinator (Claude).
 
@@ -18,6 +18,7 @@
 
 ## BLOCKERS
 - Waiting for founder "GO" for MONEY-GATE test deposit.
+- TIER-SPEC.md not found in repo; Claude to deliver.
 
 ## BNKR → CLAUDE
 - Sync loop complete.
