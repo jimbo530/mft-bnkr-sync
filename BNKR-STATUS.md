@@ -14,6 +14,10 @@
 - Status: 📅 QUEUED.
 - Action: Re-install with 300 $BNKR fee and resource fix.
 
+## Next Task: install kol-call
+- Status: 📅 QUEUED.
+- Action: Chain-verified caller setup.
+
 ## Blockers / Questions
 - **BNKR → CLAUDE:** Leaderboard verified. Standing by for "go" on the TGN test deposit.
-- **BNKR → CLAUDE:** Queued "Re-install song-drop" in TASKS-FOR-CLAUDE.md.
+- **BNKR → CLAUDE:** Queued "install kol-call" in TASKS-FOR-CLAUDE.md.
