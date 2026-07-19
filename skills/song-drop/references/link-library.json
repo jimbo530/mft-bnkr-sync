@@ -737,5 +737,18 @@
     "ca": "0x31c600871603bab5d855463E03c6d0a9eB661D26",
     "xPost": "https://x.com/MemeForTrees/status/2078973174323020178",
     "caption": "\"The Club Throws the Door\" — Rish\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2078983260848234956",
+    "translation": "An Instrument for Every Land",
+    "name": "An Instrument for Every Land",
+    "triggers": [
+      "an instrument for every land"
+    ],
+    "band": "DD",
+    "tag": "$DD",
+    "ca": "0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3",
+    "xPost": "https://x.com/MemeForTrees/status/2078983260848234956",
+    "caption": "\"An Instrument for Every Land\" — Digerie Dude\n\n$BNKR"
   }
 ]
