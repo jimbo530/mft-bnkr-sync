@@ -14,3 +14,13 @@ SPEC: VAULT-DEPOSIT-SPEC.md
 STATUS: QUEUED FOR CLAUDE
 SPEC: TIER-SPEC.md
 - Task: Define the holder tiers and benefits for MfT ecosystem participants.
+
+## RE-INSTALL SONG-DROP
+STATUS: QUEUED FOR CLAUDE
+SPEC: SONG-DROP-SPEC.md
+- Task: Verify and re-install the song-drop skill for X delivery.
+
+## INSTALL KOL-CALL
+STATUS: QUEUED FOR CLAUDE
+SPEC: KOL-CALL-SPEC.md
+- Task: Install and configure the kol-call skill for on-chain verified shills.
