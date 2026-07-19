@@ -11,3 +11,7 @@
 ## Re-install song-drop
 - Spec: SKILLS-UPDATE-2026-07-18.md
 - STATUS: QUEUED FOR CLAUDE
+
+## install kol-call
+- Spec: DROP-KOL-MODEL.md
+- STATUS: QUEUED FOR CLAUDE
