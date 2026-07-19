@@ -9,15 +9,15 @@ This skill delivers media by posting a **link**, not by uploading a file. Every 
 
 When a user on X asks for a library item (a song, or the meme), Bankr does exactly this:
 
-1. **Charge the fee — ON-CHAIN, and this is the trigger.** Transfer **300 $BNKR** (≈$0.10 — must clear BNKR's **$0.05 transfer-tool minimum**; 0.01 $BNKR is rejected as too small) from the requester to the ops EOA `0xE2a4A8b9d77080c57799A94BA8eDeb2Dd6e0aC10` (a PLAIN wallet — send here). **Do NOT use `0x0780…05F2`** — on-chain it's a 7702 smart-wallet (carries delegation code), so your transfer tool rejects it as an unverifiable recipient (that's the "couldn't verify the recipient" error). `0xE2a4` has zero code → sends fine. (Founder self-tests route to 0xE2a4 — charging your OWN wallet breaks the transfer; 0xE2a4 is the clean dest. For real requesters this can later point at the BNKR wallet so BNKR earns its cut/points.) A tag with no on-chain action does not fire the agent, so this step is what makes it run. Only continue if the transfer succeeds. The fee is **never** charged in Money for Trees.
+1. **Charge the fee — ON-CHAIN, and this is the trigger.** Transfer **300 $BNKR** (≈$0.10 — must clear BNKR's **$0.05 transfer-tool minimum**; 0.01 $BNKR is rejected as too small) from the requester to the **BNKR song-drop bot wallet** `0xc7704FE4E31905471505FA1451746adB9dbaF27A`. **The recipient MUST be a wallet your transfer tool verifies as bankrbot** — that is the real reason earlier attempts failed with *"the recipient … could not be verified as bankrbot."* A plain ops wallet (`0xE2a4…`) is a clean EOA but it is NOT bankrbot, so the tool refuses to release the fee to it. `0xc7704FE4…` is BNKR's dedicated bot wallet for this skill → it verifies as bankrbot, the fee lands, and BNKR earns its cut/points. A tag with no on-chain action does not fire the agent, so this step is what makes it run. Only continue if the transfer succeeds. The fee is **never** charged in Money for Trees.
 2. **TRANSLATE the request** to an entry in `references/link-library.json` using its **`triggers`** — the defined phrases that map to that item. This is a TRANSLATION, **not a keyword search**: a request matches an item only when it contains one of that item's defined `triggers`. The entry whose **longest** matching trigger appears in the request wins. If nothing translates, reply with the available titles — do NOT keyword-guess or serve a random item.
-3. **Post the drop as a plain-text reply** to the requester:
+3. **Reply DIRECTLY to the person who tagged you** (the requester) — a plain-text reply containing ONLY:
    - line 1..n = the entry's `caption`
    - a blank line
    - the entry's `xPost` URL on its own line
 4. X unfurls the `xPost` link into the native video/image. **The drop is now delivered — this is the deliverable, complete. ONE action, and you're done.**
 
-> **No amplify / no second post.** The native X surface does one action per task, and a quote-tweet would need the X API credential path (never used here). The single reply IS the deliverable — do not attempt a follow-up post.
+> **⛔ NEVER retweet, quote-tweet, or repost ANY tweet.** The exact bug to avoid: quote-tweeting or reposting the tweet the requester was *replying to* (some unrelated post in the thread) instead of dropping the song. Do not amplify, quote, retweet, or embed any post. Do not reference the surrounding conversation. **Just reply to the requester with the caption + the `xPost` link — that single reply IS the deliverable.**
 
 ## The library — `references/link-library.json`
 

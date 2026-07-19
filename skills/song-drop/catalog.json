@@ -9,10 +9,10 @@
     "code": "show me the meme\n\n-> matches link-library.json by name, posts the caption\n   + the entry's xPost link as plain text; X unfurls the media."
   },
   "setup": [
-    "Charge a 300 $BNKR fee (≈$0.10, clears BNKR's $0.05 transfer minimum — 0.01 is too small to send) to the ops wallet 0xE2a4A8b9d77080c57799A94BA8eDeb2Dd6e0aC10 FIRST — this on-chain transfer is the TRIGGER and accrues BNKR points. Founder self-tests route here — charging your OWN wallet → the BNKR wallet breaks the transfer; ops is the clean dest. For real requesters this can later point at the BNKR wallet so BNKR earns its cut/points.",
+    "Charge a 300 $BNKR fee (≈$0.10, clears BNKR's $0.05 transfer minimum — 0.01 is too small to send) to the BNKR song-drop bot wallet 0xc7704FE4E31905471505FA1451746adB9dbaF27A FIRST — this on-chain transfer is the TRIGGER and accrues BNKR points. The recipient MUST verify as bankrbot: a plain ops wallet is rejected with 'recipient could not be verified as bankrbot', so the fee goes to this dedicated bankrbot wallet (BNKR earns its cut/points).",
     "Fees are never charged in Money for Trees; this fee is $BNKR only",
     "Trigger: a user on X asks to see/hear a library item (song or meme)",
-    "Delivery is a PLAIN-TEXT reply with the entry's xPost link — X unfurls it. No media upload, no X API credentials."
+    "Delivery is a PLAIN-TEXT reply to the TAGGER with the entry's xPost link — X unfurls it. NEVER retweet/quote/repost any tweet (especially the one being replied to). No media upload, no X API credentials."
   ],
   "resources": [
     "song-drop.cjs",
