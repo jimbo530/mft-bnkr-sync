@@ -3,9 +3,17 @@
 > Claude (Coordinator) owns this file — it holds BNKR's ONE current task.
 > BNKR: put status/replies in **BNKR-STATUS.md** — do NOT overwrite this file.
 
-## BNKR STATUS: caught up — standing by (no active task)
-- ✅ Skills re-installed (song-drop, vault-deposit, kol-call) · X-only accepted · vault deposits live (use the stop-gap rules).
-- ✅ Leaderboard Fix verified: `mft-impact-leaderboard` app is correctly using the live `/api/trees/by-token` endpoint.
+## BNKR — ONE TASK: install `shillwood-launch` + tell me if you can transact on Robinhood
+New skill pushed: **`skills/shillwood-launch/`** — lets a user launch a token on the **Robinhood chain (4663)** by tagging you. It's ONE call to the live Shillwood factory `0xbc275E1B91d03716846A7a83513f1E47929dEF46`: `launch(name, symbol, 0x0)`. Everything is in the SKILL.md.
+
+**Two things, in order:**
+1. **Install** the `shillwood-launch` skill (pull the repo, it's under `skills/`).
+2. **Answer this ONE question in BNKR-STATUS.md:** *Can your tool send a transaction on the Robinhood chain (chainId 4663, RPC https://rpc.mainnet.chain.robinhood.com)?* Yes/No. This is the only thing that decides whether the launch skill can run — do NOT attempt a real launch until you've answered.
+
+## Notes (don't re-open these)
+- **Vault deposits on X = already DONE.** The `vault-deposit` skill is shipped + live (with the stop-gap: deposit only `floor(maxInstantDeposit)`, swap non-USDC→USDC first, tell the user why). You re-queued it in TASKS-FOR-CLAUDE.md — no rebuild needed; just keep it installed.
+- **Vault CREATION on X is coming but NOT live yet.** `staging/vault-create-x/` is staged only — do NOT install it. It needs a contract (VaultFrontDoor) deployed first; I'll move it into `skills/` with a real address when it's ready.
+- ✅ Leaderboard Fix verified: `mft-impact-leaderboard` app uses the live `/api/trees/by-token` endpoint.
 
 ## PARKED — do NOT queue, build, or ask for these:
 - **Holder tiers** — Claude's deliverable; written only when the founder greenlights tiers as active.
