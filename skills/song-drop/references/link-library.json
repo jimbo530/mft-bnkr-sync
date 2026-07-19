@@ -620,5 +620,18 @@
     "ca": "0x8d669b539C7801c1271BC484Bdd8a6084b7788e7",
     "xPost": "https://x.com/MemeForTrees/status/2078907749509841347",
     "caption": "\"A Seat at the Club\" — Moon Rasta\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2078912777830146108",
+    "translation": "It Feeds Its Own Fire",
+    "name": "It Feeds Its Own Fire",
+    "triggers": [
+      "it feeds its own fire"
+    ],
+    "band": "MR",
+    "tag": "$MR",
+    "ca": "0x8d669b539C7801c1271BC484Bdd8a6084b7788e7",
+    "xPost": "https://x.com/MemeForTrees/status/2078912777830146108",
+    "caption": "\"It Feeds Its Own Fire\" — Moon Rasta\n\n$BNKR"
   }
 ]
