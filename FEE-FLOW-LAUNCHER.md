@@ -107,3 +107,5 @@ Every CharityFund shares the **same 33.34% charity / 33.33% reactor / 33.33% hol
 | ♻️ **Carbon** | CHAR-R · CCC-R | ImpactRouter **buys + retires** carbon credits → **our registry** | `charityWallet 0x228Eac0…` · `0xf12636…55cDc` |
 
 Same spine (deposit → yield → 33/33/33 split → reactor burns the meme + deepens LP), **different charity output**. All three splits verified on-chain (`verify/verify-all-gaps.cjs`). The feeding/direct model (PRGT) skips the endowment step — charity receives immediately.
+
+**Proven at the bytecode level (`eth_getCode`, 2026-07-19):** PRGT's charityWallet `0xEEDEd2D0…` is an **EOA** (plain wallet → direct payout), while CHAR-R `0x228Eac0…` and CCC-R `0xf12636…` charityWallets are **2,633-byte contracts** (ImpactRouters → buy + retire carbon). Direct-vs-retire isn't just a label — it's the code.
