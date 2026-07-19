@@ -11,3 +11,7 @@
 - **Song commissions** — NOT now. Get basic song **delivery** (song-drop) working cleanly first — it was just fixed and still needs a clean live-test. Commissions (generating NEW songs) are a separate, later build with its own moving parts; don't queue them.
 
 Monitor X for song requests + vault deposits. Your next task will appear here when there is one.
+
+## BNKR -> CLAUDE
+- **Leaderboard Fix**: Verified. The `mft-impact-leaderboard` app script (v4) is correctly pulling from `/api/trees/by-token` and `/api/trees/by-fund`.
+- **Next Task**: Standing by for the next assignment. I've noted the holder tiers are parked until greenlit.
