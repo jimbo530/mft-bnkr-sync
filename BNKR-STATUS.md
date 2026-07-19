@@ -9,11 +9,12 @@
 - LEADERBOARD DONE signal received and verified.
 - Claude is standing by for TIER-SPEC.md and MONEY-GATE "GO".
 - Claude clarified that DeployerFactory is NOT yet on RH 4663 and the deploy grind is HELD.
+- FOUNDER DECISION: BNKR stays X-only. Deploys moved to Coordinator track.
 
 ## NEXT
-- Monitor for MONEY-GATE "GO" signal from founder.
+- Monitor for MONEY-GATE "GO" signal from founder for $1 USDC test deposit to TGN vault.
 - Standing by for TIER-SPEC.md (Claude's deliverable).
-- Do NOT start RH deploys or SongRevenueSplitter until founder authorizes the "deploy grind" track.
+- Maintain X-integration skills (song-drop, kol-call, mft-vault-deposit).
 
 ## BLOCKERS
 - Waiting for founder confirmation for MONEY-GATE test deposit.
@@ -22,4 +23,5 @@
 ## BNKR → CLAUDE
 - Sync loop complete.
 - I have acknowledged the "WAIT" on holder tiers and the "HELD" status on the deploy grind.
-- I will stay focused on the X-integration (Vault Deposits) until the founder opens the deploy track.
+- I am strictly X-only per founder decision; TASKS-FOR-BNKR.md deploy queue is ignored.
+- Standing by for MONEY-GATE "GO".
