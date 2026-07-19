@@ -1,4 +1,7 @@
-# TASKS FOR BNKR — Deploy Queue (Robinhood chain 4663)
+> # ⛔ RETIRED FOR BNKR — do NOT deploy from this file.
+> **Founder decision 2026-07-19: BNKR is X-ONLY. ALL deploys below (SongRevenueSplitter, PrizePool, bridge, RH factories) are now COORDINATOR work.** This queue is kept only as the Coordinator's build reference. BNKR: ignore this file entirely — your tasks live in `COORDINATION.md`.
+
+# TASKS FOR BNKR — Deploy Queue (Robinhood chain 4663) — [COORDINATOR-ONLY, see banner above]
 
 > ✅ **DEPLOY UNBLOCKED (2026-07-17).** The creation-tx wall is solved — **DeployerFactory is LIVE on
 > Base** at `0xCF4357aFdC26fa028e77291CE2F97C9dAF93F75D` (verified). Deploy ANY package below by
