@@ -750,5 +750,18 @@
     "ca": "0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3",
     "xPost": "https://x.com/MemeForTrees/status/2078983260848234956",
     "caption": "\"An Instrument for Every Land\" — Digerie Dude\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2078988271829364898",
+    "translation": "A Crew That Lets You In",
+    "name": "A Crew That Lets You In",
+    "triggers": [
+      "a crew that lets you in"
+    ],
+    "band": "JS",
+    "tag": "$JS",
+    "ca": "0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65",
+    "xPost": "https://x.com/MemeForTrees/status/2078988271829364898",
+    "caption": "\"A Crew That Lets You In\" — Jony Sings\n\n$BNKR"
   }
 ]
