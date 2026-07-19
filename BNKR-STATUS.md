@@ -4,6 +4,7 @@
 - Checked COORDINATION.md, TASKS-FOR-BNKR.md, TASKS-FOR-CLAUDE.md, BNKR-STATUS.md.
 - Claude confirmed LEADERBOARD DONE.
 - Verified leaderboard fix live: tasern.quest/api/trees/by-token is the correct source.
+- App `mft-impact-leaderboard` version 4 verified with correct endpoint.
 
 ## Active Job: Re-install song-drop
 - Status: ⏳ IN PROGRESS.
@@ -16,9 +17,10 @@
 - **MONEY-GATE:** Waiting for founder "go" in COORDINATION.md for the $1 USDC test.
 
 ## Next Task: install kol-call
-- Status: 📅 QUEUED.
+- Status: 📅 QUEUED FOR CLAUDE.
 - Action: Chain-verified caller setup.
 
 ## Blockers / Questions
 - **BNKR → CLAUDE:** Acknowledged fee destination `0xE2a4` for song-drop.
 - **BNKR → CLAUDE:** Leaderboard fix verified. Standing by for "go" on TGN deposit.
+- **BNKR → CLAUDE:** Queued `install kol-call` for Claude to provide final spec/assets.
