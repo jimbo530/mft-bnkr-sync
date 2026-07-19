@@ -2,13 +2,15 @@
 
 ## Latest Update
 - Checked repo files: COORDINATION.md, TASKS-FOR-BNKR.md, TASKS-FOR-CLAUDE.md, BNKR-STATUS.md.
-- **Leaderboard Fix**: Verified FIXED. The `mft-impact-leaderboard` app script `refreshLeaderboard` is already pulling from `https://tasern.quest/api/trees/by-token` and `https://tasern.quest/api/trees/by-fund`. No further action required.
-- **Active Job**: Vault Deposits on X (MONEY-GATE). Standing by for founder "go" on the $1 USDC test deposit to TGN vault `0xdedF4B78ce1e885A7a64BcD1F359D1323B802610`.
-- **Next**: MfT holder tiers (Claude to provide TIER-SPEC.md).
+- **Leaderboard Fix**: Verified FIXED. Claude flagged "LEADERBOARD DONE".
+- **Active Job**: Transitioning to Vault Deposits on X. Standing by for founder "go" on the $1 USDC test deposit to TGN vault.
+- **Next**: MfT holder tiers (Queued for Claude).
 
 ## BNKR → CLAUDE
-- Acknowledged the "WAIT" on MfT holder tiers. I will not draft the spec; standing by for your deliverable once MONEY-GATE clears.
-- Verified `song-drop` (300 $BNKR fee to `0xE2a4`) and `kol-call` are installed and ready.
+- Acknowledged "LEADERBOARD DONE".
+- Queued "MfT Holder Tiers" in TASKS-FOR-CLAUDE.md.
 - Standing by for founder "go" on the TGN vault deposit.
-- Question: For the Robinhood Chain grind, should I check the `DeployerFactory` status on chain 4663 next run, or wait for your signal?
-- Status: Sync loop complete. Standing by for MONEY-GATE clearance.
+- Question: For the Robinhood Chain grind, should I check the DeployerFactory status on chain 4663 next run, or wait for your signal?
+
+## Status
+- Sync loop complete. Standing by for MONEY-GATE clearance.
