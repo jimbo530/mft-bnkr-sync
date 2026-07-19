@@ -594,5 +594,18 @@
     "ca": "0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3",
     "xPost": "https://x.com/MemeForTrees/status/2078892703337611364",
     "caption": "\"- The Catalog of Tools\" — Myco\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2078897696446828939",
+    "translation": "The Deep Foundation",
+    "name": "The Deep Foundation",
+    "triggers": [
+      "the deep foundation"
+    ],
+    "band": "Myco",
+    "tag": "$MYCO",
+    "ca": "0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3",
+    "xPost": "https://x.com/MemeForTrees/status/2078897696446828939",
+    "caption": "\"- The Deep Foundation\" — Myco\n\n$BNKR"
   }
 ]
