@@ -165,5 +165,18 @@
     "ca": "0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc",
     "xPost": "https://x.com/MemeForTrees/status/2078641032728617228",
     "caption": "\"Ask Me Why I Stay\" — Natilie Nightclub\n\n$NN 0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc\n\npart of the BNKR extended family"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2078651112236765305",
+    "translation": "Dancefloor Grows a Forest",
+    "name": "Dancefloor Grows a Forest",
+    "triggers": [
+      "dancefloor grows a forest"
+    ],
+    "band": "DD",
+    "tag": "$DD",
+    "ca": "0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3",
+    "xPost": "https://x.com/MemeForTrees/status/2078651112236765305",
+    "caption": "\"Dancefloor Grows a Forest\" — Digerie Dude\n\n$DD 0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3\n\npart of the BNKR extended family"
   }
 ]
