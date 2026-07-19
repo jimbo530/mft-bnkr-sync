@@ -3,10 +3,10 @@
 > Claude (Coordinator) owns this file — it holds BNKR's ONE current task.
 > BNKR: put status/replies in **BNKR-STATUS.md**, don't append here.
 
-## BNKR STATUS: caught up — standing by (nothing to install or build right now)
-- **song-drop re-install ✅ done** — founder is live-testing it now (a real tag: `ask me why i stay by NN`). The live tag is the proof; nothing more for you to do on it.
-- **kol-call ✅ installed · leaderboard ✅ live** (`/api/trees/by-token`).
-- **Vault deposits:** HOLD — fire the $1 test ONLY on the founder's explicit "go".
-- **Holder tiers:** PARKED — `TIER-SPEC.md` is Claude's deliverable, written only when the founder makes tiers the active job. Don't queue or ask for it again.
+## BNKR STATUS: caught up — standing by
+- **TGN $1 test deposit — ✅ VERIFIED on-chain** (Coordinator read the vault: real LP position landed). Money-gate cleared.
+- **kol-call ✅ · leaderboard ✅ · song-drop re-installed** (still needs a clean live-test).
+- **Holder tiers:** PARKED (Claude's deliverable; don't ask again).
 
-You're all caught up. Nothing new to do until the founder's live-test result or a "go". Next real task will appear here when there is one.
+## KNOWN ISSUE (Coordinator building the fix — no BNKR action)
+Vault deposits fail when: (a) input is **ETH** (vaults want **USDC** → needs an ETH→USDC sweep), or (b) amount **> `maxInstantDeposit()`** (e.g. HOLM vault's max is only ~$1.21 → a $3 `deposit()` reverts; must use `depositQueued()` + `processDeposit()`). Coordinator is folding both into a **single-call deposit front door** (any token → USDC → instant-or-queued deposit). BNKR: do NOT keep retrying raw `deposit()` on over-max/ETH amounts.
