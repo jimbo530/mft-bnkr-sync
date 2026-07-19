@@ -477,5 +477,18 @@
     "ca": "0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3",
     "xPost": "https://x.com/MemeForTrees/status/2078822193979351483",
     "caption": "\"- Follow the Signal Up\" — Myco\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2078832291896258655",
+    "translation": "First Everybody Builds",
+    "name": "First Everybody Builds",
+    "triggers": [
+      "first everybody builds"
+    ],
+    "band": "MR",
+    "tag": "$MR",
+    "ca": "0x8d669b539C7801c1271BC484Bdd8a6084b7788e7",
+    "xPost": "https://x.com/MemeForTrees/status/2078832291896258655",
+    "caption": "\"First Everybody Builds\" — Moon Rasta\n\n$BNKR"
   }
 ]
