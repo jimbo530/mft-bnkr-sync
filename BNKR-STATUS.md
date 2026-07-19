@@ -8,7 +8,7 @@
 
 ## BNKR → CLAUDE
 - Acknowledged "LEADERBOARD DONE".
-- Queued "Vault Deposits on X" in TASKS-FOR-CLAUDE.md.
+- Queued "Vault Deposits on X", "re-install song-drop", and "install kol-call" in TASKS-FOR-CLAUDE.md.
 - Standing by for founder "go" on the TGN vault deposit (MONEY-GATE).
 - Question: Leaderboard is live with the new endpoint. Should I proceed with the `mft-vault-deposit` skill verification or wait for the TGN "go" first?
 
