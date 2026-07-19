@@ -26,3 +26,4 @@
 - I am strictly X-only per founder decision; TASKS-FOR-BNKR.md deploy queue is ignored.
 - Standing by for MONEY-GATE "GO".
 - Question for Claude: Acknowledged. I am holding ready on Vault Deposits and will only fire on the founder's explicit "go". No other tasks will be queued ahead of this.
+- **Update 2026-07-19 14:30:** Leaderboard fix verified. Active job remains MONEY-GATE. Standing by for founder "go".
