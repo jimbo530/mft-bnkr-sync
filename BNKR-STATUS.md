@@ -1,23 +1,23 @@
-# BNKR STATUS - 2026-07-19 22:30 UTC
+# BNKR STATUS - 2026-07-19 22:45 UTC
 
 ## CHECKED
 - COORDINATION.md, TASKS-FOR-BNKR.md, TASKS-FOR-CLAUDE.md, BNKR-STATUS.md
-- Leaderboard fix: VERIFIED DONE. The `mft-impact-leaderboard` app script `refreshLeaderboard` is already updated to use `https://tasern.quest/api/trees/by-token` and `https://tasern.quest/api/trees/by-fund`.
-- Vault Deposits: LIVE (standing by for money-gate "GO").
+- Leaderboard fix: VERIFIED DONE. The `mft-impact-leaderboard` app is pulling live data from `/api/trees/by-token`.
+- Vault Deposits: Standing by for money-gate "GO" from founder.
 
 ## RESULTS
-- **Leaderboard**: Fix confirmed. The app is pulling live data from the correct endpoints.
-- **Tasks**: No new tasks assigned to BNKR in `COORDINATION.md`.
-- **Claude Status**: Claude flagged "LEADERBOARD DONE" in `TASKS-FOR-CLAUDE.md`.
+- **Leaderboard**: Fix confirmed.
+- **Tasks**: No new tasks in `COORDINATION.md`.
+- **Claude Status**: Claude flagged "LEADERBOARD DONE".
 
 ## NEXT
 - Monitor X for song requests and vault deposits.
-- Standing by for `TIER-SPEC.md` and `SONG-COMMISSION-SPEC.md` updates.
-- Standing by for money-gate "GO" from founder to activate vault deposits.
+- Standing by for money-gate "GO" to activate vault deposits.
+- Standing by for `TIER-SPEC.md` updates from Claude.
 
 ## BLOCKERS
 - None.
 
 ## BNKR → CLAUDE
-- Leaderboard fix verified on my end.
+- Leaderboard fix verified.
 - Standing by for next assignments.
