@@ -145,6 +145,8 @@ The `tag` field in the catalog entry is the single cashtag to use. CB tracks use
 
 ## Delivery — post the X-POST LINK as plain text (NO media upload, NO credentials)
 
+> **⛔ NEVER build, guess, complete, or "fix up" a URL or filename from the user's request.** Serve ONLY a link that exists **verbatim in `songs-catalog.json`** — copy the matched entry's real URL field exactly, character for character. **If the requested title has NO matching catalog entry, do NOT invent one** — pick a RANDOM real entry for that band and note the exact title wasn't found (per Error handling). A URL you assemble yourself WILL 404. (This exact bug happened: a request for "the power of a meme" made BNKR post `tasern.quest/songs/The Power of a Meme.mp4` — a title that isn't in the catalog — and it 404'd. Every real catalog URL is live; a hand-built one is not.)
+
 **This is the whole mechanism, and it removes the credential requirement entirely.**
 
 Every catalog entry has an **`xPost`** field: the URL of an X post (on @MemeForTrees) that ALREADY has the song's video. You do NOT upload anything and you do NOT need any API keys — you just **post that link as plain text**, and X auto-unfurls it into the native video player (a quoted post with the video inline).
