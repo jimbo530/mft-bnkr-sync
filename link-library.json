@@ -555,5 +555,18 @@
     "ca": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d",
     "xPost": "https://x.com/MemeForTrees/status/2078867487886655535",
     "caption": "\"Plain Language Door\" — Elves of Ballinmoore\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2078877582162845992",
+    "translation": "Tell It and Launch",
+    "name": "Tell It and Launch",
+    "triggers": [
+      "tell it and launch"
+    ],
+    "band": "EBM",
+    "tag": "$EBM",
+    "ca": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d",
+    "xPost": "https://x.com/MemeForTrees/status/2078877582162845992",
+    "caption": "\"Tell It and Launch\" — Elves of Ballinmoore\n\n$BNKR"
   }
 ]
