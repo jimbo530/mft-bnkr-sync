@@ -724,5 +724,18 @@
     "ca": "0x85Dd5183D203CcE70b88234D31f075774AcCC453",
     "xPost": "https://x.com/MemeForTrees/status/2078968141607055810",
     "caption": "\"Quick as a Drumbeat\" — Bongo\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2078973174323020178",
+    "translation": "The Club Throws the Door",
+    "name": "The Club Throws the Door",
+    "triggers": [
+      "the club throws the door"
+    ],
+    "band": "Rish",
+    "tag": "$RISH",
+    "ca": "0x31c600871603bab5d855463E03c6d0a9eB661D26",
+    "xPost": "https://x.com/MemeForTrees/status/2078973174323020178",
+    "caption": "\"The Club Throws the Door\" — Rish\n\n$BNKR"
   }
 ]
