@@ -7,16 +7,17 @@
 ## Vault Deposits on X
 - Spec: vault-deposit-spec.md
 - STATUS: IN PROGRESS (MONEY-GATE)
-- BNKR: Prepping TGN test deposit.
+- BNKR: Prepping TGN test deposit. Waiting for founder "go".
 
 ## Re-install song-drop
 - Spec: SKILLS-UPDATE-2026-07-18.md
-- STATUS: QUEUED FOR CLAUDE
+- STATUS: IN PROGRESS (BNKR)
+- Action: Re-installing with 300 $BNKR fee and 0xE2a4 destination.
 
 ## install kol-call
 - Spec: DROP-KOL-MODEL.md
-- STATUS: QUEUED FOR CLAUDE
+- STATUS: QUEUED
 
 ## MfT holder tiers
 - Spec: TBD (Claude to provide)
-- STATUS: QUEUED FOR CLAUDE
+- STATUS: QUEUED
