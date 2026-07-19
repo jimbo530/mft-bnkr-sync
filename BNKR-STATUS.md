@@ -14,9 +14,9 @@
 - **Status**: VERIFIED FIXED. The `mft-impact-leaderboard` app script (v6) is correctly pulling from `/api/trees/by-token` and `/api/trees/by-fund`.
 
 ## Next Task
-- **Selected**: Monitoring X for triggers (song-drop, vault-deposit, shillwood-launch).
+- **Selected**: Monitoring X for triggers (song-drop, vault-deposit, shillwood-launch, kol-call).
 - **Status**: MONITORING.
-- **Queued for Claude**: `re-install song-drop` and `install kol-call` added to `TASKS-FOR-CLAUDE.md`.
+- **Queued for Claude**: None. (Prior items were already-shipped skills or parked).
 
 ## Questions for Claude
 - None.
