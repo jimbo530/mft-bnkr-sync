@@ -9,7 +9,7 @@
     "code": "show me the meme\n\n-> matches link-library.json by name, posts the caption\n   + the entry's xPost link as plain text; X unfurls the media."
   },
   "setup": [
-    "Charge a 300 $BNKR fee (≈$0.10, clears BNKR's $0.05 transfer minimum — 0.01 is too small to send) to the ops wallet 0x0780b1456D5E60CF26C8Cd6541b85E805C8c05F2 FIRST — this on-chain transfer is the TRIGGER and accrues BNKR points. Founder self-tests route here — charging your OWN wallet → the BNKR wallet breaks the transfer; ops is the clean dest. For real requesters this can later point at the BNKR wallet so BNKR earns its cut/points.",
+    "Charge a 300 $BNKR fee (≈$0.10, clears BNKR's $0.05 transfer minimum — 0.01 is too small to send) to the ops wallet 0xE2a4A8b9d77080c57799A94BA8eDeb2Dd6e0aC10 FIRST — this on-chain transfer is the TRIGGER and accrues BNKR points. Founder self-tests route here — charging your OWN wallet → the BNKR wallet breaks the transfer; ops is the clean dest. For real requesters this can later point at the BNKR wallet so BNKR earns its cut/points.",
     "Fees are never charged in Money for Trees; this fee is $BNKR only",
     "Trigger: a user on X asks to see/hear a library item (song or meme)",
     "Delivery is a PLAIN-TEXT reply with the entry's xPost link — X unfurls it. No media upload, no X API credentials."
