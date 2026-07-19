@@ -690,7 +690,7 @@ Live reads via `verify/verify-all-gaps.cjs` + `verify/verify-g7-fryer.cjs`. Base
 | G2 FTP leg-3 recipients | ✅ CLOSED | 4 → `0x3dB6…0458` (Burgers reactor), `0xD3B0…123F`, `0x7562…bbf3` (peg vault), `0x261F…9BB1` (Burgers vault) |
 | G3 GST leg-3 recipients | ✅ CLOSED | `recipients(i)` reverts → **whitelist empty** (matches "leg empty") |
 | G4 RH PRIME coreToken | ✅ CLOSED | `coreToken() = 0x6ae5766…7608` = **MfT twin on RH** (the prime's burn target) |
-| G5 Base prime internal split | 🔴 OPEN | `coreToken`/`burnToken` revert (no view); prime confirmed LIVE + burns via doctrine — exact % needs deployed source |
+| G5 Base prime internal split | ✅ CLOSED | Source `PrivateReactor.sol` (ctor `_token`=MfT). `processPool()`: **core MfT fees → burned to impact-registry `0xfd780B0a`** (holds **26.8M MfT**); **paired xToken → 50% buyback MfT + 50% kept, both added as LP** (deepen); dust burned. Permissionless `execute()`, 2h cooldown, 20-pool cap. |
 | G6 BONGO/DGT sealed admin | ✅ CLOSED | both `admin() = 0x0` (sealed) |
 | G7 Polygon bridge hatch | ✅ CLOSED | `escapeHatchRenounced() = true` (trustless, shipped) |
 | G8 GOLD prize pool funding | 🟡 OPEN | mechanism/design (game economy) — no single read; peripheral to fee flow |
@@ -702,7 +702,7 @@ Live reads via `verify/verify-all-gaps.cjs` + `verify/verify-g7-fryer.cjs`. Base
 | G14 RH FRYER coreToken | ✅ CLOSED | **FRYER `= 0xe15c7F62…0145`** (grounded from reactor); dead-balance 0 (reactor idle, no harvest fired) |
 | G15 community vault LPs | ✅ CLOSED | EBM-V LP `0x7B05…04Dd`, RISH-V `0x87E3…E408`, BONGO-V `0xEdA3…056D`, DGT-V `0x3E2F…5692` |
 
-**12/15 closed on-chain.** Remaining 3: **G5** (needs the deployed prime source — the prime itself is verified live + burning), **G8 + G10** (game-economy mechanism questions, not the fee flow). **None touch the core tree-funding flow, which is fully verified in `FEE-FLOW-LAUNCHER.md §6`.**
+**13/15 closed on-chain** (G5 read from `PrivateReactor.sol` source). Remaining 2: **G8 + G10** — GOLD prize-pool funding + MayorVault inflow = **game-economy mechanisms, NOT the fee path.** The fee path itself is fully verified end-to-end. Burn destinations, grounded: **Base reactors burn to the impact registry `0xfd780B0a`** (= "our registry"); **RH reactors burn to `0xdEaD`** (the registry contract doesn't exist on RH).
 
 ---
 

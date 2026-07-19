@@ -50,7 +50,7 @@ The USDC minted into Money sits in Aave; the **yield** funds trees — the exact
 **3.3 Flywheel.** More tokens plug in → more Money demand + more network cut → MfT floor deepens → the core strengthens → more tokens want the strengthening core.
 
 **3.4 Meme burn — DEFLATIONARY (grounded).** The Money the flow makes lands in the **Money-paired LP**, which sits inside a **reactor**. The reactor harvests that LP's fees and **burns the meme (MfT) to `0xdEaD`**, compounding the Money side back in. So the fee flow doesn't just build MfT's floor — it permanently **shrinks MfT supply**. Floor up + supply down = the two-sided squeeze on the core.
-*(grounded: `FEE-FLOW-MAP.md §3` — ReactorPrimeV3 + band reactors burn the meme side to `0xdEaD`, send 10% upstream, compound the paired side.)*
+*(grounded from source 2026-07-19 — the two reactor architectures differ: **Base prime (`PrivateReactor.sol`)** burns MfT fees to the **impact registry `0xfd780B0a`** (= "our registry", holds **26.8M MfT**) + turns paired fees into **50% buyback + 50% LP-deepen** (not buy-and-burn); **RH reactors (`V4ReactorSuite.sol`)** do the true **double-burn to `0xdEaD`** — burn fees + 45% buy-and-burn + 45% compound + 10% upstream. Both scale with fees → market cap.)*
 **Launcher network-fee split — grounded reality (verified from source this tick):**
 - **`SongRevenueSplitter`** (booth): 50% → deepen Money/token LP (held → locked at ship) · 50% → Money → **ops wallet**. **No burn** (contract line 9).
 - **Reactor** (`FEE-FLOW-MAP §3`) — **DOUBLE BURN of the meme**, both fee-driven so **both scale with market cap** (bigger MC → more fees → bigger burns):
@@ -86,7 +86,7 @@ Reproduce: `NODE_PATH=…/mftusd-build/node_modules node verify/verify-fee-flow-
 | **Money 1:1 backing** | `totalBacking()` vs `totalSupply()` | **1,575,075,634 ≥ 1,574,876,327** | ✅ fully USDC-backed |
 | **Yield cross-check** | backing − supply = **$0.199** | == tracker `pendingYield` **$0.19** | ✅✅ **chain == tracker** |
 | Reactor (Base) | `admin` / `paused` | `0xE2a4…` / `false` | ✅ live |
-| **Meme burn (MfT)** | `balanceOf(0xdEaD)` | **4,026,327 MfT** at dead | ✅ real burns |
+| **Meme burn (MfT)** | `0xdEaD` + prime registry `0xfd780B0a` | **4.0M** at `0xdEaD` + **26.8M** at the impact registry = **~30.8M MfT** | ✅ real burns |
 | **Seed LP lock** | BNKR/Money V2 LP `balanceOf(0xdEaD)` | **77.6%** of LP supply (`820.3T / 1057.2T`) | ✅ floor locked forever |
 | RH FTP / GST | `memeReactor` / ops·trees wallet | `0xd511…` / `0x0780…` | ✅ live, routed |
 | RH reactor | `admin` / `paused` / `poolCount` | `0xE2a4…` / `false` / `1` | ✅ live |
