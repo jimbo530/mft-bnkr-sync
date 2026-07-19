@@ -516,5 +516,18 @@
     "ca": "0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc",
     "xPost": "https://x.com/MemeForTrees/status/2078847389117432209",
     "caption": "\"Just Ask Darling\" — Natilie Nightclub\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2078852447284465803",
+    "translation": "One More Round On the Chain",
+    "name": "One More Round On the Chain",
+    "triggers": [
+      "one more round on the chain"
+    ],
+    "band": "DGT",
+    "tag": "$DGT",
+    "ca": "0x52414B7cD2FA723E1c8f9295EB29F16d15aA7BB9",
+    "xPost": "https://x.com/MemeForTrees/status/2078852447284465803",
+    "caption": "\"One More Round On the Chain\" — Damned Good Time Orchestra\n\n$BNKR"
   }
 ]
