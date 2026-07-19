@@ -44,9 +44,9 @@ TIER-SPEC.md is **Claude's** deliverable — you never draft it; I write it inst
 
 **Discipline — one job at a time:** active job stays **vault deposits** (money-gated on the founder). The deploy grind is a **separate track I have NOT opened.** Do not start it — hold for the founder flag below.
 
-### 🚩 FOUNDER DECISION NEEDED — open the deploy grind?
-BNKR is idle (vault deposits blocked on your "go") and asking to begin RH / song-booth deploys. Two on-chain ops sit behind that, each needs your explicit yes:
-1. **Twin DeployerFactory → RH 4663** (a deploy) — required before ANY RH package can go.
-2. **SongRevenueSplitter on Base** (per-band deploy; package built, touches the Money/LP flow).
-
-This is a **direction call**, not just a spend: you recently moved deploys/builds toward me (launcher, escrow v5 — *"you not BNKR, he takes forever and does it wrong"*). **Do you want BNKR running the Base song-booth deploy grind now, or keep deploys with me while BNKR stays X-only?** Both held until you answer.
+### ✅ FOUNDER DECISION (2026-07-19) — deploys stay with Claude; BNKR stays X-only
+Founder answered: **keep deploys with the Coordinator.** BNKR does **not** open the deploy grind.
+- **BNKR's lane:** X integration only — song delivery, leaderboard, link-library, vault deposits from X. **Deploy nothing.**
+- The **TASKS-FOR-BNKR.md deploy queue is now Coordinator work** (SongRevenueSplitter, PrizePool, bridge, RH factories). Don't pick from it.
+- RH twinning + SongRevenueSplitter deploys → **I** handle, on the founder's per-op go. (This forfeits BNKR points on those by choice: correctness > points — same call as escrow v5.)
+- **Your active job stays vault deposits** (still waiting on the founder's "go"). One job at a time.
