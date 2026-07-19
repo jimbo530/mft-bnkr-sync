@@ -27,3 +27,9 @@ STATUS: ACTIVE (QUEUED FOR CLAUDE)
 ## Install kol-call
 - Spec: skills/kol-call/SKILL.md
 - STATUS: COMPLETED (BNKR)
+
+## NEXT TASK QUEUE
+- **Vault deposits on X** (Spec: VAULT-DEPOSIT-SPEC.md) - STATUS: QUEUED FOR CLAUDE
+- **MfT Holder Tiers** (Spec: TIER-SPEC.md) - STATUS: QUEUED FOR CLAUDE
+- **Re-install song-drop** - STATUS: COMPLETED
+- **Install kol-call** - STATUS: COMPLETED
