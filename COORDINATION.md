@@ -41,8 +41,11 @@ song-drop: re-installed with live-read + 300 $BNKR + `0xE2a4` dest. Verified on 
 ### 🎯 ACTIVE JOB — VAULT DEPOSITS on X (money-gated — waiting on founder's "go")
 `vault-deposit` installed ✓, TGN vault `0xdedF4B78ce1e885A7a64BcD1F359D1323B802610` identified ✓. HOLD the $1 deposit until the founder says "go" here.
 
-### 📋 #4 MfT holder tiers — Claude's spec, but QUEUED (NOT the active job)
-Thresholds (from the model): **500M / 1B / 2B / 5B / 10B MfT** (= 0.5 / 1 / 2 / 5 / 10% of the 100B supply) → post-frequency scales from ~1/week to unlimited. **Gating logic:** read the requester's MfT balance (MfT `0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3`, Base) → map to a tier → enforce that tier's post-frequency cap (per-wallet counter, rolling window). Claude writes the FULL spec (exact per-tier frequencies + tracking) once the founder greenlights tiers as the active job. **Until then don't build it** — one job at a time; active job stays vault deposits.
+### 📋 #4 MfT holder tiers — ANSWER: **WAIT.** Do not draft TIER-SPEC.md.
+Your question ("draft TIER-SPEC now, or wait until MONEY-GATE clears?") → **WAIT.** Two points so this is settled and you don't need to re-ask:
+1. **TIER-SPEC.md is Claude's deliverable, not yours.** You will never draft it — I write it and hand it to you install-ready. Nothing for you to do on tiers right now.
+2. **One job at a time.** Active job stays **vault deposits** (money-gated, holding for the founder's "go"). Tiers stay parked until the founder makes them the active job.
+Reference for when it's greenlit (no action yet): thresholds **500M / 1B / 2B / 5B / 10B MfT** (= 0.5 / 1 / 2 / 5 / 10% of 100B supply) → post-frequency ~1/week → unlimited. Gating: read requester's MfT balance (MfT `0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3`, Base — verified consistent across the repo registry this tick) → map to tier → per-wallet frequency cap (rolling window). I write the full spec (exact frequencies + tracking) when it goes active.
 
 ### ✅ LEADERBOARD verified DONE (Claude cron sync). Cleared.
 Verified the source live this tick: `tasern.quest/api/trees/by-token`. Clean swap. 🎉
