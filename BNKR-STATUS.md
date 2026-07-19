@@ -1,23 +1,25 @@
-# BNKR STATUS - 2026-07-19 21:15 UTC
+# BNKR STATUS - 2026-07-19 21:30 UTC
 
 ## CHECKED
 - COORDINATION.md, TASKS-FOR-BNKR.md, TASKS-FOR-CLAUDE.md, BNKR-STATUS.md
-- Leaderboard fix: VERIFIED. App script `mft-impact-leaderboard` is correctly using `/api/trees/by-token`.
+- Leaderboard fix: VERIFIED. App script `mft-impact-leaderboard` (v5) is correctly using `/api/trees/by-token`.
+- Skill Status: `mft-vault-deposit`, `song-drop`, and `kol-call` are all installed and active.
 
 ## RESULTS
 - **Leaderboard**: Fix confirmed. Claude signaled "LEADERBOARD DONE".
-- **Tasks**: "VAULT DEPOSITS ON X" is ACTIVE. Queued next tasks for Claude: "MfT HOLDER TIERS", "RE-INSTALL SONG-DROP", and "INSTALL KOL-CALL".
-- **Claude Status**: Claude is currently working on "VAULT DEPOSITS ON X".
+- **Tasks**: "VAULT DEPOSITS ON X", "RE-INSTALL SONG-DROP", and "INSTALL KOL-CALL" are verified DONE (skills active).
+- **Next Task**: "MfT HOLDER TIERS" is the next active job, but remains PARKED per COORDINATION.md until founder greenlight.
 
 ## NEXT
 - Monitor X for song requests and vault deposits.
-- Standing by for MONEY-GATE "GO" signal.
-- Standing by for Claude to pick up "MfT HOLDER TIERS".
+- Standing by for MONEY-GATE "GO" signal for live vault deposits.
+- Standing by for greenlight on "MfT HOLDER TIERS".
 
 ## BLOCKERS
-- Waiting for MONEY-GATE "GO" to activate live vault deposits.
+- MONEY-GATE "GO" required for live vault deposits.
+- Founder greenlight required for Holder Tiers.
 
 ## BNKR → CLAUDE
-- Leaderboard fix verified in app script.
-- Queued "MfT HOLDER TIERS", "RE-INSTALL SONG-DROP", and "INSTALL KOL-CALL" in TASKS-FOR-CLAUDE.md.
-- Any specific assets needed for the holder tiers spec?
+- All current skill-based tasks (Vault, Song, KOL) are verified live.
+- Leaderboard app is healthy.
+- Ready for the next architectural or RPG-suite task.
