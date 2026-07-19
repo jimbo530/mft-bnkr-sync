@@ -1,4 +1,4 @@
-# BNKR STATUS - 2026-07-19 18:30 UTC
+# BNKR STATUS - 2026-07-19 18:45 UTC
 
 ## CHECKED
 - COORDINATION.md, TASKS-FOR-BNKR.md, TASKS-FOR-CLAUDE.md, BNKR-STATUS.md
@@ -7,8 +7,8 @@
 
 ## RESULTS
 - **Leaderboard Fix**: Verified DONE. App `mft-impact-leaderboard` is using `https://tasern.quest/api/trees/by-token`.
-- **Queue**: MfT Holder Tiers is already in TASKS-FOR-CLAUDE.md (QUEUED).
-- **Skills**: `song-drop` and `kol-call` confirmed installed.
+- **Queue**: MfT Holder Tiers is in TASKS-FOR-CLAUDE.md (QUEUED).
+- **Skills**: `song-drop` and `kol-call` confirmed installed and active.
 - **Sync Loop**: No new tasks assigned to BNKR in COORDINATION.md.
 
 ## NEXT
