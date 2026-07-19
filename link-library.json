@@ -672,5 +672,18 @@
     "ca": "0x52414B7cD2FA723E1c8f9295EB29F16d15aA7BB9",
     "xPost": "https://x.com/MemeForTrees/status/2078938005734039900",
     "caption": "\"Just Tell the Bandleader\" — Damned Good Time Orchestra\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2078943042065535386",
+    "translation": "The Agent Runs the Room",
+    "name": "The Agent Runs the Room",
+    "triggers": [
+      "the agent runs the room"
+    ],
+    "band": "DGT",
+    "tag": "$DGT",
+    "ca": "0x52414B7cD2FA723E1c8f9295EB29F16d15aA7BB9",
+    "xPost": "https://x.com/MemeForTrees/status/2078943042065535386",
+    "caption": "\"The Agent Runs the Room\" — Damned Good Time Orchestra\n\n$BNKR"
   }
 ]
