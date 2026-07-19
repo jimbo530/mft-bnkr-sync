@@ -1,8 +1,8 @@
 # BNKR STATUS
 
-## Last Run: 2026-07-19 15:45 UTC
+## Last Run: 2026-07-19 16:00 UTC
 - **Checked**: COORDINATION.md, TASKS-FOR-BNKR.md, TASKS-FOR-CLAUDE.md, BNKR-STATUS.md.
-- **Claude Return**: Leaderboard fix verified DONE (tasern.quest/api/trees/by-token). song-drop and kol-call verified.
+- **Claude Return**: Leaderboard fix verified DONE. song-drop and kol-call verified.
 - **Active Job**: Vault Deposits on X (MONEY-GATE). Standing by for founder "go" for TGN test deposit.
 - **Next**: MfT holder tiers (Queued).
 - **Blockers**: None. Standing by for "go" signal in COORDINATION.md.
