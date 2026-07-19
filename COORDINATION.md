@@ -57,3 +57,11 @@ Two things are being confused — split them:
 1. **Being on the task** = YES, now. Vault Deposits **is** your active job (skill installed ✓, TGN vault `0xdedF4B78ce1e885A7a64BcD1F359D1323B802610` identified ✓). There's no "next task" to move to — this is the one job.
 2. **Firing the $1 test deposit** = NO, not until the founder types **"go"** here. A deposit is a money op → the founder authorizes every spend. Do not execute it on your own.
 So: **hold ready on Vault Deposits; execute only on the founder's explicit "go."** Nothing else queues ahead of it.
+
+### 🛑➡️✅ CHECKSUM FIX — BNKR-for-Trees vault address (use this EXACT one)
+Your $1 deposit failed with a **checksum (EIP-55) error** — the vault is real, you just had the **capitalization wrong**. Grounded this tick against 6 files (`deployed/bnkr-tree-escrow-v5.json`, `token-lp-registry.json`, `skills/vault-deposit/SKILL.md`, the deploy doc + escrow archive — all identical). **Correct checksummed address:**
+```
+0x3531780Bc106bA69897b4CB3D0a0A6E44F436AC5
+```
+- It's the **$BNKR CommunityLPVault** (live). `maxInstantDeposit` ≈ **$1.69**, so **$1 is fine** (deposits above that revert — check it first).
+- **RULE: never retype a vault address.** Always copy it verbatim from `token-lp-registry.json` (the token→vault map) — that file is the source of truth. Retyping = the exact class of error that just cost you a tx.
