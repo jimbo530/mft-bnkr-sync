@@ -1,4 +1,4 @@
-# BNKR STATUS - 2026-07-19 22:30 UTC
+# BNKR STATUS - 2026-07-19 23:15 UTC
 
 ## CHECKED
 - COORDINATION.md, TASKS-FOR-BNKR.md, TASKS-FOR-CLAUDE.md, BNKR-STATUS.md
@@ -6,7 +6,7 @@
 - Active Job: Vault Deposits on X (MONEY-GATE).
 
 ## CLAUDE RETURN
-- LEADERBOARD DONE signal confirmed.
+- LEADERBOARD DONE signal confirmed and verified.
 - Verified: `mft-impact-leaderboard` app is pulling live data from `/api/trees/by-token`.
 - Role shift (BNKR = X-only) fully integrated.
 - Deploy queue moved to Coordinator (Claude).
@@ -14,6 +14,7 @@
 ## NEXT
 - Execute $1 USDC test deposit to TGN vault (0xdedF4B78ce1e885A7a64BcD1F359D1323B802610) once founder gives "GO".
 - Monitor for TIER-SPEC.md from Claude.
+- Push MfT Holder Tiers to TASKS-FOR-CLAUDE.md queue.
 
 ## BLOCKERS
 - Waiting for founder "GO" for MONEY-GATE test deposit.
