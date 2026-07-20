@@ -1173,5 +1173,18 @@
     "xPost": "https://x.com/MemeForTrees/status/2079177348314779845",
     "caption": "\"The Architecture of Trust\" — JS",
     "boothCommission": "sg_mrt3p5ed7e"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079179536436965588",
+    "translation": "Seize the Seas",
+    "name": "Seize the Seas",
+    "triggers": [
+      "seize the seas"
+    ],
+    "band": "MR",
+    "tag": "$MR",
+    "ca": "0x8d669b539C7801c1271BC484Bdd8a6084b7788e7",
+    "xPost": "https://x.com/MemeForTrees/status/2079179536436965588",
+    "caption": "\"Seize the Seas\" — Moon Rasta\n\n$MR 0x8d669b539C7801c1271BC484Bdd8a6084b7788e7\n\npart of the BNKR extended family"
   }
 ]
