@@ -41,6 +41,23 @@ HIGH deliberately**, so:
 4. Travel encounters + price boards in the DM prompt ("the merchant mentions prices
    are better across the pass...").
 
+## 6. THE NORTH STAR (founder 2026-07-20) — ALL of Seas, played by text on X
+The text RPG is the X-interface to the whole Seize the Seas world. Port every Seas
+mechanic into play-by-text as it becomes practical:
+- **WORK JOBS assigned from X** — "work for the mayor": guard shifts, attest-keeper
+  duties, wage-water jobs; jobs pay coin/water exactly like Seas (mayor-job → gold
+  prizes is the proven crank; the achievement ladders + prize pools already exist).
+- Rations/everyone-eats, hiring halls, boats + crafting lines, location pools,
+  caravans/travel bands, town/ship tokens — same systems, text-first surface.
+- The crew NFTs are the SHARED cast: they play the RPG on X and crew ships in Seas.
+Build order stays: story playtest first, then jobs (mayor work), then the rest.
+
+## THE TAVERN DRINK (founder 2026-07-20)
+100 GOLD in-run (coin sink, at a tavern in-story only) or 1 USDC via the game booth
+(band 2 "DRINK" on 0xb6733F8E...) — either way the drink MAKES WATER queued for the
+buyer's character NFT (water-credits queue on the commission API; the converter rail
+delivers it). Drinks are the love-your-character button.
+
 ## Hard rules carried over
 - No free-income mechanisms: every item/coin source is another player's spend or
   the till's recycle leg.
