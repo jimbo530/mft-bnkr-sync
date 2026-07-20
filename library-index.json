@@ -795,5 +795,13 @@
    "hoodies keep me warm"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2079210547178836131"
+ },
+ {
+  "band": "Bongo",
+  "name": "The Bridge That Folds",
+  "triggers": [
+   "the bridge that folds"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079211282461315360"
  }
 ]

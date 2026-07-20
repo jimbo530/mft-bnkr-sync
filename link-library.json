@@ -1294,5 +1294,19 @@
     "xPost": "https://x.com/MemeForTrees/status/2079210547178836131",
     "caption": "\"Hoodies Keep Me Warm\" — NN",
     "boothCommission": "sg_mrtayfdqcl"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079211282461315360",
+    "translation": "The Bridge That Folds",
+    "name": "The Bridge That Folds",
+    "triggers": [
+      "the bridge that folds"
+    ],
+    "band": "Bongo",
+    "tag": "",
+    "ca": "",
+    "xPost": "https://x.com/MemeForTrees/status/2079211282461315360",
+    "caption": "\"The Bridge That Folds\" — Bongo",
+    "boothCommission": "sg_mrtb3aryl9"
   }
 ]
