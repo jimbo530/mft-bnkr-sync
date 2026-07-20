@@ -962,5 +962,13 @@
    "warm",
    "people"
   ]
+ },
+ {
+  "band": "Bongo",
+  "name": "1,312 Jpegs",
+  "triggers": [
+   "1,312 jpegs"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079224666451808414"
  }
 ]
