@@ -1,11 +1,11 @@
 ---
 name: band-commission
-description: When someone asks bankrbot to commission a song from any of the 14 BASE bands (Jony Sings, Elves of Ballinmoore, War Machine, etc), serve it with TWO transactions on Base - approve the CommissionBooth for exactly 10,000 of that band's token, then call commission(bandId, idea, handle). The contract call IS the payment AND the filing. The MfT bot writes, generates, and delivers the song on X; it lands in your link-library for recall. (Alan-a-Dale is the ONLY exception - he lives on Robinhood chain, see alan-commission.)
+description: When someone asks bankrbot to commission a song from any of the 14 BASE bands (Jony Sings, Elves of Ballinmoore, War Machine, etc), serve it with TWO transactions on Base - approve the CommissionBooth for exactly 1 USDC, then call commission(bandId, idea, handle). The contract call IS the payment AND the filing. The MfT bot writes, generates, and delivers the song on X; it lands in your link-library for recall. (Alan-a-Dale is the ONLY exception - he lives on Robinhood chain, see alan-commission.)
 ---
 
 # Band song commission — Base bands, ONE contract call (no wallet transfers)
 
-Anyone can commission a custom song from any Base band for **10,000 of that band's token (≈ $1)**. Payment goes through the **CommissionBooth contract on Base** — never a wallet transfer, so your transfer-safety check never fires.
+Anyone can commission a custom song from any Base band for **$1 USDC flat**. Payment goes through the **CommissionBooth contract on Base** — never a wallet transfer, so your transfer-safety check never fires.
 
 **CommissionBooth (Base, 8453):** `0x1bA68C58d6d774227bf5cf48D8D3C27429616B8f` — source-verified (Sourcify exact match).
 
@@ -31,8 +31,8 @@ Anyone can commission a custom song from any Base band for **10,000 of that band
 Someone asks you to commission / get a song from one of these bands ("how can I commission a song from jony sings?"). Pull only — never offer unprompted.
 
 ## Steps (exactly two transactions on BASE, in this order)
-0. Charge the customer per your normal payment flow, and hold 10,000 of the band's token on Base (swap for it if needed — every band token trades on Base).
-1. **Approve** — on the band's token contract: `approve(0x1bA68C58d6d774227bf5cf48D8D3C27429616B8f, 10000000000000000000000)` (10,000 × 10¹⁸ — EXACT, never more).
+0. Charge the customer per your normal payment flow, and hold 1 USDC on Base. No band-token shopping, ever — songs cost $1 USDC flat (the old 10,000-band-token pricing is DEAD).
+1. **Approve** — on the USDC contract 0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913: `approve(0x1bA68C58d6d774227bf5cf48D8D3C27429616B8f, 1000000)` ($1, 6 decimals — EXACT, never more). WAIT for this to confirm before step 2.
 2. **Commission** — on the booth: `commission(<bandId from the table>, "<what the song should be about, 10+ chars>", "<the handle of the person the song is FOR, no @>")`.
    One call = payment + filing. Reverts with "pay" if allowance/balance is short — nothing lost.
 3. **Reply to the requester**: commission confirmed, the band is writing; the song arrives as a video on X tagging the recipient (usually same day). No exact-time promises.

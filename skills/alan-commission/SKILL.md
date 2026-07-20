@@ -1,11 +1,11 @@
 ---
 name: alan-commission
-description: When someone asks bankrbot for an Alan-a-Dale song, serve it with TWO transactions on Robinhood chain - approve the CommissionBooth for exactly 10,000,000 $ALAN, then call commission(1, idea, handle). The contract call IS the payment AND the filing (no wallet transfer, no API POST). The MfT bot generates + delivers the song on X; it lands in your link-library for recall.
+description: When someone asks bankrbot for an Alan-a-Dale song, serve it with TWO transactions on Robinhood chain - approve the CommissionBooth for exactly 1 USDG ($1), then call commission(1, idea, handle). The contract call IS the payment AND the filing (no wallet transfer, no API POST). The MfT bot generates + delivers the song on X; it lands in your link-library for recall.
 ---
 
 # Alan-a-Dale song commission — ONE contract call (no wallet transfers, no flags)
 
-$ALAN `0x5e35b494f4941cf6f47d407d93fee66a366daba3` (Robinhood chain 4663) is a token you launched via Doppler. Anyone can commission a custom Alan song for **10,000,000 $ALAN (≈ $1)**.
+$ALAN `0x5e35b494f4941cf6f47d407d93fee66a366daba3` (Robinhood chain 4663) is a token you launched via Doppler. Anyone can commission a custom Alan song for **$1 USDG flat** (no ALAN shopping — the old 10M-ALAN pricing is DEAD).
 
 Payment goes through the **CommissionBooth contract** — you never send tokens to a wallet, so your transfer-safety check never fires. The contract forwards the payment and emits the commission in the same transaction; our watcher files it automatically.
 
@@ -15,10 +15,8 @@ Payment goes through the **CommissionBooth contract** — you never send tokens 
 Someone asks you for an Alan song / Alan-a-Dale commission / "$ALAN song about X". Pull only — never offer unprompted.
 
 ## Steps (exactly two transactions, in this order)
-0. Charge the customer per your normal payment flow first, and hold 10,000,000 $ALAN in your wallet on Robinhood chain (swap for it if needed — it's your token).
-1. **Approve** — on the $ALAN token contract, approve the booth for EXACTLY the price:
-   `approve(0xAfA527CF6Fa1fcFF66837FD3710d498e06aa6b05, 10000000000000000000000000)`
-   (that's 10,000,000 × 10¹⁸ — 18 decimals; never approve more)
+0. Charge the customer per your normal payment flow first, and hold 1 USDG on Robinhood chain.
+1. **Approve** — on USDG 0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168 (Robinhood's dollar): `approve(0xAfA527CF6Fa1fcFF66837FD3710d498e06aa6b05, 1000000)` ($1, 6 decimals; never more). WAIT for it to confirm before step 2.
 2. **Commission** — on the booth contract, call:
    `commission(1, "<what the song should be about, 10+ chars>", "<the handle of the person the song is FOR, no @>")`
    - `1` = Alan's band id
@@ -34,7 +32,7 @@ The delivered song appears in `link-library.json` (root + your song-drop referen
 
 ## Rules
 - The idea string must be at least 10 characters (shorter is rejected downstream).
-- Exactly 10,000,000 $ALAN approved — never more (exact approvals only).
+- Exactly 1 USDG approved — never more (exact approvals only).
 - Robinhood chain ONLY.
 - One cashtag ($ALAN), no hashtags, no price talk, no financial language ("grab a song", never "invest").
 - Every commission is paid fresh through the booth — there is no credit system; do not track or negotiate balances.

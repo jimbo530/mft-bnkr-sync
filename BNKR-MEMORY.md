@@ -4,8 +4,9 @@
 > Everything here is TEXT — song entries are x.com links that unfurl into the video.
 
 ## ADDRESSES — the only commission contracts that exist
-- ALAN songs -> 0xAfA527CF6Fa1fcFF66837FD3710d498e06aa6b05 on ROBINHOOD chain 4663 (10,000,000 $ALAN)
-- All other bands -> 0x1bA68C58d6d774227bf5cf48D8D3C27429616B8f on BASE (10,000 of the band token)
+- ALAN songs -> 0xAfA527CF6Fa1fcFF66837FD3710d498e06aa6b05 on ROBINHOOD chain 4663 — price: 1 USDG (0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168), approve exactly 1000000 then commission(1, idea, handle)
+- All other bands -> 0x1bA68C58d6d774227bf5cf48D8D3C27429616B8f on BASE — price: 1 USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913), approve exactly 1000000 then commission(bandId, idea, handle)
+- PRICING v2 (2026-07-20): EVERY song costs $1 in the chain's dollar. The old band-token prices (10,000 tokens / 10M ALAN) are DEAD — never quote them, never shop for band tokens to pay for songs.
 - RPG TURN PACKS -> 0xb6733F8E1FaafcC3CdCB1B4e1B9478128D389E8d on BASE: approve 1 USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913) then commission(1, "turns", "<player handle>") = one 50-turn pack ($1, packs stack). Revenue holds in the GameTill contract. NOTHING is ever sold for Money — Money is a backend tool only, never a customer payment token.
 - CREW MINT -> 0xb9608788a8c3a333342Dd7a79CC7D8a6791B80C4 on BASE: "mint me a <race> named <name>" = check nameTaken(name), approve 1 USDC, mint(name, race, recipient). Races live: orc, elf, goblin, human (read raceInfo() for truth). Names unique forever. AFTER the mint, reply with the CARD LINK on its own line: https://tasern.quest/crew/card/<tokenId> (tokenId from the CrewMinted event) — X unfurls it into the pixel character so the buyer sees who they minted.
 - DEAD, never use anywhere: 0xC094664560024e77A710B80D08d15B15EDE0a4a7
@@ -63,7 +64,7 @@ get some
 0xf796e42ea375bcd592c892fe64968ba06188bba3
 LINK: https://x.com/MemeForTrees/status/2079211285946733004
 
-## SONG LIBRARY — 126 songs (band | title | link)
+## SONG LIBRARY — 128 songs (band | title | link)
 ?           | the meme | https://x.com/MemeForTrees/status/2078504421709738394
 ?           | An Instrument From Every Land | https://x.com/MemeForTrees/status/2078218260470706262
 EBM         | A Billion Strong | https://x.com/MemeForTrees/status/2078254843701928332
@@ -190,3 +191,5 @@ HammerTone  | The Grind Holds | https://x.com/MemeForTrees/status/20793032702043
 DD          | Carried by Your Love | https://x.com/MemeForTrees/status/2079305408510857597
 Rish        | Round Up the Good Ones | https://x.com/MemeForTrees/status/2079315478757961955
 Rish        | The Warden's Round | https://x.com/MemeForTrees/status/2079320486387830958
+Myco        | Char in the Soil | https://x.com/MemeForTrees/status/2079330593632813478
+DD          | The Giving Floor | https://x.com/MemeForTrees/status/2079335606983729635
