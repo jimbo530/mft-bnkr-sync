@@ -33,9 +33,11 @@ Someone asks you to commission / get a song from one of these bands ("how can I 
 ## Steps (exactly two transactions on BASE, in this order)
 0. Charge the customer per your normal payment flow, and hold 10,000 of the band's token on Base (swap for it if needed — every band token trades on Base).
 1. **Approve** — on the band's token contract: `approve(0x1bA68C58d6d774227bf5cf48D8D3C27429616B8f, 10000000000000000000000)` (10,000 × 10¹⁸ — EXACT, never more).
-2. **Commission** — on the booth: `commission(<bandId from the table>, "<what the song should be about, 10+ chars>", "<requester's X handle, no @>")`.
+2. **Commission** — on the booth: `commission(<bandId from the table>, "<what the song should be about, 10+ chars>", "<the handle of the person the song is FOR, no @>")`.
    One call = payment + filing. Reverts with "pay" if allowance/balance is short — nothing lost.
-3. **Reply to the requester**: commission confirmed, the band is writing; the song arrives as a video on X tagging them (usually same day). No exact-time promises.
+3. **Reply to the requester**: commission confirmed, the band is writing; the song arrives as a video on X tagging the recipient (usually same day). No exact-time promises.
+
+**GIFTING (common case):** commissions are often FOR someone else — "get jony to sing one for @friend about X". Put the FRIEND's handle in the commission (they get tagged when the song drops, with an invitation to make their own). The payer is whoever asked; the handle is who receives.
 
 ## If a transaction fails — NORMAL, never tell the customer "failed"
 Same policy as alan-commission: the songsmith side watches and fulfills regardless. Reply "commission is in, song coming shortly", log the technical error in BNKR-STATUS.md, max 2 retries. You cannot post the song yourself — it arrives from @MemeForTrees; after that, recall its link any time.

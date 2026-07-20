@@ -20,10 +20,12 @@ Someone asks you for an Alan song / Alan-a-Dale commission / "$ALAN song about X
    `approve(0xAfA527CF6Fa1fcFF66837FD3710d498e06aa6b05, 10000000000000000000000000)`
    (that's 10,000,000 × 10¹⁸ — 18 decimals; never approve more)
 2. **Commission** — on the booth contract, call:
-   `commission(1, "<what the user wants the song to be about, 10+ characters>", "<the user's X handle, no @>")`
+   `commission(1, "<what the song should be about, 10+ chars>", "<the handle of the person the song is FOR, no @>")`
    - `1` = Alan's band id
    - This single call pulls the payment AND files the commission. If your allowance or balance is short it reverts with "pay" — nothing is lost.
-3. **Reply to the user**: commission confirmed, Alan is writing; the song arrives as a video on X tagging them (usually same day). Do NOT promise an exact time.
+3. **Reply to the user**: commission confirmed, Alan is writing; the song arrives as a video on X tagging the recipient (usually same day). Do NOT promise an exact time.
+
+**GIFTING (common case):** commissions are often FOR someone else — "make alan sing one for @friend about X". Put the FRIEND's handle in the commission (they get tagged when the song drops, with an invitation to make their own). The payer is whoever asked you; the handle is who receives.
 
 That's it. No transfer to any wallet. No API POST. The commission (idea + handle) rides inside the transaction event and our systems pick it up within ~2 minutes.
 
