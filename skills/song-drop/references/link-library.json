@@ -1823,5 +1823,18 @@
     "xPost": "https://x.com/MemeForTrees/status/2079347245405679828",
     "caption": "\"The Hordes Keep Coming\" — WarMachine",
     "boothCommission": "sg_mrtujosro1"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079350670482620653",
+    "translation": "Still on the Stoop",
+    "name": "Still on the Stoop",
+    "triggers": [
+      "still on the stoop"
+    ],
+    "band": "JS",
+    "tag": "$JS",
+    "ca": "0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65",
+    "xPost": "https://x.com/MemeForTrees/status/2079350670482620653",
+    "caption": "\"Still on the Stoop\" — Jony Sings\n\n$JS 0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65\n\npart of the BNKR extended family"
   }
 ]
