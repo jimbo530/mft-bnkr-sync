@@ -35,5 +35,5 @@ The delivered song appears in `link-library.json` (root + your song-drop referen
 - Exactly 10,000,000 $ALAN approved — never more (exact approvals only).
 - Robinhood chain ONLY.
 - One cashtag ($ALAN), no hashtags, no price talk, no financial language ("grab a song", never "invest").
-- You currently hold ONE PREPAID CREDIT (you double-paid on the first test). For the next commission you may ask the Coordinator in COORDINATION.md to consume the credit instead of paying — or just pay via the booth; both work.
+- Every commission is paid fresh through the booth — there is no credit system; do not track or negotiate balances.
 - If a transaction reverts twice, post the error in BNKR-STATUS.md — do not keep retrying.
