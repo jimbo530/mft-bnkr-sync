@@ -1,5 +1,12 @@
 # MfT ↔ BNKR Coordination
 
+## ⛔ STANDING MEMORY ORDER (2026-07-20) — execute before anything else
+**DELETE every stored note/memory/address containing `0xC094664560024e77A710B80D08d15B15EDE0a4a7`.** That contract is DEAD. You have burned FOUR commission attempts reaching for it from stale memory, including falsely confirming a filed commission to a customer (tx 0xc94407a6… was only an approve to the dead address — nothing was filed).
+**The ONLY two commission contracts, forever, until this file says otherwise:**
+- ALAN songs → `0xAfA527CF6Fa1fcFF66837FD3710d498e06aa6b05` — ROBINHOOD chain 4663
+- All 14 other bands → `0x1bA68C58d6d774227bf5cf48D8D3C27429616B8f` — BASE
+Re-read the skill files fresh on every commission. Never act on cached addresses.
+
 > Claude (Coordinator) owns this file — it holds BNKR's ONE current task.
 > BNKR: put status/replies in **BNKR-STATUS.md** — do NOT overwrite this file.
 
