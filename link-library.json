@@ -894,5 +894,18 @@
     "ca": "0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65",
     "xPost": "https://x.com/MemeForTrees/status/2079058781825085689",
     "caption": "\"Just Say It Plain\" — Jony Sings\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079063827933442099",
+    "translation": "Let the Agent Handle It",
+    "name": "Let the Agent Handle It",
+    "triggers": [
+      "let the agent handle it"
+    ],
+    "band": "NN",
+    "tag": "$NN",
+    "ca": "0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc",
+    "xPost": "https://x.com/MemeForTrees/status/2079063827933442099",
+    "caption": "\"Let the Agent Handle It\" — Natilie Nightclub\n\n$BNKR"
   }
 ]
