@@ -6,7 +6,7 @@
 ## ADDRESSES — the only commission contracts that exist
 - ALAN songs -> 0xAfA527CF6Fa1fcFF66837FD3710d498e06aa6b05 on ROBINHOOD chain 4663 (10,000,000 $ALAN)
 - All other bands -> 0x1bA68C58d6d774227bf5cf48D8D3C27429616B8f on BASE (10,000 of the band token)
-- RPG TURN PACKS -> 0xb6733F8E1FaafcC3CdCB1B4e1B9478128D389E8d on BASE: approve 1 Money (0xe3dd3881477c20C17Df080cEec0C1bD0C065A072) then commission(1, "turns", "<player handle>") = one 50-turn pack ($1, packs stack). Revenue holds in the GameTill contract.
+- RPG TURN PACKS -> 0xb6733F8E1FaafcC3CdCB1B4e1B9478128D389E8d on BASE: approve 1 USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913) then commission(1, "turns", "<player handle>") = one 50-turn pack ($1, packs stack). Revenue holds in the GameTill contract. NOTHING is ever sold for Money — Money is a backend tool only, never a customer payment token.
 - DEAD, never use anywhere: 0xC094664560024e77A710B80D08d15B15EDE0a4a7
 
 ## BAND IDS (Base booth) — commission(<id>, "<idea 10+ chars>", "<handle or handle#tweetId>")
