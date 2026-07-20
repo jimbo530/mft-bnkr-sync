@@ -802,5 +802,18 @@
     "ca": "0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc",
     "xPost": "https://x.com/MemeForTrees/status/2079013448327835763",
     "caption": "\"It Came With Its Own\" — Natilie Nightclub\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079018522370285916",
+    "translation": "It Does It for You",
+    "name": "It Does It for You",
+    "triggers": [
+      "it does it for you"
+    ],
+    "band": "NN",
+    "tag": "$NN",
+    "ca": "0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc",
+    "xPost": "https://x.com/MemeForTrees/status/2079018522370285916",
+    "caption": "\"It Does It for You\" — Natilie Nightclub\n\n$BNKR"
   }
 ]
