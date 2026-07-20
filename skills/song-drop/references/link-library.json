@@ -1118,5 +1118,18 @@
     "ca": "0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3",
     "xPost": "https://x.com/MemeForTrees/status/2079164491795673225",
     "caption": "\"The Orchard That Was a Fence\" — Digerie Dude\n\n$DD 0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3\n\npart of the BNKR extended family"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079169476151456127",
+    "translation": "Little Meme Little Tree",
+    "name": "Little Meme Little Tree",
+    "triggers": [
+      "little meme little tree"
+    ],
+    "band": "NN",
+    "tag": "$NN",
+    "ca": "0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc",
+    "xPost": "https://x.com/MemeForTrees/status/2079169476151456127",
+    "caption": "\"Little Meme Little Tree\" — Natilie Nightclub\n\n$NN 0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc\n\npart of the BNKR extended family"
   }
 ]
