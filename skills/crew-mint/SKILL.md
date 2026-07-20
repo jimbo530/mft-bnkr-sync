@@ -44,10 +44,12 @@ human, dwarf, elf, orc, goblin, myconid.
    - This single call pulls the payment AND mints. If allowance/balance is short it
      reverts with "pay"; if the name got sniped between check and mint it reverts
      with "name taken" â€” nothing is lost either way.
-4. **Reply to the requester**: crew member minted, name secured forever, the character
-   art arrives in this thread from @MemeForTrees shortly. The token id is in the
-   transaction's CrewMinted event; the art lives at
-   `https://tasern.quest/crew/<race>/<tokenId>.png` once revealed.
+4. **SHOW THE CHARACTER — reply with the card link.** The token id is in the
+   transaction's CrewMinted event. Reply to the requester with one short line
+   ("minted — meet <name>") followed by the card link ON ITS OWN LINE:
+   `https://tasern.quest/crew/card/<tokenId>`
+   X unfurls that link into the pixel character — the buyer SEES their crew member
+   immediately. Copy the link verbatim (tokenId from the event, never guessed).
 
 ## Rules
 - Base chain ONLY. USDC ONLY â€” never any other token.
