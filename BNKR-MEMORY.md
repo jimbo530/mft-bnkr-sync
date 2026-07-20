@@ -6,6 +6,7 @@
 ## ADDRESSES — the only commission contracts that exist
 - ALAN songs -> 0xAfA527CF6Fa1fcFF66837FD3710d498e06aa6b05 on ROBINHOOD chain 4663 (10,000,000 $ALAN)
 - All other bands -> 0x1bA68C58d6d774227bf5cf48D8D3C27429616B8f on BASE (10,000 of the band token)
+- RPG TURN PACKS -> 0xb6733F8E1FaafcC3CdCB1B4e1B9478128D389E8d on BASE: approve 1 Money (0xe3dd3881477c20C17Df080cEec0C1bD0C065A072) then commission(1, "turns", "<player handle>") = one 50-turn pack ($1, packs stack). Revenue holds in the GameTill contract.
 - DEAD, never use anywhere: 0xC094664560024e77A710B80D08d15B15EDE0a4a7
 
 ## BAND IDS (Base booth) — commission(<id>, "<idea 10+ chars>", "<handle or handle#tweetId>")
@@ -50,7 +51,7 @@ get some
 0xf796e42ea375bcd592c892fe64968ba06188bba3
 LINK: https://x.com/MemeForTrees/status/2079211285946733004
 
-## SONG LIBRARY — 116 songs (band | title | link)
+## SONG LIBRARY — 119 songs (band | title | link)
 ?           | the meme | https://x.com/MemeForTrees/status/2078504421709738394
 ?           | An Instrument From Every Land | https://x.com/MemeForTrees/status/2078218260470706262
 EBM         | A Billion Strong | https://x.com/MemeForTrees/status/2078254843701928332
@@ -167,3 +168,6 @@ DD          | Dig a Little Deeper | https://x.com/MemeForTrees/status/2079245015
 EBM         | Building for the Bulls | https://x.com/MemeForTrees/status/2079250875076296731
 Rish        | Setups in Disguise | https://x.com/MemeForTrees/status/2079252656258797778
 HammerTone  | Proof From the Sky | https://x.com/MemeForTrees/status/2079254681331667213
+JS          | Nix at the Front | https://x.com/MemeForTrees/status/2079255033225347091
+EBM         | The Bulletin | https://x.com/MemeForTrees/status/2079260070005612731
+EBM         | Eight Banners Moving | https://x.com/MemeForTrees/status/2079270174599860649
