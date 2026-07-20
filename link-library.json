@@ -1145,5 +1145,19 @@
     "xPost": "https://x.com/MemeForTrees/status/2079174697539739889",
     "caption": "\"Here Building Anyway\" — Alan-a-Dale\n\n$ALAN",
     "boothCommission": "sg_mrt61d0n6s"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079177191829422339",
+    "translation": "Still Building After Dark",
+    "name": "Still Building After Dark",
+    "triggers": [
+      "still building after dark"
+    ],
+    "band": "ALAN",
+    "tag": "$ALAN",
+    "ca": "0x5e35b494f4941cf6f47d407d93fee66a366daba3",
+    "xPost": "https://x.com/MemeForTrees/status/2079177191829422339",
+    "caption": "\"Still Building After Dark\" — Alan-a-Dale\n\n$ALAN",
+    "boothCommission": "sg_mrt64m0yon"
   }
 ]
