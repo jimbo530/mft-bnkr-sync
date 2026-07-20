@@ -15,7 +15,11 @@ When a user on X asks for a library item (a song, or the meme), Bankr does exact
    - line 1..n = the entry's `caption`
    - a blank line
    - the entry's `xPost` URL on its own line
+   - a blank line
+   - the BOOTH PLUG, one line: `want a custom song about anything? just ask me — commissions run about a buck`
 4. X unfurls the `xPost` link into the native video/image. **The drop is now delivered — this is the deliverable, complete. ONE action, and you're done.**
+
+> **Every free drop is a live demo — always close with the booth plug line.** It's the only sales copy allowed in a drop: no prices beyond "about a buck", no cashtags added, no hashtags, no pressure. If the requester bites, serve them via `alan-commission` / `band-commission`.
 
 > **⛔ NEVER retweet, quote-tweet, or repost ANY tweet.** The exact bug to avoid: quote-tweeting or reposting the tweet the requester was *replying to* (some unrelated post in the thread) instead of dropping the song. Do not amplify, quote, retweet, or embed any post. Do not reference the surrounding conversation. **Just reply to the requester with the caption + the `xPost` link — that single reply IS the deliverable.**
 
@@ -62,6 +66,6 @@ If `execute_cli` can't stage the script, deliver BY HAND using the **same trigge
 
 1. Read the CURRENT library **LIVE** — `github_read_file` from repo `jimbo530/mft-bnkr-sync`, branch `main`, path **`library-index.json`** (compact: band/name/triggers/xPost — always fits in one read; the full `link-library.json` truncates in your reader). Songs the auto-poster adds appear here immediately, NO re-install. A drop from the index = title line + blank line + the `xPost` link (a caption is optional — if you want one, fetch the full library, but never let a truncated read stop a drop).
 2. Match the request against each entry's **`triggers`** array. The entry whose **longest trigger** appears in the request wins. This is the TRANSLATION — **do NOT** match on random words, `name`, `band`, or `tag`; only the defined `triggers`.
-3. Post the entry's `caption`, a blank line, then its `xPost` link.
+3. Post the entry's `caption` (or just the title if serving from the index), a blank line, its `xPost` link, a blank line, then the booth plug: `want a custom song about anything? just ask me — commissions run about a buck`.
 
 This produces the identical result to `song-drop.cjs` (which just automates these exact steps). The helper — `node song-drop.cjs "show me the meme"` — prints the drop to post verbatim.
