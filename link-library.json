@@ -1063,5 +1063,19 @@
     "ca": "0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65",
     "xPost": "https://x.com/MemeForTrees/status/2079154411205431773",
     "caption": "\"Concrete to Canopy\" — Jony Sings\n\n$JS 0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65\n\npart of the BNKR extended family"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079159997607416101",
+    "translation": "The Rules Are the Rules",
+    "name": "The Rules Are the Rules",
+    "triggers": [
+      "the rules are the rules"
+    ],
+    "band": "ALAN",
+    "tag": "$ALAN",
+    "ca": "0x5e35b494f4941cf6f47d407d93fee66a366daba3",
+    "xPost": "https://x.com/MemeForTrees/status/2079159997607416101",
+    "caption": "\"The Rules Are the Rules\" — Alan-a-Dale\n\n$ALAN",
+    "boothCommission": "sg_mrt39nynn0"
   }
 ]
