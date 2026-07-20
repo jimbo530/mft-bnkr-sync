@@ -1625,5 +1625,19 @@
     "xPost": "https://x.com/MemeForTrees/status/2079252656258797778",
     "caption": "\"Setups in Disguise\" — Rish",
     "boothCommission": "sg_mrth6n3cav"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079254681331667213",
+    "translation": "Proof From the Sky",
+    "name": "Proof From the Sky",
+    "triggers": [
+      "proof from the sky"
+    ],
+    "band": "HammerTone",
+    "tag": "",
+    "ca": "",
+    "xPost": "https://x.com/MemeForTrees/status/2079254681331667213",
+    "caption": "\"Proof From the Sky\" — HammerTone",
+    "boothCommission": "sg_mrthbilcnb"
   }
 ]
