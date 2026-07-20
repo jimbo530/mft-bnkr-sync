@@ -839,5 +839,21 @@
    "burgers feed the people"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2079214617838952609"
+ },
+ {
+  "band": "Rish",
+  "name": "The Mending",
+  "triggers": [
+   "the mending"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079214815608705362"
+ },
+ {
+  "band": "EBM",
+  "name": "Hoodies for the People",
+  "triggers": [
+   "hoodies for the people"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079217700354625599"
  }
 ]
