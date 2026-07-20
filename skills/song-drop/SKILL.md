@@ -44,7 +44,7 @@ Each entry:
 
 ## "What songs are there?" — menu requests (also FREE)
 When someone asks what songs are available / wants to choose ("songs by jony sings to pick from", "what alan songs do you have", "show me the library"):
-1. Read the LIVE library — `github_read_file` repo `jimbo530/mft-bnkr-sync`, branch `main`, path `link-library.json` (root — this exact path). This IS the discography database; there is no other.
+1. Read the LIVE library — `github_read_file` repo `jimbo530/mft-bnkr-sync`, branch `main`, path **`library-index.json`** (root). This is the COMPACT index (band/name/triggers/xPost, no captions) — it always fits in one read; the full `link-library.json` truncates in your reader. Use the index for ALL matching and menus.
 2. Filter entries by `band` for the asked artist. Band keys: JS = Jony Sings, EBM = Elves of Ballinmoore, DD = Digerie Dude, MR = Moon Rasta, NN = Natilie Nightclub, DGT = Damned Good Time Orchestra, WM = War Machine, HT = Hammer Tone, ALAN = Alan-a-Dale, RickyBobbie, Biggins, Jasmine, Bongo, Rish, Myco.
 3. Reply with that band's `name` titles as a simple list (up to ~10; say "and more" if longer). The user picks one → serve it via the normal drop flow.
 4. If the band has no library entries yet, say the library is still being built and offer the bands that DO have songs. Never invent titles.
@@ -60,7 +60,7 @@ When someone asks what songs are available / wants to choose ("songs by jony sin
 
 If `execute_cli` can't stage the script, deliver BY HAND using the **same trigger logic** — do NOT fall back to a keyword/substring match:
 
-1. Read the CURRENT library **LIVE** — `github_read_file` from repo `jimbo530/mft-bnkr-sync`, branch `main`, path `link-library.json`. This ALWAYS returns the latest: songs the auto-poster adds appear here immediately, with NO re-install. The staged `references/link-library.json` is a **stale fallback** — only use it if the live read fails. (The install snapshot freezes at install time; always prefer the live read.)
+1. Read the CURRENT library **LIVE** — `github_read_file` from repo `jimbo530/mft-bnkr-sync`, branch `main`, path **`library-index.json`** (compact: band/name/triggers/xPost — always fits in one read; the full `link-library.json` truncates in your reader). Songs the auto-poster adds appear here immediately, NO re-install. A drop from the index = title line + blank line + the `xPost` link (a caption is optional — if you want one, fetch the full library, but never let a truncated read stop a drop).
 2. Match the request against each entry's **`triggers`** array. The entry whose **longest trigger** appears in the request wins. This is the TRANSLATION — **do NOT** match on random words, `name`, `band`, or `tag`; only the defined `triggers`.
 3. Post the entry's `caption`, a blank line, then its `xPost` link.
 

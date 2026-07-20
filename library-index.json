@@ -1,0 +1,775 @@
+[
+ {
+  "band": null,
+  "name": "the meme",
+  "triggers": [
+   "show me the meme",
+   "the meme"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078504421709738394"
+ },
+ {
+  "band": null,
+  "name": "An Instrument From Every Land",
+  "triggers": [
+   "an instrument from every land",
+   "instrument from every land",
+   "digerie dude"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078218260470706262"
+ },
+ {
+  "band": "EBM",
+  "name": "A Billion Strong",
+  "triggers": [
+   "a billion strong",
+   "billion strong",
+   "one billion strong"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078254843701928332"
+ },
+ {
+  "band": "Rish",
+  "name": "Hundred Hands",
+  "triggers": [
+   "hundred hands"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078598694442541106"
+ },
+ {
+  "band": "EBM",
+  "name": "Costs You Nothing",
+  "triggers": [
+   "costs you nothing"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078598719532904729"
+ },
+ {
+  "band": "Rish",
+  "name": "Plant It Brave",
+  "triggers": [
+   "plant it brave"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078600724162687079"
+ },
+ {
+  "band": "DD",
+  "name": "The Dinner Drum",
+  "triggers": [
+   "the dinner drum"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078605805918511441"
+ },
+ {
+  "band": "MR",
+  "name": "Water Is Life",
+  "triggers": [
+   "water is life"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078610834557657347"
+ },
+ {
+  "band": "Rish",
+  "name": "Let's Grow",
+  "triggers": [
+   "let's grow"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078620859216908413"
+ },
+ {
+  "band": "NN",
+  "name": "One Clean Drop",
+  "triggers": [
+   "one clean drop"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078625934685413582"
+ },
+ {
+  "band": "MR",
+  "name": "Feed the Column",
+  "triggers": [
+   "feed the column"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078636025702707671"
+ },
+ {
+  "band": null,
+  "name": "Here We Go Again",
+  "triggers": [
+   "here we go again"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078635695023816869"
+ },
+ {
+  "band": "NN",
+  "name": "Ask Me Why I Stay",
+  "triggers": [
+   "ask me why i stay"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078641032728617228"
+ },
+ {
+  "band": "DD",
+  "name": "Dancefloor Grows a Forest",
+  "triggers": [
+   "dancefloor grows a forest"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078651112236765305"
+ },
+ {
+  "band": "DD",
+  "name": "Gather the Good Road",
+  "triggers": [
+   "gather the good road"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078656136555762174"
+ },
+ {
+  "band": "MR",
+  "name": "Before the Drums Wake",
+  "triggers": [
+   "before the drums wake"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078666201845141760"
+ },
+ {
+  "band": "JS",
+  "name": "Pull Up to the Space",
+  "triggers": [
+   "pull up to the space"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078671228730999031"
+ },
+ {
+  "band": "EBM",
+  "name": "The Patient Ones",
+  "triggers": [
+   "the patient ones"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078681298126655784"
+ },
+ {
+  "band": "DD",
+  "name": "Carry the Water",
+  "triggers": [
+   "carry the water"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078686299414827159"
+ },
+ {
+  "band": "EBM",
+  "name": "Ten Years Deep",
+  "triggers": [
+   "ten years deep"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078696356118491241"
+ },
+ {
+  "band": "EBM",
+  "name": "Raid for the Children",
+  "triggers": [
+   "raid for the children"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078701425236885826"
+ },
+ {
+  "band": "Myco",
+  "name": "What Had To Rot",
+  "triggers": [
+   "what had to rot"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078711502278639689"
+ },
+ {
+  "band": "EBM",
+  "name": "The Garden Watch",
+  "triggers": [
+   "the garden watch"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078716496197358002"
+ },
+ {
+  "band": "Myco",
+  "name": "Underground Choir",
+  "triggers": [
+   "underground choir"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078726604193177985"
+ },
+ {
+  "band": "JS",
+  "name": "Name Your Nobody",
+  "triggers": [
+   "name your nobody"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078731585436676151"
+ },
+ {
+  "band": "NN",
+  "name": "Toast to Tomorrow",
+  "triggers": [
+   "toast to tomorrow"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078741656401047872"
+ },
+ {
+  "band": "EBM",
+  "name": "Feed The People",
+  "triggers": [
+   "feed the people"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078746680854200803"
+ },
+ {
+  "band": "DGT",
+  "name": "One More Plate Before Dawn",
+  "triggers": [
+   "one more plate before dawn"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078756819959177625"
+ },
+ {
+  "band": "Bongo",
+  "name": "They Paid Me To Feed You",
+  "triggers": [
+   "they paid me to feed you"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078761785230811613"
+ },
+ {
+  "band": "Rish",
+  "name": "The Road to Robinhood",
+  "triggers": [
+   "the road to robinhood"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078771898423341164"
+ },
+ {
+  "band": "EBM",
+  "name": "The Whole Block Came",
+  "triggers": [
+   "the whole block came"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078776881512415664"
+ },
+ {
+  "band": "DGT",
+  "name": "One More Night at Shillwood",
+  "triggers": [
+   "one more night at shillwood"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078787009510805598"
+ },
+ {
+  "band": "Bongo",
+  "name": "They Paid Me To Play The Forest",
+  "triggers": [
+   "they paid me to play the forest"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078791983041016104"
+ },
+ {
+  "band": "Rish",
+  "name": "Will Ye Come to Shillwood",
+  "triggers": [
+   "will ye come to shillwood"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078802057591492957"
+ },
+ {
+  "band": "EBM",
+  "name": "The Prompt Heard",
+  "triggers": [
+   "the prompt heard"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078807118832890188"
+ },
+ {
+  "band": "DD",
+  "name": "The Tool On My Back",
+  "triggers": [
+   "the tool on my back"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078817197120430215"
+ },
+ {
+  "band": "Myco",
+  "name": "Follow the Signal Up",
+  "triggers": [
+   "follow the signal up"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078822193979351483"
+ },
+ {
+  "band": "MR",
+  "name": "First Everybody Builds",
+  "triggers": [
+   "first everybody builds"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078832291896258655"
+ },
+ {
+  "band": "JS",
+  "name": "Nobody At the Back",
+  "triggers": [
+   "nobody at the back"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078837322280263841"
+ },
+ {
+  "band": "NN",
+  "name": "Just Ask Darling",
+  "triggers": [
+   "just ask darling"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078847389117432209"
+ },
+ {
+  "band": "DGT",
+  "name": "One More Round On the Chain",
+  "triggers": [
+   "one more round on the chain"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078852447284465803"
+ },
+ {
+  "band": "Rish",
+  "name": "Will Ye Prompt It",
+  "triggers": [
+   "will ye prompt it"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078862477278806434"
+ },
+ {
+  "band": "EBM",
+  "name": "Plain Language Door",
+  "triggers": [
+   "plain language door"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078867487886655535"
+ },
+ {
+  "band": "EBM",
+  "name": "Tell It and Launch",
+  "triggers": [
+   "tell it and launch"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078877582162845992"
+ },
+ {
+  "band": "DD",
+  "name": "A Pouch That Holds It All",
+  "triggers": [
+   "a pouch that holds it all"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078882630783656297"
+ },
+ {
+  "band": "Myco",
+  "name": "The Catalog of Tools",
+  "triggers": [
+   "the catalog of tools"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078892703337611364"
+ },
+ {
+  "band": "Myco",
+  "name": "The Deep Foundation",
+  "triggers": [
+   "the deep foundation"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078897696446828939"
+ },
+ {
+  "band": "MR",
+  "name": "A Seat at the Club",
+  "triggers": [
+   "a seat at the club"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078907749509841347"
+ },
+ {
+  "band": "MR",
+  "name": "It Feeds Its Own Fire",
+  "triggers": [
+   "it feeds its own fire"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078912777830146108"
+ },
+ {
+  "band": "MR",
+  "name": "The Ground We Stand On",
+  "triggers": [
+   "the ground we stand on"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078922842029117481"
+ },
+ {
+  "band": "DGT",
+  "name": "Gone in a Second",
+  "triggers": [
+   "gone in a second"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078927940172091741"
+ },
+ {
+  "band": "DGT",
+  "name": "Just Tell the Bandleader",
+  "triggers": [
+   "just tell the bandleader"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078938005734039900"
+ },
+ {
+  "band": "DGT",
+  "name": "The Agent Runs the Room",
+  "triggers": [
+   "the agent runs the room"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078943042065535386"
+ },
+ {
+  "band": "Bongo",
+  "name": "A Drawer Full of Tricks",
+  "triggers": [
+   "a drawer full of tricks"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078953046122307802"
+ },
+ {
+  "band": "Bongo",
+  "name": "It Does the Doin",
+  "triggers": [
+   "it does the doin"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078958125638381986"
+ },
+ {
+  "band": "Bongo",
+  "name": "Quick as a Drumbeat",
+  "triggers": [
+   "quick as a drumbeat"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078968141607055810"
+ },
+ {
+  "band": "Rish",
+  "name": "The Club Throws the Door",
+  "triggers": [
+   "the club throws the door"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078973174323020178"
+ },
+ {
+  "band": "DD",
+  "name": "An Instrument for Every Land",
+  "triggers": [
+   "an instrument for every land"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078983260848234956"
+ },
+ {
+  "band": "JS",
+  "name": "A Crew That Lets You In",
+  "triggers": [
+   "a crew that lets you in"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078988271829364898"
+ },
+ {
+  "band": "JS",
+  "name": "She Just Said It",
+  "triggers": [
+   "she just said it"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078998344987210126"
+ },
+ {
+  "band": "JS",
+  "name": "Stands On Its Own",
+  "triggers": [
+   "stands on its own"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079003447685251545"
+ },
+ {
+  "band": "NN",
+  "name": "It Came With Its Own",
+  "triggers": [
+   "it came with its own"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079013448327835763"
+ },
+ {
+  "band": "NN",
+  "name": "It Does It for You",
+  "triggers": [
+   "it does it for you"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079018522370285916"
+ },
+ {
+  "band": "ALAN",
+  "name": "The First Coin Through the Flow",
+  "triggers": [
+   "the first coin through the flow"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079019369607176532"
+ },
+ {
+  "band": "NN",
+  "name": "The Club Is Open Darlings",
+  "triggers": [
+   "the club is open darlings"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079028545913798660"
+ },
+ {
+  "band": "EBM",
+  "name": "Say the Word",
+  "triggers": [
+   "say the word"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079033579707736570"
+ },
+ {
+  "band": "EBM",
+  "name": "The Club With No Gate",
+  "triggers": [
+   "the club with no gate"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079043682120945795"
+ },
+ {
+  "band": "MR",
+  "name": "Everybody in the Circle",
+  "triggers": [
+   "everybody in the circle"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079048677402739123"
+ },
+ {
+  "band": "JS",
+  "name": "Just Say It Plain",
+  "triggers": [
+   "just say it plain"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079058781825085689"
+ },
+ {
+  "band": "NN",
+  "name": "Let the Agent Handle It",
+  "triggers": [
+   "let the agent handle it"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079063827933442099"
+ },
+ {
+  "band": "DGT",
+  "name": "Tell It and It's Done",
+  "triggers": [
+   "tell it and it's done"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079073911384244441"
+ },
+ {
+  "band": "Bongo",
+  "name": "The Agent Does It",
+  "triggers": [
+   "the agent does it"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079078919622336767"
+ },
+ {
+  "band": "Rish",
+  "name": "The Whole Bar Onchain",
+  "triggers": [
+   "the whole bar onchain"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079088943048343879"
+ },
+ {
+  "band": "EBM",
+  "name": "No Gate",
+  "triggers": [
+   "no gate"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079093969737195918"
+ },
+ {
+  "band": "DD",
+  "name": "The Road Made Family",
+  "triggers": [
+   "the road made family"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079104083638522307"
+ },
+ {
+  "band": "Myco",
+  "name": "Already Connected",
+  "triggers": [
+   "already connected"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079109125892444466"
+ },
+ {
+  "band": "JS",
+  "name": "Pull Up a Stoop",
+  "triggers": [
+   "pull up a stoop"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079119177265057839"
+ },
+ {
+  "band": "DGT",
+  "name": "Pull Up a Chair",
+  "triggers": [
+   "pull up a chair"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079124229056823637"
+ },
+ {
+  "band": "Bongo",
+  "name": "They Gave Me a Link",
+  "triggers": [
+   "they gave me a link"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079134240814359004"
+ },
+ {
+  "band": "NN",
+  "name": "We Saved You a Seat",
+  "triggers": [
+   "we saved you a seat"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079139272595030342"
+ },
+ {
+  "band": "DD",
+  "name": "Where the Maps Run Out",
+  "triggers": [
+   "where the maps run out"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079149386735538233"
+ },
+ {
+  "band": "JS",
+  "name": "Concrete to Canopy",
+  "triggers": [
+   "concrete to canopy"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079154411205431773"
+ },
+ {
+  "band": "ALAN",
+  "name": "The Rules Are the Rules",
+  "triggers": [
+   "the rules are the rules"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079159997607416101"
+ },
+ {
+  "band": "ALAN",
+  "name": "Banker Season",
+  "triggers": [
+   "banker season"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079160599540347253"
+ },
+ {
+  "band": "ALAN",
+  "name": "For the Tree and the Bees",
+  "triggers": [
+   "for the tree and the bees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079163806941384968"
+ },
+ {
+  "band": "DD",
+  "name": "The Orchard That Was a Fence",
+  "triggers": [
+   "the orchard that was a fence"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079164491795673225"
+ },
+ {
+  "band": "NN",
+  "name": "Little Meme Little Tree",
+  "triggers": [
+   "little meme little tree"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079169476151456127"
+ },
+ {
+  "band": "ALAN",
+  "name": "Here Building Anyway",
+  "triggers": [
+   "here building anyway"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079174697539739889"
+ },
+ {
+  "band": "ALAN",
+  "name": "Still Building After Dark",
+  "triggers": [
+   "still building after dark"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079177191829422339"
+ },
+ {
+  "band": "JS",
+  "name": "The Architecture of Trust",
+  "triggers": [
+   "the architecture of trust"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079177348314779845"
+ },
+ {
+  "band": "MR",
+  "name": "Seize the Seas",
+  "triggers": [
+   "seize the seas"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079179536436965588"
+ },
+ {
+  "band": "NN",
+  "name": "The Path to Personal Shows",
+  "triggers": [
+   "the path to personal shows"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079182617488888165"
+ },
+ {
+  "band": "Rish",
+  "name": "A Little Kid Said Thank You",
+  "triggers": [
+   "a little kid said thank you"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079184612949975232"
+ },
+ {
+  "band": "NN",
+  "name": "Grow Something Great",
+  "triggers": [
+   "grow something great"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079186043362812034"
+ },
+ {
+  "band": "DD",
+  "name": "The Roads Never End",
+  "triggers": [
+   "the roads never end"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079191043380052040"
+ },
+ {
+  "band": "EBM",
+  "name": "Street Mint",
+  "triggers": [
+   "street mint"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079194675387244947"
+ }
+]
