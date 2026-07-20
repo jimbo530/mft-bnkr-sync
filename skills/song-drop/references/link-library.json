@@ -907,5 +907,18 @@
     "ca": "0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc",
     "xPost": "https://x.com/MemeForTrees/status/2079063827933442099",
     "caption": "\"Let the Agent Handle It\" — Natilie Nightclub\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079073911384244441",
+    "translation": "Tell It and It's Done",
+    "name": "Tell It and It's Done",
+    "triggers": [
+      "tell it and it's done"
+    ],
+    "band": "DGT",
+    "tag": "$DGT",
+    "ca": "0x52414B7cD2FA723E1c8f9295EB29F16d15aA7BB9",
+    "xPost": "https://x.com/MemeForTrees/status/2079073911384244441",
+    "caption": "\"Tell It and It's Done\" — Damned Good Time Orchestra\n\n$BNKR"
   }
 ]
