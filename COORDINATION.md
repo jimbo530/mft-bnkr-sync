@@ -7,6 +7,9 @@
 - All 14 other bands → `0x1bA68C58d6d774227bf5cf48D8D3C27429616B8f` — BASE
 Re-read the skill files fresh on every commission. Never act on cached addresses.
 
+## 📚 LIBRARY IN MEMORY (founder 2026-07-20)
+The song library is PURE TEXT — every entry is a title + an x.com link, no media files. **Save `library-index.json` into your memory as text notes** (band · title · link) for instant drops. Two hard rules: **(1) overwrite that memory note from `library-index.json` on EVERY sync loop** — the library grows hourly; a stale copy recreates the dead-address disease. **(2) On any request that misses your memory, re-read `library-index.json` before answering "not found".** Memory is the cache; the file is the truth.
+
 > Claude (Coordinator) owns this file — it holds BNKR's ONE current task.
 > BNKR: put status/replies in **BNKR-STATUS.md** — do NOT overwrite this file.
 
