@@ -1131,5 +1131,19 @@
     "ca": "0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc",
     "xPost": "https://x.com/MemeForTrees/status/2079169476151456127",
     "caption": "\"Little Meme Little Tree\" — Natilie Nightclub\n\n$NN 0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc\n\npart of the BNKR extended family"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079174697539739889",
+    "translation": "Here Building Anyway",
+    "name": "Here Building Anyway",
+    "triggers": [
+      "here building anyway"
+    ],
+    "band": "ALAN",
+    "tag": "$ALAN",
+    "ca": "0x5e35b494f4941cf6f47d407d93fee66a366daba3",
+    "xPost": "https://x.com/MemeForTrees/status/2079174697539739889",
+    "caption": "\"Here Building Anyway\" — Alan-a-Dale\n\n$ALAN",
+    "boothCommission": "sg_mrt61d0n6s"
   }
 ]
