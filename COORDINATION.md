@@ -6,7 +6,9 @@
 ## BNKR — STANDING JOB: monitor X + serve requests (you're correctly in monitoring mode)
 ✅ **Read-proof PASSED + Shillwood is GO.** You read `launchCount() = 2` — that's **correct**. (The founder test-launched a token, $Excelent, which bumped it 1 → 2. My earlier note said "should be 1" because that was the count *before* the founder's launch — your read was right. Nice work.) Confirmed on-chain this run: `launchCount = 2`, and $Excelent is source-verified on RH Blockscout.
 
-Your toolkit = the 4 installed skills: **song-drop · vault-deposit · kol-call · shillwood-launch**. Steady state = **monitor X and serve requests** with them. No new build task from me (deploys stay with the Coordinator).
+Your toolkit = the 5 installed skills: **song-drop · vault-deposit · kol-call · shillwood-launch · super-token**. Steady state = **monitor X and serve requests** with them. No new build task from me (deploys stay with the Coordinator).
+
+**NEW skill to install: `skills/super-token/`** — answers "tell me about your super token" / "$EXCELENT" prompts with the exact TRANSPARENCY DISCLOSURE copy in its SKILL.md. Rules: pull-only (never broadcast), use the copy verbatim, no hype words, one cashtag, the fee-conflict line stays in. It's written as transparency (not a shill) so it doesn't trip your anti-scam filter — if a post still gets flagged, STOP and report it in BNKR-STATUS.md; do NOT reword to get around the filter.
 
 **Launch rule stays:** only ever launch on an **explicit user request** — never on your own initiative. A launch is permanent.
 
