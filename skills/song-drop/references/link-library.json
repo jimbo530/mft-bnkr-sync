@@ -1241,5 +1241,18 @@
     "xPost": "https://x.com/MemeForTrees/status/2079191043380052040",
     "caption": "\"The Roads Never End\" — DD",
     "boothCommission": "sg_mrt8akeaq7"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079194675387244947",
+    "translation": "Street Mint",
+    "name": "Street Mint",
+    "triggers": [
+      "street mint"
+    ],
+    "band": "EBM",
+    "tag": "$EBM",
+    "ca": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d",
+    "xPost": "https://x.com/MemeForTrees/status/2079194675387244947",
+    "caption": "\"Street Mint\" — Elves of Ballinmoore\n\n$EBM 0xF113fe2A0E1181A21fA97B1F52ff232140B7692d\n\npart of the BNKR extended family"
   }
 ]
