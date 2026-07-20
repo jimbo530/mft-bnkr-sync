@@ -1159,5 +1159,19 @@
     "xPost": "https://x.com/MemeForTrees/status/2079177191829422339",
     "caption": "\"Still Building After Dark\" — Alan-a-Dale\n\n$ALAN",
     "boothCommission": "sg_mrt64m0yon"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079177348314779845",
+    "translation": "The Architecture of Trust",
+    "name": "The Architecture of Trust",
+    "triggers": [
+      "the architecture of trust"
+    ],
+    "band": "JS",
+    "tag": "",
+    "ca": "",
+    "xPost": "https://x.com/MemeForTrees/status/2079177348314779845",
+    "caption": "\"The Architecture of Trust\" — JS",
+    "boothCommission": "sg_mrt3p5ed7e"
   }
 ]
