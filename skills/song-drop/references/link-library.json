@@ -1678,5 +1678,18 @@
     "ca": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d",
     "xPost": "https://x.com/MemeForTrees/status/2079270174599860649",
     "caption": "\"Eight Banners Moving\" — Elves of Ballinmoore\n\n$EBM 0xF113fe2A0E1181A21fA97B1F52ff232140B7692d\n\npart of the BNKR extended family"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079285271682568574",
+    "translation": "Canopy Law",
+    "name": "Canopy Law",
+    "triggers": [
+      "canopy law"
+    ],
+    "band": "EBM",
+    "tag": "$EBM",
+    "ca": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d",
+    "xPost": "https://x.com/MemeForTrees/status/2079285271682568574",
+    "caption": "\"Canopy Law\" — Elves of Ballinmoore\n\n$EBM 0xF113fe2A0E1181A21fA97B1F52ff232140B7692d\n\npart of the BNKR extended family"
   }
 ]
