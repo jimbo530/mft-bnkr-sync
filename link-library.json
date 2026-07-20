@@ -1091,5 +1091,19 @@
     "xPost": "https://x.com/MemeForTrees/status/2079160599540347253",
     "caption": "\"Banker Season\" — Alan-a-Dale\n\n$ALAN",
     "boothCommission": "sg_mrt284h18a"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079163806941384968",
+    "translation": "For the Tree and the Bees",
+    "name": "For the Tree and the Bees",
+    "triggers": [
+      "for the tree and the bees"
+    ],
+    "band": "ALAN",
+    "tag": "$ALAN",
+    "ca": "0x5e35b494f4941cf6f47d407d93fee66a366daba3",
+    "xPost": "https://x.com/MemeForTrees/status/2079163806941384968",
+    "caption": "\"For the Tree and the Bees\" — Alan-a-Dale\n\n$ALAN",
+    "boothCommission": "sg_mrt4givcc5"
   }
 ]
