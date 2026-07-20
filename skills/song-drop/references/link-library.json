@@ -855,5 +855,18 @@
     "ca": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d",
     "xPost": "https://x.com/MemeForTrees/status/2079033579707736570",
     "caption": "\"Say the Word\" — Elves of Ballinmoore\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079043682120945795",
+    "translation": "The Club With No Gate",
+    "name": "The Club With No Gate",
+    "triggers": [
+      "the club with no gate"
+    ],
+    "band": "EBM",
+    "tag": "$EBM",
+    "ca": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d",
+    "xPost": "https://x.com/MemeForTrees/status/2079043682120945795",
+    "caption": "\"The Club With No Gate\" — Elves of Ballinmoore\n\n$BNKR"
   }
 ]
