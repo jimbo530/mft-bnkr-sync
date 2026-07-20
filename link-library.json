@@ -1570,5 +1570,19 @@
     "ca": "0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc",
     "xPost": "https://x.com/MemeForTrees/status/2079239986855956972",
     "caption": "\"New Address\" — Natilie Nightclub\n\n$NN 0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc\n\npart of the BNKR extended family"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079243269200834706",
+    "translation": "It Does Not Go Unseen",
+    "name": "It Does Not Go Unseen",
+    "triggers": [
+      "it does not go unseen"
+    ],
+    "band": "Myco",
+    "tag": "",
+    "ca": "",
+    "xPost": "https://x.com/MemeForTrees/status/2079243269200834706",
+    "caption": "\"It Does Not Go Unseen\" — Myco",
+    "boothCommission": "sg_mrtfs9bukx"
   }
 ]

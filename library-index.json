@@ -994,5 +994,21 @@
    "the famitree"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2079239633427218888"
+ },
+ {
+  "band": "NN",
+  "name": "New Address",
+  "triggers": [
+   "new address"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079239986855956972"
+ },
+ {
+  "band": "Myco",
+  "name": "It Does Not Go Unseen",
+  "triggers": [
+   "it does not go unseen"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079243269200834706"
  }
 ]
