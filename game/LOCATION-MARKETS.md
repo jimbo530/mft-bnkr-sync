@@ -54,4 +54,5 @@ Start the game with its OWN character NFT collection:
 - **Art = the Seize the Seas sprite library** (D:\grok-sprites: seas/, gear/, items/ - 700+ sprites, FFT-style). Host on tasern.quest, tokenURI points there. Item tokens can reuse gear/item sprites too.
 - **Seas porting welcome**: Seas pawns/characters may port into the RPG later - same art family, same world.
 - New-character path becomes: "@bankrbot mint me a tasern adventurer" -> BNKR mints from our collection -> resolver binds it -> stat-vault/loot bag per NFT -> play.
+- **NAMES (founder 2026-07-20): players NAME their character at mint, and no two names can ever be the same** — unique-name enforcement exactly like the Acorn collection (contract-level require on a name registry, case-insensitive). The name is the character's identity in story, on the NFT, and in the library of legends.
 - Mint price: FOUNDER-RULED before deploy (not invented here). Collection deploys AFTER the story playtest with the rest of the build order.
