@@ -1105,5 +1105,18 @@
     "xPost": "https://x.com/MemeForTrees/status/2079163806941384968",
     "caption": "\"For the Tree and the Bees\" — Alan-a-Dale\n\n$ALAN",
     "boothCommission": "sg_mrt4givcc5"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079164491795673225",
+    "translation": "The Orchard That Was a Fence",
+    "name": "The Orchard That Was a Fence",
+    "triggers": [
+      "the orchard that was a fence"
+    ],
+    "band": "DD",
+    "tag": "$DD",
+    "ca": "0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3",
+    "xPost": "https://x.com/MemeForTrees/status/2079164491795673225",
+    "caption": "\"The Orchard That Was a Fence\" — Digerie Dude\n\n$DD 0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3\n\npart of the BNKR extended family"
   }
 ]
