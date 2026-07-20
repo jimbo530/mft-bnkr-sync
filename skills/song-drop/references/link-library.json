@@ -1517,5 +1517,18 @@
     "xPost": "https://x.com/MemeForTrees/status/2079224666451808414",
     "caption": "\"1,312 Jpegs\" — Bongo",
     "boothCommission": "sg_mrtd14ys4a"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079224886451408975",
+    "translation": "The Soil Remembers",
+    "name": "The Soil Remembers",
+    "triggers": [
+      "the soil remembers"
+    ],
+    "band": "Myco",
+    "tag": "$MYCO",
+    "ca": "0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3",
+    "xPost": "https://x.com/MemeForTrees/status/2079224886451408975",
+    "caption": "\"- The Soil Remembers\" — Myco\n\n$MYCO 0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3\n\npart of the BNKR extended family"
   }
 ]
