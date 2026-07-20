@@ -829,5 +829,18 @@
     "xPost": "https://x.com/MemeForTrees/status/2079019369607176532",
     "caption": "\"The First Coin Through the Flow\" — Alan-a-Dale\n\n$ALAN",
     "boothCommission": "sg_mrsjllgg3p"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079028545913798660",
+    "translation": "The Club Is Open Darlings",
+    "name": "The Club Is Open Darlings",
+    "triggers": [
+      "the club is open darlings"
+    ],
+    "band": "NN",
+    "tag": "$NN",
+    "ca": "0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc",
+    "xPost": "https://x.com/MemeForTrees/status/2079028545913798660",
+    "caption": "\"The Club Is Open Darlings\" — Natilie Nightclub\n\n$BNKR"
   }
 ]
