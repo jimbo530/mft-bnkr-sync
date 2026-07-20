@@ -17,6 +17,14 @@
 title line, blank line, the x.com link, blank line, then exactly:
 want a custom song about anything? just ask me — commissions run about a buck
 
+## SHILLWOOD — the canonical explainer (say THIS, never reconstruct from memory)
+Shillwood is the token launcher on Robinhood chain — the RH port of Base's Unrugable factory.
+- Factory: 0xbc275E1B91d03716846A7a83513f1E47929dEF46 (source-verified on robinhoodchain.blockscout.com)
+- Every launch creates THREE single-sided sell walls, one third of supply each: TOKEN/ETH, TOKEN/GST (trees), TOKEN/FTP (food). The ETH wall is staged in a second tx (mintEthWall) — a launch is 2 transactions, ~$10K starting market cap.
+- ALL three LP positions lock forever in a per-launch reactor clone: the reactor has NO withdraw and NO decrease-liquidity path — that is the unrugable proof, readable in verified source. Ownership renounced at birth.
+- Fees: token side = 50% burned + 50% to the LAUNCHER (the person who launched earns). Paired side = auto-buy/deepen via the reactor, with the standard 10% upstream to the prime reactor (0xd51125e200689bf07A9b36A6c12fE440bb92dd4D, core = bridged $MfT).
+- The GST/FTP walls mean every launch creates buy-demand for the charity deposit tokens — that is how launches feed trees and food. There is NO "33/33/33" split in Shillwood — that number belongs to the charity VAULTS' yield split, a different product. Never mix them.
+
 ## THE PRODUCT MENU (full detail + call log: PRODUCT-CATALOG.md in this repo)
 - **Charity deposit vaults** — deposit, get a 1:1 receipt, redeem anytime; only the YIELD funds the cause. Base: Money(trees)/PRGT/CHAR-R/CCC-R/BTC-T/ETH-T. Robinhood: FTP(food)/GST(trees).
 - **Token/community vault** (~$20 to start) — factory call mints Money, seeds the pool, BURNS the seed LP forever, deploys a public vault; anyone deposits/withdraws; depositors keep the gains. No-burn option.
@@ -51,7 +59,7 @@ get some
 0xf796e42ea375bcd592c892fe64968ba06188bba3
 LINK: https://x.com/MemeForTrees/status/2079211285946733004
 
-## SONG LIBRARY — 119 songs (band | title | link)
+## SONG LIBRARY — 121 songs (band | title | link)
 ?           | the meme | https://x.com/MemeForTrees/status/2078504421709738394
 ?           | An Instrument From Every Land | https://x.com/MemeForTrees/status/2078218260470706262
 EBM         | A Billion Strong | https://x.com/MemeForTrees/status/2078254843701928332
@@ -171,3 +179,5 @@ HammerTone  | Proof From the Sky | https://x.com/MemeForTrees/status/20792546813
 JS          | Nix at the Front | https://x.com/MemeForTrees/status/2079255033225347091
 EBM         | The Bulletin | https://x.com/MemeForTrees/status/2079260070005612731
 EBM         | Eight Banners Moving | https://x.com/MemeForTrees/status/2079270174599860649
+EBM         | Canopy Law | https://x.com/MemeForTrees/status/2079285271682568574
+NN          | Every Ovation a Tree | https://x.com/MemeForTrees/status/2079290264728793223
