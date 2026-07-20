@@ -133,7 +133,8 @@ Claude's agent updates `deployed/delivered/<tweetId>.json` when done.
 | Meme (BNKR native) | 0x8fb87d13b40b1a67b22ed1a17e2835fe7e3a9ba3 | Base | Active |
 | Ops Wallet | 0x0780b1456d5e60cf26c8cd6541b85e805c8c05f2 | Base | Active (fee destination) |
 | SongRevenueSplitter Factory | 0xCF4357aFdC26fa028e77291CE2F97C9dAF93F75D | Base | Active |
-| CommissionBooth | 0xC094664560024e77A710B80D08d15B15EDE0a4a7 | Base | RETIRED — do not use |
+| ~~CommissionBooth (old Base)~~ | ~~0xC094664560024e77A710B80D08d15B15EDE0a4a7~~ | Base | ⛔ DEAD — NEVER use this address on ANY chain |
+| **CommissionBooth (LIVE)** | **0xAfA527CF6Fa1fcFF66837FD3710d498e06aa6b05** | **ROBINHOOD 4663** | ✅ THE booth for ALAN commissions — approve exact 10M $ALAN + `commission(1, idea, handle)`; see `skills/alan-commission/SKILL.md` |
 
 ### SongRevenueSplitter — deployed (4/14)
 
