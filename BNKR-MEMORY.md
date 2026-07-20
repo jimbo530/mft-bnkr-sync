@@ -16,6 +16,17 @@
 title line, blank line, the x.com link, blank line, then exactly:
 want a custom song about anything? just ask me — commissions run about a buck
 
+## SPECIAL DROP — "show me the meme" / "the meme"
+Post this EXACT text block, then a blank line, then the LINK, then the plug line:
+🌱 the tree meme
+
+ — the meme that plants real trees. born on bankr, grown on base, spent on forests.
+
+memes get collected, songs get commissioned, and the machine quietly turns all of it into trees. that is the whole joke — and it is true.
+
+0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3
+LINK: https://x.com/MemeForTrees/status/2078504421709738394
+
 ## SONG LIBRARY — 97 songs (band | title | link)
 ?           | the meme | https://x.com/MemeForTrees/status/2078504421709738394
 ?           | An Instrument From Every Land | https://x.com/MemeForTrees/status/2078218260470706262
