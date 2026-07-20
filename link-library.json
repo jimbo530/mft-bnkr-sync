@@ -1691,5 +1691,18 @@
     "ca": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d",
     "xPost": "https://x.com/MemeForTrees/status/2079285271682568574",
     "caption": "\"Canopy Law\" — Elves of Ballinmoore\n\n$EBM 0xF113fe2A0E1181A21fA97B1F52ff232140B7692d\n\npart of the BNKR extended family"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079290264728793223",
+    "translation": "Every Ovation a Tree",
+    "name": "Every Ovation a Tree",
+    "triggers": [
+      "every ovation a tree"
+    ],
+    "band": "NN",
+    "tag": "$NN",
+    "ca": "0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc",
+    "xPost": "https://x.com/MemeForTrees/status/2079290264728793223",
+    "caption": "\"Every Ovation a Tree\" — Natilie Nightclub\n\n$NN 0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc\n\npart of the BNKR extended family"
   }
 ]
