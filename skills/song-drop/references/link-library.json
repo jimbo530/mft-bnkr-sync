@@ -1731,5 +1731,18 @@
     "xPost": "https://x.com/MemeForTrees/status/2079303270204383633",
     "caption": "\"The Grind Holds\" — HammerTone",
     "boothCommission": "sg_mrtoa1m2a"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079305408510857597",
+    "translation": "Carried by Your Love",
+    "name": "Carried by Your Love",
+    "triggers": [
+      "carried by your love"
+    ],
+    "band": "DD",
+    "tag": "$DD",
+    "ca": "0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3",
+    "xPost": "https://x.com/MemeForTrees/status/2079305408510857597",
+    "caption": "\"Carried by Your Love\" — Digerie Dude\n\n$DD 0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3\n\npart of the BNKR extended family"
   }
 ]
