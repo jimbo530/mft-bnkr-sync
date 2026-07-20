@@ -970,5 +970,29 @@
    "1,312 jpegs"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2079224666451808414"
+ },
+ {
+  "band": "Myco",
+  "name": "The Soil Remembers",
+  "triggers": [
+   "the soil remembers"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079224886451408975"
+ },
+ {
+  "band": "DD",
+  "name": "Meme to a Mangrove",
+  "triggers": [
+   "meme to a mangrove"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079229929502236767"
+ },
+ {
+  "band": "Bongo",
+  "name": "The Famitree",
+  "triggers": [
+   "the famitree"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079239633427218888"
  }
 ]

@@ -1543,5 +1543,19 @@
     "ca": "0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3",
     "xPost": "https://x.com/MemeForTrees/status/2079229929502236767",
     "caption": "\"Meme to a Mangrove\" — Digerie Dude\n\n$DD 0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3\n\npart of the BNKR extended family"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079239633427218888",
+    "translation": "The Famitree",
+    "name": "The Famitree",
+    "triggers": [
+      "the famitree"
+    ],
+    "band": "Bongo",
+    "tag": "",
+    "ca": "",
+    "xPost": "https://x.com/MemeForTrees/status/2079239633427218888",
+    "caption": "\"The Famitree\" — Bongo",
+    "boothCommission": "sg_mrtfc0qv3q"
   }
 ]
