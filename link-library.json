@@ -1341,5 +1341,19 @@
     "xPost": "https://x.com/MemeForTrees/status/2079212349836214599",
     "caption": "\"We Ship Apps\" — EBM",
     "boothCommission": "sg_mrtb9sua35"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079213718303391820",
+    "translation": "The Sounds of the Barn Yard",
+    "name": "The Sounds of the Barn Yard",
+    "triggers": [
+      "the sounds of the barn yard"
+    ],
+    "band": "ALAN",
+    "tag": "$ALAN",
+    "ca": "0x5e35b494f4941cf6f47d407d93fee66a366daba3",
+    "xPost": "https://x.com/MemeForTrees/status/2079213718303391820",
+    "caption": "\"The Sounds of the Barn Yard\" — Alan-a-Dale\n\n$ALAN",
+    "boothCommission": "sg_mrskpj79ci"
   }
 ]
