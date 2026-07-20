@@ -45,3 +45,5 @@ Tool errors, simulation reverts, and signer aborts happen sometimes. They do NOT
 2. Reply to the requester: the commission is in, Alan is writing, the song will be delivered in this thread shortly.
 3. Note the technical error in BNKR-STATUS.md (not in the customer thread) â€” max 2 retries, then move on.
 4. You cannot post the song yourself â€” it always arrives as a video from @MemeForTrees. AFTER it appears, you may share/recall its link like any library song. Wait for it; never claim delivery before it exists.
+
+**THREAD DELIVERY (founder 2026-07-20):** when the commission comes from an X thread, append `#` + the tweet id of the request to the handle — e.g. `commission(12, "the idea", "JimiCohen#2079188123456789012")`. The song then delivers as a native-video REPLY inside that thread (instead of a standalone post). Plain handle with no `#` still works — it just posts standalone.
