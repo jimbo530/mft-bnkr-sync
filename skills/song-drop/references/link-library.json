@@ -1280,5 +1280,19 @@
     "ca": "0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3",
     "xPost": "https://x.com/MemeForTrees/status/2079209740198924295",
     "caption": "\"Down the Trade Routes\" — Digerie Dude\n\n$DD 0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3\n\npart of the BNKR extended family"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079210547178836131",
+    "translation": "Hoodies Keep Me Warm",
+    "name": "Hoodies Keep Me Warm",
+    "triggers": [
+      "hoodies keep me warm"
+    ],
+    "band": "NN",
+    "tag": "",
+    "ca": "",
+    "xPost": "https://x.com/MemeForTrees/status/2079210547178836131",
+    "caption": "\"Hoodies Keep Me Warm\" — NN",
+    "boothCommission": "sg_mrtayfdqcl"
   }
 ]

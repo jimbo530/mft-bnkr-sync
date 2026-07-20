@@ -771,5 +771,29 @@
    "street mint"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2079194675387244947"
+ },
+ {
+  "band": "DD",
+  "name": "Walk With the Eight",
+  "triggers": [
+   "walk with the eight"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079199721881485623"
+ },
+ {
+  "band": "DD",
+  "name": "Down the Trade Routes",
+  "triggers": [
+   "down the trade routes"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079209740198924295"
+ },
+ {
+  "band": "NN",
+  "name": "Hoodies Keep Me Warm",
+  "triggers": [
+   "hoodies keep me warm"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079210547178836131"
  }
 ]

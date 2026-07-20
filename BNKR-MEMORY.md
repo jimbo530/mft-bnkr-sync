@@ -27,7 +27,7 @@ memes get collected, songs get commissioned, and the machine quietly turns all o
 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3
 LINK: https://x.com/MemeForTrees/status/2078504421709738394
 
-## SONG LIBRARY — 97 songs (band | title | link)
+## SONG LIBRARY — 99 songs (band | title | link)
 ?           | the meme | https://x.com/MemeForTrees/status/2078504421709738394
 ?           | An Instrument From Every Land | https://x.com/MemeForTrees/status/2078218260470706262
 EBM         | A Billion Strong | https://x.com/MemeForTrees/status/2078254843701928332
@@ -125,3 +125,5 @@ NN          | Grow Something Great | https://x.com/MemeForTrees/status/207918604
 DD          | The Roads Never End | https://x.com/MemeForTrees/status/2079191043380052040
 EBM         | Street Mint | https://x.com/MemeForTrees/status/2079194675387244947
 DD          | Walk With the Eight | https://x.com/MemeForTrees/status/2079199721881485623
+DD          | Down the Trade Routes | https://x.com/MemeForTrees/status/2079209740198924295
+NN          | Hoodies Keep Me Warm | https://x.com/MemeForTrees/status/2079210547178836131
