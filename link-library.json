@@ -1704,5 +1704,18 @@
     "ca": "0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc",
     "xPost": "https://x.com/MemeForTrees/status/2079290264728793223",
     "caption": "\"Every Ovation a Tree\" — Natilie Nightclub\n\n$NN 0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc\n\npart of the BNKR extended family"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079300335059771623",
+    "translation": "All You Have To Do Is Dance",
+    "name": "All You Have To Do Is Dance",
+    "triggers": [
+      "all you have to do is dance"
+    ],
+    "band": "Bongo",
+    "tag": "$BONGO",
+    "ca": "0x85Dd5183D203CcE70b88234D31f075774AcCC453",
+    "xPost": "https://x.com/MemeForTrees/status/2079300335059771623",
+    "caption": "\"All You Have To Do Is Dance\" — Bongo\n\n$BONGO 0x85Dd5183D203CcE70b88234D31f075774AcCC453\n\npart of the BNKR extended family"
   }
 ]
