@@ -1557,5 +1557,18 @@
     "xPost": "https://x.com/MemeForTrees/status/2079239633427218888",
     "caption": "\"The Famitree\" — Bongo",
     "boothCommission": "sg_mrtfc0qv3q"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079239986855956972",
+    "translation": "New Address",
+    "name": "New Address",
+    "triggers": [
+      "new address"
+    ],
+    "band": "NN",
+    "tag": "$NN",
+    "ca": "0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc",
+    "xPost": "https://x.com/MemeForTrees/status/2079239986855956972",
+    "caption": "\"New Address\" — Natilie Nightclub\n\n$NN 0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc\n\npart of the BNKR extended family"
   }
 ]
