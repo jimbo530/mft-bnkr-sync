@@ -1200,5 +1200,18 @@
     "xPost": "https://x.com/MemeForTrees/status/2079182617488888165",
     "caption": "\"The Path to Personal Shows\" — NN",
     "boothCommission": "sg_mrt77l5q9n"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079184612949975232",
+    "translation": "A Little Kid Said Thank You",
+    "name": "A Little Kid Said Thank You",
+    "triggers": [
+      "a little kid said thank you"
+    ],
+    "band": "Rish",
+    "tag": "$RISH",
+    "ca": "0x31c600871603bab5d855463E03c6d0a9eB661D26",
+    "xPost": "https://x.com/MemeForTrees/status/2079184612949975232",
+    "caption": "\"A Little Kid Said Thank You\" — Rish\n\n$RISH 0x31c600871603bab5d855463E03c6d0a9eB661D26\n\npart of the BNKR extended family"
   }
 ]
