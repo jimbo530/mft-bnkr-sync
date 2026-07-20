@@ -7,6 +7,7 @@
 - ALAN songs -> 0xAfA527CF6Fa1fcFF66837FD3710d498e06aa6b05 on ROBINHOOD chain 4663 (10,000,000 $ALAN)
 - All other bands -> 0x1bA68C58d6d774227bf5cf48D8D3C27429616B8f on BASE (10,000 of the band token)
 - RPG TURN PACKS -> 0xb6733F8E1FaafcC3CdCB1B4e1B9478128D389E8d on BASE: approve 1 USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913) then commission(1, "turns", "<player handle>") = one 50-turn pack ($1, packs stack). Revenue holds in the GameTill contract. NOTHING is ever sold for Money — Money is a backend tool only, never a customer payment token.
+- CREW MINT -> 0xb9608788a8c3a333342Dd7a79CC7D8a6791B80C4 on BASE: "mint me a <race> named <name>" = check nameTaken(name), approve 1 USDC, mint(name, race, recipient). Races live: orc, elf, goblin, human (read raceInfo() for truth). Names unique forever. 1 USDC. The character plays the RPG and crews Seas ships.
 - DEAD, never use anywhere: 0xC094664560024e77A710B80D08d15B15EDE0a4a7
 
 ## BAND IDS (Base booth) — commission(<id>, "<idea 10+ chars>", "<handle or handle#tweetId>")
@@ -59,7 +60,7 @@ get some
 0xf796e42ea375bcd592c892fe64968ba06188bba3
 LINK: https://x.com/MemeForTrees/status/2079211285946733004
 
-## SONG LIBRARY — 123 songs (band | title | link)
+## SONG LIBRARY — 124 songs (band | title | link)
 ?           | the meme | https://x.com/MemeForTrees/status/2078504421709738394
 ?           | An Instrument From Every Land | https://x.com/MemeForTrees/status/2078218260470706262
 EBM         | A Billion Strong | https://x.com/MemeForTrees/status/2078254843701928332
@@ -183,3 +184,4 @@ EBM         | Canopy Law | https://x.com/MemeForTrees/status/2079285271682568574
 NN          | Every Ovation a Tree | https://x.com/MemeForTrees/status/2079290264728793223
 Bongo       | All You Have To Do Is Dance | https://x.com/MemeForTrees/status/2079300335059771623
 HammerTone  | The Grind Holds | https://x.com/MemeForTrees/status/2079303270204383633
+DD          | Carried by Your Love | https://x.com/MemeForTrees/status/2079305408510857597
