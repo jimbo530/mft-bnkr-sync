@@ -47,3 +47,11 @@ HIGH deliberately**, so:
 - Fee/venue params founder-ruled before seeding; pools withdrawable until shipped.
 - Never describe any of this as investing/yield to players â€” it is gear, coin, and
   the road.
+
+## 5. CHARACTER COLLECTION (founder 2026-07-20) — dedicated RPG NFTs, BNKR-mintable from X
+Start the game with its OWN character NFT collection:
+- **We deploy the collection contract** (deploys stay with the Coordinator); **BNKR mints from X** — minting is a contract call on our deployed ERC721, exactly its proven ground (booth pattern: approve if priced + mint(handle/tokenId)).
+- **Art = the Seize the Seas sprite library** (D:\grok-sprites: seas/, gear/, items/ — 700+ sprites, FFT-style). Host on tasern.quest, tokenURI points there. Item tokens can reuse gear/item sprites too.
+- **Seas porting welcome**: Seas pawns/characters may port into the RPG later — same art family, same world.
+- New-character path becomes: "@bankrbot mint me a tasern adventurer" ? BNKR mints from our collection ? resolver binds it ? stat-vault/loot bag per NFT ? play.
+- Mint price: FOUNDER-RULED before deploy (not invented here). Collection deploys AFTER the story playtest with the rest of the build order.
