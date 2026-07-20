@@ -1077,5 +1077,19 @@
     "xPost": "https://x.com/MemeForTrees/status/2079159997607416101",
     "caption": "\"The Rules Are the Rules\" — Alan-a-Dale\n\n$ALAN",
     "boothCommission": "sg_mrt39nynn0"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079160599540347253",
+    "translation": "Banker Season",
+    "name": "Banker Season",
+    "triggers": [
+      "banker season"
+    ],
+    "band": "ALAN",
+    "tag": "$ALAN",
+    "ca": "0x5e35b494f4941cf6f47d407d93fee66a366daba3",
+    "xPost": "https://x.com/MemeForTrees/status/2079160599540347253",
+    "caption": "\"Banker Season\" — Alan-a-Dale\n\n$ALAN",
+    "boothCommission": "sg_mrt284h18a"
   }
 ]
