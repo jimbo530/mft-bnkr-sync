@@ -1327,5 +1327,19 @@
     "xPost": "https://x.com/MemeForTrees/status/2079211285946733004",
     "caption": "🍔 the meme that feeds people\n\n$BURGERS — it feeds people with trading fees and yield streams, and the reactor burns the supply. robinhood chain, verifiable on-chain.\n\nget some\n\n0xf796e42ea375bcd592c892fe64968ba06188bba3",
     "special": true
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079212349836214599",
+    "translation": "We Ship Apps",
+    "name": "We Ship Apps",
+    "triggers": [
+      "we ship apps"
+    ],
+    "band": "EBM",
+    "tag": "",
+    "ca": "",
+    "xPost": "https://x.com/MemeForTrees/status/2079212349836214599",
+    "caption": "\"We Ship Apps\" — EBM",
+    "boothCommission": "sg_mrtb9sua35"
   }
 ]

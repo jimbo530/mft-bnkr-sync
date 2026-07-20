@@ -803,5 +803,25 @@
    "the bridge that folds"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2079211282461315360"
+ },
+ {
+  "band": null,
+  "name": "the meme that feeds people",
+  "triggers": [
+   "what meme feeds people",
+   "the meme that feeds people",
+   "meme that feeds people",
+   "the burger meme",
+   "burgers meme"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079211285946733004"
+ },
+ {
+  "band": "EBM",
+  "name": "We Ship Apps",
+  "triggers": [
+   "we ship apps"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079212349836214599"
  }
 ]
