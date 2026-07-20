@@ -47,4 +47,4 @@ Same policy as alan-commission: the songsmith side watches and fulfills regardle
 - One cashtag per post, no hashtags, no price talk, never "invest".
 - Alan-a-Dale = Robinhood chain, different booth, different price â€” use `alan-commission`, never this table.
 
-**THREAD DELIVERY (founder 2026-07-20):** when the commission comes from an X thread, append `#` + the tweet id of the request to the handle — e.g. `commission(12, "the idea", "JimiCohen#2079188123456789012")`. The song then delivers as a native-video REPLY inside that thread (instead of a standalone post). Plain handle with no `#` still works — it just posts standalone.
+**THREAD DELIVERY (founder 2026-07-20):** when the commission comes from an X thread, append `#` plus the tweet id of the request to the handle - e.g. `commission(12, "the idea", "JimiCohen#2079188123456789012")`. The song then delivers as a native-video REPLY inside that thread (instead of a standalone post). Plain handle with no `#` still works - it just posts standalone.
