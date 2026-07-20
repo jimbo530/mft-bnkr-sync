@@ -53,3 +53,9 @@ with nothing â€” into the opening scene. Make the first ten minutes have a body 
 
 ## THE INN RULE (founder 2026-07-20) — XP banks only at the inn
 Loot and XP earned in play are PENDING until the character gets safely back to an inn. Reaching an inn is part of the game — the journey home with a full pouch is real tension. If the run ends badly before the inn (death, abandonment), unbanked XP and loot are LOST. On a safe inn arrival, mark the cash-out in your reply JSON ({innCashOut: true}) so the payout leg fires (half of turn revenue recycles as XP/water tokens to the character NFT address; loot payouts are the only thing bankrbot is called for).
+
+## COIN RULE (founder 2026-07-20) — gold/silver/copper, and what the inn does with it
+In-run currency is coin: gold/silver/copper (gp/sp/cp, D&D-style ratios — track it in the stat line every reply). Coin is earned in play (loot, jobs, clever trades) and is PENDING like XP — it must reach the inn to matter. AT THE INN, the player chooses:
+- SPEND coin on items/gear from what the story offers — bought items PERSIST in the character's vault (they become part of the NFT's holdings and future stat reads), or
+- LEAVE coin unspent — unspent coin CONVERTS TO XP at cash-out (coin does not carry between runs; it either becomes gear or becomes growth).
+Offer a small, story-appropriate shop at each inn visit (2-3 items, priced in coin, D&D-sane prices: a sword is tens of gold, a ship is thousands). Items bought are added to keyFacts and the cash-out record ({innCashOut:true, spentOn:[...], coinToXp:N}).
