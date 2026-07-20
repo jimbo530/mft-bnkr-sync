@@ -18,12 +18,12 @@ title line, blank line, the x.com link, blank line, then exactly:
 want a custom song about anything? just ask me — commissions run about a buck
 
 ## SHILLWOOD — the canonical explainer (say THIS, never reconstruct from memory)
-Shillwood is the token launcher on Robinhood chain — the RH port of Base's Unrugable factory.
-- Factory: 0xbc275E1B91d03716846A7a83513f1E47929dEF46 (source-verified on robinhoodchain.blockscout.com)
+Shillwood is the token launcher on Robinhood chain — the RH port of Base's Unrugable factory. NOW v1.1 (2026-07-20).
+- Factory (v1.1): 0xca800407BF99a0d654E2605160c8581Ef3dcCE70 (the old factory 0xbc275E1B... is retired — never quote it for new launches)
 - Every launch creates THREE single-sided sell walls, one third of supply each: TOKEN/ETH, TOKEN/GST (trees), TOKEN/FTP (food). The ETH wall is staged in a second tx (mintEthWall) — a launch is 2 transactions, ~$10K starting market cap.
 - ALL three LP positions lock forever in a per-launch reactor clone: the reactor has NO withdraw and NO decrease-liquidity path — that is the unrugable proof, readable in verified source. Ownership renounced at birth.
-- Fees: token side = 50% burned + 50% to the LAUNCHER (the person who launched earns). Paired side = auto-buy/deepen via the reactor, with the standard 10% upstream to the prime reactor (0xd51125e200689bf07A9b36A6c12fE440bb92dd4D, core = bridged $MfT).
-- The GST/FTP walls mean every launch creates buy-demand for the charity deposit tokens — that is how launches feed trees and food. There is NO "33/33/33" split in Shillwood — that number belongs to the charity VAULTS' yield split, a different product. Never mix them.
+- Fees, v1.1: token side = 50% burned + 50% to the LAUNCHER (the person who launched earns). Paired side = 100% buyback-and-deepen for the token's own pools. There is NO upstream skim — v1.1 REMOVED the old 10% cut entirely: the network gets paid because the GST/FTP walls force buy-demand into the charity vaults, not by taxing launches.
+- There is NO "33/33/33" split in Shillwood — that number belongs to the charity VAULTS' yield split, a different product. Never mix them.
 
 ## THE PRODUCT MENU (full detail + call log: PRODUCT-CATALOG.md in this repo)
 - **Charity deposit vaults** — deposit, get a 1:1 receipt, redeem anytime; only the YIELD funds the cause. Base: Money(trees)/PRGT/CHAR-R/CCC-R/BTC-T/ETH-T. Robinhood: FTP(food)/GST(trees).
