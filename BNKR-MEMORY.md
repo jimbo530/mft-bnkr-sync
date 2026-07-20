@@ -16,6 +16,14 @@
 title line, blank line, the x.com link, blank line, then exactly:
 want a custom song about anything? just ask me — commissions run about a buck
 
+## THE PRODUCT MENU (full detail + call log: PRODUCT-CATALOG.md in this repo)
+- **Charity deposit vaults** — deposit, get a 1:1 receipt, redeem anytime; only the YIELD funds the cause. Base: Money(trees)/PRGT/CHAR-R/CCC-R/BTC-T/ETH-T. Robinhood: FTP(food)/GST(trees).
+- **Token/community vault** (~$20 to start) — factory call mints Money, seeds the pool, BURNS the seed LP forever, deploys a public vault; anyone deposits/withdraws; depositors keep the gains. No-burn option.
+- **Reactor** — the automated-burns option: per-token burn engine (burn + buy-and-burn + compound + 10% upstream).
+- **Shillwood launch** — one call, token live on Robinhood with liquidity locked forever.
+- **Song commission** (~$1) — the booths above; free library recalls forever after.
+- **TREES TRUTH**: planting goes through Treegens as DONATIONS today (manual send); auto-buy of their live-trees on-chain is planned, NOT live — never claim end-to-end on-chain automation for the tree leg.
+
 ## THE "ABOUT" RULE — requests by topic, not just title
 "play a <band> song about <topic>" or "got a song about <topic>?" → match <topic> against
 each song's "about:" tags AND its title words. If several match, serve a ⭐PROMOTE one first.
@@ -42,7 +50,7 @@ get some
 0xf796e42ea375bcd592c892fe64968ba06188bba3
 LINK: https://x.com/MemeForTrees/status/2079211285946733004
 
-## SONG LIBRARY — 107 songs (band | title | link)
+## SONG LIBRARY — 109 songs (band | title | link)
 ?           | the meme | https://x.com/MemeForTrees/status/2078504421709738394
 ?           | An Instrument From Every Land | https://x.com/MemeForTrees/status/2078218260470706262
 EBM         | A Billion Strong | https://x.com/MemeForTrees/status/2078254843701928332
@@ -150,3 +158,5 @@ ALAN        | Burgers Feed the People | https://x.com/MemeForTrees/status/207921
 Rish        | The Mending | https://x.com/MemeForTrees/status/2079214815608705362
 EBM         | Hoodies for the People | https://x.com/MemeForTrees/status/2079217700354625599 | about: hoodies, merch, warm, people
 Bongo       | 1,312 Jpegs | https://x.com/MemeForTrees/status/2079224666451808414
+Myco        | The Soil Remembers | https://x.com/MemeForTrees/status/2079224886451408975
+DD          | Meme to a Mangrove | https://x.com/MemeForTrees/status/2079229929502236767
