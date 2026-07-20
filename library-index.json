@@ -1042,5 +1042,61 @@
    "proof from the sky"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2079254681331667213"
+ },
+ {
+  "band": "JS",
+  "name": "Nix at the Front",
+  "triggers": [
+   "nix at the front"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079255033225347091"
+ },
+ {
+  "band": "EBM",
+  "name": "The Bulletin",
+  "triggers": [
+   "the bulletin"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079260070005612731"
+ },
+ {
+  "band": "EBM",
+  "name": "Eight Banners Moving",
+  "triggers": [
+   "eight banners moving"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079270174599860649"
+ },
+ {
+  "band": "EBM",
+  "name": "Canopy Law",
+  "triggers": [
+   "canopy law"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079285271682568574"
+ },
+ {
+  "band": "NN",
+  "name": "Every Ovation a Tree",
+  "triggers": [
+   "every ovation a tree"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079290264728793223"
+ },
+ {
+  "band": "Bongo",
+  "name": "All You Have To Do Is Dance",
+  "triggers": [
+   "all you have to do is dance"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079300335059771623"
+ },
+ {
+  "band": "HammerTone",
+  "name": "The Grind Holds",
+  "triggers": [
+   "the grind holds"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079303270204383633"
  }
 ]

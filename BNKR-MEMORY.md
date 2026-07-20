@@ -59,7 +59,7 @@ get some
 0xf796e42ea375bcd592c892fe64968ba06188bba3
 LINK: https://x.com/MemeForTrees/status/2079211285946733004
 
-## SONG LIBRARY — 121 songs (band | title | link)
+## SONG LIBRARY — 123 songs (band | title | link)
 ?           | the meme | https://x.com/MemeForTrees/status/2078504421709738394
 ?           | An Instrument From Every Land | https://x.com/MemeForTrees/status/2078218260470706262
 EBM         | A Billion Strong | https://x.com/MemeForTrees/status/2078254843701928332
@@ -181,3 +181,5 @@ EBM         | The Bulletin | https://x.com/MemeForTrees/status/20792600700056127
 EBM         | Eight Banners Moving | https://x.com/MemeForTrees/status/2079270174599860649
 EBM         | Canopy Law | https://x.com/MemeForTrees/status/2079285271682568574
 NN          | Every Ovation a Tree | https://x.com/MemeForTrees/status/2079290264728793223
+Bongo       | All You Have To Do Is Dance | https://x.com/MemeForTrees/status/2079300335059771623
+HammerTone  | The Grind Holds | https://x.com/MemeForTrees/status/2079303270204383633

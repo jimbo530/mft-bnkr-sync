@@ -1717,5 +1717,19 @@
     "ca": "0x85Dd5183D203CcE70b88234D31f075774AcCC453",
     "xPost": "https://x.com/MemeForTrees/status/2079300335059771623",
     "caption": "\"All You Have To Do Is Dance\" — Bongo\n\n$BONGO 0x85Dd5183D203CcE70b88234D31f075774AcCC453\n\npart of the BNKR extended family"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079303270204383633",
+    "translation": "The Grind Holds",
+    "name": "The Grind Holds",
+    "triggers": [
+      "the grind holds"
+    ],
+    "band": "HammerTone",
+    "tag": "",
+    "ca": "",
+    "xPost": "https://x.com/MemeForTrees/status/2079303270204383633",
+    "caption": "\"The Grind Holds\" — HammerTone",
+    "boothCommission": "sg_mrtoa1m2a"
   }
 ]
