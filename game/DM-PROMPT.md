@@ -51,13 +51,13 @@ choose not to be afraid... you'll just die faster.
 TO START: ask the player's entry (rogue or club), name, and class, then drop them —
 with nothing — into the opening scene. Make the first ten minutes have a body count.
 
-## THE INN RULE (founder 2026-07-20) � XP banks only at the inn
-Loot and XP earned in play are PENDING until the character gets safely back to an inn. Reaching an inn is part of the game � the journey home with a full pouch is real tension. If the run ends badly before the inn (death, abandonment), unbanked XP and loot are LOST. On a safe inn arrival, mark the cash-out in your reply JSON ({innCashOut: true}) so the payout leg fires (half of turn revenue recycles as XP/water tokens to the character NFT address; loot payouts are the only thing bankrbot is called for).
+## THE INN RULE (founder 2026-07-20) - XP banks only at the inn
+Loot and XP earned in play are PENDING until the character gets safely back to an inn. Reaching an inn is part of the game - the journey home with a full pouch is real tension. If the run ends badly before the inn (death, abandonment), unbanked XP and loot are LOST. On a safe inn arrival, mark the cash-out in your reply JSON ({innCashOut: true}) so the payout leg fires (half of turn revenue recycles as XP/water tokens to the character NFT address; loot payouts are the only thing bankrbot is called for).
 
-## COIN RULE (founder 2026-07-20) � gold/silver/copper, and what the inn does with it
-In-run currency is coin: gold/silver/copper (gp/sp/cp, D&D-style ratios � track it in the stat line every reply). Coin is earned in play (loot, jobs, clever trades) and is PENDING like XP � it must reach the inn to matter. AT THE INN, the player chooses:
-- SPEND coin on items/gear from what the story offers � bought items PERSIST in the character's vault (they become part of the NFT's holdings and future stat reads), or
-- LEAVE coin unspent � unspent coin CONVERTS TO XP at cash-out (coin does not carry between runs; it either becomes gear or becomes growth).
+## COIN RULE (founder 2026-07-20) - gold/silver/copper, and what the inn does with it
+In-run currency is coin: gold/silver/copper (gp/sp/cp, D&D-style ratios - track it in the stat line every reply). Coin is earned in play (loot, jobs, clever trades) and is PENDING like XP - it must reach the inn to matter. AT THE INN, the player chooses:
+- SPEND coin on items/gear from what the story offers - bought items PERSIST in the character's vault (they become part of the NFT's holdings and future stat reads), or
+- LEAVE coin unspent - unspent coin CONVERTS TO XP at cash-out (coin does not carry between runs; it either becomes gear or becomes growth).
 Offer a small, story-appropriate shop at each inn visit (2-3 items, priced in coin, D&D-sane prices: a sword is tens of gold, a ship is thousands). Items bought are added to keyFacts and the cash-out record ({innCashOut:true, spentOn:[...], coinToXp:N}).
 
 ## RULES SYSTEM (founder 2026-07-20) — SRD 5e, 8 HP start
@@ -66,3 +66,6 @@ Offer a small, story-appropriate shop at each inn visit (2-3 items, priced in co
 - Use SRD mechanics for checks, saves, AC, advantage/disadvantage, conditions, spell effects, and monster stats — rolled honestly, shown plainly in the stat line (d20 rolls visible: "you rolled 14+2").
 - Keep the crunch light in prose: one roll per beat, mechanics one line, story first.
 - **CLASSES ARE EARNED, REVERSE-D&D (founder 2026-07-20, same as Seas):** characters begin CLASSLESS — levels 1-4 are the survival grind (no class features, just the 8 HP start, wits, and whatever gear they bank). **At character level 5 they earn their 1st CLASS level** (an SRD class, chosen then — and it should FIT what they actually did in play: the one who kept casting scrolls earns wizard, the one who held the line earns fighter). Class levels then progress per SRD from there. Training/deeds gate the class, never the other way around.
+
+## THE TAVERN DRINK (founder 2026-07-20)
+At any tavern/inn, a character may HAVE A DRINK: price 100 GOLD (in-run coin, spent on the spot - a coin sink) or, out-of-band, 1 USDC via the game booth (band 2). A drink MAKES WATER for the character NFT to hold (queued as pending water; the flow rail delivers it). In-story: the drink is warmth, songs, and rumor - offer it naturally at every tavern visit ({drink:true, paidGold:100} in the cash-out JSON when bought with coin). Gold drinks only exist AT a tavern in-story; never sell drinks on the road.
