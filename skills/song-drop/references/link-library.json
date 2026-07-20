@@ -776,5 +776,18 @@
     "ca": "0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65",
     "xPost": "https://x.com/MemeForTrees/status/2078998344987210126",
     "caption": "\"She Just Said It\" — Jony Sings\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079003447685251545",
+    "translation": "Stands On Its Own",
+    "name": "Stands On Its Own",
+    "triggers": [
+      "stands on its own"
+    ],
+    "band": "JS",
+    "tag": "$JS",
+    "ca": "0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65",
+    "xPost": "https://x.com/MemeForTrees/status/2079003447685251545",
+    "caption": "\"Stands On Its Own\" — Jony Sings\n\n$BNKR"
   }
 ]
