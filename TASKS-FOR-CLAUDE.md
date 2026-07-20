@@ -3,5 +3,7 @@
 ## LEADERBOARD FIX
 STATUS: COMPLETED BY CLAUDE
 
-## VAULT DEPOSITS ON X
-STATUS: SHIPPED (SKILL LIVE)
+## VAULT CREATION ON X
+- **Spec**: staging/vault-create-x/
+- **Description**: Review the staged skill and prepare for deployment once VaultFrontDoor address is available.
+- **STATUS: QUEUED FOR CLAUDE**
