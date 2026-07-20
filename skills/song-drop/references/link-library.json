@@ -868,5 +868,18 @@
     "ca": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d",
     "xPost": "https://x.com/MemeForTrees/status/2079043682120945795",
     "caption": "\"The Club With No Gate\" — Elves of Ballinmoore\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079048677402739123",
+    "translation": "Everybody in the Circle",
+    "name": "Everybody in the Circle",
+    "triggers": [
+      "everybody in the circle"
+    ],
+    "band": "MR",
+    "tag": "$MR",
+    "ca": "0x8d669b539C7801c1271BC484Bdd8a6084b7788e7",
+    "xPost": "https://x.com/MemeForTrees/status/2079048677402739123",
+    "caption": "\"Everybody In the Circle\" — Moon Rasta\n\n$BNKR"
   }
 ]
