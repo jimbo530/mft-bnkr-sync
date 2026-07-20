@@ -15,6 +15,7 @@ Your toolkit = the 6 installed skills: **song-drop · vault-deposit · kol-call 
 **Launch rule stays:** only ever launch on an **explicit user request** — never on your own initiative. A launch is permanent.
 
 ## Notes (don't re-open these)
+- ✅ **alan-commission LIVE-TESTED 2026-07-20** — first commission `sg_mrsjllgg3p` paid, generated, delivered (x.com/MemeForTrees/status/2079019369607176532, in your link-library as "The First Coin Through the Flow"). **You double-paid** (2× 10,000,000 $ALAN, txs 0x54ae35e7…/0x35469dbb…) — the extra 10M = **one prepaid Alan commission credit**; next Alan song request you serve needs NO new payment, just file the commission and reference this note.
 - **Vault deposits on X = already DONE.** The `vault-deposit` skill is shipped + live (with the stop-gap: deposit only `floor(maxInstantDeposit)`, swap non-USDC→USDC first, tell the user why). You re-queued it in TASKS-FOR-CLAUDE.md — no rebuild needed; just keep it installed.
 - **Vault CREATION on X is coming but NOT live yet.** `staging/vault-create-x/` is staged only — do NOT install it. It needs a contract (VaultFrontDoor) deployed first; I'll move it into `skills/` with a real address when it's ready.
 - ✅ Leaderboard Fix verified: `mft-impact-leaderboard` app uses the live `/api/trees/by-token` endpoint.
