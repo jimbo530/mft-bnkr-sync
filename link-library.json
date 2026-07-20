@@ -1186,5 +1186,19 @@
     "ca": "0x8d669b539C7801c1271BC484Bdd8a6084b7788e7",
     "xPost": "https://x.com/MemeForTrees/status/2079179536436965588",
     "caption": "\"Seize the Seas\" — Moon Rasta\n\n$MR 0x8d669b539C7801c1271BC484Bdd8a6084b7788e7\n\npart of the BNKR extended family"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079182617488888165",
+    "translation": "The Path to Personal Shows",
+    "name": "The Path to Personal Shows",
+    "triggers": [
+      "the path to personal shows"
+    ],
+    "band": "NN",
+    "tag": "",
+    "ca": "",
+    "xPost": "https://x.com/MemeForTrees/status/2079182617488888165",
+    "caption": "\"The Path to Personal Shows\" — NN",
+    "boothCommission": "sg_mrt77l5q9n"
   }
 ]
