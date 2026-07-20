@@ -1584,5 +1584,18 @@
     "xPost": "https://x.com/MemeForTrees/status/2079243269200834706",
     "caption": "\"It Does Not Go Unseen\" — Myco",
     "boothCommission": "sg_mrtfs9bukx"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079245015453176219",
+    "translation": "Dig a Little Deeper",
+    "name": "Dig a Little Deeper",
+    "triggers": [
+      "dig a little deeper"
+    ],
+    "band": "DD",
+    "tag": "$DD",
+    "ca": "0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3",
+    "xPost": "https://x.com/MemeForTrees/status/2079245015453176219",
+    "caption": "\"Dig a Little Deeper\" — Digerie Dude\n\n$DD 0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3\n\npart of the BNKR extended family"
   }
 ]
