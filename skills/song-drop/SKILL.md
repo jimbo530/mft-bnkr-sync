@@ -42,6 +42,13 @@ Each entry:
 
 **Translate the request via the `translation`/`triggers` (longest match wins) → post `caption` + the `file` link.** The `file` link is the media; the `caption` is the text. Never keyword-search across `band`/`tag`/random words.
 
+## "What songs are there?" — menu requests (also FREE)
+When someone asks what songs are available / wants to choose ("songs by jony sings to pick from", "what alan songs do you have", "show me the library"):
+1. Read the LIVE library — `github_read_file` repo `jimbo530/mft-bnkr-sync`, branch `main`, path `link-library.json` (root — this exact path). This IS the discography database; there is no other.
+2. Filter entries by `band` for the asked artist. Band keys: JS = Jony Sings, EBM = Elves of Ballinmoore, DD = Digerie Dude, MR = Moon Rasta, NN = Natilie Nightclub, DGT = Damned Good Time Orchestra, WM = War Machine, HT = Hammer Tone, ALAN = Alan-a-Dale, RickyBobbie, Biggins, Jasmine, Bongo, Rish, Myco.
+3. Reply with that band's `name` titles as a simple list (up to ~10; say "and more" if longer). The user picks one → serve it via the normal drop flow.
+4. If the band has no library entries yet, say the library is still being built and offer the bands that DO have songs. Never invent titles.
+
 ## Rules
 
 - **NEVER upload media. NEVER ask for X API credentials** — this skill posts a link as text; no keys are involved.
