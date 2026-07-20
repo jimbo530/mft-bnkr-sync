@@ -1809,5 +1809,19 @@
     "ca": "0x85Dd5183D203CcE70b88234D31f075774AcCC453",
     "xPost": "https://x.com/MemeForTrees/status/2079345670553469052",
     "caption": "\"For No Reason At All\" — Bongo\n\n$BONGO 0x85Dd5183D203CcE70b88234D31f075774AcCC453\n\npart of the BNKR extended family"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079347245405679828",
+    "translation": "The Hordes Keep Coming",
+    "name": "The Hordes Keep Coming",
+    "triggers": [
+      "the hordes keep coming"
+    ],
+    "band": "WarMachine",
+    "tag": "",
+    "ca": "",
+    "xPost": "https://x.com/MemeForTrees/status/2079347245405679828",
+    "caption": "\"The Hordes Keep Coming\" — WarMachine",
+    "boothCommission": "sg_mrtujosro1"
   }
 ]
