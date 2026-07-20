@@ -1639,5 +1639,18 @@
     "xPost": "https://x.com/MemeForTrees/status/2079254681331667213",
     "caption": "\"Proof From the Sky\" — HammerTone",
     "boothCommission": "sg_mrthbilcnb"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079255033225347091",
+    "translation": "Nix at the Front",
+    "name": "Nix at the Front",
+    "triggers": [
+      "nix at the front"
+    ],
+    "band": "JS",
+    "tag": "$JS",
+    "ca": "0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65",
+    "xPost": "https://x.com/MemeForTrees/status/2079255033225347091",
+    "caption": "\"Nix at the Front\" — Jony Sings\n\n$JS 0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65\n\npart of the BNKR extended family"
   }
 ]
