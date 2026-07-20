@@ -881,5 +881,18 @@
     "ca": "0x8d669b539C7801c1271BC484Bdd8a6084b7788e7",
     "xPost": "https://x.com/MemeForTrees/status/2079048677402739123",
     "caption": "\"Everybody In the Circle\" — Moon Rasta\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079058781825085689",
+    "translation": "Just Say It Plain",
+    "name": "Just Say It Plain",
+    "triggers": [
+      "just say it plain"
+    ],
+    "band": "JS",
+    "tag": "$JS",
+    "ca": "0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65",
+    "xPost": "https://x.com/MemeForTrees/status/2079058781825085689",
+    "caption": "\"Just Say It Plain\" — Jony Sings\n\n$BNKR"
   }
 ]
