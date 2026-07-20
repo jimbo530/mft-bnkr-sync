@@ -1611,5 +1611,19 @@
     "xPost": "https://x.com/MemeForTrees/status/2079250875076296731",
     "caption": "\"Building for the Bulls\" — EBM",
     "boothCommission": "sg_mrtgtm17dm"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079252656258797778",
+    "translation": "Setups in Disguise",
+    "name": "Setups in Disguise",
+    "triggers": [
+      "setups in disguise"
+    ],
+    "band": "Rish",
+    "tag": "",
+    "ca": "",
+    "xPost": "https://x.com/MemeForTrees/status/2079252656258797778",
+    "caption": "\"Setups in Disguise\" — Rish",
+    "boothCommission": "sg_mrth6n3cav"
   }
 ]
