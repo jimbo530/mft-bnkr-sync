@@ -920,5 +920,18 @@
     "ca": "0x52414B7cD2FA723E1c8f9295EB29F16d15aA7BB9",
     "xPost": "https://x.com/MemeForTrees/status/2079073911384244441",
     "caption": "\"Tell It and It's Done\" — Damned Good Time Orchestra\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079078919622336767",
+    "translation": "The Agent Does It",
+    "name": "The Agent Does It",
+    "triggers": [
+      "the agent does it"
+    ],
+    "band": "Bongo",
+    "tag": "$BONGO",
+    "ca": "0x85Dd5183D203CcE70b88234D31f075774AcCC453",
+    "xPost": "https://x.com/MemeForTrees/status/2079078919622336767",
+    "caption": "\"The Agent Does It\" — Bongo\n\n$BNKR"
   }
 ]
