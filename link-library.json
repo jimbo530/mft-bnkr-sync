@@ -9,7 +9,8 @@
     ],
     "tag": "$MfT",
     "xPost": "https://x.com/MemeForTrees/status/2078504421709738394",
-    "caption": "🌱 the tree meme\n\n — the meme that plants real trees. born on bankr, grown on base, spent on forests.\n\nmemes get collected, songs get commissioned, and the machine quietly turns all of it into trees. that is the whole joke — and it is true.\n\n0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+    "caption": "🌱 the tree meme\n\n — the meme that plants real trees. born on bankr, grown on base, spent on forests.\n\nmemes get collected, songs get commissioned, and the machine quietly turns all of it into trees. that is the whole joke — and it is true.\n\n0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "special": true
   },
   {
     "file": "https://x.com/MemeForTrees/status/2078218260470706262",
@@ -1308,5 +1309,23 @@
     "xPost": "https://x.com/MemeForTrees/status/2079211282461315360",
     "caption": "\"The Bridge That Folds\" — Bongo",
     "boothCommission": "sg_mrtb3aryl9"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079211285946733004",
+    "translation": "the meme that feeds people",
+    "name": "the meme that feeds people",
+    "triggers": [
+      "what meme feeds people",
+      "the meme that feeds people",
+      "meme that feeds people",
+      "the burger meme",
+      "burgers meme"
+    ],
+    "band": null,
+    "tag": "$BURGERS",
+    "ca": "0xf796e42ea375bcd592c892fe64968ba06188bba3",
+    "xPost": "https://x.com/MemeForTrees/status/2079211285946733004",
+    "caption": "🍔 the meme that feeds people\n\n$BURGERS — it feeds people with trading fees and yield streams, and the reactor burns the supply. robinhood chain, verifiable on-chain.\n\nget some\n\n0xf796e42ea375bcd592c892fe64968ba06188bba3",
+    "special": true
   }
 ]

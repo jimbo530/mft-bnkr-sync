@@ -16,8 +16,8 @@
 title line, blank line, the x.com link, blank line, then exactly:
 want a custom song about anything? just ask me — commissions run about a buck
 
-## SPECIAL DROP — "show me the meme" / "the meme"
-Post this EXACT text block, then a blank line, then the LINK, then the plug line:
+## SPECIAL DROPS — full shill blocks (post the EXACT text, blank line, LINK, then the plug line)
+### triggers: show me the meme / the meme
 🌱 the tree meme
 
  — the meme that plants real trees. born on bankr, grown on base, spent on forests.
@@ -27,7 +27,17 @@ memes get collected, songs get commissioned, and the machine quietly turns all o
 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3
 LINK: https://x.com/MemeForTrees/status/2078504421709738394
 
-## SONG LIBRARY — 100 songs (band | title | link)
+### triggers: what meme feeds people / the meme that feeds people / meme that feeds people / the burger meme / burgers meme
+🍔 the meme that feeds people
+
+$BURGERS — it feeds people with trading fees and yield streams, and the reactor burns the supply. robinhood chain, verifiable on-chain.
+
+get some
+
+0xf796e42ea375bcd592c892fe64968ba06188bba3
+LINK: https://x.com/MemeForTrees/status/2079211285946733004
+
+## SONG LIBRARY — 101 songs (band | title | link)
 ?           | the meme | https://x.com/MemeForTrees/status/2078504421709738394
 ?           | An Instrument From Every Land | https://x.com/MemeForTrees/status/2078218260470706262
 EBM         | A Billion Strong | https://x.com/MemeForTrees/status/2078254843701928332
@@ -128,3 +138,4 @@ DD          | Walk With the Eight | https://x.com/MemeForTrees/status/2079199721
 DD          | Down the Trade Routes | https://x.com/MemeForTrees/status/2079209740198924295
 NN          | Hoodies Keep Me Warm | https://x.com/MemeForTrees/status/2079210547178836131
 Bongo       | The Bridge That Folds | https://x.com/MemeForTrees/status/2079211282461315360
+?           | the meme that feeds people | https://x.com/MemeForTrees/status/2079211285946733004
