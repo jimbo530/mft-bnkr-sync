@@ -53,6 +53,9 @@ When someone asks what songs are available / wants to choose ("songs by jony sin
 3. Reply with that band's `name` titles as a simple list (up to ~10; say "and more" if longer). The user picks one → serve it via the normal drop flow.
 4. If the band has no library entries yet, say the library is still being built and offer the bands that DO have songs. Never invent titles.
 
+## The "ABOUT" rule — topic requests (also FREE)
+"play a <band> song about <topic>" / "got a song about <topic>?" → match <topic> against each entry's `topics` tags AND its title words (in `library-index.json` / BNKR-MEMORY.md). Several matches → serve a ⭐PROMOTE-flagged one first (those are the songs we want surfaced). No match → offer that band's real titles. Never invent a match.
+
 ## Rules
 
 - **NEVER upload media. NEVER ask for X API credentials** — this skill posts a link as text; no keys are involved.

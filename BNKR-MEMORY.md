@@ -16,6 +16,11 @@
 title line, blank line, the x.com link, blank line, then exactly:
 want a custom song about anything? just ask me — commissions run about a buck
 
+## THE "ABOUT" RULE — requests by topic, not just title
+"play a <band> song about <topic>" or "got a song about <topic>?" → match <topic> against
+each song's "about:" tags AND its title words. If several match, serve a ⭐PROMOTE one first.
+If nothing matches, offer that band's real titles — never invent, never serve tasern URLs.
+
 ## SPECIAL DROPS — full shill blocks (post the EXACT text, blank line, LINK, then the plug line)
 ### triggers: show me the meme / the meme
 🌱 the tree meme
@@ -101,7 +106,7 @@ JS          | She Just Said It | https://x.com/MemeForTrees/status/2078998344987
 JS          | Stands On Its Own | https://x.com/MemeForTrees/status/2079003447685251545
 NN          | It Came With Its Own | https://x.com/MemeForTrees/status/2079013448327835763
 NN          | It Does It for You | https://x.com/MemeForTrees/status/2079018522370285916
-ALAN        | The First Coin Through the Flow | https://x.com/MemeForTrees/status/2079019369607176532
+ALAN        | The First Coin Through the Flow | https://x.com/MemeForTrees/status/2079019369607176532 | about: the machine, song booth, commissions, alan launch | ⭐PROMOTE
 NN          | The Club Is Open Darlings | https://x.com/MemeForTrees/status/2079028545913798660
 EBM         | Say the Word | https://x.com/MemeForTrees/status/2079033579707736570
 EBM         | The Club With No Gate | https://x.com/MemeForTrees/status/2079043682120945795
@@ -120,27 +125,27 @@ Bongo       | They Gave Me a Link | https://x.com/MemeForTrees/status/2079134240
 NN          | We Saved You a Seat | https://x.com/MemeForTrees/status/2079139272595030342
 DD          | Where the Maps Run Out | https://x.com/MemeForTrees/status/2079149386735538233
 JS          | Concrete to Canopy | https://x.com/MemeForTrees/status/2079154411205431773
-ALAN        | The Rules Are the Rules | https://x.com/MemeForTrees/status/2079159997607416101
-ALAN        | Banker Season | https://x.com/MemeForTrees/status/2079160599540347253
-ALAN        | For the Tree and the Bees | https://x.com/MemeForTrees/status/2079163806941384968
+ALAN        | The Rules Are the Rules | https://x.com/MemeForTrees/status/2079159997607416101 | about: rules, account safety, moderation, x rules
+ALAN        | Banker Season | https://x.com/MemeForTrees/status/2079160599540347253 | about: bankr, bnkr, banker, robots, trading season | ⭐PROMOTE
+ALAN        | For the Tree and the Bees | https://x.com/MemeForTrees/status/2079163806941384968 | about: trees, bees, mission, charity, planting | ⭐PROMOTE
 DD          | The Orchard That Was a Fence | https://x.com/MemeForTrees/status/2079164491795673225
 NN          | Little Meme Little Tree | https://x.com/MemeForTrees/status/2079169476151456127
-ALAN        | Here Building Anyway | https://x.com/MemeForTrees/status/2079174697539739889
-ALAN        | Still Building After Dark | https://x.com/MemeForTrees/status/2079177191829422339
-JS          | The Architecture of Trust | https://x.com/MemeForTrees/status/2079177348314779845
+ALAN        | Here Building Anyway | https://x.com/MemeForTrees/status/2079174697539739889 | about: building, builders, late, og, shipping
+ALAN        | Still Building After Dark | https://x.com/MemeForTrees/status/2079177191829422339 | about: building, night shift, builders
+JS          | The Architecture of Trust | https://x.com/MemeForTrees/status/2079177348314779845 | about: trust, civilization, blockchain, verification | ⭐PROMOTE
 MR          | Seize the Seas | https://x.com/MemeForTrees/status/2079179536436965588
-NN          | The Path to Personal Shows | https://x.com/MemeForTrees/status/2079182617488888165
+NN          | The Path to Personal Shows | https://x.com/MemeForTrees/status/2079182617488888165 | about: shows, performing, career, grind
 Rish        | A Little Kid Said Thank You | https://x.com/MemeForTrees/status/2079184612949975232
-NN          | Grow Something Great | https://x.com/MemeForTrees/status/2079186043362812034
-DD          | The Roads Never End | https://x.com/MemeForTrees/status/2079191043380052040
+NN          | Grow Something Great | https://x.com/MemeForTrees/status/2079186043362812034 | about: unity, global, japanese, world, together | ⭐PROMOTE
+DD          | The Roads Never End | https://x.com/MemeForTrees/status/2079191043380052040 | about: walking, roads, journey, together
 EBM         | Street Mint | https://x.com/MemeForTrees/status/2079194675387244947
 DD          | Walk With the Eight | https://x.com/MemeForTrees/status/2079199721881485623
 DD          | Down the Trade Routes | https://x.com/MemeForTrees/status/2079209740198924295
-NN          | Hoodies Keep Me Warm | https://x.com/MemeForTrees/status/2079210547178836131
-Bongo       | The Bridge That Folds | https://x.com/MemeForTrees/status/2079211282461315360
+NN          | Hoodies Keep Me Warm | https://x.com/MemeForTrees/status/2079210547178836131 | about: hoodies, merch, cozy, warm
+Bongo       | The Bridge That Folds | https://x.com/MemeForTrees/status/2079211282461315360 | about: engineering, bridge, snow, switzerland, how things work
 ?           | the meme that feeds people | https://x.com/MemeForTrees/status/2079211285946733004
-EBM         | We Ship Apps | https://x.com/MemeForTrees/status/2079212349836214599
-ALAN        | The Sounds of the Barn Yard | https://x.com/MemeForTrees/status/2079213718303391820
-ALAN        | Burgers Feed the People | https://x.com/MemeForTrees/status/2079214617838952609
+EBM         | We Ship Apps | https://x.com/MemeForTrees/status/2079212349836214599 | about: apps, building, shipping, developers
+ALAN        | The Sounds of the Barn Yard | https://x.com/MemeForTrees/status/2079213718303391820 | about: barnyard, animals, farm, funny
+ALAN        | Burgers Feed the People | https://x.com/MemeForTrees/status/2079214617838952609 | about: burgers, feeding people, burn, robinhood, fees | ⭐PROMOTE
 Rish        | The Mending | https://x.com/MemeForTrees/status/2079214815608705362
-EBM         | Hoodies for the People | https://x.com/MemeForTrees/status/2079217700354625599
+EBM         | Hoodies for the People | https://x.com/MemeForTrees/status/2079217700354625599 | about: hoodies, merch, warm, people

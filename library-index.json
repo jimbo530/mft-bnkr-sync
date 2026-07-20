@@ -514,7 +514,14 @@
   "triggers": [
    "the first coin through the flow"
   ],
-  "xPost": "https://x.com/MemeForTrees/status/2079019369607176532"
+  "xPost": "https://x.com/MemeForTrees/status/2079019369607176532",
+  "topics": [
+   "the machine",
+   "song booth",
+   "commissions",
+   "alan launch"
+  ],
+  "promote": true
  },
  {
   "band": "NN",
@@ -666,7 +673,13 @@
   "triggers": [
    "the rules are the rules"
   ],
-  "xPost": "https://x.com/MemeForTrees/status/2079159997607416101"
+  "xPost": "https://x.com/MemeForTrees/status/2079159997607416101",
+  "topics": [
+   "rules",
+   "account safety",
+   "moderation",
+   "x rules"
+  ]
  },
  {
   "band": "ALAN",
@@ -674,7 +687,15 @@
   "triggers": [
    "banker season"
   ],
-  "xPost": "https://x.com/MemeForTrees/status/2079160599540347253"
+  "xPost": "https://x.com/MemeForTrees/status/2079160599540347253",
+  "topics": [
+   "bankr",
+   "bnkr",
+   "banker",
+   "robots",
+   "trading season"
+  ],
+  "promote": true
  },
  {
   "band": "ALAN",
@@ -682,7 +703,15 @@
   "triggers": [
    "for the tree and the bees"
   ],
-  "xPost": "https://x.com/MemeForTrees/status/2079163806941384968"
+  "xPost": "https://x.com/MemeForTrees/status/2079163806941384968",
+  "topics": [
+   "trees",
+   "bees",
+   "mission",
+   "charity",
+   "planting"
+  ],
+  "promote": true
  },
  {
   "band": "DD",
@@ -706,7 +735,14 @@
   "triggers": [
    "here building anyway"
   ],
-  "xPost": "https://x.com/MemeForTrees/status/2079174697539739889"
+  "xPost": "https://x.com/MemeForTrees/status/2079174697539739889",
+  "topics": [
+   "building",
+   "builders",
+   "late",
+   "og",
+   "shipping"
+  ]
  },
  {
   "band": "ALAN",
@@ -714,7 +750,12 @@
   "triggers": [
    "still building after dark"
   ],
-  "xPost": "https://x.com/MemeForTrees/status/2079177191829422339"
+  "xPost": "https://x.com/MemeForTrees/status/2079177191829422339",
+  "topics": [
+   "building",
+   "night shift",
+   "builders"
+  ]
  },
  {
   "band": "JS",
@@ -722,7 +763,14 @@
   "triggers": [
    "the architecture of trust"
   ],
-  "xPost": "https://x.com/MemeForTrees/status/2079177348314779845"
+  "xPost": "https://x.com/MemeForTrees/status/2079177348314779845",
+  "topics": [
+   "trust",
+   "civilization",
+   "blockchain",
+   "verification"
+  ],
+  "promote": true
  },
  {
   "band": "MR",
@@ -738,7 +786,13 @@
   "triggers": [
    "the path to personal shows"
   ],
-  "xPost": "https://x.com/MemeForTrees/status/2079182617488888165"
+  "xPost": "https://x.com/MemeForTrees/status/2079182617488888165",
+  "topics": [
+   "shows",
+   "performing",
+   "career",
+   "grind"
+  ]
  },
  {
   "band": "Rish",
@@ -754,7 +808,15 @@
   "triggers": [
    "grow something great"
   ],
-  "xPost": "https://x.com/MemeForTrees/status/2079186043362812034"
+  "xPost": "https://x.com/MemeForTrees/status/2079186043362812034",
+  "topics": [
+   "unity",
+   "global",
+   "japanese",
+   "world",
+   "together"
+  ],
+  "promote": true
  },
  {
   "band": "DD",
@@ -762,7 +824,13 @@
   "triggers": [
    "the roads never end"
   ],
-  "xPost": "https://x.com/MemeForTrees/status/2079191043380052040"
+  "xPost": "https://x.com/MemeForTrees/status/2079191043380052040",
+  "topics": [
+   "walking",
+   "roads",
+   "journey",
+   "together"
+  ]
  },
  {
   "band": "EBM",
@@ -794,7 +862,13 @@
   "triggers": [
    "hoodies keep me warm"
   ],
-  "xPost": "https://x.com/MemeForTrees/status/2079210547178836131"
+  "xPost": "https://x.com/MemeForTrees/status/2079210547178836131",
+  "topics": [
+   "hoodies",
+   "merch",
+   "cozy",
+   "warm"
+  ]
  },
  {
   "band": "Bongo",
@@ -802,7 +876,14 @@
   "triggers": [
    "the bridge that folds"
   ],
-  "xPost": "https://x.com/MemeForTrees/status/2079211282461315360"
+  "xPost": "https://x.com/MemeForTrees/status/2079211282461315360",
+  "topics": [
+   "engineering",
+   "bridge",
+   "snow",
+   "switzerland",
+   "how things work"
+  ]
  },
  {
   "band": null,
@@ -822,7 +903,13 @@
   "triggers": [
    "we ship apps"
   ],
-  "xPost": "https://x.com/MemeForTrees/status/2079212349836214599"
+  "xPost": "https://x.com/MemeForTrees/status/2079212349836214599",
+  "topics": [
+   "apps",
+   "building",
+   "shipping",
+   "developers"
+  ]
  },
  {
   "band": "ALAN",
@@ -830,7 +917,13 @@
   "triggers": [
    "the sounds of the barn yard"
   ],
-  "xPost": "https://x.com/MemeForTrees/status/2079213718303391820"
+  "xPost": "https://x.com/MemeForTrees/status/2079213718303391820",
+  "topics": [
+   "barnyard",
+   "animals",
+   "farm",
+   "funny"
+  ]
  },
  {
   "band": "ALAN",
@@ -838,7 +931,15 @@
   "triggers": [
    "burgers feed the people"
   ],
-  "xPost": "https://x.com/MemeForTrees/status/2079214617838952609"
+  "xPost": "https://x.com/MemeForTrees/status/2079214617838952609",
+  "topics": [
+   "burgers",
+   "feeding people",
+   "burn",
+   "robinhood",
+   "fees"
+  ],
+  "promote": true
  },
  {
   "band": "Rish",
@@ -854,6 +955,12 @@
   "triggers": [
    "hoodies for the people"
   ],
-  "xPost": "https://x.com/MemeForTrees/status/2079217700354625599"
+  "xPost": "https://x.com/MemeForTrees/status/2079217700354625599",
+  "topics": [
+   "hoodies",
+   "merch",
+   "warm",
+   "people"
+  ]
  }
 ]

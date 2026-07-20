@@ -829,7 +829,14 @@
     "ca": "0x5e35b494f4941cf6f47d407d93fee66a366daba3",
     "xPost": "https://x.com/MemeForTrees/status/2079019369607176532",
     "caption": "\"The First Coin Through the Flow\" — Alan-a-Dale\n\n$ALAN",
-    "boothCommission": "sg_mrsjllgg3p"
+    "boothCommission": "sg_mrsjllgg3p",
+    "topics": [
+      "the machine",
+      "song booth",
+      "commissions",
+      "alan launch"
+    ],
+    "promote": true
   },
   {
     "file": "https://x.com/MemeForTrees/status/2079028545913798660",
@@ -1077,7 +1084,13 @@
     "ca": "0x5e35b494f4941cf6f47d407d93fee66a366daba3",
     "xPost": "https://x.com/MemeForTrees/status/2079159997607416101",
     "caption": "\"The Rules Are the Rules\" — Alan-a-Dale\n\n$ALAN",
-    "boothCommission": "sg_mrt39nynn0"
+    "boothCommission": "sg_mrt39nynn0",
+    "topics": [
+      "rules",
+      "account safety",
+      "moderation",
+      "x rules"
+    ]
   },
   {
     "file": "https://x.com/MemeForTrees/status/2079160599540347253",
@@ -1091,7 +1104,15 @@
     "ca": "0x5e35b494f4941cf6f47d407d93fee66a366daba3",
     "xPost": "https://x.com/MemeForTrees/status/2079160599540347253",
     "caption": "\"Banker Season\" — Alan-a-Dale\n\n$ALAN",
-    "boothCommission": "sg_mrt284h18a"
+    "boothCommission": "sg_mrt284h18a",
+    "topics": [
+      "bankr",
+      "bnkr",
+      "banker",
+      "robots",
+      "trading season"
+    ],
+    "promote": true
   },
   {
     "file": "https://x.com/MemeForTrees/status/2079163806941384968",
@@ -1105,7 +1126,15 @@
     "ca": "0x5e35b494f4941cf6f47d407d93fee66a366daba3",
     "xPost": "https://x.com/MemeForTrees/status/2079163806941384968",
     "caption": "\"For the Tree and the Bees\" — Alan-a-Dale\n\n$ALAN",
-    "boothCommission": "sg_mrt4givcc5"
+    "boothCommission": "sg_mrt4givcc5",
+    "topics": [
+      "trees",
+      "bees",
+      "mission",
+      "charity",
+      "planting"
+    ],
+    "promote": true
   },
   {
     "file": "https://x.com/MemeForTrees/status/2079164491795673225",
@@ -1145,7 +1174,14 @@
     "ca": "0x5e35b494f4941cf6f47d407d93fee66a366daba3",
     "xPost": "https://x.com/MemeForTrees/status/2079174697539739889",
     "caption": "\"Here Building Anyway\" — Alan-a-Dale\n\n$ALAN",
-    "boothCommission": "sg_mrt61d0n6s"
+    "boothCommission": "sg_mrt61d0n6s",
+    "topics": [
+      "building",
+      "builders",
+      "late",
+      "og",
+      "shipping"
+    ]
   },
   {
     "file": "https://x.com/MemeForTrees/status/2079177191829422339",
@@ -1159,7 +1195,12 @@
     "ca": "0x5e35b494f4941cf6f47d407d93fee66a366daba3",
     "xPost": "https://x.com/MemeForTrees/status/2079177191829422339",
     "caption": "\"Still Building After Dark\" — Alan-a-Dale\n\n$ALAN",
-    "boothCommission": "sg_mrt64m0yon"
+    "boothCommission": "sg_mrt64m0yon",
+    "topics": [
+      "building",
+      "night shift",
+      "builders"
+    ]
   },
   {
     "file": "https://x.com/MemeForTrees/status/2079177348314779845",
@@ -1173,7 +1214,14 @@
     "ca": "",
     "xPost": "https://x.com/MemeForTrees/status/2079177348314779845",
     "caption": "\"The Architecture of Trust\" — JS",
-    "boothCommission": "sg_mrt3p5ed7e"
+    "boothCommission": "sg_mrt3p5ed7e",
+    "topics": [
+      "trust",
+      "civilization",
+      "blockchain",
+      "verification"
+    ],
+    "promote": true
   },
   {
     "file": "https://x.com/MemeForTrees/status/2079179536436965588",
@@ -1200,7 +1248,13 @@
     "ca": "",
     "xPost": "https://x.com/MemeForTrees/status/2079182617488888165",
     "caption": "\"The Path to Personal Shows\" — NN",
-    "boothCommission": "sg_mrt77l5q9n"
+    "boothCommission": "sg_mrt77l5q9n",
+    "topics": [
+      "shows",
+      "performing",
+      "career",
+      "grind"
+    ]
   },
   {
     "file": "https://x.com/MemeForTrees/status/2079184612949975232",
@@ -1227,7 +1281,15 @@
     "ca": "",
     "xPost": "https://x.com/MemeForTrees/status/2079186043362812034",
     "caption": "\"Grow Something Great\" — NN",
-    "boothCommission": "sg_mrt7pgb2o3"
+    "boothCommission": "sg_mrt7pgb2o3",
+    "topics": [
+      "unity",
+      "global",
+      "japanese",
+      "world",
+      "together"
+    ],
+    "promote": true
   },
   {
     "file": "https://x.com/MemeForTrees/status/2079191043380052040",
@@ -1241,7 +1303,13 @@
     "ca": "",
     "xPost": "https://x.com/MemeForTrees/status/2079191043380052040",
     "caption": "\"The Roads Never End\" — DD",
-    "boothCommission": "sg_mrt8akeaq7"
+    "boothCommission": "sg_mrt8akeaq7",
+    "topics": [
+      "walking",
+      "roads",
+      "journey",
+      "together"
+    ]
   },
   {
     "file": "https://x.com/MemeForTrees/status/2079194675387244947",
@@ -1294,7 +1362,13 @@
     "ca": "",
     "xPost": "https://x.com/MemeForTrees/status/2079210547178836131",
     "caption": "\"Hoodies Keep Me Warm\" — NN",
-    "boothCommission": "sg_mrtayfdqcl"
+    "boothCommission": "sg_mrtayfdqcl",
+    "topics": [
+      "hoodies",
+      "merch",
+      "cozy",
+      "warm"
+    ]
   },
   {
     "file": "https://x.com/MemeForTrees/status/2079211282461315360",
@@ -1308,7 +1382,14 @@
     "ca": "",
     "xPost": "https://x.com/MemeForTrees/status/2079211282461315360",
     "caption": "\"The Bridge That Folds\" — Bongo",
-    "boothCommission": "sg_mrtb3aryl9"
+    "boothCommission": "sg_mrtb3aryl9",
+    "topics": [
+      "engineering",
+      "bridge",
+      "snow",
+      "switzerland",
+      "how things work"
+    ]
   },
   {
     "file": "https://x.com/MemeForTrees/status/2079211285946733004",
@@ -1340,7 +1421,13 @@
     "ca": "",
     "xPost": "https://x.com/MemeForTrees/status/2079212349836214599",
     "caption": "\"We Ship Apps\" — EBM",
-    "boothCommission": "sg_mrtb9sua35"
+    "boothCommission": "sg_mrtb9sua35",
+    "topics": [
+      "apps",
+      "building",
+      "shipping",
+      "developers"
+    ]
   },
   {
     "file": "https://x.com/MemeForTrees/status/2079213718303391820",
@@ -1354,7 +1441,13 @@
     "ca": "0x5e35b494f4941cf6f47d407d93fee66a366daba3",
     "xPost": "https://x.com/MemeForTrees/status/2079213718303391820",
     "caption": "\"The Sounds of the Barn Yard\" — Alan-a-Dale\n\n$ALAN",
-    "boothCommission": "sg_mrskpj79ci"
+    "boothCommission": "sg_mrskpj79ci",
+    "topics": [
+      "barnyard",
+      "animals",
+      "farm",
+      "funny"
+    ]
   },
   {
     "file": "https://x.com/MemeForTrees/status/2079214617838952609",
@@ -1368,7 +1461,15 @@
     "ca": "0x5e35b494f4941cf6f47d407d93fee66a366daba3",
     "xPost": "https://x.com/MemeForTrees/status/2079214617838952609",
     "caption": "\"Burgers Feed the People\" — Alan-a-Dale\n\n$ALAN",
-    "boothCommission": "sg_mrtbd24n39"
+    "boothCommission": "sg_mrtbd24n39",
+    "topics": [
+      "burgers",
+      "feeding people",
+      "burn",
+      "robinhood",
+      "fees"
+    ],
+    "promote": true
   },
   {
     "file": "https://x.com/MemeForTrees/status/2079214815608705362",
@@ -1395,6 +1496,12 @@
     "ca": "",
     "xPost": "https://x.com/MemeForTrees/status/2079217700354625599",
     "caption": "\"Hoodies for the People\" — EBM",
-    "boothCommission": "sg_mrtc9j1z1a"
+    "boothCommission": "sg_mrtc9j1z1a",
+    "topics": [
+      "hoodies",
+      "merch",
+      "warm",
+      "people"
+    ]
   }
 ]
