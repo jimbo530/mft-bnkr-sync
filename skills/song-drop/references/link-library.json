@@ -789,5 +789,18 @@
     "ca": "0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65",
     "xPost": "https://x.com/MemeForTrees/status/2079003447685251545",
     "caption": "\"Stands On Its Own\" — Jony Sings\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079013448327835763",
+    "translation": "It Came With Its Own",
+    "name": "It Came With Its Own",
+    "triggers": [
+      "it came with its own"
+    ],
+    "band": "NN",
+    "tag": "$NN",
+    "ca": "0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc",
+    "xPost": "https://x.com/MemeForTrees/status/2079013448327835763",
+    "caption": "\"It Came With Its Own\" — Natilie Nightclub\n\n$BNKR"
   }
 ]
