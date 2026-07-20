@@ -1530,5 +1530,18 @@
     "ca": "0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3",
     "xPost": "https://x.com/MemeForTrees/status/2079224886451408975",
     "caption": "\"- The Soil Remembers\" — Myco\n\n$MYCO 0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3\n\npart of the BNKR extended family"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079229929502236767",
+    "translation": "Meme to a Mangrove",
+    "name": "Meme to a Mangrove",
+    "triggers": [
+      "meme to a mangrove"
+    ],
+    "band": "DD",
+    "tag": "$DD",
+    "ca": "0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3",
+    "xPost": "https://x.com/MemeForTrees/status/2079229929502236767",
+    "caption": "\"Meme to a Mangrove\" — Digerie Dude\n\n$DD 0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3\n\npart of the BNKR extended family"
   }
 ]
