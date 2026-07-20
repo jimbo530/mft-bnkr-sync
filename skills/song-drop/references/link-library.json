@@ -763,5 +763,18 @@
     "ca": "0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65",
     "xPost": "https://x.com/MemeForTrees/status/2078988271829364898",
     "caption": "\"A Crew That Lets You In\" — Jony Sings\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2078998344987210126",
+    "translation": "She Just Said It",
+    "name": "She Just Said It",
+    "triggers": [
+      "she just said it"
+    ],
+    "band": "JS",
+    "tag": "$JS",
+    "ca": "0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65",
+    "xPost": "https://x.com/MemeForTrees/status/2078998344987210126",
+    "caption": "\"She Just Said It\" — Jony Sings\n\n$BNKR"
   }
 ]
