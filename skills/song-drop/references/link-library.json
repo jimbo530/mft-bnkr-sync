@@ -1597,5 +1597,19 @@
     "ca": "0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3",
     "xPost": "https://x.com/MemeForTrees/status/2079245015453176219",
     "caption": "\"Dig a Little Deeper\" — Digerie Dude\n\n$DD 0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3\n\npart of the BNKR extended family"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079250875076296731",
+    "translation": "Building for the Bulls",
+    "name": "Building for the Bulls",
+    "triggers": [
+      "building for the bulls"
+    ],
+    "band": "EBM",
+    "tag": "",
+    "ca": "",
+    "xPost": "https://x.com/MemeForTrees/status/2079250875076296731",
+    "caption": "\"Building for the Bulls\" — EBM",
+    "boothCommission": "sg_mrtgtm17dm"
   }
 ]

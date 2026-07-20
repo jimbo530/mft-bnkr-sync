@@ -1010,5 +1010,21 @@
    "it does not go unseen"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2079243269200834706"
+ },
+ {
+  "band": "DD",
+  "name": "Dig a Little Deeper",
+  "triggers": [
+   "dig a little deeper"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079245015453176219"
+ },
+ {
+  "band": "EBM",
+  "name": "Building for the Bulls",
+  "triggers": [
+   "building for the bulls"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079250875076296731"
  }
 ]
