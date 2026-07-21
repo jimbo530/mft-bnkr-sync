@@ -1266,5 +1266,119 @@
    "the chorus is a network"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2079406074688414018"
+ },
+ {
+  "band": "DD",
+  "name": "Water to the Village",
+  "triggers": [
+   "water to the village"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079411063901028405"
+ },
+ {
+  "band": "DD",
+  "name": "The Wide Path",
+  "triggers": [
+   "the wide path"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079421182261051431"
+ },
+ {
+  "band": "EBM",
+  "name": "The First Joke",
+  "triggers": [
+   "the first joke"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079426155245912571"
+ },
+ {
+  "band": "DD",
+  "name": "Your Name Arrives Before You",
+  "triggers": [
+   "your name arrives before you"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079436271894560936"
+ },
+ {
+  "band": "MR",
+  "name": "Champion of the Trees",
+  "triggers": [
+   "champion of the trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079441256669704465"
+ },
+ {
+  "band": "MR",
+  "name": "Coast to the Cabinet",
+  "triggers": [
+   "coast to the cabinet"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079451323708104792"
+ },
+ {
+  "band": "JS",
+  "name": "Everybody Drinks",
+  "triggers": [
+   "everybody drinks"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079456395129131479"
+ },
+ {
+  "band": "DD",
+  "name": "The Sun Comes Back",
+  "triggers": [
+   "the sun comes back"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079466429527593230"
+ },
+ {
+  "band": "EBM",
+  "name": "Chorus Like an Army",
+  "triggers": [
+   "chorus like an army"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079471492564135955"
+ },
+ {
+  "band": "MR",
+  "name": "The Roar Plants the Grove",
+  "triggers": [
+   "the roar plants the grove"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079481560013693296"
+ },
+ {
+  "band": "Rish",
+  "name": "Will Ye March",
+  "triggers": [
+   "will ye march"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079486608634445944"
+ },
+ {
+  "band": "Myco",
+  "name": "The Rite of the Floor",
+  "triggers": [
+   "the rite of the floor"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079496676171993146"
+ },
+ {
+  "band": "EBM",
+  "name": "No Hands",
+  "triggers": [
+   "no hands"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079501653300932876"
+ },
+ {
+  "band": null,
+  "name": "tunes for trees",
+  "triggers": [
+   "tunes for trees",
+   "tunes 4 trees",
+   "tunesfortrees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079507647942795388"
  }
 ]

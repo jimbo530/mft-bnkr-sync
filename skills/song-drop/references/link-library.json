@@ -2180,5 +2180,21 @@
     "ca": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d",
     "xPost": "https://x.com/MemeForTrees/status/2079501653300932876",
     "caption": "\"No Hands\" — Elves of Ballinmoore\n\n$EBM 0xF113fe2A0E1181A21fA97B1F52ff232140B7692d\n\npart of the BNKR extended family"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079507647942795388",
+    "translation": "tunes for trees",
+    "name": "tunes for trees",
+    "triggers": [
+      "tunes for trees",
+      "tunes 4 trees",
+      "tunesfortrees"
+    ],
+    "band": null,
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2079507647942795388",
+    "caption": "🌱🎶 tunes for trees — the broadcast\n\njust listen, like, and share to help fund forests. every play is a little rain.\n\n$MfT",
+    "special": true
   }
 ]

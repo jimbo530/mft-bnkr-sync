@@ -80,7 +80,15 @@ get some
 0xf796e42ea375bcd592c892fe64968ba06188bba3
 LINK: https://x.com/MemeForTrees/status/2079211285946733004
 
-## SONG LIBRARY — 144 songs (band | title | link)
+### triggers: tunes for trees / tunes 4 trees / tunesfortrees
+🌱🎶 tunes for trees — the broadcast
+
+just listen, like, and share to help fund forests. every play is a little rain.
+
+$MfT
+LINK: https://x.com/MemeForTrees/status/2079507647942795388
+
+## SONG LIBRARY — 158 songs (band | title | link)
 ?           | the meme | https://x.com/MemeForTrees/status/2079407960246124867
 ?           | An Instrument From Every Land | https://x.com/MemeForTrees/status/2078218260470706262
 EBM         | A Billion Strong | https://x.com/MemeForTrees/status/2078254843701928332
@@ -225,3 +233,17 @@ DGT         | Requests at Last Call | https://x.com/MemeForTrees/status/20793909
 WarMachine  | Earn It | https://x.com/MemeForTrees/status/2079395156420124760
 NN          | Last Call Is a Lie | https://x.com/MemeForTrees/status/2079396007461212252
 Myco        | The Chorus Is a Network | https://x.com/MemeForTrees/status/2079406074688414018
+DD          | Water to the Village | https://x.com/MemeForTrees/status/2079411063901028405
+DD          | The Wide Path | https://x.com/MemeForTrees/status/2079421182261051431
+EBM         | The First Joke | https://x.com/MemeForTrees/status/2079426155245912571
+DD          | Your Name Arrives Before You | https://x.com/MemeForTrees/status/2079436271894560936
+MR          | Champion of the Trees | https://x.com/MemeForTrees/status/2079441256669704465
+MR          | Coast to the Cabinet | https://x.com/MemeForTrees/status/2079451323708104792
+JS          | Everybody Drinks | https://x.com/MemeForTrees/status/2079456395129131479
+DD          | The Sun Comes Back | https://x.com/MemeForTrees/status/2079466429527593230
+EBM         | Chorus Like an Army | https://x.com/MemeForTrees/status/2079471492564135955
+MR          | The Roar Plants the Grove | https://x.com/MemeForTrees/status/2079481560013693296
+Rish        | Will Ye March | https://x.com/MemeForTrees/status/2079486608634445944
+Myco        | The Rite of the Floor | https://x.com/MemeForTrees/status/2079496676171993146
+EBM         | No Hands | https://x.com/MemeForTrees/status/2079501653300932876
+?           | tunes for trees | https://x.com/MemeForTrees/status/2079507647942795388
