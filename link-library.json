@@ -2546,5 +2546,18 @@
     "ca": "0x52414B7cD2FA723E1c8f9295EB29F16d15aA7BB9",
     "xPost": "https://x.com/MemeForTrees/status/2079652744743256076",
     "caption": "\"More Life Than Half the Charts\" — Damned Good Time Orchestra\n\n$DGT 0x52414B7cD2FA723E1c8f9295EB29F16d15aA7BB9\n\npart of the BNKR extended family"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079662755460645199",
+    "translation": "Haul the Harvest Home",
+    "name": "Haul the Harvest Home",
+    "triggers": [
+      "haul the harvest home"
+    ],
+    "band": "MR",
+    "tag": "$MR",
+    "ca": "0x8d669b539C7801c1271BC484Bdd8a6084b7788e7",
+    "xPost": "https://x.com/MemeForTrees/status/2079662755460645199",
+    "caption": "\"Haul the Harvest Home\" — Moon Rasta\n\n$MR 0x8d669b539C7801c1271BC484Bdd8a6084b7788e7\n\npart of the BNKR extended family"
   }
 ]
