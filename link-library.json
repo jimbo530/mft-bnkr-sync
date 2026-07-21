@@ -1985,5 +1985,18 @@
     "xPost": "https://x.com/MemeForTrees/status/2079395156420124760",
     "caption": "\"Earn It\" — WarMachine",
     "boothCommission": "sg_mru1d6ruoh"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079396007461212252",
+    "translation": "Last Call Is a Lie",
+    "name": "Last Call Is a Lie",
+    "triggers": [
+      "last call is a lie"
+    ],
+    "band": "NN",
+    "tag": "$NN",
+    "ca": "0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc",
+    "xPost": "https://x.com/MemeForTrees/status/2079396007461212252",
+    "caption": "\"Last Call Is a Lie\" — Natilie Nightclub\n\n$NN 0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc\n\npart of the BNKR extended family"
   }
 ]
