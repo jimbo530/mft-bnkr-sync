@@ -110,7 +110,7 @@ RWIhood.org got a makeover — mobile rebuilt, and a new "The Founder" section. 
 friends of the family — their charity vault and Impact Reactor run on our rails.
 LINK: https://x.com/RWIrobinhood/status/2079346822674272594
 
-## SONG LIBRARY — 174 songs (band | title | link)
+## SONG LIBRARY — 175 songs (band | title | link)
 ?           | the meme | https://x.com/MemeForTrees/status/2079407960246124867
 ?           | An Instrument From Every Land | https://x.com/MemeForTrees/status/2078218260470706262
 EBM         | A Billion Strong | https://x.com/MemeForTrees/status/2078254843701928332
@@ -285,3 +285,4 @@ JS          | Build the Grove | https://x.com/MemeForTrees/status/20795872187760
 Bongo       | For No Reason At All | https://x.com/MemeForTrees/status/2079592301324550600
 ?           | whats new with RWI | https://x.com/RWIrobinhood/status/2079346822674272594
 JS          | Friday on the Green | https://x.com/MemeForTrees/status/2079602365896724633
+RickyBobbie | Three Weeks in a Minute | https://x.com/MemeForTrees/status/2079604628786708673

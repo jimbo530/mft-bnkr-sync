@@ -2413,5 +2413,19 @@
     "ca": "0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65",
     "xPost": "https://x.com/MemeForTrees/status/2079602365896724633",
     "caption": "\"Friday on the Green\" — Jony Sings\n\n$JS 0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65\n\npart of the BNKR extended family"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079604628786708673",
+    "translation": "Three Weeks in a Minute",
+    "name": "Three Weeks in a Minute",
+    "triggers": [
+      "three weeks in a minute"
+    ],
+    "band": "RickyBobbie",
+    "tag": "",
+    "ca": "",
+    "xPost": "https://x.com/MemeForTrees/status/2079604628786708673",
+    "caption": "\"Three Weeks in a Minute\" — RickyBobbie",
+    "boothCommission": "sg_mruuzpind1"
   }
 ]

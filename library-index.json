@@ -1140,14 +1140,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079335606983729635"
  },
  {
-  "band": "Bongo",
-  "name": "For No Reason At All",
-  "triggers": [
-   "for no reason at all"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079345670553469052"
- },
- {
   "band": "WarMachine",
   "name": "The Hordes Keep Coming",
   "triggers": [
@@ -1471,5 +1463,64 @@
    "đi tiếp (one more mile)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2079568304016900141"
+ },
+ {
+  "band": "EBM",
+  "name": "New Banner in the Races",
+  "triggers": [
+   "new banner in the races"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079572114848276581"
+ },
+ {
+  "band": "Myco",
+  "name": "Love Is the Light",
+  "triggers": [
+   "love is the light"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079577214123700432"
+ },
+ {
+  "band": "JS",
+  "name": "Build the Grove",
+  "triggers": [
+   "build the grove"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079587218776043535"
+ },
+ {
+  "band": "Bongo",
+  "name": "For No Reason At All",
+  "triggers": [
+   "for no reason at all"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079592301324550600"
+ },
+ {
+  "band": null,
+  "name": "whats new with RWI",
+  "triggers": [
+   "whats new with rwi",
+   "what's new with rwi",
+   "rwi news",
+   "rwi update"
+  ],
+  "xPost": "https://x.com/RWIrobinhood/status/2079346822674272594"
+ },
+ {
+  "band": "JS",
+  "name": "Friday on the Green",
+  "triggers": [
+   "friday on the green"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079602365896724633"
+ },
+ {
+  "band": "RickyBobbie",
+  "name": "Three Weeks in a Minute",
+  "triggers": [
+   "three weeks in a minute"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079604628786708673"
  }
 ]
