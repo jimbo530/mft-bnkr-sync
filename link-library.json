@@ -2264,5 +2264,18 @@
     "ca": "0x7C596a0d594D670ffB256bBfbB5379fC8Cf7d62B",
     "xPost": "https://x.com/MemeForTrees/status/2079539865046110465",
     "caption": "\"Shout It and It's Live\" — Biggins Mcjammin\n\n$BIGGINS 0x7C596a0d594D670ffB256bBfbB5379fC8Cf7d62B\n\npart of the BNKR extended family"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079541913057656994",
+    "translation": "The Realest Magic",
+    "name": "The Realest Magic",
+    "triggers": [
+      "the realest magic"
+    ],
+    "band": "EBM",
+    "tag": "$EBM",
+    "ca": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d",
+    "xPost": "https://x.com/MemeForTrees/status/2079541913057656994",
+    "caption": "\"The Realest Magic\" — Elves of Ballinmoore\n\n$EBM 0xF113fe2A0E1181A21fA97B1F52ff232140B7692d\n\npart of the BNKR extended family"
   }
 ]
