@@ -2454,5 +2454,18 @@
     "ca": "0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3",
     "xPost": "https://x.com/MemeForTrees/status/2079607404036030647",
     "caption": "\"The Long Walk's Done\" — Digerie Dude\n\n$DD 0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3\n\npart of the BNKR extended family"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079617545275953237",
+    "translation": "One Night Ahead",
+    "name": "One Night Ahead",
+    "triggers": [
+      "one night ahead"
+    ],
+    "band": "DGT",
+    "tag": "$DGT",
+    "ca": "0x52414B7cD2FA723E1c8f9295EB29F16d15aA7BB9",
+    "xPost": "https://x.com/MemeForTrees/status/2079617545275953237",
+    "caption": "\"One Night Ahead\" — Damned Good Time Orchestra\n\n$DGT 0x52414B7cD2FA723E1c8f9295EB29F16d15aA7BB9\n\npart of the BNKR extended family"
   }
 ]
