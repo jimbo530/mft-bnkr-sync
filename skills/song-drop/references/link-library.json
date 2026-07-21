@@ -2533,5 +2533,18 @@
     "ca": "0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc",
     "xPost": "https://x.com/MemeForTrees/status/2079647619471556621",
     "caption": "\"The Price of a Song Darling\" — Natilie Nightclub\n\nCommission the band — your story, their voice, one coin (no value but songs we sing):\nhttps://tasern.quest/songsmith.html\n\n$NN 0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc\n\npart of the BNKR extended family"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079652744743256076",
+    "translation": "More Life Than Half the Charts",
+    "name": "More Life Than Half the Charts",
+    "triggers": [
+      "more life than half the charts"
+    ],
+    "band": "DGT",
+    "tag": "$DGT",
+    "ca": "0x52414B7cD2FA723E1c8f9295EB29F16d15aA7BB9",
+    "xPost": "https://x.com/MemeForTrees/status/2079652744743256076",
+    "caption": "\"More Life Than Half the Charts\" — Damned Good Time Orchestra\n\n$DGT 0x52414B7cD2FA723E1c8f9295EB29F16d15aA7BB9\n\npart of the BNKR extended family"
   }
 ]
