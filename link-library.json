@@ -1862,5 +1862,19 @@
     "ca": "0x85Dd5183D203CcE70b88234D31f075774AcCC453",
     "xPost": "https://x.com/MemeForTrees/status/2079365765342327128",
     "caption": "\"What's Over There On Base\" — Bongo\n\n$BONGO 0x85Dd5183D203CcE70b88234D31f075774AcCC453\n\npart of the BNKR extended family"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079370388090302718",
+    "translation": "Where I Can",
+    "name": "Where I Can",
+    "triggers": [
+      "where i can"
+    ],
+    "band": "MR",
+    "tag": "",
+    "ca": "",
+    "xPost": "https://x.com/MemeForTrees/status/2079370388090302718",
+    "caption": "\"Where I Can\" — MR",
+    "boothCommission": "sg_mrtxvzhbbx"
   }
 ]

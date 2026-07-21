@@ -1154,5 +1154,37 @@
    "the hordes keep coming"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2079347245405679828"
+ },
+ {
+  "band": "JS",
+  "name": "Still on the Stoop",
+  "triggers": [
+   "still on the stoop"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079350670482620653"
+ },
+ {
+  "band": "JS",
+  "name": "Money That Feeds",
+  "triggers": [
+   "money that feeds"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079360764939207146"
+ },
+ {
+  "band": "Bongo",
+  "name": "What's Over There On Base",
+  "triggers": [
+   "what's over there on base"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079365765342327128"
+ },
+ {
+  "band": "MR",
+  "name": "Where I Can",
+  "triggers": [
+   "where i can"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079370388090302718"
  }
 ]
