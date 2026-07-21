@@ -1194,5 +1194,21 @@
    "a hopping good time"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2079371832369577998"
+ },
+ {
+  "band": "Rish",
+  "name": "Sing Ye for a Coin",
+  "triggers": [
+   "sing ye for a coin"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079375826403885081"
+ },
+ {
+  "band": "MR",
+  "name": "How You Made Them Feel",
+  "triggers": [
+   "how you made them feel"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079378601695166716"
  }
 ]

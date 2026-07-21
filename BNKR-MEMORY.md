@@ -76,7 +76,7 @@ get some
 0xf796e42ea375bcd592c892fe64968ba06188bba3
 LINK: https://x.com/MemeForTrees/status/2079211285946733004
 
-## SONG LIBRARY — 135 songs (band | title | link)
+## SONG LIBRARY — 137 songs (band | title | link)
 ?           | the meme | https://x.com/MemeForTrees/status/2078504421709738394
 ?           | An Instrument From Every Land | https://x.com/MemeForTrees/status/2078218260470706262
 EBM         | A Billion Strong | https://x.com/MemeForTrees/status/2078254843701928332
@@ -212,3 +212,5 @@ JS          | Money That Feeds | https://x.com/MemeForTrees/status/2079360764939
 Bongo       | What's Over There On Base | https://x.com/MemeForTrees/status/2079365765342327128
 MR          | Where I Can | https://x.com/MemeForTrees/status/2079370388090302718
 ALAN        | A Hopping Good Time | https://x.com/MemeForTrees/status/2079371832369577998
+Rish        | Sing Ye for a Coin | https://x.com/MemeForTrees/status/2079375826403885081
+MR          | How You Made Them Feel | https://x.com/MemeForTrees/status/2079378601695166716
