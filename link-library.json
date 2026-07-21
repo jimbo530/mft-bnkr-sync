@@ -2141,5 +2141,18 @@
     "ca": "0x8d669b539C7801c1271BC484Bdd8a6084b7788e7",
     "xPost": "https://x.com/MemeForTrees/status/2079481560013693296",
     "caption": "\"The Roar Plants the Grove\" — Moon Rasta\n\n$MR 0x8d669b539C7801c1271BC484Bdd8a6084b7788e7\n\npart of the BNKR extended family"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079486608634445944",
+    "translation": "Will Ye March",
+    "name": "Will Ye March",
+    "triggers": [
+      "will ye march"
+    ],
+    "band": "Rish",
+    "tag": "$RISH",
+    "ca": "0x31c600871603bab5d855463E03c6d0a9eB661D26",
+    "xPost": "https://x.com/MemeForTrees/status/2079486608634445944",
+    "caption": "\"Will Ye March\" — Rish\n\n$RISH 0x31c600871603bab5d855463E03c6d0a9eB661D26\n\npart of the BNKR extended family"
   }
 ]
