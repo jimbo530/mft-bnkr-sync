@@ -1890,5 +1890,18 @@
     "xPost": "https://x.com/MemeForTrees/status/2079371832369577998",
     "caption": "\"A Hopping Good Time\" — Alan-a-Dale\n\n$ALAN",
     "boothCommission": "sg_mrty0c007q"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079375826403885081",
+    "translation": "Sing Ye for a Coin",
+    "name": "Sing Ye for a Coin",
+    "triggers": [
+      "sing ye for a coin"
+    ],
+    "band": "Rish",
+    "tag": "$RISH",
+    "ca": "0x31c600871603bab5d855463E03c6d0a9eB661D26",
+    "xPost": "https://x.com/MemeForTrees/status/2079375826403885081",
+    "caption": "\"Sing Ye for a Coin\" — Rish\n\nCommission the band — your story, their voice, one coin (no value but songs we sing):\nhttps://tasern.quest/songsmith.html\n\n$RISH 0x31c600871603bab5d855463E03c6d0a9eB661D26\n\npart of the BNKR extended family"
   }
 ]
