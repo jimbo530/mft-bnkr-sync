@@ -2370,5 +2370,18 @@
     "ca": "0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3",
     "xPost": "https://x.com/MemeForTrees/status/2079577214123700432",
     "caption": "\"- Love Is the Light\" — Myco\n\n$MYCO 0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3\n\npart of the BNKR extended family"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079587218776043535",
+    "translation": "Build the Grove",
+    "name": "Build the Grove",
+    "triggers": [
+      "build the grove"
+    ],
+    "band": "JS",
+    "tag": "$JS",
+    "ca": "0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65",
+    "xPost": "https://x.com/MemeForTrees/status/2079587218776043535",
+    "caption": "\"Build the Grove\" — Jony Sings\n\n$JS 0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65\n\npart of the BNKR extended family"
   }
 ]
