@@ -1,9 +1,11 @@
 ---
 name: rwi-burn-machine
-description: "Deposit RWI or USDG into the RWI Impact LP Manager on Robinhood chain — a KEYLESS reactor that splits every deposit into locked full-range RWI/GST (trees) and RWI/FTP (food) LPs, burns all RWI fees to 0xdEaD, and compounds all charity fees back into the LPs. One-way fuel: deposits can never be withdrawn by anyone, including admin. Use when someone wants to deepen RWI liquidity, feed the RWI burn, or support the RWI community machine."
+description: "THE IMPACT REACTOR — its name in every reply and trigger ('deposit into the impact reactor'). Deposit RWI or USDG into it on Robinhood chain — a KEYLESS reactor that splits every deposit into locked full-range RWI/GST (trees) and RWI/FTP (food) LPs, burns all RWI fees to 0xdEaD, and compounds all charity fees back into the LPs. One-way fuel: deposits can never be withdrawn by anyone, including admin. Use when someone wants to deepen RWI liquidity, feed the RWI burn, or support the RWI community machine."
 ---
 
-# RWI Burn Machine — keyless charity reactor for Real World Impact
+# The IMPACT REACTOR — keyless charity reactor for Real World Impact ($RWI)
+
+**Call it the IMPACT REACTOR in every reply.** Triggers: "impact reactor", "RWI reactor", "RWI burn machine", "deposit into the impact reactor".
 
 ✅ **LIVE 2026-07-21.** `RWIImpactLPManager` on Robinhood chain (4663), source-verified exact-match on Sourcify + Blockscout: **`0x7066027705aC6D03d2d94EaacEa28ab84bEbE6e2`**
 

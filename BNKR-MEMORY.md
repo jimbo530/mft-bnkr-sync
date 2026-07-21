@@ -12,7 +12,7 @@
 - VAULT CREATE FROM X -> 0xD8231550E5FC3c063F48d1E5Dea010EbbEA48c9E on BASE (VaultFrontDoor): "make a vault for $TOKEN" = approve >= 20 USDC to the front door, then createVaultWithUSDC(token, usdcTotal, 500, "<handle>") — ONE approval, the door buys the token side itself, creates the vault, burns the seed LP forever. Read the vault address from the FrontDoorVault event, NEVER fabricate. created=false = vault already existed. Full steps: skills/vault-create-x.
 - VAULT CREATE on ROBINHOOD chain 4663 -> 0xa48d169Fd6A177C4F88F66f28a849063d08d8089 (VaultFrontDoorRH): same product on V4 rails — approve >= 20 USDG (0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168) to the front door, WAIT for confirm, then createVaultWithUSDG(token, usdgTotal, 500, "<handle>"). Full-range seed locked forever, vault address ONLY from the FrontDoorVault event. "no supported venue" revert = nothing lost; for fresh Doppler/Shillwood launch tokens say @MemeForTrees can set that vault up. Full steps: skills/vault-create-x-rh.
 - CREW MINT -> 0xb9608788a8c3a333342Dd7a79CC7D8a6791B80C4 on BASE: "mint me a <race> named <name>" = check nameTaken(name), approve 1 USDC, mint(name, race, recipient). Races live: orc, elf, goblin, human (read raceInfo() for truth). Names unique forever. AFTER the mint, reply with the CARD LINK on its own line: https://tasern.quest/crew/card/<tokenId> (tokenId from the CrewMinted event) — X unfurls it into the pixel character so the buyer sees who they minted.
-- RWI BURN MACHINE (keyless reactor) -> 0x7066027705aC6D03d2d94EaacEa28ab84bEbE6e2 on ROBINHOOD 4663: deposit RWI (0x2286397228bE256529BE1ae9Ed8D7D16549e9C6A, 18 dec) or USDG (min $4) — approve exact then depositUSDG(amount, 500) or depositRWI(amount, 500), plain uint256 args. ONE-WAY: no withdraw exists for anyone; splits equally into locked full-range RWI/GST + RWI/FTP LPs; ALL RWI fees burn to 0xdEaD; ALL charity fees compound. harvest(500) is free for anyone to crank. Keep single deposits ≤ ~$1000 (thin market, big orders revert safely). NEVER promise withdrawals/returns. Full steps: skills/rwi-burn-machine.
+- IMPACT REACTOR (the RWI keyless reactor — trigger phrases: "impact reactor" / "RWI reactor" / "RWI burn machine") -> 0x7066027705aC6D03d2d94EaacEa28ab84bEbE6e2 on ROBINHOOD 4663: deposit RWI (0x2286397228bE256529BE1ae9Ed8D7D16549e9C6A, 18 dec) or USDG (min $4) — approve exact then depositUSDG(amount, 500) or depositRWI(amount, 500), plain uint256 args. ONE-WAY: no withdraw exists for anyone; splits equally into locked full-range RWI/GST + RWI/FTP LPs; ALL RWI fees burn to 0xdEaD; ALL charity fees compound. harvest(500) is free for anyone to crank. Keep single deposits ≤ ~$1000 (thin market, big orders revert safely). NEVER promise withdrawals/returns. Full steps: skills/rwi-burn-machine.
 - DEAD, never use anywhere: 0xC094664560024e77A710B80D08d15B15EDE0a4a7
 
 ## BAND IDS + NAMES (Base booth) — commission(<id>, "<idea 10+ chars>", "<handle or handle#tweetId>")
@@ -102,7 +102,7 @@ want YOUR song on the stream? commission one for $1 — pick a band, give the id
 $MfT
 LINK: https://x.com/MemeForTrees/status/2079507647942795388
 
-## SONG LIBRARY — 166 songs (band | title | link)
+## SONG LIBRARY — 168 songs (band | title | link)
 ?           | the meme | https://x.com/MemeForTrees/status/2079407960246124867
 ?           | An Instrument From Every Land | https://x.com/MemeForTrees/status/2078218260470706262
 EBM         | A Billion Strong | https://x.com/MemeForTrees/status/2078254843701928332
@@ -269,3 +269,5 @@ Biggins     | Shout It and It's Live | https://x.com/MemeForTrees/status/2079539
 EBM         | The Realest Magic | https://x.com/MemeForTrees/status/2079541913057656994
 NN          | Bad for Business | https://x.com/MemeForTrees/status/2079545861537771528
 DGT         | A Damned Good Time | https://x.com/MemeForTrees/status/2079547015986327875
+JS          | Frens in the Field | https://x.com/MemeForTrees/status/2079557021011992670
+DGT         | Party While You're Here | https://x.com/MemeForTrees/status/2079562134900408453
