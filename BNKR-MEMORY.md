@@ -80,15 +80,17 @@ get some
 0xf796e42ea375bcd592c892fe64968ba06188bba3
 LINK: https://x.com/MemeForTrees/status/2079211285946733004
 
-### triggers: tunes for trees / tunes 4 trees / tunesfortrees
-🌱🎶 tunes for trees — the broadcast
+### triggers: tunes for trees / tunes 4 trees / tunesfortrees / music for trees / music 4 trees
+🌱🎶 tunes for trees — the 24/7 stream
 
 just listen, like, and share to help fund forests. every play is a little rain.
+
+want YOUR song on the stream? commission one for $1 — pick a band, give the idea, and it joins the rotation forever. just ask me.
 
 $MfT
 LINK: https://x.com/MemeForTrees/status/2079507647942795388
 
-## SONG LIBRARY — 158 songs (band | title | link)
+## SONG LIBRARY — 159 songs (band | title | link)
 ?           | the meme | https://x.com/MemeForTrees/status/2079407960246124867
 ?           | An Instrument From Every Land | https://x.com/MemeForTrees/status/2078218260470706262
 EBM         | A Billion Strong | https://x.com/MemeForTrees/status/2078254843701928332
@@ -247,3 +249,4 @@ Rish        | Will Ye March | https://x.com/MemeForTrees/status/2079486608634445
 Myco        | The Rite of the Floor | https://x.com/MemeForTrees/status/2079496676171993146
 EBM         | No Hands | https://x.com/MemeForTrees/status/2079501653300932876
 ?           | tunes for trees | https://x.com/MemeForTrees/status/2079507647942795388
+EBM         | The Good Word | https://x.com/MemeForTrees/status/2079511765981794372

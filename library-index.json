@@ -1377,8 +1377,18 @@
   "triggers": [
    "tunes for trees",
    "tunes 4 trees",
-   "tunesfortrees"
+   "tunesfortrees",
+   "music for trees",
+   "music 4 trees"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2079507647942795388"
+ },
+ {
+  "band": "EBM",
+  "name": "The Good Word",
+  "triggers": [
+   "the good word"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079511765981794372"
  }
 ]
