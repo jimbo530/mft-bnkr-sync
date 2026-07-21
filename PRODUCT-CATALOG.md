@@ -54,7 +54,20 @@ Two chains, one engine. On **Base**, people deposit USDC (or cbBTC/wETH) into **
 - **HOW TO USE IT:** two txs: `approve(fund, amount)` on the asset, then `deposit(amount)` (or `depositFor(to, amount)`). Exit: `redeem(amount)`. Wrapped by skill **base-charity-deposit** (`./scripts/deposit.sh <key> <amount>`).
 - **WHERE THE MONEY FLOWS:** principal â†’ Aave V3 Base. Every `harvest()` (permissionless): **33.34%** USDC â†’ the cause wallet in the table, **33.33%** â†’ ReactorPrimeV3 `0xA97af977â€¦c9BA` as Money, **33.33%** â†’ stays in Aave and accrues to receipt holders (claim via `claim()` / `claimV2Pool()` / `claimV3Position()`). All splits read live on-chain (FEE-FLOW-MAP, re-verified 2026-07-19).
 
-### 2.4 Community vault creation â€” Robinhood (RHVaultFactory)
+### 2.4 Community vault creation â€” Robinhood ✅ CURRENT: V4 suite (TokenVaultFactoryV4_RH + front door)
+
+- **CHAIN:** Robinhood (4663)
+- **ADDRESSES (all ✅ Sourcify exact_match + Blockscout verified, 2026-07-21):**
+  | contract | address | note |
+  |---|---|---|
+  | VaultFrontDoorRH | `0xa48d169Fd6A177C4F88F66f28a849063d08d8089` | the X entrance — ONE USDG approval |
+  | TokenVaultFactoryV4_RH | `0x424D493dfAA560DE32CfbaDEc025d9E783836413` | ZERO admin keys; one vault per token; `vaultForToken(token)` = truth |
+  | TokenVaultV4_RH (impl) | `0x763D53A7DaD5d928076A8e25680f33d4B5f7d41f` | clone target |
+- **WHAT THE USER GETS:** any RH token gets a **TOKEN/GST community vault** from one USDG payment ($20+). Full-range V4 seed **locked forever by absence of code** (the vault has no withdraw/decrease path for the seed — readable in verified source). Anyone then deposits USDG; withdraw anytime as USDG or as the token; fees + yield **compound with no new shares** — depositors keep the gains. Customers never touch GST (backend only).
+- **HOW TO USE IT (skill: vault-create-x-rh):** approve ≥ `20000000` USDG (6-dec) to the front door, wait for confirm, then `createVaultWithUSDG(token, usdgTotal, 500, "@handle")`. Vault address from the `FrontDoorVault` event ONLY. `"no supported venue"` revert = nothing pulled, nothing lost (fresh Doppler-launch tokens: @MemeForTrees routes those on request).
+- **WHERE THE MONEY FLOWS:** half the USDG → GST minted 1:1 (USDG lands in Morpho = tree principal), half market-buys the token (spot-bounded); both sides → full-range V4 LP; seed locked. Deposit queue above the instant cap, permissionless `processQueue` on a ~1h cooldown — same crank as the Base vaults. Fork-tested 62/0 against the live PoolManager/POSM/pools.
+
+### 2.4-LEGACY Robinhood BURGERS/FTP vaults (RHVaultFactory) — superseded for NEW vaults
 
 - **CHAIN:** Robinhood (4663)
 - **ADDRESS:** `0xd41a8E5c44c4a83F6406eB7B530429E5411588Ec` â€” âœ… VERIFIED-ON-CHAIN +source (name: RHVaultFactory; Sourcify exact_match per deploy record)
@@ -66,6 +79,7 @@ Two chains, one engine. On **Base**, people deposit USDC (or cbBTC/wETH) into **
   4. Public: `deposit(usdgAmount, displayName)` (min 0.1 USDG, exact approval first), `withdraw(shareAmount)` for USDG out, `withdrawAsTokens(shareAmount)` for raw FTP+BURGERS.
 - **WHERE THE MONEY FLOWS:** deposit USDG â†’ FTP minted 1:1 (all USDG backed) â†’ half swapped to BURGERS through the vault's own V4 pool (that 1% pool fee feeds the Burgers reactor's LP) â†’ both sides added to the community position. FTP leg-3 yield arriving at the vault â†’ `processYield()` compounds it into the same position for all holders.
 - **SAFETY NOTE (from the skill, non-negotiable):** never renounce a concentrated-range vault; owner can withdraw the position ONLY while no public depositors hold shares.
+- **STATUS:** legacy line (concentrated ranges were a port artifact). Existing vaults keep working; **all NEW RH community vaults go through the V4 suite in 2.4 above** — full-range only.
 
 ### 2.5 Community vault creation â€” Base (MfTVaultFactory + fund variants)
 
