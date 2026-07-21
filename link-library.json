@@ -2480,5 +2480,19 @@
     "ca": "0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3",
     "xPost": "https://x.com/MemeForTrees/status/2079622499520708666",
     "caption": "\"- Connect the Good\" — Myco\n\n$MYCO 0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3\n\npart of the BNKR extended family"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079622844602888196",
+    "translation": "Pay the Bills (Then We Play)",
+    "name": "Pay the Bills (Then We Play)",
+    "triggers": [
+      "pay the bills (then we play)"
+    ],
+    "band": "Bongo",
+    "tag": "",
+    "ca": "",
+    "xPost": "https://x.com/MemeForTrees/status/2079622844602888196",
+    "caption": "\"Pay the Bills (Then We Play)\" — Bongo",
+    "boothCommission": "sg_mruxqhswbi"
   }
 ]

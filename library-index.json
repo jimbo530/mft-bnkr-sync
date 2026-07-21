@@ -1530,5 +1530,37 @@
    "ko came early"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2079605077359178222"
+ },
+ {
+  "band": "DD",
+  "name": "The Long Walk's Done",
+  "triggers": [
+   "the long walk's done"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079607404036030647"
+ },
+ {
+  "band": "DGT",
+  "name": "One Night Ahead",
+  "triggers": [
+   "one night ahead"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079617545275953237"
+ },
+ {
+  "band": "Myco",
+  "name": "Connect the Good",
+  "triggers": [
+   "connect the good"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079622499520708666"
+ },
+ {
+  "band": "Bongo",
+  "name": "Pay the Bills (Then We Play)",
+  "triggers": [
+   "pay the bills (then we play)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079622844602888196"
  }
 ]
