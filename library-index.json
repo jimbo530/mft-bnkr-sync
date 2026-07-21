@@ -1218,5 +1218,21 @@
    "no crying in the casino"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2079380308168679648"
+ },
+ {
+  "band": "Rish",
+  "name": "Welcome to the Race (HOLM's Reel)",
+  "triggers": [
+   "welcome to the race (holm's reel)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079380864333402134"
+ },
+ {
+  "band": "Myco",
+  "name": "The Cost of the Canopy",
+  "triggers": [
+   "the cost of the canopy"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079388587297038636"
  }
 ]

@@ -80,7 +80,7 @@ get some
 0xf796e42ea375bcd592c892fe64968ba06188bba3
 LINK: https://x.com/MemeForTrees/status/2079211285946733004
 
-## SONG LIBRARY — 139 songs (band | title | link)
+## SONG LIBRARY — 140 songs (band | title | link)
 ?           | the meme | https://x.com/MemeForTrees/status/2078504421709738394
 ?           | An Instrument From Every Land | https://x.com/MemeForTrees/status/2078218260470706262
 EBM         | A Billion Strong | https://x.com/MemeForTrees/status/2078254843701928332
@@ -220,3 +220,4 @@ Rish        | Sing Ye for a Coin | https://x.com/MemeForTrees/status/20793758264
 MR          | How You Made Them Feel | https://x.com/MemeForTrees/status/2079378601695166716
 Bongo       | No Crying in the Casino | https://x.com/MemeForTrees/status/2079380308168679648
 Rish        | Welcome to the Race (HOLM's Reel) | https://x.com/MemeForTrees/status/2079380864333402134
+Myco        | The Cost of the Canopy | https://x.com/MemeForTrees/status/2079388587297038636

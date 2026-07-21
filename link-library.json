@@ -1944,5 +1944,19 @@
     "ca": "0x31c600871603bab5d855463E03c6d0a9eB661D26",
     "xPost": "https://x.com/MemeForTrees/status/2079380864333402134",
     "caption": "\"Welcome to the Race (HOLM's Reel)\" — Rish\n\n$RISH 0x31c600871603bab5d855463E03c6d0a9eB661D26\n\npart of the BNKR extended family"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079388587297038636",
+    "translation": "The Cost of the Canopy",
+    "name": "The Cost of the Canopy",
+    "triggers": [
+      "the cost of the canopy"
+    ],
+    "band": "Myco",
+    "tag": "",
+    "ca": "",
+    "xPost": "https://x.com/MemeForTrees/status/2079388587297038636",
+    "caption": "\"The Cost of the Canopy\" — Myco",
+    "boothCommission": "sg_mru0f0xf2"
   }
 ]
