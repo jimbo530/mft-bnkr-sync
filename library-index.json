@@ -1439,5 +1439,37 @@
    "bad for business"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2079545861537771528"
+ },
+ {
+  "band": "DGT",
+  "name": "A Damned Good Time",
+  "triggers": [
+   "a damned good time"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079547015986327875"
+ },
+ {
+  "band": "JS",
+  "name": "Frens in the Field",
+  "triggers": [
+   "frens in the field"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079557021011992670"
+ },
+ {
+  "band": "DGT",
+  "name": "Party While You're Here",
+  "triggers": [
+   "party while you're here"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079562134900408453"
+ },
+ {
+  "band": "DD",
+  "name": "Đi Tiếp (One More Mile)",
+  "triggers": [
+   "đi tiếp (one more mile)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079568304016900141"
  }
 ]

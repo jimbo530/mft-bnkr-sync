@@ -2330,5 +2330,19 @@
     "ca": "0x52414B7cD2FA723E1c8f9295EB29F16d15aA7BB9",
     "xPost": "https://x.com/MemeForTrees/status/2079562134900408453",
     "caption": "\"Party While You're Here\" — Damned Good Time Orchestra\n\n$DGT 0x52414B7cD2FA723E1c8f9295EB29F16d15aA7BB9\n\npart of the BNKR extended family"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079568304016900141",
+    "translation": "Đi Tiếp (One More Mile)",
+    "name": "Đi Tiếp (One More Mile)",
+    "triggers": [
+      "đi tiếp (one more mile)"
+    ],
+    "band": "DD",
+    "tag": "",
+    "ca": "",
+    "xPost": "https://x.com/MemeForTrees/status/2079568304016900141",
+    "caption": "\"Đi Tiếp (One More Mile)\" — DD",
+    "boothCommission": "sg_mrupv1yu6s"
   }
 ]
