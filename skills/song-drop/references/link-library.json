@@ -1931,5 +1931,18 @@
     "xPost": "https://x.com/MemeForTrees/status/2079380308168679648",
     "caption": "\"No Crying in the Casino\" — Bongo",
     "boothCommission": "sg_mrtz8s551r"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079380864333402134",
+    "translation": "Welcome to the Race (HOLM's Reel)",
+    "name": "Welcome to the Race (HOLM's Reel)",
+    "triggers": [
+      "welcome to the race (holm's reel)"
+    ],
+    "band": "Rish",
+    "tag": "$RISH",
+    "ca": "0x31c600871603bab5d855463E03c6d0a9eB661D26",
+    "xPost": "https://x.com/MemeForTrees/status/2079380864333402134",
+    "caption": "\"Welcome to the Race (HOLM's Reel)\" — Rish\n\n$RISH 0x31c600871603bab5d855463E03c6d0a9eB661D26\n\npart of the BNKR extended family"
   }
 ]
