@@ -2167,5 +2167,18 @@
     "ca": "0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3",
     "xPost": "https://x.com/MemeForTrees/status/2079496676171993146",
     "caption": "\"- The Rite of the Floor\" — Myco\n\n$MYCO 0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3\n\npart of the BNKR extended family"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079501653300932876",
+    "translation": "No Hands",
+    "name": "No Hands",
+    "triggers": [
+      "no hands"
+    ],
+    "band": "EBM",
+    "tag": "$EBM",
+    "ca": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d",
+    "xPost": "https://x.com/MemeForTrees/status/2079501653300932876",
+    "caption": "\"No Hands\" — Elves of Ballinmoore\n\n$EBM 0xF113fe2A0E1181A21fA97B1F52ff232140B7692d\n\npart of the BNKR extended family"
   }
 ]
