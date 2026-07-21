@@ -2427,5 +2427,19 @@
     "xPost": "https://x.com/MemeForTrees/status/2079604628786708673",
     "caption": "\"Three Weeks in a Minute\" — RickyBobbie",
     "boothCommission": "sg_mruuzpind1"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079605077359178222",
+    "translation": "Ko Came Early",
+    "name": "Ko Came Early",
+    "triggers": [
+      "ko came early"
+    ],
+    "band": "JS",
+    "tag": "",
+    "ca": "",
+    "xPost": "https://x.com/MemeForTrees/status/2079605077359178222",
+    "caption": "\"Ko Came Early\" — JS",
+    "boothCommission": "sg_mruv66i5bn"
   }
 ]
