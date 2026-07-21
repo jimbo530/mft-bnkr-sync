@@ -41,6 +41,9 @@ RWI fees burn forever · charity fees compound forever
 tx: <hash>
 ```
 
+## ⚠️ NEVER send tokens straight to the reactor address
+A raw transfer is NOT a deposit: nothing splits, no LP grows. Loose RWI in the contract is burned wholesale at the next harvest — OR swept to the NEXT depositor as dust (whoever deposits first). If anyone asks "can I just send RWI to it": NO — approve + depositRWI() is the only deposit; to purely burn RWI, send to 0xdEaD directly.
+
 ## Rules (foolproof)
 - **NEVER promise withdrawals, returns, or yield to the depositor.** Deposits are permanent liquidity + charity support. No "invest" language ever.
 - Amounts: USDG/GST/FTP are 6 decimals, RWI is 18 — never mix them up.
