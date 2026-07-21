@@ -1,6 +1,6 @@
 # Vault Front Door — single-USDC vault creation for the BNKR bot (SPEC)
 
-**Status:** SPEC — Coordinator building 2026-07-19. Deploy + first real vault = money op → founder's go.
+**Status:** BUILT 2026-07-21 — `mftusd-build/contracts/VaultFrontDoor.sol`, compiled clean (solc 0.8.36) + **48/48 Base-fork tests** (`test-vault-frontdoor-fork.cjs`). Entry is now `createVaultWithUSDC(token, usdcTotal>=20e6, maxImpactBps, handle)` emitting `FrontDoorVault(requester, token, vault, handle, created)`; existing-vault calls pull nothing. NOTE the flow below said "USDC→WETH→token" — grounded reality: band tokens live on **Money V3 1% walls**, so v1 routes Money-V3-wall → Money-V2-pair → WETH-V3 → WETH-V2, else reverts `no supported venue`. Open items resolved: (1) vault owner = front door, whose only vault power is setMaxImpact (config, zero fund control — passthrough kept); (2) routing resolved on-chain by the contract, no per-token params; (3) 50/50 split confirmed by the $20-min shape; (4) RH → `RH-FRONTDOOR-NOTES.md`. Deploy + first real vault = money op → founder's go.
 
 ## Why
 `MfTVaultFactory.createVault(token, usdcAmount, tokenAmount, maxImpactBps)` (Base, `0x1f6fF7370e2E897dB7Cf5d72684Ef76d988Caaf1`, **verified from source**) already does the full seed-and-lock:

@@ -8,6 +8,7 @@
 - All other bands -> 0x1bA68C58d6d774227bf5cf48D8D3C27429616B8f on BASE — price: 1 USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913), approve exactly 1000000 then commission(bandId, idea, handle)
 - PRICING v2 (2026-07-20): EVERY song costs $1 in the chain's dollar. The old band-token prices (10,000 tokens / 10M ALAN) are DEAD — never quote them, never shop for band tokens to pay for songs.
 - RPG TURN PACKS -> 0xb6733F8E1FaafcC3CdCB1B4e1B9478128D389E8d on BASE: approve 1 USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913) then commission(1, "turns", "<player handle>") = one 50-turn pack ($1, packs stack). Revenue holds in the GameTill contract. NOTHING is ever sold for Money — Money is a backend tool only, never a customer payment token.
+- VAULT CREATE FROM X -> 0xD8231550E5FC3c063F48d1E5Dea010EbbEA48c9E on BASE (VaultFrontDoor): "make a vault for $TOKEN" = approve >= 20 USDC to the front door, then createVaultWithUSDC(token, usdcTotal, 500, "<handle>") — ONE approval, the door buys the token side itself, creates the vault, burns the seed LP forever. Read the vault address from the FrontDoorVault event, NEVER fabricate. created=false = vault already existed. Full steps: skills/vault-create-x.
 - CREW MINT -> 0xb9608788a8c3a333342Dd7a79CC7D8a6791B80C4 on BASE: "mint me a <race> named <name>" = check nameTaken(name), approve 1 USDC, mint(name, race, recipient). Races live: orc, elf, goblin, human (read raceInfo() for truth). Names unique forever. AFTER the mint, reply with the CARD LINK on its own line: https://tasern.quest/crew/card/<tokenId> (tokenId from the CrewMinted event) — X unfurls it into the pixel character so the buyer sees who they minted.
 - DEAD, never use anywhere: 0xC094664560024e77A710B80D08d15B15EDE0a4a7
 
@@ -90,7 +91,7 @@ want YOUR song on the stream? commission one for $1 — pick a band, give the id
 $MfT
 LINK: https://x.com/MemeForTrees/status/2079507647942795388
 
-## SONG LIBRARY — 159 songs (band | title | link)
+## SONG LIBRARY — 160 songs (band | title | link)
 ?           | the meme | https://x.com/MemeForTrees/status/2079407960246124867
 ?           | An Instrument From Every Land | https://x.com/MemeForTrees/status/2078218260470706262
 EBM         | A Billion Strong | https://x.com/MemeForTrees/status/2078254843701928332
@@ -250,3 +251,4 @@ Myco        | The Rite of the Floor | https://x.com/MemeForTrees/status/20794966
 EBM         | No Hands | https://x.com/MemeForTrees/status/2079501653300932876
 ?           | tunes for trees | https://x.com/MemeForTrees/status/2079507647942795388
 EBM         | The Good Word | https://x.com/MemeForTrees/status/2079511765981794372
+JS          | Better Than We Found It | https://x.com/MemeForTrees/status/2079516752279425168
