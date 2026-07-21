@@ -2196,5 +2196,18 @@
     "xPost": "https://x.com/MemeForTrees/status/2079507647942795388",
     "caption": "🌱🎶 tunes for trees — the broadcast\n\njust listen, like, and share to help fund forests. every play is a little rain.\n\n$MfT",
     "special": true
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079511765981794372",
+    "translation": "The Good Word",
+    "name": "The Good Word",
+    "triggers": [
+      "the good word"
+    ],
+    "band": "EBM",
+    "tag": "$EBM",
+    "ca": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d",
+    "xPost": "https://x.com/MemeForTrees/status/2079511765981794372",
+    "caption": "\"The Good Word\" — Elves of Ballinmoore\n\n$EBM 0xF113fe2A0E1181A21fA97B1F52ff232140B7692d\n\npart of the BNKR extended family"
   }
 ]
