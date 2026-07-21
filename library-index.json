@@ -6,7 +6,7 @@
    "show me the meme",
    "the meme"
   ],
-  "xPost": "https://x.com/MemeForTrees/status/2078504421709738394"
+  "xPost": "https://x.com/MemeForTrees/status/2079407960246124867"
  },
  {
   "band": null,
@@ -1250,5 +1250,21 @@
    "earn it"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2079395156420124760"
+ },
+ {
+  "band": "NN",
+  "name": "Last Call Is a Lie",
+  "triggers": [
+   "last call is a lie"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079396007461212252"
+ },
+ {
+  "band": "Myco",
+  "name": "The Chorus Is a Network",
+  "triggers": [
+   "the chorus is a network"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079406074688414018"
  }
 ]

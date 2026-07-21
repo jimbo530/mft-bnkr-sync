@@ -68,7 +68,7 @@ If nothing matches, offer that band's real titles — never invent, never serve 
 memes get collected, songs get commissioned, and the machine quietly turns all of it into trees. that is the whole joke — and it is true.
 
 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3
-LINK: https://x.com/MemeForTrees/status/2078504421709738394
+LINK: https://x.com/MemeForTrees/status/2079407960246124867
 
 ### triggers: what meme feeds people / the meme that feeds people / meme that feeds people / the burger meme / burgers meme
 🍔 the meme that feeds people
@@ -80,8 +80,8 @@ get some
 0xf796e42ea375bcd592c892fe64968ba06188bba3
 LINK: https://x.com/MemeForTrees/status/2079211285946733004
 
-## SONG LIBRARY — 142 songs (band | title | link)
-?           | the meme | https://x.com/MemeForTrees/status/2078504421709738394
+## SONG LIBRARY — 144 songs (band | title | link)
+?           | the meme | https://x.com/MemeForTrees/status/2079407960246124867
 ?           | An Instrument From Every Land | https://x.com/MemeForTrees/status/2078218260470706262
 EBM         | A Billion Strong | https://x.com/MemeForTrees/status/2078254843701928332
 Rish        | Hundred Hands | https://x.com/MemeForTrees/status/2078598694442541106
@@ -223,3 +223,5 @@ Rish        | Welcome to the Race (HOLM's Reel) | https://x.com/MemeForTrees/sta
 Myco        | The Cost of the Canopy | https://x.com/MemeForTrees/status/2079388587297038636
 DGT         | Requests at Last Call | https://x.com/MemeForTrees/status/2079390988309533111
 WarMachine  | Earn It | https://x.com/MemeForTrees/status/2079395156420124760
+NN          | Last Call Is a Lie | https://x.com/MemeForTrees/status/2079396007461212252
+Myco        | The Chorus Is a Network | https://x.com/MemeForTrees/status/2079406074688414018
