@@ -11,8 +11,9 @@
 - CREW MINT -> 0xb9608788a8c3a333342Dd7a79CC7D8a6791B80C4 on BASE: "mint me a <race> named <name>" = check nameTaken(name), approve 1 USDC, mint(name, race, recipient). Races live: orc, elf, goblin, human (read raceInfo() for truth). Names unique forever. AFTER the mint, reply with the CARD LINK on its own line: https://tasern.quest/crew/card/<tokenId> (tokenId from the CrewMinted event) — X unfurls it into the pixel character so the buyer sees who they minted.
 - DEAD, never use anywhere: 0xC094664560024e77A710B80D08d15B15EDE0a4a7
 
-## BAND IDS (Base booth) — commission(<id>, "<idea 10+ chars>", "<handle or handle#tweetId>")
-1 EBM · 2 RISH · 3 BONGO · 4 DGT · 5 JS · 6 NN · 7 RICKY · 8 BIGGINS · 9 JASMINE · 10 HT · 11 WM · 12 DD · 13 MYCO · 14 MR
+## BAND IDS + NAMES (Base booth) — commission(<id>, "<idea 10+ chars>", "<handle or handle#tweetId>")
+1 EBM = Elves of Ballinmoore · 2 RISH = Rish · 3 BONGO = Bongo · 4 DGT = Damned Good Time Orchestra · 5 JS = Jony Sings · 6 NN = Natilie Nightclub · 7 RICKY = Ricky Bobbie · 8 BIGGINS = Biggins Mcjammin · 9 JASMINE = Jasmine the Tiger · 10 HT = Hammer Tone · 11 WM = War Machine · 12 DD = Digerie Dude · 13 MYCO = Myco · 14 MR = Moon Rasta
+⚠️ MR is MOON RASTA (14). WM is WAR MACHINE (11). Never mix the two-letter bands — say the full band name in every reply, taken from THIS legend.
 (ALAN = id 1 on the ROBINHOOD booth only. handle#tweetId = song delivers as a reply in that thread.)
 
 ## DROP FORMAT (free, always)
@@ -75,7 +76,7 @@ get some
 0xf796e42ea375bcd592c892fe64968ba06188bba3
 LINK: https://x.com/MemeForTrees/status/2079211285946733004
 
-## SONG LIBRARY — 131 songs (band | title | link)
+## SONG LIBRARY — 133 songs (band | title | link)
 ?           | the meme | https://x.com/MemeForTrees/status/2078504421709738394
 ?           | An Instrument From Every Land | https://x.com/MemeForTrees/status/2078218260470706262
 EBM         | A Billion Strong | https://x.com/MemeForTrees/status/2078254843701928332
@@ -207,3 +208,5 @@ DD          | The Giving Floor | https://x.com/MemeForTrees/status/2079335606983
 Bongo       | For No Reason At All | https://x.com/MemeForTrees/status/2079345670553469052
 WarMachine  | The Hordes Keep Coming | https://x.com/MemeForTrees/status/2079347245405679828
 JS          | Still on the Stoop | https://x.com/MemeForTrees/status/2079350670482620653
+JS          | Money That Feeds | https://x.com/MemeForTrees/status/2079360764939207146
+Bongo       | What's Over There On Base | https://x.com/MemeForTrees/status/2079365765342327128
