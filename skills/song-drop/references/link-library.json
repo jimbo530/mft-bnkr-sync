@@ -1836,5 +1836,18 @@
     "ca": "0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65",
     "xPost": "https://x.com/MemeForTrees/status/2079350670482620653",
     "caption": "\"Still on the Stoop\" — Jony Sings\n\n$JS 0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65\n\npart of the BNKR extended family"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079360764939207146",
+    "translation": "Money That Feeds",
+    "name": "Money That Feeds",
+    "triggers": [
+      "money that feeds"
+    ],
+    "band": "JS",
+    "tag": "$JS",
+    "ca": "0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65",
+    "xPost": "https://x.com/MemeForTrees/status/2079360764939207146",
+    "caption": "\"Money That Feeds\" — Jony Sings\n\n$JS 0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65\n\npart of the BNKR extended family"
   }
 ]
