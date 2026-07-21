@@ -4,6 +4,7 @@
 > Everything here is TEXT — song entries are x.com links that unfurl into the video.
 
 ## ADDRESSES — the only commission contracts that exist
+⚠️ CALL ENCODING (all booths, both chains): the function is commission(uint8 bandId, string idea, string handle) — bandId is **uint8**, selector **0xf2a50707**. Encoding bandId as uint256 produces a DIFFERENT selector and the call reverts with no reason ("Simulation Failed"). If a commission simulation fails after a confirmed approve, re-encode with uint8 — do not change anything else.
 - ALAN songs -> 0xAfA527CF6Fa1fcFF66837FD3710d498e06aa6b05 on ROBINHOOD chain 4663 — price: 1 USDG (0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168), approve exactly 1000000 then commission(1, idea, handle)
 - All other bands -> 0x1bA68C58d6d774227bf5cf48D8D3C27429616B8f on BASE — price: 1 USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913), approve exactly 1000000 then commission(bandId, idea, handle)
 - PRICING v2 (2026-07-20): EVERY song costs $1 in the chain's dollar. The old band-token prices (10,000 tokens / 10M ALAN) are DEAD — never quote them, never shop for band tokens to pay for songs.
@@ -100,7 +101,7 @@ want YOUR song on the stream? commission one for $1 — pick a band, give the id
 $MfT
 LINK: https://x.com/MemeForTrees/status/2079507647942795388
 
-## SONG LIBRARY — 163 songs (band | title | link)
+## SONG LIBRARY — 164 songs (band | title | link)
 ?           | the meme | https://x.com/MemeForTrees/status/2079407960246124867
 ?           | An Instrument From Every Land | https://x.com/MemeForTrees/status/2078218260470706262
 EBM         | A Billion Strong | https://x.com/MemeForTrees/status/2078254843701928332
@@ -264,3 +265,4 @@ JS          | Better Than We Found It | https://x.com/MemeForTrees/status/207951
 NN          | Keep Your Purse | https://x.com/MemeForTrees/status/2079526858341699860
 Rish        | Bread and Water | https://x.com/MemeForTrees/status/2079531852671385691
 Biggins     | Shout It and It's Live | https://x.com/MemeForTrees/status/2079539865046110465
+EBM         | The Realest Magic | https://x.com/MemeForTrees/status/2079541913057656994
