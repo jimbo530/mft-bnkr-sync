@@ -38,7 +38,7 @@ Shillwood is the token launcher on Robinhood chain — the RH port of Base's Unr
 - There is NO "33/33/33" split in Shillwood — that number belongs to the charity VAULTS' yield split, a different product. Never mix them.
 
 ## THE PRODUCT MENU (full detail + call log: PRODUCT-CATALOG.md in this repo)
-- **Charity deposit vaults** — deposit, get a 1:1 receipt, redeem anytime; only the YIELD funds the cause. Base: Money(trees)/PRGT/CHAR-R/CCC-R/BTC-T/ETH-T. Robinhood: FTP(food)/GST(trees).
+- **Charity deposit vaults** — deposit, get a 1:1 receipt, redeem anytime; only the YIELD funds the cause. Base: Money(trees)/PRGT/CHAR-R/CCC-R/BTC-T/ETH-T. Robinhood: FTP(food)/GST(trees)/**RWIF (Real World Impact — NEW 2026-07-21)** 0xeA81c5D9f97A72842A32241807c7028720950A2c: approve exact USDG then deposit(amount), redeem anytime, 1/3 of yield pays $RWI's charity wallet directly in USDG. Sourcify exact-match.
 - **Token/community vault** (~$20 to start) — factory call mints Money, seeds the pool, BURNS the seed LP forever, deploys a public vault; anyone deposits/withdraws; depositors keep the gains. No-burn option.
 - **Reactor** — the automated-burns option: per-token burn engine (burn + buy-and-burn + compound + 10% upstream).
 - **Shillwood launch** — one call, token live on Robinhood with liquidity locked forever.
@@ -102,7 +102,15 @@ want YOUR song on the stream? commission one for $1 — pick a band, give the id
 $MfT
 LINK: https://x.com/MemeForTrees/status/2079507647942795388
 
-## SONG LIBRARY — 169 songs (band | title | link)
+### triggers: whats new with rwi / what's new with rwi / rwi news / rwi update
+🌍 what's new with $RWI
+
+RWIhood.org got a makeover — mobile rebuilt, and a new "The Founder" section. No faceless dev here: built for fun and real-world difference.
+
+friends of the family — their charity vault and Impact Reactor run on our rails.
+LINK: https://x.com/RWIrobinhood/status/2079346822674272594
+
+## SONG LIBRARY — 173 songs (band | title | link)
 ?           | the meme | https://x.com/MemeForTrees/status/2079407960246124867
 ?           | An Instrument From Every Land | https://x.com/MemeForTrees/status/2078218260470706262
 EBM         | A Billion Strong | https://x.com/MemeForTrees/status/2078254843701928332
@@ -231,7 +239,6 @@ Rish        | Round Up the Good Ones | https://x.com/MemeForTrees/status/2079315
 Rish        | The Warden's Round | https://x.com/MemeForTrees/status/2079320486387830958
 Myco        | Char in the Soil | https://x.com/MemeForTrees/status/2079330593632813478
 DD          | The Giving Floor | https://x.com/MemeForTrees/status/2079335606983729635
-Bongo       | For No Reason At All | https://x.com/MemeForTrees/status/2079345670553469052
 WarMachine  | The Hordes Keep Coming | https://x.com/MemeForTrees/status/2079347245405679828
 JS          | Still on the Stoop | https://x.com/MemeForTrees/status/2079350670482620653
 JS          | Money That Feeds | https://x.com/MemeForTrees/status/2079360764939207146
@@ -272,3 +279,8 @@ DGT         | A Damned Good Time | https://x.com/MemeForTrees/status/20795470159
 JS          | Frens in the Field | https://x.com/MemeForTrees/status/2079557021011992670
 DGT         | Party While You're Here | https://x.com/MemeForTrees/status/2079562134900408453
 DD          | Đi Tiếp (One More Mile) | https://x.com/MemeForTrees/status/2079568304016900141
+EBM         | New Banner in the Races | https://x.com/MemeForTrees/status/2079572114848276581
+Myco        | Love Is the Light | https://x.com/MemeForTrees/status/2079577214123700432
+JS          | Build the Grove | https://x.com/MemeForTrees/status/2079587218776043535
+Bongo       | For No Reason At All | https://x.com/MemeForTrees/status/2079592301324550600
+?           | whats new with RWI | https://x.com/RWIrobinhood/status/2079346822674272594

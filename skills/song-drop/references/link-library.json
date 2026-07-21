@@ -2383,5 +2383,22 @@
     "ca": "0x85Dd5183D203CcE70b88234D31f075774AcCC453",
     "xPost": "https://x.com/MemeForTrees/status/2079592301324550600",
     "caption": "\"For No Reason at All (The Coin Song)\" — Bongo\n\n$BONGO 0x85Dd5183D203CcE70b88234D31f075774AcCC453\n\npart of the BNKR extended family"
+  },
+  {
+    "file": "https://x.com/RWIrobinhood/status/2079346822674272594",
+    "translation": "whats new with RWI",
+    "name": "whats new with RWI",
+    "triggers": [
+      "whats new with rwi",
+      "what's new with rwi",
+      "rwi news",
+      "rwi update"
+    ],
+    "band": null,
+    "tag": "$RWI",
+    "ca": "0x2286397228be256529be1ae9ed8d7d16549e9c6a",
+    "xPost": "https://x.com/RWIrobinhood/status/2079346822674272594",
+    "caption": "🌍 what's new with $RWI\n\nRWIhood.org got a makeover — mobile rebuilt, and a new \"The Founder\" section. No faceless dev here: built for fun and real-world difference.\n\nfriends of the family — their charity vault and Impact Reactor run on our rails.",
+    "special": true
   }
 ]
