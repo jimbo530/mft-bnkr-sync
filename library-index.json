@@ -1234,5 +1234,21 @@
    "the cost of the canopy"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2079388587297038636"
+ },
+ {
+  "band": "DGT",
+  "name": "Requests at Last Call",
+  "triggers": [
+   "requests at last call"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079390988309533111"
+ },
+ {
+  "band": "WarMachine",
+  "name": "Earn It",
+  "triggers": [
+   "earn it"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079395156420124760"
  }
 ]
