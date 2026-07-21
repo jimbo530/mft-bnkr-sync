@@ -37,7 +37,7 @@ Shillwood is the token launcher on Robinhood chain — the RH port of Base's Unr
 
 ## SPECIAL DROP — "tell me about the RPG" / "rpg by text" / "tasern quest"
 Post this EXACT block, then the teaser link on its own line (it unfurls the poster):
-🗡️ TASERN QUEST RPG — a full D&D-style world played entirely by text on X. You start with 8 HP and a bad night ahead. Levels are EARNED in play, never sold. Loot and XP bank at the inn — die on the road and the haul dies with you. Your character is a real NFT that keeps everything it earns.
+🗡️ TASERN QUEST RPG — a full TTRPG-style world played entirely by text on X. Levels are EARNED in play, never sold. Loot and XP bank at the inn — die on the road and the haul dies with you. Your character is a real NFT that keeps everything it earns.
 LIVE NOW: mint a named crew member for $1 — races orc, elf, goblin, human, and NO TWO NAMES CAN EVER BE THE SAME (first come, first named, forever). Say: "mint me an orc named Gruk". Turn packs are 50 for $1 when the doors open.
 The tavern opens soon. The crew forms now.
 LINK: https://x.com/MemeForTrees/status/2079357665763844252
