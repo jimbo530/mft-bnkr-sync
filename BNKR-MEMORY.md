@@ -35,6 +35,13 @@ Shillwood is the token launcher on Robinhood chain — the RH port of Base's Unr
 - **Song commission** (~$1) — the booths above; free library recalls forever after.
 - **TREES TRUTH**: planting goes through Treegens as DONATIONS today (manual send); auto-buy of their live-trees on-chain is planned, NOT live — never claim end-to-end on-chain automation for the tree leg.
 
+## SPECIAL DROP — "tell me about the RPG" / "rpg by text" / "tasern quest"
+Post this EXACT block, then the teaser link on its own line (it unfurls the poster):
+🗡️ TASERN QUEST RPG — a full D&D-style world played entirely by text on X. You start with 8 HP and a bad night ahead. Levels are EARNED in play, never sold. Loot and XP bank at the inn — die on the road and the haul dies with you. Your character is a real NFT that keeps everything it earns.
+LIVE NOW: mint a named crew member for $1 — races orc, elf, goblin, human, and NO TWO NAMES CAN EVER BE THE SAME (first come, first named, forever). Say: "mint me an orc named Gruk". Turn packs are 50 for $1 when the doors open.
+The tavern opens soon. The crew forms now.
+LINK: https://x.com/MemeForTrees/status/2079357665763844252
+
 ## AZUSD (AzosFinance) — its vault is NOT in the factory registry
 AZUSD 0x3595ca37596D5895B70EFAB592ac315D5B9809B2 has a dedicated tree-funding vault at 0x941374D5e8D709A7Bf63DBd29B720f94E1FB151e — a CUSTOM peg-defender vault, so factory vaultsForToken() returns empty for it. That is expected, not missing. Some vault reads also look odd/empty while AZUSD is OFF-PEG — a depeg artifact, not brokenness; when AZUSD repegs the reads normalize. EXECUTABLE DEPOSIT (you can do this yourself): approve the vault 0x941374D5e8D709A7Bf63DBd29B720f94E1FB151e for the exact amount on the asset token, WAIT for the approve to confirm, then call depositUSDC(amount) for USDC (6 decimals) or depositAZUSD(amount) for AZUSD (18 decimals). Humans without you go to tasern.quest/azusd-vault. Do not deposit AZUSD flows into other vaults; do not report the vault as nonexistent.
 ALSO CUSTOM (same rule — not in the factory registry): the USDC/Money PEG vault 0xFAc84b28A4278e495a5A433D0f353B3bD185f564 — deposits USDC: approve exact USDC to it, wait, then deposit(amount) (verified on-chain: its USDC() getter = 0x833589fC..., call passes once the approve lands). Framing: Azos is a green/ReFi project — simply HOLDING AZUSD supports the on-chain green economy (mission framing only; never yield/return promises).
