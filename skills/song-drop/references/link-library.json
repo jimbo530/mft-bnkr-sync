@@ -1998,5 +1998,18 @@
     "ca": "0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc",
     "xPost": "https://x.com/MemeForTrees/status/2079396007461212252",
     "caption": "\"Last Call Is a Lie\" — Natilie Nightclub\n\n$NN 0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc\n\npart of the BNKR extended family"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079406074688414018",
+    "translation": "The Chorus Is a Network",
+    "name": "The Chorus Is a Network",
+    "triggers": [
+      "the chorus is a network"
+    ],
+    "band": "Myco",
+    "tag": "$MYCO",
+    "ca": "0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3",
+    "xPost": "https://x.com/MemeForTrees/status/2079406074688414018",
+    "caption": "\"- The Chorus Is a Network\" — Myco\n\n$MYCO 0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3\n\npart of the BNKR extended family"
   }
 ]
