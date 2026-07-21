@@ -2400,5 +2400,18 @@
     "xPost": "https://x.com/RWIrobinhood/status/2079346822674272594",
     "caption": "🌍 what's new with $RWI\n\nRWIhood.org got a makeover — mobile rebuilt, and a new \"The Founder\" section. No faceless dev here: built for fun and real-world difference.\n\nfriends of the family — their charity vault and Impact Reactor run on our rails.",
     "special": true
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079602365896724633",
+    "translation": "Friday on the Green",
+    "name": "Friday on the Green",
+    "triggers": [
+      "friday on the green"
+    ],
+    "band": "JS",
+    "tag": "$JS",
+    "ca": "0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65",
+    "xPost": "https://x.com/MemeForTrees/status/2079602365896724633",
+    "caption": "\"Friday on the Green\" — Jony Sings\n\n$JS 0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65\n\npart of the BNKR extended family"
   }
 ]
