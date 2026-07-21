@@ -2224,5 +2224,18 @@
     "ca": "0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65",
     "xPost": "https://x.com/MemeForTrees/status/2079516752279425168",
     "caption": "\"Better Than We Found It\" — Jony Sings\n\n$JS 0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65\n\npart of the BNKR extended family"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079526858341699860",
+    "translation": "Keep Your Purse",
+    "name": "Keep Your Purse",
+    "triggers": [
+      "keep your purse"
+    ],
+    "band": "NN",
+    "tag": "$NN",
+    "ca": "0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc",
+    "xPost": "https://x.com/MemeForTrees/status/2079526858341699860",
+    "caption": "\"Keep Your Purse\" — Natilie Nightclub\n\n$NN 0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc\n\npart of the BNKR extended family"
   }
 ]
