@@ -1917,5 +1917,19 @@
     "xPost": "https://x.com/MemeForTrees/status/2079378601695166716",
     "caption": "\"How You Made Them Feel\" — MR",
     "boothCommission": "sg_mrtz0nndrk"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079380308168679648",
+    "translation": "No Crying in the Casino",
+    "name": "No Crying in the Casino",
+    "triggers": [
+      "no crying in the casino"
+    ],
+    "band": "Bongo",
+    "tag": "",
+    "ca": "",
+    "xPost": "https://x.com/MemeForTrees/status/2079380308168679648",
+    "caption": "\"No Crying in the Casino\" — Bongo",
+    "boothCommission": "sg_mrtz8s551r"
   }
 ]
