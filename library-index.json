@@ -1390,5 +1390,54 @@
    "the good word"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2079511765981794372"
+ },
+ {
+  "band": "JS",
+  "name": "Better Than We Found It",
+  "triggers": [
+   "better than we found it"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079516752279425168"
+ },
+ {
+  "band": "NN",
+  "name": "Keep Your Purse",
+  "triggers": [
+   "keep your purse"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079526858341699860"
+ },
+ {
+  "band": "Rish",
+  "name": "Bread and Water",
+  "triggers": [
+   "bread and water"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079531852671385691"
+ },
+ {
+  "band": "Biggins",
+  "name": "Shout It and It's Live",
+  "triggers": [
+   "shout it and it's live",
+   "shout it and its live"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079539865046110465"
+ },
+ {
+  "band": "EBM",
+  "name": "The Realest Magic",
+  "triggers": [
+   "the realest magic"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079541913057656994"
+ },
+ {
+  "band": "NN",
+  "name": "Bad for Business",
+  "triggers": [
+   "bad for business"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079545861537771528"
  }
 ]

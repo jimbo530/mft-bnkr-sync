@@ -101,7 +101,7 @@ want YOUR song on the stream? commission one for $1 — pick a band, give the id
 $MfT
 LINK: https://x.com/MemeForTrees/status/2079507647942795388
 
-## SONG LIBRARY — 164 songs (band | title | link)
+## SONG LIBRARY — 165 songs (band | title | link)
 ?           | the meme | https://x.com/MemeForTrees/status/2079407960246124867
 ?           | An Instrument From Every Land | https://x.com/MemeForTrees/status/2078218260470706262
 EBM         | A Billion Strong | https://x.com/MemeForTrees/status/2078254843701928332
@@ -266,3 +266,4 @@ NN          | Keep Your Purse | https://x.com/MemeForTrees/status/20795268583416
 Rish        | Bread and Water | https://x.com/MemeForTrees/status/2079531852671385691
 Biggins     | Shout It and It's Live | https://x.com/MemeForTrees/status/2079539865046110465
 EBM         | The Realest Magic | https://x.com/MemeForTrees/status/2079541913057656994
+NN          | Bad for Business | https://x.com/MemeForTrees/status/2079545861537771528

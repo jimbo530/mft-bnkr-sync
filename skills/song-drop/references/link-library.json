@@ -2277,5 +2277,19 @@
     "ca": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d",
     "xPost": "https://x.com/MemeForTrees/status/2079541913057656994",
     "caption": "\"The Realest Magic\" — Elves of Ballinmoore\n\n$EBM 0xF113fe2A0E1181A21fA97B1F52ff232140B7692d\n\npart of the BNKR extended family"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079545861537771528",
+    "translation": "Bad for Business",
+    "name": "Bad for Business",
+    "triggers": [
+      "bad for business"
+    ],
+    "band": "NN",
+    "tag": "",
+    "ca": "",
+    "xPost": "https://x.com/MemeForTrees/status/2079545861537771528",
+    "caption": "\"Bad for Business\" — NN",
+    "boothCommission": "sg_mrumt0zumx"
   }
 ]
