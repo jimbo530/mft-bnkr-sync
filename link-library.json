@@ -2344,5 +2344,18 @@
     "xPost": "https://x.com/MemeForTrees/status/2079568304016900141",
     "caption": "\"Đi Tiếp (One More Mile)\" — DD",
     "boothCommission": "sg_mrupv1yu6s"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079572114848276581",
+    "translation": "New Banner in the Races",
+    "name": "New Banner in the Races",
+    "triggers": [
+      "new banner in the races"
+    ],
+    "band": "EBM",
+    "tag": "$EBM",
+    "ca": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d",
+    "xPost": "https://x.com/MemeForTrees/status/2079572114848276581",
+    "caption": "\"New Banner in the Races\" — Elves of Ballinmoore\n\n$EBM 0xF113fe2A0E1181A21fA97B1F52ff232140B7692d\n\npart of the BNKR extended family"
   }
 ]
