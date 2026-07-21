@@ -2494,5 +2494,18 @@
     "xPost": "https://x.com/MemeForTrees/status/2079622844602888196",
     "caption": "\"Pay the Bills (Then We Play)\" — Bongo",
     "boothCommission": "sg_mruxqhswbi"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079632560028582020",
+    "translation": "Rain Is the Reason",
+    "name": "Rain Is the Reason",
+    "triggers": [
+      "rain is the reason"
+    ],
+    "band": "Myco",
+    "tag": "$MYCO",
+    "ca": "0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3",
+    "xPost": "https://x.com/MemeForTrees/status/2079632560028582020",
+    "caption": "\"- Rain Is the Reason\" — Myco\n\n$MYCO 0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3\n\npart of the BNKR extended family"
   }
 ]
