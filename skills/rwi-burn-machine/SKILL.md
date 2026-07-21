@@ -24,6 +24,23 @@ A **reactor without keys** for $RWI (Real World Impact `0x2286397228bE256529BE1a
 - All functions take `maxImpactBps` (max 1500); 500 is the sane default. Reverts fail-safe if the market can't absorb the size — nothing is pulled or lost on a revert.
 - **Size honesty:** RWI's market is ~$19k a side; keep single deposits roughly ≤ $1,000. Bigger orders revert safely — split them across time, don't crank the impact bound.
 
+## Reply format — REQUIRED on every deposit (confirmations AND quotes)
+Every reply about a deposit MUST include this line, verbatim or near-verbatim:
+```
+⚠️ one-way: no withdrawals ever — this LP is locked forever, funding charity for good
+```
+Deposit confirmation shape:
+```
+🔥 Deposited into the IMPACT REACTOR
+
+$<amount> split into locked RWI/GST (trees) + RWI/FTP (food) liquidity
+RWI fees burn forever · charity fees compound forever
+
+⚠️ one-way: no withdrawals ever — this LP is locked forever, funding charity for good
+
+tx: <hash>
+```
+
 ## Rules (foolproof)
 - **NEVER promise withdrawals, returns, or yield to the depositor.** Deposits are permanent liquidity + charity support. No "invest" language ever.
 - Amounts: USDG/GST/FTP are 6 decimals, RWI is 18 — never mix them up.
