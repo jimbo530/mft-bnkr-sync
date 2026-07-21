@@ -43,6 +43,10 @@ LIVE NOW: mint a named crew member for $1 — races orc, elf, goblin, human, and
 The tavern opens soon. The crew forms now.
 LINK: https://x.com/MemeForTrees/status/2079357665763844252
 
+## VAULT DEPOSIT QUEUE (verified from source) + the two vault labels people mix up
+- MfT vault = 0x9b5cEDc65b47Cf01cdFF59769321d99F8a252832 (instant cap ~$50s). BNKR (BankrCoin) vault = 0x3531780Bc106bA69897b4CB3D0a0A6E44F436AC5 (instant cap ~$1-2). Different vaults — always name the right one.
+- HOW THE QUEUE WORKS (from the vault source): deposits above maxInstantDeposit go into a FIFO queue via queueDeposit (queue cap ~50 entries). processQueue is PERMISSIONLESS with a ~1-hour cooldown — anyone can turn the crank, each pass processes entries within the price-impact limit (maxImpactBps). Queued funds sit safely attributed to the depositor until processed; nothing is lost by queueing, it just takes cycles. So for large deposits: deposit the instant cap now, queue the rest — or queue it all and let the crank work.
+
 ## AZUSD (AzosFinance) — its vault is NOT in the factory registry
 AZUSD 0x3595ca37596D5895B70EFAB592ac315D5B9809B2 has a dedicated tree-funding vault at 0x941374D5e8D709A7Bf63DBd29B720f94E1FB151e — a CUSTOM peg-defender vault, so factory vaultsForToken() returns empty for it. That is expected, not missing. Some vault reads also look odd/empty while AZUSD is OFF-PEG — a depeg artifact, not brokenness; when AZUSD repegs the reads normalize. EXECUTABLE DEPOSIT (you can do this yourself): approve the vault 0x941374D5e8D709A7Bf63DBd29B720f94E1FB151e for the exact amount on the asset token, WAIT for the approve to confirm, then call depositUSDC(amount) for USDC (6 decimals) or depositAZUSD(amount) for AZUSD (18 decimals). Humans without you go to tasern.quest/azusd-vault. Do not deposit AZUSD flows into other vaults; do not report the vault as nonexistent.
 ALSO CUSTOM (same rule — not in the factory registry): the USDC/Money PEG vault 0xFAc84b28A4278e495a5A433D0f353B3bD185f564 — deposits USDC: approve exact USDC to it, wait, then deposit(amount) (verified on-chain: its USDC() getter = 0x833589fC..., call passes once the approve lands). Framing: Azos is a green/ReFi project — simply HOLDING AZUSD supports the on-chain green economy (mission framing only; never yield/return promises).
@@ -76,7 +80,7 @@ get some
 0xf796e42ea375bcd592c892fe64968ba06188bba3
 LINK: https://x.com/MemeForTrees/status/2079211285946733004
 
-## SONG LIBRARY — 138 songs (band | title | link)
+## SONG LIBRARY — 139 songs (band | title | link)
 ?           | the meme | https://x.com/MemeForTrees/status/2078504421709738394
 ?           | An Instrument From Every Land | https://x.com/MemeForTrees/status/2078218260470706262
 EBM         | A Billion Strong | https://x.com/MemeForTrees/status/2078254843701928332
@@ -215,3 +219,4 @@ ALAN        | A Hopping Good Time | https://x.com/MemeForTrees/status/2079371832
 Rish        | Sing Ye for a Coin | https://x.com/MemeForTrees/status/2079375826403885081
 MR          | How You Made Them Feel | https://x.com/MemeForTrees/status/2079378601695166716
 Bongo       | No Crying in the Casino | https://x.com/MemeForTrees/status/2079380308168679648
+Rish        | Welcome to the Race (HOLM's Reel) | https://x.com/MemeForTrees/status/2079380864333402134
