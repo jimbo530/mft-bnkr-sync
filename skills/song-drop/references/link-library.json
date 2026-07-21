@@ -1958,5 +1958,18 @@
     "xPost": "https://x.com/MemeForTrees/status/2079388587297038636",
     "caption": "\"The Cost of the Canopy\" — Myco",
     "boothCommission": "sg_mru0f0xf2"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079390988309533111",
+    "translation": "Requests at Last Call",
+    "name": "Requests at Last Call",
+    "triggers": [
+      "requests at last call"
+    ],
+    "band": "DGT",
+    "tag": "$DGT",
+    "ca": "0x52414B7cD2FA723E1c8f9295EB29F16d15aA7BB9",
+    "xPost": "https://x.com/MemeForTrees/status/2079390988309533111",
+    "caption": "\"Requests at Last Call\" — Damned Good Time Orchestra\n\nCommission the band — your story, their voice, one coin (no value but songs we sing):\nhttps://tasern.quest/songsmith.html\n\n$DGT 0x52414B7cD2FA723E1c8f9295EB29F16d15aA7BB9\n\npart of the BNKR extended family"
   }
 ]
