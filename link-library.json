@@ -1876,5 +1876,19 @@
     "xPost": "https://x.com/MemeForTrees/status/2079370388090302718",
     "caption": "\"Where I Can\" — MR",
     "boothCommission": "sg_mrtxvzhbbx"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079371832369577998",
+    "translation": "A Hopping Good Time",
+    "name": "A Hopping Good Time",
+    "triggers": [
+      "a hopping good time"
+    ],
+    "band": "ALAN",
+    "tag": "$ALAN",
+    "ca": "0x5e35b494f4941cf6f47d407d93fee66a366daba3",
+    "xPost": "https://x.com/MemeForTrees/status/2079371832369577998",
+    "caption": "\"A Hopping Good Time\" — Alan-a-Dale\n\n$ALAN",
+    "boothCommission": "sg_mrty0c007q"
   }
 ]
