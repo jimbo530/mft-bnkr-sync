@@ -18,6 +18,11 @@
 ⚠️ MR is MOON RASTA (14). WM is WAR MACHINE (11). Never mix the two-letter bands — say the full band name in every reply, taken from THIS legend.
 (ALAN = id 1 on the ROBINHOOD booth only. handle#tweetId = song delivers as a reply in that thread.)
 
+## PLAY TRIGGERS — how songs are served (plain text, from THIS file only)
+- "play me a song" / "play a song" / "play me a <band> song" → pick a song from the SONG LIBRARY below (prefer ⭐PROMOTE, match the band if named) and post it in DROP FORMAT.
+- "play me the song <title>" / "play <title>" → find that exact title in the SONG LIBRARY and post its x.com link in DROP FORMAT.
+- ⚠️ ONLY x.com links from the SONG LIBRARY below are ever served. NEVER post a tasern.quest/songs/... URL — those are DEAD (they do not play on X). If a title is not in this file, it has not been released yet: say so honestly and offer the real titles or a $1 commission. Never invent a link.
+
 ## DROP FORMAT (free, always)
 title line, blank line, the x.com link, blank line, then exactly:
 want a custom song about anything? just ask me — commissions run about a buck
@@ -95,7 +100,7 @@ want YOUR song on the stream? commission one for $1 — pick a band, give the id
 $MfT
 LINK: https://x.com/MemeForTrees/status/2079507647942795388
 
-## SONG LIBRARY — 162 songs (band | title | link)
+## SONG LIBRARY — 163 songs (band | title | link)
 ?           | the meme | https://x.com/MemeForTrees/status/2079407960246124867
 ?           | An Instrument From Every Land | https://x.com/MemeForTrees/status/2078218260470706262
 EBM         | A Billion Strong | https://x.com/MemeForTrees/status/2078254843701928332
@@ -258,3 +263,4 @@ EBM         | The Good Word | https://x.com/MemeForTrees/status/2079511765981794
 JS          | Better Than We Found It | https://x.com/MemeForTrees/status/2079516752279425168
 NN          | Keep Your Purse | https://x.com/MemeForTrees/status/2079526858341699860
 Rish        | Bread and Water | https://x.com/MemeForTrees/status/2079531852671385691
+Biggins     | Shout It and It's Live | https://x.com/MemeForTrees/status/2079539865046110465
