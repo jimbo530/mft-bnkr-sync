@@ -3055,5 +3055,36 @@
     "xPost": "https://x.com/MemeForTrees/status/2079953621907554522",
     "caption": "\"The Town of the Cats\" — Rish",
     "boothCommission": "sg_mrw8niiz9e"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079954677337088056",
+    "translation": "The Block Plants Oaks",
+    "name": "The Block Plants Oaks",
+    "triggers": [
+      "the block plants oaks"
+    ],
+    "band": "JS",
+    "tag": "$JS",
+    "ca": "0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65",
+    "xPost": "https://x.com/MemeForTrees/status/2079954677337088056",
+    "caption": "\"The Block Plants Oaks\" — Jony Sings\n\n$JS 0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65\n\npart of the BNKR extended family"
+  },
+  {
+    "file": "https://x.com/shockwaved91117/status/2078284624011092410",
+    "translation": "show me the love",
+    "name": "show me the love",
+    "triggers": [
+      "show me the love",
+      "show the love",
+      "spread the love",
+      "love token",
+      "the love drop"
+    ],
+    "band": null,
+    "tag": "$LOVE",
+    "ca": "0x32Df035a55CFB334bDD02Ee68E427b9A659AE9E7",
+    "xPost": "https://x.com/shockwaved91117/status/2078284624011092410",
+    "caption": "💕 $LOVE is live on Robinhood chain — bridged 1:1 from Base the proper way (LayerZero OFT), source-verified, real deepened liquidity.\n\nbuilt with the @bankrbot skills + @0xDeployer. this is the network growing — spread the love.",
+    "special": true
   }
 ]
