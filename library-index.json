@@ -1950,5 +1950,21 @@
    "a buck and an acorn"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2079968651311010115"
+ },
+ {
+  "band": "Rish",
+  "name": "The Bringing-In",
+  "triggers": [
+   "the bringing-in"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079969837455929416"
+ },
+ {
+  "band": "Jasmine",
+  "name": "A Tool for Every Mile",
+  "triggers": [
+   "a tool for every mile"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079979817680724277"
  }
 ]
