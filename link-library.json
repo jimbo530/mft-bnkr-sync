@@ -3153,5 +3153,18 @@
     "ca": "0x3a952eFa41501c0463Cf8Af9f821f8F549f47Edf",
     "xPost": "https://x.com/MemeForTrees/status/2079979817680724277",
     "caption": "\"A Tool for Every Mile\" — Jasmine\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079989878847135978",
+    "translation": "Come and Stay Free",
+    "name": "Come and Stay Free",
+    "triggers": [
+      "come and stay free"
+    ],
+    "band": "Jasmine",
+    "tag": "$JASMINE",
+    "ca": "0x3a952eFa41501c0463Cf8Af9f821f8F549f47Edf",
+    "xPost": "https://x.com/MemeForTrees/status/2079989878847135978",
+    "caption": "\"Come and Stay Free\" — Jasmine\n\n$JASMINE 0x3a952eFa41501c0463Cf8Af9f821f8F549f47Edf\n\npart of the BNKR extended family"
   }
 ]
