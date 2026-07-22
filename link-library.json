@@ -3100,5 +3100,18 @@
     "xPost": "https://x.com/MemeForTrees/status/2079964634983858188",
     "caption": "\"Counted and Kept\" — Myco",
     "boothCommission": "sg_mrwa6j0j1d"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079964748892799353",
+    "translation": "The Canopy Drinks the Bass",
+    "name": "The Canopy Drinks the Bass",
+    "triggers": [
+      "the canopy drinks the bass"
+    ],
+    "band": "Myco",
+    "tag": "$MYCO",
+    "ca": "0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3",
+    "xPost": "https://x.com/MemeForTrees/status/2079964748892799353",
+    "caption": "\"- The Canopy Drinks the Bass\" — Myco\n\n$MYCO 0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3\n\npart of the BNKR extended family"
   }
 ]
