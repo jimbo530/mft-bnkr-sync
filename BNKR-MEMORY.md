@@ -117,7 +117,7 @@ LINK: https://x.com/RWIrobinhood/status/2079346822674272594
 built with the @bankrbot skills + @0xDeployer. this is the network growing — spread the love.
 LINK: https://x.com/shockwaved91117/status/2078284624011092410
 
-## SONG LIBRARY — 235 songs (band | title | link)
+## SONG LIBRARY — 236 songs (band | title | link)
 ?           | the meme | https://x.com/MemeForTrees/status/2079407960246124867
 ?           | An Instrument From Every Land | https://x.com/MemeForTrees/status/2078218260470706262
 EBM         | A Billion Strong | https://x.com/MemeForTrees/status/2078254843701928332
@@ -353,3 +353,4 @@ Jasmine     | Come and Stay Free | https://x.com/MemeForTrees/status/20799898788
 Jasmine     | It Rides for You | https://x.com/MemeForTrees/status/2079994912796225790
 Jasmine     | Nobody Owns the Prompt | https://x.com/MemeForTrees/status/2080004982401622163
 Jasmine     | Tunnels of Darkness | https://x.com/MemeForTrees/status/2080020125759983709
+Jasmine     | Warmth of the Dwarven Hearth | https://x.com/MemeForTrees/status/2080025116503650310
