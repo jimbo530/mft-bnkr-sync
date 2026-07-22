@@ -2036,5 +2036,13 @@
    "oldest magic"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080040208431510009"
+ },
+ {
+  "band": "EBM",
+  "name": "The Street Takes Requests",
+  "triggers": [
+   "the street takes requests"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080050312644055208"
  }
 ]
