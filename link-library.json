@@ -3086,5 +3086,19 @@
     "xPost": "https://x.com/shockwaved91117/status/2078284624011092410",
     "caption": "💕 $LOVE is live on Robinhood chain — bridged 1:1 from Base the proper way (LayerZero OFT), source-verified, real deepened liquidity.\n\nbuilt with the @bankrbot skills + @0xDeployer. this is the network growing — spread the love.",
     "special": true
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079964634983858188",
+    "translation": "Counted and Kept",
+    "name": "Counted and Kept",
+    "triggers": [
+      "counted and kept"
+    ],
+    "band": "Myco",
+    "tag": "",
+    "ca": "",
+    "xPost": "https://x.com/MemeForTrees/status/2079964634983858188",
+    "caption": "\"Counted and Kept\" — Myco",
+    "boothCommission": "sg_mrwa6j0j1d"
   }
 ]

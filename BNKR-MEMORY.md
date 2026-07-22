@@ -117,7 +117,7 @@ LINK: https://x.com/RWIrobinhood/status/2079346822674272594
 built with the @bankrbot skills + @0xDeployer. this is the network growing — spread the love.
 LINK: https://x.com/shockwaved91117/status/2078284624011092410
 
-## SONG LIBRARY — 225 songs (band | title | link)
+## SONG LIBRARY — 226 songs (band | title | link)
 ?           | the meme | https://x.com/MemeForTrees/status/2079407960246124867
 ?           | An Instrument From Every Land | https://x.com/MemeForTrees/status/2078218260470706262
 EBM         | A Billion Strong | https://x.com/MemeForTrees/status/2078254843701928332
@@ -343,3 +343,4 @@ Myco        | The Vault That Feeds | https://x.com/MemeForTrees/status/207994964
 Rish        | The Town of the Cats | https://x.com/MemeForTrees/status/2079953621907554522
 JS          | The Block Plants Oaks | https://x.com/MemeForTrees/status/2079954677337088056
 ?           | show me the love | https://x.com/shockwaved91117/status/2078284624011092410
+Myco        | Counted and Kept | https://x.com/MemeForTrees/status/2079964634983858188

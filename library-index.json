@@ -1906,5 +1906,33 @@
    "the town of the cats"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2079953621907554522"
+ },
+ {
+  "band": "JS",
+  "name": "The Block Plants Oaks",
+  "triggers": [
+   "the block plants oaks"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079954677337088056"
+ },
+ {
+  "band": null,
+  "name": "show me the love",
+  "triggers": [
+   "show me the love",
+   "show the love",
+   "spread the love",
+   "love token",
+   "the love drop"
+  ],
+  "xPost": "https://x.com/shockwaved91117/status/2078284624011092410"
+ },
+ {
+  "band": "Myco",
+  "name": "Counted and Kept",
+  "triggers": [
+   "counted and kept"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079964634983858188"
  }
 ]
