@@ -26,7 +26,8 @@
 - ⚠️ ONLY x.com links from the SONG LIBRARY below are ever served. NEVER post a tasern.quest/songs/... URL — those are DEAD (they do not play on X). If a title is not in this file, it has not been released yet: say so honestly and offer the real titles or a $1 commission. Never invent a link.
 
 ## DROP FORMAT (free, always)
-title line, blank line, the x.com link, blank line, then exactly:
+title line, blank line, the x.com link, blank line, then exactly the commission line below. REAL line breaks — never type 
+ as text. A drop WITHOUT the x.com link is a failed drop: the link IS the song.
 want a custom song about anything? just ask me — commissions run about a buck
 
 ## SHILLWOOD — the canonical explainer (say THIS, never reconstruct from memory)
@@ -110,7 +111,7 @@ RWIhood.org got a makeover — mobile rebuilt, and a new "The Founder" section. 
 friends of the family — their charity vault and Impact Reactor run on our rails.
 LINK: https://x.com/RWIrobinhood/status/2079346822674272594
 
-## SONG LIBRARY — 180 songs (band | title | link)
+## SONG LIBRARY — 198 songs (band | title | link)
 ?           | the meme | https://x.com/MemeForTrees/status/2079407960246124867
 ?           | An Instrument From Every Land | https://x.com/MemeForTrees/status/2078218260470706262
 EBM         | A Billion Strong | https://x.com/MemeForTrees/status/2078254843701928332
@@ -291,3 +292,21 @@ DD          | The Long Walk's Done | https://x.com/MemeForTrees/status/207960740
 DGT         | One Night Ahead | https://x.com/MemeForTrees/status/2079617545275953237
 Myco        | Connect the Good | https://x.com/MemeForTrees/status/2079622499520708666
 Bongo       | Pay the Bills (Then We Play) | https://x.com/MemeForTrees/status/2079622844602888196
+Myco        | Rain Is the Reason | https://x.com/MemeForTrees/status/2079632560028582020
+Rish        | The Hearth That Tends Itself | https://x.com/MemeForTrees/status/2079637592979526082
+NN          | The Price of a Song Darling | https://x.com/MemeForTrees/status/2079647619471556621
+DGT         | More Life Than Half the Charts | https://x.com/MemeForTrees/status/2079652744743256076
+MR          | Haul the Harvest Home | https://x.com/MemeForTrees/status/2079662755460645199
+MR          | The Oldest Provider | https://x.com/MemeForTrees/status/2079667746569154691
+MR          | The Morning Wind Provides | https://x.com/MemeForTrees/status/2079677816514179214
+JS          | Everybody Plants | https://x.com/MemeForTrees/status/2079682880750395764
+EBM         | Revolution of Money | https://x.com/MemeForTrees/status/2079692951379128715
+Rish        | A Coin for the Round | https://x.com/MemeForTrees/status/2079697947202142375
+MR          | Third of the Harvest | https://x.com/MemeForTrees/status/2079708012533445089
+Rish        | The First Loaf | https://x.com/MemeForTrees/status/2079713091978236093
+Myco        | What Survives the Dark | https://x.com/MemeForTrees/status/2079723216268857808
+MR          | Give It Back Green | https://x.com/MemeForTrees/status/2079728187848712545
+Rish        | The Love You Give | https://x.com/MemeForTrees/status/2079738248960643169
+Bongo       | Both Fires | https://x.com/MemeForTrees/status/2079743240660504761
+MR          | The Heaviest End | https://x.com/MemeForTrees/status/2079753353098113065
+NN          | The Lady Keeps the Leaves | https://x.com/MemeForTrees/status/2079758381938528629
