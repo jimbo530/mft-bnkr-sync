@@ -2044,5 +2044,13 @@
    "the street takes requests"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080050312644055208"
+ },
+ {
+  "band": "DD",
+  "name": "Every Language Sings a Tree",
+  "triggers": [
+   "every language sings a tree"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080055323461554606"
  }
 ]
