@@ -2833,5 +2833,18 @@
     "ca": "0x85Dd5183D203CcE70b88234D31f075774AcCC453",
     "xPost": "https://x.com/MemeForTrees/status/2079818734621896773",
     "caption": "\"The Coconut Takes Requests!\" — Bongo\n\nCommission the band — your story, their voice, one coin (no value but songs we sing):\nhttps://tasern.quest/songsmith.html\n\n$BONGO 0x85Dd5183D203CcE70b88234D31f075774AcCC453\n\npart of the BNKR extended family"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079828809482649687",
+    "translation": "Neighbors Now",
+    "name": "Neighbors Now",
+    "triggers": [
+      "neighbors now"
+    ],
+    "band": "NN",
+    "tag": "$NN",
+    "ca": "0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc",
+    "xPost": "https://x.com/MemeForTrees/status/2079828809482649687",
+    "caption": "\"Neighbors Now\" — Natilie Nightclub\n\n$NN 0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc\n\npart of the BNKR extended family"
   }
 ]
