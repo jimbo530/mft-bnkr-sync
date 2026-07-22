@@ -3198,5 +3198,18 @@
     "ca": "0x3a952eFa41501c0463Cf8Af9f821f8F549f47Edf",
     "xPost": "https://x.com/MemeForTrees/status/2079994912796225790",
     "caption": "\"It Rides for You\" — Jasmine\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2080004982401622163",
+    "translation": "Nobody Owns the Prompt",
+    "name": "Nobody Owns the Prompt",
+    "triggers": [
+      "nobody owns the prompt"
+    ],
+    "band": "Jasmine",
+    "tag": "$JASMINE",
+    "ca": "0x3a952eFa41501c0463Cf8Af9f821f8F549f47Edf",
+    "xPost": "https://x.com/MemeForTrees/status/2080004982401622163",
+    "caption": "\"Nobody Owns the Prompt\" — Jasmine\n\n$BNKR"
   }
 ]

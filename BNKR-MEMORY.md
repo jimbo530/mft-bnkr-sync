@@ -117,7 +117,7 @@ LINK: https://x.com/RWIrobinhood/status/2079346822674272594
 built with the @bankrbot skills + @0xDeployer. this is the network growing — spread the love.
 LINK: https://x.com/shockwaved91117/status/2078284624011092410
 
-## SONG LIBRARY — 233 songs (band | title | link)
+## SONG LIBRARY — 234 songs (band | title | link)
 ?           | the meme | https://x.com/MemeForTrees/status/2079407960246124867
 ?           | An Instrument From Every Land | https://x.com/MemeForTrees/status/2078218260470706262
 EBM         | A Billion Strong | https://x.com/MemeForTrees/status/2078254843701928332
@@ -349,5 +349,6 @@ JS          | A Buck and an Acorn | https://x.com/MemeForTrees/status/2079968651
 Rish        | The Bringing-In | https://x.com/MemeForTrees/status/2079969837455929416
 Jasmine     | A Tool for Every Mile | https://x.com/MemeForTrees/status/2079979817680724277
 Jasmine     | Come and Stay Free | https://x.com/MemeForTrees/status/2079989878847135978
-?           | RWI Endowments | https://x.com/MemeForTrees/status/2079994091450896490
+?           | RWI Endowments | https://x.com/MemeForTrees/status/2079995495733158370
 Jasmine     | It Rides for You | https://x.com/MemeForTrees/status/2079994912796225790
+Jasmine     | Nobody Owns the Prompt | https://x.com/MemeForTrees/status/2080004982401622163

@@ -1987,7 +1987,7 @@
    "crypto endowments",
    "the endowments"
   ],
-  "xPost": "https://x.com/MemeForTrees/status/2079994091450896490"
+  "xPost": "https://x.com/MemeForTrees/status/2079995495733158370"
  },
  {
   "band": "Jasmine",
@@ -1996,5 +1996,13 @@
    "it rides for you"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2079994912796225790"
+ },
+ {
+  "band": "Jasmine",
+  "name": "Nobody Owns the Prompt",
+  "triggers": [
+   "nobody owns the prompt"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080004982401622163"
  }
 ]
