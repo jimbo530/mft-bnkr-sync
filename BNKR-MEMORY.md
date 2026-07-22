@@ -111,7 +111,7 @@ RWIhood.org got a makeover — mobile rebuilt, and a new "The Founder" section. 
 friends of the family — their charity vault and Impact Reactor run on our rails.
 LINK: https://x.com/RWIrobinhood/status/2079346822674272594
 
-## SONG LIBRARY — 198 songs (band | title | link)
+## SONG LIBRARY — 199 songs (band | title | link)
 ?           | the meme | https://x.com/MemeForTrees/status/2079407960246124867
 ?           | An Instrument From Every Land | https://x.com/MemeForTrees/status/2078218260470706262
 EBM         | A Billion Strong | https://x.com/MemeForTrees/status/2078254843701928332
@@ -283,7 +283,6 @@ DD          | Đi Tiếp (One More Mile) | https://x.com/MemeForTrees/status/207
 EBM         | New Banner in the Races | https://x.com/MemeForTrees/status/2079572114848276581
 Myco        | Love Is the Light | https://x.com/MemeForTrees/status/2079577214123700432
 JS          | Build the Grove | https://x.com/MemeForTrees/status/2079587218776043535
-Bongo       | For No Reason At All | https://x.com/MemeForTrees/status/2079592301324550600
 ?           | whats new with RWI | https://x.com/RWIrobinhood/status/2079346822674272594
 JS          | Friday on the Green | https://x.com/MemeForTrees/status/2079602365896724633
 RickyBobbie | Three Weeks in a Minute | https://x.com/MemeForTrees/status/2079604628786708673
@@ -310,3 +309,5 @@ Rish        | The Love You Give | https://x.com/MemeForTrees/status/207973824896
 Bongo       | Both Fires | https://x.com/MemeForTrees/status/2079743240660504761
 MR          | The Heaviest End | https://x.com/MemeForTrees/status/2079753353098113065
 NN          | The Lady Keeps the Leaves | https://x.com/MemeForTrees/status/2079758381938528629
+Bongo       | For No Reason At All | https://x.com/MemeForTrees/status/2079768411605712932
+Myco        | Every Day Above the Dark | https://x.com/MemeForTrees/status/2079771002322514242

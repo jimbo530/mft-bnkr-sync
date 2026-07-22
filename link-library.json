@@ -2728,5 +2728,19 @@
     "ca": "0x85Dd5183D203CcE70b88234D31f075774AcCC453",
     "xPost": "https://x.com/MemeForTrees/status/2079768411605712932",
     "caption": "\"Trees! (For No Reason At All)\" — Bongo\n\nHelp Bongo win the tree funding race — deposits welcome, withdraw anytime, the trees stay:\nhttps://tasern.quest/bongo-vault.html\n\n$BONGO 0x85Dd5183D203CcE70b88234D31f075774AcCC453\n\npart of the BNKR extended family"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079771002322514242",
+    "translation": "Every Day Above the Dark",
+    "name": "Every Day Above the Dark",
+    "triggers": [
+      "every day above the dark"
+    ],
+    "band": "Myco",
+    "tag": "",
+    "ca": "",
+    "xPost": "https://x.com/MemeForTrees/status/2079771002322514242",
+    "caption": "\"Every Day Above the Dark\" — Myco",
+    "boothCommission": "sg_mrviptxmbl"
   }
 ]

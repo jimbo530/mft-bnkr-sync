@@ -1489,14 +1489,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079587218776043535"
  },
  {
-  "band": "Bongo",
-  "name": "For No Reason At All",
-  "triggers": [
-   "for no reason at all"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079592301324550600"
- },
- {
   "band": null,
   "name": "whats new with RWI",
   "triggers": [
@@ -1562,5 +1554,165 @@
    "pay the bills (then we play)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2079622844602888196"
+ },
+ {
+  "band": "Myco",
+  "name": "Rain Is the Reason",
+  "triggers": [
+   "rain is the reason"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079632560028582020"
+ },
+ {
+  "band": "Rish",
+  "name": "The Hearth That Tends Itself",
+  "triggers": [
+   "the hearth that tends itself"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079637592979526082"
+ },
+ {
+  "band": "NN",
+  "name": "The Price of a Song Darling",
+  "triggers": [
+   "the price of a song darling"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079647619471556621"
+ },
+ {
+  "band": "DGT",
+  "name": "More Life Than Half the Charts",
+  "triggers": [
+   "more life than half the charts"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079652744743256076"
+ },
+ {
+  "band": "MR",
+  "name": "Haul the Harvest Home",
+  "triggers": [
+   "haul the harvest home"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079662755460645199"
+ },
+ {
+  "band": "MR",
+  "name": "The Oldest Provider",
+  "triggers": [
+   "the oldest provider"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079667746569154691"
+ },
+ {
+  "band": "MR",
+  "name": "The Morning Wind Provides",
+  "triggers": [
+   "the morning wind provides"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079677816514179214"
+ },
+ {
+  "band": "JS",
+  "name": "Everybody Plants",
+  "triggers": [
+   "everybody plants"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079682880750395764"
+ },
+ {
+  "band": "EBM",
+  "name": "Revolution of Money",
+  "triggers": [
+   "revolution of money"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079692951379128715"
+ },
+ {
+  "band": "Rish",
+  "name": "A Coin for the Round",
+  "triggers": [
+   "a coin for the round"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079697947202142375"
+ },
+ {
+  "band": "MR",
+  "name": "Third of the Harvest",
+  "triggers": [
+   "third of the harvest"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079708012533445089"
+ },
+ {
+  "band": "Rish",
+  "name": "The First Loaf",
+  "triggers": [
+   "the first loaf"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079713091978236093"
+ },
+ {
+  "band": "Myco",
+  "name": "What Survives the Dark",
+  "triggers": [
+   "what survives the dark"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079723216268857808"
+ },
+ {
+  "band": "MR",
+  "name": "Give It Back Green",
+  "triggers": [
+   "give it back green"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079728187848712545"
+ },
+ {
+  "band": "Rish",
+  "name": "The Love You Give",
+  "triggers": [
+   "the love you give"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079738248960643169"
+ },
+ {
+  "band": "Bongo",
+  "name": "Both Fires",
+  "triggers": [
+   "both fires"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079743240660504761"
+ },
+ {
+  "band": "MR",
+  "name": "The Heaviest End",
+  "triggers": [
+   "the heaviest end"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079753353098113065"
+ },
+ {
+  "band": "NN",
+  "name": "The Lady Keeps the Leaves",
+  "triggers": [
+   "the lady keeps the leaves"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079758381938528629"
+ },
+ {
+  "band": "Bongo",
+  "name": "For No Reason At All",
+  "triggers": [
+   "for no reason at all"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079768411605712932"
+ },
+ {
+  "band": "Myco",
+  "name": "Every Day Above the Dark",
+  "triggers": [
+   "every day above the dark"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079771002322514242"
  }
 ]
