@@ -3211,5 +3211,18 @@
     "ca": "0x3a952eFa41501c0463Cf8Af9f821f8F549f47Edf",
     "xPost": "https://x.com/MemeForTrees/status/2080004982401622163",
     "caption": "\"Nobody Owns the Prompt\" — Jasmine\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2080020125759983709",
+    "translation": "Tunnels of Darkness",
+    "name": "Tunnels of Darkness",
+    "triggers": [
+      "tunnels of darkness"
+    ],
+    "band": "Jasmine",
+    "tag": "$JASMINE",
+    "ca": "0x3a952eFa41501c0463Cf8Af9f821f8F549f47Edf",
+    "xPost": "https://x.com/MemeForTrees/status/2080020125759983709",
+    "caption": "\"Tunnels of Darkness\" — Jasmine\n\n$JASMINE 0x3a952eFa41501c0463Cf8Af9f821f8F549f47Edf\n\npart of the BNKR extended family"
   }
 ]
