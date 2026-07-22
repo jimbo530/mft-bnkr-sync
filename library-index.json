@@ -2060,5 +2060,13 @@
    "countless"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080065374519800135"
+ },
+ {
+  "band": "Rish",
+  "name": "The Long Weather",
+  "triggers": [
+   "the long weather"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080070423971008695"
  }
 ]
