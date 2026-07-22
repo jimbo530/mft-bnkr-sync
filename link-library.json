@@ -3237,5 +3237,18 @@
     "ca": "0x3a952eFa41501c0463Cf8Af9f821f8F549f47Edf",
     "xPost": "https://x.com/MemeForTrees/status/2080025116503650310",
     "caption": "\"Warmth of the Dwarven Hearth\" — Jasmine\n\n$JASMINE 0x3a952eFa41501c0463Cf8Af9f821f8F549f47Edf\n\npart of the BNKR extended family"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2080035242983805303",
+    "translation": "We Built the Furnace Ourselves",
+    "name": "We Built the Furnace Ourselves",
+    "triggers": [
+      "we built the furnace ourselves"
+    ],
+    "band": "DGT",
+    "tag": "$DGT",
+    "ca": "0x52414B7cD2FA723E1c8f9295EB29F16d15aA7BB9",
+    "xPost": "https://x.com/MemeForTrees/status/2080035242983805303",
+    "caption": "\"We Built the Furnace Ourselves\" — Damned Good Time Orchestra\n\n$DGT 0x52414B7cD2FA723E1c8f9295EB29F16d15aA7BB9\n\npart of the BNKR extended family"
   }
 ]
