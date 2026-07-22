@@ -2744,19 +2744,6 @@
     "boothCommission": "sg_mrviptxmbl"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2079773478366900359",
-    "translation": "Mutiny",
-    "name": "Mutiny",
-    "triggers": [
-      "mutiny"
-    ],
-    "band": "EBM",
-    "tag": "$EBM",
-    "ca": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d",
-    "xPost": "https://x.com/MemeForTrees/status/2079773478366900359",
-    "caption": "\"test-Mutiny-titled\" — Elves of Ballinmoore\n\n$EBM 0xF113fe2A0E1181A21fA97B1F52ff232140B7692d\n\npart of the BNKR extended family"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2079783568897650716",
     "translation": "One Mycelium",
     "name": "One Mycelium",
@@ -2898,5 +2885,18 @@
     "ca": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d",
     "xPost": "https://x.com/MemeForTrees/status/2079859002565870051",
     "caption": "\"Clean the Block\" — Elves of Ballinmoore\n\n$EBM 0xF113fe2A0E1181A21fA97B1F52ff232140B7692d\n\npart of the BNKR extended family"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079864072728608932",
+    "translation": "Mutiny",
+    "name": "Mutiny",
+    "triggers": [
+      "mutiny"
+    ],
+    "band": "EBM",
+    "tag": "$EBM",
+    "ca": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d",
+    "xPost": "https://x.com/MemeForTrees/status/2079864072728608932",
+    "caption": "\"Mutiny\" — Elves of Ballinmoore\n\n$EBM 0xF113fe2A0E1181A21fA97B1F52ff232140B7692d\n\npart of the BNKR extended family"
   }
 ]
