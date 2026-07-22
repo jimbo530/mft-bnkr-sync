@@ -1934,5 +1934,21 @@
    "counted and kept"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2079964634983858188"
+ },
+ {
+  "band": "Myco",
+  "name": "The Canopy Drinks the Bass",
+  "triggers": [
+   "the canopy drinks the bass"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079964748892799353"
+ },
+ {
+  "band": "JS",
+  "name": "A Buck and an Acorn",
+  "triggers": [
+   "a buck and an acorn"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079968651311010115"
  }
 ]

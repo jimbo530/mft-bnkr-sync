@@ -3113,5 +3113,19 @@
     "ca": "0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3",
     "xPost": "https://x.com/MemeForTrees/status/2079964748892799353",
     "caption": "\"- The Canopy Drinks the Bass\" — Myco\n\n$MYCO 0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3\n\npart of the BNKR extended family"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079968651311010115",
+    "translation": "A Buck and an Acorn",
+    "name": "A Buck and an Acorn",
+    "triggers": [
+      "a buck and an acorn"
+    ],
+    "band": "JS",
+    "tag": "",
+    "ca": "",
+    "xPost": "https://x.com/MemeForTrees/status/2079968651311010115",
+    "caption": "\"A Buck and an Acorn\" — JS",
+    "boothCommission": "sg_mrwat6pt5j"
   }
 ]
