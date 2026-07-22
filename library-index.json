@@ -1974,5 +1974,27 @@
    "come and stay free"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2079989878847135978"
+ },
+ {
+  "band": null,
+  "name": "RWI Endowments",
+  "triggers": [
+   "tell me about rwi endowments",
+   "rwi endowments",
+   "rwi endowment",
+   "the rwi endowments",
+   "real world impact endowments",
+   "crypto endowments",
+   "the endowments"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079994091450896490"
+ },
+ {
+  "band": "Jasmine",
+  "name": "It Rides for You",
+  "triggers": [
+   "it rides for you"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079994912796225790"
  }
 ]

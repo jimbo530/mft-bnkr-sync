@@ -3185,5 +3185,18 @@
     "ca": null,
     "xPost": "https://x.com/MemeForTrees/status/2079994091450896490",
     "caption": "The first real crypto endowments — give once, give forever. 🌱🌳🍲🌊📚"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2079994912796225790",
+    "translation": "It Rides for You",
+    "name": "It Rides for You",
+    "triggers": [
+      "it rides for you"
+    ],
+    "band": "Jasmine",
+    "tag": "$JASMINE",
+    "ca": "0x3a952eFa41501c0463Cf8Af9f821f8F549f47Edf",
+    "xPost": "https://x.com/MemeForTrees/status/2079994912796225790",
+    "caption": "\"It Rides for You\" — Jasmine\n\n$BNKR"
   }
 ]
