@@ -111,7 +111,7 @@ RWIhood.org got a makeover — mobile rebuilt, and a new "The Founder" section. 
 friends of the family — their charity vault and Impact Reactor run on our rails.
 LINK: https://x.com/RWIrobinhood/status/2079346822674272594
 
-## SONG LIBRARY — 199 songs (band | title | link)
+## SONG LIBRARY — 223 songs (band | title | link)
 ?           | the meme | https://x.com/MemeForTrees/status/2079407960246124867
 ?           | An Instrument From Every Land | https://x.com/MemeForTrees/status/2078218260470706262
 EBM         | A Billion Strong | https://x.com/MemeForTrees/status/2078254843701928332
@@ -311,3 +311,27 @@ MR          | The Heaviest End | https://x.com/MemeForTrees/status/2079753353098
 NN          | The Lady Keeps the Leaves | https://x.com/MemeForTrees/status/2079758381938528629
 Bongo       | For No Reason At All | https://x.com/MemeForTrees/status/2079768411605712932
 Myco        | Every Day Above the Dark | https://x.com/MemeForTrees/status/2079771002322514242
+Myco        | One Mycelium | https://x.com/MemeForTrees/status/2079783568897650716
+NN          | The Velvet Ledger | https://x.com/MemeForTrees/status/2079788582848311495
+NN          | Cheap Tricks Expensive Forests | https://x.com/MemeForTrees/status/2079798650440438002
+MR          | Set a Table | https://x.com/MemeForTrees/status/2079803640517214483
+Myco        | Hold the Deck | https://x.com/MemeForTrees/status/2079813714258141486
+Bongo       | The Coconut Takes Requests | https://x.com/MemeForTrees/status/2079818734621896773
+NN          | Neighbors Now | https://x.com/MemeForTrees/status/2079828809482649687
+DGT         | Exact Change | https://x.com/MemeForTrees/status/2079833902751920229
+Myco        | Roots That Hold | https://x.com/MemeForTrees/status/2079843908800958583
+Myco        | Everything Came Up | https://x.com/MemeForTrees/status/2079848945614725610
+EBM         | Clean the Block | https://x.com/MemeForTrees/status/2079859002565870051
+EBM         | Mutiny | https://x.com/MemeForTrees/status/2079864072728608932
+DD          | Every Road a Grove | https://x.com/MemeForTrees/status/2079874146129907978
+Rish        | The Kindest Well | https://x.com/MemeForTrees/status/2079879180230045696
+DD          | The Well at the Bend | https://x.com/MemeForTrees/status/2079889246257573898
+Myco        | New Soil | https://x.com/MemeForTrees/status/2079894282689823201
+EBM         | They Came to Us | https://x.com/MemeForTrees/status/2079904339997454768
+DD          | One River | https://x.com/MemeForTrees/status/2079909386055475617
+DGT         | Lucky To Be Here | https://x.com/MemeForTrees/status/2079919465928503527
+NN          | Tavern at the Tide | https://x.com/MemeForTrees/status/2079924476678963696
+Rish        | Plant It Back | https://x.com/MemeForTrees/status/2079934542790500737
+Bongo       | The Beat Votes Tomorrow | https://x.com/MemeForTrees/status/2079939538382630969
+Myco        | The Vault That Feeds | https://x.com/MemeForTrees/status/2079949645405417490
+Rish        | The Town of the Cats | https://x.com/MemeForTrees/status/2079953621907554522
