@@ -70,5 +70,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080432801468354614",
   "tag": "$MfT"
+ },
+ {
+  "name": "Join the Raid",
+  "triggers": [
+   "join the raid"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080437836361138304",
+  "tag": "$MfT"
  }
 ]

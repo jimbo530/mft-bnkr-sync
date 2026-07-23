@@ -3589,5 +3589,18 @@
     "ca": null,
     "xPost": "https://x.com/MemeForTrees/status/2080432801468354614",
     "caption": "\"It Keeps Itself Alive\" — CB\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2080437836361138304",
+    "translation": "Join the Raid",
+    "name": "Join the Raid",
+    "triggers": [
+      "join the raid"
+    ],
+    "band": "CB",
+    "tag": "$MfT",
+    "ca": null,
+    "xPost": "https://x.com/MemeForTrees/status/2080437836361138304",
+    "caption": "\"Join the Raid\" — CB\n\nan agent for the whole fam, working around the clock\n\n$BNKR"
   }
 ]
