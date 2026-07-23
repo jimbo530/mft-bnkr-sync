@@ -2100,5 +2100,13 @@
    "tally at the muster"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080100649904029753"
+ },
+ {
+  "band": "EBM",
+  "name": "The Grove Remembers Who Showed Up",
+  "triggers": [
+   "the grove remembers who showed up"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080110716418245054"
  }
 ]
