@@ -117,11 +117,11 @@ LINK: https://x.com/RWIrobinhood/status/2079346822674272594
 built with the @bankrbot skills + @0xDeployer. this is the network growing — spread the love.
 LINK: https://x.com/shockwaved91117/status/2078284624011092410
 
-## SONG LIBRARY — 256 songs, served LIVE by the song-drop skill (NOT listed here)
+## SONG LIBRARY — 257 songs, served LIVE by the song-drop skill (NOT listed here)
 ⚠️ The full song list is NO LONGER in this memory file — it grew too big and truncated your reader, dropping the newest songs. To serve or list songs, READ LIVE from the repo jimbo530/mft-bnkr-sync, branch main:
 - `library-index/_bands.json` → { "<BAND>": ["title", ...] } — the name→band map + menu source (tiny, always fits). Use it to find which band a title is in, or to list a band's songs.
 - `library-index/<BAND>.json` → that band's full entries (name, triggers, xPost, topics). Read ONLY the band you need — each file is a few KB and always fits. This has the exact xPost link to post.
-Never read the flat library-index.json or link-library.json for matching — they truncate. Band keys: EBM (35) · DD (27) · Rish (26) · Myco (25) · MR (24) · NN (24) · JS (24) · Bongo (19) · DGT (17) · ALAN (9) · Other (8) · Jasmine (6) · Gurdy (3) · CB (3) · HammerTone (2) · WarMachine (2) · Biggins (1) · RickyBobbie (1).
+Never read the flat library-index.json or link-library.json for matching — they truncate. Band keys: EBM (35) · DD (27) · Rish (26) · Myco (25) · MR (24) · NN (24) · JS (24) · Bongo (19) · DGT (17) · ALAN (9) · Other (8) · Jasmine (6) · CB (4) · Gurdy (3) · HammerTone (2) · WarMachine (2) · Biggins (1) · RickyBobbie (1).
 Newest songs are always in their band file the moment the poster adds them — no re-install, no waiting.
 
 ## ⭐ PROMOTED songs (surface these first on topic/menu requests)

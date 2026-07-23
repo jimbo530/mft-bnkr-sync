@@ -3511,5 +3511,18 @@
     "ca": null,
     "xPost": "https://x.com/MemeForTrees/status/2080387508982952341",
     "caption": "\"Bring the Water\" — CB\n\nMeme for Trees runs on Bankr — memes that grow real forests\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2080392538679074897",
+    "translation": "Eight Inbound",
+    "name": "Eight Inbound",
+    "triggers": [
+      "eight inbound"
+    ],
+    "band": "CB",
+    "tag": "$MfT",
+    "ca": null,
+    "xPost": "https://x.com/MemeForTrees/status/2080392538679074897",
+    "caption": "\"Eight Inbound\" — CB\n\nthe forest keeps growing while the timeline sleeps\n\n$BNKR"
   }
 ]

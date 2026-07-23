@@ -22,5 +22,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080387508982952341",
   "tag": "$MfT"
+ },
+ {
+  "name": "Eight Inbound",
+  "triggers": [
+   "eight inbound"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080392538679074897",
+  "tag": "$MfT"
  }
 ]
