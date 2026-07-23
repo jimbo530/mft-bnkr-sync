@@ -2108,5 +2108,13 @@
    "the grove remembers who showed up"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080110716418245054"
+ },
+ {
+  "band": "Bongo",
+  "name": "The Hungry Drum",
+  "triggers": [
+   "the hungry drum"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080115711603548489"
  }
 ]
