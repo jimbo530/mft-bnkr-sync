@@ -2116,5 +2116,13 @@
    "the hungry drum"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080115711603548489"
+ },
+ {
+  "band": "MR",
+  "name": "Feed the Village",
+  "triggers": [
+   "feed the village"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080125775496327317"
  }
 ]
