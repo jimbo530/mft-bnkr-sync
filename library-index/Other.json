@@ -1,0 +1,89 @@
+[
+ {
+  "name": "the meme",
+  "triggers": [
+   "show me the meme",
+   "the meme"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079407960246124867",
+  "tag": "$MfT"
+ },
+ {
+  "name": "An Instrument From Every Land",
+  "triggers": [
+   "an instrument from every land",
+   "instrument from every land",
+   "digerie dude"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078218260470706262",
+  "tag": "$DD"
+ },
+ {
+  "name": "Here We Go Again",
+  "triggers": [
+   "here we go again"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078635695023816869",
+  "tag": "$ALAN"
+ },
+ {
+  "name": "the meme that feeds people",
+  "triggers": [
+   "what meme feeds people",
+   "the meme that feeds people",
+   "meme that feeds people",
+   "the burger meme",
+   "burgers meme"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079211285946733004",
+  "tag": "$BURGERS"
+ },
+ {
+  "name": "tunes for trees",
+  "triggers": [
+   "tunes for trees",
+   "tunes 4 trees",
+   "tunesfortrees",
+   "music for trees",
+   "music 4 trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079507647942795388",
+  "tag": "$MfT"
+ },
+ {
+  "name": "whats new with RWI",
+  "triggers": [
+   "whats new with rwi",
+   "what's new with rwi",
+   "rwi news",
+   "rwi update"
+  ],
+  "xPost": "https://x.com/RWIrobinhood/status/2079346822674272594",
+  "tag": "$RWI"
+ },
+ {
+  "name": "show me the love",
+  "triggers": [
+   "show me the love",
+   "show the love",
+   "spread the love",
+   "love token",
+   "the love drop"
+  ],
+  "xPost": "https://x.com/shockwaved91117/status/2078284624011092410",
+  "tag": "$LOVE"
+ },
+ {
+  "name": "RWI Endowments",
+  "triggers": [
+   "tell me about rwi endowments",
+   "rwi endowments",
+   "rwi endowment",
+   "the rwi endowments",
+   "real world impact endowments",
+   "crypto endowments",
+   "the endowments"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079995495733158370"
+ }
+]

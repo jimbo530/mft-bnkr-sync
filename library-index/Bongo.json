@@ -1,0 +1,156 @@
+[
+ {
+  "name": "They Paid Me To Feed You",
+  "triggers": [
+   "they paid me to feed you"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078761785230811613",
+  "tag": "$BONGO"
+ },
+ {
+  "name": "They Paid Me To Play The Forest",
+  "triggers": [
+   "they paid me to play the forest"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078791983041016104",
+  "tag": "$BONGO"
+ },
+ {
+  "name": "A Drawer Full of Tricks",
+  "triggers": [
+   "a drawer full of tricks"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078953046122307802",
+  "tag": "$BONGO"
+ },
+ {
+  "name": "It Does the Doin",
+  "triggers": [
+   "it does the doin"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078958125638381986",
+  "tag": "$BONGO"
+ },
+ {
+  "name": "Quick as a Drumbeat",
+  "triggers": [
+   "quick as a drumbeat"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078968141607055810",
+  "tag": "$BONGO"
+ },
+ {
+  "name": "The Agent Does It",
+  "triggers": [
+   "the agent does it"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079078919622336767",
+  "tag": "$BONGO"
+ },
+ {
+  "name": "They Gave Me a Link",
+  "triggers": [
+   "they gave me a link"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079134240814359004",
+  "tag": "$BONGO"
+ },
+ {
+  "name": "The Bridge That Folds",
+  "triggers": [
+   "the bridge that folds"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079211282461315360",
+  "topics": [
+   "engineering",
+   "bridge",
+   "snow",
+   "switzerland",
+   "how things work"
+  ]
+ },
+ {
+  "name": "1,312 Jpegs",
+  "triggers": [
+   "1,312 jpegs"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079224666451808414"
+ },
+ {
+  "name": "The Famitree",
+  "triggers": [
+   "the famitree"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079239633427218888"
+ },
+ {
+  "name": "All You Have To Do Is Dance",
+  "triggers": [
+   "all you have to do is dance"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079300335059771623",
+  "tag": "$BONGO"
+ },
+ {
+  "name": "What's Over There On Base",
+  "triggers": [
+   "what's over there on base"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079365765342327128",
+  "tag": "$BONGO"
+ },
+ {
+  "name": "No Crying in the Casino",
+  "triggers": [
+   "no crying in the casino"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079380308168679648"
+ },
+ {
+  "name": "Pay the Bills (Then We Play)",
+  "triggers": [
+   "pay the bills (then we play)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079622844602888196"
+ },
+ {
+  "name": "Both Fires",
+  "triggers": [
+   "both fires"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079743240660504761",
+  "tag": "$BONGO"
+ },
+ {
+  "name": "For No Reason At All",
+  "triggers": [
+   "for no reason at all"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079768411605712932",
+  "tag": "$BONGO"
+ },
+ {
+  "name": "The Coconut Takes Requests",
+  "triggers": [
+   "the coconut takes requests"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079818734621896773",
+  "tag": "$BONGO"
+ },
+ {
+  "name": "The Beat Votes Tomorrow",
+  "triggers": [
+   "the beat votes tomorrow"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079939538382630969",
+  "tag": "$BONGO"
+ },
+ {
+  "name": "The Hungry Drum",
+  "triggers": [
+   "the hungry drum"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080115711603548489",
+  "tag": "$BONGO"
+ }
+]

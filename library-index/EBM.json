@@ -1,0 +1,293 @@
+[
+ {
+  "name": "A Billion Strong",
+  "triggers": [
+   "a billion strong",
+   "billion strong",
+   "one billion strong"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078254843701928332",
+  "tag": "$EBM"
+ },
+ {
+  "name": "Costs You Nothing",
+  "triggers": [
+   "costs you nothing"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078598719532904729",
+  "tag": "$EBM"
+ },
+ {
+  "name": "The Patient Ones",
+  "triggers": [
+   "the patient ones"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078681298126655784",
+  "tag": "$EBM"
+ },
+ {
+  "name": "Ten Years Deep",
+  "triggers": [
+   "ten years deep"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078696356118491241",
+  "tag": "$EBM"
+ },
+ {
+  "name": "Raid for the Children",
+  "triggers": [
+   "raid for the children"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078701425236885826",
+  "tag": "$EBM"
+ },
+ {
+  "name": "The Garden Watch",
+  "triggers": [
+   "the garden watch"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078716496197358002",
+  "tag": "$EBM"
+ },
+ {
+  "name": "Feed The People",
+  "triggers": [
+   "feed the people"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078746680854200803",
+  "tag": "$EBM"
+ },
+ {
+  "name": "The Whole Block Came",
+  "triggers": [
+   "the whole block came"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078776881512415664",
+  "tag": "$EBM"
+ },
+ {
+  "name": "The Prompt Heard",
+  "triggers": [
+   "the prompt heard"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078807118832890188",
+  "tag": "$EBM"
+ },
+ {
+  "name": "Plain Language Door",
+  "triggers": [
+   "plain language door"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078867487886655535",
+  "tag": "$EBM"
+ },
+ {
+  "name": "Tell It and Launch",
+  "triggers": [
+   "tell it and launch"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078877582162845992",
+  "tag": "$EBM"
+ },
+ {
+  "name": "Say the Word",
+  "triggers": [
+   "say the word"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079033579707736570",
+  "tag": "$EBM"
+ },
+ {
+  "name": "The Club With No Gate",
+  "triggers": [
+   "the club with no gate"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079043682120945795",
+  "tag": "$EBM"
+ },
+ {
+  "name": "No Gate",
+  "triggers": [
+   "no gate"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079093969737195918",
+  "tag": "$EBM"
+ },
+ {
+  "name": "Street Mint",
+  "triggers": [
+   "street mint"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079194675387244947",
+  "tag": "$EBM"
+ },
+ {
+  "name": "We Ship Apps",
+  "triggers": [
+   "we ship apps"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079212349836214599",
+  "topics": [
+   "apps",
+   "building",
+   "shipping",
+   "developers"
+  ]
+ },
+ {
+  "name": "Hoodies for the People",
+  "triggers": [
+   "hoodies for the people"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079217700354625599",
+  "topics": [
+   "hoodies",
+   "merch",
+   "warm",
+   "people"
+  ]
+ },
+ {
+  "name": "Building for the Bulls",
+  "triggers": [
+   "building for the bulls"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079250875076296731"
+ },
+ {
+  "name": "The Bulletin",
+  "triggers": [
+   "the bulletin"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079260070005612731",
+  "tag": "$EBM"
+ },
+ {
+  "name": "Eight Banners Moving",
+  "triggers": [
+   "eight banners moving"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079270174599860649",
+  "tag": "$EBM"
+ },
+ {
+  "name": "Canopy Law",
+  "triggers": [
+   "canopy law"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079285271682568574",
+  "tag": "$EBM"
+ },
+ {
+  "name": "The First Joke",
+  "triggers": [
+   "the first joke"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079426155245912571",
+  "tag": "$EBM"
+ },
+ {
+  "name": "Chorus Like an Army",
+  "triggers": [
+   "chorus like an army"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079471492564135955",
+  "tag": "$EBM"
+ },
+ {
+  "name": "No Hands",
+  "triggers": [
+   "no hands"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079501653300932876",
+  "tag": "$EBM"
+ },
+ {
+  "name": "The Good Word",
+  "triggers": [
+   "the good word"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079511765981794372",
+  "tag": "$EBM"
+ },
+ {
+  "name": "The Realest Magic",
+  "triggers": [
+   "the realest magic"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079541913057656994",
+  "tag": "$EBM"
+ },
+ {
+  "name": "New Banner in the Races",
+  "triggers": [
+   "new banner in the races"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079572114848276581",
+  "tag": "$EBM"
+ },
+ {
+  "name": "Revolution of Money",
+  "triggers": [
+   "revolution of money"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079692951379128715",
+  "tag": "$EBM"
+ },
+ {
+  "name": "Clean the Block",
+  "triggers": [
+   "clean the block"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079859002565870051",
+  "tag": "$EBM"
+ },
+ {
+  "name": "Mutiny",
+  "triggers": [
+   "mutiny"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079864072728608932",
+  "tag": "$EBM"
+ },
+ {
+  "name": "They Came to Us",
+  "triggers": [
+   "they came to us"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079904339997454768",
+  "tag": "$EBM"
+ },
+ {
+  "name": "Oldest Magic",
+  "triggers": [
+   "oldest magic"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080040208431510009",
+  "tag": "$EBM"
+ },
+ {
+  "name": "The Street Takes Requests",
+  "triggers": [
+   "the street takes requests"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080050312644055208",
+  "tag": "$EBM"
+ },
+ {
+  "name": "Countless",
+  "triggers": [
+   "countless"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080065374519800135",
+  "tag": "$EBM"
+ },
+ {
+  "name": "The Grove Remembers Who Showed Up",
+  "triggers": [
+   "the grove remembers who showed up"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080110716418245054",
+  "tag": "$EBM"
+ }
+]

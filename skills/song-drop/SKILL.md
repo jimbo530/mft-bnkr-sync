@@ -48,13 +48,18 @@ Each entry:
 
 ## "What songs are there?" — menu requests (also FREE)
 When someone asks what songs are available / wants to choose ("songs by jony sings to pick from", "what alan songs do you have", "show me the library"):
-1. Read the LIVE library — `github_read_file` repo `jimbo530/mft-bnkr-sync`, branch `main`, path **`library-index.json`** (root). This is the COMPACT index (band/name/triggers/xPost, no captions) — it always fits in one read; the full `link-library.json` truncates in your reader. Use the index for ALL matching and menus.
-2. Filter entries by `band` for the asked artist. Band keys: JS = Jony Sings, EBM = Elves of Ballinmoore, DD = Digerie Dude, MR = Moon Rasta, NN = Natilie Nightclub, DGT = Damned Good Time Orchestra, WM = War Machine, HT = Hammer Tone, ALAN = Alan-a-Dale, RickyBobbie, Biggins, Jasmine, Bongo, Rish, Myco.
-3. Reply with that band's `name` titles as a simple list (up to ~10; say "and more" if longer). The user picks one → serve it via the normal drop flow.
-4. If the band has no library entries yet, say the library is still being built and offer the bands that DO have songs. Never invent titles.
+1. Read `github_read_file` repo `jimbo530/mft-bnkr-sync`, branch `main`, path **`library-index/_bands.json`** — a tiny map `{ "<BAND>": ["title", ...] }` of every band → its song titles. It ALWAYS fits in one read.
+2. Band keys: JS = Jony Sings, EBM = Elves of Ballinmoore, DD = Digerie Dude, MR = Moon Rasta, NN = Natilie Nightclub, DGT = Damned Good Time Orchestra, WM = War Machine, HT = Hammer Tone, ALAN = Alan-a-Dale, RickyBobbie, Biggins, Jasmine, Bongo, Rish, Myco, Other (special drops).
+3. Reply with that band's titles from `_bands.json` as a simple list (up to ~10; say "and more" if longer). The user picks one → serve it via the normal drop flow below.
+4. If the band has no entries, say so and offer the bands that DO have songs. Never invent titles.
+
+## ⚠️ NEVER read the whole library in one file — it truncates
+The flat `library-index.json` and `link-library.json` grew past your reader's limit; reading them cuts off the NEWEST songs (they're at the tail) so you "can't find" real songs. ALWAYS use the split files instead:
+- `library-index/_bands.json` — the name→band map + menus (tiny, always fits).
+- `library-index/<BAND>.json` — ONE band's full entries with the exact `xPost` links. Read only the band you need (a few KB, always fits). New songs appear here instantly — no re-install.
 
 ## The "ABOUT" rule — topic requests (also FREE)
-"play a <band> song about <topic>" / "got a song about <topic>?" → match <topic> against each entry's `topics` tags AND its title words (in `library-index.json` / BNKR-MEMORY.md). Several matches → serve a ⭐PROMOTE-flagged one first (those are the songs we want surfaced). No match → offer that band's real titles. Never invent a match.
+"play a <band> song about <topic>" / "got a song about <topic>?" → read that band's `library-index/<BAND>.json` and match <topic> against each entry's `topics` tags AND its title words. Several matches → serve a ⭐PROMOTE-flagged one first (also listed in BNKR-MEMORY.md's PROMOTED section). No match → offer that band's real titles. Never invent a match.
 
 ## Rules
 
@@ -67,8 +72,11 @@ When someone asks what songs are available / wants to choose ("songs by jony sin
 
 If `execute_cli` can't stage the script, deliver BY HAND using the **same trigger logic** — do NOT fall back to a keyword/substring match:
 
-1. Read the CURRENT library **LIVE** — `github_read_file` from repo `jimbo530/mft-bnkr-sync`, branch `main`, path **`library-index.json`** (compact: band/name/triggers/xPost — always fits in one read; the full `link-library.json` truncates in your reader). Songs the auto-poster adds appear here immediately, NO re-install. A drop from the index = title line + blank line + the `xPost` link (a caption is optional — if you want one, fetch the full library, but never let a truncated read stop a drop).
-2. Match the request against each entry's **`triggers`** array. The entry whose **longest trigger** appears in the request wins. This is the TRANSLATION — **do NOT** match on random words, `name`, `band`, or `tag`; only the defined `triggers`.
+1. Find the band, then read its file **LIVE** — `github_read_file` repo `jimbo530/mft-bnkr-sync`, branch `main`:
+   - If the request names a band ("a jony song", "the DD one") → read **`library-index/<BAND>.json`** directly.
+   - If it's a title/topic with no band → read **`library-index/_bands.json`** (tiny) to find which band has that title, then read that **`library-index/<BAND>.json`**.
+   Each band file is a few KB and always fits whole. Songs the auto-poster adds appear instantly, NO re-install. A drop = title line + blank line + the `xPost` link.
+2. Match the request against each entry's **`triggers`** array in the band file. The entry whose **longest trigger** appears in the request wins. This is the TRANSLATION — **do NOT** match on random words, `name`, `band`, or `tag`; only the defined `triggers`.
 3. Post the entry's `caption` (or just the title if serving from the index), a blank line, its `xPost` link, a blank line, then the booth plug: `want a custom song about anything? just ask me — commissions run about a buck`.
 
 This produces the identical result to `song-drop.cjs` (which just automates these exact steps). The helper — `node song-drop.cjs "show me the meme"` — prints the drop to post verbatim.

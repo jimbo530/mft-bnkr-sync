@@ -1,0 +1,16 @@
+[
+ {
+  "name": "The Hordes Keep Coming",
+  "triggers": [
+   "the hordes keep coming"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079347245405679828"
+ },
+ {
+  "name": "Earn It",
+  "triggers": [
+   "earn it"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079395156420124760"
+ }
+]

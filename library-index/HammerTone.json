@@ -1,0 +1,16 @@
+[
+ {
+  "name": "Proof From the Sky",
+  "triggers": [
+   "proof from the sky"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079254681331667213"
+ },
+ {
+  "name": "The Grind Holds",
+  "triggers": [
+   "the grind holds"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079303270204383633"
+ }
+]

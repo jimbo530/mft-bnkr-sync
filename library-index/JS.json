@@ -1,0 +1,198 @@
+[
+ {
+  "name": "Pull Up to the Space",
+  "triggers": [
+   "pull up to the space"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078671228730999031",
+  "tag": "$JS"
+ },
+ {
+  "name": "Name Your Nobody",
+  "triggers": [
+   "name your nobody"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078731585436676151",
+  "tag": "$JS"
+ },
+ {
+  "name": "Nobody At the Back",
+  "triggers": [
+   "nobody at the back"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078837322280263841",
+  "tag": "$JS"
+ },
+ {
+  "name": "A Crew That Lets You In",
+  "triggers": [
+   "a crew that lets you in"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078988271829364898",
+  "tag": "$JS"
+ },
+ {
+  "name": "She Just Said It",
+  "triggers": [
+   "she just said it"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078998344987210126",
+  "tag": "$JS"
+ },
+ {
+  "name": "Stands On Its Own",
+  "triggers": [
+   "stands on its own"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079003447685251545",
+  "tag": "$JS"
+ },
+ {
+  "name": "Just Say It Plain",
+  "triggers": [
+   "just say it plain"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079058781825085689",
+  "tag": "$JS"
+ },
+ {
+  "name": "Pull Up a Stoop",
+  "triggers": [
+   "pull up a stoop"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079119177265057839",
+  "tag": "$JS"
+ },
+ {
+  "name": "Concrete to Canopy",
+  "triggers": [
+   "concrete to canopy"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079154411205431773",
+  "tag": "$JS"
+ },
+ {
+  "name": "The Architecture of Trust",
+  "triggers": [
+   "the architecture of trust"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079177348314779845",
+  "topics": [
+   "trust",
+   "civilization",
+   "blockchain",
+   "verification"
+  ],
+  "promote": true
+ },
+ {
+  "name": "Nix at the Front",
+  "triggers": [
+   "nix at the front"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079255033225347091",
+  "tag": "$JS"
+ },
+ {
+  "name": "Still on the Stoop",
+  "triggers": [
+   "still on the stoop"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079350670482620653",
+  "tag": "$JS"
+ },
+ {
+  "name": "Money That Feeds",
+  "triggers": [
+   "money that feeds"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079360764939207146",
+  "tag": "$JS"
+ },
+ {
+  "name": "Everybody Drinks",
+  "triggers": [
+   "everybody drinks"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079456395129131479",
+  "tag": "$JS"
+ },
+ {
+  "name": "Better Than We Found It",
+  "triggers": [
+   "better than we found it"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079516752279425168",
+  "tag": "$JS"
+ },
+ {
+  "name": "Frens in the Field",
+  "triggers": [
+   "frens in the field"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079557021011992670",
+  "tag": "$JS"
+ },
+ {
+  "name": "Build the Grove",
+  "triggers": [
+   "build the grove"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079587218776043535",
+  "tag": "$JS"
+ },
+ {
+  "name": "Friday on the Green",
+  "triggers": [
+   "friday on the green"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079602365896724633",
+  "tag": "$JS"
+ },
+ {
+  "name": "Ko Came Early",
+  "triggers": [
+   "ko came early"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079605077359178222"
+ },
+ {
+  "name": "Everybody Plants",
+  "triggers": [
+   "everybody plants"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079682880750395764",
+  "tag": "$JS"
+ },
+ {
+  "name": "The Block Plants Oaks",
+  "triggers": [
+   "the block plants oaks"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079954677337088056",
+  "tag": "$JS"
+ },
+ {
+  "name": "A Buck and an Acorn",
+  "triggers": [
+   "a buck and an acorn"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079968651311010115"
+ },
+ {
+  "name": "Plate on the Table",
+  "triggers": [
+   "plate on the table"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080080481744232456",
+  "tag": "$JS"
+ },
+ {
+  "name": "Tally at the Muster",
+  "triggers": [
+   "tally at the muster"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080100649904029753",
+  "tag": "$JS"
+ }
+]

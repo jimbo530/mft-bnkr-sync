@@ -1,0 +1,50 @@
+[
+ {
+  "name": "A Tool for Every Mile",
+  "triggers": [
+   "a tool for every mile"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079979817680724277",
+  "tag": "$JASMINE"
+ },
+ {
+  "name": "Come and Stay Free",
+  "triggers": [
+   "come and stay free"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079989878847135978",
+  "tag": "$JASMINE"
+ },
+ {
+  "name": "It Rides for You",
+  "triggers": [
+   "it rides for you"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079994912796225790",
+  "tag": "$JASMINE"
+ },
+ {
+  "name": "Nobody Owns the Prompt",
+  "triggers": [
+   "nobody owns the prompt"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080004982401622163",
+  "tag": "$JASMINE"
+ },
+ {
+  "name": "Tunnels of Darkness",
+  "triggers": [
+   "tunnels of darkness"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080020125759983709",
+  "tag": "$JASMINE"
+ },
+ {
+  "name": "Warmth of the Dwarven Hearth",
+  "triggers": [
+   "warmth of the dwarven hearth"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080025116503650310",
+  "tag": "$JASMINE"
+ }
+]

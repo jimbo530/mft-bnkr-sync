@@ -1,0 +1,11 @@
+[
+ {
+  "name": "Shout It and It's Live",
+  "triggers": [
+   "shout it and it's live",
+   "shout it and its live"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079539865046110465",
+  "tag": "$BIGGINS"
+ }
+]

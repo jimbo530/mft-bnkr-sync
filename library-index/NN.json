@@ -1,0 +1,210 @@
+[
+ {
+  "name": "One Clean Drop",
+  "triggers": [
+   "one clean drop"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078625934685413582",
+  "tag": "$NN"
+ },
+ {
+  "name": "Ask Me Why I Stay",
+  "triggers": [
+   "ask me why i stay"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078641032728617228",
+  "tag": "$NN"
+ },
+ {
+  "name": "Toast to Tomorrow",
+  "triggers": [
+   "toast to tomorrow"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078741656401047872",
+  "tag": "$NN"
+ },
+ {
+  "name": "Just Ask Darling",
+  "triggers": [
+   "just ask darling"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078847389117432209",
+  "tag": "$NN"
+ },
+ {
+  "name": "It Came With Its Own",
+  "triggers": [
+   "it came with its own"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079013448327835763",
+  "tag": "$NN"
+ },
+ {
+  "name": "It Does It for You",
+  "triggers": [
+   "it does it for you"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079018522370285916",
+  "tag": "$NN"
+ },
+ {
+  "name": "The Club Is Open Darlings",
+  "triggers": [
+   "the club is open darlings"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079028545913798660",
+  "tag": "$NN"
+ },
+ {
+  "name": "Let the Agent Handle It",
+  "triggers": [
+   "let the agent handle it"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079063827933442099",
+  "tag": "$NN"
+ },
+ {
+  "name": "We Saved You a Seat",
+  "triggers": [
+   "we saved you a seat"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079139272595030342",
+  "tag": "$NN"
+ },
+ {
+  "name": "Little Meme Little Tree",
+  "triggers": [
+   "little meme little tree"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079169476151456127",
+  "tag": "$NN"
+ },
+ {
+  "name": "The Path to Personal Shows",
+  "triggers": [
+   "the path to personal shows"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079182617488888165",
+  "topics": [
+   "shows",
+   "performing",
+   "career",
+   "grind"
+  ]
+ },
+ {
+  "name": "Grow Something Great",
+  "triggers": [
+   "grow something great"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079186043362812034",
+  "topics": [
+   "unity",
+   "global",
+   "japanese",
+   "world",
+   "together"
+  ],
+  "promote": true
+ },
+ {
+  "name": "Hoodies Keep Me Warm",
+  "triggers": [
+   "hoodies keep me warm"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079210547178836131",
+  "topics": [
+   "hoodies",
+   "merch",
+   "cozy",
+   "warm"
+  ]
+ },
+ {
+  "name": "New Address",
+  "triggers": [
+   "new address"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079239986855956972",
+  "tag": "$NN"
+ },
+ {
+  "name": "Every Ovation a Tree",
+  "triggers": [
+   "every ovation a tree"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079290264728793223",
+  "tag": "$NN"
+ },
+ {
+  "name": "Last Call Is a Lie",
+  "triggers": [
+   "last call is a lie"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079396007461212252",
+  "tag": "$NN"
+ },
+ {
+  "name": "Keep Your Purse",
+  "triggers": [
+   "keep your purse"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079526858341699860",
+  "tag": "$NN"
+ },
+ {
+  "name": "Bad for Business",
+  "triggers": [
+   "bad for business"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079545861537771528"
+ },
+ {
+  "name": "The Price of a Song Darling",
+  "triggers": [
+   "the price of a song darling"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079647619471556621",
+  "tag": "$NN"
+ },
+ {
+  "name": "The Lady Keeps the Leaves",
+  "triggers": [
+   "the lady keeps the leaves"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079758381938528629",
+  "tag": "$NN"
+ },
+ {
+  "name": "The Velvet Ledger",
+  "triggers": [
+   "the velvet ledger"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079788582848311495",
+  "tag": "$NN"
+ },
+ {
+  "name": "Cheap Tricks Expensive Forests",
+  "triggers": [
+   "cheap tricks expensive forests"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079798650440438002",
+  "tag": "$NN"
+ },
+ {
+  "name": "Neighbors Now",
+  "triggers": [
+   "neighbors now"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079828809482649687",
+  "tag": "$NN"
+ },
+ {
+  "name": "Tavern at the Tide",
+  "triggers": [
+   "tavern at the tide"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079924476678963696",
+  "tag": "$NN"
+ }
+]
