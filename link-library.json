@@ -3576,5 +3576,18 @@
     "ca": null,
     "xPost": "https://x.com/MemeForTrees/status/2080422741115605252",
     "caption": "\"Green It Up\" — CB\n\nan agent for the whole fam, working around the clock\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2080432801468354614",
+    "translation": "It Keeps Itself Alive",
+    "name": "It Keeps Itself Alive",
+    "triggers": [
+      "it keeps itself alive"
+    ],
+    "band": "CB",
+    "tag": "$MfT",
+    "ca": null,
+    "xPost": "https://x.com/MemeForTrees/status/2080432801468354614",
+    "caption": "\"It Keeps Itself Alive\" — CB\n\n$BNKR"
   }
 ]
