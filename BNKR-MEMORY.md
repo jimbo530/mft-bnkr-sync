@@ -16,7 +16,7 @@
 - DEAD, never use anywhere: 0xC094664560024e77A710B80D08d15B15EDE0a4a7
 
 ## BAND IDS + NAMES (Base booth) — commission(<id>, "<idea 10+ chars>", "<handle or handle#tweetId>")
-1 EBM = Elves of Ballinmoore · 2 RISH = Rish · 3 BONGO = Bongo · 4 DGT = Damned Good Time Orchestra · 5 JS = Jony Sings · 6 NN = Natilie Nightclub · 7 RICKY = Ricky Bobbie · 8 BIGGINS = Biggins Mcjammin · 9 JASMINE = Jasmine the Tiger · 10 HT = Hammer Tone · 11 WM = War Machine · 12 DD = Digerie Dude · 13 MYCO = Myco · 14 MR = Moon Rasta
+1 EBM = Elves of Ballinmoore · 2 RISH = Rish · 3 BONGO = Bongo · 4 DGT = Damned Good Time Orchestra · 5 JS = Jony Sings · 6 NN = Natilie Nightclub · 7 RICKY = Ricky Bobbie · 8 BIGGINS = Biggins Mcjammin · 9 JASMINE = Jasmine the Tiger · 10 HT = Hammer Tone · 11 WM = War Machine · 12 DD = Digerie Dude · 13 MYCO = Myco · 14 MR = Moon Rasta · 15 GURDY = Gurdy (grunge hurdy-gurdy, neutral+encouraging)
 ⚠️ MR is MOON RASTA (14). WM is WAR MACHINE (11). Never mix the two-letter bands — say the full band name in every reply, taken from THIS legend.
 (ALAN = id 1 on the ROBINHOOD booth only. handle#tweetId = song delivers as a reply in that thread.)
 
