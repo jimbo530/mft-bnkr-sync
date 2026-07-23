@@ -3485,5 +3485,18 @@
     "ca": null,
     "xPost": "https://x.com/MemeForTrees/status/2080362344782213472",
     "caption": "\"A Billion in a Day\" — CB\n\nonchain for everyone, in plain words\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2080377444276543674",
+    "translation": "Both Chains at Once",
+    "name": "Both Chains at Once",
+    "triggers": [
+      "both chains at once"
+    ],
+    "band": "CB",
+    "tag": "$MfT",
+    "ca": null,
+    "xPost": "https://x.com/MemeForTrees/status/2080377444276543674",
+    "caption": "\"Both Chains at Once\" — CB\n\n$BNKR"
   }
 ]
