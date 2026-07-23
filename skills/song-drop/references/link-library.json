@@ -3498,5 +3498,18 @@
     "ca": null,
     "xPost": "https://x.com/MemeForTrees/status/2080377444276543674",
     "caption": "\"Both Chains at Once\" — CB\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2080387508982952341",
+    "translation": "Bring the Water",
+    "name": "Bring the Water",
+    "triggers": [
+      "bring the water"
+    ],
+    "band": "CB",
+    "tag": "$MfT",
+    "ca": null,
+    "xPost": "https://x.com/MemeForTrees/status/2080387508982952341",
+    "caption": "\"Bring the Water\" — CB\n\nMeme for Trees runs on Bankr — memes that grow real forests\n\n$BNKR"
   }
 ]

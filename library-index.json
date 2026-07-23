@@ -2186,5 +2186,13 @@
    "both chains at once"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080377444276543674"
+ },
+ {
+  "band": "CB",
+  "name": "Bring the Water",
+  "triggers": [
+   "bring the water"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080387508982952341"
  }
 ]

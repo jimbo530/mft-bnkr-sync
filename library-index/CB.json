@@ -14,5 +14,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080377444276543674",
   "tag": "$MfT"
+ },
+ {
+  "name": "Bring the Water",
+  "triggers": [
+   "bring the water"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080387508982952341",
+  "tag": "$MfT"
  }
 ]
