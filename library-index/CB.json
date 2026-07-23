@@ -30,5 +30,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080392538679074897",
   "tag": "$MfT"
+ },
+ {
+  "name": "Everyone Onchain By Friday",
+  "triggers": [
+   "everyone onchain by friday"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080402603440038254",
+  "tag": "$MfT"
  }
 ]

@@ -3524,5 +3524,18 @@
     "ca": null,
     "xPost": "https://x.com/MemeForTrees/status/2080392538679074897",
     "caption": "\"Eight Inbound\" — CB\n\nthe forest keeps growing while the timeline sleeps\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2080402603440038254",
+    "translation": "Everyone Onchain By Friday",
+    "name": "Everyone Onchain By Friday",
+    "triggers": [
+      "everyone onchain by friday"
+    ],
+    "band": "CB",
+    "tag": "$MfT",
+    "ca": null,
+    "xPost": "https://x.com/MemeForTrees/status/2080402603440038254",
+    "caption": "\"Everyone Onchain By Friday\" — CB\n\n$BNKR"
   }
 ]
