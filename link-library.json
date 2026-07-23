@@ -3450,5 +3450,27 @@
     "ca": null,
     "xPost": "https://x.com/MemeForTrees/status/2067210695083528216",
     "caption": "\"Raise the Cracks\" — Gurdy\n\n$MfT"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2080247089016033446",
+    "translation": "No Saints, Just Us",
+    "name": "No Saints, Just Us",
+    "triggers": [
+      "no saints just us",
+      "no saints",
+      "just us",
+      "gurdy no saints"
+    ],
+    "band": "Gurdy",
+    "tag": "$MfT",
+    "ca": null,
+    "xPost": "https://x.com/MemeForTrees/status/2080247089016033446",
+    "topics": [
+      "ordinary people",
+      "change",
+      "no heroes",
+      "community"
+    ],
+    "caption": "\"No Saints, Just Us\" — Gurdy\n\nno heroes coming. just us — regular people making the change real.\n\n$MfT"
   }
 ]

@@ -19,5 +19,22 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2067210695083528216",
   "tag": "$MfT"
+ },
+ {
+  "name": "No Saints, Just Us",
+  "triggers": [
+   "no saints just us",
+   "no saints",
+   "just us",
+   "gurdy no saints"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080247089016033446",
+  "topics": [
+   "ordinary people",
+   "change",
+   "no heroes",
+   "community"
+  ],
+  "tag": "$MfT"
  }
 ]
