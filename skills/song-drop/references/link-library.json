@@ -3419,5 +3419,36 @@
     "ca": "0x8d669b539C7801c1271BC484Bdd8a6084b7788e7",
     "xPost": "https://x.com/MemeForTrees/status/2080130842253283829",
     "caption": "\"The Long Rain Feeds\" — Moon Rasta\n\n$MR 0x8d669b539C7801c1271BC484Bdd8a6084b7788e7\n\npart of the BNKR extended family"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2076260282322620717",
+    "translation": "Society is a Meme",
+    "name": "Society is a Meme",
+    "triggers": [
+      "society is a meme",
+      "society is a meme by gurdy",
+      "gurdy society",
+      "the society song"
+    ],
+    "band": "Gurdy",
+    "tag": "$MfT",
+    "ca": null,
+    "xPost": "https://x.com/MemeForTrees/status/2076260282322620717",
+    "caption": "\"Society is a Meme\" — Gurdy\n\n$MfT"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2067210695083528216",
+    "translation": "Raise the Cracks",
+    "name": "Raise the Cracks",
+    "triggers": [
+      "raise the cracks",
+      "gurdy raise the cracks",
+      "the cracks song"
+    ],
+    "band": "Gurdy",
+    "tag": "$MfT",
+    "ca": null,
+    "xPost": "https://x.com/MemeForTrees/status/2067210695083528216",
+    "caption": "\"Raise the Cracks\" — Gurdy\n\n$MfT"
   }
 ]

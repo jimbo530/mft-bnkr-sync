@@ -1,0 +1,23 @@
+[
+ {
+  "name": "Society is a Meme",
+  "triggers": [
+   "society is a meme",
+   "society is a meme by gurdy",
+   "gurdy society",
+   "the society song"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2076260282322620717",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Raise the Cracks",
+  "triggers": [
+   "raise the cracks",
+   "gurdy raise the cracks",
+   "the cracks song"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2067210695083528216",
+  "tag": "$MfT"
+ }
+]
