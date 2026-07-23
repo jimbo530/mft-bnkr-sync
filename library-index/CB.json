@@ -38,5 +38,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080402603440038254",
   "tag": "$MfT"
+ },
+ {
+  "name": "STILL HERE FORWARD",
+  "triggers": [
+   "still here forward"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080407678791078346",
+  "tag": "$MfT"
  }
 ]

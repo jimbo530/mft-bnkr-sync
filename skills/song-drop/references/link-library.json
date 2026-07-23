@@ -3537,5 +3537,18 @@
     "ca": null,
     "xPost": "https://x.com/MemeForTrees/status/2080402603440038254",
     "caption": "\"Everyone Onchain By Friday\" — CB\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2080407678791078346",
+    "translation": "STILL HERE FORWARD",
+    "name": "STILL HERE FORWARD",
+    "triggers": [
+      "still here forward"
+    ],
+    "band": "CB",
+    "tag": "$MfT",
+    "ca": null,
+    "xPost": "https://x.com/MemeForTrees/status/2080407678791078346",
+    "caption": "\"Forward\" — CB\n\nBankr fam stays building\n\n$BNKR"
   }
 ]
