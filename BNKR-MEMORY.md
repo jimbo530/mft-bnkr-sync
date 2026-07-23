@@ -117,7 +117,7 @@ LINK: https://x.com/RWIrobinhood/status/2079346822674272594
 built with the @bankrbot skills + @0xDeployer. this is the network growing — spread the love.
 LINK: https://x.com/shockwaved91117/status/2078284624011092410
 
-## SONG LIBRARY — 242 songs (band | title | link)
+## SONG LIBRARY — 243 songs (band | title | link)
 ?           | the meme | https://x.com/MemeForTrees/status/2079407960246124867
 ?           | An Instrument From Every Land | https://x.com/MemeForTrees/status/2078218260470706262
 EBM         | A Billion Strong | https://x.com/MemeForTrees/status/2078254843701928332
@@ -360,3 +360,4 @@ EBM         | The Street Takes Requests | https://x.com/MemeForTrees/status/2080
 DD          | Every Language Sings a Tree | https://x.com/MemeForTrees/status/2080055323461554606
 EBM         | Countless | https://x.com/MemeForTrees/status/2080065374519800135
 Rish        | The Long Weather | https://x.com/MemeForTrees/status/2080070423971008695
+JS          | Plate on the Table | https://x.com/MemeForTrees/status/2080080481744232456

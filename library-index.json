@@ -2068,5 +2068,13 @@
    "the long weather"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080070423971008695"
+ },
+ {
+  "band": "JS",
+  "name": "Plate on the Table",
+  "triggers": [
+   "plate on the table"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080080481744232456"
  }
 ]
