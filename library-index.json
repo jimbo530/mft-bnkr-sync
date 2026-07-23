@@ -2218,5 +2218,13 @@
    "still here forward"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080407678791078346"
+ },
+ {
+  "band": "CB",
+  "name": "Green Candle Anthem",
+  "triggers": [
+   "green candle anthem"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080417752053907799"
  }
 ]

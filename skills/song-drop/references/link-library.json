@@ -3550,5 +3550,18 @@
     "ca": null,
     "xPost": "https://x.com/MemeForTrees/status/2080407678791078346",
     "caption": "\"Forward\" — CB\n\nBankr fam stays building\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2080417752053907799",
+    "translation": "Green Candle Anthem",
+    "name": "Green Candle Anthem",
+    "triggers": [
+      "green candle anthem"
+    ],
+    "band": "CB",
+    "tag": "$MfT",
+    "ca": null,
+    "xPost": "https://x.com/MemeForTrees/status/2080417752053907799",
+    "caption": "\"Green Candle Anthem\" — CB\n\nan agent for the whole fam, working around the clock\n\n$BNKR"
   }
 ]

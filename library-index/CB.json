@@ -46,5 +46,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080407678791078346",
   "tag": "$MfT"
+ },
+ {
+  "name": "Green Candle Anthem",
+  "triggers": [
+   "green candle anthem"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080417752053907799",
+  "tag": "$MfT"
  }
 ]
