@@ -2226,5 +2226,13 @@
    "green candle anthem"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080417752053907799"
+ },
+ {
+  "band": "CB",
+  "name": "Green It Up",
+  "triggers": [
+   "green it up"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080422741115605252"
  }
 ]

@@ -3563,5 +3563,18 @@
     "ca": null,
     "xPost": "https://x.com/MemeForTrees/status/2080417752053907799",
     "caption": "\"Green Candle Anthem\" — CB\n\nan agent for the whole fam, working around the clock\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2080422741115605252",
+    "translation": "Green It Up",
+    "name": "Green It Up",
+    "triggers": [
+      "green it up"
+    ],
+    "band": "CB",
+    "tag": "$MfT",
+    "ca": null,
+    "xPost": "https://x.com/MemeForTrees/status/2080422741115605252",
+    "caption": "\"Green It Up\" — CB\n\nan agent for the whole fam, working around the clock\n\n$BNKR"
   }
 ]

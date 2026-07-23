@@ -54,5 +54,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080417752053907799",
   "tag": "$MfT"
+ },
+ {
+  "name": "Green It Up",
+  "triggers": [
+   "green it up"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080422741115605252",
+  "tag": "$MfT"
  }
 ]
