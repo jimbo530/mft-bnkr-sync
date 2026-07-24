@@ -3953,5 +3953,18 @@
     "ca": "0x7C596a0d594D670ffB256bBfbB5379fC8Cf7d62B",
     "xPost": "https://x.com/MemeForTrees/status/2080684451785277500",
     "caption": "\"It Brought Its Own Pack\" — Biggins Mcjammin\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2080694573114737020",
+    "translation": "Out of the Treeline",
+    "name": "Out of the Treeline",
+    "triggers": [
+      "out of the treeline"
+    ],
+    "band": "Biggins",
+    "tag": "$BIGGINS",
+    "ca": "0x7C596a0d594D670ffB256bBfbB5379fC8Cf7d62B",
+    "xPost": "https://x.com/MemeForTrees/status/2080694573114737020",
+    "caption": "\"Out Of the Treeline\" — Biggins Mcjammin\n\n$BNKR"
   }
 ]

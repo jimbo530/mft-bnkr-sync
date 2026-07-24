@@ -23,5 +23,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080684451785277500",
   "tag": "$BIGGINS"
+ },
+ {
+  "name": "Out of the Treeline",
+  "triggers": [
+   "out of the treeline"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080694573114737020",
+  "tag": "$BIGGINS"
  }
 ]
