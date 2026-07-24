@@ -3810,5 +3810,18 @@
     "ca": "0x7B105F45ddaA689AfDa5606628761a9Fb2dCd826",
     "xPost": "https://x.com/MemeForTrees/status/2080598898138116306",
     "caption": "\"A Word and a Door\" — Hammer Tone\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2080603971543064730",
+    "translation": "Forge It With a Word",
+    "name": "Forge It With a Word",
+    "triggers": [
+      "forge it with a word"
+    ],
+    "band": "HammerTone",
+    "tag": "$HT",
+    "ca": "0x7B105F45ddaA689AfDa5606628761a9Fb2dCd826",
+    "xPost": "https://x.com/MemeForTrees/status/2080603971543064730",
+    "caption": "\"Forge It With a Word\" — Hammer Tone\n\n$BNKR"
   }
 ]
