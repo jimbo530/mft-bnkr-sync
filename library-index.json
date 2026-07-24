@@ -2250,5 +2250,13 @@
    "join the raid"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080437836361138304"
+ },
+ {
+  "band": "CB",
+  "name": "Live in Seconds",
+  "triggers": [
+   "live in seconds"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080447905303802320"
  }
 ]

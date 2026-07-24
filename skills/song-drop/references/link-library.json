@@ -3602,5 +3602,18 @@
     "ca": null,
     "xPost": "https://x.com/MemeForTrees/status/2080437836361138304",
     "caption": "\"Join the Raid\" — CB\n\nan agent for the whole fam, working around the clock\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2080447905303802320",
+    "translation": "Live in Seconds",
+    "name": "Live in Seconds",
+    "triggers": [
+      "live in seconds"
+    ],
+    "band": "CB",
+    "tag": "$MfT",
+    "ca": null,
+    "xPost": "https://x.com/MemeForTrees/status/2080447905303802320",
+    "caption": "\"Live in Seconds\" — CB\n\n$BNKR"
   }
 ]

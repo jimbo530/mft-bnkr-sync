@@ -78,5 +78,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080437836361138304",
   "tag": "$MfT"
+ },
+ {
+  "name": "Live in Seconds",
+  "triggers": [
+   "live in seconds"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080447905303802320",
+  "tag": "$MfT"
  }
 ]
