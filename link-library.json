@@ -3875,5 +3875,18 @@
     "ca": "0x6f45F5cE7027745b1Ab11D5493F187960D00FCfc",
     "xPost": "https://x.com/MemeForTrees/status/2080634130799177954",
     "caption": "\"Fast as the Forge-Fire\" — War Machine\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2080639160403038219",
+    "translation": "It Does Our Bidding",
+    "name": "It Does Our Bidding",
+    "triggers": [
+      "it does our bidding"
+    ],
+    "band": "WarMachine",
+    "tag": "$WM",
+    "ca": "0x6f45F5cE7027745b1Ab11D5493F187960D00FCfc",
+    "xPost": "https://x.com/MemeForTrees/status/2080639160403038219",
+    "caption": "\"It Does Our Bidding\" — War Machine\n\n$BNKR"
   }
 ]
