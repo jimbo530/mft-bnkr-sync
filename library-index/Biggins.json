@@ -15,5 +15,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080679418389807242",
   "tag": "$BIGGINS"
+ },
+ {
+  "name": "It Brought Its Own Pack",
+  "triggers": [
+   "it brought its own pack"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080684451785277500",
+  "tag": "$BIGGINS"
  }
 ]
