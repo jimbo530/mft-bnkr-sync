@@ -2354,5 +2354,13 @@
    "she keeps herself flying"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080573769936941391"
+ },
+ {
+  "band": "RickyBobbie",
+  "name": "Sign On",
+  "triggers": [
+   "sign on"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080583789571457152"
  }
 ]

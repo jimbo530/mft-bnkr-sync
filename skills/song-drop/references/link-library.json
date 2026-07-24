@@ -3771,5 +3771,18 @@
     "ca": "0x95286F2cce3C2de48EB75bB4E2Ec004429F18E53",
     "xPost": "https://x.com/MemeForTrees/status/2080573769936941391",
     "caption": "\"She Keeps Herself Flying\" — Ricky Bobbie\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2080583789571457152",
+    "translation": "Sign On",
+    "name": "Sign On",
+    "triggers": [
+      "sign on"
+    ],
+    "band": "RickyBobbie",
+    "tag": "$RICKY",
+    "ca": "0x95286F2cce3C2de48EB75bB4E2Ec004429F18E53",
+    "xPost": "https://x.com/MemeForTrees/status/2080583789571457152",
+    "caption": "\"Sign On\" — Ricky Bobbie\n\n$RICKY 0x95286F2cce3C2de48EB75bB4E2Ec004429F18E53\n\npart of the BNKR extended family"
   }
 ]

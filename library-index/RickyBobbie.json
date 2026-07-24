@@ -45,5 +45,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080573769936941391",
   "tag": "$RICKY"
+ },
+ {
+  "name": "Sign On",
+  "triggers": [
+   "sign on"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080583789571457152",
+  "tag": "$RICKY"
  }
 ]
