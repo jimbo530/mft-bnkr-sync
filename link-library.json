@@ -3862,5 +3862,18 @@
     "ca": "0x7B105F45ddaA689AfDa5606628761a9Fb2dCd826",
     "xPost": "https://x.com/MemeForTrees/status/2080624106936906062",
     "caption": "\"The Stone Beneath\" — Hammer Tone\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2080634130799177954",
+    "translation": "Fast as the Forge-Fire",
+    "name": "Fast as the Forge-Fire",
+    "triggers": [
+      "fast as the forge-fire"
+    ],
+    "band": "WarMachine",
+    "tag": "$WM",
+    "ca": "0x6f45F5cE7027745b1Ab11D5493F187960D00FCfc",
+    "xPost": "https://x.com/MemeForTrees/status/2080634130799177954",
+    "caption": "\"Fast as the Forge-Fire\" — War Machine\n\n$BNKR"
   }
 ]
