@@ -110,5 +110,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080468071626457422",
   "tag": "$MfT"
+ },
+ {
+  "name": "Post Laugh Plant Repeat",
+  "triggers": [
+   "post laugh plant repeat"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080478142733365418",
+  "tag": "$MfT"
  }
 ]

@@ -2282,5 +2282,13 @@
    "plant it loud"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080468071626457422"
+ },
+ {
+  "band": "CB",
+  "name": "Post Laugh Plant Repeat",
+  "triggers": [
+   "post laugh plant repeat"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080478142733365418"
  }
 ]
