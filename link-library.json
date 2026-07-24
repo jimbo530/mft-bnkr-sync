@@ -3641,5 +3641,18 @@
     "ca": null,
     "xPost": "https://x.com/MemeForTrees/status/2080462994941640875",
     "caption": "\"Onchain Forest\" — CB\n\nno keeper, no gatekeeper — just say the word\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2080468071626457422",
+    "translation": "Plant It Loud",
+    "name": "Plant It Loud",
+    "triggers": [
+      "plant it loud"
+    ],
+    "band": "CB",
+    "tag": "$MfT",
+    "ca": null,
+    "xPost": "https://x.com/MemeForTrees/status/2080468071626457422",
+    "caption": "\"Plant It Loud\" — CB\n\nMeme for Trees runs on Bankr — memes that grow real forests\n\n$BNKR"
   }
 ]

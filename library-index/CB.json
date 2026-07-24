@@ -102,5 +102,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080462994941640875",
   "tag": "$MfT"
+ },
+ {
+  "name": "Plant It Loud",
+  "triggers": [
+   "plant it loud"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080468071626457422",
+  "tag": "$MfT"
  }
 ]
