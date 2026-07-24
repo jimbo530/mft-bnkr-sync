@@ -3966,5 +3966,18 @@
     "ca": "0x7C596a0d594D670ffB256bBfbB5379fC8Cf7d62B",
     "xPost": "https://x.com/MemeForTrees/status/2080694573114737020",
     "caption": "\"Out Of the Treeline\" — Biggins Mcjammin\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2080699595168915557",
+    "translation": "Out of the Trees",
+    "name": "Out of the Trees",
+    "triggers": [
+      "out of the trees"
+    ],
+    "band": "Biggins",
+    "tag": "$BIGGINS",
+    "ca": "0x7C596a0d594D670ffB256bBfbB5379fC8Cf7d62B",
+    "xPost": "https://x.com/MemeForTrees/status/2080699595168915557",
+    "caption": "\"Out of the Trees\" — Biggins Mcjammin\n\n$BIGGINS 0x7C596a0d594D670ffB256bBfbB5379fC8Cf7d62B\n\npart of the BNKR extended family"
   }
 ]

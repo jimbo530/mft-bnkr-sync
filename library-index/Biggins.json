@@ -31,5 +31,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080694573114737020",
   "tag": "$BIGGINS"
+ },
+ {
+  "name": "Out of the Trees",
+  "triggers": [
+   "out of the trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080699595168915557",
+  "tag": "$BIGGINS"
  }
 ]
