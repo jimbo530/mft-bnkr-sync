@@ -28,5 +28,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080639160403038219",
   "tag": "$WM"
+ },
+ {
+  "name": "It Moves When We Roar",
+  "triggers": [
+   "it moves when we roar"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080649225788854670",
+  "tag": "$WM"
  }
 ]
