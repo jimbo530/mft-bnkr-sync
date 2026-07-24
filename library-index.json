@@ -2394,5 +2394,13 @@
    "name it and it's made"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080608966711681041"
+ },
+ {
+  "band": "HammerTone",
+  "name": "The Door in the Halls",
+  "triggers": [
+   "the door in the halls"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080619026481336443"
  }
 ]
