@@ -3823,5 +3823,18 @@
     "ca": "0x7B105F45ddaA689AfDa5606628761a9Fb2dCd826",
     "xPost": "https://x.com/MemeForTrees/status/2080603971543064730",
     "caption": "\"Forge It With a Word\" — Hammer Tone\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2080608966711681041",
+    "translation": "Name It and It's Made",
+    "name": "Name It and It's Made",
+    "triggers": [
+      "name it and it's made"
+    ],
+    "band": "HammerTone",
+    "tag": "$HT",
+    "ca": "0x7B105F45ddaA689AfDa5606628761a9Fb2dCd826",
+    "xPost": "https://x.com/MemeForTrees/status/2080608966711681041",
+    "caption": "\"Name It and It's Made\" — Hammer Tone\n\n$BNKR"
   }
 ]

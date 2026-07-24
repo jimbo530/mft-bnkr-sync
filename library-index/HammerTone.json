@@ -36,5 +36,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080603971543064730",
   "tag": "$HT"
+ },
+ {
+  "name": "Name It and It's Made",
+  "triggers": [
+   "name it and it's made"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080608966711681041",
+  "tag": "$HT"
  }
 ]
