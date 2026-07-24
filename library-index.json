@@ -2266,5 +2266,13 @@
    "love builds the forest"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080452981040800174"
+ },
+ {
+  "band": "CB",
+  "name": "Onchain Forest",
+  "triggers": [
+   "onchain forest"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080462994941640875"
  }
 ]

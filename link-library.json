@@ -3628,5 +3628,18 @@
     "ca": null,
     "xPost": "https://x.com/MemeForTrees/status/2080452981040800174",
     "caption": "\"Love Builds the Forest\" — CB\n\nBankr fam stays building\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2080462994941640875",
+    "translation": "Onchain Forest",
+    "name": "Onchain Forest",
+    "triggers": [
+      "onchain forest"
+    ],
+    "band": "CB",
+    "tag": "$MfT",
+    "ca": null,
+    "xPost": "https://x.com/MemeForTrees/status/2080462994941640875",
+    "caption": "\"Onchain Forest\" — CB\n\nno keeper, no gatekeeper — just say the word\n\n$BNKR"
   }
 ]
