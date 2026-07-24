@@ -13,5 +13,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080538491398553957",
   "tag": "$RICKY"
+ },
+ {
+  "name": "No Value But Songs We Sing",
+  "triggers": [
+   "no value but songs we sing"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080543530036916510",
+  "tag": "$RICKY"
  }
 ]
