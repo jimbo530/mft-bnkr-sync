@@ -2298,5 +2298,13 @@
    "press the button"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080483132193612033"
+ },
+ {
+  "band": "CB",
+  "name": "Revolution Has Begun",
+  "triggers": [
+   "revolution has begun"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080493237588889901"
  }
 ]

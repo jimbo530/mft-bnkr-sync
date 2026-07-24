@@ -3680,5 +3680,18 @@
     "ca": null,
     "xPost": "https://x.com/MemeForTrees/status/2080483132193612033",
     "caption": "\"Press the Button\" — CB\n\ngm to the fam — trees up, spirits up\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2080493237588889901",
+    "translation": "Revolution Has Begun",
+    "name": "Revolution Has Begun",
+    "triggers": [
+      "revolution has begun"
+    ],
+    "band": "CB",
+    "tag": "$MfT",
+    "ca": null,
+    "xPost": "https://x.com/MemeForTrees/status/2080493237588889901",
+    "caption": "\"Revolution Has Begun\" — CB\n\nonchain for everyone, in plain words\n\n$BNKR"
   }
 ]
