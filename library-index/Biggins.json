@@ -7,5 +7,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2079539865046110465",
   "tag": "$BIGGINS"
+ },
+ {
+  "name": "Chat It Into Being",
+  "triggers": [
+   "chat it into being"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080679418389807242",
+  "tag": "$BIGGINS"
  }
 ]
