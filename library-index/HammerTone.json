@@ -52,5 +52,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080619026481336443",
   "tag": "$HT"
+ },
+ {
+  "name": "The Stone Beneath",
+  "triggers": [
+   "the stone beneath"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080624106936906062",
+  "tag": "$HT"
  }
 ]
