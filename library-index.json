@@ -1408,15 +1408,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079531852671385691"
  },
  {
-  "band": "Biggins",
-  "name": "Shout It and It's Live",
-  "triggers": [
-   "shout it and it's live",
-   "shout it and its live"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079539865046110465"
- },
- {
   "band": "EBM",
   "name": "The Realest Magic",
   "triggers": [
@@ -2482,5 +2473,13 @@
    "out of the trees"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080699595168915557"
+ },
+ {
+  "band": "Biggins",
+  "name": "Shout It and It's Live",
+  "triggers": [
+   "shout it and it's live"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080704594137563541"
  }
 ]

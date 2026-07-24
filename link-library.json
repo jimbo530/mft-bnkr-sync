@@ -2239,20 +2239,6 @@
     "caption": "\"Bread and Water\" — Rish\n\n$RISH 0x31c600871603bab5d855463E03c6d0a9eB661D26\n\npart of the BNKR extended family"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2079539865046110465",
-    "translation": "Shout It and It's Live",
-    "name": "Shout It and It's Live",
-    "triggers": [
-      "shout it and it's live",
-      "shout it and its live"
-    ],
-    "band": "Biggins",
-    "tag": "$BIGGINS",
-    "ca": "0x7C596a0d594D670ffB256bBfbB5379fC8Cf7d62B",
-    "xPost": "https://x.com/MemeForTrees/status/2079539865046110465",
-    "caption": "\"Shout It and It's Live\" — Biggins Mcjammin\n\n$BIGGINS 0x7C596a0d594D670ffB256bBfbB5379fC8Cf7d62B\n\npart of the BNKR extended family"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2079541913057656994",
     "translation": "The Realest Magic",
     "name": "The Realest Magic",
@@ -3979,5 +3965,18 @@
     "ca": "0x7C596a0d594D670ffB256bBfbB5379fC8Cf7d62B",
     "xPost": "https://x.com/MemeForTrees/status/2080699595168915557",
     "caption": "\"Out of the Trees\" — Biggins Mcjammin\n\n$BIGGINS 0x7C596a0d594D670ffB256bBfbB5379fC8Cf7d62B\n\npart of the BNKR extended family"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2080704594137563541",
+    "translation": "Shout It and It's Live",
+    "name": "Shout It and It's Live",
+    "triggers": [
+      "shout it and it's live"
+    ],
+    "band": "Biggins",
+    "tag": "$BIGGINS",
+    "ca": "0x7C596a0d594D670ffB256bBfbB5379fC8Cf7d62B",
+    "xPost": "https://x.com/MemeForTrees/status/2080704594137563541",
+    "caption": "\"Shout It and It's Live\" — Biggins Mcjammin\n\n$BNKR"
   }
 ]

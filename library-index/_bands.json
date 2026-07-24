@@ -278,13 +278,6 @@
   "Sing To the Machine",
   "Two War-Grounds"
  ],
- "Biggins": [
-  "Shout It and It's Live",
-  "Chat It Into Being",
-  "It Brought Its Own Pack",
-  "Out of the Treeline",
-  "Out of the Trees"
- ],
  "RickyBobbie": [
   "Three Weeks in a Minute",
   "Fastest Word in the Sky",
@@ -326,5 +319,12 @@
   "Press the Button",
   "Revolution Has Begun",
   "Room For Everyone"
+ ],
+ "Biggins": [
+  "Chat It Into Being",
+  "It Brought Its Own Pack",
+  "Out of the Treeline",
+  "Out of the Trees",
+  "Shout It and It's Live"
  ]
 }

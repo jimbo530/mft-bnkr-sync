@@ -1,14 +1,5 @@
 [
  {
-  "name": "Shout It and It's Live",
-  "triggers": [
-   "shout it and it's live",
-   "shout it and its live"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079539865046110465",
-  "tag": "$BIGGINS"
- },
- {
   "name": "Chat It Into Being",
   "triggers": [
    "chat it into being"
@@ -38,6 +29,14 @@
    "out of the trees"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080699595168915557",
+  "tag": "$BIGGINS"
+ },
+ {
+  "name": "Shout It and It's Live",
+  "triggers": [
+   "shout it and it's live"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080704594137563541",
   "tag": "$BIGGINS"
  }
 ]
