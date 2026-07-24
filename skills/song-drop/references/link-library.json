@@ -3901,5 +3901,18 @@
     "ca": "0x6f45F5cE7027745b1Ab11D5493F187960D00FCfc",
     "xPost": "https://x.com/MemeForTrees/status/2080649225788854670",
     "caption": "\"It Moves When We Roar\" — War Machine\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2080664320095003106",
+    "translation": "Sing To the Machine",
+    "name": "Sing To the Machine",
+    "triggers": [
+      "sing to the machine"
+    ],
+    "band": "WarMachine",
+    "tag": "$WM",
+    "ca": "0x6f45F5cE7027745b1Ab11D5493F187960D00FCfc",
+    "xPost": "https://x.com/MemeForTrees/status/2080664320095003106",
+    "caption": "\"Sing To the Machine\" — War Machine\n\n$BNKR"
   }
 ]

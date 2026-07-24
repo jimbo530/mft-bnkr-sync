@@ -36,5 +36,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080649225788854670",
   "tag": "$WM"
+ },
+ {
+  "name": "Sing To the Machine",
+  "triggers": [
+   "sing to the machine"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080664320095003106",
+  "tag": "$WM"
  }
 ]
