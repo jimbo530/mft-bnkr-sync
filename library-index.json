@@ -2314,5 +2314,13 @@
    "room for everyone"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080498242224058385"
+ },
+ {
+  "band": "RickyBobbie",
+  "name": "Fastest Word in the Sky",
+  "triggers": [
+   "fastest word in the sky"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080538491398553957"
  }
 ]

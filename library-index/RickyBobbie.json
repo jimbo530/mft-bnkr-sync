@@ -5,5 +5,13 @@
    "three weeks in a minute"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2079604628786708673"
+ },
+ {
+  "name": "Fastest Word in the Sky",
+  "triggers": [
+   "fastest word in the sky"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080538491398553957",
+  "tag": "$RICKY"
  }
 ]

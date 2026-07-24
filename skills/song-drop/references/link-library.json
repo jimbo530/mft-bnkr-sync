@@ -3706,5 +3706,18 @@
     "ca": null,
     "xPost": "https://x.com/MemeForTrees/status/2080498242224058385",
     "caption": "\"Room For Everyone\" — CB\n\nno keeper, no gatekeeper — just say the word\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2080538491398553957",
+    "translation": "Fastest Word in the Sky",
+    "name": "Fastest Word in the Sky",
+    "triggers": [
+      "fastest word in the sky"
+    ],
+    "band": "RickyBobbie",
+    "tag": "$RICKY",
+    "ca": "0x95286F2cce3C2de48EB75bB4E2Ec004429F18E53",
+    "xPost": "https://x.com/MemeForTrees/status/2080538491398553957",
+    "caption": "\"Fastest Word In the Sky\" — Ricky Bobbie\n\n$BNKR"
   }
 ]
