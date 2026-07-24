@@ -2258,5 +2258,13 @@
    "live in seconds"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080447905303802320"
+ },
+ {
+  "band": "CB",
+  "name": "Love Builds the Forest",
+  "triggers": [
+   "love builds the forest"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080452981040800174"
  }
 ]

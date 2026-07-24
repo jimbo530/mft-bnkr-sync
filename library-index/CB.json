@@ -86,5 +86,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080447905303802320",
   "tag": "$MfT"
+ },
+ {
+  "name": "Love Builds the Forest",
+  "triggers": [
+   "love builds the forest"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080452981040800174",
+  "tag": "$MfT"
  }
 ]
