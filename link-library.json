@@ -3914,5 +3914,18 @@
     "ca": "0x6f45F5cE7027745b1Ab11D5493F187960D00FCfc",
     "xPost": "https://x.com/MemeForTrees/status/2080664320095003106",
     "caption": "\"Sing To the Machine\" — War Machine\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2080669400227524991",
+    "translation": "Two War-Grounds",
+    "name": "Two War-Grounds",
+    "triggers": [
+      "two war-grounds"
+    ],
+    "band": "WarMachine",
+    "tag": "$WM",
+    "ca": "0x6f45F5cE7027745b1Ab11D5493F187960D00FCfc",
+    "xPost": "https://x.com/MemeForTrees/status/2080669400227524991",
+    "caption": "\"Two War-Grounds\" — War Machine\n\n$BNKR"
   }
 ]

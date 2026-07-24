@@ -2442,5 +2442,13 @@
    "sing to the machine"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080664320095003106"
+ },
+ {
+  "band": "WarMachine",
+  "name": "Two War-Grounds",
+  "triggers": [
+   "two war-grounds"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080669400227524991"
  }
 ]
