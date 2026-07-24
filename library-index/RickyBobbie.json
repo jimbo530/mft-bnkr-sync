@@ -29,5 +29,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080553590901367153",
   "tag": "$RICKY"
+ },
+ {
+  "name": "She Carries Her Own",
+  "triggers": [
+   "she carries her own"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080568690123170120",
+  "tag": "$RICKY"
  }
 ]

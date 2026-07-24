@@ -3745,5 +3745,18 @@
     "ca": "0x95286F2cce3C2de48EB75bB4E2Ec004429F18E53",
     "xPost": "https://x.com/MemeForTrees/status/2080553590901367153",
     "caption": "\"Quick Off the Line\" — Ricky Bobbie\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2080568690123170120",
+    "translation": "She Carries Her Own",
+    "name": "She Carries Her Own",
+    "triggers": [
+      "she carries her own"
+    ],
+    "band": "RickyBobbie",
+    "tag": "$RICKY",
+    "ca": "0x95286F2cce3C2de48EB75bB4E2Ec004429F18E53",
+    "xPost": "https://x.com/MemeForTrees/status/2080568690123170120",
+    "caption": "\"She Carries Her Own\" — Ricky Bobbie\n\n$BNKR"
   }
 ]
