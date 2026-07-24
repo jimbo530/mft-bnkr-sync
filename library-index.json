@@ -2306,5 +2306,13 @@
    "revolution has begun"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080493237588889901"
+ },
+ {
+  "band": "CB",
+  "name": "Room For Everyone",
+  "triggers": [
+   "room for everyone"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080498242224058385"
  }
 ]

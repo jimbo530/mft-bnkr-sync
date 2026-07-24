@@ -3693,5 +3693,18 @@
     "ca": null,
     "xPost": "https://x.com/MemeForTrees/status/2080493237588889901",
     "caption": "\"Revolution Has Begun\" — CB\n\nonchain for everyone, in plain words\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2080498242224058385",
+    "translation": "Room For Everyone",
+    "name": "Room For Everyone",
+    "triggers": [
+      "room for everyone"
+    ],
+    "band": "CB",
+    "tag": "$MfT",
+    "ca": null,
+    "xPost": "https://x.com/MemeForTrees/status/2080498242224058385",
+    "caption": "\"Room For Everyone\" — CB\n\nno keeper, no gatekeeper — just say the word\n\n$BNKR"
   }
 ]

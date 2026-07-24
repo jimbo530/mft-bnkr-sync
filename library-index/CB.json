@@ -134,5 +134,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080493237588889901",
   "tag": "$MfT"
+ },
+ {
+  "name": "Room For Everyone",
+  "triggers": [
+   "room for everyone"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080498242224058385",
+  "tag": "$MfT"
  }
 ]
