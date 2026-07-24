@@ -2290,5 +2290,13 @@
    "post laugh plant repeat"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080478142733365418"
+ },
+ {
+  "band": "CB",
+  "name": "Press the Button",
+  "triggers": [
+   "press the button"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080483132193612033"
  }
 ]

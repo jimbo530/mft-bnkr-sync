@@ -3667,5 +3667,18 @@
     "ca": null,
     "xPost": "https://x.com/MemeForTrees/status/2080478142733365418",
     "caption": "\"Post Laugh Plant Repeat\" — CB\n\nthe agent that acts while you sleep\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2080483132193612033",
+    "translation": "Press the Button",
+    "name": "Press the Button",
+    "triggers": [
+      "press the button"
+    ],
+    "band": "CB",
+    "tag": "$MfT",
+    "ca": null,
+    "xPost": "https://x.com/MemeForTrees/status/2080483132193612033",
+    "caption": "\"Press the Button\" — CB\n\ngm to the fam — trees up, spirits up\n\n$BNKR"
   }
 ]

@@ -118,5 +118,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080478142733365418",
   "tag": "$MfT"
+ },
+ {
+  "name": "Press the Button",
+  "triggers": [
+   "press the button"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080483132193612033",
+  "tag": "$MfT"
  }
 ]
