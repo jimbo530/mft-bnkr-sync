@@ -2362,5 +2362,13 @@
    "sign on"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080583789571457152"
+ },
+ {
+  "band": "HammerTone",
+  "name": "A Hall of Tools",
+  "triggers": [
+   "a hall of tools"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080588822153199659"
  }
 ]

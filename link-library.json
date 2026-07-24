@@ -3784,5 +3784,18 @@
     "ca": "0x95286F2cce3C2de48EB75bB4E2Ec004429F18E53",
     "xPost": "https://x.com/MemeForTrees/status/2080583789571457152",
     "caption": "\"Sign On\" — Ricky Bobbie\n\n$RICKY 0x95286F2cce3C2de48EB75bB4E2Ec004429F18E53\n\npart of the BNKR extended family"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2080588822153199659",
+    "translation": "A Hall of Tools",
+    "name": "A Hall of Tools",
+    "triggers": [
+      "a hall of tools"
+    ],
+    "band": "HammerTone",
+    "tag": "$HT",
+    "ca": "0x7B105F45ddaA689AfDa5606628761a9Fb2dCd826",
+    "xPost": "https://x.com/MemeForTrees/status/2080588822153199659",
+    "caption": "\"A Hall of Tools\" — Hammer Tone\n\n$BNKR"
   }
 ]
