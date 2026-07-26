@@ -218,5 +218,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080055323461554606",
   "tag": "$DD"
+ },
+ {
+  "name": "Nations as One",
+  "triggers": [
+   "nations as one"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2081303581299224957",
+  "tag": "$DD"
  }
 ]
