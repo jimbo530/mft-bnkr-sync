@@ -4017,5 +4017,18 @@
     "ca": "0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3",
     "xPost": "https://x.com/MemeForTrees/status/2081303581299224957",
     "caption": "\"Nations as One\" — Digerie Dude\n\n$DD 0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2081318678302208203",
+    "translation": "Compost to the Canopy",
+    "name": "Compost to the Canopy",
+    "triggers": [
+      "compost to the canopy"
+    ],
+    "band": "Myco",
+    "tag": "$MYCO",
+    "ca": "0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3",
+    "xPost": "https://x.com/MemeForTrees/status/2081318678302208203",
+    "caption": "\"- Compost to the Canopy\" — Myco\n\n$MYCO 0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3"
   }
 ]

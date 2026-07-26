@@ -202,5 +202,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2081298549107552461",
   "tag": "$MYCO"
+ },
+ {
+  "name": "Compost to the Canopy",
+  "triggers": [
+   "compost to the canopy"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2081318678302208203",
+  "tag": "$MYCO"
  }
 ]
