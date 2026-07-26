@@ -1,15 +1,5 @@
 [
  {
-  "name": "A Billion Strong",
-  "triggers": [
-   "a billion strong",
-   "billion strong",
-   "one billion strong"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078254843701928332",
-  "tag": "$EBM"
- },
- {
   "name": "Costs You Nothing",
   "triggers": [
    "costs you nothing"
@@ -288,6 +278,14 @@
    "the grove remembers who showed up"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080110716418245054",
+  "tag": "$EBM"
+ },
+ {
+  "name": "A Billion Strong",
+  "triggers": [
+   "a billion strong"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2081343795698794783",
   "tag": "$EBM"
  }
 ]

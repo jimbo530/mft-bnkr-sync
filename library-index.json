@@ -19,16 +19,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2078218260470706262"
  },
  {
-  "band": "EBM",
-  "name": "A Billion Strong",
-  "triggers": [
-   "a billion strong",
-   "billion strong",
-   "one billion strong"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078254843701928332"
- },
- {
   "band": "Rish",
   "name": "Hundred Hands",
   "triggers": [
@@ -2529,5 +2519,13 @@
    "toast to the trees"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2081338762299142147"
+ },
+ {
+  "band": "EBM",
+  "name": "A Billion Strong",
+  "triggers": [
+   "a billion strong"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2081343795698794783"
  }
 ]
