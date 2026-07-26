@@ -4043,5 +4043,18 @@
     "ca": "0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65",
     "xPost": "https://x.com/MemeForTrees/status/2081323667925897710",
     "caption": "\"Streets to Roots\" — Jony Sings\n\n$JS 0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2081338762299142147",
+    "translation": "Toast to the Trees",
+    "name": "Toast to the Trees",
+    "triggers": [
+      "toast to the trees"
+    ],
+    "band": "NN",
+    "tag": "$NN",
+    "ca": "0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc",
+    "xPost": "https://x.com/MemeForTrees/status/2081338762299142147",
+    "caption": "\"Toast to the Trees\" — Natilie Nightclub\n\n$NN 0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc"
   }
 ]

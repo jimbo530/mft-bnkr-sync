@@ -206,5 +206,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2079924476678963696",
   "tag": "$NN"
+ },
+ {
+  "name": "Toast to the Trees",
+  "triggers": [
+   "toast to the trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2081338762299142147",
+  "tag": "$NN"
  }
 ]
