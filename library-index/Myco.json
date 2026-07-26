@@ -194,5 +194,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2079964748892799353",
   "tag": "$MYCO"
+ },
+ {
+  "name": "Forward",
+  "triggers": [
+   "forward"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2081298549107552461",
+  "tag": "$MYCO"
  }
 ]

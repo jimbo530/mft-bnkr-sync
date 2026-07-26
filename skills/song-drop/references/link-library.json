@@ -3991,5 +3991,18 @@
     "ca": "0x7C596a0d594D670ffB256bBfbB5379fC8Cf7d62B",
     "xPost": "https://x.com/MemeForTrees/status/2080729751493238829",
     "caption": "\"The Roots Hold It Up\" — Biggins Mcjammin\n\n$BNKR"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2081298549107552461",
+    "translation": "Forward",
+    "name": "Forward",
+    "triggers": [
+      "forward"
+    ],
+    "band": "Myco",
+    "tag": "$MYCO",
+    "ca": "0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3",
+    "xPost": "https://x.com/MemeForTrees/status/2081298549107552461",
+    "caption": "\"Keep Moving Forward\" — Myco\n\n$MYCO 0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3"
   }
 ]
