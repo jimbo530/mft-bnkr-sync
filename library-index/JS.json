@@ -194,5 +194,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080100649904029753",
   "tag": "$JS"
+ },
+ {
+  "name": "Streets to Roots",
+  "triggers": [
+   "streets to roots"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2081323667925897710",
+  "tag": "$JS"
  }
 ]

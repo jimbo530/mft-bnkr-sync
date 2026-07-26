@@ -4030,5 +4030,18 @@
     "ca": "0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3",
     "xPost": "https://x.com/MemeForTrees/status/2081318678302208203",
     "caption": "\"- Compost to the Canopy\" — Myco\n\n$MYCO 0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2081323667925897710",
+    "translation": "Streets to Roots",
+    "name": "Streets to Roots",
+    "triggers": [
+      "streets to roots"
+    ],
+    "band": "JS",
+    "tag": "$JS",
+    "ca": "0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65",
+    "xPost": "https://x.com/MemeForTrees/status/2081323667925897710",
+    "caption": "\"Streets to Roots\" — Jony Sings\n\n$JS 0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65"
   }
 ]
