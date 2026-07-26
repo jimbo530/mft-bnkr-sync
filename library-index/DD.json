@@ -226,5 +226,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2081303581299224957",
   "tag": "$DD"
+ },
+ {
+  "name": "Carry the Seed",
+  "triggers": [
+   "carry the seed"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2081358939073970550",
+  "tag": "$DD"
  }
 ]
