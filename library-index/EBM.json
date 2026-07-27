@@ -295,5 +295,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2081530041666506851",
   "tag": "$EBM"
+ },
+ {
+  "name": "Eternal Harvest",
+  "triggers": [
+   "eternal harvest"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2081550171175788782",
+  "tag": "$EBM"
  }
 ]

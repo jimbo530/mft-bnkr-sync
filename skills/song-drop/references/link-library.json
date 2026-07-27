@@ -4094,5 +4094,18 @@
     "ca": "0x8d669b539C7801c1271BC484Bdd8a6084b7788e7",
     "xPost": "https://x.com/MemeForTrees/status/2081535114937323666",
     "caption": "\"Joy in the Ground\" — Moon Rasta\n\n$MR 0x8d669b539C7801c1271BC484Bdd8a6084b7788e7"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2081550171175788782",
+    "translation": "Eternal Harvest",
+    "name": "Eternal Harvest",
+    "triggers": [
+      "eternal harvest"
+    ],
+    "band": "EBM",
+    "tag": "$EBM",
+    "ca": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d",
+    "xPost": "https://x.com/MemeForTrees/status/2081550171175788782",
+    "caption": "\"Eternal Harvest\" — Elves of Ballinmoore\n\n$EBM 0xF113fe2A0E1181A21fA97B1F52ff232140B7692d"
   }
 ]
