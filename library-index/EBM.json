@@ -287,5 +287,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2081343795698794783",
   "tag": "$EBM"
+ },
+ {
+  "name": "Meme For Trees",
+  "triggers": [
+   "meme for trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2081530041666506851",
+  "tag": "$EBM"
  }
 ]

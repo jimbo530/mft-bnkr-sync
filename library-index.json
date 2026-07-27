@@ -2535,5 +2535,13 @@
    "carry the seed"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2081358939073970550"
+ },
+ {
+  "band": "EBM",
+  "name": "Meme For Trees",
+  "triggers": [
+   "meme for trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2081530041666506851"
  }
 ]
