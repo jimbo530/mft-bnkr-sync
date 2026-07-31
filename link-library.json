@@ -4179,5 +4179,18 @@
     "ca": "0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3",
     "xPost": "https://x.com/MonkyTownWallet/status/2083249368035987512",
     "caption": "\"The Sky People Came To Party\" — Myco\n\n$MYCO 0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3"
+  },
+  {
+    "file": "https://x.com/MonkyTownWallet/status/2083339351753109931",
+    "translation": "Bet On Yourself",
+    "name": "Bet On Yourself",
+    "triggers": [
+      "bet on yourself"
+    ],
+    "band": "Rish",
+    "tag": "$RISH",
+    "ca": "0x31c600871603bab5d855463E03c6d0a9eB661D26",
+    "xPost": "https://x.com/MonkyTownWallet/status/2083339351753109931",
+    "caption": "\"Bet On Yourself\" — Rish\n\n$RISH 0x31c600871603bab5d855463E03c6d0a9eB661D26"
   }
 ]

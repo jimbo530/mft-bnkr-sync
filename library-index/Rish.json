@@ -214,5 +214,13 @@
   ],
   "xPost": "https://x.com/MonkyTownWallet/status/2083248024642281588",
   "tag": "$RISH"
+ },
+ {
+  "name": "Bet On Yourself",
+  "triggers": [
+   "bet on yourself"
+  ],
+  "xPost": "https://x.com/MonkyTownWallet/status/2083339351753109931",
+  "tag": "$RISH"
  }
 ]
