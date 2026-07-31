@@ -220,5 +220,14 @@
   ],
   "xPost": "https://x.com/MonkyTownWallet/status/2083245731142324463",
   "tag": "$MYCO"
+ },
+ {
+  "name": "The Sky People Came To Party",
+  "triggers": [
+   "sky people came to party",
+   "sky people party"
+  ],
+  "xPost": "https://x.com/MonkyTownWallet/status/2083249368035987512",
+  "tag": "$MYCO"
  }
 ]
