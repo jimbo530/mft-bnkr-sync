@@ -210,5 +210,15 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2081318678302208203",
   "tag": "$MYCO"
+ },
+ {
+  "name": "Sky People (Good Vibes Make Forests)",
+  "triggers": [
+   "sky people",
+   "sky people good vibes",
+   "good vibes make forests"
+  ],
+  "xPost": "https://x.com/MonkyTownWallet/status/2083245731142324463",
+  "tag": "$MYCO"
  }
 ]
