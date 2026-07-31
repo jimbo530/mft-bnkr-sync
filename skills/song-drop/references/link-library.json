@@ -4107,5 +4107,18 @@
     "ca": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d",
     "xPost": "https://x.com/MemeForTrees/status/2081550171175788782",
     "caption": "\"Eternal Harvest\" — Elves of Ballinmoore\n\n$EBM 0xF113fe2A0E1181A21fA97B1F52ff232140B7692d"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2083095337040765227",
+    "translation": "Love Does the Growing",
+    "name": "Love Does the Growing",
+    "triggers": [
+      "love does the growing"
+    ],
+    "band": "MR",
+    "tag": "$MR",
+    "ca": "0x8d669b539C7801c1271BC484Bdd8a6084b7788e7",
+    "xPost": "https://x.com/MemeForTrees/status/2083095337040765227",
+    "caption": "\"Love Does the Growing\" — Moon Rasta\n\n$MR 0x8d669b539C7801c1271BC484Bdd8a6084b7788e7"
   }
 ]

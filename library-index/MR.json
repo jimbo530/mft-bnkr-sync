@@ -196,5 +196,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2081535114937323666",
   "tag": "$MR"
+ },
+ {
+  "name": "Love Does the Growing",
+  "triggers": [
+   "love does the growing"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2083095337040765227",
+  "tag": "$MR"
  }
 ]
