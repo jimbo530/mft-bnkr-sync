@@ -234,5 +234,15 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2081358939073970550",
   "tag": "$DD"
+ },
+ {
+  "name": "Kind Folk (In the Strangest Places)",
+  "triggers": [
+   "kind folk",
+   "kind folk in the strangest places",
+   "kindest people strangest places"
+  ],
+  "xPost": "https://x.com/MonkyTownWallet/status/2083242937089970250",
+  "tag": "$DD"
  }
 ]
