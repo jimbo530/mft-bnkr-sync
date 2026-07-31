@@ -4150,5 +4150,20 @@
     "ca": "0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3",
     "xPost": "https://x.com/MonkyTownWallet/status/2083245731142324463",
     "caption": "\"Sky People (Good Vibes Make Forests)\" — Myco\n\n$MYCO 0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3"
+  },
+  {
+    "file": "https://x.com/MonkyTownWallet/status/2083248024642281588",
+    "translation": "The Good Way (We Grow Every Day)",
+    "name": "The Good Way (We Grow Every Day)",
+    "triggers": [
+      "the good way",
+      "we grow every day",
+      "grow the good way"
+    ],
+    "band": "Rish",
+    "tag": "$RISH",
+    "ca": "0x31c600871603bab5d855463E03c6d0a9eB661D26",
+    "xPost": "https://x.com/MonkyTownWallet/status/2083248024642281588",
+    "caption": "\"The Good Way (We Grow Every Day)\" — Rish\n\n$RISH 0x31c600871603bab5d855463E03c6d0a9eB661D26"
   }
 ]

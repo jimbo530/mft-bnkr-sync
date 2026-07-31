@@ -204,5 +204,15 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080070423971008695",
   "tag": "$RISH"
+ },
+ {
+  "name": "The Good Way (We Grow Every Day)",
+  "triggers": [
+   "the good way",
+   "we grow every day",
+   "grow the good way"
+  ],
+  "xPost": "https://x.com/MonkyTownWallet/status/2083248024642281588",
+  "tag": "$RISH"
  }
 ]
