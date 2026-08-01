@@ -4192,5 +4192,20 @@
     "ca": "0x31c600871603bab5d855463E03c6d0a9eB661D26",
     "xPost": "https://x.com/MonkyTownWallet/status/2083339351753109931",
     "caption": "\"Bet On Yourself\" — Rish\n\n$RISH 0x31c600871603bab5d855463E03c6d0a9eB661D26"
+  },
+  {
+    "file": "https://x.com/MonkyTownWallet/status/2083553685313835323",
+    "translation": "Number Go Up, Number Go Down (Always Fun In Monkey Town)",
+    "name": "Number Go Up, Number Go Down (Always Fun In Monkey Town)",
+    "triggers": [
+      "number go up",
+      "number go down",
+      "always fun in monkey town"
+    ],
+    "band": "Bongo",
+    "tag": "$BONGO",
+    "ca": "0x85Dd5183D203CcE70b88234D31f075774AcCC453",
+    "xPost": "https://x.com/MonkyTownWallet/status/2083553685313835323",
+    "caption": "\"Number Go Up, Number Go Down (Always Fun In Monkey Town)\" — Bongo\n\n$BONGO 0x85Dd5183D203CcE70b88234D31f075774AcCC453"
   }
 ]

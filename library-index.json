@@ -2614,5 +2614,15 @@
    "bet on yourself"
   ],
   "xPost": "https://x.com/MonkyTownWallet/status/2083339351753109931"
+ },
+ {
+  "band": "Bongo",
+  "name": "Number Go Up, Number Go Down (Always Fun In Monkey Town)",
+  "triggers": [
+   "number go up",
+   "number go down",
+   "always fun in monkey town"
+  ],
+  "xPost": "https://x.com/MonkyTownWallet/status/2083553685313835323"
  }
 ]

@@ -152,5 +152,15 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080115711603548489",
   "tag": "$BONGO"
+ },
+ {
+  "name": "Number Go Up, Number Go Down (Always Fun In Monkey Town)",
+  "triggers": [
+   "number go up",
+   "number go down",
+   "always fun in monkey town"
+  ],
+  "xPost": "https://x.com/MonkyTownWallet/status/2083553685313835323",
+  "tag": "$BONGO"
  }
 ]
