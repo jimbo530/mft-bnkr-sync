@@ -2624,5 +2624,16 @@
    "always fun in monkey town"
   ],
   "xPost": "https://x.com/MonkyTownWallet/status/2083553685313835323"
+ },
+ {
+  "band": "DGT",
+  "name": "The Machine Broke Down (The Band Did Not)",
+  "triggers": [
+   "the machine broke down",
+   "machine broke down",
+   "breakdown anthem",
+   "intermission"
+  ],
+  "xPost": "https://x.com/MonkyTownWallet/status/2083555121103777966"
  }
 ]

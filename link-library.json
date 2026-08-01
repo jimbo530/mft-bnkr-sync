@@ -4207,5 +4207,21 @@
     "ca": "0x85Dd5183D203CcE70b88234D31f075774AcCC453",
     "xPost": "https://x.com/MonkyTownWallet/status/2083553685313835323",
     "caption": "\"Number Go Up, Number Go Down (Always Fun In Monkey Town)\" — Bongo\n\n$BONGO 0x85Dd5183D203CcE70b88234D31f075774AcCC453"
+  },
+  {
+    "file": "https://x.com/MonkyTownWallet/status/2083555121103777966",
+    "translation": "The Machine Broke Down (The Band Did Not)",
+    "name": "The Machine Broke Down (The Band Did Not)",
+    "triggers": [
+      "the machine broke down",
+      "machine broke down",
+      "breakdown anthem",
+      "intermission"
+    ],
+    "band": "DGT",
+    "tag": "$DGT",
+    "ca": "0x52414B7cD2FA723E1c8f9295EB29F16d15aA7BB9",
+    "xPost": "https://x.com/MonkyTownWallet/status/2083555121103777966",
+    "caption": "\"The Machine Broke Down (The Band Did Not)\" — Damned Good Time Orchestra\n\n$DGT 0x52414B7cD2FA723E1c8f9295EB29F16d15aA7BB9"
   }
 ]
