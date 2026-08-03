@@ -162,5 +162,15 @@
   ],
   "xPost": "https://x.com/MonkyTownWallet/status/2083553685313835323",
   "tag": "$BONGO"
+ },
+ {
+  "name": "Always GM on Robinhood Chain",
+  "triggers": [
+   "always gm on robinhood chain",
+   "always gm",
+   "gm on robinhood chain"
+  ],
+  "xPost": "https://x.com/MonkyTownWallet/status/2084310631088332858",
+  "tag": "$Bongo"
  }
 ]

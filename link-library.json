@@ -4223,5 +4223,20 @@
     "ca": "0x52414B7cD2FA723E1c8f9295EB29F16d15aA7BB9",
     "xPost": "https://x.com/MonkyTownWallet/status/2083555121103777966",
     "caption": "\"The Machine Broke Down (The Band Did Not)\" — Damned Good Time Orchestra\n\n$DGT 0x52414B7cD2FA723E1c8f9295EB29F16d15aA7BB9"
+  },
+  {
+    "file": "https://x.com/MonkyTownWallet/status/2084310631088332858",
+    "translation": "Always GM on Robinhood Chain",
+    "name": "Always GM on Robinhood Chain",
+    "triggers": [
+      "always gm on robinhood chain",
+      "always gm",
+      "gm on robinhood chain"
+    ],
+    "band": "Bongo",
+    "tag": "$Bongo",
+    "ca": "",
+    "xPost": "https://x.com/MonkyTownWallet/status/2084310631088332858",
+    "caption": "\"Always GM on Robinhood Chain\" — Bongo"
   }
 ]
