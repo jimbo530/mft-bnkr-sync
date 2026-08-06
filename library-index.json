@@ -2226,14 +2226,6 @@
  },
  {
   "band": "CB",
-  "name": "Press the Button",
-  "triggers": [
-   "press the button"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080483132193612033"
- },
- {
-  "band": "CB",
   "name": "Revolution Has Begun",
   "triggers": [
    "revolution has begun"
@@ -2645,5 +2637,13 @@
    "oldest magic"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085335080713461969"
+ },
+ {
+  "band": "CB",
+  "name": "Press the Button",
+  "triggers": [
+   "press the button"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085375363996139961"
  }
 ]
