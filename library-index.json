@@ -1980,14 +1980,6 @@
  },
  {
   "band": "EBM",
-  "name": "Oldest Magic",
-  "triggers": [
-   "oldest magic"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080040208431510009"
- },
- {
-  "band": "EBM",
   "name": "The Street Takes Requests",
   "triggers": [
    "the street takes requests"
@@ -2645,5 +2637,13 @@
    "the club is open darlings"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085299886820389257"
+ },
+ {
+  "band": "EBM",
+  "name": "Oldest Magic",
+  "triggers": [
+   "oldest magic"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085335080713461969"
  }
 ]

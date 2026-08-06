@@ -249,14 +249,6 @@
   "tag": "$EBM"
  },
  {
-  "name": "Oldest Magic",
-  "triggers": [
-   "oldest magic"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080040208431510009",
-  "tag": "$EBM"
- },
- {
   "name": "The Street Takes Requests",
   "triggers": [
    "the street takes requests"
@@ -302,6 +294,14 @@
    "eternal harvest"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2081550171175788782",
+  "tag": "$EBM"
+ },
+ {
+  "name": "Oldest Magic",
+  "triggers": [
+   "oldest magic"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085335080713461969",
   "tag": "$EBM"
  }
 ]
