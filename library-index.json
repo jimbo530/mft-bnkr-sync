@@ -1350,14 +1350,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079511765981794372"
  },
  {
-  "band": "JS",
-  "name": "Better Than We Found It",
-  "triggers": [
-   "better than we found it"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079516752279425168"
- },
- {
   "band": "NN",
   "name": "Keep Your Purse",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "press the button"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085375363996139961"
+ },
+ {
+  "band": "JS",
+  "name": "Better Than We Found It",
+  "triggers": [
+   "better than we found it"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085415608183632269"
  }
 ]

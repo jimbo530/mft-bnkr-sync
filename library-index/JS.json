@@ -118,14 +118,6 @@
   "tag": "$JS"
  },
  {
-  "name": "Better Than We Found It",
-  "triggers": [
-   "better than we found it"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079516752279425168",
-  "tag": "$JS"
- },
- {
   "name": "Frens in the Field",
   "triggers": [
    "frens in the field"
@@ -201,6 +193,14 @@
    "streets to roots"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2081323667925897710",
+  "tag": "$JS"
+ },
+ {
+  "name": "Better Than We Found It",
+  "triggers": [
+   "better than we found it"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085415608183632269",
   "tag": "$JS"
  }
 ]
