@@ -32,14 +32,6 @@
   "tag": "$RISH"
  },
  {
-  "name": "Will Ye Come to Shillwood",
-  "triggers": [
-   "will ye come to shillwood"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078802057591492957",
-  "tag": "$RISH"
- },
- {
   "name": "Will Ye Prompt It",
   "triggers": [
    "will ye prompt it"
@@ -221,6 +213,14 @@
    "bet on yourself"
   ],
   "xPost": "https://x.com/MonkyTownWallet/status/2083339351753109931",
+  "tag": "$RISH"
+ },
+ {
+  "name": "Will Ye Come to Shillwood",
+  "triggers": [
+   "will ye come to shillwood"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085501222077767769",
   "tag": "$RISH"
  }
 ]

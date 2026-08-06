@@ -243,14 +243,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2078787009510805598"
  },
  {
-  "band": "Rish",
-  "name": "Will Ye Come to Shillwood",
-  "triggers": [
-   "will ye come to shillwood"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078802057591492957"
- },
- {
   "band": "EBM",
   "name": "The Prompt Heard",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "she carries her own"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085476005095915719"
+ },
+ {
+  "band": "Rish",
+  "name": "Will Ye Come to Shillwood",
+  "triggers": [
+   "will ye come to shillwood"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085501222077767769"
  }
 ]
