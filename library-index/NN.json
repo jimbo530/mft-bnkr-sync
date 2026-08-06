@@ -48,14 +48,6 @@
   "tag": "$NN"
  },
  {
-  "name": "The Club Is Open Darlings",
-  "triggers": [
-   "the club is open darlings"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079028545913798660",
-  "tag": "$NN"
- },
- {
   "name": "Let the Agent Handle It",
   "triggers": [
    "let the agent handle it"
@@ -213,6 +205,14 @@
    "tavern at the tide"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085279758657396915",
+  "tag": "$NN"
+ },
+ {
+  "name": "The Club Is Open Darlings",
+  "triggers": [
+   "the club is open darlings"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085299886820389257",
   "tag": "$NN"
  }
 ]

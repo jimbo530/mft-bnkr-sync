@@ -506,14 +506,6 @@
   "promote": true
  },
  {
-  "band": "NN",
-  "name": "The Club Is Open Darlings",
-  "triggers": [
-   "the club is open darlings"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079028545913798660"
- },
- {
   "band": "EBM",
   "name": "Say the Word",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "tavern at the tide"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085279758657396915"
+ },
+ {
+  "band": "NN",
+  "name": "The Club Is Open Darlings",
+  "triggers": [
+   "the club is open darlings"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085299886820389257"
  }
 ]
