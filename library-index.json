@@ -1266,14 +1266,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079441256669704465"
  },
  {
-  "band": "MR",
-  "name": "Coast to the Cabinet",
-  "triggers": [
-   "coast to the cabinet"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079451323708104792"
- },
- {
   "band": "JS",
   "name": "Everybody Drinks",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "it moves when we roar"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085420650974380336"
+ },
+ {
+  "band": "MR",
+  "name": "Coast to the Cabinet",
+  "triggers": [
+   "coast to the cabinet"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085435783746289672"
  }
 ]

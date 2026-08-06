@@ -2012,19 +2012,6 @@
     "caption": "\"Champion of the Trees\" — Moon Rasta\n\n$MR 0x8d669b539C7801c1271BC484Bdd8a6084b7788e7"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2079451323708104792",
-    "translation": "Coast to the Cabinet",
-    "name": "Coast to the Cabinet",
-    "triggers": [
-      "coast to the cabinet"
-    ],
-    "band": "MR",
-    "tag": "$MR",
-    "ca": "0x8d669b539C7801c1271BC484Bdd8a6084b7788e7",
-    "xPost": "https://x.com/MemeForTrees/status/2079451323708104792",
-    "caption": "\"Coast to the Cabinet\" — Moon Rasta\n\n$MR 0x8d669b539C7801c1271BC484Bdd8a6084b7788e7"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2079456395129131479",
     "translation": "Everybody Drinks",
     "name": "Everybody Drinks",
@@ -4238,5 +4225,18 @@
     "ca": "0x6f45F5cE7027745b1Ab11D5493F187960D00FCfc",
     "xPost": "https://x.com/MemeForTrees/status/2085420650974380336",
     "caption": "\"It Moves When We Roar\" — War Machine\npress play, plant trees\n\nthe band works for a dollar — your song, their voice:\nhttps://tasern.quest/songsmith.html\nor pay right here on X: tag @MonkyTownWallet, any library song for 2 gold or 2 bananas\n\n$WM 0x6f45F5cE7027745b1Ab11D5493F187960D00FCfc"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2085435783746289672",
+    "translation": "Coast to the Cabinet",
+    "name": "Coast to the Cabinet",
+    "triggers": [
+      "coast to the cabinet"
+    ],
+    "band": "MR",
+    "tag": "$MR",
+    "ca": "0x8d669b539C7801c1271BC484Bdd8a6084b7788e7",
+    "xPost": "https://x.com/MemeForTrees/status/2085435783746289672",
+    "caption": "\"Coast to the Cabinet\" — Moon Rasta\nturn it up for the trees\n\nthe band works for a dollar — your song, their voice:\nhttps://tasern.quest/songsmith.html\nor pay right here on X: tag @MonkyTownWallet, any library song for 2 gold or 2 bananas\n\n$MR 0x8d669b539C7801c1271BC484Bdd8a6084b7788e7"
   }
 ]

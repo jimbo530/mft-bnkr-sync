@@ -94,14 +94,6 @@
   "tag": "$MR"
  },
  {
-  "name": "Coast to the Cabinet",
-  "triggers": [
-   "coast to the cabinet"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079451323708104792",
-  "tag": "$MR"
- },
- {
   "name": "The Roar Plants the Grove",
   "triggers": [
    "the roar plants the grove"
@@ -203,6 +195,14 @@
    "love does the growing"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2083095337040765227",
+  "tag": "$MR"
+ },
+ {
+  "name": "Coast to the Cabinet",
+  "triggers": [
+   "coast to the cabinet"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085435783746289672",
   "tag": "$MR"
  }
 ]
