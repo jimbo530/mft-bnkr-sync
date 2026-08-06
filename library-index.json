@@ -1833,14 +1833,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079919465928503527"
  },
  {
-  "band": "NN",
-  "name": "Tavern at the Tide",
-  "triggers": [
-   "tavern at the tide"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079924476678963696"
- },
- {
   "band": "Rish",
   "name": "Plant It Back",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "new address"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085274744354414612"
+ },
+ {
+  "band": "NN",
+  "name": "Tavern at the Tide",
+  "triggers": [
+   "tavern at the tide"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085279758657396915"
  }
 ]

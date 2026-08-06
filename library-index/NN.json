@@ -192,14 +192,6 @@
   "tag": "$NN"
  },
  {
-  "name": "Tavern at the Tide",
-  "triggers": [
-   "tavern at the tide"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079924476678963696",
-  "tag": "$NN"
- },
- {
   "name": "Toast to the Trees",
   "triggers": [
    "toast to the trees"
@@ -213,6 +205,14 @@
    "new address"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085274744354414612",
+  "tag": "$NN"
+ },
+ {
+  "name": "Tavern at the Tide",
+  "triggers": [
+   "tavern at the tide"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085279758657396915",
   "tag": "$NN"
  }
 ]
