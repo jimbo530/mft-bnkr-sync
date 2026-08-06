@@ -8,14 +8,6 @@
   "tag": "$BONGO"
  },
  {
-  "name": "They Paid Me To Play The Forest",
-  "triggers": [
-   "they paid me to play the forest"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078791983041016104",
-  "tag": "$BONGO"
- },
- {
   "name": "A Drawer Full of Tricks",
   "triggers": [
    "a drawer full of tricks"
@@ -172,5 +164,13 @@
   ],
   "xPost": "https://x.com/MonkyTownWallet/status/2084310631088332858",
   "tag": "$Bongo"
+ },
+ {
+  "name": "They Paid Me To Play The Forest",
+  "triggers": [
+   "they paid me to play the forest"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085455916380385668",
+  "tag": "$BONGO"
  }
 ]
