@@ -121,14 +121,6 @@
   ]
  },
  {
-  "name": "New Address",
-  "triggers": [
-   "new address"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079239986855956972",
-  "tag": "$NN"
- },
- {
   "name": "Every Ovation a Tree",
   "triggers": [
    "every ovation a tree"
@@ -213,6 +205,14 @@
    "toast to the trees"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2081338762299142147",
+  "tag": "$NN"
+ },
+ {
+  "name": "New Address",
+  "triggers": [
+   "new address"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085274744354414612",
   "tag": "$NN"
  }
 ]

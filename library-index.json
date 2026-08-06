@@ -978,14 +978,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079239633427218888"
  },
  {
-  "band": "NN",
-  "name": "New Address",
-  "triggers": [
-   "new address"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079239986855956972"
- },
- {
   "band": "Myco",
   "name": "It Does Not Go Unseen",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "onchain forest"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085259584222920939"
+ },
+ {
+  "band": "NN",
+  "name": "New Address",
+  "triggers": [
+   "new address"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085274744354414612"
  }
 ]
