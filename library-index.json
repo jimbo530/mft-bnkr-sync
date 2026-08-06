@@ -139,14 +139,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2078681298126655784"
  },
  {
-  "band": "DD",
-  "name": "Carry the Water",
-  "triggers": [
-   "carry the water"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078686299414827159"
- },
- {
   "band": "EBM",
   "name": "Ten Years Deep",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "gm on robinhood chain"
   ],
   "xPost": "https://x.com/MonkyTownWallet/status/2084310631088332858"
+ },
+ {
+  "band": "DD",
+  "name": "Carry the Water",
+  "triggers": [
+   "carry the water"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085239458304049353"
  }
 ]

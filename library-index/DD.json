@@ -24,14 +24,6 @@
   "tag": "$DD"
  },
  {
-  "name": "Carry the Water",
-  "triggers": [
-   "carry the water"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078686299414827159",
-  "tag": "$DD"
- },
- {
   "name": "The Tool On My Back",
   "triggers": [
    "the tool on my back"
@@ -243,6 +235,14 @@
    "kindest people strangest places"
   ],
   "xPost": "https://x.com/MonkyTownWallet/status/2083242937089970250",
+  "tag": "$DD"
+ },
+ {
+  "name": "Carry the Water",
+  "triggers": [
+   "carry the water"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085239458304049353",
   "tag": "$DD"
  }
 ]

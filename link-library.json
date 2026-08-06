@@ -219,19 +219,6 @@
     "caption": "\"The Patient Ones\" — Elves of Ballinmoore\n\n$EBM 0xF113fe2A0E1181A21fA97B1F52ff232140B7692d"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2078686299414827159",
-    "translation": "Carry the Water",
-    "name": "Carry the Water",
-    "triggers": [
-      "carry the water"
-    ],
-    "band": "DD",
-    "tag": "$DD",
-    "ca": "0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3",
-    "xPost": "https://x.com/MemeForTrees/status/2078686299414827159",
-    "caption": "\"Carry the Water\" — Digerie Dude\n\n$DD 0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2078696356118491241",
     "translation": "Ten Years Deep",
     "name": "Ten Years Deep",
@@ -4238,5 +4225,18 @@
     "ca": "",
     "xPost": "https://x.com/MonkyTownWallet/status/2084310631088332858",
     "caption": "\"Always GM on Robinhood Chain\" — Bongo"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2085239458304049353",
+    "translation": "Carry the Water",
+    "name": "Carry the Water",
+    "triggers": [
+      "carry the water"
+    ],
+    "band": "DD",
+    "tag": "$DD",
+    "ca": "0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3",
+    "xPost": "https://x.com/MemeForTrees/status/2085239458304049353",
+    "caption": "\"Carry the Water\" — Digerie Dude\ngood tunes, real forests\n\n$DD 0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3"
   }
 ]
