@@ -3589,19 +3589,6 @@
     "caption": "\"Love Builds the Forest\" — CB\n\nBankr fam stays building\n\n$MfT"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2080462994941640875",
-    "translation": "Onchain Forest",
-    "name": "Onchain Forest",
-    "triggers": [
-      "onchain forest"
-    ],
-    "band": "CB",
-    "tag": "$MfT",
-    "ca": null,
-    "xPost": "https://x.com/MemeForTrees/status/2080462994941640875",
-    "caption": "\"Onchain Forest\" — CB\n\nno keeper, no gatekeeper — just say the word\n\n$MfT"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2080468071626457422",
     "translation": "Plant It Loud",
     "name": "Plant It Loud",
@@ -4238,5 +4225,18 @@
     "ca": "0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3",
     "xPost": "https://x.com/MemeForTrees/status/2085239458304049353",
     "caption": "\"Carry the Water\" — Digerie Dude\ngood tunes, real forests\n\n$DD 0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2085259584222920939",
+    "translation": "Onchain Forest",
+    "name": "Onchain Forest",
+    "triggers": [
+      "onchain forest"
+    ],
+    "band": "CB",
+    "tag": "$MfT",
+    "ca": null,
+    "xPost": "https://x.com/MemeForTrees/status/2085259584222920939",
+    "caption": "\"Onchain Forest\" — CB\nlisten, like, and share to fund forests\n\nMonkey Town runs an Impact Token Launcher — critters like Green Bull and Shrooms trade so real trees get planted 🌱\n\nno keeper, no gatekeeper — just plant\n\n$MfT"
   }
 ]
