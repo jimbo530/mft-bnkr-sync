@@ -2242,14 +2242,6 @@
  },
  {
   "band": "RickyBobbie",
-  "name": "She Carries Her Own",
-  "triggers": [
-   "she carries her own"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080568690123170120"
- },
- {
-  "band": "RickyBobbie",
   "name": "She Keeps Herself Flying",
   "triggers": [
    "she keeps herself flying"
@@ -2645,5 +2637,13 @@
    "they paid me to play the forest"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085455916380385668"
+ },
+ {
+  "band": "RickyBobbie",
+  "name": "She Carries Her Own",
+  "triggers": [
+   "she carries her own"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085476005095915719"
  }
 ]

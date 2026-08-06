@@ -31,14 +31,6 @@
   "tag": "$RICKY"
  },
  {
-  "name": "She Carries Her Own",
-  "triggers": [
-   "she carries her own"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080568690123170120",
-  "tag": "$RICKY"
- },
- {
   "name": "She Keeps Herself Flying",
   "triggers": [
    "she keeps herself flying"
@@ -52,6 +44,14 @@
    "sign on"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080583789571457152",
+  "tag": "$RICKY"
+ },
+ {
+  "name": "She Carries Her Own",
+  "triggers": [
+   "she carries her own"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085476005095915719",
   "tag": "$RICKY"
  }
 ]

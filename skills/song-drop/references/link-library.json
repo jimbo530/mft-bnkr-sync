@@ -3589,19 +3589,6 @@
     "caption": "\"Quick Off the Line\" — Ricky Bobbie\n\n$MfT"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2080568690123170120",
-    "translation": "She Carries Her Own",
-    "name": "She Carries Her Own",
-    "triggers": [
-      "she carries her own"
-    ],
-    "band": "RickyBobbie",
-    "tag": "$RICKY",
-    "ca": "0x95286F2cce3C2de48EB75bB4E2Ec004429F18E53",
-    "xPost": "https://x.com/MemeForTrees/status/2080568690123170120",
-    "caption": "\"She Carries Her Own\" — Ricky Bobbie\n\n$MfT"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2080573769936941391",
     "translation": "She Keeps Herself Flying",
     "name": "She Keeps Herself Flying",
@@ -4238,5 +4225,18 @@
     "ca": "0x85Dd5183D203CcE70b88234D31f075774AcCC453",
     "xPost": "https://x.com/MemeForTrees/status/2085455916380385668",
     "caption": "\"They Paid Me To Play The Forest\" — Bongo\nturn it up for the trees\n\nthe band works for a dollar — your song, their voice:\nhttps://tasern.quest/songsmith.html\nor pay right here on X: tag @MonkyTownWallet, any library song for 2 gold or 2 bananas\n\n$BONGO 0x85Dd5183D203CcE70b88234D31f075774AcCC453"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2085476005095915719",
+    "translation": "She Carries Her Own",
+    "name": "She Carries Her Own",
+    "triggers": [
+      "she carries her own"
+    ],
+    "band": "RickyBobbie",
+    "tag": "$RICKY",
+    "ca": "0x95286F2cce3C2de48EB75bB4E2Ec004429F18E53",
+    "xPost": "https://x.com/MemeForTrees/status/2085476005095915719",
+    "caption": "\"She Carries Her Own\" — Ricky Bobbie\nevery listen grows the jungle\n\n$RICKY 0x95286F2cce3C2de48EB75bB4E2Ec004429F18E53"
   }
 ]
