@@ -3758,19 +3758,6 @@
     "caption": "\"It Does Our Bidding\" — War Machine\n\n$MfT"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2080649225788854670",
-    "translation": "It Moves When We Roar",
-    "name": "It Moves When We Roar",
-    "triggers": [
-      "it moves when we roar"
-    ],
-    "band": "WarMachine",
-    "tag": "$WM",
-    "ca": "0x6f45F5cE7027745b1Ab11D5493F187960D00FCfc",
-    "xPost": "https://x.com/MemeForTrees/status/2080649225788854670",
-    "caption": "\"It Moves When We Roar\" — War Machine\n\n$MfT"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2080664320095003106",
     "translation": "Sing To the Machine",
     "name": "Sing To the Machine",
@@ -4238,5 +4225,18 @@
     "ca": "0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65",
     "xPost": "https://x.com/MemeForTrees/status/2085415608183632269",
     "caption": "\"Better Than We Found It\" — Jony Sings\nevery listen grows the jungle\n\n$JS 0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2085420650974380336",
+    "translation": "It Moves When We Roar",
+    "name": "It Moves When We Roar",
+    "triggers": [
+      "it moves when we roar"
+    ],
+    "band": "WarMachine",
+    "tag": "$WM",
+    "ca": "0x6f45F5cE7027745b1Ab11D5493F187960D00FCfc",
+    "xPost": "https://x.com/MemeForTrees/status/2085420650974380336",
+    "caption": "\"It Moves When We Roar\" — War Machine\npress play, plant trees\n\nthe band works for a dollar — your song, their voice:\nhttps://tasern.quest/songsmith.html\nor pay right here on X: tag @MonkyTownWallet, any library song for 2 gold or 2 bananas\n\n$WM 0x6f45F5cE7027745b1Ab11D5493F187960D00FCfc"
   }
 ]

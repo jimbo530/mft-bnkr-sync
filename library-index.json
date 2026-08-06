@@ -2346,14 +2346,6 @@
  },
  {
   "band": "WarMachine",
-  "name": "It Moves When We Roar",
-  "triggers": [
-   "it moves when we roar"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080649225788854670"
- },
- {
-  "band": "WarMachine",
   "name": "Sing To the Machine",
   "triggers": [
    "sing to the machine"
@@ -2645,5 +2637,13 @@
    "better than we found it"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085415608183632269"
+ },
+ {
+  "band": "WarMachine",
+  "name": "It Moves When We Roar",
+  "triggers": [
+   "it moves when we roar"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085420650974380336"
  }
 ]

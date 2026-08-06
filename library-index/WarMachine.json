@@ -30,14 +30,6 @@
   "tag": "$WM"
  },
  {
-  "name": "It Moves When We Roar",
-  "triggers": [
-   "it moves when we roar"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080649225788854670",
-  "tag": "$WM"
- },
- {
   "name": "Sing To the Machine",
   "triggers": [
    "sing to the machine"
@@ -51,6 +43,14 @@
    "two war-grounds"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080669400227524991",
+  "tag": "$WM"
+ },
+ {
+  "name": "It Moves When We Roar",
+  "triggers": [
+   "it moves when we roar"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085420650974380336",
   "tag": "$WM"
  }
 ]
