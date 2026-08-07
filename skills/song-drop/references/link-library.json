@@ -2377,19 +2377,6 @@
     "caption": "\"Everybody Plants\" — Jony Sings\n\n$JS 0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2079692951379128715",
-    "translation": "Revolution of Money",
-    "name": "Revolution of Money",
-    "triggers": [
-      "revolution of money"
-    ],
-    "band": "EBM",
-    "tag": "$EBM",
-    "ca": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d",
-    "xPost": "https://x.com/MemeForTrees/status/2079692951379128715",
-    "caption": "\"Revolution of Money\" — Elves of Ballinmoore\n\n$EBM 0xF113fe2A0E1181A21fA97B1F52ff232140B7692d"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2079697947202142375",
     "translation": "A Coin for the Round",
     "name": "A Coin for the Round",
@@ -4238,5 +4225,18 @@
     "ca": "0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc",
     "xPost": "https://x.com/MemeForTrees/status/2085677369050767741",
     "caption": "\"It Does It for You\" — Natilie Nightclub\npress play, plant trees\n\nthe band works for a dollar — your song, their voice:\nhttps://tasern.quest/songsmith.html\nor pay right here on X: tag @MonkyTownWallet, any library song for 2 gold or 2 bananas\n\n$NN 0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2085682359039390115",
+    "translation": "Revolution of Money",
+    "name": "Revolution of Money",
+    "triggers": [
+      "revolution of money"
+    ],
+    "band": "EBM",
+    "tag": "$EBM",
+    "ca": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d",
+    "xPost": "https://x.com/MemeForTrees/status/2085682359039390115",
+    "caption": "\"Revolution of Money\" — Elves of Ballinmoore\ndance to defend the earth\n\n$EBM 0xF113fe2A0E1181A21fA97B1F52ff232140B7692d"
   }
 ]

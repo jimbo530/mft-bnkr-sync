@@ -209,14 +209,6 @@
   "tag": "$EBM"
  },
  {
-  "name": "Revolution of Money",
-  "triggers": [
-   "revolution of money"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079692951379128715",
-  "tag": "$EBM"
- },
- {
   "name": "Clean the Block",
   "triggers": [
    "clean the block"
@@ -302,6 +294,14 @@
    "no gate"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085657231639400451",
+  "tag": "$EBM"
+ },
+ {
+  "name": "Revolution of Money",
+  "triggers": [
+   "revolution of money"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085682359039390115",
   "tag": "$EBM"
  }
 ]

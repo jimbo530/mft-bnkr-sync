@@ -1489,14 +1489,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079682880750395764"
  },
  {
-  "band": "EBM",
-  "name": "Revolution of Money",
-  "triggers": [
-   "revolution of money"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079692951379128715"
- },
- {
   "band": "Rish",
   "name": "A Coin for the Round",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "it does it for you"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085677369050767741"
+ },
+ {
+  "band": "EBM",
+  "name": "Revolution of Money",
+  "triggers": [
+   "revolution of money"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085682359039390115"
  }
 ]
