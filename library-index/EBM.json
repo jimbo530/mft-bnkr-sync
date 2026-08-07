@@ -96,14 +96,6 @@
   "tag": "$EBM"
  },
  {
-  "name": "No Gate",
-  "triggers": [
-   "no gate"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079093969737195918",
-  "tag": "$EBM"
- },
- {
   "name": "Street Mint",
   "triggers": [
    "street mint"
@@ -302,6 +294,14 @@
    "oldest magic"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085335080713461969",
+  "tag": "$EBM"
+ },
+ {
+  "name": "No Gate",
+  "triggers": [
+   "no gate"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085657231639400451",
   "tag": "$EBM"
  }
 ]

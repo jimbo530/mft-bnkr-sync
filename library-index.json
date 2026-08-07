@@ -530,14 +530,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079088943048343879"
  },
  {
-  "band": "EBM",
-  "name": "No Gate",
-  "triggers": [
-   "no gate"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079093969737195918"
- },
- {
   "band": "DD",
   "name": "The Road Made Family",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "frens in the field"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085642097760096491"
+ },
+ {
+  "band": "EBM",
+  "name": "No Gate",
+  "triggers": [
+   "no gate"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085657231639400451"
  }
 ]
