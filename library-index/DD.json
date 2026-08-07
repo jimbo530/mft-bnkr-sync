@@ -24,14 +24,6 @@
   "tag": "$DD"
  },
  {
-  "name": "The Tool On My Back",
-  "triggers": [
-   "the tool on my back"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078817197120430215",
-  "tag": "$DD"
- },
- {
   "name": "A Pouch That Holds It All",
   "triggers": [
    "a pouch that holds it all"
@@ -243,6 +235,14 @@
    "carry the water"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085239458304049353",
+  "tag": "$DD"
+ },
+ {
+  "name": "The Tool On My Back",
+  "triggers": [
+   "the tool on my back"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085637111084933534",
   "tag": "$DD"
  }
 ]

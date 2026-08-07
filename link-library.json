@@ -401,19 +401,6 @@
     "caption": "\"The Prompt Heard\" — Elves of Ballinmoore\n\n$MfT"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2078817197120430215",
-    "translation": "The Tool On My Back",
-    "name": "The Tool On My Back",
-    "triggers": [
-      "the tool on my back"
-    ],
-    "band": "DD",
-    "tag": "$DD",
-    "ca": "0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3",
-    "xPost": "https://x.com/MemeForTrees/status/2078817197120430215",
-    "caption": "\"The Tool On My Back\" — Digerie Dude\n\n$MfT"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2078832291896258655",
     "translation": "First Everybody Builds",
     "name": "First Everybody Builds",
@@ -4238,5 +4225,18 @@
     "ca": "0x31c600871603bab5d855463E03c6d0a9eB661D26",
     "xPost": "https://x.com/MemeForTrees/status/2085616930602225721",
     "caption": "\"The Kindest Well\" — Rish\ngood tunes, real forests\n\n$RISH 0x31c600871603bab5d855463E03c6d0a9eB661D26"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2085637111084933534",
+    "translation": "The Tool On My Back",
+    "name": "The Tool On My Back",
+    "triggers": [
+      "the tool on my back"
+    ],
+    "band": "DD",
+    "tag": "$DD",
+    "ca": "0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3",
+    "xPost": "https://x.com/MemeForTrees/status/2085637111084933534",
+    "caption": "\"The Tool On My Back\" — Digerie Dude\ndance to defend the earth\n\n$DD 0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3"
   }
 ]

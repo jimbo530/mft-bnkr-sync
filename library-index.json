@@ -251,14 +251,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2078807118832890188"
  },
  {
-  "band": "DD",
-  "name": "The Tool On My Back",
-  "triggers": [
-   "the tool on my back"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078817197120430215"
- },
- {
   "band": "MR",
   "name": "First Everybody Builds",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "the kindest well"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085616930602225721"
+ },
+ {
+  "band": "DD",
+  "name": "The Tool On My Back",
+  "triggers": [
+   "the tool on my back"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085637111084933534"
  }
 ]
