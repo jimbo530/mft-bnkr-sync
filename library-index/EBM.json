@@ -169,14 +169,6 @@
   "tag": "$EBM"
  },
  {
-  "name": "Chorus Like an Army",
-  "triggers": [
-   "chorus like an army"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079471492564135955",
-  "tag": "$EBM"
- },
- {
   "name": "No Hands",
   "triggers": [
    "no hands"
@@ -302,6 +294,14 @@
    "revolution of money"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085682359039390115",
+  "tag": "$EBM"
+ },
+ {
+  "name": "Chorus Like an Army",
+  "triggers": [
+   "chorus like an army"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085778042295611566",
   "tag": "$EBM"
  }
 ]

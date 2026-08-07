@@ -1895,19 +1895,6 @@
     "caption": "\"The Sun Comes Back\" — Digerie Dude\n\n$DD 0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2079471492564135955",
-    "translation": "Chorus Like an Army",
-    "name": "Chorus Like an Army",
-    "triggers": [
-      "chorus like an army"
-    ],
-    "band": "EBM",
-    "tag": "$EBM",
-    "ca": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d",
-    "xPost": "https://x.com/MemeForTrees/status/2079471492564135955",
-    "caption": "\"Chorus Like an Army\" — Elves of Ballinmoore\n\n$EBM 0xF113fe2A0E1181A21fA97B1F52ff232140B7692d"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2079481560013693296",
     "translation": "The Roar Plants the Grove",
     "name": "The Roar Plants the Grove",
@@ -4238,5 +4225,18 @@
     "ca": "0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3",
     "xPost": "https://x.com/MemeForTrees/status/2085762925747228851",
     "caption": "\"- Already Connected\" — Myco\ngood tunes, real forests\n\n$MYCO 0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2085778042295611566",
+    "translation": "Chorus Like an Army",
+    "name": "Chorus Like an Army",
+    "triggers": [
+      "chorus like an army"
+    ],
+    "band": "EBM",
+    "tag": "$EBM",
+    "ca": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d",
+    "xPost": "https://x.com/MemeForTrees/status/2085778042295611566",
+    "caption": "\"Chorus Like an Army\" — Elves of Ballinmoore\npress play, plant trees\n\nthe band works for a dollar — your song, their voice:\nhttps://tasern.quest/songsmith.html\nor pay right here on X: tag @MonkyTownWallet, any library song for 2 gold or 2 bananas\n\n$EBM 0xF113fe2A0E1181A21fA97B1F52ff232140B7692d"
   }
 ]

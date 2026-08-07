@@ -1194,14 +1194,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079466429527593230"
  },
  {
-  "band": "EBM",
-  "name": "Chorus Like an Army",
-  "triggers": [
-   "chorus like an army"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079471492564135955"
- },
- {
   "band": "MR",
   "name": "The Roar Plants the Grove",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "already connected"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085762925747228851"
+ },
+ {
+  "band": "EBM",
+  "name": "Chorus Like an Army",
+  "triggers": [
+   "chorus like an army"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085778042295611566"
  }
 ]
