@@ -1851,14 +1851,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2080095578256466406"
  },
  {
-  "band": "JS",
-  "name": "Tally at the Muster",
-  "triggers": [
-   "tally at the muster"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080100649904029753"
- },
- {
   "band": "Bongo",
   "name": "The Hungry Drum",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "the grove remembers who showed up"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085783064102281655"
+ },
+ {
+  "band": "JS",
+  "name": "Tally at the Muster",
+  "triggers": [
+   "tally at the muster"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085798182257140160"
  }
 ]
