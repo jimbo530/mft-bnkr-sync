@@ -241,14 +241,6 @@
   "tag": "$EBM"
  },
  {
-  "name": "The Grove Remembers Who Showed Up",
-  "triggers": [
-   "the grove remembers who showed up"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080110716418245054",
-  "tag": "$EBM"
- },
- {
   "name": "A Billion Strong",
   "triggers": [
    "a billion strong"
@@ -302,6 +294,14 @@
    "chorus like an army"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085778042295611566",
+  "tag": "$EBM"
+ },
+ {
+  "name": "The Grove Remembers Who Showed Up",
+  "triggers": [
+   "the grove remembers who showed up"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085783064102281655",
   "tag": "$EBM"
  }
 ]

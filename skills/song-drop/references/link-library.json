@@ -2977,19 +2977,6 @@
     "caption": "\"Tally at the Muster\" — Jony Sings\n\n$JS 0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2080110716418245054",
-    "translation": "The Grove Remembers Who Showed Up",
-    "name": "The Grove Remembers Who Showed Up",
-    "triggers": [
-      "the grove remembers who showed up"
-    ],
-    "band": "EBM",
-    "tag": "$EBM",
-    "ca": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d",
-    "xPost": "https://x.com/MemeForTrees/status/2080110716418245054",
-    "caption": "\"The Grove Remembers Who Showed Up\" — Elves of Ballinmoore\n\nHelp EBM win the tree funding race — deposits welcome, withdraw anytime, the trees stay:\nhttps://tasern.quest/ebm-vault.html\n\n$EBM 0xF113fe2A0E1181A21fA97B1F52ff232140B7692d"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2080115711603548489",
     "translation": "The Hungry Drum",
     "name": "The Hungry Drum",
@@ -4238,5 +4225,18 @@
     "ca": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d",
     "xPost": "https://x.com/MemeForTrees/status/2085778042295611566",
     "caption": "\"Chorus Like an Army\" — Elves of Ballinmoore\npress play, plant trees\n\nthe band works for a dollar — your song, their voice:\nhttps://tasern.quest/songsmith.html\nor pay right here on X: tag @MonkyTownWallet, any library song for 2 gold or 2 bananas\n\n$EBM 0xF113fe2A0E1181A21fA97B1F52ff232140B7692d"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2085783064102281655",
+    "translation": "The Grove Remembers Who Showed Up",
+    "name": "The Grove Remembers Who Showed Up",
+    "triggers": [
+      "the grove remembers who showed up"
+    ],
+    "band": "EBM",
+    "tag": "$EBM",
+    "ca": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d",
+    "xPost": "https://x.com/MemeForTrees/status/2085783064102281655",
+    "caption": "\"The Grove Remembers Who Showed Up\" — Elves of Ballinmoore\npress play, plant trees\n\nHelp EBM win the tree funding race — deposits welcome, withdraw anytime, the trees stay:\nhttps://tasern.quest/ebm-vault.html\n\ngrab a monkey, name him forever, feed him a banana a day — a Monkey Town wallet takes just an email:\nhttps://tasern.quest/monkeytown\n\n$EBM 0xF113fe2A0E1181A21fA97B1F52ff232140B7692d"
   }
 ]
