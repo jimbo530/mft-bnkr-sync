@@ -64,14 +64,6 @@
   "tag": "$JS"
  },
  {
-  "name": "Concrete to Canopy",
-  "triggers": [
-   "concrete to canopy"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079154411205431773",
-  "tag": "$JS"
- },
- {
   "name": "The Architecture of Trust",
   "triggers": [
    "the architecture of trust"
@@ -201,6 +193,14 @@
    "frens in the field"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085642097760096491",
+  "tag": "$JS"
+ },
+ {
+  "name": "Concrete to Canopy",
+  "triggers": [
+   "concrete to canopy"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085742755108503680",
   "tag": "$JS"
  }
 ]

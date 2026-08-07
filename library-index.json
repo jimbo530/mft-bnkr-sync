@@ -578,14 +578,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079149386735538233"
  },
  {
-  "band": "JS",
-  "name": "Concrete to Canopy",
-  "triggers": [
-   "concrete to canopy"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079154411205431773"
- },
- {
   "band": "ALAN",
   "name": "The Rules Are the Rules",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "post laugh plant repeat"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085737751152926726"
+ },
+ {
+  "band": "JS",
+  "name": "Concrete to Canopy",
+  "triggers": [
+   "concrete to canopy"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085742755108503680"
  }
 ]
