@@ -40,14 +40,6 @@
   "tag": "$MR"
  },
  {
-  "name": "It Feeds Its Own Fire",
-  "triggers": [
-   "it feeds its own fire"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078912777830146108",
-  "tag": "$MR"
- },
- {
   "name": "The Ground We Stand On",
   "triggers": [
    "the ground we stand on"
@@ -203,6 +195,14 @@
    "coast to the cabinet"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085435783746289672",
+  "tag": "$MR"
+ },
+ {
+  "name": "It Feeds Its Own Fire",
+  "triggers": [
+   "it feeds its own fire"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085516292136571122",
   "tag": "$MR"
  }
 ]

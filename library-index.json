@@ -356,14 +356,6 @@
  },
  {
   "band": "MR",
-  "name": "It Feeds Its Own Fire",
-  "triggers": [
-   "it feeds its own fire"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078912777830146108"
- },
- {
-  "band": "MR",
   "name": "The Ground We Stand On",
   "triggers": [
    "the ground we stand on"
@@ -2645,5 +2637,13 @@
    "will ye come to shillwood"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085501222077767769"
+ },
+ {
+  "band": "MR",
+  "name": "It Feeds Its Own Fire",
+  "triggers": [
+   "it feeds its own fire"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085516292136571122"
  }
 ]
