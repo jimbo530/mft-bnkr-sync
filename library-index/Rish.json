@@ -159,14 +159,6 @@
   "tag": "$RISH"
  },
  {
-  "name": "The Kindest Well",
-  "triggers": [
-   "the kindest well"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079879180230045696",
-  "tag": "$RISH"
- },
- {
   "name": "The Town of the Cats",
   "triggers": [
    "the town of the cats"
@@ -221,6 +213,14 @@
    "plant it back"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085576713723871280",
+  "tag": "$RISH"
+ },
+ {
+  "name": "The Kindest Well",
+  "triggers": [
+   "the kindest well"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085616930602225721",
   "tag": "$RISH"
  }
 ]

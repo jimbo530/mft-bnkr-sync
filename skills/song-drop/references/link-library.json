@@ -2729,19 +2729,6 @@
     "caption": "\"Every Road a Grove\" — Digerie Dude\n\n$DD 0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2079879180230045696",
-    "translation": "The Kindest Well",
-    "name": "The Kindest Well",
-    "triggers": [
-      "the kindest well"
-    ],
-    "band": "Rish",
-    "tag": "$RISH",
-    "ca": "0x31c600871603bab5d855463E03c6d0a9eB661D26",
-    "xPost": "https://x.com/MemeForTrees/status/2079879180230045696",
-    "caption": "\"The Kindest Well\" — Rish\n\n$RISH 0x31c600871603bab5d855463E03c6d0a9eB661D26"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2079889246257573898",
     "translation": "The Well at the Bend",
     "name": "The Well at the Bend",
@@ -4238,5 +4225,18 @@
     "ca": "0x85Dd5183D203CcE70b88234D31f075774AcCC453",
     "xPost": "https://x.com/MemeForTrees/status/2085601830973649192",
     "caption": "\"Both Fires\" — Bongo\nevery listen grows the jungle\n\n$BONGO 0x85Dd5183D203CcE70b88234D31f075774AcCC453"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2085616930602225721",
+    "translation": "The Kindest Well",
+    "name": "The Kindest Well",
+    "triggers": [
+      "the kindest well"
+    ],
+    "band": "Rish",
+    "tag": "$RISH",
+    "ca": "0x31c600871603bab5d855463E03c6d0a9eB661D26",
+    "xPost": "https://x.com/MemeForTrees/status/2085616930602225721",
+    "caption": "\"The Kindest Well\" — Rish\ngood tunes, real forests\n\n$RISH 0x31c600871603bab5d855463E03c6d0a9eB661D26"
   }
 ]

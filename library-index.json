@@ -1705,14 +1705,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079874146129907978"
  },
  {
-  "band": "Rish",
-  "name": "The Kindest Well",
-  "triggers": [
-   "the kindest well"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079879180230045696"
- },
- {
   "band": "DD",
   "name": "The Well at the Bend",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "both fires"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085601830973649192"
+ },
+ {
+  "band": "Rish",
+  "name": "The Kindest Well",
+  "triggers": [
+   "the kindest well"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085616930602225721"
  }
 ]
