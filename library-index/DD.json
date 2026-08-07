@@ -180,14 +180,6 @@
   "tag": "$DD"
  },
  {
-  "name": "The Well at the Bend",
-  "triggers": [
-   "the well at the bend"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079889246257573898",
-  "tag": "$DD"
- },
- {
   "name": "One River",
   "triggers": [
    "one river"
@@ -243,6 +235,14 @@
    "the tool on my back"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085637111084933534",
+  "tag": "$DD"
+ },
+ {
+  "name": "The Well at the Bend",
+  "triggers": [
+   "the well at the bend"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085702546337767667",
   "tag": "$DD"
  }
 ]

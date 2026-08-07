@@ -1657,14 +1657,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079874146129907978"
  },
  {
-  "band": "DD",
-  "name": "The Well at the Bend",
-  "triggers": [
-   "the well at the bend"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079889246257573898"
- },
- {
   "band": "Myco",
   "name": "New Soil",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "haul the harvest home"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085697478083387498"
+ },
+ {
+  "band": "DD",
+  "name": "The Well at the Bend",
+  "triggers": [
+   "the well at the bend"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085702546337767667"
  }
 ]
