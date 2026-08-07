@@ -32,14 +32,6 @@
   "tag": "$MYCO"
  },
  {
-  "name": "Already Connected",
-  "triggers": [
-   "already connected"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079109125892444466",
-  "tag": "$MYCO"
- },
- {
   "name": "The Soil Remembers",
   "triggers": [
    "the soil remembers"
@@ -228,6 +220,14 @@
    "follow the signal up"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085556580674675164",
+  "tag": "$MYCO"
+ },
+ {
+  "name": "Already Connected",
+  "triggers": [
+   "already connected"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085762925747228851",
   "tag": "$MYCO"
  }
 ]

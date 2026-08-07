@@ -838,19 +838,6 @@
     "caption": "\"The Road Made Family\" — Digerie Dude\n\n$DD 0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2079109125892444466",
-    "translation": "Already Connected",
-    "name": "Already Connected",
-    "triggers": [
-      "already connected"
-    ],
-    "band": "Myco",
-    "tag": "$MYCO",
-    "ca": "0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3",
-    "xPost": "https://x.com/MemeForTrees/status/2079109125892444466",
-    "caption": "\"- Already Connected\" — Myco\n\n$MYCO 0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2079119177265057839",
     "translation": "Pull Up a Stoop",
     "name": "Pull Up a Stoop",
@@ -4238,5 +4225,18 @@
     "ca": "0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3",
     "xPost": "https://x.com/MemeForTrees/status/2085757910496190887",
     "caption": "\"Dancefloor Grows a Forest\" — Digerie Dude\ngood tunes, real forests\n\n$DD 0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2085762925747228851",
+    "translation": "Already Connected",
+    "name": "Already Connected",
+    "triggers": [
+      "already connected"
+    ],
+    "band": "Myco",
+    "tag": "$MYCO",
+    "ca": "0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3",
+    "xPost": "https://x.com/MemeForTrees/status/2085762925747228851",
+    "caption": "\"- Already Connected\" — Myco\ngood tunes, real forests\n\n$MYCO 0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3"
   }
 ]

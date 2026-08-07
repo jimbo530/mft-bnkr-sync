@@ -522,14 +522,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079104083638522307"
  },
  {
-  "band": "Myco",
-  "name": "Already Connected",
-  "triggers": [
-   "already connected"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079109125892444466"
- },
- {
   "band": "JS",
   "name": "Pull Up a Stoop",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "dancefloor grows a forest"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085757910496190887"
+ },
+ {
+  "band": "Myco",
+  "name": "Already Connected",
+  "triggers": [
+   "already connected"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085762925747228851"
  }
 ]
