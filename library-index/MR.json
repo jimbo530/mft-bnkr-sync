@@ -142,14 +142,6 @@
   "tag": "$MR"
  },
  {
-  "name": "Set a Table",
-  "triggers": [
-   "set a table"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079803640517214483",
-  "tag": "$MR"
- },
- {
   "name": "Five Hundred Homes",
   "triggers": [
    "five hundred homes"
@@ -203,6 +195,14 @@
    "it feeds its own fire"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085516292136571122",
+  "tag": "$MR"
+ },
+ {
+  "name": "Set a Table",
+  "triggers": [
+   "set a table"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085541439371452678",
   "tag": "$MR"
  }
 ]
