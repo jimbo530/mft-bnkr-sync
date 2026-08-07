@@ -1210,14 +1210,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079496676171993146"
  },
  {
-  "band": "EBM",
-  "name": "No Hands",
-  "triggers": [
-   "no hands"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079501653300932876"
- },
- {
   "band": null,
   "name": "tunes for trees",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "love does the growing"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085843458757976396"
+ },
+ {
+  "band": "EBM",
+  "name": "No Hands",
+  "triggers": [
+   "no hands"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085858566804541628"
  }
 ]

@@ -161,14 +161,6 @@
   "tag": "$EBM"
  },
  {
-  "name": "No Hands",
-  "triggers": [
-   "no hands"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079501653300932876",
-  "tag": "$EBM"
- },
- {
   "name": "The Good Word",
   "triggers": [
    "the good word"
@@ -302,6 +294,14 @@
    "the patient ones"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085818305206472978",
+  "tag": "$EBM"
+ },
+ {
+  "name": "No Hands",
+  "triggers": [
+   "no hands"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085858566804541628",
   "tag": "$EBM"
  }
 ]
