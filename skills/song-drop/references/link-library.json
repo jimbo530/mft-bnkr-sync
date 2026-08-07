@@ -2148,19 +2148,6 @@
     "boothCommission": "sg_mrumt0zumx"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2079547015986327875",
-    "translation": "A Damned Good Time",
-    "name": "A Damned Good Time",
-    "triggers": [
-      "a damned good time"
-    ],
-    "band": "DGT",
-    "tag": "$DGT",
-    "ca": "0x52414B7cD2FA723E1c8f9295EB29F16d15aA7BB9",
-    "xPost": "https://x.com/MemeForTrees/status/2079547015986327875",
-    "caption": "\"A Damned Good Time\" — Damned Good Time Orchestra\n\n$DGT 0x52414B7cD2FA723E1c8f9295EB29F16d15aA7BB9"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2079557021011992670",
     "translation": "Frens in the Field",
     "name": "Frens in the Field",
@@ -4238,5 +4225,18 @@
     "ca": "0x8d669b539C7801c1271BC484Bdd8a6084b7788e7",
     "xPost": "https://x.com/MemeForTrees/status/2085516292136571122",
     "caption": "\"It Feeds Its Own Fire\" — Moon Rasta\ndance to defend the earth\n\n$MR 0x8d669b539C7801c1271BC484Bdd8a6084b7788e7"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2085536476754829515",
+    "translation": "A Damned Good Time",
+    "name": "A Damned Good Time",
+    "triggers": [
+      "a damned good time"
+    ],
+    "band": "DGT",
+    "tag": "$DGT",
+    "ca": "0x52414B7cD2FA723E1c8f9295EB29F16d15aA7BB9",
+    "xPost": "https://x.com/MemeForTrees/status/2085536476754829515",
+    "caption": "\"A Damned Good Time\" — Damned Good Time Orchestra\nevery listen grows the jungle\n\n$DGT 0x52414B7cD2FA723E1c8f9295EB29F16d15aA7BB9"
   }
 ]

@@ -72,14 +72,6 @@
   "tag": "$DGT"
  },
  {
-  "name": "A Damned Good Time",
-  "triggers": [
-   "a damned good time"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079547015986327875",
-  "tag": "$DGT"
- },
- {
   "name": "Party While You're Here",
   "triggers": [
    "party while you're here"
@@ -144,6 +136,14 @@
    "intermission"
   ],
   "xPost": "https://x.com/MonkyTownWallet/status/2083555121103777966",
+  "tag": "$DGT"
+ },
+ {
+  "name": "A Damned Good Time",
+  "triggers": [
+   "a damned good time"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085536476754829515",
   "tag": "$DGT"
  }
 ]

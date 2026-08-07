@@ -1350,14 +1350,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079545861537771528"
  },
  {
-  "band": "DGT",
-  "name": "A Damned Good Time",
-  "triggers": [
-   "a damned good time"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079547015986327875"
- },
- {
   "band": "JS",
   "name": "Frens in the Field",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "it feeds its own fire"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085516292136571122"
+ },
+ {
+  "band": "DGT",
+  "name": "A Damned Good Time",
+  "triggers": [
+   "a damned good time"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085536476754829515"
  }
 ]
