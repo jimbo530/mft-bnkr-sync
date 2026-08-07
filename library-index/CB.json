@@ -96,14 +96,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Post Laugh Plant Repeat",
-  "triggers": [
-   "post laugh plant repeat"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080478142733365418",
-  "tag": "$MfT"
- },
- {
   "name": "Revolution Has Begun",
   "triggers": [
    "revolution has begun"
@@ -141,6 +133,14 @@
    "join the raid"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085581698045985108",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Post Laugh Plant Repeat",
+  "triggers": [
+   "post laugh plant repeat"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085737751152926726",
   "tag": "$MfT"
  }
 ]

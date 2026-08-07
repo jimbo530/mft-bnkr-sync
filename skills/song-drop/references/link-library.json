@@ -3290,19 +3290,6 @@
     "caption": "\"Plant It Loud\" — CB\n\nMeme for Trees runs on Bankr — memes that grow real forests\n\n$MfT"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2080478142733365418",
-    "translation": "Post Laugh Plant Repeat",
-    "name": "Post Laugh Plant Repeat",
-    "triggers": [
-      "post laugh plant repeat"
-    ],
-    "band": "CB",
-    "tag": "$MfT",
-    "ca": null,
-    "xPost": "https://x.com/MemeForTrees/status/2080478142733365418",
-    "caption": "\"Post Laugh Plant Repeat\" — CB\n\nthe agent that acts while you sleep\n\n$MfT"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2080493237588889901",
     "translation": "Revolution Has Begun",
     "name": "Revolution Has Begun",
@@ -4238,5 +4225,18 @@
     "ca": "0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc",
     "xPost": "https://x.com/MemeForTrees/status/2085717591247507575",
     "caption": "\"Little Meme Little Tree\" — Natilie Nightclub\npress play, plant trees\n\ngrab a monkey, name him forever, feed him a banana a day — a Monkey Town wallet takes just an email:\nhttps://tasern.quest/monkeytown\n\n$NN 0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2085737751152926726",
+    "translation": "Post Laugh Plant Repeat",
+    "name": "Post Laugh Plant Repeat",
+    "triggers": [
+      "post laugh plant repeat"
+    ],
+    "band": "CB",
+    "tag": "$MfT",
+    "ca": null,
+    "xPost": "https://x.com/MemeForTrees/status/2085737751152926726",
+    "caption": "\"Post Laugh Plant Repeat\" — CB\npress play, plant trees\n\ngrab a monkey, name him forever, feed him a banana a day — a Monkey Town wallet takes just an email:\nhttps://tasern.quest/monkeytown\n\nevery laugh grows the forest\n\n$MfT"
   }
 ]

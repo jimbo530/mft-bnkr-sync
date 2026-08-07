@@ -2058,14 +2058,6 @@
  },
  {
   "band": "CB",
-  "name": "Post Laugh Plant Repeat",
-  "triggers": [
-   "post laugh plant repeat"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080478142733365418"
- },
- {
-  "band": "CB",
   "name": "Revolution Has Begun",
   "triggers": [
    "revolution has begun"
@@ -2645,5 +2637,13 @@
    "little meme little tree"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085717591247507575"
+ },
+ {
+  "band": "CB",
+  "name": "Post Laugh Plant Repeat",
+  "triggers": [
+   "post laugh plant repeat"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085737751152926726"
  }
 ]
