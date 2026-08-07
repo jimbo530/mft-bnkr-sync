@@ -2820,19 +2820,6 @@
     "caption": "\"Lucky To Be Here\" — Damned Good Time Orchestra\n\n$DGT 0x52414B7cD2FA723E1c8f9295EB29F16d15aA7BB9"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2079934542790500737",
-    "translation": "Plant It Back",
-    "name": "Plant It Back",
-    "triggers": [
-      "plant it back"
-    ],
-    "band": "Rish",
-    "tag": "$RISH",
-    "ca": "0x31c600871603bab5d855463E03c6d0a9eB661D26",
-    "xPost": "https://x.com/MemeForTrees/status/2079934542790500737",
-    "caption": "\"Plant It Back\" — Rish\n\n$RISH 0x31c600871603bab5d855463E03c6d0a9eB661D26"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2079939538382630969",
     "translation": "The Beat Votes Tomorrow",
     "name": "The Beat Votes Tomorrow",
@@ -4238,5 +4225,18 @@
     "ca": null,
     "xPost": "https://x.com/MemeForTrees/status/2085561623947665615",
     "caption": "\"Room For Everyone\" — CB\nlisten, like, and share to fund forests\n\nMonkey Town runs an Impact Token Launcher — critters like Green Bull and Shrooms trade so real trees get planted 🌱\n\nno keeper, no gatekeeper — just plant\n\n$MfT"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2085576713723871280",
+    "translation": "Plant It Back",
+    "name": "Plant It Back",
+    "triggers": [
+      "plant it back"
+    ],
+    "band": "Rish",
+    "tag": "$RISH",
+    "ca": "0x31c600871603bab5d855463E03c6d0a9eB661D26",
+    "xPost": "https://x.com/MemeForTrees/status/2085576713723871280",
+    "caption": "\"Plant It Back\" — Rish\ngood tunes, real forests\n\n$RISH 0x31c600871603bab5d855463E03c6d0a9eB661D26"
   }
 ]

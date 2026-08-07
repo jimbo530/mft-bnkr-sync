@@ -167,14 +167,6 @@
   "tag": "$RISH"
  },
  {
-  "name": "Plant It Back",
-  "triggers": [
-   "plant it back"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079934542790500737",
-  "tag": "$RISH"
- },
- {
   "name": "The Town of the Cats",
   "triggers": [
    "the town of the cats"
@@ -221,6 +213,14 @@
    "will ye come to shillwood"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085501222077767769",
+  "tag": "$RISH"
+ },
+ {
+  "name": "Plant It Back",
+  "triggers": [
+   "plant it back"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085576713723871280",
   "tag": "$RISH"
  }
 ]

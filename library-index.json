@@ -1761,14 +1761,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079919465928503527"
  },
  {
-  "band": "Rish",
-  "name": "Plant It Back",
-  "triggers": [
-   "plant it back"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079934542790500737"
- },
- {
   "band": "Bongo",
   "name": "The Beat Votes Tomorrow",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "room for everyone"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085561623947665615"
+ },
+ {
+  "band": "Rish",
+  "name": "Plant It Back",
+  "triggers": [
+   "plant it back"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085576713723871280"
  }
 ]
