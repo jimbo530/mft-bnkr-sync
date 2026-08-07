@@ -2122,14 +2122,6 @@
  },
  {
   "band": "WarMachine",
-  "name": "Sing To the Machine",
-  "triggers": [
-   "sing to the machine"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080664320095003106"
- },
- {
-  "band": "WarMachine",
   "name": "Two War-Grounds",
   "triggers": [
    "two war-grounds"
@@ -2645,5 +2637,13 @@
    "tally at the muster"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085798182257140160"
+ },
+ {
+  "band": "WarMachine",
+  "name": "Sing To the Machine",
+  "triggers": [
+   "sing to the machine"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085803176012202299"
  }
 ]

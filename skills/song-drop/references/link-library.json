@@ -3394,19 +3394,6 @@
     "caption": "\"It Does Our Bidding\" — War Machine\n\n$MfT"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2080664320095003106",
-    "translation": "Sing To the Machine",
-    "name": "Sing To the Machine",
-    "triggers": [
-      "sing to the machine"
-    ],
-    "band": "WarMachine",
-    "tag": "$WM",
-    "ca": "0x6f45F5cE7027745b1Ab11D5493F187960D00FCfc",
-    "xPost": "https://x.com/MemeForTrees/status/2080664320095003106",
-    "caption": "\"Sing To the Machine\" — War Machine\n\n$MfT"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2080669400227524991",
     "translation": "Two War-Grounds",
     "name": "Two War-Grounds",
@@ -4238,5 +4225,18 @@
     "ca": "0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65",
     "xPost": "https://x.com/MemeForTrees/status/2085798182257140160",
     "caption": "\"Tally at the Muster\" — Jony Sings\nlisten, like, and share to fund forests\n\nthe band works for a dollar — your song, their voice:\nhttps://tasern.quest/songsmith.html\nor pay right here on X: tag @MonkyTownWallet, any library song for 2 gold or 2 bananas\n\n$JS 0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2085803176012202299",
+    "translation": "Sing To the Machine",
+    "name": "Sing To the Machine",
+    "triggers": [
+      "sing to the machine"
+    ],
+    "band": "WarMachine",
+    "tag": "$WM",
+    "ca": "0x6f45F5cE7027745b1Ab11D5493F187960D00FCfc",
+    "xPost": "https://x.com/MemeForTrees/status/2085803176012202299",
+    "caption": "\"Sing To the Machine\" — War Machine\ngood tunes, real forests\n\n$WM 0x6f45F5cE7027745b1Ab11D5493F187960D00FCfc"
   }
 ]
