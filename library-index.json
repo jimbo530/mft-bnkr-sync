@@ -1334,14 +1334,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079545861537771528"
  },
  {
-  "band": "JS",
-  "name": "Frens in the Field",
-  "triggers": [
-   "frens in the field"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079557021011992670"
- },
- {
   "band": "DGT",
   "name": "Party While You're Here",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "the tool on my back"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085637111084933534"
+ },
+ {
+  "band": "JS",
+  "name": "Frens in the Field",
+  "triggers": [
+   "frens in the field"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085642097760096491"
  }
 ]

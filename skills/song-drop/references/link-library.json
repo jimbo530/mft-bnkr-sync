@@ -2122,19 +2122,6 @@
     "boothCommission": "sg_mrumt0zumx"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2079557021011992670",
-    "translation": "Frens in the Field",
-    "name": "Frens in the Field",
-    "triggers": [
-      "frens in the field"
-    ],
-    "band": "JS",
-    "tag": "$JS",
-    "ca": "0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65",
-    "xPost": "https://x.com/MemeForTrees/status/2079557021011992670",
-    "caption": "\"Frens in the Field\" — Jony Sings\n\n$JS 0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2079562134900408453",
     "translation": "Party While You're Here",
     "name": "Party While You're Here",
@@ -4238,5 +4225,18 @@
     "ca": "0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3",
     "xPost": "https://x.com/MemeForTrees/status/2085637111084933534",
     "caption": "\"The Tool On My Back\" — Digerie Dude\ndance to defend the earth\n\n$DD 0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2085642097760096491",
+    "translation": "Frens in the Field",
+    "name": "Frens in the Field",
+    "triggers": [
+      "frens in the field"
+    ],
+    "band": "JS",
+    "tag": "$JS",
+    "ca": "0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65",
+    "xPost": "https://x.com/MemeForTrees/status/2085642097760096491",
+    "caption": "\"Frens in the Field\" — Jony Sings\nlisten, like, and share to fund forests\n\nMonkey Town runs an Impact Token Launcher — critters like Green Bull and Shrooms trade so real trees get planted 🌱\n\n$JS 0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65"
   }
 ]

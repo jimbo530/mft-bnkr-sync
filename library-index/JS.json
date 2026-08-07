@@ -118,14 +118,6 @@
   "tag": "$JS"
  },
  {
-  "name": "Frens in the Field",
-  "triggers": [
-   "frens in the field"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079557021011992670",
-  "tag": "$JS"
- },
- {
   "name": "Build the Grove",
   "triggers": [
    "build the grove"
@@ -201,6 +193,14 @@
    "better than we found it"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085415608183632269",
+  "tag": "$JS"
+ },
+ {
+  "name": "Frens in the Field",
+  "triggers": [
+   "frens in the field"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085642097760096491",
   "tag": "$JS"
  }
 ]
