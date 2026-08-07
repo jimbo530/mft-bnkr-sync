@@ -72,14 +72,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Join the Raid",
-  "triggers": [
-   "join the raid"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080437836361138304",
-  "tag": "$MfT"
- },
- {
   "name": "Live in Seconds",
   "triggers": [
    "live in seconds"
@@ -141,6 +133,14 @@
    "room for everyone"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085561623947665615",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Join the Raid",
+  "triggers": [
+   "join the raid"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085581698045985108",
   "tag": "$MfT"
  }
 ]

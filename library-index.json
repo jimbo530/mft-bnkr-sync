@@ -2114,14 +2114,6 @@
  },
  {
   "band": "CB",
-  "name": "Join the Raid",
-  "triggers": [
-   "join the raid"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080437836361138304"
- },
- {
-  "band": "CB",
   "name": "Live in Seconds",
   "triggers": [
    "live in seconds"
@@ -2645,5 +2637,13 @@
    "plant it back"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085576713723871280"
+ },
+ {
+  "band": "CB",
+  "name": "Join the Raid",
+  "triggers": [
+   "join the raid"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085581698045985108"
  }
 ]

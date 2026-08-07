@@ -3381,19 +3381,6 @@
     "caption": "\"It Keeps Itself Alive\" — CB\n\n$MfT"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2080437836361138304",
-    "translation": "Join the Raid",
-    "name": "Join the Raid",
-    "triggers": [
-      "join the raid"
-    ],
-    "band": "CB",
-    "tag": "$MfT",
-    "ca": null,
-    "xPost": "https://x.com/MemeForTrees/status/2080437836361138304",
-    "caption": "\"Join the Raid\" — CB\n\nan agent for the whole fam, working around the clock\n\n$MfT"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2080447905303802320",
     "translation": "Live in Seconds",
     "name": "Live in Seconds",
@@ -4238,5 +4225,18 @@
     "ca": "0x31c600871603bab5d855463E03c6d0a9eB661D26",
     "xPost": "https://x.com/MemeForTrees/status/2085576713723871280",
     "caption": "\"Plant It Back\" — Rish\ngood tunes, real forests\n\n$RISH 0x31c600871603bab5d855463E03c6d0a9eB661D26"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2085581698045985108",
+    "translation": "Join the Raid",
+    "name": "Join the Raid",
+    "triggers": [
+      "join the raid"
+    ],
+    "band": "CB",
+    "tag": "$MfT",
+    "ca": null,
+    "xPost": "https://x.com/MemeForTrees/status/2085581698045985108",
+    "caption": "\"Join the Raid\" — CB\nturn it up for the trees\n\nsoon you’ll launch your own critter with a tweet 🌱 Monkey Town is warming up\n\na meme for the whole fam, a tree for the whole world\n\n$MfT"
   }
 ]
