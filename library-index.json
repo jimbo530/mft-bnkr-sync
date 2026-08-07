@@ -100,14 +100,6 @@
  },
  {
   "band": "DD",
-  "name": "Dancefloor Grows a Forest",
-  "triggers": [
-   "dancefloor grows a forest"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078651112236765305"
- },
- {
-  "band": "DD",
   "name": "Gather the Good Road",
   "triggers": [
    "gather the good road"
@@ -2645,5 +2637,13 @@
    "concrete to canopy"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085742755108503680"
+ },
+ {
+  "band": "DD",
+  "name": "Dancefloor Grows a Forest",
+  "triggers": [
+   "dancefloor grows a forest"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085757910496190887"
  }
 ]
