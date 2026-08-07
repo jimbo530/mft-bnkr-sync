@@ -94,14 +94,6 @@
   "tag": "$MR"
  },
  {
-  "name": "Haul the Harvest Home",
-  "triggers": [
-   "haul the harvest home"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079662755460645199",
-  "tag": "$MR"
- },
- {
   "name": "The Oldest Provider",
   "triggers": [
    "the oldest provider"
@@ -203,6 +195,14 @@
    "set a table"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085541439371452678",
+  "tag": "$MR"
+ },
+ {
+  "name": "Haul the Harvest Home",
+  "triggers": [
+   "haul the harvest home"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085697478083387498",
   "tag": "$MR"
  }
 ]

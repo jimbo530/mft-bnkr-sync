@@ -1458,14 +1458,6 @@
  },
  {
   "band": "MR",
-  "name": "Haul the Harvest Home",
-  "triggers": [
-   "haul the harvest home"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079662755460645199"
- },
- {
-  "band": "MR",
   "name": "The Oldest Provider",
   "triggers": [
    "the oldest provider"
@@ -2645,5 +2637,13 @@
    "revolution of money"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085682359039390115"
+ },
+ {
+  "band": "MR",
+  "name": "Haul the Harvest Home",
+  "triggers": [
+   "haul the harvest home"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085697478083387498"
  }
 ]
