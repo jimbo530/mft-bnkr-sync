@@ -16,14 +16,6 @@
   "tag": "$MYCO"
  },
  {
-  "name": "Follow the Signal Up",
-  "triggers": [
-   "follow the signal up"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078822193979351483",
-  "tag": "$MYCO"
- },
- {
   "name": "The Catalog of Tools",
   "triggers": [
    "the catalog of tools"
@@ -228,6 +220,14 @@
    "sky people party"
   ],
   "xPost": "https://x.com/MonkyTownWallet/status/2083249368035987512",
+  "tag": "$MYCO"
+ },
+ {
+  "name": "Follow the Signal Up",
+  "triggers": [
+   "follow the signal up"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085556580674675164",
   "tag": "$MYCO"
  }
 ]

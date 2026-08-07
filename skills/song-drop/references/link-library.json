@@ -414,19 +414,6 @@
     "caption": "\"The Tool On My Back\" — Digerie Dude\n\n$MfT"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2078822193979351483",
-    "translation": "Follow the Signal Up",
-    "name": "Follow the Signal Up",
-    "triggers": [
-      "follow the signal up"
-    ],
-    "band": "Myco",
-    "tag": "$MYCO",
-    "ca": "0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3",
-    "xPost": "https://x.com/MemeForTrees/status/2078822193979351483",
-    "caption": "\"- Follow the Signal Up\" — Myco\n\n$MfT"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2078832291896258655",
     "translation": "First Everybody Builds",
     "name": "First Everybody Builds",
@@ -4238,5 +4225,18 @@
     "ca": "0x8d669b539C7801c1271BC484Bdd8a6084b7788e7",
     "xPost": "https://x.com/MemeForTrees/status/2085541439371452678",
     "caption": "\"Set a Table\" — Moon Rasta\npress play, plant trees\n\nthe band works for a dollar — your song, their voice:\nhttps://tasern.quest/songsmith.html\nor pay right here on X: tag @MonkyTownWallet, any library song for 2 gold or 2 bananas\n\n$MR 0x8d669b539C7801c1271BC484Bdd8a6084b7788e7"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2085556580674675164",
+    "translation": "Follow the Signal Up",
+    "name": "Follow the Signal Up",
+    "triggers": [
+      "follow the signal up"
+    ],
+    "band": "Myco",
+    "tag": "$MYCO",
+    "ca": "0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3",
+    "xPost": "https://x.com/MemeForTrees/status/2085556580674675164",
+    "caption": "\"- Follow the Signal Up\" — Myco\nevery listen grows the jungle\n\n$MYCO 0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3"
   }
 ]

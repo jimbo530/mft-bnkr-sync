@@ -259,14 +259,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2078817197120430215"
  },
  {
-  "band": "Myco",
-  "name": "Follow the Signal Up",
-  "triggers": [
-   "follow the signal up"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078822193979351483"
- },
- {
   "band": "MR",
   "name": "First Everybody Builds",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "set a table"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085541439371452678"
+ },
+ {
+  "band": "Myco",
+  "name": "Follow the Signal Up",
+  "triggers": [
+   "follow the signal up"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085556580674675164"
  }
 ]
