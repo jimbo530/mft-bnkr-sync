@@ -8,14 +8,6 @@
   "tag": "$EBM"
  },
  {
-  "name": "The Patient Ones",
-  "triggers": [
-   "the patient ones"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078681298126655784",
-  "tag": "$EBM"
- },
- {
   "name": "Ten Years Deep",
   "triggers": [
    "ten years deep"
@@ -302,6 +294,14 @@
    "the grove remembers who showed up"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085783064102281655",
+  "tag": "$EBM"
+ },
+ {
+  "name": "The Patient Ones",
+  "triggers": [
+   "the patient ones"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085818305206472978",
   "tag": "$EBM"
  }
 ]

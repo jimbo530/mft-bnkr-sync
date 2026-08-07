@@ -124,14 +124,6 @@
  },
  {
   "band": "EBM",
-  "name": "The Patient Ones",
-  "triggers": [
-   "the patient ones"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078681298126655784"
- },
- {
-  "band": "EBM",
   "name": "Ten Years Deep",
   "triggers": [
    "ten years deep"
@@ -2645,5 +2637,13 @@
    "sing to the machine"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085803176012202299"
+ },
+ {
+  "band": "EBM",
+  "name": "The Patient Ones",
+  "triggers": [
+   "the patient ones"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085818305206472978"
  }
 ]
