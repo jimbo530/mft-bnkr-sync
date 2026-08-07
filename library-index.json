@@ -640,14 +640,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079164491795673225"
  },
  {
-  "band": "NN",
-  "name": "Little Meme Little Tree",
-  "triggers": [
-   "little meme little tree"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079169476151456127"
- },
- {
   "band": "ALAN",
   "name": "Here Building Anyway",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "the well at the bend"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085702546337767667"
+ },
+ {
+  "band": "NN",
+  "name": "Little Meme Little Tree",
+  "triggers": [
+   "little meme little tree"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085717591247507575"
  }
 ]

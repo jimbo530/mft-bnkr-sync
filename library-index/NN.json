@@ -56,14 +56,6 @@
   "tag": "$NN"
  },
  {
-  "name": "Little Meme Little Tree",
-  "triggers": [
-   "little meme little tree"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079169476151456127",
-  "tag": "$NN"
- },
- {
   "name": "The Path to Personal Shows",
   "triggers": [
    "the path to personal shows"
@@ -213,6 +205,14 @@
    "it does it for you"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085677369050767741",
+  "tag": "$NN"
+ },
+ {
+  "name": "Little Meme Little Tree",
+  "triggers": [
+   "little meme little tree"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085717591247507575",
   "tag": "$NN"
  }
 ]
