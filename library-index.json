@@ -2249,14 +2249,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2081550171175788782"
  },
  {
-  "band": "MR",
-  "name": "Love Does the Growing",
-  "triggers": [
-   "love does the growing"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083095337040765227"
- },
- {
   "band": "DD",
   "name": "Kind Folk (In the Strangest Places)",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "the patient ones"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085818305206472978"
+ },
+ {
+  "band": "MR",
+  "name": "Love Does the Growing",
+  "triggers": [
+   "love does the growing"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085843458757976396"
  }
 ]

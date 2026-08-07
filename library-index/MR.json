@@ -166,14 +166,6 @@
   "tag": "$MR"
  },
  {
-  "name": "Love Does the Growing",
-  "triggers": [
-   "love does the growing"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083095337040765227",
-  "tag": "$MR"
- },
- {
   "name": "Coast to the Cabinet",
   "triggers": [
    "coast to the cabinet"
@@ -203,6 +195,14 @@
    "haul the harvest home"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085697478083387498",
+  "tag": "$MR"
+ },
+ {
+  "name": "Love Does the Growing",
+  "triggers": [
+   "love does the growing"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085843458757976396",
   "tag": "$MR"
  }
 ]
