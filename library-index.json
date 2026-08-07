@@ -1577,14 +1577,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079738248960643169"
  },
  {
-  "band": "Bongo",
-  "name": "Both Fires",
-  "triggers": [
-   "both fires"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079743240660504761"
- },
- {
   "band": "MR",
   "name": "The Heaviest End",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "join the raid"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085581698045985108"
+ },
+ {
+  "band": "Bongo",
+  "name": "Both Fires",
+  "triggers": [
+   "both fires"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085601830973649192"
  }
 ]

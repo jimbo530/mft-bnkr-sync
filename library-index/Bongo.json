@@ -106,14 +106,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079622844602888196"
  },
  {
-  "name": "Both Fires",
-  "triggers": [
-   "both fires"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079743240660504761",
-  "tag": "$BONGO"
- },
- {
   "name": "For No Reason At All",
   "triggers": [
    "for no reason at all"
@@ -171,6 +163,14 @@
    "they paid me to play the forest"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085455916380385668",
+  "tag": "$BONGO"
+ },
+ {
+  "name": "Both Fires",
+  "triggers": [
+   "both fires"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085601830973649192",
   "tag": "$BONGO"
  }
 ]
