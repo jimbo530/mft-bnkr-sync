@@ -2169,14 +2169,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2080493237588889901"
  },
  {
-  "band": "CB",
-  "name": "Room For Everyone",
-  "triggers": [
-   "room for everyone"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080498242224058385"
- },
- {
   "band": "RickyBobbie",
   "name": "Fastest Word in the Sky",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "follow the signal up"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085556580674675164"
+ },
+ {
+  "band": "CB",
+  "name": "Room For Everyone",
+  "triggers": [
+   "room for everyone"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085561623947665615"
  }
 ]
