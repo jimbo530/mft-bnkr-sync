@@ -443,14 +443,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079013448327835763"
  },
  {
-  "band": "NN",
-  "name": "It Does It for You",
-  "triggers": [
-   "it does it for you"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079018522370285916"
- },
- {
   "band": "ALAN",
   "name": "The First Coin Through the Flow",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "no gate"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085657231639400451"
+ },
+ {
+  "band": "NN",
+  "name": "It Does It for You",
+  "triggers": [
+   "it does it for you"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085677369050767741"
  }
 ]
