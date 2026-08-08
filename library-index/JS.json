@@ -1,13 +1,5 @@
 [
  {
-  "name": "Pull Up to the Space",
-  "triggers": [
-   "pull up to the space"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078671228730999031",
-  "tag": "$JS"
- },
- {
   "name": "Name Your Nobody",
   "triggers": [
    "name your nobody"
@@ -201,6 +193,14 @@
    "plate on the table"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085999486963163371",
+  "tag": "$JS"
+ },
+ {
+  "name": "Pull Up to the Space",
+  "triggers": [
+   "pull up to the space"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086019572541300968",
   "tag": "$JS"
  }
 ]

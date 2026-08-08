@@ -115,14 +115,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2078666201845141760"
  },
  {
-  "band": "JS",
-  "name": "Pull Up to the Space",
-  "triggers": [
-   "pull up to the space"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078671228730999031"
- },
- {
   "band": "EBM",
   "name": "Ten Years Deep",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "the realest magic"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086004467661496795"
+ },
+ {
+  "band": "JS",
+  "name": "Pull Up to the Space",
+  "triggers": [
+   "pull up to the space"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086019572541300968"
  }
 ]
