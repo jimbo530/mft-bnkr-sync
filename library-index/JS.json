@@ -125,14 +125,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079605077359178222"
  },
  {
-  "name": "Everybody Plants",
-  "triggers": [
-   "everybody plants"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079682880750395764",
-  "tag": "$JS"
- },
- {
   "name": "The Block Plants Oaks",
   "triggers": [
    "the block plants oaks"
@@ -201,6 +193,14 @@
    "pull up to the space"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086019572541300968",
+  "tag": "$JS"
+ },
+ {
+  "name": "Everybody Plants",
+  "triggers": [
+   "everybody plants"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086165571616358760",
   "tag": "$JS"
  }
 ]

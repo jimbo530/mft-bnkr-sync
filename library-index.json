@@ -1345,14 +1345,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079677816514179214"
  },
  {
-  "band": "JS",
-  "name": "Everybody Plants",
-  "triggers": [
-   "everybody plants"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079682880750395764"
- },
- {
   "band": "MR",
   "name": "Third of the Harvest",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "love builds the forest"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086145495206859129"
+ },
+ {
+  "band": "JS",
+  "name": "Everybody Plants",
+  "triggers": [
+   "everybody plants"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086165571616358760"
  }
 ]
