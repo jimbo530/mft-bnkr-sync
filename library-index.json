@@ -1409,14 +1409,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079738248960643169"
  },
  {
-  "band": "MR",
-  "name": "The Heaviest End",
-  "triggers": [
-   "the heaviest end"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079753353098113065"
- },
- {
   "band": "NN",
   "name": "The Lady Keeps the Leaves",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "a coin for the round"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086044745168543756"
+ },
+ {
+  "band": "MR",
+  "name": "The Heaviest End",
+  "triggers": [
+   "the heaviest end"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086090123641258117"
  }
 ]

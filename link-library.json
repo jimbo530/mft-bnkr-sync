@@ -2247,19 +2247,6 @@
     "caption": "\"The Love You Give\" — Rish\n\n$RISH 0x31c600871603bab5d855463E03c6d0a9eB661D26"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2079753353098113065",
-    "translation": "The Heaviest End",
-    "name": "The Heaviest End",
-    "triggers": [
-      "the heaviest end"
-    ],
-    "band": "MR",
-    "tag": "$MR",
-    "ca": "0x8d669b539C7801c1271BC484Bdd8a6084b7788e7",
-    "xPost": "https://x.com/MemeForTrees/status/2079753353098113065",
-    "caption": "\"The Heaviest End\" — Moon Rasta\n\n$MR 0x8d669b539C7801c1271BC484Bdd8a6084b7788e7"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2079758381938528629",
     "translation": "The Lady Keeps the Leaves",
     "name": "The Lady Keeps the Leaves",
@@ -4238,5 +4225,18 @@
     "ca": "0x31c600871603bab5d855463E03c6d0a9eB661D26",
     "xPost": "https://x.com/MemeForTrees/status/2086044745168543756",
     "caption": "\"A Coin for the Round\" — Rish\nturn it up for the trees\n\nsoon you’ll launch your own critter with a tweet 🌱 Monkey Town is warming up\n\n$RISH 0x31c600871603bab5d855463E03c6d0a9eB661D26"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2086090123641258117",
+    "translation": "The Heaviest End",
+    "name": "The Heaviest End",
+    "triggers": [
+      "the heaviest end"
+    ],
+    "band": "MR",
+    "tag": "$MR",
+    "ca": "0x8d669b539C7801c1271BC484Bdd8a6084b7788e7",
+    "xPost": "https://x.com/MemeForTrees/status/2086090123641258117",
+    "caption": "\"The Heaviest End\" — Moon Rasta\npress play, plant trees\n\ngrab a monkey, name him forever, feed him a banana a day — a Monkey Town wallet takes just an email:\nhttps://tasern.quest/monkeytown\n\n$MR 0x8d669b539C7801c1271BC484Bdd8a6084b7788e7"
   }
 ]

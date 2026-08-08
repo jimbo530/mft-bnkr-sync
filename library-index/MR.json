@@ -126,14 +126,6 @@
   "tag": "$MR"
  },
  {
-  "name": "The Heaviest End",
-  "triggers": [
-   "the heaviest end"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079753353098113065",
-  "tag": "$MR"
- },
- {
   "name": "Five Hundred Homes",
   "triggers": [
    "five hundred homes"
@@ -203,6 +195,14 @@
    "love does the growing"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085843458757976396",
+  "tag": "$MR"
+ },
+ {
+  "name": "The Heaviest End",
+  "triggers": [
+   "the heaviest end"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086090123641258117",
   "tag": "$MR"
  }
 ]
