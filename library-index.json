@@ -19,14 +19,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2078218260470706262"
  },
  {
-  "band": "Rish",
-  "name": "Hundred Hands",
-  "triggers": [
-   "hundred hands"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078598694442541106"
- },
- {
   "band": "EBM",
   "name": "Costs You Nothing",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "the heaviest end"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086090123641258117"
+ },
+ {
+  "band": "Rish",
+  "name": "Hundred Hands",
+  "triggers": [
+   "hundred hands"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086105177388433720"
  }
 ]

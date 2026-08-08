@@ -1,13 +1,5 @@
 [
  {
-  "name": "Hundred Hands",
-  "triggers": [
-   "hundred hands"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078598694442541106",
-  "tag": "$RISH"
- },
- {
   "name": "Plant It Brave",
   "triggers": [
    "plant it brave"
@@ -221,6 +213,14 @@
    "a coin for the round"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086044745168543756",
+  "tag": "$RISH"
+ },
+ {
+  "name": "Hundred Hands",
+  "triggers": [
+   "hundred hands"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086105177388433720",
   "tag": "$RISH"
  }
 ]
