@@ -56,14 +56,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Green It Up",
-  "triggers": [
-   "green it up"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080422741115605252",
-  "tag": "$MfT"
- },
- {
   "name": "It Keeps Itself Alive",
   "triggers": [
    "it keeps itself alive"
@@ -141,6 +133,14 @@
    "post laugh plant repeat"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085737751152926726",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Green It Up",
+  "triggers": [
+   "green it up"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085878703897080140",
   "tag": "$MfT"
  }
 ]

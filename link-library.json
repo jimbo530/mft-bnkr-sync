@@ -3121,19 +3121,6 @@
     "caption": "\"Green Candle Anthem\" — CB\n\nan agent for the whole fam, working around the clock\n\n$MfT"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2080422741115605252",
-    "translation": "Green It Up",
-    "name": "Green It Up",
-    "triggers": [
-      "green it up"
-    ],
-    "band": "CB",
-    "tag": "$MfT",
-    "ca": null,
-    "xPost": "https://x.com/MemeForTrees/status/2080422741115605252",
-    "caption": "\"Green It Up\" — CB\n\nan agent for the whole fam, working around the clock\n\n$MfT"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2080432801468354614",
     "translation": "It Keeps Itself Alive",
     "name": "It Keeps Itself Alive",
@@ -4238,5 +4225,18 @@
     "ca": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d",
     "xPost": "https://x.com/MemeForTrees/status/2085858566804541628",
     "caption": "\"No Hands\" — Elves of Ballinmoore\nturn it up for the trees\n\nthe band works for a dollar — your song, their voice:\nhttps://tasern.quest/songsmith.html\nor pay right here on X: tag @MonkyTownWallet, any library song for 2 gold or 2 bananas\n\n$EBM 0xF113fe2A0E1181A21fA97B1F52ff232140B7692d"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2085878703897080140",
+    "translation": "Green It Up",
+    "name": "Green It Up",
+    "triggers": [
+      "green it up"
+    ],
+    "band": "CB",
+    "tag": "$MfT",
+    "ca": null,
+    "xPost": "https://x.com/MemeForTrees/status/2085878703897080140",
+    "caption": "\"Green It Up\" — CB\nturn it up for the trees\n\nsoon you’ll launch your own critter with a tweet 🌱 Monkey Town is warming up\n\na meme for the whole fam, a tree for the whole world\n\n$MfT"
   }
 ]

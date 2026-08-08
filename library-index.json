@@ -1954,14 +1954,6 @@
  },
  {
   "band": "CB",
-  "name": "Green It Up",
-  "triggers": [
-   "green it up"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080422741115605252"
- },
- {
-  "band": "CB",
   "name": "It Keeps Itself Alive",
   "triggers": [
    "it keeps itself alive"
@@ -2645,5 +2637,13 @@
    "no hands"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085858566804541628"
+ },
+ {
+  "band": "CB",
+  "name": "Green It Up",
+  "triggers": [
+   "green it up"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085878703897080140"
  }
 ]
