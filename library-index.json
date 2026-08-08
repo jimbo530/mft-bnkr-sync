@@ -1497,14 +1497,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079859002565870051"
  },
  {
-  "band": "EBM",
-  "name": "Mutiny",
-  "triggers": [
-   "mutiny"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079864072728608932"
- },
- {
   "band": "DD",
   "name": "Every Road a Grove",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "new banner in the races"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086110205322973554"
+ },
+ {
+  "band": "EBM",
+  "name": "Mutiny",
+  "triggers": [
+   "mutiny"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086130383301615738"
  }
 ]
