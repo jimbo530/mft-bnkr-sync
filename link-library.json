@@ -2547,19 +2547,6 @@
     "caption": "\"The Beat Votes Tomorrow\" — Bongo\n\n$BONGO 0x85Dd5183D203CcE70b88234D31f075774AcCC453"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2079949645405417490",
-    "translation": "The Vault That Feeds",
-    "name": "The Vault That Feeds",
-    "triggers": [
-      "the vault that feeds"
-    ],
-    "band": "Myco",
-    "tag": "$MYCO",
-    "ca": "0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3",
-    "xPost": "https://x.com/MemeForTrees/status/2079949645405417490",
-    "caption": "\"- The Vault That Feeds\" — Myco\n\n$MYCO 0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2079953621907554522",
     "translation": "The Town of the Cats",
     "name": "The Town of the Cats",
@@ -4238,5 +4225,18 @@
     "ca": "0x7C596a0d594D670ffB256bBfbB5379fC8Cf7d62B",
     "xPost": "https://x.com/MemeForTrees/status/2085979345235902622",
     "caption": "\"Out of the Trees\" — Biggins Mcjammin\nlisten, like, and share to fund forests\n\nMonkey Town runs an Impact Token Launcher — critters like Green Bull and Shrooms trade so real trees get planted 🌱\n\n$BIGGINS 0x7C596a0d594D670ffB256bBfbB5379fC8Cf7d62B"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2085984398021710065",
+    "translation": "The Vault That Feeds",
+    "name": "The Vault That Feeds",
+    "triggers": [
+      "the vault that feeds"
+    ],
+    "band": "Myco",
+    "tag": "$MYCO",
+    "ca": "0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3",
+    "xPost": "https://x.com/MemeForTrees/status/2085984398021710065",
+    "caption": "\"- The Vault That Feeds\" — Myco\ndance to defend the earth\n\n$MYCO 0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3"
   }
 ]
