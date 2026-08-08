@@ -7,14 +7,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079604628786708673"
  },
  {
-  "name": "Fastest Word in the Sky",
-  "triggers": [
-   "fastest word in the sky"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080538491398553957",
-  "tag": "$RICKY"
- },
- {
   "name": "No Value But Songs We Sing",
   "triggers": [
    "no value but songs we sing"
@@ -52,6 +44,14 @@
    "she carries her own"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085476005095915719",
+  "tag": "$RICKY"
+ },
+ {
+  "name": "Fastest Word in the Sky",
+  "triggers": [
+   "fastest word in the sky"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086225976095019262",
   "tag": "$RICKY"
  }
 ]

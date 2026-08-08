@@ -1834,14 +1834,6 @@
  },
  {
   "band": "RickyBobbie",
-  "name": "Fastest Word in the Sky",
-  "triggers": [
-   "fastest word in the sky"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080538491398553957"
- },
- {
-  "band": "RickyBobbie",
   "name": "No Value But Songs We Sing",
   "triggers": [
    "no value but songs we sing"
@@ -2645,5 +2637,13 @@
    "still on the stoop"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086205839136735351"
+ },
+ {
+  "band": "RickyBobbie",
+  "name": "Fastest Word in the Sky",
+  "triggers": [
+   "fastest word in the sky"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086225976095019262"
  }
 ]
