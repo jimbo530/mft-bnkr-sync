@@ -76,14 +76,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079239633427218888"
  },
  {
-  "name": "All You Have To Do Is Dance",
-  "triggers": [
-   "all you have to do is dance"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079300335059771623",
-  "tag": "$BONGO"
- },
- {
   "name": "What's Over There On Base",
   "triggers": [
    "what's over there on base"
@@ -171,6 +163,14 @@
    "both fires"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085601830973649192",
+  "tag": "$BONGO"
+ },
+ {
+  "name": "All You Have To Do Is Dance",
+  "triggers": [
+   "all you have to do is dance"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085923987574358019",
   "tag": "$BONGO"
  }
 ]

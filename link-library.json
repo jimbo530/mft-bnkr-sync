@@ -1484,19 +1484,6 @@
     "caption": "\"Every Ovation a Tree\" — Natilie Nightclub\n\n$NN 0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2079300335059771623",
-    "translation": "All You Have To Do Is Dance",
-    "name": "All You Have To Do Is Dance",
-    "triggers": [
-      "all you have to do is dance"
-    ],
-    "band": "Bongo",
-    "tag": "$BONGO",
-    "ca": "0x85Dd5183D203CcE70b88234D31f075774AcCC453",
-    "xPost": "https://x.com/MemeForTrees/status/2079300335059771623",
-    "caption": "\"All You Have To Do Is Dance\" — Bongo\n\n$BONGO 0x85Dd5183D203CcE70b88234D31f075774AcCC453"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2079303270204383633",
     "translation": "The Grind Holds",
     "name": "The Grind Holds",
@@ -4238,5 +4225,18 @@
     "ca": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d",
     "xPost": "https://x.com/MemeForTrees/status/2085918949321941453",
     "caption": "\"The Prompt Heard\" — Elves of Ballinmoore\nturn it up for the trees\n\nthe band works for a dollar — your song, their voice:\nhttps://tasern.quest/songsmith.html\nor pay right here on X: tag @MonkyTownWallet, any library song for 2 gold or 2 bananas\n\n$EBM 0xF113fe2A0E1181A21fA97B1F52ff232140B7692d"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2085923987574358019",
+    "translation": "All You Have To Do Is Dance",
+    "name": "All You Have To Do Is Dance",
+    "triggers": [
+      "all you have to do is dance"
+    ],
+    "band": "Bongo",
+    "tag": "$BONGO",
+    "ca": "0x85Dd5183D203CcE70b88234D31f075774AcCC453",
+    "xPost": "https://x.com/MemeForTrees/status/2085923987574358019",
+    "caption": "\"All You Have To Do Is Dance\" — Bongo\nturn it up for the trees\n\nsoon you’ll launch your own critter with a tweet 🌱 Monkey Town is warming up\n\n$BONGO 0x85Dd5183D203CcE70b88234D31f075774AcCC453"
   }
 ]

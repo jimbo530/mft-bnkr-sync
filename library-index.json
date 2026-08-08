@@ -946,14 +946,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079290264728793223"
  },
  {
-  "band": "Bongo",
-  "name": "All You Have To Do Is Dance",
-  "triggers": [
-   "all you have to do is dance"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079300335059771623"
- },
- {
   "band": "HammerTone",
   "name": "The Grind Holds",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "the prompt heard"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085918949321941453"
+ },
+ {
+  "band": "Bongo",
+  "name": "All You Have To Do Is Dance",
+  "triggers": [
+   "all you have to do is dance"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085923987574358019"
  }
 ]
