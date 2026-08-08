@@ -156,14 +156,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079968651311010115"
  },
  {
-  "name": "Plate on the Table",
-  "triggers": [
-   "plate on the table"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080080481744232456",
-  "tag": "$JS"
- },
- {
   "name": "Streets to Roots",
   "triggers": [
    "streets to roots"
@@ -201,6 +193,14 @@
    "tally at the muster"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085798182257140160",
+  "tag": "$JS"
+ },
+ {
+  "name": "Plate on the Table",
+  "triggers": [
+   "plate on the table"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085999486963163371",
   "tag": "$JS"
  }
 ]

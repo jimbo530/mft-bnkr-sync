@@ -1755,14 +1755,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2080070423971008695"
  },
  {
-  "band": "JS",
-  "name": "Plate on the Table",
-  "triggers": [
-   "plate on the table"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080080481744232456"
- },
- {
   "band": "DGT",
   "name": "Just Got Out",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "the vault that feeds"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085984398021710065"
+ },
+ {
+  "band": "JS",
+  "name": "Plate on the Table",
+  "triggers": [
+   "plate on the table"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085999486963163371"
  }
 ]
