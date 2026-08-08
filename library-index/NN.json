@@ -113,14 +113,6 @@
   "tag": "$NN"
  },
  {
-  "name": "Keep Your Purse",
-  "triggers": [
-   "keep your purse"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079526858341699860",
-  "tag": "$NN"
- },
- {
   "name": "Bad for Business",
   "triggers": [
    "bad for business"
@@ -213,6 +205,14 @@
    "little meme little tree"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085717591247507575",
+  "tag": "$NN"
+ },
+ {
+  "name": "Keep Your Purse",
+  "triggers": [
+   "keep your purse"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085898779476082757",
   "tag": "$NN"
  }
 ]

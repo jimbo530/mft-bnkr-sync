@@ -1230,14 +1230,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079511765981794372"
  },
  {
-  "band": "NN",
-  "name": "Keep Your Purse",
-  "triggers": [
-   "keep your purse"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079526858341699860"
- },
- {
   "band": "Rish",
   "name": "Bread and Water",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "green it up"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085878703897080140"
+ },
+ {
+  "band": "NN",
+  "name": "Keep Your Purse",
+  "triggers": [
+   "keep your purse"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085898779476082757"
  }
 ]
