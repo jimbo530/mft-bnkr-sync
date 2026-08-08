@@ -149,14 +149,6 @@
   "tag": "$MYCO"
  },
  {
-  "name": "New Soil",
-  "triggers": [
-   "new soil"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079894282689823201",
-  "tag": "$MYCO"
- },
- {
   "name": "The Vault That Feeds",
   "triggers": [
    "the vault that feeds"
@@ -228,6 +220,14 @@
    "already connected"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085762925747228851",
+  "tag": "$MYCO"
+ },
+ {
+  "name": "New Soil",
+  "triggers": [
+   "new soil"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085903858455159228",
   "tag": "$MYCO"
  }
 ]

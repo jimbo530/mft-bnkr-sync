@@ -1593,14 +1593,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079874146129907978"
  },
  {
-  "band": "Myco",
-  "name": "New Soil",
-  "triggers": [
-   "new soil"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079894282689823201"
- },
- {
   "band": "EBM",
   "name": "They Came to Us",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "keep your purse"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085898779476082757"
+ },
+ {
+  "band": "Myco",
+  "name": "New Soil",
+  "triggers": [
+   "new soil"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085903858455159228"
  }
 ]
