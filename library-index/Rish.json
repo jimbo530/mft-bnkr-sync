@@ -79,14 +79,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079252656258797778"
  },
  {
-  "name": "Round Up the Good Ones",
-  "triggers": [
-   "round up the good ones"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079315478757961955",
-  "tag": "$RISH"
- },
- {
   "name": "The Warden's Round",
   "triggers": [
    "the warden's round"
@@ -221,6 +213,14 @@
    "the kindest well"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085616930602225721",
+  "tag": "$RISH"
+ },
+ {
+  "name": "Round Up the Good Ones",
+  "triggers": [
+   "round up the good ones"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085944124369248617",
   "tag": "$RISH"
  }
 ]
