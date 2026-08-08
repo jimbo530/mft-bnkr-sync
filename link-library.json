@@ -2130,19 +2130,6 @@
     "boothCommission": "sg_mruxqhswbi"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2079632560028582020",
-    "translation": "Rain Is the Reason",
-    "name": "Rain Is the Reason",
-    "triggers": [
-      "rain is the reason"
-    ],
-    "band": "Myco",
-    "tag": "$MYCO",
-    "ca": "0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3",
-    "xPost": "https://x.com/MemeForTrees/status/2079632560028582020",
-    "caption": "\"- Rain Is the Reason\" — Myco\n\n$MYCO 0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2079637592979526082",
     "translation": "The Hearth That Tends Itself",
     "name": "The Hearth That Tends Itself",
@@ -4238,5 +4225,18 @@
     "ca": "0x31c600871603bab5d855463E03c6d0a9eB661D26",
     "xPost": "https://x.com/MemeForTrees/status/2085944124369248617",
     "caption": "\"Round Up the Good Ones\" — Rish\nturn it up for the trees\n\nthe band works for a dollar — your song, their voice:\nhttps://tasern.quest/songsmith.html\nor pay right here on X: tag @MonkyTownWallet, any library song for 2 gold or 2 bananas\n\n$RISH 0x31c600871603bab5d855463E03c6d0a9eB661D26"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2085964217077604738",
+    "translation": "Rain Is the Reason",
+    "name": "Rain Is the Reason",
+    "triggers": [
+      "rain is the reason"
+    ],
+    "band": "Myco",
+    "tag": "$MYCO",
+    "ca": "0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3",
+    "xPost": "https://x.com/MemeForTrees/status/2085964217077604738",
+    "caption": "\"- Rain Is the Reason\" — Myco\ngood tunes, real forests\n\n$MYCO 0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3"
   }
 ]

@@ -1337,14 +1337,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079622844602888196"
  },
  {
-  "band": "Myco",
-  "name": "Rain Is the Reason",
-  "triggers": [
-   "rain is the reason"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079632560028582020"
- },
- {
   "band": "Rish",
   "name": "The Hearth That Tends Itself",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "round up the good ones"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085944124369248617"
+ },
+ {
+  "band": "Myco",
+  "name": "Rain Is the Reason",
+  "triggers": [
+   "rain is the reason"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085964217077604738"
  }
 ]
