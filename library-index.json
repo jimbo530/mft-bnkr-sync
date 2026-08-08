@@ -1465,14 +1465,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079843908800958583"
  },
  {
-  "band": "Myco",
-  "name": "Everything Came Up",
-  "triggers": [
-   "everything came up"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079848945614725610"
- },
- {
   "band": "EBM",
   "name": "Clean the Block",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "exact change"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086170683407556618"
+ },
+ {
+  "band": "Myco",
+  "name": "Everything Came Up",
+  "triggers": [
+   "everything came up"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086190749524111773"
  }
 ]
