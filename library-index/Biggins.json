@@ -24,14 +24,6 @@
   "tag": "$BIGGINS"
  },
  {
-  "name": "Out of the Trees",
-  "triggers": [
-   "out of the trees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080699595168915557",
-  "tag": "$BIGGINS"
- },
- {
   "name": "Shout It and It's Live",
   "triggers": [
    "shout it and it's live"
@@ -45,6 +37,14 @@
    "the roots hold it up"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080729751493238829",
+  "tag": "$BIGGINS"
+ },
+ {
+  "name": "Out of the Trees",
+  "triggers": [
+   "out of the trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085979345235902622",
   "tag": "$BIGGINS"
  }
 ]
