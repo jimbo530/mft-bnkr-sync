@@ -979,14 +979,6 @@
  },
  {
   "band": "JS",
-  "name": "Still on the Stoop",
-  "triggers": [
-   "still on the stoop"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079350670482620653"
- },
- {
-  "band": "JS",
   "name": "Money That Feeds",
   "triggers": [
    "money that feeds"
@@ -2645,5 +2637,13 @@
    "everything came up"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086190749524111773"
+ },
+ {
+  "band": "JS",
+  "name": "Still on the Stoop",
+  "triggers": [
+   "still on the stoop"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086205839136735351"
  }
 ]

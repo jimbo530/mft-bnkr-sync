@@ -78,14 +78,6 @@
   "tag": "$JS"
  },
  {
-  "name": "Still on the Stoop",
-  "triggers": [
-   "still on the stoop"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079350670482620653",
-  "tag": "$JS"
- },
- {
   "name": "Money That Feeds",
   "triggers": [
    "money that feeds"
@@ -201,6 +193,14 @@
    "everybody plants"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086165571616358760",
+  "tag": "$JS"
+ },
+ {
+  "name": "Still on the Stoop",
+  "triggers": [
+   "still on the stoop"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086205839136735351",
   "tag": "$JS"
  }
 ]
