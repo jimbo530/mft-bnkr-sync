@@ -161,14 +161,6 @@
   "tag": "$EBM"
  },
  {
-  "name": "New Banner in the Races",
-  "triggers": [
-   "new banner in the races"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079572114848276581",
-  "tag": "$EBM"
- },
- {
   "name": "Clean the Block",
   "triggers": [
    "clean the block"
@@ -302,6 +294,14 @@
    "the realest magic"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086004467661496795",
+  "tag": "$EBM"
+ },
+ {
+  "name": "New Banner in the Races",
+  "triggers": [
+   "new banner in the races"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086110205322973554",
   "tag": "$EBM"
  }
 ]

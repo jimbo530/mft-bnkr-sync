@@ -1941,19 +1941,6 @@
     "boothCommission": "sg_mrupv1yu6s"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2079572114848276581",
-    "translation": "New Banner in the Races",
-    "name": "New Banner in the Races",
-    "triggers": [
-      "new banner in the races"
-    ],
-    "band": "EBM",
-    "tag": "$EBM",
-    "ca": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d",
-    "xPost": "https://x.com/MemeForTrees/status/2079572114848276581",
-    "caption": "\"New Banner in the Races\" — Elves of Ballinmoore\n\n$EBM 0xF113fe2A0E1181A21fA97B1F52ff232140B7692d"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2079577214123700432",
     "translation": "Love Is the Light",
     "name": "Love Is the Light",
@@ -4238,5 +4225,18 @@
     "ca": "0x31c600871603bab5d855463E03c6d0a9eB661D26",
     "xPost": "https://x.com/MemeForTrees/status/2086105177388433720",
     "caption": "\"Hundred Hands\" — Rish\nturn it up for the trees\n\nsoon you’ll launch your own critter with a tweet 🌱 Monkey Town is warming up\n\n$RISH 0x31c600871603bab5d855463E03c6d0a9eB661D26"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2086110205322973554",
+    "translation": "New Banner in the Races",
+    "name": "New Banner in the Races",
+    "triggers": [
+      "new banner in the races"
+    ],
+    "band": "EBM",
+    "tag": "$EBM",
+    "ca": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d",
+    "xPost": "https://x.com/MemeForTrees/status/2086110205322973554",
+    "caption": "\"New Banner in the Races\" — Elves of Ballinmoore\ngood tunes, real forests\n\n$EBM 0xF113fe2A0E1181A21fA97B1F52ff232140B7692d"
   }
 ]

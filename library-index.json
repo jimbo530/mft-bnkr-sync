@@ -1222,14 +1222,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079568304016900141"
  },
  {
-  "band": "EBM",
-  "name": "New Banner in the Races",
-  "triggers": [
-   "new banner in the races"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079572114848276581"
- },
- {
   "band": "Myco",
   "name": "Love Is the Light",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "hundred hands"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086105177388433720"
+ },
+ {
+  "band": "EBM",
+  "name": "New Banner in the Races",
+  "triggers": [
+   "new banner in the races"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086110205322973554"
  }
 ]
