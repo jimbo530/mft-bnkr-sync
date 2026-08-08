@@ -96,14 +96,6 @@
   "tag": "$DGT"
  },
  {
-  "name": "Exact Change",
-  "triggers": [
-   "exact change"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079833902751920229",
-  "tag": "$DGT"
- },
- {
   "name": "Lucky To Be Here",
   "triggers": [
    "lucky to be here"
@@ -144,6 +136,14 @@
    "a damned good time"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085536476754829515",
+  "tag": "$DGT"
+ },
+ {
+  "name": "Exact Change",
+  "triggers": [
+   "exact change"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086170683407556618",
   "tag": "$DGT"
  }
 ]

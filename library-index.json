@@ -1457,14 +1457,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079828809482649687"
  },
  {
-  "band": "DGT",
-  "name": "Exact Change",
-  "triggers": [
-   "exact change"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079833902751920229"
- },
- {
   "band": "Myco",
   "name": "Roots That Hold",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "everybody plants"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086165571616358760"
+ },
+ {
+  "band": "DGT",
+  "name": "Exact Change",
+  "triggers": [
+   "exact change"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086170683407556618"
  }
 ]

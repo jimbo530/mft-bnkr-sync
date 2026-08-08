@@ -2326,19 +2326,6 @@
     "caption": "\"Neighbors Now\" — Natilie Nightclub\n\n$NN 0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2079833902751920229",
-    "translation": "Exact Change",
-    "name": "Exact Change",
-    "triggers": [
-      "exact change"
-    ],
-    "band": "DGT",
-    "tag": "$DGT",
-    "ca": "0x52414B7cD2FA723E1c8f9295EB29F16d15aA7BB9",
-    "xPost": "https://x.com/MemeForTrees/status/2079833902751920229",
-    "caption": "\"Exact Change\" — Damned Good Time Orchestra\n\n$DGT 0x52414B7cD2FA723E1c8f9295EB29F16d15aA7BB9"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2079843908800958583",
     "translation": "Roots That Hold",
     "name": "Roots That Hold",
@@ -4238,5 +4225,18 @@
     "ca": "0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65",
     "xPost": "https://x.com/MemeForTrees/status/2086165571616358760",
     "caption": "\"Everybody Plants\" — Jony Sings\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2086170683407556618",
+    "translation": "Exact Change",
+    "name": "Exact Change",
+    "triggers": [
+      "exact change"
+    ],
+    "band": "DGT",
+    "tag": "$DGT",
+    "ca": "0x52414B7cD2FA723E1c8f9295EB29F16d15aA7BB9",
+    "xPost": "https://x.com/MemeForTrees/status/2086170683407556618",
+    "caption": "\"Exact Change\" — Damned Good Time Orchestra\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
