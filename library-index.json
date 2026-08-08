@@ -1214,14 +1214,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079531852671385691"
  },
  {
-  "band": "EBM",
-  "name": "The Realest Magic",
-  "triggers": [
-   "the realest magic"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079541913057656994"
- },
- {
   "band": "NN",
   "name": "Bad for Business",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "plate on the table"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085999486963163371"
+ },
+ {
+  "band": "EBM",
+  "name": "The Realest Magic",
+  "triggers": [
+   "the realest magic"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086004467661496795"
  }
 ]
