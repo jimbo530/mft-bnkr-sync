@@ -2065,14 +2065,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2080639160403038219"
  },
  {
-  "band": "WarMachine",
-  "name": "Two War-Grounds",
-  "triggers": [
-   "two war-grounds"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080669400227524991"
- },
- {
   "band": "Biggins",
   "name": "Chat It Into Being",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "all you have to do is dance"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085923987574358019"
+ },
+ {
+  "band": "WarMachine",
+  "name": "Two War-Grounds",
+  "triggers": [
+   "two war-grounds"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085939087924498538"
  }
 ]

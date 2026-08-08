@@ -3303,19 +3303,6 @@
     "caption": "\"It Does Our Bidding\" — War Machine\n\n$MfT"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2080669400227524991",
-    "translation": "Two War-Grounds",
-    "name": "Two War-Grounds",
-    "triggers": [
-      "two war-grounds"
-    ],
-    "band": "WarMachine",
-    "tag": "$WM",
-    "ca": "0x6f45F5cE7027745b1Ab11D5493F187960D00FCfc",
-    "xPost": "https://x.com/MemeForTrees/status/2080669400227524991",
-    "caption": "\"Two War-Grounds\" — War Machine\n\n$MfT"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2080679418389807242",
     "translation": "Chat It Into Being",
     "name": "Chat It Into Being",
@@ -4238,5 +4225,18 @@
     "ca": "0x85Dd5183D203CcE70b88234D31f075774AcCC453",
     "xPost": "https://x.com/MemeForTrees/status/2085923987574358019",
     "caption": "\"All You Have To Do Is Dance\" — Bongo\nturn it up for the trees\n\nsoon you’ll launch your own critter with a tweet 🌱 Monkey Town is warming up\n\n$BONGO 0x85Dd5183D203CcE70b88234D31f075774AcCC453"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2085939087924498538",
+    "translation": "Two War-Grounds",
+    "name": "Two War-Grounds",
+    "triggers": [
+      "two war-grounds"
+    ],
+    "band": "WarMachine",
+    "tag": "$WM",
+    "ca": "0x6f45F5cE7027745b1Ab11D5493F187960D00FCfc",
+    "xPost": "https://x.com/MemeForTrees/status/2085939087924498538",
+    "caption": "\"Two War-Grounds\" — War Machine\nturn it up for the trees\n\nsoon you’ll launch your own critter with a tweet 🌱 Monkey Town is warming up\n\n$WM 0x6f45F5cE7027745b1Ab11D5493F187960D00FCfc"
   }
 ]
