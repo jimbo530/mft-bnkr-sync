@@ -48,14 +48,6 @@
   "tag": "$EBM"
  },
  {
-  "name": "The Prompt Heard",
-  "triggers": [
-   "the prompt heard"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078807118832890188",
-  "tag": "$EBM"
- },
- {
   "name": "Plain Language Door",
   "triggers": [
    "plain language door"
@@ -302,6 +294,14 @@
    "no hands"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085858566804541628",
+  "tag": "$EBM"
+ },
+ {
+  "name": "The Prompt Heard",
+  "triggers": [
+   "the prompt heard"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085918949321941453",
   "tag": "$EBM"
  }
 ]

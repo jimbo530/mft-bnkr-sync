@@ -227,14 +227,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2078787009510805598"
  },
  {
-  "band": "EBM",
-  "name": "The Prompt Heard",
-  "triggers": [
-   "the prompt heard"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078807118832890188"
- },
- {
   "band": "MR",
   "name": "First Everybody Builds",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "new soil"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085903858455159228"
+ },
+ {
+  "band": "EBM",
+  "name": "The Prompt Heard",
+  "triggers": [
+   "the prompt heard"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085918949321941453"
  }
 ]
