@@ -1369,14 +1369,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079682880750395764"
  },
  {
-  "band": "Rish",
-  "name": "A Coin for the Round",
-  "triggers": [
-   "a coin for the round"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079697947202142375"
- },
- {
   "band": "MR",
   "name": "Third of the Harvest",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "pull up to the space"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086019572541300968"
+ },
+ {
+  "band": "Rish",
+  "name": "A Coin for the Round",
+  "triggers": [
+   "a coin for the round"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086044745168543756"
  }
 ]

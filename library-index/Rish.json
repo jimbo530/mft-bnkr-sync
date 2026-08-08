@@ -127,14 +127,6 @@
   "tag": "$RISH"
  },
  {
-  "name": "A Coin for the Round",
-  "triggers": [
-   "a coin for the round"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079697947202142375",
-  "tag": "$RISH"
- },
- {
   "name": "The First Loaf",
   "triggers": [
    "the first loaf"
@@ -221,6 +213,14 @@
    "round up the good ones"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085944124369248617",
+  "tag": "$RISH"
+ },
+ {
+  "name": "A Coin for the Round",
+  "triggers": [
+   "a coin for the round"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086044745168543756",
   "tag": "$RISH"
  }
 ]
