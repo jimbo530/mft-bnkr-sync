@@ -1483,14 +1483,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2080020125759983709"
  },
  {
-  "band": "Jasmine",
-  "name": "Warmth of the Dwarven Hearth",
-  "triggers": [
-   "warmth of the dwarven hearth"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080025116503650310"
- },
- {
   "band": "DGT",
   "name": "We Built the Furnace Ourselves",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "water is life"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086492832085283063"
+ },
+ {
+  "band": "Jasmine",
+  "name": "Warmth of the Dwarven Hearth",
+  "triggers": [
+   "warmth of the dwarven hearth"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086507947761271242"
  }
 ]
