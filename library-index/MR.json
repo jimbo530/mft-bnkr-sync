@@ -126,14 +126,6 @@
   "tag": "$MR"
  },
  {
-  "name": "Five Hundred Homes",
-  "triggers": [
-   "five hundred homes"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080095578256466406",
-  "tag": "$MR"
- },
- {
   "name": "Feed the Village",
   "triggers": [
    "feed the village"
@@ -203,6 +195,14 @@
    "the heaviest end"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086090123641258117",
+  "tag": "$MR"
+ },
+ {
+  "name": "Five Hundred Homes",
+  "triggers": [
+   "five hundred homes"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086457563877437482",
   "tag": "$MR"
  }
 ]

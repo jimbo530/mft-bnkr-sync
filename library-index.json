@@ -1563,14 +1563,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2080085574723981811"
  },
  {
-  "band": "MR",
-  "name": "Five Hundred Homes",
-  "triggers": [
-   "five hundred homes"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080095578256466406"
- },
- {
   "band": "Bongo",
   "name": "The Hungry Drum",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "the deep foundation"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086442516652380589"
+ },
+ {
+  "band": "MR",
+  "name": "Five Hundred Homes",
+  "triggers": [
+   "five hundred homes"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086457563877437482"
  }
 ]
