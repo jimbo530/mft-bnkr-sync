@@ -946,14 +946,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079330593632813478"
  },
  {
-  "band": "DD",
-  "name": "The Giving Floor",
-  "triggers": [
-   "the giving floor"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079335606983729635"
- },
- {
   "band": "WarMachine",
   "name": "The Hordes Keep Coming",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "raid for the children"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086266270228377664"
+ },
+ {
+  "band": "DD",
+  "name": "The Giving Floor",
+  "triggers": [
+   "the giving floor"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086291409603047652"
  }
 ]

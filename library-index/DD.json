@@ -109,14 +109,6 @@
   "tag": "$DD"
  },
  {
-  "name": "The Giving Floor",
-  "triggers": [
-   "the giving floor"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079335606983729635",
-  "tag": "$DD"
- },
- {
   "name": "Water to the Village",
   "triggers": [
    "water to the village"
@@ -243,6 +235,14 @@
    "dancefloor grows a forest"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085757910496190887",
+  "tag": "$DD"
+ },
+ {
+  "name": "The Giving Floor",
+  "triggers": [
+   "the giving floor"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086291409603047652",
   "tag": "$DD"
  }
 ]
