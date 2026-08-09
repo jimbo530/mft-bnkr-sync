@@ -1393,14 +1393,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079813714258141486"
  },
  {
-  "band": "Bongo",
-  "name": "The Coconut Takes Requests",
-  "triggers": [
-   "the coconut takes requests"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079818734621896773"
- },
- {
   "band": "NN",
   "name": "Neighbors Now",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "eight inbound"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086351807110909988"
+ },
+ {
+  "band": "Bongo",
+  "name": "The Coconut Takes Requests",
+  "triggers": [
+   "the coconut takes requests"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086366936259076605"
  }
 ]

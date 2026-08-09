@@ -106,14 +106,6 @@
   "tag": "$BONGO"
  },
  {
-  "name": "The Coconut Takes Requests",
-  "triggers": [
-   "the coconut takes requests"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079818734621896773",
-  "tag": "$BONGO"
- },
- {
   "name": "The Beat Votes Tomorrow",
   "triggers": [
    "the beat votes tomorrow"
@@ -171,6 +163,14 @@
    "all you have to do is dance"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085923987574358019",
+  "tag": "$BONGO"
+ },
+ {
+  "name": "The Coconut Takes Requests",
+  "triggers": [
+   "the coconut takes requests"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086366936259076605",
   "tag": "$BONGO"
  }
 ]
