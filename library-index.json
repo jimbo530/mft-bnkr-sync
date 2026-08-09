@@ -842,14 +842,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079270174599860649"
  },
  {
-  "band": "EBM",
-  "name": "Canopy Law",
-  "triggers": [
-   "canopy law"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079285271682568574"
- },
- {
   "band": "HammerTone",
   "name": "The Grind Holds",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "warmth of the dwarven hearth"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086507947761271242"
+ },
+ {
+  "band": "EBM",
+  "name": "Canopy Law",
+  "triggers": [
+   "canopy law"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086512964023021970"
  }
 ]

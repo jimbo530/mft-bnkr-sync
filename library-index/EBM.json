@@ -121,14 +121,6 @@
   "tag": "$EBM"
  },
  {
-  "name": "Canopy Law",
-  "triggers": [
-   "canopy law"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079285271682568574",
-  "tag": "$EBM"
- },
- {
   "name": "The First Joke",
   "triggers": [
    "the first joke"
@@ -302,6 +294,14 @@
    "raid for the children"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086266270228377664",
+  "tag": "$EBM"
+ },
+ {
+  "name": "Canopy Law",
+  "triggers": [
+   "canopy law"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086512964023021970",
   "tag": "$EBM"
  }
 ]

@@ -1315,19 +1315,6 @@
     "caption": "\"Eight Banners Moving\" — Elves of Ballinmoore\n\n$EBM 0xF113fe2A0E1181A21fA97B1F52ff232140B7692d"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2079285271682568574",
-    "translation": "Canopy Law",
-    "name": "Canopy Law",
-    "triggers": [
-      "canopy law"
-    ],
-    "band": "EBM",
-    "tag": "$EBM",
-    "ca": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d",
-    "xPost": "https://x.com/MemeForTrees/status/2079285271682568574",
-    "caption": "\"Canopy Law\" — Elves of Ballinmoore\n\n$EBM 0xF113fe2A0E1181A21fA97B1F52ff232140B7692d"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2079303270204383633",
     "translation": "The Grind Holds",
     "name": "The Grind Holds",
@@ -4238,5 +4225,18 @@
     "ca": "0x3a952eFa41501c0463Cf8Af9f821f8F549f47Edf",
     "xPost": "https://x.com/MemeForTrees/status/2086507947761271242",
     "caption": "\"Warmth of the Dwarven Hearth\" — Jasmine\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2086512964023021970",
+    "translation": "Canopy Law",
+    "name": "Canopy Law",
+    "triggers": [
+      "canopy law"
+    ],
+    "band": "EBM",
+    "tag": "$EBM",
+    "ca": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d",
+    "xPost": "https://x.com/MemeForTrees/status/2086512964023021970",
+    "caption": "\"Canopy Law\" — Elves of Ballinmoore\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
