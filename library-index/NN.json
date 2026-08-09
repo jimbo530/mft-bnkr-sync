@@ -128,14 +128,6 @@
   "tag": "$NN"
  },
  {
-  "name": "Neighbors Now",
-  "triggers": [
-   "neighbors now"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079828809482649687",
-  "tag": "$NN"
- },
- {
   "name": "Toast to the Trees",
   "triggers": [
    "toast to the trees"
@@ -213,6 +205,14 @@
    "last call is a lie"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086467685735420358",
+  "tag": "$NN"
+ },
+ {
+  "name": "Neighbors Now",
+  "triggers": [
+   "neighbors now"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086573328651747689",
   "tag": "$NN"
  }
 ]

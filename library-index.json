@@ -1273,14 +1273,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079813714258141486"
  },
  {
-  "band": "NN",
-  "name": "Neighbors Now",
-  "triggers": [
-   "neighbors now"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079828809482649687"
- },
- {
   "band": "Myco",
   "name": "Roots That Hold",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "the ground we stand on"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086553192196674001"
+ },
+ {
+  "band": "NN",
+  "name": "Neighbors Now",
+  "triggers": [
+   "neighbors now"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086573328651747689"
  }
 ]
