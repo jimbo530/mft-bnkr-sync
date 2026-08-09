@@ -115,14 +115,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2078696356118491241"
  },
  {
-  "band": "EBM",
-  "name": "Raid for the Children",
-  "triggers": [
-   "raid for the children"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078701425236885826"
- },
- {
   "band": "Myco",
   "name": "What Had To Rot",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "the garden watch"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086246100336292347"
+ },
+ {
+  "band": "EBM",
+  "name": "Raid for the Children",
+  "triggers": [
+   "raid for the children"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086266270228377664"
  }
 ]

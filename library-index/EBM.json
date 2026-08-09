@@ -16,14 +16,6 @@
   "tag": "$EBM"
  },
  {
-  "name": "Raid for the Children",
-  "triggers": [
-   "raid for the children"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078701425236885826",
-  "tag": "$EBM"
- },
- {
   "name": "Feed The People",
   "triggers": [
    "feed the people"
@@ -302,6 +294,14 @@
    "the garden watch"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086246100336292347",
+  "tag": "$EBM"
+ },
+ {
+  "name": "Raid for the Children",
+  "triggers": [
+   "raid for the children"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086266270228377664",
   "tag": "$EBM"
  }
 ]
