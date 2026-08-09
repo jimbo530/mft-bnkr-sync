@@ -98,14 +98,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079622844602888196"
  },
  {
-  "name": "For No Reason At All",
-  "triggers": [
-   "for no reason at all"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079768411605712932",
-  "tag": "$BONGO"
- },
- {
   "name": "The Beat Votes Tomorrow",
   "triggers": [
    "the beat votes tomorrow"
@@ -171,6 +163,14 @@
    "the coconut takes requests"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086366936259076605",
+  "tag": "$BONGO"
+ },
+ {
+  "name": "For No Reason At All",
+  "triggers": [
+   "for no reason at all"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086588479723495735",
   "tag": "$BONGO"
  }
 ]
