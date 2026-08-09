@@ -24,14 +24,6 @@
   "tag": "$NN"
  },
  {
-  "name": "Just Ask Darling",
-  "triggers": [
-   "just ask darling"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078847389117432209",
-  "tag": "$NN"
- },
- {
   "name": "It Came With Its Own",
   "triggers": [
    "it came with its own"
@@ -213,6 +205,14 @@
    "keep your purse"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085898779476082757",
+  "tag": "$NN"
+ },
+ {
+  "name": "Just Ask Darling",
+  "triggers": [
+   "just ask darling"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086306495541444916",
   "tag": "$NN"
  }
 ]

@@ -211,14 +211,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2078837322280263841"
  },
  {
-  "band": "NN",
-  "name": "Just Ask Darling",
-  "triggers": [
-   "just ask darling"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078847389117432209"
- },
- {
   "band": "DGT",
   "name": "One More Round On the Chain",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "the giving floor"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086291409603047652"
+ },
+ {
+  "band": "NN",
+  "name": "Just Ask Darling",
+  "triggers": [
+   "just ask darling"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086306495541444916"
  }
 ]
