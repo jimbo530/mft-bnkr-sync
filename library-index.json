@@ -874,14 +874,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079285271682568574"
  },
  {
-  "band": "NN",
-  "name": "Every Ovation a Tree",
-  "triggers": [
-   "every ovation a tree"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079290264728793223"
- },
- {
   "band": "HammerTone",
   "name": "The Grind Holds",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "the mending"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086407161844810032"
+ },
+ {
+  "band": "NN",
+  "name": "Every Ovation a Tree",
+  "triggers": [
+   "every ovation a tree"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086417340279804317"
  }
 ]

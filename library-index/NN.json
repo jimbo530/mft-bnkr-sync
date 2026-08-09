@@ -89,14 +89,6 @@
   ]
  },
  {
-  "name": "Every Ovation a Tree",
-  "triggers": [
-   "every ovation a tree"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079290264728793223",
-  "tag": "$NN"
- },
- {
   "name": "Last Call Is a Lie",
   "triggers": [
    "last call is a lie"
@@ -213,6 +205,14 @@
    "just ask darling"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086306495541444916",
+  "tag": "$NN"
+ },
+ {
+  "name": "Every Ovation a Tree",
+  "triggers": [
+   "every ovation a tree"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086417340279804317",
   "tag": "$NN"
  }
 ]
