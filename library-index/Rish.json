@@ -56,14 +56,6 @@
   "tag": "$RISH"
  },
  {
-  "name": "The Mending",
-  "triggers": [
-   "the mending"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079214815608705362",
-  "tag": "$RISH"
- },
- {
   "name": "Setups in Disguise",
   "triggers": [
    "setups in disguise"
@@ -221,6 +213,14 @@
    "the long weather"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086346813951422744",
+  "tag": "$RISH"
+ },
+ {
+  "name": "The Mending",
+  "triggers": [
+   "the mending"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086407161844810032",
   "tag": "$RISH"
  }
 ]

@@ -764,14 +764,6 @@
   "promote": true
  },
  {
-  "band": "Rish",
-  "name": "The Mending",
-  "triggers": [
-   "the mending"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079214815608705362"
- },
- {
   "band": "EBM",
   "name": "Hoodies for the People",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "the soil remembers"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086392111352451285"
+ },
+ {
+  "band": "Rish",
+  "name": "The Mending",
+  "triggers": [
+   "the mending"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086407161844810032"
  }
 ]
