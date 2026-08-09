@@ -1722,14 +1722,6 @@
  },
  {
   "band": "CB",
-  "name": "Eight Inbound",
-  "triggers": [
-   "eight inbound"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080392538679074897"
- },
- {
-  "band": "CB",
   "name": "Everyone Onchain By Friday",
   "triggers": [
    "everyone onchain by friday"
@@ -2645,5 +2637,13 @@
    "the long weather"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086346813951422744"
+ },
+ {
+  "band": "CB",
+  "name": "Eight Inbound",
+  "triggers": [
+   "eight inbound"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086351807110909988"
  }
 ]

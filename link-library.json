@@ -2744,19 +2744,6 @@
     "caption": "\"Bring the Water\" — CB\n\nMeme for Trees runs on Bankr — memes that grow real forests\n\n$MfT"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2080392538679074897",
-    "translation": "Eight Inbound",
-    "name": "Eight Inbound",
-    "triggers": [
-      "eight inbound"
-    ],
-    "band": "CB",
-    "tag": "$MfT",
-    "ca": null,
-    "xPost": "https://x.com/MemeForTrees/status/2080392538679074897",
-    "caption": "\"Eight Inbound\" — CB\n\nthe forest keeps growing while the timeline sleeps\n\n$MfT"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2080402603440038254",
     "translation": "Everyone Onchain By Friday",
     "name": "Everyone Onchain By Friday",
@@ -4238,5 +4225,18 @@
     "ca": "0x31c600871603bab5d855463E03c6d0a9eB661D26",
     "xPost": "https://x.com/MemeForTrees/status/2086346813951422744",
     "caption": "\"The Long Weather\" — Rish\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2086351807110909988",
+    "translation": "Eight Inbound",
+    "name": "Eight Inbound",
+    "triggers": [
+      "eight inbound"
+    ],
+    "band": "CB",
+    "tag": "$MfT",
+    "ca": null,
+    "xPost": "https://x.com/MemeForTrees/status/2086351807110909988",
+    "caption": "\"Eight Inbound\" — CB\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
