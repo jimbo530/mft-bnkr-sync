@@ -89,14 +89,6 @@
   ]
  },
  {
-  "name": "Last Call Is a Lie",
-  "triggers": [
-   "last call is a lie"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079396007461212252",
-  "tag": "$NN"
- },
- {
   "name": "Bad for Business",
   "triggers": [
    "bad for business"
@@ -213,6 +205,14 @@
    "every ovation a tree"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086417340279804317",
+  "tag": "$NN"
+ },
+ {
+  "name": "Last Call Is a Lie",
+  "triggers": [
+   "last call is a lie"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086467685735420358",
   "tag": "$NN"
  }
 ]

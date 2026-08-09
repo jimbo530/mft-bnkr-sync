@@ -978,14 +978,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079395156420124760"
  },
  {
-  "band": "NN",
-  "name": "Last Call Is a Lie",
-  "triggers": [
-   "last call is a lie"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079396007461212252"
- },
- {
   "band": "Myco",
   "name": "The Chorus Is a Network",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "five hundred homes"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086457563877437482"
+ },
+ {
+  "band": "NN",
+  "name": "Last Call Is a Lie",
+  "triggers": [
+   "last call is a lie"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086467685735420358"
  }
 ]
