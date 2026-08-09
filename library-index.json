@@ -1225,14 +1225,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079723216268857808"
  },
  {
-  "band": "MR",
-  "name": "Give It Back Green",
-  "triggers": [
-   "give it back green"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079728187848712545"
- },
- {
   "band": "Rish",
   "name": "The Love You Give",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "the hearth that tends itself"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086528036933959932"
+ },
+ {
+  "band": "MR",
+  "name": "Give It Back Green",
+  "triggers": [
+   "give it back green"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086533101841170942"
  }
 ]

@@ -102,14 +102,6 @@
   "tag": "$MR"
  },
  {
-  "name": "Give It Back Green",
-  "triggers": [
-   "give it back green"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079728187848712545",
-  "tag": "$MR"
- },
- {
   "name": "Feed the Village",
   "triggers": [
    "feed the village"
@@ -203,6 +195,14 @@
    "water is life"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086492832085283063",
+  "tag": "$MR"
+ },
+ {
+  "name": "Give It Back Green",
+  "triggers": [
+   "give it back green"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086533101841170942",
   "tag": "$MR"
  }
 ]
