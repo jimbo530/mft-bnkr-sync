@@ -102,14 +102,6 @@
   "tag": "$MR"
  },
  {
-  "name": "The Morning Wind Provides",
-  "triggers": [
-   "the morning wind provides"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079677816514179214",
-  "tag": "$MR"
- },
- {
   "name": "Third of the Harvest",
   "triggers": [
    "third of the harvest"
@@ -203,6 +195,14 @@
    "five hundred homes"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086457563877437482",
+  "tag": "$MR"
+ },
+ {
+  "name": "The Morning Wind Provides",
+  "triggers": [
+   "the morning wind provides"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086472720150122601",
   "tag": "$MR"
  }
 ]

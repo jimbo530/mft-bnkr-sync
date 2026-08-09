@@ -1234,14 +1234,6 @@
  },
  {
   "band": "MR",
-  "name": "The Morning Wind Provides",
-  "triggers": [
-   "the morning wind provides"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079677816514179214"
- },
- {
-  "band": "MR",
   "name": "Third of the Harvest",
   "triggers": [
    "third of the harvest"
@@ -2645,5 +2637,13 @@
    "last call is a lie"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086467685735420358"
+ },
+ {
+  "band": "MR",
+  "name": "The Morning Wind Provides",
+  "triggers": [
+   "the morning wind provides"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086472720150122601"
  }
 ]

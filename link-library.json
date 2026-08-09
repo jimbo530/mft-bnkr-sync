@@ -1961,19 +1961,6 @@
     "caption": "\"The Oldest Provider\" — Moon Rasta\n\n$MR 0x8d669b539C7801c1271BC484Bdd8a6084b7788e7"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2079677816514179214",
-    "translation": "The Morning Wind Provides",
-    "name": "The Morning Wind Provides",
-    "triggers": [
-      "the morning wind provides"
-    ],
-    "band": "MR",
-    "tag": "$MR",
-    "ca": "0x8d669b539C7801c1271BC484Bdd8a6084b7788e7",
-    "xPost": "https://x.com/MemeForTrees/status/2079677816514179214",
-    "caption": "\"The Morning Wind Provides\" — Moon Rasta\n\n$MR 0x8d669b539C7801c1271BC484Bdd8a6084b7788e7"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2079708012533445089",
     "translation": "Third of the Harvest",
     "name": "Third of the Harvest",
@@ -4238,5 +4225,18 @@
     "ca": "0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc",
     "xPost": "https://x.com/MemeForTrees/status/2086467685735420358",
     "caption": "\"Last Call Is a Lie\" — Natilie Nightclub\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2086472720150122601",
+    "translation": "The Morning Wind Provides",
+    "name": "The Morning Wind Provides",
+    "triggers": [
+      "the morning wind provides"
+    ],
+    "band": "MR",
+    "tag": "$MR",
+    "ca": "0x8d669b539C7801c1271BC484Bdd8a6084b7788e7",
+    "xPost": "https://x.com/MemeForTrees/status/2086472720150122601",
+    "caption": "\"The Morning Wind Provides\" — Moon Rasta\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
