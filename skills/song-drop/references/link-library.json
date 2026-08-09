@@ -65,19 +65,6 @@
     "caption": "\"The Dinner Drum\" — Digerie Dude\n\n$DD 0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2078610834557657347",
-    "translation": "Water Is Life",
-    "name": "Water Is Life",
-    "triggers": [
-      "water is life"
-    ],
-    "band": "MR",
-    "tag": "$MR",
-    "ca": "0x8d669b539C7801c1271BC484Bdd8a6084b7788e7",
-    "xPost": "https://x.com/MemeForTrees/status/2078610834557657347",
-    "caption": "\"Water Is Life\" — Moon Rasta\n\n$MR 0x8d669b539C7801c1271BC484Bdd8a6084b7788e7"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2078620859216908413",
     "translation": "Let's Grow",
     "name": "Let's Grow",
@@ -4238,5 +4225,18 @@
     "ca": "0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3",
     "xPost": "https://x.com/MemeForTrees/status/2086487811343933589",
     "caption": "\"Walk With the Eight\" — Digerie Dude\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2086492832085283063",
+    "translation": "Water Is Life",
+    "name": "Water Is Life",
+    "triggers": [
+      "water is life"
+    ],
+    "band": "MR",
+    "tag": "$MR",
+    "ca": "0x8d669b539C7801c1271BC484Bdd8a6084b7788e7",
+    "xPost": "https://x.com/MemeForTrees/status/2086492832085283063",
+    "caption": "\"Water Is Life\" — Moon Rasta\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

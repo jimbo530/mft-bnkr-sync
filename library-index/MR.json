@@ -1,13 +1,5 @@
 [
  {
-  "name": "Water Is Life",
-  "triggers": [
-   "water is life"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078610834557657347",
-  "tag": "$MR"
- },
- {
   "name": "Feed the Column",
   "triggers": [
    "feed the column"
@@ -203,6 +195,14 @@
    "the morning wind provides"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086472720150122601",
+  "tag": "$MR"
+ },
+ {
+  "name": "Water Is Life",
+  "triggers": [
+   "water is life"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086492832085283063",
   "tag": "$MR"
  }
 ]
