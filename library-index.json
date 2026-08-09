@@ -251,14 +251,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2078907749509841347"
  },
  {
-  "band": "MR",
-  "name": "The Ground We Stand On",
-  "triggers": [
-   "the ground we stand on"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078922842029117481"
- },
- {
   "band": "DGT",
   "name": "Gone in a Second",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "costs you nothing"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086548201193037956"
+ },
+ {
+  "band": "MR",
+  "name": "The Ground We Stand On",
+  "triggers": [
+   "the ground we stand on"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086553192196674001"
  }
 ]

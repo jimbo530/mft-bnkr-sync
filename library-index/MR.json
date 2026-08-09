@@ -32,14 +32,6 @@
   "tag": "$MR"
  },
  {
-  "name": "The Ground We Stand On",
-  "triggers": [
-   "the ground we stand on"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078922842029117481",
-  "tag": "$MR"
- },
- {
   "name": "Everybody in the Circle",
   "triggers": [
    "everybody in the circle"
@@ -203,6 +195,14 @@
    "give it back green"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086533101841170942",
+  "tag": "$MR"
+ },
+ {
+  "name": "The Ground We Stand On",
+  "triggers": [
+   "the ground we stand on"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086553192196674001",
   "tag": "$MR"
  }
 ]
