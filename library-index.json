@@ -794,14 +794,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079224666451808414"
  },
  {
-  "band": "Myco",
-  "name": "The Soil Remembers",
-  "triggers": [
-   "the soil remembers"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079224886451408975"
- },
- {
   "band": "DD",
   "name": "Meme to a Mangrove",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "money that feeds"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086387024022351872"
+ },
+ {
+  "band": "Myco",
+  "name": "The Soil Remembers",
+  "triggers": [
+   "the soil remembers"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086392111352451285"
  }
 ]

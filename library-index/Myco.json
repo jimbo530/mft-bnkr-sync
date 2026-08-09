@@ -32,14 +32,6 @@
   "tag": "$MYCO"
  },
  {
-  "name": "The Soil Remembers",
-  "triggers": [
-   "the soil remembers"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079224886451408975",
-  "tag": "$MYCO"
- },
- {
   "name": "It Does Not Go Unseen",
   "triggers": [
    "it does not go unseen"
@@ -228,6 +220,14 @@
    "everything came up"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086190749524111773",
+  "tag": "$MYCO"
+ },
+ {
+  "name": "The Soil Remembers",
+  "triggers": [
+   "the soil remembers"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086392111352451285",
   "tag": "$MYCO"
  }
 ]
