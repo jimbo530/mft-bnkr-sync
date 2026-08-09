@@ -1469,14 +1469,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079968651311010115"
  },
  {
-  "band": "Rish",
-  "name": "The Bringing-In",
-  "triggers": [
-   "the bringing-in"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079969837455929416"
- },
- {
   "band": "Jasmine",
   "name": "A Tool for Every Mile",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "every ovation a tree"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086417340279804317"
+ },
+ {
+  "band": "Rish",
+  "name": "The Bringing-In",
+  "triggers": [
+   "the bringing-in"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086422342184366274"
  }
 ]

@@ -126,14 +126,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079953621907554522"
  },
  {
-  "name": "The Bringing-In",
-  "triggers": [
-   "the bringing-in"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079969837455929416",
-  "tag": "$RISH"
- },
- {
   "name": "The Good Way (We Grow Every Day)",
   "triggers": [
    "the good way",
@@ -221,6 +213,14 @@
    "the mending"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086407161844810032",
+  "tag": "$RISH"
+ },
+ {
+  "name": "The Bringing-In",
+  "triggers": [
+   "the bringing-in"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086422342184366274",
   "tag": "$RISH"
  }
 ]

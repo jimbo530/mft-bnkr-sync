@@ -2347,19 +2347,6 @@
     "boothCommission": "sg_mrwat6pt5j"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2079969837455929416",
-    "translation": "The Bringing-In",
-    "name": "The Bringing-In",
-    "triggers": [
-      "the bringing-in"
-    ],
-    "band": "Rish",
-    "tag": "$RISH",
-    "ca": "0x31c600871603bab5d855463E03c6d0a9eB661D26",
-    "xPost": "https://x.com/MemeForTrees/status/2079969837455929416",
-    "caption": "\"The Bringing-In\" — Rish\n\n$RISH 0x31c600871603bab5d855463E03c6d0a9eB661D26"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2079979817680724277",
     "translation": "A Tool for Every Mile",
     "name": "A Tool for Every Mile",
@@ -4238,5 +4225,18 @@
     "ca": "0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc",
     "xPost": "https://x.com/MemeForTrees/status/2086417340279804317",
     "caption": "\"Every Ovation a Tree\" — Natilie Nightclub\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2086422342184366274",
+    "translation": "The Bringing-In",
+    "name": "The Bringing-In",
+    "triggers": [
+      "the bringing-in"
+    ],
+    "band": "Rish",
+    "tag": "$RISH",
+    "ca": "0x31c600871603bab5d855463E03c6d0a9eB661D26",
+    "xPost": "https://x.com/MemeForTrees/status/2086422342184366274",
+    "caption": "\"The Bringing-In\" — Rish\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
