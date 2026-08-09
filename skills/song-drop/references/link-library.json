@@ -1870,19 +1870,6 @@
     "boothCommission": "sg_mruxqhswbi"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2079637592979526082",
-    "translation": "The Hearth That Tends Itself",
-    "name": "The Hearth That Tends Itself",
-    "triggers": [
-      "the hearth that tends itself"
-    ],
-    "band": "Rish",
-    "tag": "$RISH",
-    "ca": "0x31c600871603bab5d855463E03c6d0a9eB661D26",
-    "xPost": "https://x.com/MemeForTrees/status/2079637592979526082",
-    "caption": "\"The Hearth That Tends Itself\" — Rish\n\n$RISH 0x31c600871603bab5d855463E03c6d0a9eB661D26"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2079647619471556621",
     "translation": "The Price of a Song Darling",
     "name": "The Price of a Song Darling",
@@ -4238,5 +4225,18 @@
     "ca": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d",
     "xPost": "https://x.com/MemeForTrees/status/2086512964023021970",
     "caption": "\"Canopy Law\" — Elves of Ballinmoore\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2086528036933959932",
+    "translation": "The Hearth That Tends Itself",
+    "name": "The Hearth That Tends Itself",
+    "triggers": [
+      "the hearth that tends itself"
+    ],
+    "band": "Rish",
+    "tag": "$RISH",
+    "ca": "0x31c600871603bab5d855463E03c6d0a9eB661D26",
+    "xPost": "https://x.com/MemeForTrees/status/2086528036933959932",
+    "caption": "\"The Hearth That Tends Itself\" — Rish\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

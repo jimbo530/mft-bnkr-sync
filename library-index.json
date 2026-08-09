@@ -1177,14 +1177,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079622844602888196"
  },
  {
-  "band": "Rish",
-  "name": "The Hearth That Tends Itself",
-  "triggers": [
-   "the hearth that tends itself"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079637592979526082"
- },
- {
   "band": "NN",
   "name": "The Price of a Song Darling",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "canopy law"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086512964023021970"
+ },
+ {
+  "band": "Rish",
+  "name": "The Hearth That Tends Itself",
+  "triggers": [
+   "the hearth that tends itself"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086528036933959932"
  }
 ]

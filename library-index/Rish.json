@@ -95,14 +95,6 @@
   "tag": "$RISH"
  },
  {
-  "name": "The Hearth That Tends Itself",
-  "triggers": [
-   "the hearth that tends itself"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079637592979526082",
-  "tag": "$RISH"
- },
- {
   "name": "The First Loaf",
   "triggers": [
    "the first loaf"
@@ -221,6 +213,14 @@
    "the bringing-in"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086422342184366274",
+  "tag": "$RISH"
+ },
+ {
+  "name": "The Hearth That Tends Itself",
+  "triggers": [
+   "the hearth that tends itself"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086528036933959932",
   "tag": "$RISH"
  }
 ]
