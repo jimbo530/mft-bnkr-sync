@@ -32,14 +32,6 @@
   "tag": "$DD"
  },
  {
-  "name": "The Road Made Family",
-  "triggers": [
-   "the road made family"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079104083638522307",
-  "tag": "$DD"
- },
- {
   "name": "Where the Maps Run Out",
   "triggers": [
    "where the maps run out"
@@ -243,6 +235,14 @@
    "the giving floor"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086291409603047652",
+  "tag": "$DD"
+ },
+ {
+  "name": "The Road Made Family",
+  "triggers": [
+   "the road made family"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086371931217948958",
   "tag": "$DD"
  }
 ]

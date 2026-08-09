@@ -734,19 +734,6 @@
     "caption": "\"The Whole Bar Onchain\" — Rish\n\n$MfT"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2079104083638522307",
-    "translation": "The Road Made Family",
-    "name": "The Road Made Family",
-    "triggers": [
-      "the road made family"
-    ],
-    "band": "DD",
-    "tag": "$DD",
-    "ca": "0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3",
-    "xPost": "https://x.com/MemeForTrees/status/2079104083638522307",
-    "caption": "\"The Road Made Family\" — Digerie Dude\n\n$DD 0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2079119177265057839",
     "translation": "Pull Up a Stoop",
     "name": "Pull Up a Stoop",
@@ -4238,5 +4225,18 @@
     "ca": "0x85Dd5183D203CcE70b88234D31f075774AcCC453",
     "xPost": "https://x.com/MemeForTrees/status/2086366936259076605",
     "caption": "\"The Coconut Takes Requests!\" — Bongo\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2086371931217948958",
+    "translation": "The Road Made Family",
+    "name": "The Road Made Family",
+    "triggers": [
+      "the road made family"
+    ],
+    "band": "DD",
+    "tag": "$DD",
+    "ca": "0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3",
+    "xPost": "https://x.com/MemeForTrees/status/2086371931217948958",
+    "caption": "\"The Road Made Family\" — Digerie Dude\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

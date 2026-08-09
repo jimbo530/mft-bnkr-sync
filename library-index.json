@@ -458,14 +458,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079088943048343879"
  },
  {
-  "band": "DD",
-  "name": "The Road Made Family",
-  "triggers": [
-   "the road made family"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079104083638522307"
- },
- {
   "band": "JS",
   "name": "Pull Up a Stoop",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "the coconut takes requests"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086366936259076605"
+ },
+ {
+  "band": "DD",
+  "name": "The Road Made Family",
+  "triggers": [
+   "the road made family"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086371931217948958"
  }
 ]
