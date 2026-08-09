@@ -1581,19 +1581,6 @@
     "boothCommission": "sg_mrtz8s551r"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2079380864333402134",
-    "translation": "Welcome to the Race (HOLM's Reel)",
-    "name": "Welcome to the Race (HOLM's Reel)",
-    "triggers": [
-      "welcome to the race (holm's reel)"
-    ],
-    "band": "Rish",
-    "tag": "$RISH",
-    "ca": "0x31c600871603bab5d855463E03c6d0a9eB661D26",
-    "xPost": "https://x.com/MemeForTrees/status/2079380864333402134",
-    "caption": "\"Welcome to the Race (HOLM's Reel)\" — Rish\n\n$RISH 0x31c600871603bab5d855463E03c6d0a9eB661D26"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2079388587297038636",
     "translation": "The Cost of the Canopy",
     "name": "The Cost of the Canopy",
@@ -4238,5 +4225,18 @@
     "ca": "0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc",
     "xPost": "https://x.com/MemeForTrees/status/2086306495541444916",
     "caption": "\"Just Ask Darling\" — Natilie Nightclub\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2086311576202526767",
+    "translation": "Welcome to the Race (HOLM's Reel)",
+    "name": "Welcome to the Race (HOLM's Reel)",
+    "triggers": [
+      "welcome to the race (holm's reel)"
+    ],
+    "band": "Rish",
+    "tag": "$RISH",
+    "ca": "0x31c600871603bab5d855463E03c6d0a9eB661D26",
+    "xPost": "https://x.com/MemeForTrees/status/2086311576202526767",
+    "caption": "\"Welcome to the Race (HOLM's Reel)\" — Rish\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
