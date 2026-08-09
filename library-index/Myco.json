@@ -24,14 +24,6 @@
   "tag": "$MYCO"
  },
  {
-  "name": "The Deep Foundation",
-  "triggers": [
-   "the deep foundation"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078897696446828939",
-  "tag": "$MYCO"
- },
- {
   "name": "It Does Not Go Unseen",
   "triggers": [
    "it does not go unseen"
@@ -228,6 +220,14 @@
    "the soil remembers"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086392111352451285",
+  "tag": "$MYCO"
+ },
+ {
+  "name": "The Deep Foundation",
+  "triggers": [
+   "the deep foundation"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086442516652380589",
   "tag": "$MYCO"
  }
 ]

@@ -259,14 +259,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2078892703337611364"
  },
  {
-  "band": "Myco",
-  "name": "The Deep Foundation",
-  "triggers": [
-   "the deep foundation"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078897696446828939"
- },
- {
   "band": "MR",
   "name": "A Seat at the Club",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "the bringing-in"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086422342184366274"
+ },
+ {
+  "band": "Myco",
+  "name": "The Deep Foundation",
+  "triggers": [
+   "the deep foundation"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086442516652380589"
  }
 ]
