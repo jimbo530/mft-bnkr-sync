@@ -656,14 +656,6 @@
  },
  {
   "band": "DD",
-  "name": "Walk With the Eight",
-  "triggers": [
-   "walk with the eight"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079199721881485623"
- },
- {
-  "band": "DD",
   "name": "Down the Trade Routes",
   "triggers": [
    "down the trade routes"
@@ -2645,5 +2637,13 @@
    "the morning wind provides"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086472720150122601"
+ },
+ {
+  "band": "DD",
+  "name": "Walk With the Eight",
+  "triggers": [
+   "walk with the eight"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086487811343933589"
  }
 ]

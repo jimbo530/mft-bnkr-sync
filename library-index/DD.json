@@ -61,14 +61,6 @@
   ]
  },
  {
-  "name": "Walk With the Eight",
-  "triggers": [
-   "walk with the eight"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079199721881485623",
-  "tag": "$DD"
- },
- {
   "name": "Down the Trade Routes",
   "triggers": [
    "down the trade routes"
@@ -243,6 +235,14 @@
    "the road made family"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086371931217948958",
+  "tag": "$DD"
+ },
+ {
+  "name": "Walk With the Eight",
+  "triggers": [
+   "walk with the eight"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086487811343933589",
   "tag": "$DD"
  }
 ]
