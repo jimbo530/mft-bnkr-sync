@@ -938,14 +938,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079347245405679828"
  },
  {
-  "band": "JS",
-  "name": "Money That Feeds",
-  "triggers": [
-   "money that feeds"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079360764939207146"
- },
- {
   "band": "Bongo",
   "name": "What's Over There On Base",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "the road made family"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086371931217948958"
+ },
+ {
+  "band": "JS",
+  "name": "Money That Feeds",
+  "triggers": [
+   "money that feeds"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086387024022351872"
  }
 ]
