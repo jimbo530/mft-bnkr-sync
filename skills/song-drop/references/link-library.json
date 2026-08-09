@@ -26,19 +26,6 @@
     "caption": "🎵 An Instrument From Every Land — Digerie Dude\n\n$DD"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2078598719532904729",
-    "translation": "Costs You Nothing",
-    "name": "Costs You Nothing",
-    "triggers": [
-      "costs you nothing"
-    ],
-    "band": "EBM",
-    "tag": "$EBM",
-    "ca": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d",
-    "xPost": "https://x.com/MemeForTrees/status/2078598719532904729",
-    "caption": "\"Costs You Nothing\" — Elves of Ballinmoore\n\n$EBM 0xF113fe2A0E1181A21fA97B1F52ff232140B7692d"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2078600724162687079",
     "translation": "Plant It Brave",
     "name": "Plant It Brave",
@@ -4238,5 +4225,18 @@
     "ca": "0x8d669b539C7801c1271BC484Bdd8a6084b7788e7",
     "xPost": "https://x.com/MemeForTrees/status/2086533101841170942",
     "caption": "\"Give It Back Green\" — Moon Rasta\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2086548201193037956",
+    "translation": "Costs You Nothing",
+    "name": "Costs You Nothing",
+    "triggers": [
+      "costs you nothing"
+    ],
+    "band": "EBM",
+    "tag": "$EBM",
+    "ca": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d",
+    "xPost": "https://x.com/MemeForTrees/status/2086548201193037956",
+    "caption": "\"Costs You Nothing\" — Elves of Ballinmoore\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

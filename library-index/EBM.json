@@ -1,13 +1,5 @@
 [
  {
-  "name": "Costs You Nothing",
-  "triggers": [
-   "costs you nothing"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078598719532904729",
-  "tag": "$EBM"
- },
- {
   "name": "Ten Years Deep",
   "triggers": [
    "ten years deep"
@@ -302,6 +294,14 @@
    "canopy law"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086512964023021970",
+  "tag": "$EBM"
+ },
+ {
+  "name": "Costs You Nothing",
+  "triggers": [
+   "costs you nothing"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086548201193037956",
   "tag": "$EBM"
  }
 ]

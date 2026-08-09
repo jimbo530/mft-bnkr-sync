@@ -19,14 +19,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2078218260470706262"
  },
  {
-  "band": "EBM",
-  "name": "Costs You Nothing",
-  "triggers": [
-   "costs you nothing"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078598719532904729"
- },
- {
   "band": "Rish",
   "name": "Plant It Brave",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "give it back green"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086533101841170942"
+ },
+ {
+  "band": "EBM",
+  "name": "Costs You Nothing",
+  "triggers": [
+   "costs you nothing"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086548201193037956"
  }
 ]
