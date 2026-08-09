@@ -69,14 +69,6 @@
   "tag": "$DD"
  },
  {
-  "name": "Meme to a Mangrove",
-  "triggers": [
-   "meme to a mangrove"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079229929502236767",
-  "tag": "$DD"
- },
- {
   "name": "Dig a Little Deeper",
   "triggers": [
    "dig a little deeper"
@@ -243,6 +235,14 @@
    "walk with the eight"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086487811343933589",
+  "tag": "$DD"
+ },
+ {
+  "name": "Meme to a Mangrove",
+  "triggers": [
+   "meme to a mangrove"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086593465773633550",
   "tag": "$DD"
  }
 ]

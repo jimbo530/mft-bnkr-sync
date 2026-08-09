@@ -746,14 +746,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079224666451808414"
  },
  {
-  "band": "DD",
-  "name": "Meme to a Mangrove",
-  "triggers": [
-   "meme to a mangrove"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079229929502236767"
- },
- {
   "band": "Bongo",
   "name": "The Famitree",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "for no reason at all"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086588479723495735"
+ },
+ {
+  "band": "DD",
+  "name": "Meme to a Mangrove",
+  "triggers": [
+   "meme to a mangrove"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086593465773633550"
  }
 ]
