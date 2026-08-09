@@ -24,14 +24,6 @@
   "tag": "$EBM"
  },
  {
-  "name": "The Garden Watch",
-  "triggers": [
-   "the garden watch"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078716496197358002",
-  "tag": "$EBM"
- },
- {
   "name": "Feed The People",
   "triggers": [
    "feed the people"
@@ -302,6 +294,14 @@
    "mutiny"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086130383301615738",
+  "tag": "$EBM"
+ },
+ {
+  "name": "The Garden Watch",
+  "triggers": [
+   "the garden watch"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086246100336292347",
   "tag": "$EBM"
  }
 ]

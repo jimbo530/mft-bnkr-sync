@@ -131,14 +131,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2078711502278639689"
  },
  {
-  "band": "EBM",
-  "name": "The Garden Watch",
-  "triggers": [
-   "the garden watch"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078716496197358002"
- },
- {
   "band": "Myco",
   "name": "Underground Choir",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "fastest word in the sky"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086225976095019262"
+ },
+ {
+  "band": "EBM",
+  "name": "The Garden Watch",
+  "triggers": [
+   "the garden watch"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086246100336292347"
  }
 ]
