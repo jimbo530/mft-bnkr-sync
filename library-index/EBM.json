@@ -1,13 +1,5 @@
 [
  {
-  "name": "Ten Years Deep",
-  "triggers": [
-   "ten years deep"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078696356118491241",
-  "tag": "$EBM"
- },
- {
   "name": "Feed The People",
   "triggers": [
    "feed the people"
@@ -302,6 +294,14 @@
    "the club with no gate"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086628687948943398",
+  "tag": "$EBM"
+ },
+ {
+  "name": "Ten Years Deep",
+  "triggers": [
+   "ten years deep"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086925585226354787",
   "tag": "$EBM"
  }
 ]

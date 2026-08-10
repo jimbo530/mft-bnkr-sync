@@ -83,14 +83,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2078666201845141760"
  },
  {
-  "band": "EBM",
-  "name": "Ten Years Deep",
-  "triggers": [
-   "ten years deep"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078696356118491241"
- },
- {
   "band": "Myco",
   "name": "Underground Choir",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "first everybody builds"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086910479545340367"
+ },
+ {
+  "band": "EBM",
+  "name": "Ten Years Deep",
+  "triggers": [
+   "ten years deep"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086925585226354787"
  }
 ]
