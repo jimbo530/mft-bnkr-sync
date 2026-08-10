@@ -92,14 +92,6 @@
  },
  {
   "band": "Myco",
-  "name": "What Had To Rot",
-  "triggers": [
-   "what had to rot"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078711502278639689"
- },
- {
-  "band": "Myco",
   "name": "Underground Choir",
   "triggers": [
    "underground choir"
@@ -2645,5 +2637,13 @@
    "down the trade routes"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086789794604921221"
+ },
+ {
+  "band": "Myco",
+  "name": "What Had To Rot",
+  "triggers": [
+   "what had to rot"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086794828172386665"
  }
 ]

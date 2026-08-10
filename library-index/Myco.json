@@ -1,13 +1,5 @@
 [
  {
-  "name": "What Had To Rot",
-  "triggers": [
-   "what had to rot"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078711502278639689",
-  "tag": "$MYCO"
- },
- {
   "name": "Underground Choir",
   "triggers": [
    "underground choir"
@@ -228,6 +220,14 @@
    "the chorus is a network"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086729394228277570",
+  "tag": "$MYCO"
+ },
+ {
+  "name": "What Had To Rot",
+  "triggers": [
+   "what had to rot"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086794828172386665",
   "tag": "$MYCO"
  }
 ]
