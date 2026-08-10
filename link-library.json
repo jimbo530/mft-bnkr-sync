@@ -440,19 +440,6 @@
     "caption": "\"It Does the Doin'\" — Bongo\n\n$MfT"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2078968141607055810",
-    "translation": "Quick as a Drumbeat",
-    "name": "Quick as a Drumbeat",
-    "triggers": [
-      "quick as a drumbeat"
-    ],
-    "band": "Bongo",
-    "tag": "$BONGO",
-    "ca": "0x85Dd5183D203CcE70b88234D31f075774AcCC453",
-    "xPost": "https://x.com/MemeForTrees/status/2078968141607055810",
-    "caption": "\"Quick as a Drumbeat\" — Bongo\n\n$MfT"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2078973174323020178",
     "translation": "The Club Throws the Door",
     "name": "The Club Throws the Door",
@@ -4238,5 +4225,18 @@
     "ca": "0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3",
     "xPost": "https://x.com/MemeForTrees/status/2086729394228277570",
     "caption": "\"- The Chorus Is a Network\" — Myco\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2086734386062385284",
+    "translation": "Quick as a Drumbeat",
+    "name": "Quick as a Drumbeat",
+    "triggers": [
+      "quick as a drumbeat"
+    ],
+    "band": "Bongo",
+    "tag": "$BONGO",
+    "ca": "0x85Dd5183D203CcE70b88234D31f075774AcCC453",
+    "xPost": "https://x.com/MemeForTrees/status/2086734386062385284",
+    "caption": "\"Quick as a Drumbeat\" — Bongo\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

@@ -275,14 +275,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2078958125638381986"
  },
  {
-  "band": "Bongo",
-  "name": "Quick as a Drumbeat",
-  "triggers": [
-   "quick as a drumbeat"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078968141607055810"
- },
- {
   "band": "Rish",
   "name": "The Club Throws the Door",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "the chorus is a network"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086729394228277570"
+ },
+ {
+  "band": "Bongo",
+  "name": "Quick as a Drumbeat",
+  "triggers": [
+   "quick as a drumbeat"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086734386062385284"
  }
 ]

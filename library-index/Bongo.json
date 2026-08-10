@@ -24,14 +24,6 @@
   "tag": "$BONGO"
  },
  {
-  "name": "Quick as a Drumbeat",
-  "triggers": [
-   "quick as a drumbeat"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078968141607055810",
-  "tag": "$BONGO"
- },
- {
   "name": "The Agent Does It",
   "triggers": [
    "the agent does it"
@@ -171,6 +163,14 @@
    "for no reason at all"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086588479723495735",
+  "tag": "$BONGO"
+ },
+ {
+  "name": "Quick as a Drumbeat",
+  "triggers": [
+   "quick as a drumbeat"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086734386062385284",
   "tag": "$BONGO"
  }
 ]
