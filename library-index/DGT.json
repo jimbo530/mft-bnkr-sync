@@ -24,14 +24,6 @@
   "tag": "$DGT"
  },
  {
-  "name": "Gone in a Second",
-  "triggers": [
-   "gone in a second"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078927940172091741",
-  "tag": "$DGT"
- },
- {
   "name": "Just Tell the Bandleader",
   "triggers": [
    "just tell the bandleader"
@@ -144,6 +136,14 @@
    "exact change"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086170683407556618",
+  "tag": "$DGT"
+ },
+ {
+  "name": "Gone in a Second",
+  "triggers": [
+   "gone in a second"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086774719714365922",
   "tag": "$DGT"
  }
 ]
