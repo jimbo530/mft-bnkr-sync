@@ -46,14 +46,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079388587297038636"
  },
  {
-  "name": "The Chorus Is a Network",
-  "triggers": [
-   "the chorus is a network"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079406074688414018",
-  "tag": "$MYCO"
- },
- {
   "name": "The Rite of the Floor",
   "triggers": [
    "the rite of the floor"
@@ -228,6 +220,14 @@
    "the deep foundation"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086442516652380589",
+  "tag": "$MYCO"
+ },
+ {
+  "name": "The Chorus Is a Network",
+  "triggers": [
+   "the chorus is a network"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086729394228277570",
   "tag": "$MYCO"
  }
 ]

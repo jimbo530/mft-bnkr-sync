@@ -898,14 +898,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079395156420124760"
  },
  {
-  "band": "Myco",
-  "name": "The Chorus Is a Network",
-  "triggers": [
-   "the chorus is a network"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079406074688414018"
- },
- {
   "band": "DD",
   "name": "Water to the Village",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "a pouch that holds it all"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086709263250940247"
+ },
+ {
+  "band": "Myco",
+  "name": "The Chorus Is a Network",
+  "triggers": [
+   "the chorus is a network"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086729394228277570"
  }
 ]
