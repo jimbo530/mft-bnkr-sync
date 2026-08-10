@@ -219,14 +219,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2078877582162845992"
  },
  {
-  "band": "DD",
-  "name": "A Pouch That Holds It All",
-  "triggers": [
-   "a pouch that holds it all"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078882630783656297"
- },
- {
   "band": "Myco",
   "name": "The Catalog of Tools",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "the first loaf"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086694161546109383"
+ },
+ {
+  "band": "DD",
+  "name": "A Pouch That Holds It All",
+  "triggers": [
+   "a pouch that holds it all"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086709263250940247"
  }
 ]
