@@ -714,14 +714,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079303270204383633"
  },
  {
-  "band": "DD",
-  "name": "Carried by Your Love",
-  "triggers": [
-   "carried by your love"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079305408510857597"
- },
- {
   "band": "Rish",
   "name": "The Warden's Round",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "ten years deep"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086925585226354787"
+ },
+ {
+  "band": "DD",
+  "name": "Carried by Your Love",
+  "triggers": [
+   "carried by your love"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086930618764468453"
  }
 ]

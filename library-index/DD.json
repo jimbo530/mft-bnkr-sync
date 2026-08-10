@@ -61,14 +61,6 @@
   "tag": "$DD"
  },
  {
-  "name": "Carried by Your Love",
-  "triggers": [
-   "carried by your love"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079305408510857597",
-  "tag": "$DD"
- },
- {
   "name": "Water to the Village",
   "triggers": [
    "water to the village"
@@ -243,6 +235,14 @@
    "down the trade routes"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086789794604921221",
+  "tag": "$DD"
+ },
+ {
+  "name": "Carried by Your Love",
+  "triggers": [
+   "carried by your love"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086930618764468453",
   "tag": "$DD"
  }
 ]
