@@ -96,14 +96,6 @@
   "tag": "$NN"
  },
  {
-  "name": "The Lady Keeps the Leaves",
-  "triggers": [
-   "the lady keeps the leaves"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079758381938528629",
-  "tag": "$NN"
- },
- {
   "name": "The Velvet Ledger",
   "triggers": [
    "the velvet ledger"
@@ -213,6 +205,14 @@
    "one clean drop"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086754514808234049",
+  "tag": "$NN"
+ },
+ {
+  "name": "The Lady Keeps the Leaves",
+  "triggers": [
+   "the lady keeps the leaves"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086829995075293637",
   "tag": "$NN"
  }
 ]

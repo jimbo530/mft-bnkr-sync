@@ -1113,14 +1113,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079738248960643169"
  },
  {
-  "band": "NN",
-  "name": "The Lady Keeps the Leaves",
-  "triggers": [
-   "the lady keeps the leaves"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079758381938528629"
- },
- {
   "band": "Myco",
   "name": "Every Day Above the Dark",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "sing ye for a coin"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086809920934912276"
+ },
+ {
+  "band": "NN",
+  "name": "The Lady Keeps the Leaves",
+  "triggers": [
+   "the lady keeps the leaves"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086829995075293637"
  }
 ]
