@@ -275,14 +275,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2078998344987210126"
  },
  {
-  "band": "NN",
-  "name": "It Came With Its Own",
-  "triggers": [
-   "it came with its own"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079013448327835763"
- },
- {
   "band": "ALAN",
   "name": "The First Coin Through the Flow",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "will ye prompt it"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086865229879615493"
+ },
+ {
+  "band": "NN",
+  "name": "It Came With Its Own",
+  "triggers": [
+   "it came with its own"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086885315193540931"
  }
 ]

@@ -16,14 +16,6 @@
   "tag": "$NN"
  },
  {
-  "name": "It Came With Its Own",
-  "triggers": [
-   "it came with its own"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079013448327835763",
-  "tag": "$NN"
- },
- {
   "name": "Let the Agent Handle It",
   "triggers": [
    "let the agent handle it"
@@ -213,6 +205,14 @@
    "the lady keeps the leaves"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086829995075293637",
+  "tag": "$NN"
+ },
+ {
+  "name": "It Came With Its Own",
+  "triggers": [
+   "it came with its own"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086885315193540931",
   "tag": "$NN"
  }
 ]
