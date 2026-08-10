@@ -179,14 +179,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2078852447284465803"
  },
  {
-  "band": "Rish",
-  "name": "Will Ye Prompt It",
-  "triggers": [
-   "will ye prompt it"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078862477278806434"
- },
- {
   "band": "EBM",
   "name": "Plain Language Door",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "stands on its own"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086850090027700725"
+ },
+ {
+  "band": "Rish",
+  "name": "Will Ye Prompt It",
+  "triggers": [
+   "will ye prompt it"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086865229879615493"
  }
 ]
