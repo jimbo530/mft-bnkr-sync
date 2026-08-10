@@ -53,14 +53,6 @@
   ]
  },
  {
-  "name": "Down the Trade Routes",
-  "triggers": [
-   "down the trade routes"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079209740198924295",
-  "tag": "$DD"
- },
- {
   "name": "Dig a Little Deeper",
   "triggers": [
    "dig a little deeper"
@@ -243,6 +235,14 @@
    "a pouch that holds it all"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086709263250940247",
+  "tag": "$DD"
+ },
+ {
+  "name": "Down the Trade Routes",
+  "triggers": [
+   "down the trade routes"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086789794604921221",
   "tag": "$DD"
  }
 ]

@@ -575,14 +575,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079194675387244947"
  },
  {
-  "band": "DD",
-  "name": "Down the Trade Routes",
-  "triggers": [
-   "down the trade routes"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079209740198924295"
- },
- {
   "band": "NN",
   "name": "Hoodies Keep Me Warm",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "gone in a second"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086774719714365922"
+ },
+ {
+  "band": "DD",
+  "name": "Down the Trade Routes",
+  "triggers": [
+   "down the trade routes"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086789794604921221"
  }
 ]
