@@ -48,14 +48,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "It Keeps Itself Alive",
-  "triggers": [
-   "it keeps itself alive"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080432801468354614",
-  "tag": "$MfT"
- },
- {
   "name": "Live in Seconds",
   "triggers": [
    "live in seconds"
@@ -141,6 +133,14 @@
    "eight inbound"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086351807110909988",
+  "tag": "$MfT"
+ },
+ {
+  "name": "It Keeps Itself Alive",
+  "triggers": [
+   "it keeps itself alive"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086613597921157226",
   "tag": "$MfT"
  }
 ]

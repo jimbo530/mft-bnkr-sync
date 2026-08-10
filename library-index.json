@@ -1562,14 +1562,6 @@
  },
  {
   "band": "CB",
-  "name": "It Keeps Itself Alive",
-  "triggers": [
-   "it keeps itself alive"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080432801468354614"
- },
- {
-  "band": "CB",
   "name": "Live in Seconds",
   "triggers": [
    "live in seconds"
@@ -2645,5 +2637,13 @@
    "pull up a stoop"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086608592606482478"
+ },
+ {
+  "band": "CB",
+  "name": "It Keeps Itself Alive",
+  "triggers": [
+   "it keeps itself alive"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086613597921157226"
  }
 ]

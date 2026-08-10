@@ -2484,19 +2484,6 @@
     "caption": "\"Green Candle Anthem\" — CB\n\nan agent for the whole fam, working around the clock\n\n$MfT"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2080432801468354614",
-    "translation": "It Keeps Itself Alive",
-    "name": "It Keeps Itself Alive",
-    "triggers": [
-      "it keeps itself alive"
-    ],
-    "band": "CB",
-    "tag": "$MfT",
-    "ca": null,
-    "xPost": "https://x.com/MemeForTrees/status/2080432801468354614",
-    "caption": "\"It Keeps Itself Alive\" — CB\n\n$MfT"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2080447905303802320",
     "translation": "Live in Seconds",
     "name": "Live in Seconds",
@@ -4238,5 +4225,18 @@
     "ca": "0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65",
     "xPost": "https://x.com/MemeForTrees/status/2086608592606482478",
     "caption": "\"Pull Up a Stoop\" — Jony Sings\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2086613597921157226",
+    "translation": "It Keeps Itself Alive",
+    "name": "It Keeps Itself Alive",
+    "triggers": [
+      "it keeps itself alive"
+    ],
+    "band": "CB",
+    "tag": "$MfT",
+    "ca": null,
+    "xPost": "https://x.com/MemeForTrees/status/2086613597921157226",
+    "caption": "\"It Keeps Itself Alive\" — CB\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
