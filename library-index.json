@@ -1161,14 +1161,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079708012533445089"
  },
  {
-  "band": "Rish",
-  "name": "The First Loaf",
-  "triggers": [
-   "the first loaf"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079713091978236093"
- },
- {
   "band": "Myco",
   "name": "What Survives the Dark",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "the road to robinhood"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086669001569005629"
+ },
+ {
+  "band": "Rish",
+  "name": "The First Loaf",
+  "triggers": [
+   "the first loaf"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086694161546109383"
  }
 ]

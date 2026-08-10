@@ -1844,19 +1844,6 @@
     "caption": "\"Third of the Harvest\" — Moon Rasta\n\n$MR 0x8d669b539C7801c1271BC484Bdd8a6084b7788e7"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2079713091978236093",
-    "translation": "The First Loaf",
-    "name": "The First Loaf",
-    "triggers": [
-      "the first loaf"
-    ],
-    "band": "Rish",
-    "tag": "$RISH",
-    "ca": "0x31c600871603bab5d855463E03c6d0a9eB661D26",
-    "xPost": "https://x.com/MemeForTrees/status/2079713091978236093",
-    "caption": "\"The First Loaf\" — Rish\n\n$RISH 0x31c600871603bab5d855463E03c6d0a9eB661D26"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2079723216268857808",
     "translation": "What Survives the Dark",
     "name": "What Survives the Dark",
@@ -4238,5 +4225,18 @@
     "ca": "0x31c600871603bab5d855463E03c6d0a9eB661D26",
     "xPost": "https://x.com/MemeForTrees/status/2086669001569005629",
     "caption": "\"The Road To Robinhood\" — Rish\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2086694161546109383",
+    "translation": "The First Loaf",
+    "name": "The First Loaf",
+    "triggers": [
+      "the first loaf"
+    ],
+    "band": "Rish",
+    "tag": "$RISH",
+    "ca": "0x31c600871603bab5d855463E03c6d0a9eB661D26",
+    "xPost": "https://x.com/MemeForTrees/status/2086694161546109383",
+    "caption": "\"The First Loaf\" — Rish\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

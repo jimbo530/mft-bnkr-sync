@@ -87,14 +87,6 @@
   "tag": "$RISH"
  },
  {
-  "name": "The First Loaf",
-  "triggers": [
-   "the first loaf"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079713091978236093",
-  "tag": "$RISH"
- },
- {
   "name": "The Love You Give",
   "triggers": [
    "the love you give"
@@ -221,6 +213,14 @@
    "the road to robinhood"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086669001569005629",
+  "tag": "$RISH"
+ },
+ {
+  "name": "The First Loaf",
+  "triggers": [
+   "the first loaf"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086694161546109383",
   "tag": "$RISH"
  }
 ]
