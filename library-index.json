@@ -155,14 +155,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2078787009510805598"
  },
  {
-  "band": "MR",
-  "name": "First Everybody Builds",
-  "triggers": [
-   "first everybody builds"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078832291896258655"
- },
- {
   "band": "JS",
   "name": "Nobody At the Back",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "it came with its own"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086885315193540931"
+ },
+ {
+  "band": "MR",
+  "name": "First Everybody Builds",
+  "triggers": [
+   "first everybody builds"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086910479545340367"
  }
 ]

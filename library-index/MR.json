@@ -16,14 +16,6 @@
   "tag": "$MR"
  },
  {
-  "name": "First Everybody Builds",
-  "triggers": [
-   "first everybody builds"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078832291896258655",
-  "tag": "$MR"
- },
- {
   "name": "A Seat at the Club",
   "triggers": [
    "a seat at the club"
@@ -203,6 +195,14 @@
    "the ground we stand on"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086553192196674001",
+  "tag": "$MR"
+ },
+ {
+  "name": "First Everybody Builds",
+  "triggers": [
+   "first everybody builds"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086910479545340367",
   "tag": "$MR"
  }
 ]
