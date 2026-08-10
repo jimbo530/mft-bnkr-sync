@@ -426,14 +426,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079088943048343879"
  },
  {
-  "band": "JS",
-  "name": "Pull Up a Stoop",
-  "triggers": [
-   "pull up a stoop"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079119177265057839"
- },
- {
   "band": "DGT",
   "name": "Pull Up a Chair",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "meme to a mangrove"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086593465773633550"
+ },
+ {
+  "band": "JS",
+  "name": "Pull Up a Stoop",
+  "triggers": [
+   "pull up a stoop"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086608592606482478"
  }
 ]

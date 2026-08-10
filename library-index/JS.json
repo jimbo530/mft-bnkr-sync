@@ -48,14 +48,6 @@
   "tag": "$JS"
  },
  {
-  "name": "Pull Up a Stoop",
-  "triggers": [
-   "pull up a stoop"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079119177265057839",
-  "tag": "$JS"
- },
- {
   "name": "The Architecture of Trust",
   "triggers": [
    "the architecture of trust"
@@ -201,6 +193,14 @@
    "money that feeds"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086387024022351872",
+  "tag": "$JS"
+ },
+ {
+  "name": "Pull Up a Stoop",
+  "triggers": [
+   "pull up a stoop"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086608592606482478",
   "tag": "$JS"
  }
 ]
