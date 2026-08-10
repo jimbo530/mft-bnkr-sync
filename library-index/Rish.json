@@ -63,14 +63,6 @@
   "tag": "$RISH"
  },
  {
-  "name": "Sing Ye for a Coin",
-  "triggers": [
-   "sing ye for a coin"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079375826403885081",
-  "tag": "$RISH"
- },
- {
   "name": "Will Ye March",
   "triggers": [
    "will ye march"
@@ -221,6 +213,14 @@
    "the first loaf"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086694161546109383",
+  "tag": "$RISH"
+ },
+ {
+  "name": "Sing Ye for a Coin",
+  "triggers": [
+   "sing ye for a coin"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086809920934912276",
   "tag": "$RISH"
  }
 ]
