@@ -245,19 +245,6 @@
     "caption": "\"They Paid Me To Feed You\" — Bongo\n\n$BONGO 0x85Dd5183D203CcE70b88234D31f075774AcCC453"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2078771898423341164",
-    "translation": "The Road to Robinhood",
-    "name": "The Road to Robinhood",
-    "triggers": [
-      "the road to robinhood"
-    ],
-    "band": "Rish",
-    "tag": "$RISH",
-    "ca": "0x31c600871603bab5d855463E03c6d0a9eB661D26",
-    "xPost": "https://x.com/MemeForTrees/status/2078771898423341164",
-    "caption": "\"The Road To Robinhood\" — Rish\n\n$RISH 0x31c600871603bab5d855463E03c6d0a9eB661D26"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2078776881512415664",
     "translation": "The Whole Block Came",
     "name": "The Whole Block Came",
@@ -4238,5 +4225,18 @@
     "ca": "0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3",
     "xPost": "https://x.com/MemeForTrees/status/2086653857942168030",
     "caption": "\"Every Road a Grove\" — Digerie Dude\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2086669001569005629",
+    "translation": "The Road to Robinhood",
+    "name": "The Road to Robinhood",
+    "triggers": [
+      "the road to robinhood"
+    ],
+    "band": "Rish",
+    "tag": "$RISH",
+    "ca": "0x31c600871603bab5d855463E03c6d0a9eB661D26",
+    "xPost": "https://x.com/MemeForTrees/status/2086669001569005629",
+    "caption": "\"The Road To Robinhood\" — Rish\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

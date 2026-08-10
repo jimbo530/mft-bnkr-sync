@@ -16,14 +16,6 @@
   "tag": "$RISH"
  },
  {
-  "name": "The Road to Robinhood",
-  "triggers": [
-   "the road to robinhood"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078771898423341164",
-  "tag": "$RISH"
- },
- {
   "name": "Will Ye Prompt It",
   "triggers": [
    "will ye prompt it"
@@ -221,6 +213,14 @@
    "the hearth that tends itself"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086528036933959932",
+  "tag": "$RISH"
+ },
+ {
+  "name": "The Road to Robinhood",
+  "triggers": [
+   "the road to robinhood"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086669001569005629",
   "tag": "$RISH"
  }
 ]

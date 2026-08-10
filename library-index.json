@@ -155,14 +155,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2078761785230811613"
  },
  {
-  "band": "Rish",
-  "name": "The Road to Robinhood",
-  "triggers": [
-   "the road to robinhood"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078771898423341164"
- },
- {
   "band": "EBM",
   "name": "The Whole Block Came",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "every road a grove"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086653857942168030"
+ },
+ {
+  "band": "Rish",
+  "name": "The Road to Robinhood",
+  "triggers": [
+   "the road to robinhood"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086669001569005629"
  }
 ]
