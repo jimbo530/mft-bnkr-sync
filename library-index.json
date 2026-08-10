@@ -1034,14 +1034,6 @@
  },
  {
   "band": "MR",
-  "name": "The Oldest Provider",
-  "triggers": [
-   "the oldest provider"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079667746569154691"
- },
- {
-  "band": "MR",
   "name": "Third of the Harvest",
   "triggers": [
    "third of the harvest"
@@ -2645,5 +2637,13 @@
    "the canopy drinks the bass"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086945762886172774"
+ },
+ {
+  "band": "MR",
+  "name": "The Oldest Provider",
+  "triggers": [
+   "the oldest provider"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086950796717912567"
  }
 ]

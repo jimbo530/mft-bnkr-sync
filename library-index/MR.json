@@ -70,14 +70,6 @@
   "tag": "$MR"
  },
  {
-  "name": "The Oldest Provider",
-  "triggers": [
-   "the oldest provider"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079667746569154691",
-  "tag": "$MR"
- },
- {
   "name": "Third of the Harvest",
   "triggers": [
    "third of the harvest"
@@ -203,6 +195,14 @@
    "first everybody builds"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086910479545340367",
+  "tag": "$MR"
+ },
+ {
+  "name": "The Oldest Provider",
+  "triggers": [
+   "the oldest provider"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086950796717912567",
   "tag": "$MR"
  }
 ]
