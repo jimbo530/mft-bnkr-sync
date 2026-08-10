@@ -283,14 +283,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2078998344987210126"
  },
  {
-  "band": "JS",
-  "name": "Stands On Its Own",
-  "triggers": [
-   "stands on its own"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079003447685251545"
- },
- {
   "band": "NN",
   "name": "It Came With Its Own",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "the lady keeps the leaves"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086829995075293637"
+ },
+ {
+  "band": "JS",
+  "name": "Stands On Its Own",
+  "triggers": [
+   "stands on its own"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086850090027700725"
  }
 ]

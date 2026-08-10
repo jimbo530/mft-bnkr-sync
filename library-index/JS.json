@@ -32,14 +32,6 @@
   "tag": "$JS"
  },
  {
-  "name": "Stands On Its Own",
-  "triggers": [
-   "stands on its own"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079003447685251545",
-  "tag": "$JS"
- },
- {
   "name": "Just Say It Plain",
   "triggers": [
    "just say it plain"
@@ -201,6 +193,14 @@
    "pull up a stoop"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086608592606482478",
+  "tag": "$JS"
+ },
+ {
+  "name": "Stands On Its Own",
+  "triggers": [
+   "stands on its own"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086850090027700725",
   "tag": "$JS"
  }
 ]

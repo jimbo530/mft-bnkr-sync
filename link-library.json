@@ -453,19 +453,6 @@
     "caption": "\"She Just Said It\" — Jony Sings\n\n$MfT"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2079003447685251545",
-    "translation": "Stands On Its Own",
-    "name": "Stands On Its Own",
-    "triggers": [
-      "stands on its own"
-    ],
-    "band": "JS",
-    "tag": "$JS",
-    "ca": "0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65",
-    "xPost": "https://x.com/MemeForTrees/status/2079003447685251545",
-    "caption": "\"Stands On Its Own\" — Jony Sings\n\n$MfT"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2079013448327835763",
     "translation": "It Came With Its Own",
     "name": "It Came With Its Own",
@@ -4238,5 +4225,18 @@
     "ca": "0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc",
     "xPost": "https://x.com/MemeForTrees/status/2086829995075293637",
     "caption": "\"The Lady Keeps the Leaves\" — Natilie Nightclub\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2086850090027700725",
+    "translation": "Stands On Its Own",
+    "name": "Stands On Its Own",
+    "triggers": [
+      "stands on its own"
+    ],
+    "band": "JS",
+    "tag": "$JS",
+    "ca": "0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65",
+    "xPost": "https://x.com/MemeForTrees/status/2086850090027700725",
+    "caption": "\"Stands On Its Own\" — Jony Sings\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
