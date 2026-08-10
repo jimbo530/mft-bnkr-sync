@@ -1,13 +1,5 @@
 [
  {
-  "name": "One Clean Drop",
-  "triggers": [
-   "one clean drop"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078625934685413582",
-  "tag": "$NN"
- },
- {
   "name": "Ask Me Why I Stay",
   "triggers": [
    "ask me why i stay"
@@ -213,6 +205,14 @@
    "neighbors now"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086573328651747689",
+  "tag": "$NN"
+ },
+ {
+  "name": "One Clean Drop",
+  "triggers": [
+   "one clean drop"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086754514808234049",
   "tag": "$NN"
  }
 ]

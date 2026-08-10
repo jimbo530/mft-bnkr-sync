@@ -43,14 +43,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2078620859216908413"
  },
  {
-  "band": "NN",
-  "name": "One Clean Drop",
-  "triggers": [
-   "one clean drop"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078625934685413582"
- },
- {
   "band": "MR",
   "name": "Feed the Column",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "quick as a drumbeat"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086734386062385284"
+ },
+ {
+  "band": "NN",
+  "name": "One Clean Drop",
+  "triggers": [
+   "one clean drop"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086754514808234049"
  }
 ]
