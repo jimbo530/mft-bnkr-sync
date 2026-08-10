@@ -132,14 +132,6 @@
   "tag": "$DD"
  },
  {
-  "name": "Every Road a Grove",
-  "triggers": [
-   "every road a grove"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079874146129907978",
-  "tag": "$DD"
- },
- {
   "name": "One River",
   "triggers": [
    "one river"
@@ -243,6 +235,14 @@
    "meme to a mangrove"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086593465773633550",
+  "tag": "$DD"
+ },
+ {
+  "name": "Every Road a Grove",
+  "triggers": [
+   "every road a grove"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086653857942168030",
   "tag": "$DD"
  }
 ]

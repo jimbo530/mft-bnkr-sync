@@ -2001,19 +2001,6 @@
     "caption": "\"Clean the Block\" — Elves of Ballinmoore\n\n$EBM 0xF113fe2A0E1181A21fA97B1F52ff232140B7692d"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2079874146129907978",
-    "translation": "Every Road a Grove",
-    "name": "Every Road a Grove",
-    "triggers": [
-      "every road a grove"
-    ],
-    "band": "DD",
-    "tag": "$DD",
-    "ca": "0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3",
-    "xPost": "https://x.com/MemeForTrees/status/2079874146129907978",
-    "caption": "\"Every Road a Grove\" — Digerie Dude\n\n$DD 0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2079904339997454768",
     "translation": "They Came to Us",
     "name": "They Came to Us",
@@ -4238,5 +4225,18 @@
     "ca": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d",
     "xPost": "https://x.com/MemeForTrees/status/2086628687948943398",
     "caption": "\"The Club With No Gate\" — Elves of Ballinmoore\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2086653857942168030",
+    "translation": "Every Road a Grove",
+    "name": "Every Road a Grove",
+    "triggers": [
+      "every road a grove"
+    ],
+    "band": "DD",
+    "tag": "$DD",
+    "ca": "0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3",
+    "xPost": "https://x.com/MemeForTrees/status/2086653857942168030",
+    "caption": "\"Every Road a Grove\" — Digerie Dude\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

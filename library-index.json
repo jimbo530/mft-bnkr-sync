@@ -1257,14 +1257,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079859002565870051"
  },
  {
-  "band": "DD",
-  "name": "Every Road a Grove",
-  "triggers": [
-   "every road a grove"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079874146129907978"
- },
- {
   "band": "EBM",
   "name": "They Came to Us",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "the club with no gate"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086628687948943398"
+ },
+ {
+  "band": "DD",
+  "name": "Every Road a Grove",
+  "triggers": [
+   "every road a grove"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086653857942168030"
  }
 ]
