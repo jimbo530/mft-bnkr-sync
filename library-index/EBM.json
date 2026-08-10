@@ -48,14 +48,6 @@
   "tag": "$EBM"
  },
  {
-  "name": "The Club With No Gate",
-  "triggers": [
-   "the club with no gate"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079043682120945795",
-  "tag": "$EBM"
- },
- {
   "name": "Street Mint",
   "triggers": [
    "street mint"
@@ -302,6 +294,14 @@
    "costs you nothing"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086548201193037956",
+  "tag": "$EBM"
+ },
+ {
+  "name": "The Club With No Gate",
+  "triggers": [
+   "the club with no gate"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086628687948943398",
   "tag": "$EBM"
  }
 ]

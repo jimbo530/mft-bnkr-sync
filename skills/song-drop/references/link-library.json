@@ -591,19 +591,6 @@
     "caption": "\"Say the Word\" — Elves of Ballinmoore\n\n$MfT"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2079043682120945795",
-    "translation": "The Club With No Gate",
-    "name": "The Club With No Gate",
-    "triggers": [
-      "the club with no gate"
-    ],
-    "band": "EBM",
-    "tag": "$EBM",
-    "ca": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d",
-    "xPost": "https://x.com/MemeForTrees/status/2079043682120945795",
-    "caption": "\"The Club With No Gate\" — Elves of Ballinmoore\n\n$MfT"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2079048677402739123",
     "translation": "Everybody in the Circle",
     "name": "Everybody in the Circle",
@@ -4238,5 +4225,18 @@
     "ca": null,
     "xPost": "https://x.com/MemeForTrees/status/2086613597921157226",
     "caption": "\"It Keeps Itself Alive\" — CB\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2086628687948943398",
+    "translation": "The Club With No Gate",
+    "name": "The Club With No Gate",
+    "triggers": [
+      "the club with no gate"
+    ],
+    "band": "EBM",
+    "tag": "$EBM",
+    "ca": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d",
+    "xPost": "https://x.com/MemeForTrees/status/2086628687948943398",
+    "caption": "\"The Club With No Gate\" — Elves of Ballinmoore\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
