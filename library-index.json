@@ -886,14 +886,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079545861537771528"
  },
  {
-  "band": "DGT",
-  "name": "Party While You're Here",
-  "triggers": [
-   "party while you're here"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079562134900408453"
- },
- {
   "band": "DD",
   "name": "Đi Tiếp (One More Mile)",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "the beat votes tomorrow"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087106779758964890"
+ },
+ {
+  "band": "DGT",
+  "name": "Party While You're Here",
+  "triggers": [
+   "party while you're here"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087111890753249480"
  }
 ]

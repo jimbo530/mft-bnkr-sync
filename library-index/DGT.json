@@ -64,14 +64,6 @@
   "tag": "$DGT"
  },
  {
-  "name": "Party While You're Here",
-  "triggers": [
-   "party while you're here"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079562134900408453",
-  "tag": "$DGT"
- },
- {
   "name": "One Night Ahead",
   "triggers": [
    "one night ahead"
@@ -144,6 +136,14 @@
    "gone in a second"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086774719714365922",
+  "tag": "$DGT"
+ },
+ {
+  "name": "Party While You're Here",
+  "triggers": [
+   "party while you're here"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087111890753249480",
   "tag": "$DGT"
  }
 ]
