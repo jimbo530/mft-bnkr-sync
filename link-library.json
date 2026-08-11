@@ -2172,19 +2172,6 @@
     "caption": "\"Everyone Onchain By Friday\" — CB\n\n$MfT"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2080407678791078346",
-    "translation": "STILL HERE FORWARD",
-    "name": "STILL HERE FORWARD",
-    "triggers": [
-      "still here forward"
-    ],
-    "band": "CB",
-    "tag": "$MfT",
-    "ca": null,
-    "xPost": "https://x.com/MemeForTrees/status/2080407678791078346",
-    "caption": "\"Forward\" — CB\n\nBankr fam stays building\n\n$MfT"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2080417752053907799",
     "translation": "Green Candle Anthem",
     "name": "Green Candle Anthem",
@@ -4238,5 +4225,18 @@
     "ca": "0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65",
     "xPost": "https://x.com/MemeForTrees/status/2086965864545316946",
     "caption": "\"Build the Grove\" — Jony Sings\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2086970919851860164",
+    "translation": "STILL HERE FORWARD",
+    "name": "STILL HERE FORWARD",
+    "triggers": [
+      "still here forward"
+    ],
+    "band": "CB",
+    "tag": "$MfT",
+    "ca": null,
+    "xPost": "https://x.com/MemeForTrees/status/2086970919851860164",
+    "caption": "\"Forward\" — CB\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

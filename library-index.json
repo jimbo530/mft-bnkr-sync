@@ -1370,14 +1370,6 @@
  },
  {
   "band": "CB",
-  "name": "STILL HERE FORWARD",
-  "triggers": [
-   "still here forward"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080407678791078346"
- },
- {
-  "band": "CB",
   "name": "Green Candle Anthem",
   "triggers": [
    "green candle anthem"
@@ -2645,5 +2637,13 @@
    "build the grove"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086965864545316946"
+ },
+ {
+  "band": "CB",
+  "name": "STILL HERE FORWARD",
+  "triggers": [
+   "still here forward"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086970919851860164"
  }
 ]
