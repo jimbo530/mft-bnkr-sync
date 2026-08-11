@@ -88,14 +88,6 @@
   "tag": "$NN"
  },
  {
-  "name": "The Velvet Ledger",
-  "triggers": [
-   "the velvet ledger"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079788582848311495",
-  "tag": "$NN"
- },
- {
   "name": "Cheap Tricks Expensive Forests",
   "triggers": [
    "cheap tricks expensive forests"
@@ -213,6 +205,14 @@
    "it came with its own"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086885315193540931",
+  "tag": "$NN"
+ },
+ {
+  "name": "The Velvet Ledger",
+  "triggers": [
+   "the velvet ledger"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087126905866564001",
   "tag": "$NN"
  }
 ]

@@ -1018,14 +1018,6 @@
  },
  {
   "band": "NN",
-  "name": "The Velvet Ledger",
-  "triggers": [
-   "the velvet ledger"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079788582848311495"
- },
- {
-  "band": "NN",
   "name": "Cheap Tricks Expensive Forests",
   "triggers": [
    "cheap tricks expensive forests"
@@ -2645,5 +2637,13 @@
    "party while you're here"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087111890753249480"
+ },
+ {
+  "band": "NN",
+  "name": "The Velvet Ledger",
+  "triggers": [
+   "the velvet ledger"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087126905866564001"
  }
 ]
