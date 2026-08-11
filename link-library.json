@@ -1108,19 +1108,6 @@
     "caption": "\"The Warden's Round\" — Rish\n\n$RISH 0x31c600871603bab5d855463E03c6d0a9eB661D26"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2079330593632813478",
-    "translation": "Char in the Soil",
-    "name": "Char in the Soil",
-    "triggers": [
-      "char in the soil"
-    ],
-    "band": "Myco",
-    "tag": "$MYCO",
-    "ca": "0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3",
-    "xPost": "https://x.com/MemeForTrees/status/2079330593632813478",
-    "caption": "\"- Char in the Soil\" — Myco\n\n$MYCO 0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2079347245405679828",
     "translation": "The Hordes Keep Coming",
     "name": "The Hordes Keep Coming",
@@ -4238,5 +4225,18 @@
     "ca": null,
     "xPost": "https://x.com/MemeForTrees/status/2087011192577397181",
     "caption": "\"Revolution Has Begun\" — CB\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2087026294726783487",
+    "translation": "Char in the Soil",
+    "name": "Char in the Soil",
+    "triggers": [
+      "char in the soil"
+    ],
+    "band": "Myco",
+    "tag": "$MYCO",
+    "ca": "0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3",
+    "xPost": "https://x.com/MemeForTrees/status/2087026294726783487",
+    "caption": "\"- Char in the Soil\" — Myco\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

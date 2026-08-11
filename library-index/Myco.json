@@ -23,14 +23,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079243269200834706"
  },
  {
-  "name": "Char in the Soil",
-  "triggers": [
-   "char in the soil"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079330593632813478",
-  "tag": "$MYCO"
- },
- {
   "name": "The Cost of the Canopy",
   "triggers": [
    "the cost of the canopy"
@@ -228,6 +220,14 @@
    "the canopy drinks the bass"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086945762886172774",
+  "tag": "$MYCO"
+ },
+ {
+  "name": "Char in the Soil",
+  "triggers": [
+   "char in the soil"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087026294726783487",
   "tag": "$MYCO"
  }
 ]

@@ -714,14 +714,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079320486387830958"
  },
  {
-  "band": "Myco",
-  "name": "Char in the Soil",
-  "triggers": [
-   "char in the soil"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079330593632813478"
- },
- {
   "band": "WarMachine",
   "name": "The Hordes Keep Coming",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "revolution has begun"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087011192577397181"
+ },
+ {
+  "band": "Myco",
+  "name": "Char in the Soil",
+  "triggers": [
+   "char in the soil"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087026294726783487"
  }
 ]
