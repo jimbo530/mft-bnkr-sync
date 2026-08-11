@@ -1017,14 +1017,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079708012533445089"
  },
  {
-  "band": "Myco",
-  "name": "What Survives the Dark",
-  "triggers": [
-   "what survives the dark"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079723216268857808"
- },
- {
   "band": "Rish",
   "name": "The Love You Give",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "every language sings a tree"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087031319565914148"
+ },
+ {
+  "band": "Myco",
+  "name": "What Survives the Dark",
+  "triggers": [
+   "what survives the dark"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087046432976969795"
  }
 ]
