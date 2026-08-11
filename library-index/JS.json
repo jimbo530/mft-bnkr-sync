@@ -54,14 +54,6 @@
   "promote": true
  },
  {
-  "name": "Nix at the Front",
-  "triggers": [
-   "nix at the front"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079255033225347091",
-  "tag": "$JS"
- },
- {
   "name": "Everybody Drinks",
   "triggers": [
    "everybody drinks"
@@ -201,6 +193,14 @@
    "build the grove"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086965864545316946",
+  "tag": "$JS"
+ },
+ {
+  "name": "Nix at the Front",
+  "triggers": [
+   "nix at the front"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087071539380330869",
   "tag": "$JS"
  }
 ]
