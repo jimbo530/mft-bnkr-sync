@@ -2198,19 +2198,6 @@
     "caption": "\"Plant It Loud\" — CB\n\nMeme for Trees runs on Bankr — memes that grow real forests\n\n$MfT"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2080493237588889901",
-    "translation": "Revolution Has Begun",
-    "name": "Revolution Has Begun",
-    "triggers": [
-      "revolution has begun"
-    ],
-    "band": "CB",
-    "tag": "$MfT",
-    "ca": null,
-    "xPost": "https://x.com/MemeForTrees/status/2080493237588889901",
-    "caption": "\"Revolution Has Begun\" — CB\n\nonchain for everyone, in plain words\n\n$MfT"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2080543530036916510",
     "translation": "No Value But Songs We Sing",
     "name": "No Value But Songs We Sing",
@@ -4238,5 +4225,18 @@
     "ca": "0x85Dd5183D203CcE70b88234D31f075774AcCC453",
     "xPost": "https://x.com/MemeForTrees/status/2086985980804804685",
     "caption": "\"The Agent Does It\" — Bongo\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2087011192577397181",
+    "translation": "Revolution Has Begun",
+    "name": "Revolution Has Begun",
+    "triggers": [
+      "revolution has begun"
+    ],
+    "band": "CB",
+    "tag": "$MfT",
+    "ca": null,
+    "xPost": "https://x.com/MemeForTrees/status/2087011192577397181",
+    "caption": "\"Revolution Has Begun\" — CB\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

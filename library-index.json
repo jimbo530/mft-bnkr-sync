@@ -1385,14 +1385,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2080468071626457422"
  },
  {
-  "band": "CB",
-  "name": "Revolution Has Begun",
-  "triggers": [
-   "revolution has begun"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080493237588889901"
- },
- {
   "band": "RickyBobbie",
   "name": "No Value But Songs We Sing",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "the agent does it"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086985980804804685"
+ },
+ {
+  "band": "CB",
+  "name": "Revolution Has Begun",
+  "triggers": [
+   "revolution has begun"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087011192577397181"
  }
 ]
