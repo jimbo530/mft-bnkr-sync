@@ -1235,14 +1235,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2080050312644055208"
  },
  {
-  "band": "DD",
-  "name": "Every Language Sings a Tree",
-  "triggers": [
-   "every language sings a tree"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080055323461554606"
- },
- {
   "band": "EBM",
   "name": "Countless",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "char in the soil"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087026294726783487"
+ },
+ {
+  "band": "DD",
+  "name": "Every Language Sings a Tree",
+  "triggers": [
+   "every language sings a tree"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087031319565914148"
  }
 ]

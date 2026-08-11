@@ -116,14 +116,6 @@
   "tag": "$DD"
  },
  {
-  "name": "Every Language Sings a Tree",
-  "triggers": [
-   "every language sings a tree"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080055323461554606",
-  "tag": "$DD"
- },
- {
   "name": "Nations as One",
   "triggers": [
    "nations as one"
@@ -243,6 +235,14 @@
    "carried by your love"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086930618764468453",
+  "tag": "$DD"
+ },
+ {
+  "name": "Every Language Sings a Tree",
+  "triggers": [
+   "every language sings a tree"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087031319565914148",
   "tag": "$DD"
  }
 ]
