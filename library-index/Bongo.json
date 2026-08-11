@@ -24,14 +24,6 @@
   "tag": "$BONGO"
  },
  {
-  "name": "The Agent Does It",
-  "triggers": [
-   "the agent does it"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079078919622336767",
-  "tag": "$BONGO"
- },
- {
   "name": "They Gave Me a Link",
   "triggers": [
    "they gave me a link"
@@ -171,6 +163,14 @@
    "quick as a drumbeat"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086734386062385284",
+  "tag": "$BONGO"
+ },
+ {
+  "name": "The Agent Does It",
+  "triggers": [
+   "the agent does it"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086985980804804685",
   "tag": "$BONGO"
  }
 ]

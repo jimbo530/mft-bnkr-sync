@@ -314,14 +314,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079073911384244441"
  },
  {
-  "band": "Bongo",
-  "name": "The Agent Does It",
-  "triggers": [
-   "the agent does it"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079078919622336767"
- },
- {
   "band": "Rish",
   "name": "The Whole Bar Onchain",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "still here forward"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086970919851860164"
+ },
+ {
+  "band": "Bongo",
+  "name": "The Agent Does It",
+  "triggers": [
+   "the agent does it"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086985980804804685"
  }
 ]
