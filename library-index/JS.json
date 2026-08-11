@@ -70,14 +70,6 @@
   "tag": "$JS"
  },
  {
-  "name": "Build the Grove",
-  "triggers": [
-   "build the grove"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079587218776043535",
-  "tag": "$JS"
- },
- {
   "name": "Friday on the Green",
   "triggers": [
    "friday on the green"
@@ -201,6 +193,14 @@
    "stands on its own"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086850090027700725",
+  "tag": "$JS"
+ },
+ {
+  "name": "Build the Grove",
+  "triggers": [
+   "build the grove"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086965864545316946",
   "tag": "$JS"
  }
 ]

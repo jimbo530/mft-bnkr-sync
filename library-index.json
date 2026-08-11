@@ -942,14 +942,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079577214123700432"
  },
  {
-  "band": "JS",
-  "name": "Build the Grove",
-  "triggers": [
-   "build the grove"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079587218776043535"
- },
- {
   "band": null,
   "name": "whats new with RWI",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "the oldest provider"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086950796717912567"
+ },
+ {
+  "band": "JS",
+  "name": "Build the Grove",
+  "triggers": [
+   "build the grove"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086965864545316946"
  }
 ]
