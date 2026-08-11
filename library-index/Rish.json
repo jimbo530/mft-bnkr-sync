@@ -47,14 +47,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079252656258797778"
  },
  {
-  "name": "The Warden's Round",
-  "triggers": [
-   "the warden's round"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079320486387830958",
-  "tag": "$RISH"
- },
- {
   "name": "Will Ye March",
   "triggers": [
    "will ye march"
@@ -221,6 +213,14 @@
    "will ye prompt it"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086865229879615493",
+  "tag": "$RISH"
+ },
+ {
+  "name": "The Warden's Round",
+  "triggers": [
+   "the warden's round"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087086686165483901",
   "tag": "$RISH"
  }
 ]

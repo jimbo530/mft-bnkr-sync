@@ -698,14 +698,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079303270204383633"
  },
  {
-  "band": "Rish",
-  "name": "The Warden's Round",
-  "triggers": [
-   "the warden's round"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079320486387830958"
- },
- {
   "band": "WarMachine",
   "name": "The Hordes Keep Coming",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "nix at the front"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087071539380330869"
+ },
+ {
+  "band": "Rish",
+  "name": "The Warden's Round",
+  "triggers": [
+   "the warden's round"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087086686165483901"
  }
 ]
