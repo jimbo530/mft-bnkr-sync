@@ -77,14 +77,6 @@
   "tag": "$MYCO"
  },
  {
-  "name": "Roots That Hold",
-  "triggers": [
-   "roots that hold"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079843908800958583",
-  "tag": "$MYCO"
- },
- {
   "name": "Counted and Kept",
   "triggers": [
    "counted and kept"
@@ -228,6 +220,14 @@
    "what survives the dark"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087046432976969795",
+  "tag": "$MYCO"
+ },
+ {
+  "name": "Roots That Hold",
+  "triggers": [
+   "roots that hold"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087051458659209379",
   "tag": "$MYCO"
  }
 ]

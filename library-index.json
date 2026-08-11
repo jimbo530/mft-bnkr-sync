@@ -1065,14 +1065,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079813714258141486"
  },
  {
-  "band": "Myco",
-  "name": "Roots That Hold",
-  "triggers": [
-   "roots that hold"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079843908800958583"
- },
- {
   "band": "EBM",
   "name": "Clean the Block",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "what survives the dark"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087046432976969795"
+ },
+ {
+  "band": "Myco",
+  "name": "Roots That Hold",
+  "triggers": [
+   "roots that hold"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087051458659209379"
  }
 ]
