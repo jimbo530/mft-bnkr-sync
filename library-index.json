@@ -1081,14 +1081,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079919465928503527"
  },
  {
-  "band": "Bongo",
-  "name": "The Beat Votes Tomorrow",
-  "triggers": [
-   "the beat votes tomorrow"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079939538382630969"
- },
- {
   "band": "Rish",
   "name": "The Town of the Cats",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "the warden's round"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087086686165483901"
+ },
+ {
+  "band": "Bongo",
+  "name": "The Beat Votes Tomorrow",
+  "triggers": [
+   "the beat votes tomorrow"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087106779758964890"
  }
 ]

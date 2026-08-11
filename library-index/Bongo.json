@@ -82,14 +82,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079622844602888196"
  },
  {
-  "name": "The Beat Votes Tomorrow",
-  "triggers": [
-   "the beat votes tomorrow"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079939538382630969",
-  "tag": "$BONGO"
- },
- {
   "name": "The Hungry Drum",
   "triggers": [
    "the hungry drum"
@@ -171,6 +163,14 @@
    "the agent does it"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086985980804804685",
+  "tag": "$BONGO"
+ },
+ {
+  "name": "The Beat Votes Tomorrow",
+  "triggers": [
+   "the beat votes tomorrow"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087106779758964890",
   "tag": "$BONGO"
  }
 ]
