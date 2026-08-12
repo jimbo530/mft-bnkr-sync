@@ -22,14 +22,6 @@
   "tag": "$WM"
  },
  {
-  "name": "It Does Our Bidding",
-  "triggers": [
-   "it does our bidding"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080639160403038219",
-  "tag": "$WM"
- },
- {
   "name": "It Moves When We Roar",
   "triggers": [
    "it moves when we roar"
@@ -51,6 +43,14 @@
    "two war-grounds"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2085939087924498538",
+  "tag": "$WM"
+ },
+ {
+  "name": "It Does Our Bidding",
+  "triggers": [
+   "it does our bidding"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087620196919865591",
   "tag": "$WM"
  }
 ]
