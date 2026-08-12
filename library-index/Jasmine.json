@@ -8,14 +8,6 @@
   "tag": "$JASMINE"
  },
  {
-  "name": "Come and Stay Free",
-  "triggers": [
-   "come and stay free"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079989878847135978",
-  "tag": "$JASMINE"
- },
- {
   "name": "It Rides for You",
   "triggers": [
    "it rides for you"
@@ -45,6 +37,14 @@
    "warmth of the dwarven hearth"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086507947761271242",
+  "tag": "$JASMINE"
+ },
+ {
+  "name": "Come and Stay Free",
+  "triggers": [
+   "come and stay free"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087544667365593366",
   "tag": "$JASMINE"
  }
 ]
