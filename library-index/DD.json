@@ -45,14 +45,6 @@
   ]
  },
  {
-  "name": "Dig a Little Deeper",
-  "triggers": [
-   "dig a little deeper"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079245015453176219",
-  "tag": "$DD"
- },
- {
   "name": "Water to the Village",
   "triggers": [
    "water to the village"
@@ -243,6 +235,14 @@
    "the sun comes back"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087524629686436080",
+  "tag": "$DD"
+ },
+ {
+  "name": "Dig a Little Deeper",
+  "triggers": [
+   "dig a little deeper"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087625196467339268",
   "tag": "$DD"
  }
 ]
