@@ -1073,14 +1073,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079953621907554522"
  },
  {
-  "band": "JS",
-  "name": "The Block Plants Oaks",
-  "triggers": [
-   "the block plants oaks"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079954677337088056"
- },
- {
   "band": null,
   "name": "show me the love",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "the velvet ledger"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087126905866564001"
+ },
+ {
+  "band": "JS",
+  "name": "The Block Plants Oaks",
+  "triggers": [
+   "the block plants oaks"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087494359490900260"
  }
 ]
