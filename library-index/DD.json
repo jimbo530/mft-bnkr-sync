@@ -24,14 +24,6 @@
   "tag": "$DD"
  },
  {
-  "name": "Where the Maps Run Out",
-  "triggers": [
-   "where the maps run out"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079149386735538233",
-  "tag": "$DD"
- },
- {
   "name": "The Orchard That Was a Fence",
   "triggers": [
    "the orchard that was a fence"
@@ -243,6 +235,14 @@
    "every language sings a tree"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087031319565914148",
+  "tag": "$DD"
+ },
+ {
+  "name": "Where the Maps Run Out",
+  "triggers": [
+   "where the maps run out"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087499369612206497",
   "tag": "$DD"
  }
 ]

@@ -346,14 +346,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079139272595030342"
  },
  {
-  "band": "DD",
-  "name": "Where the Maps Run Out",
-  "triggers": [
-   "where the maps run out"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079149386735538233"
- },
- {
   "band": "ALAN",
   "name": "The Rules Are the Rules",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "the block plants oaks"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087494359490900260"
+ },
+ {
+  "band": "DD",
+  "name": "Where the Maps Run Out",
+  "triggers": [
+   "where the maps run out"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087499369612206497"
  }
 ]
