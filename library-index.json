@@ -854,14 +854,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079568304016900141"
  },
  {
-  "band": "Myco",
-  "name": "Love Is the Light",
-  "triggers": [
-   "love is the light"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079577214123700432"
- },
- {
   "band": null,
   "name": "whats new with RWI",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "dig a little deeper"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087625196467339268"
+ },
+ {
+  "band": "Myco",
+  "name": "Love Is the Light",
+  "triggers": [
+   "love is the light"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087640355285909890"
  }
 ]

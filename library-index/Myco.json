@@ -30,14 +30,6 @@
   "tag": "$MYCO"
  },
  {
-  "name": "Love Is the Light",
-  "triggers": [
-   "love is the light"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079577214123700432",
-  "tag": "$MYCO"
- },
- {
   "name": "Connect the Good",
   "triggers": [
    "connect the good"
@@ -228,6 +220,14 @@
    "the catalog of tools"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087519564498079893",
+  "tag": "$MYCO"
+ },
+ {
+  "name": "Love Is the Light",
+  "triggers": [
+   "love is the light"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087640355285909890",
   "tag": "$MYCO"
  }
 ]
