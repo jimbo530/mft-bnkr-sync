@@ -8,14 +8,6 @@
   "tag": "$MYCO"
  },
  {
-  "name": "The Catalog of Tools",
-  "triggers": [
-   "the catalog of tools"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078892703337611364",
-  "tag": "$MYCO"
- },
- {
   "name": "It Does Not Go Unseen",
   "triggers": [
    "it does not go unseen"
@@ -228,6 +220,14 @@
    "roots that hold"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087051458659209379",
+  "tag": "$MYCO"
+ },
+ {
+  "name": "The Catalog of Tools",
+  "triggers": [
+   "the catalog of tools"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087519564498079893",
   "tag": "$MYCO"
  }
 ]
