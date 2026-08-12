@@ -802,14 +802,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079456395129131479"
  },
  {
-  "band": "DD",
-  "name": "The Sun Comes Back",
-  "triggers": [
-   "the sun comes back"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079466429527593230"
- },
- {
   "band": "MR",
   "name": "The Roar Plants the Grove",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "the catalog of tools"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087519564498079893"
+ },
+ {
+  "band": "DD",
+  "name": "The Sun Comes Back",
+  "triggers": [
+   "the sun comes back"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087524629686436080"
  }
 ]

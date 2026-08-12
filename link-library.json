@@ -1258,19 +1258,6 @@
     "caption": "\"Everybody Drinks\" — Jony Sings\n\n$JS 0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2079466429527593230",
-    "translation": "The Sun Comes Back",
-    "name": "The Sun Comes Back",
-    "triggers": [
-      "the sun comes back"
-    ],
-    "band": "DD",
-    "tag": "$DD",
-    "ca": "0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3",
-    "xPost": "https://x.com/MemeForTrees/status/2079466429527593230",
-    "caption": "\"The Sun Comes Back\" — Digerie Dude\n\n$DD 0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2079481560013693296",
     "translation": "The Roar Plants the Grove",
     "name": "The Roar Plants the Grove",
@@ -4238,5 +4225,18 @@
     "ca": "0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3",
     "xPost": "https://x.com/MemeForTrees/status/2087519564498079893",
     "caption": "\"- The Catalog of Tools\" — Myco\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2087524629686436080",
+    "translation": "The Sun Comes Back",
+    "name": "The Sun Comes Back",
+    "triggers": [
+      "the sun comes back"
+    ],
+    "band": "DD",
+    "tag": "$DD",
+    "ca": "0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3",
+    "xPost": "https://x.com/MemeForTrees/status/2087524629686436080",
+    "caption": "\"The Sun Comes Back\" — Digerie Dude\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
