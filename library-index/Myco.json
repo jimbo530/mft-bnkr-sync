@@ -22,14 +22,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079388587297038636"
  },
  {
-  "name": "The Rite of the Floor",
-  "triggers": [
-   "the rite of the floor"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079496676171993146",
-  "tag": "$MYCO"
- },
- {
   "name": "Connect the Good",
   "triggers": [
    "connect the good"
@@ -228,6 +220,14 @@
    "love is the light"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087640355285909890",
+  "tag": "$MYCO"
+ },
+ {
+  "name": "The Rite of the Floor",
+  "triggers": [
+   "the rite of the floor"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087685644956860810",
   "tag": "$MYCO"
  }
 ]

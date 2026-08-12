@@ -802,14 +802,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079486608634445944"
  },
  {
-  "band": "Myco",
-  "name": "The Rite of the Floor",
-  "triggers": [
-   "the rite of the floor"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079496676171993146"
- },
- {
   "band": null,
   "name": "tunes for trees",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "the street takes requests"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087680544318374005"
+ },
+ {
+  "band": "Myco",
+  "name": "The Rite of the Floor",
+  "triggers": [
+   "the rite of the floor"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087685644956860810"
  }
 ]

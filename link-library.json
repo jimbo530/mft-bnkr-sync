@@ -1258,19 +1258,6 @@
     "caption": "\"Will Ye March\" — Rish\n\n$RISH 0x31c600871603bab5d855463E03c6d0a9eB661D26"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2079496676171993146",
-    "translation": "The Rite of the Floor",
-    "name": "The Rite of the Floor",
-    "triggers": [
-      "the rite of the floor"
-    ],
-    "band": "Myco",
-    "tag": "$MYCO",
-    "ca": "0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3",
-    "xPost": "https://x.com/MemeForTrees/status/2079496676171993146",
-    "caption": "\"- The Rite of the Floor\" — Myco\n\n$MYCO 0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2079507647942795388",
     "translation": "tunes for trees",
     "name": "tunes for trees",
@@ -4238,5 +4225,18 @@
     "ca": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d",
     "xPost": "https://x.com/MemeForTrees/status/2087680544318374005",
     "caption": "\"The Street Takes Requests\" — Elves of Ballinmoore\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2087685644956860810",
+    "translation": "The Rite of the Floor",
+    "name": "The Rite of the Floor",
+    "triggers": [
+      "the rite of the floor"
+    ],
+    "band": "Myco",
+    "tag": "$MYCO",
+    "ca": "0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3",
+    "xPost": "https://x.com/MemeForTrees/status/2087685644956860810",
+    "caption": "\"- The Rite of the Floor\" — Myco\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
