@@ -137,14 +137,6 @@
   "tag": "$EBM"
  },
  {
-  "name": "Countless",
-  "triggers": [
-   "countless"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080065374519800135",
-  "tag": "$EBM"
- },
- {
   "name": "A Billion Strong",
   "triggers": [
    "a billion strong"
@@ -302,6 +294,14 @@
    "ten years deep"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086925585226354787",
+  "tag": "$EBM"
+ },
+ {
+  "name": "Countless",
+  "triggers": [
+   "countless"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087579931089732005",
   "tag": "$EBM"
  }
 ]
