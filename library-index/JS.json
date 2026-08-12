@@ -24,14 +24,6 @@
   "tag": "$JS"
  },
  {
-  "name": "She Just Said It",
-  "triggers": [
-   "she just said it"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078998344987210126",
-  "tag": "$JS"
- },
- {
   "name": "Just Say It Plain",
   "triggers": [
    "just say it plain"
@@ -201,6 +193,14 @@
    "the block plants oaks"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087494359490900260",
+  "tag": "$JS"
+ },
+ {
+  "name": "She Just Said It",
+  "triggers": [
+   "she just said it"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087564793058144555",
   "tag": "$JS"
  }
 ]

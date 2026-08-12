@@ -243,14 +243,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2078988271829364898"
  },
  {
-  "band": "JS",
-  "name": "She Just Said It",
-  "triggers": [
-   "she just said it"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078998344987210126"
- },
- {
   "band": "ALAN",
   "name": "The First Coin Through the Flow",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "come and stay free"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087544667365593366"
+ },
+ {
+  "band": "JS",
+  "name": "She Just Said It",
+  "triggers": [
+   "she just said it"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087564793058144555"
  }
 ]
