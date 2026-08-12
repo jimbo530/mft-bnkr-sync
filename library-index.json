@@ -1099,14 +1099,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2080035242983805303"
  },
  {
-  "band": "EBM",
-  "name": "The Street Takes Requests",
-  "triggers": [
-   "the street takes requests"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080050312644055208"
- },
- {
   "band": "DGT",
   "name": "Just Got Out",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "love is the light"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087640355285909890"
+ },
+ {
+  "band": "EBM",
+  "name": "The Street Takes Requests",
+  "triggers": [
+   "the street takes requests"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087680544318374005"
  }
 ]
