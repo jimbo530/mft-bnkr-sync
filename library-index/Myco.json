@@ -22,14 +22,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079388587297038636"
  },
  {
-  "name": "Connect the Good",
-  "triggers": [
-   "connect the good"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079622499520708666",
-  "tag": "$MYCO"
- },
- {
   "name": "Every Day Above the Dark",
   "triggers": [
    "every day above the dark"
@@ -228,6 +220,14 @@
    "the rite of the floor"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087685644956860810",
+  "tag": "$MYCO"
+ },
+ {
+  "name": "Connect the Good",
+  "triggers": [
+   "connect the good"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087766173479801133",
   "tag": "$MYCO"
  }
 ]

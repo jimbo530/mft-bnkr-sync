@@ -873,14 +873,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079617545275953237"
  },
  {
-  "band": "Myco",
-  "name": "Connect the Good",
-  "triggers": [
-   "connect the good"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079622499520708666"
- },
- {
   "band": "Bongo",
   "name": "Pay the Bills (Then We Play)",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "name it and it's made"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087761088024641612"
+ },
+ {
+  "band": "Myco",
+  "name": "Connect the Good",
+  "triggers": [
+   "connect the good"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087766173479801133"
  }
 ]
