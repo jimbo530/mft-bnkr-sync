@@ -31,14 +31,6 @@
   "tag": "$RICKY"
  },
  {
-  "name": "Sign On",
-  "triggers": [
-   "sign on"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080583789571457152",
-  "tag": "$RICKY"
- },
- {
   "name": "She Carries Her Own",
   "triggers": [
    "she carries her own"
@@ -52,6 +44,14 @@
    "fastest word in the sky"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086225976095019262",
+  "tag": "$RICKY"
+ },
+ {
+  "name": "Sign On",
+  "triggers": [
+   "sign on"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087781249129533720",
   "tag": "$RICKY"
  }
 ]

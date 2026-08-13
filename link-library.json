@@ -1899,19 +1899,6 @@
     "caption": "\"She Keeps Herself Flying\" — Ricky Bobbie\n\n$MfT"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2080583789571457152",
-    "translation": "Sign On",
-    "name": "Sign On",
-    "triggers": [
-      "sign on"
-    ],
-    "band": "RickyBobbie",
-    "tag": "$RICKY",
-    "ca": "0x95286F2cce3C2de48EB75bB4E2Ec004429F18E53",
-    "xPost": "https://x.com/MemeForTrees/status/2080583789571457152",
-    "caption": "\"Sign On\" — Ricky Bobbie\n\n$RICKY 0x95286F2cce3C2de48EB75bB4E2Ec004429F18E53"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2080588822153199659",
     "translation": "A Hall of Tools",
     "name": "A Hall of Tools",
@@ -4238,5 +4225,18 @@
     "ca": "0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3",
     "xPost": "https://x.com/MemeForTrees/status/2087766173479801133",
     "caption": "\"- Connect the Good\" — Myco\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2087781249129533720",
+    "translation": "Sign On",
+    "name": "Sign On",
+    "triggers": [
+      "sign on"
+    ],
+    "band": "RickyBobbie",
+    "tag": "$RICKY",
+    "ca": "0x95286F2cce3C2de48EB75bB4E2Ec004429F18E53",
+    "xPost": "https://x.com/MemeForTrees/status/2087781249129533720",
+    "caption": "\"Sign On\" — Ricky Bobbie\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

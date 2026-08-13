@@ -1201,14 +1201,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2080573769936941391"
  },
  {
-  "band": "RickyBobbie",
-  "name": "Sign On",
-  "triggers": [
-   "sign on"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080583789571457152"
- },
- {
   "band": "HammerTone",
   "name": "A Hall of Tools",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "connect the good"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087766173479801133"
+ },
+ {
+  "band": "RickyBobbie",
+  "name": "Sign On",
+  "triggers": [
+   "sign on"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087781249129533720"
  }
 ]
