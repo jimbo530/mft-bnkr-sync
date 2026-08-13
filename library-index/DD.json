@@ -29,14 +29,6 @@
   ]
  },
  {
-  "name": "Water to the Village",
-  "triggers": [
-   "water to the village"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079411063901028405",
-  "tag": "$DD"
- },
- {
   "name": "Your Name Arrives Before You",
   "triggers": [
    "your name arrives before you"
@@ -243,6 +235,14 @@
    "the dinner drum"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087922147939258532",
+  "tag": "$DD"
+ },
+ {
+  "name": "Water to the Village",
+  "triggers": [
+   "water to the village"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088002672456610093",
   "tag": "$DD"
  }
 ]

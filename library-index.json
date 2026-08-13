@@ -651,14 +651,6 @@
  },
  {
   "band": "DD",
-  "name": "Water to the Village",
-  "triggers": [
-   "water to the village"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079411063901028405"
- },
- {
-  "band": "DD",
   "name": "Your Name Arrives Before You",
   "triggers": [
    "your name arrives before you"
@@ -2645,5 +2637,13 @@
    "for no reason at all"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087987612107620438"
+ },
+ {
+  "band": "DD",
+  "name": "Water to the Village",
+  "triggers": [
+   "water to the village"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088002672456610093"
  }
 ]
