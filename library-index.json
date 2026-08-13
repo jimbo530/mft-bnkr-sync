@@ -258,14 +258,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079073911384244441"
  },
  {
-  "band": "Rish",
-  "name": "The Whole Bar Onchain",
-  "triggers": [
-   "the whole bar onchain"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079088943048343879"
- },
- {
   "band": "DGT",
   "name": "Pull Up a Chair",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "the bulletin"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087942274197963117"
+ },
+ {
+  "band": "Rish",
+  "name": "The Whole Bar Onchain",
+  "triggers": [
+   "the whole bar onchain"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087962403233243479"
  }
 ]
