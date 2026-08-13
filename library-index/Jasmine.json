@@ -24,14 +24,6 @@
   "tag": "$JASMINE"
  },
  {
-  "name": "Tunnels of Darkness",
-  "triggers": [
-   "tunnels of darkness"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080020125759983709",
-  "tag": "$JASMINE"
- },
- {
   "name": "Warmth of the Dwarven Hearth",
   "triggers": [
    "warmth of the dwarven hearth"
@@ -45,6 +37,14 @@
    "come and stay free"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087544667365593366",
+  "tag": "$JASMINE"
+ },
+ {
+  "name": "Tunnels of Darkness",
+  "triggers": [
+   "tunnels of darkness"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087886965265830371",
   "tag": "$JASMINE"
  }
 ]
