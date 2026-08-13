@@ -83,14 +83,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2078731585436676151"
  },
  {
-  "band": "NN",
-  "name": "Toast to Tomorrow",
-  "triggers": [
-   "toast to tomorrow"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078741656401047872"
- },
- {
   "band": "EBM",
   "name": "Feed The People",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "water to the village"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088002672456610093"
+ },
+ {
+  "band": "NN",
+  "name": "Toast to Tomorrow",
+  "triggers": [
+   "toast to tomorrow"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088042977490772217"
  }
 ]
