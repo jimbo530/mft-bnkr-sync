@@ -1,13 +1,5 @@
 [
  {
-  "name": "They Paid Me To Feed You",
-  "triggers": [
-   "they paid me to feed you"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078761785230811613",
-  "tag": "$BONGO"
- },
- {
   "name": "A Drawer Full of Tricks",
   "triggers": [
    "a drawer full of tricks"
@@ -171,6 +163,14 @@
    "what's over there on base"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087846683631649230",
+  "tag": "$BONGO"
+ },
+ {
+  "name": "They Paid Me To Feed You",
+  "triggers": [
+   "they paid me to feed you"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087927214616547518",
   "tag": "$BONGO"
  }
 ]

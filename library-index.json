@@ -107,14 +107,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2078756819959177625"
  },
  {
-  "band": "Bongo",
-  "name": "They Paid Me To Feed You",
-  "triggers": [
-   "they paid me to feed you"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078761785230811613"
- },
- {
   "band": "DGT",
   "name": "One More Night at Shillwood",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "the dinner drum"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087922147939258532"
+ },
+ {
+  "band": "Bongo",
+  "name": "They Paid Me To Feed You",
+  "triggers": [
+   "they paid me to feed you"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087927214616547518"
  }
 ]
