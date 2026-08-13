@@ -2047,14 +2047,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086573328651747689"
  },
  {
-  "band": "Bongo",
-  "name": "For No Reason At All",
-  "triggers": [
-   "for no reason at all"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086588479723495735"
- },
- {
   "band": "DD",
   "name": "Meme to a Mangrove",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "the roar plants the grove"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087967434598691175"
+ },
+ {
+  "band": "Bongo",
+  "name": "For No Reason At All",
+  "triggers": [
+   "for no reason at all"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087987612107620438"
  }
 ]

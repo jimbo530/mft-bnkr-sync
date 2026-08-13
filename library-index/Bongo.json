@@ -126,14 +126,6 @@
   "tag": "$BONGO"
  },
  {
-  "name": "For No Reason At All",
-  "triggers": [
-   "for no reason at all"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086588479723495735",
-  "tag": "$BONGO"
- },
- {
   "name": "Quick as a Drumbeat",
   "triggers": [
    "quick as a drumbeat"
@@ -171,6 +163,14 @@
    "they paid me to feed you"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087927214616547518",
+  "tag": "$BONGO"
+ },
+ {
+  "name": "For No Reason At All",
+  "triggers": [
+   "for no reason at all"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087987612107620438",
   "tag": "$BONGO"
  }
 ]
