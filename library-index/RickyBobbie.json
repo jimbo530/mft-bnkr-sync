@@ -7,14 +7,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079604628786708673"
  },
  {
-  "name": "No Value But Songs We Sing",
-  "triggers": [
-   "no value but songs we sing"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080543530036916510",
-  "tag": "$RICKY"
- },
- {
   "name": "Quick Off the Line",
   "triggers": [
    "quick off the line"
@@ -52,6 +44,14 @@
    "sign on"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087781249129533720",
+  "tag": "$RICKY"
+ },
+ {
+  "name": "No Value But Songs We Sing",
+  "triggers": [
+   "no value but songs we sing"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087881878271385748",
   "tag": "$RICKY"
  }
 ]

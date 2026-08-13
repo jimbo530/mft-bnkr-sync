@@ -1122,14 +1122,6 @@
  },
  {
   "band": "RickyBobbie",
-  "name": "No Value But Songs We Sing",
-  "triggers": [
-   "no value but songs we sing"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080543530036916510"
- },
- {
-  "band": "RickyBobbie",
   "name": "Quick Off the Line",
   "triggers": [
    "quick off the line"
@@ -2645,5 +2637,13 @@
    "the orchard that was a fence"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087866788780331185"
+ },
+ {
+  "band": "RickyBobbie",
+  "name": "No Value But Songs We Sing",
+  "triggers": [
+   "no value but songs we sing"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087881878271385748"
  }
 ]

@@ -1769,19 +1769,6 @@
     "caption": "\"Plant It Loud\" — CB\n\nMeme for Trees runs on Bankr — memes that grow real forests\n\n$MfT"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2080543530036916510",
-    "translation": "No Value But Songs We Sing",
-    "name": "No Value But Songs We Sing",
-    "triggers": [
-      "no value but songs we sing"
-    ],
-    "band": "RickyBobbie",
-    "tag": "$RICKY",
-    "ca": "0x95286F2cce3C2de48EB75bB4E2Ec004429F18E53",
-    "xPost": "https://x.com/MemeForTrees/status/2080543530036916510",
-    "caption": "\"No Value But Songs We Sing\" — Ricky Bobbie\n\nCommission the band — your story, their voice, one coin (no value but songs we sing):\nhttps://tasern.quest/songsmith.html\n\n$RICKY 0x95286F2cce3C2de48EB75bB4E2Ec004429F18E53"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2080553590901367153",
     "translation": "Quick Off the Line",
     "name": "Quick Off the Line",
@@ -4238,5 +4225,18 @@
     "ca": "0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3",
     "xPost": "https://x.com/MemeForTrees/status/2087866788780331185",
     "caption": "\"The Orchard That Was a Fence\" — Digerie Dude\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2087881878271385748",
+    "translation": "No Value But Songs We Sing",
+    "name": "No Value But Songs We Sing",
+    "triggers": [
+      "no value but songs we sing"
+    ],
+    "band": "RickyBobbie",
+    "tag": "$RICKY",
+    "ca": "0x95286F2cce3C2de48EB75bB4E2Ec004429F18E53",
+    "xPost": "https://x.com/MemeForTrees/status/2087881878271385748",
+    "caption": "\"No Value But Songs We Sing\" — Ricky Bobbie\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
