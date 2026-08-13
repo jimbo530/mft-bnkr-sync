@@ -1128,19 +1128,6 @@
     "caption": "\"Water to the Village\" — Digerie Dude\n\n$DD 0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2079426155245912571",
-    "translation": "The First Joke",
-    "name": "The First Joke",
-    "triggers": [
-      "the first joke"
-    ],
-    "band": "EBM",
-    "tag": "$EBM",
-    "ca": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d",
-    "xPost": "https://x.com/MemeForTrees/status/2079426155245912571",
-    "caption": "\"The First Joke\" — Elves of Ballinmoore\n\n$EBM 0xF113fe2A0E1181A21fA97B1F52ff232140B7692d"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2079436271894560936",
     "translation": "Your Name Arrives Before You",
     "name": "Your Name Arrives Before You",
@@ -4238,5 +4225,18 @@
     "ca": "0x8d669b539C7801c1271BC484Bdd8a6084b7788e7",
     "xPost": "https://x.com/MemeForTrees/status/2087826552738251039",
     "caption": "\"Before the Drums Wake\" — Moon Rasta\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2087841608624410944",
+    "translation": "The First Joke",
+    "name": "The First Joke",
+    "triggers": [
+      "the first joke"
+    ],
+    "band": "EBM",
+    "tag": "$EBM",
+    "ca": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d",
+    "xPost": "https://x.com/MemeForTrees/status/2087841608624410944",
+    "caption": "\"The First Joke\" — Elves of Ballinmoore\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

@@ -97,14 +97,6 @@
   "tag": "$EBM"
  },
  {
-  "name": "The First Joke",
-  "triggers": [
-   "the first joke"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079426155245912571",
-  "tag": "$EBM"
- },
- {
   "name": "The Good Word",
   "triggers": [
    "the good word"
@@ -302,6 +294,14 @@
    "the street takes requests"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087680544318374005",
+  "tag": "$EBM"
+ },
+ {
+  "name": "The First Joke",
+  "triggers": [
+   "the first joke"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087841608624410944",
   "tag": "$EBM"
  }
 ]

@@ -722,14 +722,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079411063901028405"
  },
  {
-  "band": "EBM",
-  "name": "The First Joke",
-  "triggers": [
-   "the first joke"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079426155245912571"
- },
- {
   "band": "DD",
   "name": "Your Name Arrives Before You",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "before the drums wake"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087826552738251039"
+ },
+ {
+  "band": "EBM",
+  "name": "The First Joke",
+  "triggers": [
+   "the first joke"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087841608624410944"
  }
 ]
