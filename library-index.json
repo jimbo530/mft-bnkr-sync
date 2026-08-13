@@ -427,14 +427,6 @@
   "promote": true
  },
  {
-  "band": "MR",
-  "name": "Seize the Seas",
-  "triggers": [
-   "seize the seas"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079179536436965588"
- },
- {
   "band": "NN",
   "name": "The Path to Personal Shows",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "the long rain feeds"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087801382673773019"
+ },
+ {
+  "band": "MR",
+  "name": "Seize the Seas",
+  "triggers": [
+   "seize the seas"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087821517555929336"
  }
 ]

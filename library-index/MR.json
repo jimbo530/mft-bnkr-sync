@@ -32,14 +32,6 @@
   "tag": "$MR"
  },
  {
-  "name": "Seize the Seas",
-  "triggers": [
-   "seize the seas"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079179536436965588",
-  "tag": "$MR"
- },
- {
   "name": "Where I Can",
   "triggers": [
    "where i can"
@@ -203,6 +195,14 @@
    "the long rain feeds"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087801382673773019",
+  "tag": "$MR"
+ },
+ {
+  "name": "Seize the Seas",
+  "triggers": [
+   "seize the seas"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087821517555929336",
   "tag": "$MR"
  }
 ]
