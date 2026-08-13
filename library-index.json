@@ -889,14 +889,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079622844602888196"
  },
  {
-  "band": "NN",
-  "name": "The Price of a Song Darling",
-  "triggers": [
-   "the price of a song darling"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079647619471556621"
- },
- {
   "band": "DGT",
   "name": "More Life Than Half the Charts",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "will ye march"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087725853933256898"
+ },
+ {
+  "band": "NN",
+  "name": "The Price of a Song Darling",
+  "triggers": [
+   "the price of a song darling"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087740945903026285"
  }
 ]

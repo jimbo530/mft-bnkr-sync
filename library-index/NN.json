@@ -80,14 +80,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079545861537771528"
  },
  {
-  "name": "The Price of a Song Darling",
-  "triggers": [
-   "the price of a song darling"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079647619471556621",
-  "tag": "$NN"
- },
- {
   "name": "Cheap Tricks Expensive Forests",
   "triggers": [
    "cheap tricks expensive forests"
@@ -213,6 +205,14 @@
    "the velvet ledger"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087126905866564001",
+  "tag": "$NN"
+ },
+ {
+  "name": "The Price of a Song Darling",
+  "triggers": [
+   "the price of a song darling"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087740945903026285",
   "tag": "$NN"
  }
 ]
