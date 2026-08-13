@@ -1250,14 +1250,6 @@
  },
  {
   "band": "HammerTone",
-  "name": "The Door in the Halls",
-  "triggers": [
-   "the door in the halls"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080619026481336443"
- },
- {
-  "band": "HammerTone",
   "name": "The Stone Beneath",
   "triggers": [
    "the stone beneath"
@@ -2645,5 +2637,13 @@
    "the price of a song darling"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087740945903026285"
+ },
+ {
+  "band": "HammerTone",
+  "name": "The Door in the Halls",
+  "triggers": [
+   "the door in the halls"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087745980116443610"
  }
 ]

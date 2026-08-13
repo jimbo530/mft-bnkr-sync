@@ -46,19 +46,19 @@
   "tag": "$HT"
  },
  {
-  "name": "The Door in the Halls",
-  "triggers": [
-   "the door in the halls"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080619026481336443",
-  "tag": "$HT"
- },
- {
   "name": "The Stone Beneath",
   "triggers": [
    "the stone beneath"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2080624106936906062",
+  "tag": "$HT"
+ },
+ {
+  "name": "The Door in the Halls",
+  "triggers": [
+   "the door in the halls"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087745980116443610",
   "tag": "$HT"
  }
 ]
