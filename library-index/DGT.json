@@ -56,14 +56,6 @@
   "tag": "$DGT"
  },
  {
-  "name": "Requests at Last Call",
-  "triggers": [
-   "requests at last call"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079390988309533111",
-  "tag": "$DGT"
- },
- {
   "name": "One Night Ahead",
   "triggers": [
    "one night ahead"
@@ -144,6 +136,14 @@
    "party while you're here"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087111890753249480",
+  "tag": "$DGT"
+ },
+ {
+  "name": "Requests at Last Call",
+  "triggers": [
+   "requests at last call"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087705786482876822",
   "tag": "$DGT"
  }
 ]
