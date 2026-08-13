@@ -587,14 +587,6 @@
  },
  {
   "band": "EBM",
-  "name": "The Bulletin",
-  "triggers": [
-   "the bulletin"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079260070005612731"
- },
- {
-  "band": "EBM",
   "name": "Eight Banners Moving",
   "triggers": [
    "eight banners moving"
@@ -2645,5 +2637,13 @@
    "they paid me to feed you"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087927214616547518"
+ },
+ {
+  "band": "EBM",
+  "name": "The Bulletin",
+  "triggers": [
+   "the bulletin"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087942274197963117"
  }
 ]

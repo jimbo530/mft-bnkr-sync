@@ -73,14 +73,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079250875076296731"
  },
  {
-  "name": "The Bulletin",
-  "triggers": [
-   "the bulletin"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079260070005612731",
-  "tag": "$EBM"
- },
- {
   "name": "Eight Banners Moving",
   "triggers": [
    "eight banners moving"
@@ -302,6 +294,14 @@
    "the whole block came"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087861739492655445",
+  "tag": "$EBM"
+ },
+ {
+  "name": "The Bulletin",
+  "triggers": [
+   "the bulletin"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087942274197963117",
   "tag": "$EBM"
  }
 ]
