@@ -131,14 +131,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2078787009510805598"
  },
  {
-  "band": "JS",
-  "name": "Nobody At the Back",
-  "triggers": [
-   "nobody at the back"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078837322280263841"
- },
- {
   "band": "DGT",
   "name": "One More Round On the Chain",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "tunnels of darkness"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087886965265830371"
+ },
+ {
+  "band": "JS",
+  "name": "Nobody At the Back",
+  "triggers": [
+   "nobody at the back"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087907080871035174"
  }
 ]
