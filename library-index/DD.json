@@ -24,14 +24,6 @@
   "tag": "$DD"
  },
  {
-  "name": "The Orchard That Was a Fence",
-  "triggers": [
-   "the orchard that was a fence"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079164491795673225",
-  "tag": "$DD"
- },
- {
   "name": "The Roads Never End",
   "triggers": [
    "the roads never end"
@@ -243,6 +235,14 @@
    "the wide path"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087700698121060529",
+  "tag": "$DD"
+ },
+ {
+  "name": "The Orchard That Was a Fence",
+  "triggers": [
+   "the orchard that was a fence"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087866788780331185",
   "tag": "$DD"
  }
 ]
