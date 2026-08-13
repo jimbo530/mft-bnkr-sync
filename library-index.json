@@ -27,14 +27,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2078600724162687079"
  },
  {
-  "band": "DD",
-  "name": "The Dinner Drum",
-  "triggers": [
-   "the dinner drum"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078605805918511441"
- },
- {
   "band": "Rish",
   "name": "Let's Grow",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "nobody at the back"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087907080871035174"
+ },
+ {
+  "band": "DD",
+  "name": "The Dinner Drum",
+  "triggers": [
+   "the dinner drum"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087922147939258532"
  }
 ]

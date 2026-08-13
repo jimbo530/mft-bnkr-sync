@@ -1,13 +1,5 @@
 [
  {
-  "name": "The Dinner Drum",
-  "triggers": [
-   "the dinner drum"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078605805918511441",
-  "tag": "$DD"
- },
- {
   "name": "Gather the Good Road",
   "triggers": [
    "gather the good road"
@@ -243,6 +235,14 @@
    "the orchard that was a fence"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087866788780331185",
+  "tag": "$DD"
+ },
+ {
+  "name": "The Dinner Drum",
+  "triggers": [
+   "the dinner drum"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087922147939258532",
   "tag": "$DD"
  }
 ]
