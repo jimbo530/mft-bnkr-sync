@@ -60,14 +60,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079239633427218888"
  },
  {
-  "name": "What's Over There On Base",
-  "triggers": [
-   "what's over there on base"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079365765342327128",
-  "tag": "$BONGO"
- },
- {
   "name": "No Crying in the Casino",
   "triggers": [
    "no crying in the casino"
@@ -171,6 +163,14 @@
    "the beat votes tomorrow"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087106779758964890",
+  "tag": "$BONGO"
+ },
+ {
+  "name": "What's Over There On Base",
+  "triggers": [
+   "what's over there on base"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087846683631649230",
   "tag": "$BONGO"
  }
 ]

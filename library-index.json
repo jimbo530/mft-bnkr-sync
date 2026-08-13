@@ -658,14 +658,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079347245405679828"
  },
  {
-  "band": "Bongo",
-  "name": "What's Over There On Base",
-  "triggers": [
-   "what's over there on base"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079365765342327128"
- },
- {
   "band": "MR",
   "name": "Where I Can",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "the first joke"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087841608624410944"
+ },
+ {
+  "band": "Bongo",
+  "name": "What's Over There On Base",
+  "triggers": [
+   "what's over there on base"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087846683631649230"
  }
 ]
