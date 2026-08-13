@@ -47,14 +47,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079252656258797778"
  },
  {
-  "name": "Will Ye March",
-  "triggers": [
-   "will ye march"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079486608634445944",
-  "tag": "$RISH"
- },
- {
   "name": "Bread and Water",
   "triggers": [
    "bread and water"
@@ -221,6 +213,14 @@
    "the warden's round"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087086686165483901",
+  "tag": "$RISH"
+ },
+ {
+  "name": "Will Ye March",
+  "triggers": [
+   "will ye march"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087725853933256898",
   "tag": "$RISH"
  }
 ]

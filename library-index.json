@@ -778,14 +778,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079481560013693296"
  },
  {
-  "band": "Rish",
-  "name": "Will Ye March",
-  "triggers": [
-   "will ye march"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079486608634445944"
- },
- {
   "band": null,
   "name": "tunes for trees",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "requests at last call"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087705786482876822"
+ },
+ {
+  "band": "Rish",
+  "name": "Will Ye March",
+  "triggers": [
+   "will ye march"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087725853933256898"
  }
 ]
