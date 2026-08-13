@@ -8,14 +8,6 @@
   "tag": "$MR"
  },
  {
-  "name": "Before the Drums Wake",
-  "triggers": [
-   "before the drums wake"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078666201845141760",
-  "tag": "$MR"
- },
- {
   "name": "A Seat at the Club",
   "triggers": [
    "a seat at the club"
@@ -203,6 +195,14 @@
    "seize the seas"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087821517555929336",
+  "tag": "$MR"
+ },
+ {
+  "name": "Before the Drums Wake",
+  "triggers": [
+   "before the drums wake"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087826552738251039",
   "tag": "$MR"
  }
 ]

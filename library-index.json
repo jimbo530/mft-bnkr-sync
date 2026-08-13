@@ -75,14 +75,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2078656136555762174"
  },
  {
-  "band": "MR",
-  "name": "Before the Drums Wake",
-  "triggers": [
-   "before the drums wake"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078666201845141760"
- },
- {
   "band": "Myco",
   "name": "Underground Choir",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "seize the seas"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087821517555929336"
+ },
+ {
+  "band": "MR",
+  "name": "Before the Drums Wake",
+  "triggers": [
+   "before the drums wake"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087826552738251039"
  }
 ]
