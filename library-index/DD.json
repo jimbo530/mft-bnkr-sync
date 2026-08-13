@@ -53,14 +53,6 @@
   "tag": "$DD"
  },
  {
-  "name": "The Wide Path",
-  "triggers": [
-   "the wide path"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079421182261051431",
-  "tag": "$DD"
- },
- {
   "name": "Your Name Arrives Before You",
   "triggers": [
    "your name arrives before you"
@@ -243,6 +235,14 @@
    "dig a little deeper"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087625196467339268",
+  "tag": "$DD"
+ },
+ {
+  "name": "The Wide Path",
+  "triggers": [
+   "the wide path"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087700698121060529",
   "tag": "$DD"
  }
 ]

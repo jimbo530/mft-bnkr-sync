@@ -746,14 +746,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079411063901028405"
  },
  {
-  "band": "DD",
-  "name": "The Wide Path",
-  "triggers": [
-   "the wide path"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079421182261051431"
- },
- {
   "band": "EBM",
   "name": "The First Joke",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "the rite of the floor"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087685644956860810"
+ },
+ {
+  "band": "DD",
+  "name": "The Wide Path",
+  "triggers": [
+   "the wide path"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087700698121060529"
  }
 ]
