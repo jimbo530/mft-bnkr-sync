@@ -1075,14 +1075,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2080125775496327317"
  },
  {
-  "band": "MR",
-  "name": "The Long Rain Feeds",
-  "triggers": [
-   "the long rain feeds"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080130842253283829"
- },
- {
   "band": "Gurdy",
   "name": "Society is a Meme",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "sign on"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087781249129533720"
+ },
+ {
+  "band": "MR",
+  "name": "The Long Rain Feeds",
+  "triggers": [
+   "the long rain feeds"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087801382673773019"
  }
 ]

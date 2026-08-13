@@ -86,14 +86,6 @@
   "tag": "$MR"
  },
  {
-  "name": "The Long Rain Feeds",
-  "triggers": [
-   "the long rain feeds"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080130842253283829",
-  "tag": "$MR"
- },
- {
   "name": "Joy in the Ground",
   "triggers": [
    "joy in the ground"
@@ -203,6 +195,14 @@
    "the oldest provider"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2086950796717912567",
+  "tag": "$MR"
+ },
+ {
+  "name": "The Long Rain Feeds",
+  "triggers": [
+   "the long rain feeds"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087801382673773019",
   "tag": "$MR"
  }
 ]

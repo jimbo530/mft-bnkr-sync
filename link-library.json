@@ -1703,19 +1703,6 @@
     "caption": "\"Feed the Village\" — Moon Rasta\n\n$MR 0x8d669b539C7801c1271BC484Bdd8a6084b7788e7"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2080130842253283829",
-    "translation": "The Long Rain Feeds",
-    "name": "The Long Rain Feeds",
-    "triggers": [
-      "the long rain feeds"
-    ],
-    "band": "MR",
-    "tag": "$MR",
-    "ca": "0x8d669b539C7801c1271BC484Bdd8a6084b7788e7",
-    "xPost": "https://x.com/MemeForTrees/status/2080130842253283829",
-    "caption": "\"The Long Rain Feeds\" — Moon Rasta\n\n$MR 0x8d669b539C7801c1271BC484Bdd8a6084b7788e7"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2076260282322620717",
     "translation": "Society is a Meme",
     "name": "Society is a Meme",
@@ -4238,5 +4225,18 @@
     "ca": "0x95286F2cce3C2de48EB75bB4E2Ec004429F18E53",
     "xPost": "https://x.com/MemeForTrees/status/2087781249129533720",
     "caption": "\"Sign On\" — Ricky Bobbie\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2087801382673773019",
+    "translation": "The Long Rain Feeds",
+    "name": "The Long Rain Feeds",
+    "triggers": [
+      "the long rain feeds"
+    ],
+    "band": "MR",
+    "tag": "$MR",
+    "ca": "0x8d669b539C7801c1271BC484Bdd8a6084b7788e7",
+    "xPost": "https://x.com/MemeForTrees/status/2087801382673773019",
+    "caption": "\"The Long Rain Feeds\" — Moon Rasta\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
