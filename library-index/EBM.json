@@ -8,14 +8,6 @@
   "tag": "$EBM"
  },
  {
-  "name": "The Whole Block Came",
-  "triggers": [
-   "the whole block came"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078776881512415664",
-  "tag": "$EBM"
- },
- {
   "name": "Plain Language Door",
   "triggers": [
    "plain language door"
@@ -302,6 +294,14 @@
    "the first joke"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087841608624410944",
+  "tag": "$EBM"
+ },
+ {
+  "name": "The Whole Block Came",
+  "triggers": [
+   "the whole block came"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087861739492655445",
   "tag": "$EBM"
  }
 ]
