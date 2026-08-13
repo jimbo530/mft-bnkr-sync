@@ -682,14 +682,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079456395129131479"
  },
  {
-  "band": "MR",
-  "name": "The Roar Plants the Grove",
-  "triggers": [
-   "the roar plants the grove"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079481560013693296"
- },
- {
   "band": null,
   "name": "tunes for trees",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "the whole bar onchain"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087962403233243479"
+ },
+ {
+  "band": "MR",
+  "name": "The Roar Plants the Grove",
+  "triggers": [
+   "the roar plants the grove"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087967434598691175"
  }
 ]

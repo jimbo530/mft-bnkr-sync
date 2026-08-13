@@ -46,14 +46,6 @@
   "tag": "$MR"
  },
  {
-  "name": "The Roar Plants the Grove",
-  "triggers": [
-   "the roar plants the grove"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079481560013693296",
-  "tag": "$MR"
- },
- {
   "name": "Third of the Harvest",
   "triggers": [
    "third of the harvest"
@@ -203,6 +195,14 @@
    "before the drums wake"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087826552738251039",
+  "tag": "$MR"
+ },
+ {
+  "name": "The Roar Plants the Grove",
+  "triggers": [
+   "the roar plants the grove"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087967434598691175",
   "tag": "$MR"
  }
 ]
