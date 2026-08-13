@@ -38,14 +38,6 @@
   "tag": "$HT"
  },
  {
-  "name": "Name It and It's Made",
-  "triggers": [
-   "name it and it's made"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080608966711681041",
-  "tag": "$HT"
- },
- {
   "name": "The Stone Beneath",
   "triggers": [
    "the stone beneath"
@@ -59,6 +51,14 @@
    "the door in the halls"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087745980116443610",
+  "tag": "$HT"
+ },
+ {
+  "name": "Name It and It's Made",
+  "triggers": [
+   "name it and it's made"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087761088024641612",
   "tag": "$HT"
  }
 ]
