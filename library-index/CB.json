@@ -24,14 +24,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Everyone Onchain By Friday",
-  "triggers": [
-   "everyone onchain by friday"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080402603440038254",
-  "tag": "$MfT"
- },
- {
   "name": "Green Candle Anthem",
   "triggers": [
    "green candle anthem"
@@ -141,6 +133,14 @@
    "revolution has begun"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087011192577397181",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Everyone Onchain By Friday",
+  "triggers": [
+   "everyone onchain by friday"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088229199018426731",
   "tag": "$MfT"
  }
 ]

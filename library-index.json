@@ -962,14 +962,6 @@
  },
  {
   "band": "CB",
-  "name": "Everyone Onchain By Friday",
-  "triggers": [
-   "everyone onchain by friday"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080402603440038254"
- },
- {
-  "band": "CB",
   "name": "Green Candle Anthem",
   "triggers": [
    "green candle anthem"
@@ -2645,5 +2637,13 @@
    "the roots hold it up"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088209021597601797"
+ },
+ {
+  "band": "CB",
+  "name": "Everyone Onchain By Friday",
+  "triggers": [
+   "everyone onchain by friday"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088229199018426731"
  }
 ]
