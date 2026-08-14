@@ -52,14 +52,6 @@
   "tag": "$DD"
  },
  {
-  "name": "One River",
-  "triggers": [
-   "one river"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079909386055475617",
-  "tag": "$DD"
- },
- {
   "name": "Nations as One",
   "triggers": [
    "nations as one"
@@ -243,6 +235,14 @@
    "water to the village"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088002672456610093",
+  "tag": "$DD"
+ },
+ {
+  "name": "One River",
+  "triggers": [
+   "one river"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088204034142273828",
   "tag": "$DD"
  }
 ]

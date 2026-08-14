@@ -785,14 +785,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079904339997454768"
  },
  {
-  "band": "DD",
-  "name": "One River",
-  "triggers": [
-   "one river"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079909386055475617"
- },
- {
   "band": "DGT",
   "name": "Lucky To Be Here",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "underground choir"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088143643584401432"
+ },
+ {
+  "band": "DD",
+  "name": "One River",
+  "triggers": [
+   "one river"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088204034142273828"
  }
 ]
