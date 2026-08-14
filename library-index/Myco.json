@@ -1,13 +1,5 @@
 [
  {
-  "name": "Underground Choir",
-  "triggers": [
-   "underground choir"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078726604193177985",
-  "tag": "$MYCO"
- },
- {
   "name": "It Does Not Go Unseen",
   "triggers": [
    "it does not go unseen"
@@ -228,6 +220,14 @@
    "connect the good"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087766173479801133",
+  "tag": "$MYCO"
+ },
+ {
+  "name": "Underground Choir",
+  "triggers": [
+   "underground choir"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088143643584401432",
   "tag": "$MYCO"
  }
 ]
