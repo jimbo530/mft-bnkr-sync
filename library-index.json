@@ -27,14 +27,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2078600724162687079"
  },
  {
-  "band": "MR",
-  "name": "Feed the Column",
-  "triggers": [
-   "feed the column"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078636025702707671"
- },
- {
   "band": null,
   "name": "Here We Go Again",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "pull up a chair"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088365113673720112"
+ },
+ {
+  "band": "MR",
+  "name": "Feed the Column",
+  "triggers": [
+   "feed the column"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088385229102764190"
  }
 ]

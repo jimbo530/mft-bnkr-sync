@@ -1,13 +1,5 @@
 [
  {
-  "name": "Feed the Column",
-  "triggers": [
-   "feed the column"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078636025702707671",
-  "tag": "$MR"
- },
- {
   "name": "A Seat at the Club",
   "triggers": [
    "a seat at the club"
@@ -203,6 +195,14 @@
    "everybody in the circle"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088264400952037452",
+  "tag": "$MR"
+ },
+ {
+  "name": "Feed the Column",
+  "triggers": [
+   "feed the column"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088385229102764190",
   "tag": "$MR"
  }
 ]
