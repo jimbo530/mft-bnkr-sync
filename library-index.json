@@ -27,14 +27,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2078600724162687079"
  },
  {
-  "band": "Rish",
-  "name": "Let's Grow",
-  "triggers": [
-   "let's grow"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078620859216908413"
- },
- {
   "band": "MR",
   "name": "Feed the Column",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "let the agent handle it"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088108402891231556"
+ },
+ {
+  "band": "Rish",
+  "name": "Let's Grow",
+  "triggers": [
+   "let's grow"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088128538771628058"
  }
 ]
