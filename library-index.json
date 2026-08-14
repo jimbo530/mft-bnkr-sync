@@ -321,14 +321,6 @@
   ]
  },
  {
-  "band": "Rish",
-  "name": "A Little Kid Said Thank You",
-  "triggers": [
-   "a little kid said thank you"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079184612949975232"
- },
- {
   "band": "NN",
   "name": "Grow Something Great",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "hold the deck"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088324837210992919"
+ },
+ {
+  "band": "Rish",
+  "name": "A Little Kid Said Thank You",
+  "triggers": [
+   "a little kid said thank you"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088329825601589371"
  }
 ]

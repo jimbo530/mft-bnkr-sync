@@ -8,14 +8,6 @@
   "tag": "$RISH"
  },
  {
-  "name": "A Little Kid Said Thank You",
-  "triggers": [
-   "a little kid said thank you"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079184612949975232",
-  "tag": "$RISH"
- },
- {
   "name": "Setups in Disguise",
   "triggers": [
    "setups in disguise"
@@ -221,6 +213,14 @@
    "the love you give"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088284566817554531",
+  "tag": "$RISH"
+ },
+ {
+  "name": "A Little Kid Said Thank You",
+  "triggers": [
+   "a little kid said thank you"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088329825601589371",
   "tag": "$RISH"
  }
 ]
