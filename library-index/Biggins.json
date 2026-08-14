@@ -24,14 +24,6 @@
   "tag": "$BIGGINS"
  },
  {
-  "name": "The Roots Hold It Up",
-  "triggers": [
-   "the roots hold it up"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080729751493238829",
-  "tag": "$BIGGINS"
- },
- {
   "name": "Out of the Trees",
   "triggers": [
    "out of the trees"
@@ -45,6 +37,14 @@
    "out of the treeline"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087584964166529166",
+  "tag": "$BIGGINS"
+ },
+ {
+  "name": "The Roots Hold It Up",
+  "triggers": [
+   "the roots hold it up"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088209021597601797",
   "tag": "$BIGGINS"
  }
 ]

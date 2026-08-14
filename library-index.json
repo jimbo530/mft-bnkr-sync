@@ -1073,14 +1073,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2080704594137563541"
  },
  {
-  "band": "Biggins",
-  "name": "The Roots Hold It Up",
-  "triggers": [
-   "the roots hold it up"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080729751493238829"
- },
- {
   "band": "Myco",
   "name": "Forward",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "one river"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088204034142273828"
+ },
+ {
+  "band": "Biggins",
+  "name": "The Roots Hold It Up",
+  "triggers": [
+   "the roots hold it up"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088209021597601797"
  }
 ]
