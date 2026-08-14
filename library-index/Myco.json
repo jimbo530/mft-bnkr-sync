@@ -21,14 +21,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079771002322514242"
  },
  {
-  "name": "Hold the Deck",
-  "triggers": [
-   "hold the deck"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079813714258141486",
-  "tag": "$MYCO"
- },
- {
   "name": "Counted and Kept",
   "triggers": [
    "counted and kept"
@@ -228,6 +220,14 @@
    "one mycelium"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088244306876260604",
+  "tag": "$MYCO"
+ },
+ {
+  "name": "Hold the Deck",
+  "triggers": [
+   "hold the deck"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088324837210992919",
   "tag": "$MYCO"
  }
 ]

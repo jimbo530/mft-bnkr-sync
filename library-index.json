@@ -729,14 +729,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079798650440438002"
  },
  {
-  "band": "Myco",
-  "name": "Hold the Deck",
-  "triggers": [
-   "hold the deck"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079813714258141486"
- },
- {
   "band": "EBM",
   "name": "They Came to Us",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "plant it loud"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088304703079686490"
+ },
+ {
+  "band": "Myco",
+  "name": "Hold the Deck",
+  "triggers": [
+   "hold the deck"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088324837210992919"
  }
 ]
