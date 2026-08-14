@@ -43,14 +43,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2078635695023816869"
  },
  {
-  "band": "DD",
-  "name": "Gather the Good Road",
-  "triggers": [
-   "gather the good road"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078656136555762174"
- },
- {
   "band": "JS",
   "name": "Name Your Nobody",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "one mycelium"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088244306876260604"
+ },
+ {
+  "band": "DD",
+  "name": "Gather the Good Road",
+  "triggers": [
+   "gather the good road"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088249330968727871"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "name": "Gather the Good Road",
-  "triggers": [
-   "gather the good road"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078656136555762174",
-  "tag": "$DD"
- },
- {
   "name": "An Instrument for Every Land",
   "triggers": [
    "an instrument for every land"
@@ -243,6 +235,14 @@
    "one river"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088204034142273828",
+  "tag": "$DD"
+ },
+ {
+  "name": "Gather the Good Road",
+  "triggers": [
+   "gather the good road"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088249330968727871",
   "tag": "$DD"
  }
 ]
