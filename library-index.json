@@ -921,14 +921,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2080624106936906062"
  },
  {
-  "band": "WarMachine",
-  "name": "Fast as the Forge-Fire",
-  "triggers": [
-   "fast as the forge-fire"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080634130799177954"
- },
- {
   "band": "Biggins",
   "name": "Chat It Into Being",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "champion of the trees"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088405354119889185"
+ },
+ {
+  "band": "WarMachine",
+  "name": "Fast as the Forge-Fire",
+  "triggers": [
+   "fast as the forge-fire"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088410398672179219"
  }
 ]
