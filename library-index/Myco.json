@@ -21,14 +21,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079771002322514242"
  },
  {
-  "name": "One Mycelium",
-  "triggers": [
-   "one mycelium"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079783568897650716",
-  "tag": "$MYCO"
- },
- {
   "name": "Hold the Deck",
   "triggers": [
    "hold the deck"
@@ -228,6 +220,14 @@
    "underground choir"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088143643584401432",
+  "tag": "$MYCO"
+ },
+ {
+  "name": "One Mycelium",
+  "triggers": [
+   "one mycelium"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088244306876260604",
   "tag": "$MYCO"
  }
 ]

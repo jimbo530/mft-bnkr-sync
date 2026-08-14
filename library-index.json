@@ -753,14 +753,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079771002322514242"
  },
  {
-  "band": "Myco",
-  "name": "One Mycelium",
-  "triggers": [
-   "one mycelium"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079783568897650716"
- },
- {
   "band": "NN",
   "name": "Cheap Tricks Expensive Forests",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "everyone onchain by friday"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088229199018426731"
+ },
+ {
+  "band": "Myco",
+  "name": "One Mycelium",
+  "triggers": [
+   "one mycelium"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088244306876260604"
  }
 ]
