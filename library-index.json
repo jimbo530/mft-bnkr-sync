@@ -929,14 +929,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2080447905303802320"
  },
  {
-  "band": "CB",
-  "name": "Plant It Loud",
-  "triggers": [
-   "plant it loud"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080468071626457422"
- },
- {
   "band": "RickyBobbie",
   "name": "Quick Off the Line",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "bring the water"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088289700238811177"
+ },
+ {
+  "band": "CB",
+  "name": "Plant It Loud",
+  "triggers": [
+   "plant it loud"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088304703079686490"
  }
 ]
