@@ -31,14 +31,6 @@
   "tag": "$RISH"
  },
  {
-  "name": "The Love You Give",
-  "triggers": [
-   "the love you give"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079738248960643169",
-  "tag": "$RISH"
- },
- {
   "name": "The Town of the Cats",
   "triggers": [
    "the town of the cats"
@@ -221,6 +213,14 @@
    "let's grow"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088128538771628058",
+  "tag": "$RISH"
+ },
+ {
+  "name": "The Love You Give",
+  "triggers": [
+   "the love you give"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088284566817554531",
   "tag": "$RISH"
  }
 ]

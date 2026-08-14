@@ -713,14 +713,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079652744743256076"
  },
  {
-  "band": "Rish",
-  "name": "The Love You Give",
-  "triggers": [
-   "the love you give"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079738248960643169"
- },
- {
   "band": "Myco",
   "name": "Every Day Above the Dark",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "eight banners moving"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088269428945305855"
+ },
+ {
+  "band": "Rish",
+  "name": "The Love You Give",
+  "triggers": [
+   "the love you give"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088284566817554531"
  }
 ]
