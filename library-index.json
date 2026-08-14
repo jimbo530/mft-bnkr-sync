@@ -777,14 +777,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079652744743256076"
  },
  {
-  "band": "MR",
-  "name": "Third of the Harvest",
-  "triggers": [
-   "third of the harvest"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079708012533445089"
- },
- {
   "band": "Rish",
   "name": "The Love You Give",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "toast to tomorrow"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088042977490772217"
+ },
+ {
+  "band": "MR",
+  "name": "Third of the Harvest",
+  "triggers": [
+   "third of the harvest"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088063068169294086"
  }
 ]

@@ -46,14 +46,6 @@
   "tag": "$MR"
  },
  {
-  "name": "Third of the Harvest",
-  "triggers": [
-   "third of the harvest"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079708012533445089",
-  "tag": "$MR"
- },
- {
   "name": "Feed the Village",
   "triggers": [
    "feed the village"
@@ -203,6 +195,14 @@
    "the roar plants the grove"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087967434598691175",
+  "tag": "$MR"
+ },
+ {
+  "name": "Third of the Harvest",
+  "triggers": [
+   "third of the harvest"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088063068169294086",
   "tag": "$MR"
  }
 ]
