@@ -1,13 +1,5 @@
 [
  {
-  "name": "Name Your Nobody",
-  "triggers": [
-   "name your nobody"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078731585436676151",
-  "tag": "$JS"
- },
- {
   "name": "A Crew That Lets You In",
   "triggers": [
    "a crew that lets you in"
@@ -201,6 +193,14 @@
    "nobody at the back"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087907080871035174",
+  "tag": "$JS"
+ },
+ {
+  "name": "Name Your Nobody",
+  "triggers": [
+   "name your nobody"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088344953470525457",
   "tag": "$JS"
  }
 ]
