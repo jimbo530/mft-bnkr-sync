@@ -1,13 +1,5 @@
 [
  {
-  "name": "Ask Me Why I Stay",
-  "triggers": [
-   "ask me why i stay"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078641032728617228",
-  "tag": "$NN"
- },
- {
   "name": "Let the Agent Handle It",
   "triggers": [
    "let the agent handle it"
@@ -213,6 +205,14 @@
    "toast to tomorrow"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088042977490772217",
+  "tag": "$NN"
+ },
+ {
+  "name": "Ask Me Why I Stay",
+  "triggers": [
+   "ask me why i stay"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088068122439819360",
   "tag": "$NN"
  }
 ]

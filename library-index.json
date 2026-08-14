@@ -51,14 +51,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2078635695023816869"
  },
  {
-  "band": "NN",
-  "name": "Ask Me Why I Stay",
-  "triggers": [
-   "ask me why i stay"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078641032728617228"
- },
- {
   "band": "DD",
   "name": "Gather the Good Road",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "third of the harvest"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088063068169294086"
+ },
+ {
+  "band": "NN",
+  "name": "Ask Me Why I Stay",
+  "triggers": [
+   "ask me why i stay"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088068122439819360"
  }
 ]
