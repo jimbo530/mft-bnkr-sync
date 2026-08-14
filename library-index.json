@@ -163,14 +163,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2078958125638381986"
  },
  {
-  "band": "Rish",
-  "name": "The Club Throws the Door",
-  "triggers": [
-   "the club throws the door"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078973174323020178"
- },
- {
   "band": "DD",
   "name": "An Instrument for Every Land",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "ask me why i stay"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088068122439819360"
+ },
+ {
+  "band": "Rish",
+  "name": "The Club Throws the Door",
+  "triggers": [
+   "the club throws the door"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088103327598862609"
  }
 ]
