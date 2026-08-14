@@ -48,14 +48,6 @@
   "tag": "$DGT"
  },
  {
-  "name": "Pull Up a Chair",
-  "triggers": [
-   "pull up a chair"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079124229056823637",
-  "tag": "$DGT"
- },
- {
   "name": "One Night Ahead",
   "triggers": [
    "one night ahead"
@@ -144,6 +136,14 @@
    "requests at last call"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087705786482876822",
+  "tag": "$DGT"
+ },
+ {
+  "name": "Pull Up a Chair",
+  "triggers": [
+   "pull up a chair"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088365113673720112",
   "tag": "$DGT"
  }
 ]

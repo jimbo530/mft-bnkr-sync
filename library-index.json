@@ -178,14 +178,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079073911384244441"
  },
  {
-  "band": "DGT",
-  "name": "Pull Up a Chair",
-  "triggers": [
-   "pull up a chair"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079124229056823637"
- },
- {
   "band": "Bongo",
   "name": "They Gave Me a Link",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "feed the people"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088349943891186004"
+ },
+ {
+  "band": "DGT",
+  "name": "Pull Up a Chair",
+  "triggers": [
+   "pull up a chair"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088365113673720112"
  }
 ]
