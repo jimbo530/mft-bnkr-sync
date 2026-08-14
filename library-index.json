@@ -514,14 +514,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079254681331667213"
  },
  {
-  "band": "EBM",
-  "name": "Eight Banners Moving",
-  "triggers": [
-   "eight banners moving"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079270174599860649"
- },
- {
   "band": "HammerTone",
   "name": "The Grind Holds",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "everybody in the circle"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088264400952037452"
+ },
+ {
+  "band": "EBM",
+  "name": "Eight Banners Moving",
+  "triggers": [
+   "eight banners moving"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088269428945305855"
  }
 ]
