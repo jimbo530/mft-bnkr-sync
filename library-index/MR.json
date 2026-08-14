@@ -22,14 +22,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079378601695166716"
  },
  {
-  "name": "Champion of the Trees",
-  "triggers": [
-   "champion of the trees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079441256669704465",
-  "tag": "$MR"
- },
- {
   "name": "Feed the Village",
   "triggers": [
    "feed the village"
@@ -203,6 +195,14 @@
    "feed the column"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088385229102764190",
+  "tag": "$MR"
+ },
+ {
+  "name": "Champion of the Trees",
+  "triggers": [
+   "champion of the trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088405354119889185",
   "tag": "$MR"
  }
 ]
