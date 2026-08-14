@@ -1,13 +1,5 @@
 [
  {
-  "name": "Let the Agent Handle It",
-  "triggers": [
-   "let the agent handle it"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079063827933442099",
-  "tag": "$NN"
- },
- {
   "name": "We Saved You a Seat",
   "triggers": [
    "we saved you a seat"
@@ -213,6 +205,14 @@
    "ask me why i stay"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088068122439819360",
+  "tag": "$NN"
+ },
+ {
+  "name": "Let the Agent Handle It",
+  "triggers": [
+   "let the agent handle it"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088108402891231556",
   "tag": "$NN"
  }
 ]
