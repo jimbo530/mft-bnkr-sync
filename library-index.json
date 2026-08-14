@@ -178,14 +178,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079033579707736570"
  },
  {
-  "band": "MR",
-  "name": "Everybody in the Circle",
-  "triggers": [
-   "everybody in the circle"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079048677402739123"
- },
- {
   "band": "JS",
   "name": "Just Say It Plain",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "gather the good road"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088249330968727871"
+ },
+ {
+  "band": "MR",
+  "name": "Everybody in the Circle",
+  "triggers": [
+   "everybody in the circle"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088264400952037452"
  }
 ]

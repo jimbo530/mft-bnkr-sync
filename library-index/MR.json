@@ -16,14 +16,6 @@
   "tag": "$MR"
  },
  {
-  "name": "Everybody in the Circle",
-  "triggers": [
-   "everybody in the circle"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079048677402739123",
-  "tag": "$MR"
- },
- {
   "name": "Where I Can",
   "triggers": [
    "where i can"
@@ -203,6 +195,14 @@
    "third of the harvest"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088063068169294086",
+  "tag": "$MR"
+ },
+ {
+  "name": "Everybody in the Circle",
+  "triggers": [
+   "everybody in the circle"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088264400952037452",
   "tag": "$MR"
  }
 ]
