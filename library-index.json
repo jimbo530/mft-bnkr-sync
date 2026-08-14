@@ -43,14 +43,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2078635695023816869"
  },
  {
-  "band": "EBM",
-  "name": "Feed The People",
-  "triggers": [
-   "feed the people"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078746680854200803"
- },
- {
   "band": "DGT",
   "name": "One More Plate Before Dawn",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "name your nobody"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088344953470525457"
+ },
+ {
+  "band": "EBM",
+  "name": "Feed The People",
+  "triggers": [
+   "feed the people"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088349943891186004"
  }
 ]

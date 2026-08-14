@@ -1,13 +1,5 @@
 [
  {
-  "name": "Feed The People",
-  "triggers": [
-   "feed the people"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078746680854200803",
-  "tag": "$EBM"
- },
- {
   "name": "Plain Language Door",
   "triggers": [
    "plain language door"
@@ -302,6 +294,14 @@
    "eight banners moving"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088269428945305855",
+  "tag": "$EBM"
+ },
+ {
+  "name": "Feed The People",
+  "triggers": [
+   "feed the people"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088349943891186004",
   "tag": "$EBM"
  }
 ]
