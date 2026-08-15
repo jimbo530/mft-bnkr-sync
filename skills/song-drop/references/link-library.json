@@ -1222,19 +1222,6 @@
     "caption": "\"Just Got Out\" — Damned Good Time Orchestra\n\n$DGT 0x52414B7cD2FA723E1c8f9295EB29F16d15aA7BB9"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2080115711603548489",
-    "translation": "The Hungry Drum",
-    "name": "The Hungry Drum",
-    "triggers": [
-      "the hungry drum"
-    ],
-    "band": "Bongo",
-    "tag": "$BONGO",
-    "ca": "0x85Dd5183D203CcE70b88234D31f075774AcCC453",
-    "xPost": "https://x.com/MemeForTrees/status/2080115711603548489",
-    "caption": "\"The Hungry Drum\" — Bongo\n\n$BONGO 0x85Dd5183D203CcE70b88234D31f075774AcCC453"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2080125775496327317",
     "translation": "Feed the Village",
     "name": "Feed the Village",
@@ -4238,5 +4225,18 @@
     "ca": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d",
     "xPost": "https://x.com/MemeForTrees/status/2088425487076823452",
     "caption": "\"They Came to Us\" — Elves of Ballinmoore\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2088430487320592530",
+    "translation": "The Hungry Drum",
+    "name": "The Hungry Drum",
+    "triggers": [
+      "the hungry drum"
+    ],
+    "band": "Bongo",
+    "tag": "$BONGO",
+    "ca": "0x85Dd5183D203CcE70b88234D31f075774AcCC453",
+    "xPost": "https://x.com/MemeForTrees/status/2088430487320592530",
+    "caption": "\"The Hungry Drum\" — Bongo\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

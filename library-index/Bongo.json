@@ -66,14 +66,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079622844602888196"
  },
  {
-  "name": "The Hungry Drum",
-  "triggers": [
-   "the hungry drum"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080115711603548489",
-  "tag": "$BONGO"
- },
- {
   "name": "Number Go Up, Number Go Down (Always Fun In Monkey Town)",
   "triggers": [
    "number go up",
@@ -171,6 +163,14 @@
    "for no reason at all"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087987612107620438",
+  "tag": "$BONGO"
+ },
+ {
+  "name": "The Hungry Drum",
+  "triggers": [
+   "the hungry drum"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088430487320592530",
   "tag": "$BONGO"
  }
 ]

@@ -779,14 +779,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2080085574723981811"
  },
  {
-  "band": "Bongo",
-  "name": "The Hungry Drum",
-  "triggers": [
-   "the hungry drum"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080115711603548489"
- },
- {
   "band": "MR",
   "name": "Feed the Village",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "they came to us"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088425487076823452"
+ },
+ {
+  "band": "Bongo",
+  "name": "The Hungry Drum",
+  "triggers": [
+   "the hungry drum"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088430487320592530"
  }
 ]
