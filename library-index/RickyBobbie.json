@@ -7,14 +7,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079604628786708673"
  },
  {
-  "name": "Quick Off the Line",
-  "triggers": [
-   "quick off the line"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080553590901367153",
-  "tag": "$RICKY"
- },
- {
   "name": "She Keeps Herself Flying",
   "triggers": [
    "she keeps herself flying"
@@ -52,6 +44,14 @@
    "no value but songs we sing"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087881878271385748",
+  "tag": "$RICKY"
+ },
+ {
+  "name": "Quick Off the Line",
+  "triggers": [
+   "quick off the line"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088682194159997167",
   "tag": "$RICKY"
  }
 ]

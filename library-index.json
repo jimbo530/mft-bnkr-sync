@@ -746,14 +746,6 @@
  },
  {
   "band": "RickyBobbie",
-  "name": "Quick Off the Line",
-  "triggers": [
-   "quick off the line"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080553590901367153"
- },
- {
-  "band": "RickyBobbie",
   "name": "She Keeps Herself Flying",
   "triggers": [
    "she keeps herself flying"
@@ -2645,5 +2637,13 @@
    "the long walk's done"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088677162903580805"
+ },
+ {
+  "band": "RickyBobbie",
+  "name": "Quick Off the Line",
+  "triggers": [
+   "quick off the line"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088682194159997167"
  }
 ]
