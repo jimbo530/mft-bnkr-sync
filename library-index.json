@@ -817,14 +817,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2080377444276543674"
  },
  {
-  "band": "CB",
-  "name": "Live in Seconds",
-  "triggers": [
-   "live in seconds"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080447905303802320"
- },
- {
   "band": "RickyBobbie",
   "name": "Quick Off the Line",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "we saved you a seat"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088506015079702679"
+ },
+ {
+  "band": "CB",
+  "name": "Live in Seconds",
+  "triggers": [
+   "live in seconds"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088511050664583243"
  }
 ]
