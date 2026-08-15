@@ -817,14 +817,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2080603971543064730"
  },
  {
-  "band": "HammerTone",
-  "name": "The Stone Beneath",
-  "triggers": [
-   "the stone beneath"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080624106936906062"
- },
- {
   "band": "Biggins",
   "name": "Chat It Into Being",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "for no reason at all"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088621771456926166"
+ },
+ {
+  "band": "HammerTone",
+  "name": "The Stone Beneath",
+  "triggers": [
+   "the stone beneath"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088626799261483014"
  }
 ]
