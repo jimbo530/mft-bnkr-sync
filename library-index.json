@@ -842,14 +842,6 @@
  },
  {
   "band": "CB",
-  "name": "Green Candle Anthem",
-  "triggers": [
-   "green candle anthem"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080417752053907799"
- },
- {
-  "band": "CB",
   "name": "Live in Seconds",
   "triggers": [
    "live in seconds"
@@ -2645,5 +2637,13 @@
    "the hungry drum"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088430487320592530"
+ },
+ {
+  "band": "CB",
+  "name": "Green Candle Anthem",
+  "triggers": [
+   "green candle anthem"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088450619426152685"
  }
 ]

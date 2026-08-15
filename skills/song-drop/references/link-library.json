@@ -1314,19 +1314,6 @@
     "caption": "\"Both Chains at Once\" — CB\n\n$MfT"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2080417752053907799",
-    "translation": "Green Candle Anthem",
-    "name": "Green Candle Anthem",
-    "triggers": [
-      "green candle anthem"
-    ],
-    "band": "CB",
-    "tag": "$MfT",
-    "ca": null,
-    "xPost": "https://x.com/MemeForTrees/status/2080417752053907799",
-    "caption": "\"Green Candle Anthem\" — CB\n\nan agent for the whole fam, working around the clock\n\n$MfT"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2080447905303802320",
     "translation": "Live in Seconds",
     "name": "Live in Seconds",
@@ -4238,5 +4225,18 @@
     "ca": "0x85Dd5183D203CcE70b88234D31f075774AcCC453",
     "xPost": "https://x.com/MemeForTrees/status/2088430487320592530",
     "caption": "\"The Hungry Drum\" — Bongo\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2088450619426152685",
+    "translation": "Green Candle Anthem",
+    "name": "Green Candle Anthem",
+    "triggers": [
+      "green candle anthem"
+    ],
+    "band": "CB",
+    "tag": "$MfT",
+    "ca": null,
+    "xPost": "https://x.com/MemeForTrees/status/2088450619426152685",
+    "caption": "\"Green Candle Anthem\" — CB\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
