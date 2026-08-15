@@ -1,13 +1,5 @@
 [
  {
-  "name": "Plain Language Door",
-  "triggers": [
-   "plain language door"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078867487886655535",
-  "tag": "$EBM"
- },
- {
   "name": "Tell It and Launch",
   "triggers": [
    "tell it and launch"
@@ -302,6 +294,14 @@
    "mutiny"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088566372670275829",
+  "tag": "$EBM"
+ },
+ {
+  "name": "Plain Language Door",
+  "triggers": [
+   "plain language door"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088641886810485014",
   "tag": "$EBM"
  }
 ]

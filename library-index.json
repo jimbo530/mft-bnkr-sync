@@ -52,14 +52,6 @@
  },
  {
   "band": "EBM",
-  "name": "Plain Language Door",
-  "triggers": [
-   "plain language door"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078867487886655535"
- },
- {
-  "band": "EBM",
   "name": "Tell It and Launch",
   "triggers": [
    "tell it and launch"
@@ -2645,5 +2637,13 @@
    "the stone beneath"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088626799261483014"
+ },
+ {
+  "band": "EBM",
+  "name": "Plain Language Door",
+  "triggers": [
+   "plain language door"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088641886810485014"
  }
 ]
