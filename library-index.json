@@ -19,14 +19,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2078218260470706262"
  },
  {
-  "band": "Rish",
-  "name": "Plant It Brave",
-  "triggers": [
-   "plant it brave"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078600724162687079"
- },
- {
   "band": null,
   "name": "Here We Go Again",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "plain language door"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088641886810485014"
+ },
+ {
+  "band": "Rish",
+  "name": "Plant It Brave",
+  "triggers": [
+   "plant it brave"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088657006965952942"
  }
 ]

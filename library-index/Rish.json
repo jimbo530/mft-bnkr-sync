@@ -1,13 +1,5 @@
 [
  {
-  "name": "Plant It Brave",
-  "triggers": [
-   "plant it brave"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078600724162687079",
-  "tag": "$RISH"
- },
- {
   "name": "Setups in Disguise",
   "triggers": [
    "setups in disguise"
@@ -221,6 +213,14 @@
    "a little kid said thank you"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088329825601589371",
+  "tag": "$RISH"
+ },
+ {
+  "name": "Plant It Brave",
+  "triggers": [
+   "plant it brave"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088657006965952942",
   "tag": "$RISH"
  }
 ]
