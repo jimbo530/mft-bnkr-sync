@@ -585,14 +585,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079605077359178222"
  },
  {
-  "band": "DD",
-  "name": "The Long Walk's Done",
-  "triggers": [
-   "the long walk's done"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079607404036030647"
- },
- {
   "band": "Bongo",
   "name": "Pay the Bills (Then We Play)",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "a billion in a day"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088662073395831126"
+ },
+ {
+  "band": "DD",
+  "name": "The Long Walk's Done",
+  "triggers": [
+   "the long walk's done"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088677162903580805"
  }
 ]

@@ -36,14 +36,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079568304016900141"
  },
  {
-  "name": "The Long Walk's Done",
-  "triggers": [
-   "the long walk's done"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079607404036030647",
-  "tag": "$DD"
- },
- {
   "name": "Nations as One",
   "triggers": [
    "nations as one"
@@ -243,6 +235,14 @@
    "gather the good road"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088249330968727871",
+  "tag": "$DD"
+ },
+ {
+  "name": "The Long Walk's Done",
+  "triggers": [
+   "the long walk's done"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088677162903580805",
   "tag": "$DD"
  }
 ]
