@@ -8,14 +8,6 @@
   "tag": "$DGT"
  },
  {
-  "name": "One More Night at Shillwood",
-  "triggers": [
-   "one more night at shillwood"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078787009510805598",
-  "tag": "$DGT"
- },
- {
   "name": "One More Round On the Chain",
   "triggers": [
    "one more round on the chain"
@@ -144,6 +136,14 @@
    "pull up a chair"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088365113673720112",
+  "tag": "$DGT"
+ },
+ {
+  "name": "One More Night at Shillwood",
+  "triggers": [
+   "one more night at shillwood"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088526131699884391",
   "tag": "$DGT"
  }
 ]

@@ -44,14 +44,6 @@
  },
  {
   "band": "DGT",
-  "name": "One More Night at Shillwood",
-  "triggers": [
-   "one more night at shillwood"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078787009510805598"
- },
- {
-  "band": "DGT",
   "name": "One More Round On the Chain",
   "triggers": [
    "one more round on the chain"
@@ -2645,5 +2637,13 @@
    "live in seconds"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088511050664583243"
+ },
+ {
+  "band": "DGT",
+  "name": "One More Night at Shillwood",
+  "triggers": [
+   "one more night at shillwood"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088526131699884391"
  }
 ]
