@@ -65,14 +65,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079250875076296731"
  },
  {
-  "name": "The Good Word",
-  "triggers": [
-   "the good word"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079511765981794372",
-  "tag": "$EBM"
- },
- {
   "name": "A Billion Strong",
   "triggers": [
    "a billion strong"
@@ -302,6 +294,14 @@
    "they came to us"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088425487076823452",
+  "tag": "$EBM"
+ },
+ {
+  "name": "The Good Word",
+  "triggers": [
+   "the good word"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088490876653736021",
   "tag": "$EBM"
  }
 ]

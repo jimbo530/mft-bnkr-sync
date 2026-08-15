@@ -566,14 +566,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079507647942795388"
  },
  {
-  "band": "EBM",
-  "name": "The Good Word",
-  "triggers": [
-   "the good word"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079511765981794372"
- },
- {
   "band": "Rish",
   "name": "Bread and Water",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "it rides for you"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088470750982217902"
+ },
+ {
+  "band": "EBM",
+  "name": "The Good Word",
+  "triggers": [
+   "the good word"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088490876653736021"
  }
 ]
