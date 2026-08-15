@@ -169,14 +169,6 @@
   "tag": "$EBM"
  },
  {
-  "name": "Mutiny",
-  "triggers": [
-   "mutiny"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086130383301615738",
-  "tag": "$EBM"
- },
- {
   "name": "The Garden Watch",
   "triggers": [
    "the garden watch"
@@ -302,6 +294,14 @@
    "the good word"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088490876653736021",
+  "tag": "$EBM"
+ },
+ {
+  "name": "Mutiny",
+  "triggers": [
+   "mutiny"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088566372670275829",
   "tag": "$EBM"
  }
 ]

@@ -1487,14 +1487,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086110205322973554"
  },
  {
-  "band": "EBM",
-  "name": "Mutiny",
-  "triggers": [
-   "mutiny"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086130383301615738"
- },
- {
   "band": "CB",
   "name": "Love Builds the Forest",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "more life than half the charts"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088551382391423476"
+ },
+ {
+  "band": "EBM",
+  "name": "Mutiny",
+  "triggers": [
+   "mutiny"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088566372670275829"
  }
 ]
