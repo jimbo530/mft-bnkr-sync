@@ -675,14 +675,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2080085574723981811"
  },
  {
-  "band": "MR",
-  "name": "Feed the Village",
-  "triggers": [
-   "feed the village"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080125775496327317"
- },
- {
   "band": "Gurdy",
   "name": "Society is a Meme",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "one more plate before dawn"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088702357001437561"
+ },
+ {
+  "band": "MR",
+  "name": "Feed the Village",
+  "triggers": [
+   "feed the village"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088722416574910557"
  }
 ]

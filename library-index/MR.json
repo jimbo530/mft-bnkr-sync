@@ -22,14 +22,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079378601695166716"
  },
  {
-  "name": "Feed the Village",
-  "triggers": [
-   "feed the village"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080125775496327317",
-  "tag": "$MR"
- },
- {
   "name": "Joy in the Ground",
   "triggers": [
    "joy in the ground"
@@ -203,6 +195,14 @@
    "champion of the trees"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088405354119889185",
+  "tag": "$MR"
+ },
+ {
+  "name": "Feed the Village",
+  "triggers": [
+   "feed the village"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088722416574910557",
   "tag": "$MR"
  }
 ]
