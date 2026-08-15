@@ -40,14 +40,6 @@
   "tag": "$DGT"
  },
  {
-  "name": "More Life Than Half the Charts",
-  "triggers": [
-   "more life than half the charts"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079652744743256076",
-  "tag": "$DGT"
- },
- {
   "name": "Lucky To Be Here",
   "triggers": [
    "lucky to be here"
@@ -144,6 +136,14 @@
    "one night ahead"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088546321321873718",
+  "tag": "$DGT"
+ },
+ {
+  "name": "More Life Than Half the Charts",
+  "triggers": [
+   "more life than half the charts"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088551382391423476",
   "tag": "$DGT"
  }
 ]

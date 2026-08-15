@@ -625,14 +625,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079622844602888196"
  },
  {
-  "band": "DGT",
-  "name": "More Life Than Half the Charts",
-  "triggers": [
-   "more life than half the charts"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079652744743256076"
- },
- {
   "band": "Myco",
   "name": "Every Day Above the Dark",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "one night ahead"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088546321321873718"
+ },
+ {
+  "band": "DGT",
+  "name": "More Life Than Half the Charts",
+  "triggers": [
+   "more life than half the charts"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088551382391423476"
  }
 ]
