@@ -7,14 +7,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079252656258797778"
  },
  {
-  "name": "Bread and Water",
-  "triggers": [
-   "bread and water"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079531852671385691",
-  "tag": "$RISH"
- },
- {
   "name": "The Town of the Cats",
   "triggers": [
    "the town of the cats"
@@ -221,6 +213,14 @@
    "plant it brave"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088657006965952942",
+  "tag": "$RISH"
+ },
+ {
+  "name": "Bread and Water",
+  "triggers": [
+   "bread and water"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088757653321273832",
   "tag": "$RISH"
  }
 ]

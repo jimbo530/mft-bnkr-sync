@@ -526,14 +526,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079507647942795388"
  },
  {
-  "band": "Rish",
-  "name": "Bread and Water",
-  "triggers": [
-   "bread and water"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079531852671385691"
- },
- {
   "band": "NN",
   "name": "Bad for Business",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "feed the village"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088722416574910557"
+ },
+ {
+  "band": "Rish",
+  "name": "Bread and Water",
+  "triggers": [
+   "bread and water"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088757653321273832"
  }
 ]
