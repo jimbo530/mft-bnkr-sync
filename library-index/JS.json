@@ -38,14 +38,6 @@
   "tag": "$JS"
  },
  {
-  "name": "Friday on the Green",
-  "triggers": [
-   "friday on the green"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079602365896724633",
-  "tag": "$JS"
- },
- {
   "name": "Ko Came Early",
   "triggers": [
    "ko came early"
@@ -201,6 +193,14 @@
    "name your nobody"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088344953470525457",
+  "tag": "$JS"
+ },
+ {
+  "name": "Friday on the Green",
+  "triggers": [
+   "friday on the green"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088606683740160315",
   "tag": "$JS"
  }
 ]

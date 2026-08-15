@@ -585,14 +585,6 @@
   "xPost": "https://x.com/RWIrobinhood/status/2079346822674272594"
  },
  {
-  "band": "JS",
-  "name": "Friday on the Green",
-  "triggers": [
-   "friday on the green"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079602365896724633"
- },
- {
   "band": "RickyBobbie",
   "name": "Three Weeks in a Minute",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "we built the furnace ourselves"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088571483702362472"
+ },
+ {
+  "band": "JS",
+  "name": "Friday on the Green",
+  "triggers": [
+   "friday on the green"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088606683740160315"
  }
 ]

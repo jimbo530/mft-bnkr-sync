@@ -905,19 +905,6 @@
     "special": true
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2079602365896724633",
-    "translation": "Friday on the Green",
-    "name": "Friday on the Green",
-    "triggers": [
-      "friday on the green"
-    ],
-    "band": "JS",
-    "tag": "$JS",
-    "ca": "0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65",
-    "xPost": "https://x.com/MemeForTrees/status/2079602365896724633",
-    "caption": "\"Friday on the Green\" — Jony Sings\n\n$JS 0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2079604628786708673",
     "translation": "Three Weeks in a Minute",
     "name": "Three Weeks in a Minute",
@@ -4238,5 +4225,18 @@
     "ca": "0x52414B7cD2FA723E1c8f9295EB29F16d15aA7BB9",
     "xPost": "https://x.com/MemeForTrees/status/2088571483702362472",
     "caption": "\"We Built the Furnace Ourselves\" — Damned Good Time Orchestra\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2088606683740160315",
+    "translation": "Friday on the Green",
+    "name": "Friday on the Green",
+    "triggers": [
+      "friday on the green"
+    ],
+    "band": "JS",
+    "tag": "$JS",
+    "ca": "0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65",
+    "xPost": "https://x.com/MemeForTrees/status/2088606683740160315",
+    "caption": "\"Friday on the Green\" — Jony Sings\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
