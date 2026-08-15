@@ -746,14 +746,6 @@
  },
  {
   "band": "CB",
-  "name": "A Billion in a Day",
-  "triggers": [
-   "a billion in a day"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080362344782213472"
- },
- {
-  "band": "CB",
   "name": "Both Chains at Once",
   "triggers": [
    "both chains at once"
@@ -2645,5 +2637,13 @@
    "plant it brave"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088657006965952942"
+ },
+ {
+  "band": "CB",
+  "name": "A Billion in a Day",
+  "triggers": [
+   "a billion in a day"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088662073395831126"
  }
 ]
