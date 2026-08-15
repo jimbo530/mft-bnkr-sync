@@ -1,13 +1,5 @@
 [
  {
-  "name": "We Saved You a Seat",
-  "triggers": [
-   "we saved you a seat"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079139272595030342",
-  "tag": "$NN"
- },
- {
   "name": "The Path to Personal Shows",
   "triggers": [
    "the path to personal shows"
@@ -213,6 +205,14 @@
    "let the agent handle it"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088108402891231556",
+  "tag": "$NN"
+ },
+ {
+  "name": "We Saved You a Seat",
+  "triggers": [
+   "we saved you a seat"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088506015079702679",
   "tag": "$NN"
  }
 ]

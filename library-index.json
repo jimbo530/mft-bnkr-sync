@@ -178,14 +178,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079134240814359004"
  },
  {
-  "band": "NN",
-  "name": "We Saved You a Seat",
-  "triggers": [
-   "we saved you a seat"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079139272595030342"
- },
- {
   "band": "ALAN",
   "name": "The Rules Are the Rules",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "the good word"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088490876653736021"
+ },
+ {
+  "band": "NN",
+  "name": "We Saved You a Seat",
+  "triggers": [
+   "we saved you a seat"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088506015079702679"
  }
 ]
