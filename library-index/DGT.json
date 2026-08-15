@@ -48,14 +48,6 @@
   "tag": "$DGT"
  },
  {
-  "name": "We Built the Furnace Ourselves",
-  "triggers": [
-   "we built the furnace ourselves"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080035242983805303",
-  "tag": "$DGT"
- },
- {
   "name": "Just Got Out",
   "triggers": [
    "just got out"
@@ -144,6 +136,14 @@
    "more life than half the charts"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088551382391423476",
+  "tag": "$DGT"
+ },
+ {
+  "name": "We Built the Furnace Ourselves",
+  "triggers": [
+   "we built the furnace ourselves"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088571483702362472",
   "tag": "$DGT"
  }
 ]
