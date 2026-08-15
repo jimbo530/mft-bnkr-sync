@@ -601,14 +601,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079771002322514242"
  },
  {
-  "band": "NN",
-  "name": "Cheap Tricks Expensive Forests",
-  "triggers": [
-   "cheap tricks expensive forests"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079798650440438002"
- },
- {
   "band": "DGT",
   "name": "Lucky To Be Here",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "quick off the line"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088682194159997167"
+ },
+ {
+  "band": "NN",
+  "name": "Cheap Tricks Expensive Forests",
+  "triggers": [
+   "cheap tricks expensive forests"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088697261026844820"
  }
 ]

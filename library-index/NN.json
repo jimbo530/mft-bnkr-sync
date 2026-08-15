@@ -48,14 +48,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079545861537771528"
  },
  {
-  "name": "Cheap Tricks Expensive Forests",
-  "triggers": [
-   "cheap tricks expensive forests"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079798650440438002",
-  "tag": "$NN"
- },
- {
   "name": "Toast to the Trees",
   "triggers": [
    "toast to the trees"
@@ -213,6 +205,14 @@
    "we saved you a seat"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088506015079702679",
+  "tag": "$NN"
+ },
+ {
+  "name": "Cheap Tricks Expensive Forests",
+  "triggers": [
+   "cheap tricks expensive forests"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088697261026844820",
   "tag": "$NN"
  }
 ]
