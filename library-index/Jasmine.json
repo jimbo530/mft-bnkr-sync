@@ -8,14 +8,6 @@
   "tag": "$JASMINE"
  },
  {
-  "name": "It Rides for You",
-  "triggers": [
-   "it rides for you"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079994912796225790",
-  "tag": "$JASMINE"
- },
- {
   "name": "Nobody Owns the Prompt",
   "triggers": [
    "nobody owns the prompt"
@@ -45,6 +37,14 @@
    "tunnels of darkness"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2087886965265830371",
+  "tag": "$JASMINE"
+ },
+ {
+  "name": "It Rides for You",
+  "triggers": [
+   "it rides for you"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088470750982217902",
   "tag": "$JASMINE"
  }
 ]

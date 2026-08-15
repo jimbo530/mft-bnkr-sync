@@ -748,14 +748,6 @@
  },
  {
   "band": "Jasmine",
-  "name": "It Rides for You",
-  "triggers": [
-   "it rides for you"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079994912796225790"
- },
- {
-  "band": "Jasmine",
   "name": "Nobody Owns the Prompt",
   "triggers": [
    "nobody owns the prompt"
@@ -2645,5 +2637,13 @@
    "green candle anthem"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088450619426152685"
+ },
+ {
+  "band": "Jasmine",
+  "name": "It Rides for You",
+  "triggers": [
+   "it rides for you"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088470750982217902"
  }
 ]

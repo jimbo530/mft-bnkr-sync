@@ -1170,19 +1170,6 @@
     "caption": "The first real crypto endowments — give once, give forever. 🌱🌳🍲🌊📚"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2079994912796225790",
-    "translation": "It Rides for You",
-    "name": "It Rides for You",
-    "triggers": [
-      "it rides for you"
-    ],
-    "band": "Jasmine",
-    "tag": "$JASMINE",
-    "ca": "0x3a952eFa41501c0463Cf8Af9f821f8F549f47Edf",
-    "xPost": "https://x.com/MemeForTrees/status/2079994912796225790",
-    "caption": "\"It Rides for You\" — Jasmine\n\n$MfT"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2080004982401622163",
     "translation": "Nobody Owns the Prompt",
     "name": "Nobody Owns the Prompt",
@@ -4238,5 +4225,18 @@
     "ca": null,
     "xPost": "https://x.com/MemeForTrees/status/2088450619426152685",
     "caption": "\"Green Candle Anthem\" — CB\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2088470750982217902",
+    "translation": "It Rides for You",
+    "name": "It Rides for You",
+    "triggers": [
+      "it rides for you"
+    ],
+    "band": "Jasmine",
+    "tag": "$JASMINE",
+    "ca": "0x3a952eFa41501c0463Cf8Af9f821f8F549f47Edf",
+    "xPost": "https://x.com/MemeForTrees/status/2088470750982217902",
+    "caption": "\"It Rides for You\" — Jasmine\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
