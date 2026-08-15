@@ -1,13 +1,5 @@
 [
  {
-  "name": "One More Plate Before Dawn",
-  "triggers": [
-   "one more plate before dawn"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078756819959177625",
-  "tag": "$DGT"
- },
- {
   "name": "One More Round On the Chain",
   "triggers": [
    "one more round on the chain"
@@ -144,6 +136,14 @@
    "we built the furnace ourselves"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088571483702362472",
+  "tag": "$DGT"
+ },
+ {
+  "name": "One More Plate Before Dawn",
+  "triggers": [
+   "one more plate before dawn"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088702357001437561",
   "tag": "$DGT"
  }
 ]

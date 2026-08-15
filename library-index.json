@@ -28,14 +28,6 @@
  },
  {
   "band": "DGT",
-  "name": "One More Plate Before Dawn",
-  "triggers": [
-   "one more plate before dawn"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2078756819959177625"
- },
- {
-  "band": "DGT",
   "name": "One More Round On the Chain",
   "triggers": [
    "one more round on the chain"
@@ -2645,5 +2637,13 @@
    "cheap tricks expensive forests"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088697261026844820"
+ },
+ {
+  "band": "DGT",
+  "name": "One More Plate Before Dawn",
+  "triggers": [
+   "one more plate before dawn"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088702357001437561"
  }
 ]
