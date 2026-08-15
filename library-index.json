@@ -834,14 +834,6 @@
  },
  {
   "band": "Biggins",
-  "name": "It Brought Its Own Pack",
-  "triggers": [
-   "it brought its own pack"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080684451785277500"
- },
- {
-  "band": "Biggins",
   "name": "Shout It and It's Live",
   "triggers": [
    "shout it and it's live"
@@ -2645,5 +2637,13 @@
    "friday on the green"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088606683740160315"
+ },
+ {
+  "band": "Biggins",
+  "name": "It Brought Its Own Pack",
+  "triggers": [
+   "it brought its own pack"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088611705857163410"
  }
 ]
