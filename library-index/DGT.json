@@ -40,14 +40,6 @@
   "tag": "$DGT"
  },
  {
-  "name": "One Night Ahead",
-  "triggers": [
-   "one night ahead"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079617545275953237",
-  "tag": "$DGT"
- },
- {
   "name": "More Life Than Half the Charts",
   "triggers": [
    "more life than half the charts"
@@ -144,6 +136,14 @@
    "one more night at shillwood"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088526131699884391",
+  "tag": "$DGT"
+ },
+ {
+  "name": "One Night Ahead",
+  "triggers": [
+   "one night ahead"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088546321321873718",
   "tag": "$DGT"
  }
 ]

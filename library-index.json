@@ -617,14 +617,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079607404036030647"
  },
  {
-  "band": "DGT",
-  "name": "One Night Ahead",
-  "triggers": [
-   "one night ahead"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079617545275953237"
- },
- {
   "band": "Bongo",
   "name": "Pay the Bills (Then We Play)",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "one more night at shillwood"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088526131699884391"
+ },
+ {
+  "band": "DGT",
+  "name": "One Night Ahead",
+  "triggers": [
+   "one night ahead"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088546321321873718"
  }
 ]
