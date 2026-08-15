@@ -32,14 +32,6 @@
   "tag": "$DGT"
  },
  {
-  "name": "Lucky To Be Here",
-  "triggers": [
-   "lucky to be here"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079919465928503527",
-  "tag": "$DGT"
- },
- {
   "name": "Just Got Out",
   "triggers": [
    "just got out"
@@ -144,6 +136,14 @@
    "one more plate before dawn"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088702357001437561",
+  "tag": "$DGT"
+ },
+ {
+  "name": "Lucky To Be Here",
+  "triggers": [
+   "lucky to be here"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088762754630832220",
   "tag": "$DGT"
  }
 ]

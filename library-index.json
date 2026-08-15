@@ -585,14 +585,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079771002322514242"
  },
  {
-  "band": "DGT",
-  "name": "Lucky To Be Here",
-  "triggers": [
-   "lucky to be here"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079919465928503527"
- },
- {
   "band": "Rish",
   "name": "The Town of the Cats",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "bread and water"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088757653321273832"
+ },
+ {
+  "band": "DGT",
+  "name": "Lucky To Be Here",
+  "triggers": [
+   "lucky to be here"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088762754630832220"
  }
 ]
