@@ -302,5 +302,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088953999064015176",
   "tag": "$MfT"
+ },
+ {
+  "name": "Keeper Of The Flame",
+  "triggers": [
+   "keeper of the flame"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089120081775104100",
+  "tag": "$MfT"
  }
 ]
