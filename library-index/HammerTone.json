@@ -76,5 +76,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088908666418155810",
   "tag": "$MfT"
+ },
+ {
+  "name": "The Vault Sealed by Oath",
+  "triggers": [
+   "the vault sealed by oath"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089084825667789139",
+  "tag": "$MfT"
  }
 ]
