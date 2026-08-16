@@ -1,0 +1,10 @@
+[
+ {
+  "name": "A Banana A Day",
+  "triggers": [
+   "a banana a day"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089125070664880480",
+  "tag": "$MfT"
+ }
+]
