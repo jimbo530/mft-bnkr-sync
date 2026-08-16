@@ -84,5 +84,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088989207297503654",
   "tag": "$MfT"
+ },
+ {
+  "name": "The Wall That Never Falls",
+  "triggers": [
+   "the wall that never falls"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089099967142953236",
+  "tag": "$MfT"
  }
 ]
