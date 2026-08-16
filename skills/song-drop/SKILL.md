@@ -16,9 +16,9 @@ When a user on X asks for a library item (a song, or the meme), Bankr does exact
    - a blank line
    - the entry's `xPost` URL on its own line
    - a blank line
-   - the BANKR LINE, one line — ⚠️ the whole post must contain "$MfT" EXACTLY ONCE (X hard-rejects a second occurrence with a 403, even the same tag twice), so pick by counting $MfT in the caption:
-     - caption already has `$MfT` → `MfT is a Bankr token — memes + music that plant real trees 🌱`
-     - caption has NO cashtag → `$MfT — Meme for Trees, a Bankr token. memes + music that plant real trees 🌱`
+   - the BANKR LINE, one line (it also points to the 24/7 stream — founder 2026-08-16) — ⚠️ the whole post must contain "$MfT" EXACTLY ONCE (X hard-rejects a second occurrence with a 403, even the same tag twice), so pick by counting $MfT in the caption:
+     - caption already has `$MfT` → `MfT is a Bankr token — memes + music that plant real trees 🌱 the tunes never stop: @MemeForTrees drops a new band song 24/7`
+     - caption has NO cashtag → `$MfT — Meme for Trees, a Bankr token 🌱 the tunes never stop: @MemeForTrees drops a new band song 24/7`
    - a blank line
    - the BOOTH PLUG, one line: `want a custom song about anything? just ask me — commissions run about a buck`
 4. X unfurls the `xPost` link into the native video/image. **The drop is now delivered — this is the deliverable, complete. ONE action, and you're done.**
@@ -81,6 +81,6 @@ If `execute_cli` can't stage the script, deliver BY HAND using the **same trigge
    - If it's a title/topic with no band → read **`library-index/_bands.json`** (tiny) to find which band has that title, then read that **`library-index/<BAND>.json`**.
    Each band file is a few KB and always fits whole. Songs the auto-poster adds appear instantly, NO re-install. A drop = title line + blank line + the `xPost` link.
 2. Match the request against each entry's **`triggers`** array in the band file. The entry whose **longest trigger** appears in the request wins. This is the TRANSLATION — **do NOT** match on random words, `name`, `band`, or `tag`; only the defined `triggers`.
-3. Post the entry's `caption` (or just the title if serving from the index), a blank line, its `xPost` link, a blank line, the Bankr line (with `$MfT` ONLY if the caption has no cashtag — X 403s a duplicate cashtag: caption has $MfT → `MfT is a Bankr token — memes + music that plant real trees 🌱`; no cashtag → `$MfT — Meme for Trees, a Bankr token. memes + music that plant real trees 🌱`), a blank line, then the booth plug: `want a custom song about anything? just ask me — commissions run about a buck`.
+3. Post the entry's `caption` (or just the title if serving from the index), a blank line, its `xPost` link, a blank line, the Bankr line (with `$MfT` ONLY if the caption has no cashtag — X 403s a duplicate cashtag: caption has $MfT → `MfT is a Bankr token — memes + music that plant real trees 🌱 the tunes never stop: @MemeForTrees drops a new band song 24/7`; no cashtag → `$MfT — Meme for Trees, a Bankr token 🌱 the tunes never stop: @MemeForTrees drops a new band song 24/7`), a blank line, then the booth plug: `want a custom song about anything? just ask me — commissions run about a buck`.
 
 This produces the identical result to `song-drop.cjs` (which just automates these exact steps). The helper — `node song-drop.cjs "show me the meme"` — prints the drop to post verbatim.
