@@ -643,14 +643,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2080004982401622163"
  },
  {
-  "band": "DGT",
-  "name": "Just Got Out",
-  "triggers": [
-   "just got out"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080085574723981811"
- },
- {
   "band": "Gurdy",
   "name": "Society is a Meme",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "your name arrives before you"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088782822920090094"
+ },
+ {
+  "band": "DGT",
+  "name": "Just Got Out",
+  "triggers": [
+   "just got out"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088797996662047166"
  }
 ]

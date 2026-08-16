@@ -32,14 +32,6 @@
   "tag": "$DGT"
  },
  {
-  "name": "Just Got Out",
-  "triggers": [
-   "just got out"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080085574723981811",
-  "tag": "$DGT"
- },
- {
   "name": "The Machine Broke Down (The Band Did Not)",
   "triggers": [
    "the machine broke down",
@@ -144,6 +136,14 @@
    "lucky to be here"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088762754630832220",
+  "tag": "$DGT"
+ },
+ {
+  "name": "Just Got Out",
+  "triggers": [
+   "just got out"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088797996662047166",
   "tag": "$DGT"
  }
 ]
