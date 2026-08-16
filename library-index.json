@@ -498,14 +498,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079395156420124760"
  },
  {
-  "band": "DD",
-  "name": "Your Name Arrives Before You",
-  "triggers": [
-   "your name arrives before you"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079436271894560936"
- },
- {
   "band": "JS",
   "name": "Everybody Drinks",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "she keeps herself flying"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088777827189444629"
+ },
+ {
+  "band": "DD",
+  "name": "Your Name Arrives Before You",
+  "triggers": [
+   "your name arrives before you"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088782822920090094"
  }
 ]
