@@ -705,14 +705,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2080377444276543674"
  },
  {
-  "band": "RickyBobbie",
-  "name": "She Keeps Herself Flying",
-  "triggers": [
-   "she keeps herself flying"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080573769936941391"
- },
- {
   "band": "HammerTone",
   "name": "A Hall of Tools",
   "triggers": [
@@ -2645,5 +2637,13 @@
    "lucky to be here"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088762754630832220"
+ },
+ {
+  "band": "RickyBobbie",
+  "name": "She Keeps Herself Flying",
+  "triggers": [
+   "she keeps herself flying"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088777827189444629"
  }
 ]

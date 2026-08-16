@@ -7,14 +7,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079604628786708673"
  },
  {
-  "name": "She Keeps Herself Flying",
-  "triggers": [
-   "she keeps herself flying"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080573769936941391",
-  "tag": "$RICKY"
- },
- {
   "name": "She Carries Her Own",
   "triggers": [
    "she carries her own"
@@ -52,6 +44,14 @@
    "quick off the line"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088682194159997167",
+  "tag": "$RICKY"
+ },
+ {
+  "name": "She Keeps Herself Flying",
+  "triggers": [
+   "she keeps herself flying"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088777827189444629",
   "tag": "$RICKY"
  }
 ]
