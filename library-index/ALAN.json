@@ -12,7 +12,7 @@
    "alan launch"
   ],
   "promote": true,
-  "tag": "$ALAN"
+  "tag": "$MfT"
  },
  {
   "name": "The Rules Are the Rules",
@@ -26,7 +26,7 @@
    "moderation",
    "x rules"
   ],
-  "tag": "$ALAN"
+  "tag": "$MfT"
  },
  {
   "name": "Banker Season",
@@ -42,7 +42,7 @@
    "trading season"
   ],
   "promote": true,
-  "tag": "$ALAN"
+  "tag": "$MfT"
  },
  {
   "name": "For the Tree and the Bees",
@@ -58,7 +58,7 @@
    "planting"
   ],
   "promote": true,
-  "tag": "$ALAN"
+  "tag": "$MfT"
  },
  {
   "name": "Here Building Anyway",
@@ -73,7 +73,7 @@
    "og",
    "shipping"
   ],
-  "tag": "$ALAN"
+  "tag": "$MfT"
  },
  {
   "name": "Still Building After Dark",
@@ -86,7 +86,7 @@
    "night shift",
    "builders"
   ],
-  "tag": "$ALAN"
+  "tag": "$MfT"
  },
  {
   "name": "The Sounds of the Barn Yard",
@@ -100,7 +100,7 @@
    "farm",
    "funny"
   ],
-  "tag": "$ALAN"
+  "tag": "$MfT"
  },
  {
   "name": "Burgers Feed the People",
@@ -116,7 +116,7 @@
    "fees"
   ],
   "promote": true,
-  "tag": "$ALAN"
+  "tag": "$MfT"
  },
  {
   "name": "A Hopping Good Time",
@@ -124,6 +124,6 @@
    "a hopping good time"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2079371832369577998",
-  "tag": "$ALAN"
+  "tag": "$MfT"
  }
 ]

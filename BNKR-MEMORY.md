@@ -95,7 +95,7 @@ LINK: https://x.com/MemeForTrees/status/2079407960246124867
 ### triggers: what meme feeds people / the meme that feeds people / meme that feeds people / the burger meme / burgers meme
 🍔 the meme that feeds people
 
-$BURGERS — it feeds people with trading fees and yield streams, and the reactor burns the supply. robinhood chain, verifiable on-chain.
+$MfT — it feeds people with trading fees and yield streams, and the reactor burns the supply. robinhood chain, verifiable on-chain.
 
 get some
 
@@ -113,7 +113,7 @@ $MfT
 LINK: https://x.com/MemeForTrees/status/2079507647942795388
 
 ### triggers: whats new with rwi / what's new with rwi / rwi news / rwi update
-🌍 what's new with $RWI
+🌍 what's new with $MfT
 
 RWIhood.org got a makeover — mobile rebuilt, and a new "The Founder" section. No faceless dev here: built for fun and real-world difference.
 
@@ -121,7 +121,7 @@ friends of the family — their charity vault and Impact Reactor run on our rail
 LINK: https://x.com/RWIrobinhood/status/2079346822674272594
 
 ### triggers: show me the love / show the love / spread the love / love token / the love drop
-💕 $LOVE is live on Robinhood chain — bridged 1:1 from Base the proper way (LayerZero OFT), source-verified, real deepened liquidity.
+💕 $MfT is live on Robinhood chain — bridged 1:1 from Base the proper way (LayerZero OFT), source-verified, real deepened liquidity.
 
 built with the @bankrbot skills + @0xDeployer. this is the network growing — spread the love.
 LINK: https://x.com/shockwaved91117/status/2078284624011092410
