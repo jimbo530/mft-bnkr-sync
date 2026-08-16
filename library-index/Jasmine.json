@@ -78,5 +78,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088933860268507356",
   "tag": "$MfT"
+ },
+ {
+  "name": "Shade I'll Never Sit In",
+  "triggers": [
+   "shade i'll never sit in"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089104947627311163",
+  "tag": "$MfT"
  }
 ]
