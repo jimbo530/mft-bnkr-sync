@@ -77,5 +77,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088893553002885471",
   "tag": "$MfT"
+ },
+ {
+  "name": "The Well That Never Runs Dry",
+  "triggers": [
+   "the well that never runs dry"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089079816590967123",
+  "tag": "$MfT"
  }
 ]
