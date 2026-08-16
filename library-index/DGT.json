@@ -169,5 +169,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088873496122155331",
   "tag": "$MfT"
+ },
+ {
+  "name": "The Vault That Keeps Its Word",
+  "triggers": [
+   "the vault that keeps its word"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089064763934281783",
+  "tag": "$MfT"
  }
 ]
