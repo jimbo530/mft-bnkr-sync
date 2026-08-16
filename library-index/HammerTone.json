@@ -60,5 +60,21 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088626799261483014",
   "tag": "$MfT"
+ },
+ {
+  "name": "A Name That Holds",
+  "triggers": [
+   "a name that holds"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086115247291564063",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Guild That Raises You",
+  "triggers": [
+   "the guild that raises you"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088908666418155810",
+  "tag": "$MfT"
  }
 ]

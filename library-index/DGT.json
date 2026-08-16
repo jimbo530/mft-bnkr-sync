@@ -145,5 +145,29 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088797996662047166",
   "tag": "$MfT"
+ },
+ {
+  "name": "Plant 'Em Where the Ledger Can't Reach",
+  "triggers": [
+   "plant 'em where the ledger can't reach"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086085131391889756",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Open The Gates (Monkey Town Tonight)",
+  "triggers": [
+   "open the gates (monkey town tonight)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088123547302371469",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Somebody Bet On You",
+  "triggers": [
+   "somebody bet on you"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088873496122155331",
+  "tag": "$MfT"
  }
 ]

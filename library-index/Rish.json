@@ -222,5 +222,85 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088757653321273832",
   "tag": "$MfT"
+ },
+ {
+  "name": "The Good Road",
+  "triggers": [
+   "the good road"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088148671158222983",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Planter's Rounds",
+  "triggers": [
+   "the planter's rounds"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088445590526898461",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Plantin' Crew",
+  "triggers": [
+   "the plantin' crew"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086135429607080426",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Come All Ye (Sing a Forest)",
+  "triggers": [
+   "come all ye (sing a forest)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087006149925061114",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Just Say It, Wee One",
+  "triggers": [
+   "just say it, wee one"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086271303464489108",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Two Shores, One Agent",
+  "triggers": [
+   "two shores, one agent"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086845094863216813",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Will Ye Join the Crew",
+  "triggers": [
+   "will ye join the crew"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088742588207493328",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Name Yer Monkey",
+  "triggers": [
+   "name yer monkey"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086648821832962156",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Spread the Spark",
+  "triggers": [
+   "spread the spark"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088948964875792856",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Wind Beneath The Spark",
+  "triggers": [
+   "wind beneath the spark"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088953999064015176",
+  "tag": "$MfT"
  }
 ]

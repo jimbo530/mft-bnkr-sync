@@ -52,5 +52,37 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088410398672179219",
   "tag": "$MfT"
+ },
+ {
+  "name": "Muster",
+  "triggers": [
+   "muster"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087539625325707760",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Warband Of One",
+  "triggers": [
+   "warband of one"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087600041041043719",
+  "tag": "$MfT"
+ },
+ {
+  "name": "March to the Time War",
+  "triggers": [
+   "march to the time war"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088913696907026718",
+  "tag": "$MfT"
+ },
+ {
+  "name": "An Army Behind You",
+  "triggers": [
+   "an army behind you"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088989207297503654",
+  "tag": "$MfT"
  }
 ]

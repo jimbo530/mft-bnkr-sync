@@ -303,5 +303,485 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088641886810485014",
   "tag": "$MfT"
+ },
+ {
+  "name": "Help The Homies",
+  "triggers": [
+   "help the homies"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2083120551078281695",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Forever is longer than you Know",
+  "triggers": [
+   "forever is longer than you know"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085078454395928677",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Interest In The Infinite",
+  "triggers": [
+   "interest in the infinite"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2084736234178367597",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Day To Build The Dream",
+  "triggers": [
+   "day to build the dream"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2084328509929926917",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Drop Memes, Fund Trees",
+  "triggers": [
+   "drop memes, fund trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2082743054063014011",
+  "tag": "$MfT"
+ },
+ {
+  "name": "“zFROM MEMES TO MANGROVES”",
+  "triggers": [
+   "“zfrom memes to mangroves”"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2053354383186755742",
+  "tag": "$MfT"
+ },
+ {
+  "name": "You Can’t Stop The Meme",
+  "triggers": [
+   "you can’t stop the meme"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2084650635819946126",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Mean Green Meme Team",
+  "triggers": [
+   "mean green meme team"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2083684260897030145",
+  "tag": "$MfT"
+ },
+ {
+  "name": "You Make The Magic Happen",
+  "triggers": [
+   "you make the magic happen"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085113703326691427",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Dance Dance My Friends",
+  "triggers": [
+   "dance dance my friends"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2061553424164889072",
+  "tag": "$MfT"
+ },
+ {
+  "name": "“EVERY SIGNAL PLANTS TREES”",
+  "triggers": [
+   "“every signal plants trees”"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2081731429562565019",
+  "tag": "$MfT"
+ },
+ {
+  "name": "“FROM MEMES TO MANGROVES” (1)",
+  "triggers": [
+   "“from memes to mangroves” (1)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2055543795433832845",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Diamond Hands Endure",
+  "triggers": [
+   "diamond hands endure"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2083986263032332679",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Drop The Memes",
+  "triggers": [
+   "drop the memes"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2084600268474233062",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Like, Comment, Share",
+  "triggers": [
+   "like, comment, share"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2084021498348556297",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Forest Got Funded",
+  "triggers": [
+   "forest got funded"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2082561826454204756",
+  "tag": "$MfT"
+ },
+ {
+  "name": "All-Time High",
+  "triggers": [
+   "all-time high"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2083482905989226821",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Share The Memes, Fund The Trees",
+  "triggers": [
+   "share the memes, fund the trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2083442669934477402",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Invite A Friend",
+  "triggers": [
+   "invite a friend"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2083820138411819035",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Locked Forever",
+  "triggers": [
+   "locked forever"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2082174287562129614",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Drop ’Em If You Got ’Em",
+  "triggers": [
+   "drop ’em if you got ’em"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2082380634329063769",
+  "tag": "$MfT"
+ },
+ {
+  "name": "ELVES OF BALLINMOORE — “CHAR TO THE ROOT",
+  "triggers": [
+   "elves of ballinmoore — “char to the root"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2084368810602037553",
+  "tag": "$MfT"
+ },
+ {
+  "name": "ELVES OF BALLINMOORE — “LISTEN, LIKE, AN",
+  "triggers": [
+   "elves of ballinmoore — “listen, like, an"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2082415879388643628",
+  "tag": "$MfT"
+ },
+ {
+  "name": "ELVES OF BALLINMOORE — “MEMES TURN TO TREES",
+  "triggers": [
+   "elves of ballinmoore — “memes turn to trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2084484491444101493",
+  "tag": "$MfT"
+ },
+ {
+  "name": "ELVES OF BALLINMOORE — “POUND BY POUND”",
+  "triggers": [
+   "elves of ballinmoore — “pound by pound”"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2082702790632047063",
+  "tag": "$MfT"
+ },
+ {
+  "name": "ELVES OF BALLINMOORE — “PRESS IT, BLESS",
+  "triggers": [
+   "elves of ballinmoore — “press it, bless"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2083019858409656792",
+  "tag": "$MfT"
+ },
+ {
+  "name": "ELVES OF BALLINMOORE — “DOUBT CAN’T TOUC",
+  "triggers": [
+   "elves of ballinmoore — “doubt can’t touc"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2081655872820744358",
+  "tag": "$MfT"
+ },
+ {
+  "name": "ELVES OF BALLINMOORE — “TREES UP, BAGS U",
+  "triggers": [
+   "elves of ballinmoore — “trees up, bags u"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2082717889761558548",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Ballinmoore Bounce",
+  "triggers": [
+   "ballinmoore bounce"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2081872278237614461",
+  "tag": "$MfT"
+ },
+ {
+  "name": "ELVES OF BALLINMOORE — “NO TURNING BACK”",
+  "triggers": [
+   "elves of ballinmoore — “no turning back”"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2082763149095129567",
+  "tag": "$MfT"
+ },
+ {
+  "name": "ELVES OF BALLINMOORE — “WE ARE BASED”",
+  "triggers": [
+   "elves of ballinmoore — “we are based”"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2083397372780871798",
+  "tag": "$MfT"
+ },
+ {
+  "name": "ELVES OF BALLINMOORE — “YUCKY DUCKS x TR",
+  "triggers": [
+   "elves of ballinmoore — “yucky ducks x tr"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2081892468048491001",
+  "tag": "$MfT"
+ },
+ {
+  "name": "ELVES OF BALLINMOORE — “MORE LOVE, MORE",
+  "triggers": [
+   "elves of ballinmoore — “more love, more"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2082214547939573868",
+  "tag": "$MfT"
+ },
+ {
+  "name": "ELVES OF BALLINMOORE — “ANOTHER DAY OF M",
+  "triggers": [
+   "elves of ballinmoore — “another day of m"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2084001371557106047",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Ballinmoore Elves",
+  "triggers": [
+   "ballinmoore elves"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2083779831259365886",
+  "tag": "$MfT"
+ },
+ {
+  "name": "ELVES OF BALLINMOORE — “ALLIANCE FIRE”",
+  "triggers": [
+   "elves of ballinmoore — “alliance fire”"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2083961098965799397",
+  "tag": "$MfT"
+ },
+ {
+  "name": "ELVES OF BALLINMOORE — “GOLD TO GREEN (O",
+  "triggers": [
+   "elves of ballinmoore — “gold to green (o"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2081952865052926346",
+  "tag": "$MfT"
+ },
+ {
+  "name": "ELVES OF BALLINMOORE — “COMMUNITY OF COM",
+  "triggers": [
+   "elves of ballinmoore — “community of com"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2083055094543650823",
+  "tag": "$MfT"
+ },
+ {
+  "name": "ELVES OF BALLINMOORE — “LIGHT LOAD, LIVI",
+  "triggers": [
+   "elves of ballinmoore — “light load, livi"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2084288213439451360",
+  "tag": "$MfT"
+ },
+ {
+  "name": "ELVES OF BALLINMOORE — “INTERNET ROOTS",
+  "triggers": [
+   "elves of ballinmoore — “internet roots"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2081877326569128121",
+  "tag": "$MfT"
+ },
+ {
+  "name": "ELVES OF BALLINMOORE — “DIAMOND HAND THE",
+  "triggers": [
+   "elves of ballinmoore — “diamond hand the"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2081595481965187232",
+  "tag": "$MfT"
+ },
+ {
+  "name": "ELVES OF BALLINMOORE — “BASE BASE BASE”",
+  "triggers": [
+   "elves of ballinmoore — “base base base”"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2082954427414044758",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Elves of Ballinmoore",
+  "triggers": [
+   "elves of ballinmoore"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2083336971577913459",
+  "tag": "$MfT"
+ },
+ {
+  "name": "ELVES OF BALLINMOORE — “THOUSAND YEAR PL",
+  "triggers": [
+   "elves of ballinmoore — “thousand year pl"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2083462807559778379",
+  "tag": "$MfT"
+ },
+ {
+  "name": "LIQUIDITY FOR THE PLANET",
+  "triggers": [
+   "liquidity for the planet"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2081998166438645960",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Un Rugables",
+  "triggers": [
+   "un rugables"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2083296673875296705",
+  "tag": "$MfT"
+ },
+ {
+  "name": "emerald signal 22726",
+  "triggers": [
+   "emerald signal 22726"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2083603707577389563",
+  "tag": "$MfT"
+ },
+ {
+  "name": "FROM MEMES TO MANGROVES v2",
+  "triggers": [
+   "from memes to mangroves v2"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2084122122280898591",
+  "tag": "$MfT"
+ },
+ {
+  "name": "FROM MEMES TO MANGROVES",
+  "triggers": [
+   "from memes to mangroves"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2063823397822386646",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Base Wire — Jun 16, 2026",
+  "triggers": [
+   "base wire — jun 16, 2026"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2066888556987941139",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Base Wire — Jun 17, 2026",
+  "triggers": [
+   "base wire — jun 17, 2026"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2067250922267217938",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Grove Report — Jun 18, 2026",
+  "triggers": [
+   "grove report — jun 18, 2026"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085355258100732399",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Grove Report — Jun 19, 2026",
+  "triggers": [
+   "grove report — jun 19, 2026"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080327097336148380",
+  "tag": "$MfT"
+ },
+ {
+  "name": "test-Mutiny-titled",
+  "triggers": [
+   "test-mutiny-titled"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088566372670275829",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Grove Report — Jun 26, 2026",
+  "triggers": [
+   "grove report — jun 26, 2026"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2080296937702478074",
+  "tag": "$MfT"
+ },
+ {
+  "name": "One Road, Eyes Open",
+  "triggers": [
+   "one road, eyes open"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088022842168226049",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Un Rug Able",
+  "triggers": [
+   "un rug able"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2081756585919951279",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Name It Once",
+  "triggers": [
+   "name it once"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086462595364520066",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Plug That Backs Real Ones",
+  "triggers": [
+   "plug that backs real ones"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088802947723366552",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Vault That Don't Run Dry",
+  "triggers": [
+   "vault that don't run dry"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089009317521289601",
+  "tag": "$MfT"
  }
 ]

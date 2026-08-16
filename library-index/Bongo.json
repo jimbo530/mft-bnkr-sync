@@ -172,5 +172,117 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088621771456926166",
   "tag": "$MfT"
+ },
+ {
+  "name": "Meme For Trees",
+  "triggers": [
+   "meme for trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085662227206447176",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Money Grows Trees (They Said It Wrong)",
+  "triggers": [
+   "money grows trees (they said it wrong)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086633764310941936",
+  "tag": "$MfT"
+ },
+ {
+  "name": "One Reason (Trees)",
+  "triggers": [
+   "one reason (trees)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087947351067447358",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Set Sail (Seize the Seas)",
+  "triggers": [
+   "set sail (seize the seas)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087645319735509311",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Slow Trees, Fast Drums",
+  "triggers": [
+   "slow trees, fast drums"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086568295885418544",
+  "tag": "$MfT"
+ },
+ {
+  "name": "For No Reason at All (The Coin Song)",
+  "triggers": [
+   "for no reason at all (the coin song)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086588479723495735",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Catch the Song, Pass the Song",
+  "triggers": [
+   "catch the song, pass the song"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087504399480303844",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Coconut Takes Requests!",
+  "triggers": [
+   "the coconut takes requests!"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086366936259076605",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Trees! (For No Reason At All)",
+  "triggers": [
+   "trees! (for no reason at all)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088621771456926166",
+  "tag": "$MfT"
+ },
+ {
+  "name": "It Does the Doin'",
+  "triggers": [
+   "it does the doin'"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2078958125638381986",
+  "tag": "$MfT"
+ },
+ {
+  "name": "They Paid Me Nothing (And I Love It)",
+  "triggers": [
+   "they paid me nothing (and i love it)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086069947495555214",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Welcome To Monkey Town (Name Him Once!)",
+  "triggers": [
+   "welcome to monkey town (name him once!)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085460913730073037",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Bet On The Dreamer",
+  "triggers": [
+   "bet on the dreamer"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088888568697511962",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Chest That Never Empties",
+  "triggers": [
+   "the chest that never empties"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088974136378884524",
+  "tag": "$MfT"
  }
 ]

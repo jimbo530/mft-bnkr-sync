@@ -46,5 +46,37 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088470750982217902",
   "tag": "$MfT"
+ },
+ {
+  "name": "A Hundred Skills, No Keeper",
+  "triggers": [
+   "a hundred skills, no keeper"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2079974827260104771",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Plain Words, Open Road",
+  "triggers": [
+   "plain words, open road"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086749487528071171",
+  "tag": "$MfT"
+ },
+ {
+  "name": "A Banana a Day (Monkey Town)",
+  "triggers": [
+   "a banana a day (monkey town)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086231043326030056",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Back A Friend's Dream",
+  "triggers": [
+   "back a friend's dream"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088933860268507356",
+  "tag": "$MfT"
  }
 ]

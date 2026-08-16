@@ -229,5 +229,493 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088324837210992919",
   "tag": "$MfT"
+ },
+ {
+  "name": "Magic Today",
+  "triggers": [
+   "magic today"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085174072187433153",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Til We’re Done",
+  "triggers": [
+   "til we’re done"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2082420929569665424",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Forge the Future",
+  "triggers": [
+   "forge the future"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2083664121870839847",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Hero For Being Here",
+  "triggers": [
+   "hero for being here"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2082536694780174803",
+  "tag": "$MfT"
+ },
+ {
+  "name": "We All Are One",
+  "triggers": [
+   "we all are one"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2083100432998473880",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Give It Away",
+  "triggers": [
+   "give it away"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2064744462866153689",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Go Do Something Nice",
+  "triggers": [
+   "go do something nice"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2083402411423523234",
+  "tag": "$MfT"
+ },
+ {
+  "name": "\udfa7 “Listen Close, Let It Grow”",
+  "triggers": [
+   "\udfa7 “listen close, let it grow”"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2063798252307148897",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Party Til Forests Are Funded",
+  "triggers": [
+   "party til forests are funded"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2084202637176471752",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Dancing On The Line",
+  "triggers": [
+   "dancing on the line"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2083543334862119229",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Mean Green Meme Machine",
+  "triggers": [
+   "mean green meme machine"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2084544928596558273",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Much Love, Friends",
+  "triggers": [
+   "much love, friends"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2084655679801786706",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Magic Comes From You",
+  "triggers": [
+   "magic comes from you"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2081771676182651030",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Make Some Magic",
+  "triggers": [
+   "make some magic"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2083014881926619573",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Grow With Every Play",
+  "triggers": [
+   "grow with every play"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2083523202911719463",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Circular Didgeridoo",
+  "triggers": [
+   "circular didgeridoo"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2084630527835779452",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Move Your Feet, Fund The Forest",
+  "triggers": [
+   "move your feet, fund the forest"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2083638924912570855",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Drop The Beats To Fund The Forest",
+  "triggers": [
+   "drop the beats to fund the forest"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2081912570055651791",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Seeds To Save Humanity",
+  "triggers": [
+   "seeds to save humanity"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2083357115276513639",
+  "tag": "$MfT"
+ },
+ {
+  "name": "(🎧 “Thanks for Being Here”) (1)",
+  "triggers": [
+   "(🎧 “thanks for being here”) (1)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2084670795452686830",
+  "tag": "$MfT"
+ },
+ {
+  "name": "One Act At A Time",
+  "triggers": [
+   "one act at a time"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2081837117613731982",
+  "tag": "$MfT"
+ },
+ {
+  "name": "More Than Whole",
+  "triggers": [
+   "more than whole"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2081570358793060857",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Make The Change You Want To See",
+  "triggers": [
+   "make the change you want to see"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2081716312091267247",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Every Day We Grow",
+  "triggers": [
+   "every day we grow"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2084711040680362030",
+  "tag": "$MfT"
+ },
+ {
+  "name": "\udfa7 “Stay In Your Lane (We Grow Together) (2)",
+  "triggers": [
+   "\udfa7 “stay in your lane (we grow together) (2)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2075958328077799454",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Every Listen Plants a Tree",
+  "triggers": [
+   "every listen plants a tree"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2084872097570971882",
+  "tag": "$MfT"
+ },
+ {
+  "name": "\udfa7 “First Light, Keep Moving”",
+  "triggers": [
+   "\udfa7 “first light, keep moving”"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2061764769393119536",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Dance To Defend The Earth",
+  "triggers": [
+   "dance to defend the earth"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2084227852875038982",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Keep Moving Forward",
+  "triggers": [
+   "keep moving forward"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2081298549107552461",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Tunes For Trees",
+  "triggers": [
+   "tunes for trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2081751550750298316",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Guardians On The Floor",
+  "triggers": [
+   "guardians on the floor"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2082239750539207069",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Mushroom Web",
+  "triggers": [
+   "mushroom web"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2084469433536299492",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Pizza Day Party",
+  "triggers": [
+   "pizza day party"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2084041584153080315",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Impact Flywheel",
+  "triggers": [
+   "impact flywheel"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2083724517201863119",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Crypto Spring",
+  "triggers": [
+   "crypto spring"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2084061751151140867",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Money For Trees",
+  "triggers": [
+   "money for trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2083140648132075984",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Forever Locked",
+  "triggers": [
+   "forever locked"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2083195999489507695",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Agent Army",
+  "triggers": [
+   "agent army"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085481141058900147",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Every Morning, Mic Hot",
+  "triggers": [
+   "every morning, mic hot"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2083316840088904067",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Altcoin Blossoms",
+  "triggers": [
+   "altcoin blossoms"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2083900700442931350",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Liquidity Rain",
+  "triggers": [
+   "liquidity rain"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2081857238080110769",
+  "tag": "$MfT"
+ },
+ {
+  "name": "After the Winter Comes",
+  "triggers": [
+   "after the winter comes"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2082617208438419873",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Real Proof",
+  "triggers": [
+   "real proof"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2081937765034238243",
+  "tag": "$MfT"
+ },
+ {
+  "name": "AI Band Empire",
+  "triggers": [
+   "ai band empire"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2082134064018976770",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Proof of Good",
+  "triggers": [
+   "proof of good"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085153925720674579",
+  "tag": "$MfT"
+ },
+ {
+  "name": "On-Chain Garden",
+  "triggers": [
+   "on-chain garden"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2082219639879119104",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Echoes To Eternity",
+  "triggers": [
+   "echoes to eternity"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2082033388559482998",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Bull Market Festival",
+  "triggers": [
+   "bull market festival"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2082481294089306119",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Self-Funding Revolution",
+  "triggers": [
+   "self-funding revolution"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2082118953363468780",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Welcome To The Party",
+  "triggers": [
+   "welcome to the party"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085098571162915306",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Green Candle Sunrise",
+  "triggers": [
+   "green candle sunrise"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085395529714851937",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Bloom on the Blockchain",
+  "triggers": [
+   "bloom on the blockchain"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2084102013873197098",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Show Me What You Got",
+  "triggers": [
+   "show me what you got"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2082375636362891558",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Diamond Roots",
+  "triggers": [
+   "diamond roots"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2081957894765826055",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Play For Impact",
+  "triggers": [
+   "play for impact"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2082199483345940603",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Return of the Bulls",
+  "triggers": [
+   "the return of the bulls"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2083155831307055396",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Two Currents, One Flow",
+  "triggers": [
+   "two currents, one flow"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087786296718541117",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Two Rivers, Many Tools",
+  "triggers": [
+   "two rivers, many tools"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087806424160043062",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Name It Once (Monkey Town)",
+  "triggers": [
+   "name it once (monkey town)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086991063709888514",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Spark In The Soil",
+  "triggers": [
+   "spark in the soil"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088813077474996349",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Mycelium Never Empties",
+  "triggers": [
+   "mycelium never empties"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089029514684674155",
+  "tag": "$MfT"
  }
 ]

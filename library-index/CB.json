@@ -142,5 +142,285 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088662073395831126",
   "tag": "$MfT"
+ },
+ {
+  "name": "MEME War",
+  "triggers": [
+   "meme war"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088168803364384793",
+  "tag": "$MfT"
+ },
+ {
+  "name": "BASE is for Builders",
+  "triggers": [
+   "base is for builders"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085294870806004084",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Natilie - Base is for you",
+  "triggers": [
+   "natilie - base is for you"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2083880529808511331",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Signal through the noise",
+  "triggers": [
+   "signal through the noise"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2084756350999855329",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Future is Here",
+  "triggers": [
+   "future is here"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085254605932265775",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Embodied Network",
+  "triggers": [
+   "embodied network"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2081897502509265276",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Digerie Dude - Zoom Out",
+  "triggers": [
+   "digerie dude - zoom out"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2082360531634016646",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Born on Chain",
+  "triggers": [
+   "born on chain"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2081993141389808015",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Block by Block",
+  "triggers": [
+   "block by block"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2084836964805574794",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Global Village",
+  "triggers": [
+   "global village"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2082476251093016856",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Chain Reaction Diplomacy",
+  "triggers": [
+   "chain reaction diplomacy"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2082738091555537071",
+  "tag": "$MfT"
+ },
+ {
+  "name": "BASE BASE BASE",
+  "triggers": [
+   "base base base"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2082335380045476160",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Open the Gates",
+  "triggers": [
+   "open the gates"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2084509711399858432",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Signal in the silence",
+  "triggers": [
+   "signal in the silence"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2084932488883834932",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Proof of Freedom",
+  "triggers": [
+   "proof of freedom"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2082581999294861460",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Getting Based",
+  "triggers": [
+   "getting based"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2082783263873990803",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Digerie Dude - Pulse of the Forest",
+  "triggers": [
+   "digerie dude - pulse of the forest"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2082682604176773198",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Misunderstood",
+  "triggers": [
+   "misunderstood"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2083417463409057962",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Building for the Bulls",
+  "triggers": [
+   "building for the bulls"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2082541792600223879",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Fighting TEMERAIRE",
+  "triggers": [
+   "fighting temeraire"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2083704336857653278",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Need More Base",
+  "triggers": [
+   "need more base"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2082758148738187318",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Code Not Coal",
+  "triggers": [
+   "code not coal"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2083236311800877194",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Digerie Dude - Believe in SomeETHing (1)",
+  "triggers": [
+   "digerie dude - believe in someething (1)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2073210210328498302",
+  "tag": "$MfT"
+ },
+ {
+  "name": "They Follow US",
+  "triggers": [
+   "they follow us"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2083940975538262054",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Unstoppable System",
+  "triggers": [
+   "unstoppable system"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2083060118573187078",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Together we grow CB",
+  "triggers": [
+   "together we grow cb"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2082501414228533397",
+  "tag": "$MfT"
+ },
+ {
+  "name": "STILL HERE (FORWARD)",
+  "triggers": [
+   "still here (forward)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087720861318938687",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Attention Tree Appreciators",
+  "triggers": [
+   "attention tree appreciators"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088531182770077795",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Started, Made, Done",
+  "triggers": [
+   "started, made, done"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2082320275266220350",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Forward",
+  "triggers": [
+   "forward"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086970919851860164",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Sing It, Plant It",
+  "triggers": [
+   "sing it, plant it"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088370091461153000",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Two Chains, One Forward",
+  "triggers": [
+   "two chains, one forward"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2087982586408640908",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Name It Once",
+  "triggers": [
+   "name it once"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086326638380294593",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Light The Spark",
+  "triggers": [
+   "light the spark"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088868446930931849",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Never Runs Dry",
+  "triggers": [
+   "never runs dry"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088969108108767470",
+  "tag": "$MfT"
  }
 ]

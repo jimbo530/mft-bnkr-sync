@@ -46,5 +46,29 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088611705857163410",
   "tag": "$MfT"
+ },
+ {
+  "name": "Name It Once",
+  "triggers": [
+   "name it once"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088737515628892336",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Start The Thing",
+  "triggers": [
+   "start the thing"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088928827661553679",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Built To Outlast",
+  "triggers": [
+   "built to outlast"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088994220019245269",
+  "tag": "$MfT"
  }
 ]

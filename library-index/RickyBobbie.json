@@ -53,5 +53,29 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088777827189444629",
   "tag": "$MfT"
+ },
+ {
+  "name": "Quick Word, Quick Run",
+  "triggers": [
+   "quick word, quick run"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2085838383868170333",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Banana A Day",
+  "triggers": [
+   "banana a day"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2086251136474898811",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Wind In Your Sails",
+  "triggers": [
+   "wind in your sails"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2088893553002885471",
+  "tag": "$MfT"
  }
 ]
