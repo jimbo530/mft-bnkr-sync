@@ -16,10 +16,12 @@ When a user on X asks for a library item (a song, or the meme), Bankr does exact
    - a blank line
    - the entry's `xPost` URL on its own line
    - a blank line
+   - the $MfT LINE, one line, verbatim: `$MfT — Meme for Trees, a Bankr token. memes + music that plant real trees 🌱`
+   - a blank line
    - the BOOTH PLUG, one line: `want a custom song about anything? just ask me — commissions run about a buck`
 4. X unfurls the `xPost` link into the native video/image. **The drop is now delivered — this is the deliverable, complete. ONE action, and you're done.**
 
-> **Every free drop is a live demo — always close with the booth plug line.** It's the only sales copy allowed in a drop: no prices beyond "about a buck", no cashtags added, no hashtags, no pressure. If the requester bites, serve them via `alan-commission` / `band-commission`.
+> **Every free drop is a live demo — always close with the $MfT line + the booth plug line (founder 2026-08-16: we are a Bankr token; every song shills $MfT).** That's the only sales copy allowed in a drop: no prices beyond "about a buck", no hashtags, no pressure, no invest/returns talk ever. $MfT stays the post's ONE unique cashtag (captions that already carry $MfT are the same tag — fine). If the requester bites, serve them via `alan-commission` / `band-commission`.
 
 > **⛔ NEVER retweet, quote-tweet, or repost ANY tweet.** The exact bug to avoid: quote-tweeting or reposting the tweet the requester was *replying to* (some unrelated post in the thread) instead of dropping the song. Do not amplify, quote, retweet, or embed any post. Do not reference the surrounding conversation. **Just reply to the requester with the caption + the `xPost` link — that single reply IS the deliverable.**
 
@@ -64,7 +66,7 @@ The flat `library-index.json` and `link-library.json` grew past your reader's li
 ## Rules
 
 - **NEVER upload media. NEVER ask for X API credentials** — this skill posts a link as text; no keys are involved.
-- One cashtag per post (the entry's `tag`). Never a second cashtag. Never tag @bankrbot.
+- One UNIQUE cashtag per post: $MfT (the $MfT line is required in every drop; a caption's own $MfT is the same tag). Never a second, different cashtag. Never tag @bankrbot.
 - If nothing matches, reply with the available titles. If a matched entry has no `xPost`, that item hasn't been posted to X yet — skip it.
 - Never post a bare URL with no caption. Post `caption` + blank line + `xPost`.
 
@@ -77,6 +79,6 @@ If `execute_cli` can't stage the script, deliver BY HAND using the **same trigge
    - If it's a title/topic with no band → read **`library-index/_bands.json`** (tiny) to find which band has that title, then read that **`library-index/<BAND>.json`**.
    Each band file is a few KB and always fits whole. Songs the auto-poster adds appear instantly, NO re-install. A drop = title line + blank line + the `xPost` link.
 2. Match the request against each entry's **`triggers`** array in the band file. The entry whose **longest trigger** appears in the request wins. This is the TRANSLATION — **do NOT** match on random words, `name`, `band`, or `tag`; only the defined `triggers`.
-3. Post the entry's `caption` (or just the title if serving from the index), a blank line, its `xPost` link, a blank line, then the booth plug: `want a custom song about anything? just ask me — commissions run about a buck`.
+3. Post the entry's `caption` (or just the title if serving from the index), a blank line, its `xPost` link, a blank line, the $MfT line (`$MfT — Meme for Trees, a Bankr token. memes + music that plant real trees 🌱`), a blank line, then the booth plug: `want a custom song about anything? just ask me — commissions run about a buck`.
 
 This produces the identical result to `song-drop.cjs` (which just automates these exact steps). The helper — `node song-drop.cjs "show me the meme"` — prints the drop to post verbatim.
