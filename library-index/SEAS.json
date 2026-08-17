@@ -47,5 +47,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089361644631605748",
   "tag": "$MfT"
+ },
+ {
+  "name": "Stores That Never Empty",
+  "triggers": [
+   "stores that never empty"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089376790103859610",
+  "tag": "$MfT"
  }
 ]
