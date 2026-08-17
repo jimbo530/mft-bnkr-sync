@@ -783,5 +783,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089009317521289601",
   "tag": "$MfT"
+ },
+ {
+  "name": "Drop What You Love",
+  "triggers": [
+   "drop what you love"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089145203626020866",
+  "tag": "$MfT"
  }
 ]
