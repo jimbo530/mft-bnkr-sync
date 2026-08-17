@@ -6381,7 +6381,8 @@
   "triggers": [
    "share it like bread"
   ],
-  "xPost": "https://x.com/MemeForTrees/status/2089175454162829606"
+  "xPost": "https://x.com/MemeForTrees/status/2089175454162829606",
+  "promote": true
  },
  {
   "band": "JS",
@@ -6389,7 +6390,8 @@
   "triggers": [
    "repost for the forest"
   ],
-  "xPost": "https://x.com/MemeForTrees/status/2089180482860613739"
+  "xPost": "https://x.com/MemeForTrees/status/2089180482860613739",
+  "promote": true
  },
  {
   "band": "NN",
@@ -6397,7 +6399,8 @@
   "triggers": [
    "darling just share"
   ],
-  "xPost": "https://x.com/MemeForTrees/status/2089195543062851710"
+  "xPost": "https://x.com/MemeForTrees/status/2089195543062851710",
+  "promote": true
  },
  {
   "band": "CB",
@@ -6405,7 +6408,8 @@
   "triggers": [
    "signal boost"
   ],
-  "xPost": "https://x.com/MemeForTrees/status/2089200639188287657"
+  "xPost": "https://x.com/MemeForTrees/status/2089200639188287657",
+  "promote": true
  },
  {
   "band": "Bongo",
@@ -6413,7 +6417,8 @@
   "triggers": [
    "everybody shares the party"
   ],
-  "xPost": "https://x.com/MemeForTrees/status/2089215720240369862"
+  "xPost": "https://x.com/MemeForTrees/status/2089215720240369862",
+  "promote": true
  },
  {
   "band": "DGT",
@@ -6421,7 +6426,8 @@
   "triggers": [
    "put it on the wire"
   ],
-  "xPost": "https://x.com/MemeForTrees/status/2089220794551357452"
+  "xPost": "https://x.com/MemeForTrees/status/2089220794551357452",
+  "promote": true
  },
  {
   "band": "SEAS",
@@ -6429,7 +6435,8 @@
   "triggers": [
    "haul the memes aboard"
   ],
-  "xPost": "https://x.com/MemeForTrees/status/2089235811623375028"
+  "xPost": "https://x.com/MemeForTrees/status/2089235811623375028",
+  "promote": true
  },
  {
   "band": "Rish",
@@ -6437,7 +6444,8 @@
   "triggers": [
    "sing it forward"
   ],
-  "xPost": "https://x.com/MemeForTrees/status/2089240842506478038"
+  "xPost": "https://x.com/MemeForTrees/status/2089240842506478038",
+  "promote": true
  },
  {
   "band": "Biggins",
@@ -6445,7 +6453,8 @@
   "triggers": [
    "hit share"
   ],
-  "xPost": "https://x.com/MemeForTrees/status/2089255939782086668"
+  "xPost": "https://x.com/MemeForTrees/status/2089255939782086668",
+  "promote": true
  },
  {
   "band": "Jasmine",
@@ -6453,7 +6462,8 @@
   "triggers": [
    "pass it down the road"
   ],
-  "xPost": "https://x.com/MemeForTrees/status/2089260980257591405"
+  "xPost": "https://x.com/MemeForTrees/status/2089260980257591405",
+  "promote": true
  },
  {
   "band": "RickyBobbie",
@@ -6461,7 +6471,8 @@
   "triggers": [
    "signal in the sails"
   ],
-  "xPost": "https://x.com/MemeForTrees/status/2089276074723021283"
+  "xPost": "https://x.com/MemeForTrees/status/2089276074723021283",
+  "promote": true
  },
  {
   "band": "WarMachine",
@@ -6469,7 +6480,8 @@
   "triggers": [
    "march the memes"
   ],
-  "xPost": "https://x.com/MemeForTrees/status/2089281154683748662"
+  "xPost": "https://x.com/MemeForTrees/status/2089281154683748662",
+  "promote": true
  },
  {
   "band": "HammerTone",
@@ -6477,7 +6489,8 @@
   "triggers": [
    "the smith shares his fire"
   ],
-  "xPost": "https://x.com/MemeForTrees/status/2089296220028125352"
+  "xPost": "https://x.com/MemeForTrees/status/2089296220028125352",
+  "promote": true
  },
  {
   "band": "Gurdy",
@@ -6485,7 +6498,8 @@
   "triggers": [
    "turn the wheel"
   ],
-  "xPost": "https://x.com/MemeForTrees/status/2089301240047874170"
+  "xPost": "https://x.com/MemeForTrees/status/2089301240047874170",
+  "promote": true
  },
  {
   "band": "Strut",
@@ -6493,6 +6507,7 @@
   "triggers": [
    "show me your memes"
   ],
-  "xPost": "https://x.com/MemeForTrees/status/2089316344588083641"
+  "xPost": "https://x.com/MemeForTrees/status/2089316344588083641",
+  "promote": true
  }
 ]
