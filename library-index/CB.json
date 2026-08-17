@@ -422,5 +422,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088969108108767470",
   "tag": "$MfT"
+ },
+ {
+  "name": "Signal Boost",
+  "triggers": [
+   "signal boost"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089200639188287657",
+  "tag": "$MfT"
  }
 ]

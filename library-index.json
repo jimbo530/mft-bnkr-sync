@@ -6398,5 +6398,13 @@
    "darling just share"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089195543062851710"
+ },
+ {
+  "band": "CB",
+  "name": "Signal Boost",
+  "triggers": [
+   "signal boost"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089200639188287657"
  }
 ]
