@@ -10292,5 +10292,18 @@
     "xPost": "https://x.com/MemeForTrees/status/2089165385790566461",
     "caption": "\"Send It Round The World\" — Digerie Dude\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "promote": true
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2089175454162829606",
+    "translation": "Share It Like Bread",
+    "name": "Share It Like Bread",
+    "triggers": [
+      "share it like bread"
+    ],
+    "band": "MR",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2089175454162829606",
+    "caption": "\"Share It Like Bread\" — Moon Rasta\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

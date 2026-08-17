@@ -356,5 +356,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089034489867407739",
   "tag": "$MfT"
+ },
+ {
+  "name": "Share It Like Bread",
+  "triggers": [
+   "share it like bread"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089175454162829606",
+  "tag": "$MfT"
  }
 ]

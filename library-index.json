@@ -6374,5 +6374,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089165385790566461",
   "promote": true
+ },
+ {
+  "band": "MR",
+  "name": "Share It Like Bread",
+  "triggers": [
+   "share it like bread"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089175454162829606"
  }
 ]
