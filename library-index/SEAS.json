@@ -55,5 +55,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089376790103859610",
   "tag": "$MfT"
+ },
+ {
+  "name": "The Bells of Port Royal",
+  "triggers": [
+   "the bells of port royal"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089381795468804128",
+  "tag": "$MfT"
  }
 ]
