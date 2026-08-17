@@ -717,5 +717,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089029514684674155",
   "tag": "$MfT"
+ },
+ {
+  "name": "- Spread The Spores",
+  "triggers": [
+   "- spread the spores"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089160353028464713",
+  "tag": "$MfT"
  }
 ]
