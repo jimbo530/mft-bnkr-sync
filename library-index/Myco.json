@@ -726,5 +726,13 @@
   "xPost": "https://x.com/MemeForTrees/status/2089160353028464713",
   "promote": true,
   "tag": "$MfT"
+ },
+ {
+  "name": "- The Beats Hit Different (When They Fund Forests)",
+  "triggers": [
+   "- the beats hit different (when they fund forests)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089437179986457002",
+  "tag": "$MfT"
  }
 ]
