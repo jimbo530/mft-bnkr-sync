@@ -31,5 +31,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089341606528795002",
   "tag": "$MfT"
+ },
+ {
+  "name": "Pull for the Horizon",
+  "triggers": [
+   "pull for the horizon"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089356611366117392",
+  "tag": "$MfT"
  }
 ]
