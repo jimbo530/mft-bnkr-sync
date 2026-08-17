@@ -437,5 +437,13 @@
   "xPost": "https://x.com/MemeForTrees/status/2089165385790566461",
   "promote": true,
   "tag": "$MfT"
+ },
+ {
+  "name": "Every Land Pays In",
+  "triggers": [
+   "every land pays in"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089457326373613817",
+  "tag": "$MfT"
  }
 ]

@@ -6625,5 +6625,13 @@
    "receipts"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089442203294728361"
+ },
+ {
+  "band": "DD",
+  "name": "Every Land Pays In",
+  "triggers": [
+   "every land pays in"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089457326373613817"
  }
 ]
