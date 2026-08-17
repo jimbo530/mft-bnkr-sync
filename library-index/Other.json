@@ -85,5 +85,16 @@
    "the endowments"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2079995495733158370"
+ },
+ {
+  "name": "Much Love From The Famitree",
+  "triggers": [
+   "much love from the famitree",
+   "famitree",
+   "much love"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089329341343662580",
+  "promote": true,
+  "tag": "$MfT"
  }
 ]

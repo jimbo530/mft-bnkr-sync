@@ -10516,5 +10516,21 @@
     "xPost": "https://x.com/MemeForTrees/status/2089321379032141889",
     "caption": "\"Pass It On (March)\" — The Public Works\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "promote": true
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2089329341343662580",
+    "translation": "Much Love From The Famitree",
+    "name": "Much Love From The Famitree",
+    "triggers": [
+      "much love from the famitree",
+      "famitree",
+      "much love"
+    ],
+    "band": "Other",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2089329341343662580",
+    "caption": "Much love from the $MfT famitree 🌱",
+    "promote": true
   }
 ]
