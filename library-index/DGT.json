@@ -177,5 +177,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089064763934281783",
   "tag": "$MfT"
+ },
+ {
+  "name": "Put It On The Wire",
+  "triggers": [
+   "put it on the wire"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089220794551357452",
+  "tag": "$MfT"
  }
 ]

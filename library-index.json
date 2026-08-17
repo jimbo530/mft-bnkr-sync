@@ -6414,5 +6414,13 @@
    "everybody shares the party"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089215720240369862"
+ },
+ {
+  "band": "DGT",
+  "name": "Put It On The Wire",
+  "triggers": [
+   "put it on the wire"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089220794551357452"
  }
 ]
