@@ -365,5 +365,13 @@
   "xPost": "https://x.com/MemeForTrees/status/2089175454162829606",
   "promote": true,
   "tag": "$MfT"
+ },
+ {
+  "name": "Built To Outlive Me",
+  "triggers": [
+   "built to outlive me"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089462340865380688",
+  "tag": "$MfT"
  }
 ]
