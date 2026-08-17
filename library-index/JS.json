@@ -666,5 +666,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089049626078781868",
   "tag": "$MfT"
+ },
+ {
+  "name": "Repost For The Forest",
+  "triggers": [
+   "repost for the forest"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089180482860613739",
+  "tag": "$MfT"
  }
 ]

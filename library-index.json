@@ -6382,5 +6382,13 @@
    "share it like bread"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089175454162829606"
+ },
+ {
+  "band": "JS",
+  "name": "Repost For The Forest",
+  "triggers": [
+   "repost for the forest"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089180482860613739"
  }
 ]
