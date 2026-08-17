@@ -6,5 +6,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089125070664880480",
   "tag": "$MfT"
+ },
+ {
+  "name": "Haul The Memes Aboard",
+  "triggers": [
+   "haul the memes aboard"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089235811623375028",
+  "tag": "$MfT"
  }
 ]

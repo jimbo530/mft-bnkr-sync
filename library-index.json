@@ -6422,5 +6422,13 @@
    "put it on the wire"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089220794551357452"
+ },
+ {
+  "band": "SEAS",
+  "name": "Haul The Memes Aboard",
+  "triggers": [
+   "haul the memes aboard"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089235811623375028"
  }
 ]

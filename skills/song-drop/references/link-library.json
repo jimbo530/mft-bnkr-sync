@@ -10370,5 +10370,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2089220794551357452",
     "caption": "\"Put It On The Wire\" — Damned Good Time Orchestra\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2089235811623375028",
+    "translation": "Haul The Memes Aboard",
+    "name": "Haul The Memes Aboard",
+    "triggers": [
+      "haul the memes aboard"
+    ],
+    "band": "SEAS",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2089235811623375028",
+    "caption": "\"Haul The Memes Aboard\" — Seize the Seas\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
