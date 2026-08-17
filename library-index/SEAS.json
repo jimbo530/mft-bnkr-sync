@@ -39,5 +39,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089356611366117392",
   "tag": "$MfT"
+ },
+ {
+  "name": "Set Sail",
+  "triggers": [
+   "set sail"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089361644631605748",
+  "tag": "$MfT"
  }
 ]

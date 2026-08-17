@@ -6553,5 +6553,13 @@
    "pull for the horizon"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089356611366117392"
+ },
+ {
+  "band": "SEAS",
+  "name": "Set Sail",
+  "triggers": [
+   "set sail"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089361644631605748"
  }
 ]
