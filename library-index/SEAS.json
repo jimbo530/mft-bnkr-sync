@@ -23,5 +23,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089336512622084417",
   "tag": "$MfT"
+ },
+ {
+  "name": "Launch Her Off The Slip",
+  "triggers": [
+   "launch her off the slip"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089341606528795002",
+  "tag": "$MfT"
  }
 ]
