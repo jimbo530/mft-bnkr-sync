@@ -310,5 +310,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089120081775104100",
   "tag": "$MfT"
+ },
+ {
+  "name": "Sing It Forward",
+  "triggers": [
+   "sing it forward"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089240842506478038",
+  "tag": "$MfT"
  }
 ]
