@@ -63,5 +63,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089381795468804128",
   "tag": "$MfT"
+ },
+ {
+  "name": "The Empire's Cut",
+  "triggers": [
+   "the empire's cut"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089396913862840527",
+  "tag": "$MfT"
  }
 ]
