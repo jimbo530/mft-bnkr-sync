@@ -6462,5 +6462,13 @@
    "signal in the sails"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089276074723021283"
+ },
+ {
+  "band": "WarMachine",
+  "name": "March The Memes",
+  "triggers": [
+   "march the memes"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089281154683748662"
  }
 ]

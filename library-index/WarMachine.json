@@ -92,5 +92,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089099967142953236",
   "tag": "$MfT"
+ },
+ {
+  "name": "March The Memes",
+  "triggers": [
+   "march the memes"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089281154683748662",
+  "tag": "$MfT"
  }
 ]
