@@ -6357,5 +6357,13 @@
    "- spread the spores"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089160353028464713"
+ },
+ {
+  "band": "DD",
+  "name": "Send It Round The World",
+  "triggers": [
+   "send it round the world"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089165385790566461"
  }
 ]

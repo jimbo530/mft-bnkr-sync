@@ -428,5 +428,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089014353332752742",
   "tag": "$MfT"
+ },
+ {
+  "name": "Send It Round The World",
+  "triggers": [
+   "send it round the world"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089165385790566461",
+  "tag": "$MfT"
  }
 ]
