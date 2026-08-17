@@ -84,5 +84,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089084825667789139",
   "tag": "$MfT"
+ },
+ {
+  "name": "The Smith Shares His Fire",
+  "triggers": [
+   "the smith shares his fire"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089296220028125352",
+  "tag": "$MfT"
  }
 ]

@@ -10448,5 +10448,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2089281154683748662",
     "caption": "\"March The Memes\" — War Machine\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2089296220028125352",
+    "translation": "The Smith Shares His Fire",
+    "name": "The Smith Shares His Fire",
+    "triggers": [
+      "the smith shares his fire"
+    ],
+    "band": "HammerTone",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2089296220028125352",
+    "caption": "\"The Smith Shares His Fire\" — Hammer Tone\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
