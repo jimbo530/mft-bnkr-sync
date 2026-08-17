@@ -6333,5 +6333,13 @@
    "a banana a day"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089125070664880480"
+ },
+ {
+  "band": "ALAN",
+  "name": "Pass The Meme Along",
+  "triggers": [
+   "pass the meme along"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089140213301825686"
  }
 ]

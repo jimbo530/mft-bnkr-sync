@@ -125,5 +125,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2079371832369577998",
   "tag": "$MfT"
+ },
+ {
+  "name": "Pass The Meme Along",
+  "triggers": [
+   "pass the meme along"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089140213301825686",
+  "tag": "$MfT"
  }
 ]
