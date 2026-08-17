@@ -186,5 +186,13 @@
   "xPost": "https://x.com/MemeForTrees/status/2089220794551357452",
   "promote": true,
   "tag": "$MfT"
+ },
+ {
+  "name": "The Trust That Can't Be Repossessed",
+  "triggers": [
+   "the trust that can't be repossessed"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089497593533301098",
+  "tag": "$MfT"
  }
 ]
