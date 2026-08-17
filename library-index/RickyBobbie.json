@@ -85,5 +85,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089079816590967123",
   "tag": "$MfT"
+ },
+ {
+  "name": "Signal In The Sails",
+  "triggers": [
+   "signal in the sails"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089276074723021283",
+  "tag": "$MfT"
  }
 ]
