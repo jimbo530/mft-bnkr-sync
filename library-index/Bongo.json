@@ -301,5 +301,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089401909983506886",
   "tag": "$MfT"
+ },
+ {
+  "name": "CHARGE! (The Ballad of Bold Nobi)",
+  "triggers": [
+   "charge! (the ballad of bold nobi)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089422042835640560",
+  "tag": "$MfT"
  }
 ]

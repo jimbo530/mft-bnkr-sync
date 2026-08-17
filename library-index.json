@@ -6601,5 +6601,13 @@
    "side effect"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089417037177119028"
+ },
+ {
+  "band": "Bongo",
+  "name": "CHARGE! (The Ballad of Bold Nobi)",
+  "triggers": [
+   "charge! (the ballad of bold nobi)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089422042835640560"
  }
 ]
