@@ -335,5 +335,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089054657700085939",
   "tag": "$MfT"
+ },
+ {
+  "name": "Darling Just Share",
+  "triggers": [
+   "darling just share"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089195543062851710",
+  "tag": "$MfT"
  }
 ]
