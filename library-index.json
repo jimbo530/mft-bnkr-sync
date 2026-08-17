@@ -6406,5 +6406,13 @@
    "signal boost"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089200639188287657"
+ },
+ {
+  "band": "Bongo",
+  "name": "Everybody Shares The Party",
+  "triggers": [
+   "everybody shares the party"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089215720240369862"
  }
 ]

@@ -284,5 +284,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088974136378884524",
   "tag": "$MfT"
+ },
+ {
+  "name": "Everybody Shares The Party",
+  "triggers": [
+   "everybody shares the party"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089215720240369862",
+  "tag": "$MfT"
  }
 ]
