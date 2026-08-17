@@ -3508,7 +3508,8 @@
   "triggers": [
    "pass it on"
   ],
-  "xPost": "https://x.com/MemeForTrees/status/2081917587084935272"
+  "xPost": "https://x.com/MemeForTrees/status/2081917587084935272",
+  "promote": true
  },
  {
   "band": "MR",
@@ -4124,7 +4125,8 @@
   "triggers": [
    "pass it on gary strings"
   ],
-  "xPost": "https://x.com/MemeForTrees/status/2083805049600315425"
+  "xPost": "https://x.com/MemeForTrees/status/2083805049600315425",
+  "promote": true
  },
  {
   "band": "EBM",
@@ -4564,7 +4566,8 @@
   "triggers": [
    "pass it on natilie"
   ],
-  "xPost": "https://x.com/MemeForTrees/status/2084811704731414655"
+  "xPost": "https://x.com/MemeForTrees/status/2084811704731414655",
+  "promote": true
  },
  {
   "band": "CB",
@@ -4980,7 +4983,8 @@
   "triggers": [
    "pass it on"
   ],
-  "xPost": "https://x.com/MemeForTrees/status/2083201047271522420"
+  "xPost": "https://x.com/MemeForTrees/status/2083201047271522420",
+  "promote": true
  },
  {
   "band": "MV",
@@ -5316,7 +5320,8 @@
   "triggers": [
    "pass it on hollow hailer"
   ],
-  "xPost": "https://x.com/MemeForTrees/status/2085073380282151266"
+  "xPost": "https://x.com/MemeForTrees/status/2085073380282151266",
+  "promote": true
  },
  {
   "band": "MV",
@@ -6340,7 +6345,8 @@
   "triggers": [
    "pass the meme along"
   ],
-  "xPost": "https://x.com/MemeForTrees/status/2089140213301825686"
+  "xPost": "https://x.com/MemeForTrees/status/2089140213301825686",
+  "promote": true
  },
  {
   "band": "EBM",
@@ -6348,7 +6354,8 @@
   "triggers": [
    "drop what you love"
   ],
-  "xPost": "https://x.com/MemeForTrees/status/2089145203626020866"
+  "xPost": "https://x.com/MemeForTrees/status/2089145203626020866",
+  "promote": true
  },
  {
   "band": "Myco",
@@ -6356,7 +6363,8 @@
   "triggers": [
    "- spread the spores"
   ],
-  "xPost": "https://x.com/MemeForTrees/status/2089160353028464713"
+  "xPost": "https://x.com/MemeForTrees/status/2089160353028464713",
+  "promote": true
  },
  {
   "band": "DD",
@@ -6364,6 +6372,7 @@
   "triggers": [
    "send it round the world"
   ],
-  "xPost": "https://x.com/MemeForTrees/status/2089165385790566461"
+  "xPost": "https://x.com/MemeForTrees/status/2089165385790566461",
+  "promote": true
  }
 ]
