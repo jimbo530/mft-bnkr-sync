@@ -15,5 +15,13 @@
   "xPost": "https://x.com/MemeForTrees/status/2089235811623375028",
   "promote": true,
   "tag": "$MfT"
+ },
+ {
+  "name": "Feed Your Crew",
+  "triggers": [
+   "feed your crew"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089336512622084417",
+  "tag": "$MfT"
  }
 ]

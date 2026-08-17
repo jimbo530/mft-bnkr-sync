@@ -6529,5 +6529,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089329341343662580",
   "promote": true
+ },
+ {
+  "band": "SEAS",
+  "name": "Feed Your Crew",
+  "triggers": [
+   "feed your crew"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089336512622084417"
  }
 ]

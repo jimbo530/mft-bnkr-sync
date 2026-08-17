@@ -10532,5 +10532,18 @@
     "xPost": "https://x.com/MemeForTrees/status/2089329341343662580",
     "caption": "Much love from the $MfT famitree 🌱",
     "promote": true
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2089336512622084417",
+    "translation": "Feed Your Crew",
+    "name": "Feed Your Crew",
+    "triggers": [
+      "feed your crew"
+    ],
+    "band": "SEAS",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2089336512622084417",
+    "caption": "\"Feed Your Crew\" — Seize the Seas\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
