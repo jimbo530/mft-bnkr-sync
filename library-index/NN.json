@@ -344,5 +344,13 @@
   "xPost": "https://x.com/MemeForTrees/status/2089195543062851710",
   "promote": true,
   "tag": "$MfT"
+ },
+ {
+  "name": "The Money Never Leaves The Party",
+  "triggers": [
+   "the money never leaves the party"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089482503237107874",
+  "tag": "$MfT"
  }
 ]
