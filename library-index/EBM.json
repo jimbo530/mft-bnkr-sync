@@ -800,5 +800,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089417037177119028",
   "tag": "$MfT"
+ },
+ {
+  "name": "Receipts",
+  "triggers": [
+   "receipts"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089442203294728361",
+  "tag": "$MfT"
  }
 ]

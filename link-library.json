@@ -10675,5 +10675,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2089437179986457002",
     "caption": "\"- The Beats Hit Different (When They Fund Forests)\" — Myco\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2089442203294728361",
+    "translation": "Receipts",
+    "name": "Receipts",
+    "triggers": [
+      "receipts"
+    ],
+    "band": "EBM",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2089442203294728361",
+    "caption": "\"Receipts\" — Elves of Ballinmoore\nlisten, like, and share to fund forests\n\nThank you @artizen for including our Crypto Endowment Network in Season 7 💚 the bands sing their gratitude better than we can say it 🌱"
   }
 ]
