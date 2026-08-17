@@ -675,5 +675,13 @@
   "xPost": "https://x.com/MemeForTrees/status/2089180482860613739",
   "promote": true,
   "tag": "$MfT"
+ },
+ {
+  "name": "The Kid The Vault Fed",
+  "triggers": [
+   "the kid the vault fed"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089477434584314028",
+  "tag": "$MfT"
  }
 ]
