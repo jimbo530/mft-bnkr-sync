@@ -6438,5 +6438,13 @@
    "sing it forward"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089240842506478038"
+ },
+ {
+  "band": "Biggins",
+  "name": "Hit Share",
+  "triggers": [
+   "hit share"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089255939782086668"
  }
 ]

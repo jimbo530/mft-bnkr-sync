@@ -70,5 +70,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2088994220019245269",
   "tag": "$MfT"
+ },
+ {
+  "name": "Hit Share",
+  "triggers": [
+   "hit share"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089255939782086668",
+  "tag": "$MfT"
  }
 ]
