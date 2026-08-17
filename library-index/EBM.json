@@ -792,5 +792,13 @@
   "xPost": "https://x.com/MemeForTrees/status/2089145203626020866",
   "promote": true,
   "tag": "$MfT"
+ },
+ {
+  "name": "Side Effect",
+  "triggers": [
+   "side effect"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089417037177119028",
+  "tag": "$MfT"
  }
 ]

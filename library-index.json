@@ -6593,5 +6593,13 @@
    "what is happening (welcome, friend)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089401909983506886"
+ },
+ {
+  "band": "EBM",
+  "name": "Side Effect",
+  "triggers": [
+   "side effect"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089417037177119028"
  }
 ]
