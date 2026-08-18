@@ -103,5 +103,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089522698103742885",
   "tag": "$MfT"
+ },
+ {
+  "name": "The Neighborly Lord",
+  "triggers": [
+   "the neighborly lord"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089834748675768620",
+  "tag": "$MfT"
  }
 ]
