@@ -352,5 +352,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089482503237107874",
   "tag": "$MfT"
+ },
+ {
+  "name": "A Lord With Manners",
+  "triggers": [
+   "a lord with manners"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089739213927313889",
+  "tag": "$MfT"
  }
 ]
