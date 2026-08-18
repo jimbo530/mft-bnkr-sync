@@ -6689,5 +6689,13 @@
    "glad you're here"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089522698103742885"
+ },
+ {
+  "band": "Strut",
+  "name": "Clown Around Town",
+  "triggers": [
+   "clown around town"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089537830334705989"
  }
 ]

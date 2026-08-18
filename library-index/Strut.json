@@ -7,5 +7,13 @@
   "xPost": "https://x.com/MemeForTrees/status/2089316344588083641",
   "promote": true,
   "tag": "$MfT"
+ },
+ {
+  "name": "Clown Around Town",
+  "triggers": [
+   "clown around town"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089537830334705989",
+  "tag": "$MfT"
  }
 ]
