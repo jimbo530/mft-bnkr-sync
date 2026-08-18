@@ -683,5 +683,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089477434584314028",
   "tag": "$MfT"
+ },
+ {
+  "name": "Finally Found The One",
+  "triggers": [
+   "finally found the one"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089724059139404007",
+  "tag": "$MfT"
  }
 ]
