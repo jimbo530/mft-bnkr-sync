@@ -808,5 +808,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089442203294728361",
   "tag": "$MfT"
+ },
+ {
+  "name": "The Lord We Was Looking For",
+  "triggers": [
+   "the lord we was looking for"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089683793468629417",
+  "tag": "$MfT"
  }
 ]
