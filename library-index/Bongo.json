@@ -309,5 +309,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089422042835640560",
   "tag": "$MfT"
+ },
+ {
+  "name": "The Chest Is Full (Party Anyway)",
+  "triggers": [
+   "the chest is full (party anyway)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089502604011134978",
+  "tag": "$MfT"
  }
 ]
