@@ -94,5 +94,13 @@
   "xPost": "https://x.com/MemeForTrees/status/2089276074723021283",
   "promote": true,
   "tag": "$MfT"
+ },
+ {
+  "name": "Sail With The Crownless",
+  "triggers": [
+   "sail with the crownless"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089784498124734503",
+  "tag": "$MfT"
  }
 ]
