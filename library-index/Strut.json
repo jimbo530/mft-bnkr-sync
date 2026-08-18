@@ -79,5 +79,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089618358928859485",
   "tag": "$MfT"
+ },
+ {
+  "name": "The First Yes",
+  "triggers": [
+   "the first yes"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089623355011796996",
+  "tag": "$MfT"
  }
 ]
