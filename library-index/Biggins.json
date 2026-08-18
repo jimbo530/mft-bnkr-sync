@@ -79,5 +79,13 @@
   "xPost": "https://x.com/MemeForTrees/status/2089255939782086668",
   "promote": true,
   "tag": "$MfT"
+ },
+ {
+  "name": "No Kings (Just This Guy)",
+  "triggers": [
+   "no kings (just this guy)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089809579450184181",
+  "tag": "$MfT"
  }
 ]
