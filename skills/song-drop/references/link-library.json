@@ -10831,5 +10831,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2089557962561839181",
     "caption": "\"I Don't Strut (I Arrive)\" — Miss Strut\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2089562958334459959",
+    "translation": "Learn Out Loud",
+    "name": "Learn Out Loud",
+    "triggers": [
+      "learn out loud"
+    ],
+    "band": "Strut",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2089562958334459959",
+    "caption": "\"Learn Out Loud\" — Miss Strut\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

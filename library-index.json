@@ -6713,5 +6713,13 @@
    "i don't strut (i arrive)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089557962561839181"
+ },
+ {
+  "band": "Strut",
+  "name": "Learn Out Loud",
+  "triggers": [
+   "learn out loud"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089562958334459959"
  }
 ]

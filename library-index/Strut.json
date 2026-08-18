@@ -31,5 +31,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089557962561839181",
   "tag": "$MfT"
+ },
+ {
+  "name": "Learn Out Loud",
+  "triggers": [
+   "learn out loud"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089562958334459959",
+  "tag": "$MfT"
  }
 ]
