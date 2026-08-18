@@ -194,5 +194,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089497593533301098",
   "tag": "$MfT"
+ },
+ {
+  "name": "The Benevolent Racket",
+  "triggers": [
+   "the benevolent racket"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089779519515173164",
+  "tag": "$MfT"
  }
 ]

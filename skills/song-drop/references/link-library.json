@@ -11104,5 +11104,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2089764327540597200",
     "caption": "\"The Lord Who Rules Nobody\" — ALAN\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2089779519515173164",
+    "translation": "The Benevolent Racket",
+    "name": "The Benevolent Racket",
+    "triggers": [
+      "the benevolent racket"
+    ],
+    "band": "DGT",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2089779519515173164",
+    "caption": "\"The Benevolent Racket\" — Damned Good Time Orchestra\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
