@@ -7,5 +7,13 @@
   "xPost": "https://x.com/MemeForTrees/status/2089321379032141889",
   "promote": true,
   "tag": "$MfT"
+ },
+ {
+  "name": "Ship It Loud",
+  "triggers": [
+   "ship it loud"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089658589476532283",
+  "tag": "$MfT"
  }
 ]
