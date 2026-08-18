@@ -95,5 +95,13 @@
   "xPost": "https://x.com/MemeForTrees/status/2089260980257591405",
   "promote": true,
   "tag": "$MfT"
+ },
+ {
+  "name": "Glad You're Here",
+  "triggers": [
+   "glad you're here"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089522698103742885",
+  "tag": "$MfT"
  }
 ]
