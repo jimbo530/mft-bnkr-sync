@@ -142,5 +142,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089678798765670785",
   "tag": "$MfT"
+ },
+ {
+  "name": "The Lord Who Rules Nobody",
+  "triggers": [
+   "the lord who rules nobody"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089764327540597200",
+  "tag": "$MfT"
  }
 ]
