@@ -734,5 +734,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089437179986457002",
   "tag": "$MfT"
+ },
+ {
+  "name": "- Crownless",
+  "triggers": [
+   "- crownless"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089703980091801679",
+  "tag": "$MfT"
  }
 ]
