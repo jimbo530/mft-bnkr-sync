@@ -69,5 +69,13 @@
   "xPost": "https://x.com/MemeForTrees/status/2089301240047874170",
   "promote": true,
   "tag": "$MfT"
+ },
+ {
+  "name": "The Quiet Crown",
+  "triggers": [
+   "the quiet crown"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089859957835382795",
+  "tag": "$MfT"
  }
 ]
