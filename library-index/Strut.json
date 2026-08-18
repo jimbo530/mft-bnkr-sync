@@ -87,5 +87,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089623355011796996",
   "tag": "$MfT"
+ },
+ {
+  "name": "We Make Things Work",
+  "triggers": [
+   "we make things work"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089638492145885495",
+  "tag": "$MfT"
  }
 ]

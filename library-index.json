@@ -6769,5 +6769,13 @@
    "the first yes"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089623355011796996"
+ },
+ {
+  "band": "Strut",
+  "name": "We Make Things Work",
+  "triggers": [
+   "we make things work"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089638492145885495"
  }
 ]
