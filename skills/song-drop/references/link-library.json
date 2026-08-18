@@ -10974,5 +10974,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2089663651208630375",
     "caption": "\"The Public Works March\" — The Public Works\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2089678798765670785",
+    "translation": "Thanks For Listening",
+    "name": "Thanks For Listening",
+    "triggers": [
+      "thanks for listening"
+    ],
+    "band": "ALAN",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2089678798765670785",
+    "caption": "\"Thanks For Listening\" — ALAN\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

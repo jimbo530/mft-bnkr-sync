@@ -134,5 +134,13 @@
   "xPost": "https://x.com/MemeForTrees/status/2089140213301825686",
   "promote": true,
   "tag": "$MfT"
+ },
+ {
+  "name": "Thanks For Listening",
+  "triggers": [
+   "thanks for listening"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089678798765670785",
+  "tag": "$MfT"
  }
 ]
