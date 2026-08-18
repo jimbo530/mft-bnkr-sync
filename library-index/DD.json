@@ -445,5 +445,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089457326373613817",
   "tag": "$MfT"
+ },
+ {
+  "name": "Every Land Knows A Tyrant",
+  "triggers": [
+   "every land knows a tyrant"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089698941361107207",
+  "tag": "$MfT"
  }
 ]
