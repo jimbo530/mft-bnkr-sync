@@ -431,5 +431,13 @@
   "xPost": "https://x.com/MemeForTrees/status/2089200639188287657",
   "promote": true,
   "tag": "$MfT"
+ },
+ {
+  "name": "Proof of Function",
+  "triggers": [
+   "proof of function"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089517676129292434",
+  "tag": "$MfT"
  }
 ]
