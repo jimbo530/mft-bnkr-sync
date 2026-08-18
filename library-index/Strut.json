@@ -15,5 +15,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089537830334705989",
   "tag": "$MfT"
+ },
+ {
+  "name": "Feathers Down",
+  "triggers": [
+   "feathers down"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089542838472048975",
+  "tag": "$MfT"
  }
 ]

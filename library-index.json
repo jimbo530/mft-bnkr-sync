@@ -6697,5 +6697,13 @@
    "clown around town"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089537830334705989"
+ },
+ {
+  "band": "Strut",
+  "name": "Feathers Down",
+  "triggers": [
+   "feathers down"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089542838472048975"
  }
 ]
