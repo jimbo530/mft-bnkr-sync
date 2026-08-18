@@ -10961,5 +10961,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2089658589476532283",
     "caption": "\"Ship It Loud\" — The Public Works\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2089663651208630375",
+    "translation": "The Public Works March",
+    "name": "The Public Works March",
+    "triggers": [
+      "the public works march"
+    ],
+    "band": "PW",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2089663651208630375",
+    "caption": "\"The Public Works March\" — The Public Works\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
