@@ -317,5 +317,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089502604011134978",
   "tag": "$MfT"
+ },
+ {
+  "name": "The Party Needs No King",
+  "triggers": [
+   "the party needs no king"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089759339485569089",
+  "tag": "$MfT"
  }
 ]
