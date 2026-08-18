@@ -6705,5 +6705,13 @@
    "feathers down"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089542838472048975"
+ },
+ {
+  "band": "Strut",
+  "name": "I Don't Strut (I Arrive)",
+  "triggers": [
+   "i don't strut (i arrive)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089557962561839181"
  }
 ]
