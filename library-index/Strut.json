@@ -95,5 +95,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089638492145885495",
   "tag": "$MfT"
+ },
+ {
+  "name": "You're The Show",
+  "triggers": [
+   "you're the show"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089643487343824992",
+  "tag": "$MfT"
  }
 ]
