@@ -439,5 +439,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089517676129292434",
   "tag": "$MfT"
+ },
+ {
+  "name": "The Based Lord",
+  "triggers": [
+   "the based lord"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089744256797667542",
+  "tag": "$MfT"
  }
 ]
