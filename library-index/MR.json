@@ -373,5 +373,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089462340865380688",
   "tag": "$MfT"
+ },
+ {
+  "name": "No Chains In The Garden",
+  "triggers": [
+   "no chains in the garden"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089719075089891741",
+  "tag": "$MfT"
  }
 ]
