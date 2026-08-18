@@ -47,5 +47,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089578101038583911",
   "tag": "$MfT"
+ },
+ {
+  "name": "Pennies Into Thunder",
+  "triggers": [
+   "pennies into thunder"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089583133158932857",
+  "tag": "$MfT"
  }
 ]
