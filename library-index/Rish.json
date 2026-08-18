@@ -319,5 +319,13 @@
   "xPost": "https://x.com/MemeForTrees/status/2089240842506478038",
   "promote": true,
   "tag": "$MfT"
+ },
+ {
+  "name": "The Laughing Lord",
+  "triggers": [
+   "the laughing lord"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089839828925899068",
+  "tag": "$MfT"
  }
 ]
