@@ -39,5 +39,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089562958334459959",
   "tag": "$MfT"
+ },
+ {
+  "name": "One Dollar (What The Hell)",
+  "triggers": [
+   "one dollar (what the hell)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089578101038583911",
+  "tag": "$MfT"
  }
 ]
