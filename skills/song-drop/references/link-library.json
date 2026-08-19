@@ -5645,19 +5645,6 @@
     "promote": true
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2083241340951773440",
-    "translation": "Love Is The Power",
-    "name": "Love Is The Power",
-    "triggers": [
-      "love is the power"
-    ],
-    "band": "MR",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2083241340951773440",
-    "caption": "🎵 \"Love Is The Power\" — Moon Rasta\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2083759742216778209",
     "translation": "Roots In The Rhythm",
     "name": "Roots In The Rhythm",
@@ -11260,5 +11247,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2089920321130226026",
     "caption": "\"Blue Marble Rock\"\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2089935413418864786",
+    "translation": "Love Is The Power",
+    "name": "Love Is The Power",
+    "triggers": [
+      "love is the power"
+    ],
+    "band": "MR",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2089935413418864786",
+    "caption": "\"Love Is The Power\" — Moon Rasta\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

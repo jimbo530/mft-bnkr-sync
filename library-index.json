@@ -3513,14 +3513,6 @@
  },
  {
   "band": "MR",
-  "name": "Love Is The Power",
-  "triggers": [
-   "love is the power"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083241340951773440"
- },
- {
-  "band": "MR",
   "name": "Roots In The Rhythm",
   "triggers": [
    "roots in the rhythm"
@@ -6977,5 +6969,13 @@
    "blue marble rock"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089920321130226026"
+ },
+ {
+  "band": "MR",
+  "name": "Love Is The Power",
+  "triggers": [
+   "love is the power"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089935413418864786"
  }
 ]
