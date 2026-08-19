@@ -23,5 +23,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089663651208630375",
   "tag": "$MfT"
+ },
+ {
+  "name": "March Of The Crownless",
+  "triggers": [
+   "march of the crownless"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089895150918983733",
+  "tag": "$MfT"
  }
 ]
