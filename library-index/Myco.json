@@ -519,14 +519,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Forever Locked",
-  "triggers": [
-   "forever locked"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083195999489507695",
-  "tag": "$MfT"
- },
- {
   "name": "Agent Army",
   "triggers": [
    "agent army"
@@ -741,6 +733,14 @@
    "- crownless"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089703980091801679",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Forever Locked",
+  "triggers": [
+   "forever locked"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089960576399126755",
   "tag": "$MfT"
  }
 ]

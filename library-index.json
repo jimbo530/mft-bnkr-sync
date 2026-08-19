@@ -5485,14 +5485,6 @@
  },
  {
   "band": "Myco",
-  "name": "Forever Locked",
-  "triggers": [
-   "forever locked"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083195999489507695"
- },
- {
-  "band": "Myco",
   "name": "Agent Army",
   "triggers": [
    "agent army"
@@ -6985,5 +6977,13 @@
    "we will get there"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089955556878348588"
+ },
+ {
+  "band": "Myco",
+  "name": "Forever Locked",
+  "triggers": [
+   "forever locked"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089960576399126755"
  }
 ]

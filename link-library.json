@@ -8847,19 +8847,6 @@
     "caption": "🎵 \"Digerie Dude - Believe in SomeETHing (1)\" — Digerie Dude\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2083195999489507695",
-    "translation": "Forever Locked",
-    "name": "Forever Locked",
-    "triggers": [
-      "forever locked"
-    ],
-    "band": "Myco",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2083195999489507695",
-    "caption": "🎵 \"Forever Locked\" — Myco\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2085481141058900147",
     "translation": "Agent Army",
     "name": "Agent Army",
@@ -11273,5 +11260,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2089955556878348588",
     "caption": "\"we will get there\" — Jony Sings\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2089960576399126755",
+    "translation": "Forever Locked",
+    "name": "Forever Locked",
+    "triggers": [
+      "forever locked"
+    ],
+    "band": "Myco",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2089960576399126755",
+    "caption": "\"Forever Locked\" — Myco\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
