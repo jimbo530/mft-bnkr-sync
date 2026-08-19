@@ -4253,19 +4253,6 @@
     "caption": "🎵 \"Magic Today\" — Myco\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2082420929569665424",
-    "translation": "Til We’re Done",
-    "name": "Til We’re Done",
-    "triggers": [
-      "til we’re done"
-    ],
-    "band": "Myco",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2082420929569665424",
-    "caption": "🎵 \"Til We’re Done\" — Myco\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2083664121870839847",
     "translation": "Forge the Future",
     "name": "Forge the Future",
@@ -11272,5 +11259,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2090061253381169293",
     "caption": "\"Pass it on Gary Strings\"\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2090076349721465211",
+    "translation": "Til We’re Done",
+    "name": "Til We’re Done",
+    "triggers": [
+      "til we’re done"
+    ],
+    "band": "Myco",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2090076349721465211",
+    "caption": "\"Til We’re Done\" — Myco\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

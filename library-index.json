@@ -2656,14 +2656,6 @@
  },
  {
   "band": "Myco",
-  "name": "Til We’re Done",
-  "triggers": [
-   "til we’re done"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082420929569665424"
- },
- {
-  "band": "Myco",
   "name": "Forge the Future",
   "triggers": [
    "forge the future"
@@ -6984,5 +6976,13 @@
    "pass it on gary strings"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090061253381169293"
+ },
+ {
+  "band": "Myco",
+  "name": "Til We’re Done",
+  "triggers": [
+   "til we’re done"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090076349721465211"
  }
 ]
