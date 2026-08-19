@@ -4417,14 +4417,6 @@
  },
  {
   "band": "CB",
-  "name": "Signal in the silence",
-  "triggers": [
-   "signal in the silence"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084932488883834932"
- },
- {
-  "band": "CB",
   "name": "Proof of Freedom",
   "triggers": [
    "proof of freedom"
@@ -6984,5 +6976,13 @@
    "nations as one"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090106560953397280"
+ },
+ {
+  "band": "CB",
+  "name": "Signal in the silence",
+  "triggers": [
+   "signal in the silence"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090121659160166519"
  }
 ]

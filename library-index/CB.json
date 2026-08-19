@@ -248,14 +248,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Signal in the silence",
-  "triggers": [
-   "signal in the silence"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084932488883834932",
-  "tag": "$MfT"
- },
- {
   "name": "Proof of Freedom",
   "triggers": [
    "proof of freedom"
@@ -446,6 +438,14 @@
    "the based lord"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089744256797667542",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Signal in the silence",
+  "triggers": [
+   "signal in the silence"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090121659160166519",
   "tag": "$MfT"
  }
 ]
