@@ -93,5 +93,13 @@
   "xPost": "https://x.com/MemeForTrees/status/2089296220028125352",
   "promote": true,
   "tag": "$MfT"
+ },
+ {
+  "name": "The Guildmaster Who Asks Nothing",
+  "triggers": [
+   "the guildmaster who asks nothing"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089875055899484433",
+  "tag": "$MfT"
  }
 ]
