@@ -453,5 +453,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090187117389344874",
   "tag": "$MfT"
+ },
+ {
+  "name": "Title  “Scared Money Can’t Win”",
+  "triggers": [
+   "title  “scared money can’t win”"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090222348746019023",
+  "tag": "$MfT"
  }
 ]
