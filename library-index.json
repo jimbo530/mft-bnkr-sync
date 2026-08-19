@@ -3151,14 +3151,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2082415879388643628"
  },
  {
-  "band": "Myco",
-  "name": "Every Day We Grow",
-  "triggers": [
-   "every day we grow"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084711040680362030"
- },
- {
   "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “MEMES TURN TO TREES",
   "triggers": [
@@ -6985,5 +6977,13 @@
    "devil wants my song"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089975724153204988"
+ },
+ {
+  "band": "Myco",
+  "name": "Every Day We Grow",
+  "triggers": [
+   "every day we grow"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089980764288868424"
  }
 ]

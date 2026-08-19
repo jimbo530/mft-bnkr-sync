@@ -415,14 +415,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Every Day We Grow",
-  "triggers": [
-   "every day we grow"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084711040680362030",
-  "tag": "$MfT"
- },
- {
   "name": "\udfa7 “Stay In Your Lane (We Grow Together) (2)",
   "triggers": [
    "\udfa7 “stay in your lane (we grow together) (2)"
@@ -741,6 +733,14 @@
    "forever locked"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089960576399126755",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Every Day We Grow",
+  "triggers": [
+   "every day we grow"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089980764288868424",
   "tag": "$MfT"
  }
 ]
