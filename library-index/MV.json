@@ -1097,5 +1097,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090081411168448995",
   "tag": "$MfT"
+ },
+ {
+  "name": "EBM- DOUBT CANT TOUCH US.",
+  "triggers": [
+   "ebm- doubt cant touch us."
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090182061298491699",
+  "tag": "$MfT"
  }
 ]
