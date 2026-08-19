@@ -5140,14 +5140,6 @@
  },
  {
   "band": "MV",
-  "name": "Myko - Keep Moving",
-  "triggers": [
-   "myko - keep moving"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083925867953082735"
- },
- {
-  "band": "MV",
   "name": "Garden spinning green",
   "triggers": [
    "garden spinning green"
@@ -6985,5 +6977,13 @@
    "love is the work - jasmine"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090021025387888937"
+ },
+ {
+  "band": "MV",
+  "name": "Myko - Keep Moving",
+  "triggers": [
+   "myko - keep moving"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090036130917835129"
  }
 ]
