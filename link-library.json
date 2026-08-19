@@ -1158,19 +1158,6 @@
     "caption": "\"Nations as One\" — Digerie Dude\n\n$MfT 0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2081318678302208203",
-    "translation": "Compost to the Canopy",
-    "name": "Compost to the Canopy",
-    "triggers": [
-      "compost to the canopy"
-    ],
-    "band": "Myco",
-    "tag": "$MfT",
-    "ca": "0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3",
-    "xPost": "https://x.com/MemeForTrees/status/2081318678302208203",
-    "caption": "\"- Compost to the Canopy\" — Myco\n\n$MfT 0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2081323667925897710",
     "translation": "Streets to Roots",
     "name": "Streets to Roots",
@@ -11273,5 +11260,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2089995856183284221",
     "caption": "\"Digerie Dude- Bridges not walls\"\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2090015958865789386",
+    "translation": "Compost to the Canopy",
+    "name": "Compost to the Canopy",
+    "triggers": [
+      "compost to the canopy"
+    ],
+    "band": "Myco",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2090015958865789386",
+    "caption": "\"- Compost to the Canopy\" — Myco\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

@@ -745,14 +745,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2081303581299224957"
  },
  {
-  "band": "Myco",
-  "name": "Compost to the Canopy",
-  "triggers": [
-   "compost to the canopy"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081318678302208203"
- },
- {
   "band": "JS",
   "name": "Streets to Roots",
   "triggers": [
@@ -6985,5 +6977,13 @@
    "digerie dude- bridges not walls"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089995856183284221"
+ },
+ {
+  "band": "Myco",
+  "name": "Compost to the Canopy",
+  "triggers": [
+   "compost to the canopy"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090015958865789386"
  }
 ]

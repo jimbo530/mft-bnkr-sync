@@ -36,14 +36,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Compost to the Canopy",
-  "triggers": [
-   "compost to the canopy"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081318678302208203",
-  "tag": "$MfT"
- },
- {
   "name": "Sky People (Good Vibes Make Forests)",
   "triggers": [
    "sky people",
@@ -741,6 +733,14 @@
    "every day we grow"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089980764288868424",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Compost to the Canopy",
+  "triggers": [
+   "compost to the canopy"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090015958865789386",
   "tag": "$MfT"
  }
 ]
