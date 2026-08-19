@@ -543,14 +543,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "AI Band Empire",
-  "triggers": [
-   "ai band empire"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082134064018976770",
-  "tag": "$MfT"
- },
- {
   "name": "Proof of Good",
   "triggers": [
    "proof of good"
@@ -741,6 +733,14 @@
    "til we’re done"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090076349721465211",
+  "tag": "$MfT"
+ },
+ {
+  "name": "AI Band Empire",
+  "triggers": [
+   "ai band empire"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090161917490864409",
   "tag": "$MfT"
  }
 ]

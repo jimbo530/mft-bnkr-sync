@@ -5404,14 +5404,6 @@
  },
  {
   "band": "Myco",
-  "name": "AI Band Empire",
-  "triggers": [
-   "ai band empire"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082134064018976770"
- },
- {
-  "band": "Myco",
   "name": "Proof of Good",
   "triggers": [
    "proof of good"
@@ -6984,5 +6976,13 @@
    "building for the bulls"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090146947457827160"
+ },
+ {
+  "band": "Myco",
+  "name": "AI Band Empire",
+  "triggers": [
+   "ai band empire"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090161917490864409"
  }
 ]
