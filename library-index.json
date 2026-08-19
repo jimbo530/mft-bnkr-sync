@@ -3295,14 +3295,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2085380380987703780"
  },
  {
-  "band": "EBM",
-  "name": "ELVES OF BALLINMOORE — “ANOTHER DAY OF M",
-  "triggers": [
-   "elves of ballinmoore — “another day of m"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084001371557106047"
- },
- {
   "band": "MR",
   "name": "I Love Being Alive",
   "triggers": [
@@ -6984,5 +6976,13 @@
    "signal in the silence"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090121659160166519"
+ },
+ {
+  "band": "EBM",
+  "name": "ELVES OF BALLINMOORE — “ANOTHER DAY OF M",
+  "triggers": [
+   "elves of ballinmoore — “another day of m"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090126741670887549"
  }
 ]
