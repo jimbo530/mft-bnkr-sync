@@ -4056,14 +4056,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2084570058651468017"
  },
  {
-  "band": "MV",
-  "name": "Natalie power of a meme",
-  "triggers": [
-   "natalie power of a meme"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2066747649890365936"
- },
- {
   "band": "EBM",
   "name": "Base Wire — Jun 16, 2026",
   "triggers": [
@@ -6984,5 +6976,13 @@
    "til we’re done"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090076349721465211"
+ },
+ {
+  "band": "MV",
+  "name": "Natalie power of a meme",
+  "triggers": [
+   "natalie power of a meme"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090081411168448995"
  }
 ]
