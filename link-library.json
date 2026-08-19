@@ -6555,20 +6555,6 @@
     "caption": "🎵 \"Natalie power of a meme\"\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2083805049600315425",
-    "translation": "Pass it on Gary Strings",
-    "name": "Pass it on Gary Strings",
-    "triggers": [
-      "pass it on gary strings"
-    ],
-    "band": "MV",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2083805049600315425",
-    "caption": "🎵 \"Pass it on Gary Strings\"\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "promote": true
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2066888556987941139",
     "translation": "Base Wire — Jun 16, 2026",
     "name": "Base Wire — Jun 16, 2026",
@@ -11273,5 +11259,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2090056250515996978",
     "caption": "\"(TENDER RESILIENCE)\" — Digerie Dude\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2090061253381169293",
+    "translation": "Pass it on Gary Strings",
+    "name": "Pass it on Gary Strings",
+    "triggers": [
+      "pass it on gary strings"
+    ],
+    "band": "MV",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2090061253381169293",
+    "caption": "\"Pass it on Gary Strings\"\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

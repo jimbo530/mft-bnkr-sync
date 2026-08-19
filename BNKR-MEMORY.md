@@ -141,7 +141,6 @@ JS | The Architecture of Trust | https://x.com/MemeForTrees/status/2079177348314
 NN | Grow Something Great | https://x.com/MemeForTrees/status/2079186043362812034
 ALAN | Burgers Feed the People | https://x.com/MemeForTrees/status/2079214617838952609
 NN | Pass It On | https://x.com/MemeForTrees/status/2081917587084935272
-MV | Pass it on Gary Strings | https://x.com/MemeForTrees/status/2083805049600315425
 MV | Pass it on Natilie | https://x.com/MemeForTrees/status/2084811704731414655
 MV | Pass it on | https://x.com/MemeForTrees/status/2083201047271522420
 MV | Pass it on hollow hailer | https://x.com/MemeForTrees/status/2085073380282151266

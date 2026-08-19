@@ -168,15 +168,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Pass it on Gary Strings",
-  "triggers": [
-   "pass it on gary strings"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083805049600315425",
-  "promote": true,
-  "tag": "$MfT"
- },
- {
   "name": "Digerie Dude- We Grow",
   "triggers": [
    "digerie dude- we grow"
@@ -1097,6 +1088,14 @@
    "myko - keep moving"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090036130917835129",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Pass it on Gary Strings",
+  "triggers": [
+   "pass it on gary strings"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090061253381169293",
   "tag": "$MfT"
  }
 ]
