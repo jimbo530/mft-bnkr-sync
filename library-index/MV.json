@@ -425,14 +425,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Love is the work - Jasmine",
-  "triggers": [
-   "love is the work - jasmine"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084892184939999727",
-  "tag": "$MfT"
- },
- {
   "name": "Digerie Dude - Long Way home",
   "triggers": [
    "digerie dude - long way home"
@@ -1097,6 +1089,14 @@
    "digerie dude- bridges not walls"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089995856183284221",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Love is the work - Jasmine",
+  "triggers": [
+   "love is the work - jasmine"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090021025387888937",
   "tag": "$MfT"
  }
 ]

@@ -4465,14 +4465,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2084509711399858432"
  },
  {
-  "band": "MV",
-  "name": "Love is the work - Jasmine",
-  "triggers": [
-   "love is the work - jasmine"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084892184939999727"
- },
- {
   "band": "CB",
   "name": "Signal in the silence",
   "triggers": [
@@ -6985,5 +6977,13 @@
    "compost to the canopy"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090015958865789386"
+ },
+ {
+  "band": "MV",
+  "name": "Love is the work - Jasmine",
+  "triggers": [
+   "love is the work - jasmine"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090021025387888937"
  }
 ]
