@@ -4529,14 +4529,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2084303348639920399"
  },
  {
-  "band": "CB",
-  "name": "Building for the Bulls",
-  "triggers": [
-   "building for the bulls"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082541792600223879"
- },
- {
   "band": "MV",
   "name": "Myko - Listen Close",
   "triggers": [
@@ -6984,5 +6976,13 @@
    "un-rug-able family"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090141835922493720"
+ },
+ {
+  "band": "CB",
+  "name": "Building for the Bulls",
+  "triggers": [
+   "building for the bulls"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090146947457827160"
  }
 ]
