@@ -4370,19 +4370,6 @@
     "caption": "🎵 \"Drop Memes, Fund Trees\" — Elves of Ballinmoore\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2084590220985368625",
-    "translation": "(TENDER RESILIENCE)",
-    "name": "(TENDER RESILIENCE)",
-    "triggers": [
-      "(tender resilience)"
-    ],
-    "band": "DD",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2084590220985368625",
-    "caption": "🎵 \"(TENDER RESILIENCE)\" — Digerie Dude\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2081630753461256648",
     "translation": "The Internet We Dreamed Of",
     "name": "The Internet We Dreamed Of",
@@ -11273,5 +11260,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2090041156952342954",
     "caption": "\"The Return of the Bulls\" — Myco\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2090056250515996978",
+    "translation": "(TENDER RESILIENCE)",
+    "name": "(TENDER RESILIENCE)",
+    "triggers": [
+      "(tender resilience)"
+    ],
+    "band": "DD",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2090056250515996978",
+    "caption": "\"(TENDER RESILIENCE)\" — Digerie Dude\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

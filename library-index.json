@@ -2728,14 +2728,6 @@
  },
  {
   "band": "DD",
-  "name": "(TENDER RESILIENCE)",
-  "triggers": [
-   "(tender resilience)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084590220985368625"
- },
- {
-  "band": "DD",
   "name": "The Internet We Dreamed Of",
   "triggers": [
    "the internet we dreamed of"
@@ -6985,5 +6977,13 @@
    "the return of the bulls"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090041156952342954"
+ },
+ {
+  "band": "DD",
+  "name": "(TENDER RESILIENCE)",
+  "triggers": [
+   "(tender resilience)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090056250515996978"
  }
 ]
