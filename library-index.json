@@ -3720,14 +3720,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2082295099015184398"
  },
  {
-  "band": "JS",
-  "name": "For The Builders",
-  "triggers": [
-   "for the builders"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085194168771502253"
- },
- {
   "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “INTERNET ROOTS",
   "triggers": [
@@ -6977,5 +6969,13 @@
    "love is the power"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089935413418864786"
+ },
+ {
+  "band": "JS",
+  "name": "For The Builders",
+  "triggers": [
+   "for the builders"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089940455345590649"
  }
 ]

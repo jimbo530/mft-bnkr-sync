@@ -436,14 +436,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "For The Builders",
-  "triggers": [
-   "for the builders"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085194168771502253",
-  "tag": "$MfT"
- },
- {
   "name": "Polyraiders",
   "triggers": [
    "polyraiders"
@@ -690,6 +682,14 @@
    "finally found the one"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089724059139404007",
+  "tag": "$MfT"
+ },
+ {
+  "name": "For The Builders",
+  "triggers": [
+   "for the builders"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089940455345590649",
   "tag": "$MfT"
  }
 ]
