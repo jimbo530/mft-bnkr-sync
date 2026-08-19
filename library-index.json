@@ -4850,14 +4850,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2073361214717968755"
  },
  {
-  "band": "MV",
-  "name": "Spin that planet round",
-  "triggers": [
-   "spin that planet round"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083377235113755102"
- },
- {
   "band": "CB",
   "name": "They Follow US",
   "triggers": [
@@ -6992,5 +6984,13 @@
    "bloom on the blockchain"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090202233941991652"
+ },
+ {
+  "band": "MV",
+  "name": "Spin that planet round",
+  "triggers": [
+   "spin that planet round"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090207217685283051"
  }
 ]

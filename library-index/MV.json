@@ -770,14 +770,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Spin that planet round",
-  "triggers": [
-   "spin that planet round"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083377235113755102",
-  "tag": "$MfT"
- },
- {
   "name": "Green Hearts- Moon Rasta",
   "triggers": [
    "green hearts- moon rasta"
@@ -1104,6 +1096,14 @@
    "ebm- doubt cant touch us."
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090182061298491699",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Spin that planet round",
+  "triggers": [
+   "spin that planet round"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090207217685283051",
   "tag": "$MfT"
  }
 ]
