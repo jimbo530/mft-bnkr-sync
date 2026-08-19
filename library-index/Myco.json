@@ -647,14 +647,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Return of the Bulls",
-  "triggers": [
-   "the return of the bulls"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083155831307055396",
-  "tag": "$MfT"
- },
- {
   "name": "Two Currents, One Flow",
   "triggers": [
    "two currents, one flow"
@@ -741,6 +733,14 @@
    "compost to the canopy"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090015958865789386",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Return of the Bulls",
+  "triggers": [
+   "the return of the bulls"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090041156952342954",
   "tag": "$MfT"
  }
 ]

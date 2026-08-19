@@ -5588,14 +5588,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2082199483345940603"
  },
  {
-  "band": "Myco",
-  "name": "The Return of the Bulls",
-  "triggers": [
-   "the return of the bulls"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083155831307055396"
- },
- {
   "band": "Bongo",
   "name": "It Does the Doin'",
   "triggers": [
@@ -6985,5 +6977,13 @@
    "myko - keep moving"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090036130917835129"
+ },
+ {
+  "band": "Myco",
+  "name": "The Return of the Bulls",
+  "triggers": [
+   "the return of the bulls"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090041156952342954"
  }
 ]
