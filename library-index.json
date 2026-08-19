@@ -737,14 +737,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2081298549107552461"
  },
  {
-  "band": "DD",
-  "name": "Nations as One",
-  "triggers": [
-   "nations as one"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081303581299224957"
- },
- {
   "band": "JS",
   "name": "Streets to Roots",
   "triggers": [
@@ -6984,5 +6976,13 @@
    "the rainmakers daughter"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090101525502734600"
+ },
+ {
+  "band": "DD",
+  "name": "Nations as One",
+  "triggers": [
+   "nations as one"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090106560953397280"
  }
 ]

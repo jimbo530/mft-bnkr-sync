@@ -28,14 +28,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079568304016900141"
  },
  {
-  "name": "Nations as One",
-  "triggers": [
-   "nations as one"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081303581299224957",
-  "tag": "$MfT"
- },
- {
   "name": "Carry the Seed",
   "triggers": [
    "carry the seed"
@@ -452,6 +444,14 @@
    "(tender resilience)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090056250515996978",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Nations as One",
+  "triggers": [
+   "nations as one"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090106560953397280",
   "tag": "$MfT"
  }
 ]
