@@ -5780,14 +5780,6 @@
  },
  {
   "band": "JS",
-  "name": "Jony Sings - For the Builders",
-  "triggers": [
-   "jony sings - for the builders"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083175885000016148"
- },
- {
-  "band": "JS",
   "name": "jony sings Polyraiders",
   "triggers": [
    "jony sings polyraiders"
@@ -6984,5 +6976,13 @@
    "ai band empire"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090161917490864409"
+ },
+ {
+  "band": "JS",
+  "name": "Jony Sings - For the Builders",
+  "triggers": [
+   "jony sings - for the builders"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090166996847431973"
  }
 ]

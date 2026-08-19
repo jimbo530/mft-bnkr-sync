@@ -524,14 +524,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Jony Sings - For the Builders",
-  "triggers": [
-   "jony sings - for the builders"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083175885000016148",
-  "tag": "$MfT"
- },
- {
   "name": "jony sings Polyraiders",
   "triggers": [
    "jony sings polyraiders"
@@ -698,6 +690,14 @@
    "the rainmakers daughter"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090101525502734600",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Jony Sings - For the Builders",
+  "triggers": [
+   "jony sings - for the builders"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090166996847431973",
   "tag": "$MfT"
  }
 ]
