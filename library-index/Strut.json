@@ -103,5 +103,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089643487343824992",
   "tag": "$MfT"
+ },
+ {
+  "name": "Bow To Nobody (Dance With Everybody)",
+  "triggers": [
+   "bow to nobody (dance with everybody)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089880049721733245",
+  "tag": "$MfT"
  }
 ]
