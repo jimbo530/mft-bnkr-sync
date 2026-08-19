@@ -599,14 +599,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Bloom on the Blockchain",
-  "triggers": [
-   "bloom on the blockchain"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084102013873197098",
-  "tag": "$MfT"
- },
- {
   "name": "Show Me What You Got",
   "triggers": [
    "show me what you got"
@@ -741,6 +733,14 @@
    "ai band empire"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090161917490864409",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Bloom on the Blockchain",
+  "triggers": [
+   "bloom on the blockchain"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090202233941991652",
   "tag": "$MfT"
  }
 ]

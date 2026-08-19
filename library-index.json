@@ -5451,14 +5451,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2085395529714851937"
  },
  {
-  "band": "Myco",
-  "name": "Bloom on the Blockchain",
-  "triggers": [
-   "bloom on the blockchain"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084102013873197098"
- },
- {
   "band": "EBM",
   "name": "Un Rug Able",
   "triggers": [
@@ -6992,5 +6984,13 @@
    "build it anyway"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090187117389344874"
+ },
+ {
+  "band": "Myco",
+  "name": "Bloom on the Blockchain",
+  "triggers": [
+   "bloom on the blockchain"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090202233941991652"
  }
 ]
