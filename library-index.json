@@ -3496,14 +3496,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2083961098965799397"
  },
  {
-  "band": "MR",
-  "name": "Un-Rug-Able Family",
-  "triggers": [
-   "un-rug-able family"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081776703014162489"
- },
- {
   "band": "JS",
   "name": "Cellars Sewers And Spells",
   "triggers": [
@@ -6984,5 +6976,13 @@
    "elves of ballinmoore — “another day of m"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090126741670887549"
+ },
+ {
+  "band": "MR",
+  "name": "Un-Rug-Able Family",
+  "triggers": [
+   "un-rug-able family"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090141835922493720"
  }
 ]

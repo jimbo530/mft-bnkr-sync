@@ -270,14 +270,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Un-Rug-Able Family",
-  "triggers": [
-   "un-rug-able family"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081776703014162489",
-  "tag": "$MfT"
- },
- {
   "name": "Work Now Dance Later vid",
   "triggers": [
    "work now dance later vid"
@@ -380,6 +372,14 @@
    "love is the power"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089935413418864786",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Un-Rug-Able Family",
+  "triggers": [
+   "un-rug-able family"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090141835922493720",
   "tag": "$MfT"
  }
 ]
