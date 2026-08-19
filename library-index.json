@@ -4409,14 +4409,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2082259874432340100"
  },
  {
-  "band": "MV",
-  "name": "Blue Marble Rock",
-  "triggers": [
-   "blue marble rock"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082677623935709419"
- },
- {
   "band": "CB",
   "name": "Global Village",
   "triggers": [
@@ -6977,5 +6969,13 @@
    "that's how we grow"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089900183567859933"
+ },
+ {
+  "band": "MV",
+  "name": "Blue Marble Rock",
+  "triggers": [
+   "blue marble rock"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089920321130226026"
  }
 ]

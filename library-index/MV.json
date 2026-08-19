@@ -369,14 +369,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Blue Marble Rock",
-  "triggers": [
-   "blue marble rock"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082677623935709419",
-  "tag": "$MfT"
- },
- {
   "name": "carry the light, G.O.A.T.",
   "triggers": [
    "carry the light, g.o.a.t."
@@ -1097,6 +1089,14 @@
    "we are based"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2081811906235441322",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Blue Marble Rock",
+  "triggers": [
+   "blue marble rock"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089920321130226026",
   "tag": "$MfT"
  }
 ]
