@@ -4369,14 +4369,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2084836964805574794"
  },
  {
-  "band": "MV",
-  "name": "Digerie Dude- Bridges not walls",
-  "triggers": [
-   "digerie dude- bridges not walls"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082259874432340100"
- },
- {
   "band": "CB",
   "name": "Global Village",
   "triggers": [
@@ -6985,5 +6977,13 @@
    "every day we grow"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089980764288868424"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude- Bridges not walls",
+  "triggers": [
+   "digerie dude- bridges not walls"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089995856183284221"
  }
 ]
