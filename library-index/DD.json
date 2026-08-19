@@ -262,14 +262,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Build It Anyway",
-  "triggers": [
-   "build it anyway"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081590435730915606",
-  "tag": "$MfT"
- },
- {
   "name": "Digeri Dude - I endure",
   "triggers": [
    "digeri dude - i endure"
@@ -452,6 +444,14 @@
    "nations as one"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090106560953397280",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Build It Anyway",
+  "triggers": [
+   "build it anyway"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090187117389344874",
   "tag": "$MfT"
  }
 ]

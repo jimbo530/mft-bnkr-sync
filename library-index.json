@@ -2744,14 +2744,6 @@
  },
  {
   "band": "DD",
-  "name": "Build It Anyway",
-  "triggers": [
-   "build it anyway"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081590435730915606"
- },
- {
-  "band": "DD",
   "name": "Digeri Dude - I endure",
   "triggers": [
    "digeri dude - i endure"
@@ -6992,5 +6984,13 @@
    "ebm- doubt cant touch us."
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090182061298491699"
+ },
+ {
+  "band": "DD",
+  "name": "Build It Anyway",
+  "triggers": [
+   "build it anyway"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090187117389344874"
  }
 ]
