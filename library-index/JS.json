@@ -332,14 +332,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Devil Wants My Song",
-  "triggers": [
-   "devil wants my song"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083784911568158894",
-  "tag": "$MfT"
- },
- {
   "name": "Cellars Sewers And Spells",
   "triggers": [
    "cellars sewers and spells"
@@ -698,6 +690,14 @@
    "we will get there"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089955556878348588",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Devil Wants My Song",
+  "triggers": [
+   "devil wants my song"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089975724153204988",
   "tag": "$MfT"
  }
 ]

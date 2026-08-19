@@ -3536,14 +3536,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2082496387854348414"
  },
  {
-  "band": "JS",
-  "name": "Devil Wants My Song",
-  "triggers": [
-   "devil wants my song"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083784911568158894"
- },
- {
   "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “ALLIANCE FIRE”",
   "triggers": [
@@ -6985,5 +6977,13 @@
    "forever locked"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089960576399126755"
+ },
+ {
+  "band": "JS",
+  "name": "Devil Wants My Song",
+  "triggers": [
+   "devil wants my song"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089975724153204988"
  }
 ]
