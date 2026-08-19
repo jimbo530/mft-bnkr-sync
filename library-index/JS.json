@@ -691,5 +691,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089940455345590649",
   "tag": "$MfT"
+ },
+ {
+  "name": "we will get there",
+  "triggers": [
+   "we will get there"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2089955556878348588",
+  "tag": "$MfT"
  }
 ]
