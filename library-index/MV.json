@@ -1121,5 +1121,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090484069452726277",
   "tag": "$MfT"
+ },
+ {
+  "name": "EBM - Every Signal Plants Trees",
+  "triggers": [
+   "ebm - every signal plants trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090489072552644746",
+  "tag": "$MfT"
  }
 ]

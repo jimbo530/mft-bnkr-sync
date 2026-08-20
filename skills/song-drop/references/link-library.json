@@ -11337,5 +11337,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2090484069452726277",
     "caption": "\"love being alive - Moon Rasta\"\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2090489072552644746",
+    "translation": "EBM - Every Signal Plants Trees",
+    "name": "EBM - Every Signal Plants Trees",
+    "triggers": [
+      "ebm - every signal plants trees"
+    ],
+    "band": "MV",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2090489072552644746",
+    "caption": "\"EBM - Every Signal Plants Trees\"\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
