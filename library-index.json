@@ -4466,14 +4466,6 @@
  },
  {
   "band": "MV",
-  "name": "Myko - Listen Close",
-  "triggers": [
-   "myko - listen close"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084242949827686832"
- },
- {
-  "band": "MV",
   "name": "Jony Sings, keep dancing",
   "triggers": [
    "jony sings, keep dancing"
@@ -7000,5 +6992,13 @@
    "work now dance later vid"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090302873049456947"
+ },
+ {
+  "band": "MV",
+  "name": "Myko - Listen Close",
+  "triggers": [
+   "myko - listen close"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090307921745752300"
  }
 ]

@@ -7193,19 +7193,6 @@
     "caption": "🎵 \"Digerie Dude Base is for Everyone\"\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2084242949827686832",
-    "translation": "Myko - Listen Close",
-    "name": "Myko - Listen Close",
-    "triggers": [
-      "myko - listen close"
-    ],
-    "band": "MV",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2084242949827686832",
-    "caption": "🎵 \"Myko - Listen Close\"\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2076109313542705349",
     "translation": "Jony Sings, keep dancing",
     "name": "Jony Sings, keep dancing",
@@ -11298,5 +11285,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2090302873049456947",
     "caption": "\"Work Now Dance Later vid\" — Moon Rasta\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2090307921745752300",
+    "translation": "Myko - Listen Close",
+    "name": "Myko - Listen Close",
+    "triggers": [
+      "myko - listen close"
+    ],
+    "band": "MV",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2090307921745752300",
+    "caption": "\"Myko - Listen Close\"\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

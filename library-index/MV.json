@@ -489,14 +489,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Myko - Listen Close",
-  "triggers": [
-   "myko - listen close"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084242949827686832",
-  "tag": "$MfT"
- },
- {
   "name": "Jony Sings, keep dancing",
   "triggers": [
    "jony sings, keep dancing"
@@ -1104,6 +1096,14 @@
    "digerie dude- weather the storm"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090262581143364060",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Myko - Listen Close",
+  "triggers": [
+   "myko - listen close"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090307921745752300",
   "tag": "$MfT"
  }
 ]
