@@ -987,14 +987,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Digerie Dude - Photosynthesis of the Heart",
-  "triggers": [
-   "digerie dude - photosynthesis of the heart"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084429172001173520",
-  "tag": "$MfT"
- },
- {
   "name": "J&N you dont know",
   "triggers": [
    "j&n you dont know"
@@ -1104,6 +1096,14 @@
    "spin that planet round"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090207217685283051",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Digerie Dude - Photosynthesis of the Heart",
+  "triggers": [
+   "digerie dude - photosynthesis of the heart"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090242488892051494",
   "tag": "$MfT"
  }
 ]

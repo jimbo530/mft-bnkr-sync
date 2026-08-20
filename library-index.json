@@ -5220,14 +5220,6 @@
  },
  {
   "band": "MV",
-  "name": "Digerie Dude - Photosynthesis of the Heart",
-  "triggers": [
-   "digerie dude - photosynthesis of the heart"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084429172001173520"
- },
- {
-  "band": "MV",
   "name": "J&N you dont know",
   "triggers": [
    "j&n you dont know"
@@ -7000,5 +6992,13 @@
    "keep dancing"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090227382384833018"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Photosynthesis of the Heart",
+  "triggers": [
+   "digerie dude - photosynthesis of the heart"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090242488892051494"
  }
 ]
