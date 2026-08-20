@@ -447,5 +447,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090267615193124887",
   "tag": "$MfT"
+ },
+ {
+  "name": "EBM - Global Village",
+  "triggers": [
+   "ebm - global village"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090348173923352584",
+  "tag": "$MfT"
  }
 ]
