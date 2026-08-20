@@ -380,14 +380,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Build The World Together",
-  "triggers": [
-   "build the world together"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084207679837245676",
-  "tag": "$MfT"
- },
- {
   "name": "Polyraiders",
   "triggers": [
    "polyraiders"
@@ -698,6 +690,14 @@
    "jony sings, alive"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090468932456951977",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Build The World Together",
+  "triggers": [
+   "build the world together"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090564602656383288",
   "tag": "$MfT"
  }
 ]

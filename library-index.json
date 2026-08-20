@@ -3528,14 +3528,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2083055094543650823"
  },
  {
-  "band": "JS",
-  "name": "Build The World Together",
-  "triggers": [
-   "build the world together"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084207679837245676"
- },
- {
   "band": "NN",
   "name": "It Will Change Your Life",
   "triggers": [
@@ -7032,5 +7024,13 @@
    "learn to earn"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090549498787385703"
+ },
+ {
+  "band": "JS",
+  "name": "Build The World Together",
+  "triggers": [
+   "build the world together"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090564602656383288"
  }
 ]
