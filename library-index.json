@@ -4057,14 +4057,6 @@
  },
  {
   "band": "MV",
-  "name": "MC - Scratch the Earth",
-  "triggers": [
-   "mc - scratch the earth"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085118683559399892"
- },
- {
-  "band": "MV",
   "name": "growalition",
   "triggers": [
    "growalition"
@@ -7024,5 +7016,13 @@
    "biggins mcjamin - math isn't mathing"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090443809679081500"
+ },
+ {
+  "band": "MV",
+  "name": "MC - Scratch the Earth",
+  "triggers": [
+   "mc - scratch the earth"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090448805850161584"
  }
 ]
