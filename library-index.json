@@ -5195,14 +5195,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2083724517201863119"
  },
  {
-  "band": "Myco",
-  "name": "Crypto Spring",
-  "triggers": [
-   "crypto spring"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084061751151140867"
- },
- {
   "band": "Rish",
   "name": "Come All Ye (Sing a Forest)",
   "triggers": [
@@ -7016,5 +7008,13 @@
    "money for trees"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090388443155030255"
+ },
+ {
+  "band": "Myco",
+  "name": "Crypto Spring",
+  "triggers": [
+   "crypto spring"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090403537490448801"
  }
 ]

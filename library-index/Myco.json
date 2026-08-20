@@ -479,14 +479,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Crypto Spring",
-  "triggers": [
-   "crypto spring"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084061751151140867",
-  "tag": "$MfT"
- },
- {
   "name": "Agent Army",
   "triggers": [
    "agent army"
@@ -741,6 +733,14 @@
    "money for trees"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090388443155030255",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Crypto Spring",
+  "triggers": [
+   "crypto spring"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090403537490448801",
   "tag": "$MfT"
  }
 ]
