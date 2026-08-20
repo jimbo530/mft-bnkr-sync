@@ -240,14 +240,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Learn To Earn",
-  "triggers": [
-   "learn to earn"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081972996609036600",
-  "tag": "$MfT"
- },
- {
   "name": "Grow Greatness",
   "triggers": [
    "grow greatness"
@@ -359,6 +351,14 @@
    "a lord with manners"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089739213927313889",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Learn To Earn",
+  "triggers": [
+   "learn to earn"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090549498787385703",
   "tag": "$MfT"
  }
 ]

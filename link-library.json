@@ -5423,19 +5423,6 @@
     "caption": "🎵 \"Party God\" — Jony Sings\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2081972996609036600",
-    "translation": "Learn To Earn",
-    "name": "Learn To Earn",
-    "triggers": [
-      "learn to earn"
-    ],
-    "band": "NN",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2081972996609036600",
-    "caption": "🎵 \"Learn To Earn\" — Natilie Nightclub\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2084635542453440655",
     "translation": "Living It Up",
     "name": "Living It Up",
@@ -11350,5 +11337,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2090544476372586730",
     "caption": "\"Digerie Dude Base is for Everyone\"\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2090549498787385703",
+    "translation": "Learn To Earn",
+    "name": "Learn To Earn",
+    "triggers": [
+      "learn to earn"
+    ],
+    "band": "NN",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2090549498787385703",
+    "caption": "\"Learn To Earn\" — Natilie Nightclub\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

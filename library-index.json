@@ -3375,14 +3375,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2083135655530361305"
  },
  {
-  "band": "NN",
-  "name": "Learn To Earn",
-  "triggers": [
-   "learn to earn"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081972996609036600"
- },
- {
   "band": "JS",
   "name": "Living It Up",
   "triggers": [
@@ -7032,5 +7024,13 @@
    "digerie dude base is for everyone"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090544476372586730"
+ },
+ {
+  "band": "NN",
+  "name": "Learn To Earn",
+  "triggers": [
+   "learn to earn"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090549498787385703"
  }
 ]
