@@ -3841,14 +3841,6 @@
  },
  {
   "band": "MV",
-  "name": "diversity the key",
-  "triggers": [
-   "diversity the key"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084489557706182802"
- },
- {
-  "band": "MV",
   "name": "Digerie Dude - Community",
   "triggers": [
    "digerie dude - community"
@@ -7016,5 +7008,13 @@
    "ebm - global village"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090348173923352584"
+ },
+ {
+  "band": "MV",
+  "name": "diversity the key",
+  "triggers": [
+   "diversity the key"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090363231835484523"
  }
 ]
