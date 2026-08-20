@@ -4168,14 +4168,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2083180949580153108"
  },
  {
-  "band": "CB",
-  "name": "Born on Chain",
-  "triggers": [
-   "born on chain"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081993141389808015"
- },
- {
   "band": "MV",
   "name": "nattily grow greatness",
   "triggers": [
@@ -7016,5 +7008,13 @@
    "growalition vid"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090368269832126734"
+ },
+ {
+  "band": "CB",
+  "name": "Born on Chain",
+  "triggers": [
+   "born on chain"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090383382437900510"
  }
 ]
