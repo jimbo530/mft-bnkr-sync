@@ -65,14 +65,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Meme For Trees",
-  "triggers": [
-   "meme for trees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081530041666506851",
-  "tag": "$MfT"
- },
- {
   "name": "Eternal Harvest",
   "triggers": [
    "eternal harvest"
@@ -815,6 +807,14 @@
    "elves of ballinmoore — “another day of m"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090126741670887549",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Meme For Trees",
+  "triggers": [
+   "meme for trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090322966747721958",
   "tag": "$MfT"
  }
 ]

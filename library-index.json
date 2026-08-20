@@ -769,14 +769,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2081358939073970550"
  },
  {
-  "band": "EBM",
-  "name": "Meme For Trees",
-  "triggers": [
-   "meme for trees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081530041666506851"
- },
- {
   "band": "MR",
   "name": "Joy in the Ground",
   "triggers": [
@@ -7000,5 +6992,13 @@
    "myko - listen close"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090307921745752300"
+ },
+ {
+  "band": "EBM",
+  "name": "Meme For Trees",
+  "triggers": [
+   "meme for trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090322966747721958"
  }
 ]
