@@ -5284,14 +5284,6 @@
  },
  {
   "band": "Myco",
-  "name": "Self-Funding Revolution",
-  "triggers": [
-   "self-funding revolution"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082118953363468780"
- },
- {
-  "band": "Myco",
   "name": "Welcome To The Party",
   "triggers": [
    "welcome to the party"
@@ -7016,5 +7008,13 @@
    "zoom out"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090408565236175136"
+ },
+ {
+  "band": "Myco",
+  "name": "Self-Funding Revolution",
+  "triggers": [
+   "self-funding revolution"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090423631444627803"
  }
 ]
