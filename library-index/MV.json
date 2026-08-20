@@ -1105,5 +1105,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090307921745752300",
   "tag": "$MfT"
+ },
+ {
+  "name": "EBM - Decentraland Chainport",
+  "triggers": [
+   "ebm - decentraland chainport"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090328053230563496",
+  "tag": "$MfT"
  }
 ]
