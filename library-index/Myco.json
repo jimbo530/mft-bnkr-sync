@@ -495,14 +495,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Altcoin Blossoms",
-  "triggers": [
-   "altcoin blossoms"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083900700442931350",
-  "tag": "$MfT"
- },
- {
   "name": "Liquidity Rain",
   "triggers": [
    "liquidity rain"
@@ -741,6 +733,14 @@
    "self-funding revolution"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090423631444627803",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Altcoin Blossoms",
+  "triggers": [
+   "altcoin blossoms"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090428713502453850",
   "tag": "$MfT"
  }
 ]
