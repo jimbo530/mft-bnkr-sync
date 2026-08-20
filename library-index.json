@@ -5116,14 +5116,6 @@
  },
  {
   "band": "MV",
-  "name": "Work now, dance later - Moon Rasta",
-  "triggers": [
-   "work now, dance later - moon rasta"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083382231507103802"
- },
- {
-  "band": "MV",
   "name": "Thanks for being here",
   "triggers": [
    "thanks for being here"
@@ -7032,5 +7024,13 @@
    "ebm - every signal plants trees"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090489072552644746"
+ },
+ {
+  "band": "MV",
+  "name": "Work now, dance later - Moon Rasta",
+  "triggers": [
+   "work now, dance later - moon rasta"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090504201784672495"
  }
 ]
