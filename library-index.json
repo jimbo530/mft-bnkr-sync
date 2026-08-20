@@ -5204,14 +5204,6 @@
  },
  {
   "band": "Myco",
-  "name": "Proof of Good",
-  "triggers": [
-   "proof of good"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085153925720674579"
- },
- {
-  "band": "Myco",
   "name": "On-Chain Garden",
   "triggers": [
    "on-chain garden"
@@ -7032,5 +7024,13 @@
    "isle of 1,000 kingdoms jasmine"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090524295608819752"
+ },
+ {
+  "band": "Myco",
+  "name": "Proof of Good",
+  "triggers": [
+   "proof of good"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090529373921165500"
  }
 ]

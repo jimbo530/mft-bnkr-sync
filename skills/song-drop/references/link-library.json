@@ -8391,19 +8391,6 @@
     "caption": "🎵 \"Real Proof\" — Myco\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2085153925720674579",
-    "translation": "Proof of Good",
-    "name": "Proof of Good",
-    "triggers": [
-      "proof of good"
-    ],
-    "band": "Myco",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2085153925720674579",
-    "caption": "🎵 \"Proof of Good\" — Myco\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2082219639879119104",
     "translation": "On-Chain Garden",
     "name": "On-Chain Garden",
@@ -11350,5 +11337,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2090524295608819752",
     "caption": "\"Isle of 1,000 kingdoms Jasmine\"\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2090529373921165500",
+    "translation": "Proof of Good",
+    "name": "Proof of Good",
+    "triggers": [
+      "proof of good"
+    ],
+    "band": "Myco",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2090529373921165500",
+    "caption": "\"Proof of Good\" — Myco\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

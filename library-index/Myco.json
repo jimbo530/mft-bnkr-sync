@@ -519,14 +519,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Proof of Good",
-  "triggers": [
-   "proof of good"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085153925720674579",
-  "tag": "$MfT"
- },
- {
   "name": "On-Chain Garden",
   "triggers": [
    "on-chain garden"
@@ -741,6 +733,14 @@
    "altcoin blossoms"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090428713502453850",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Proof of Good",
+  "triggers": [
+   "proof of good"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090529373921165500",
   "tag": "$MfT"
  }
 ]
