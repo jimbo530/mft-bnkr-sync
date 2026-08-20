@@ -5604,14 +5604,6 @@
  },
  {
   "band": "JS",
-  "name": "Jony Sings, alive",
-  "triggers": [
-   "jony sings, alive"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083799978728648868"
- },
- {
-  "band": "JS",
   "name": "Jony Sings, devil wants my song",
   "triggers": [
    "jony sings, devil wants my song"
@@ -7024,5 +7016,13 @@
    "jony sings welcome to the show"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090463903557837201"
+ },
+ {
+  "band": "JS",
+  "name": "Jony Sings, alive",
+  "triggers": [
+   "jony sings, alive"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090468932456951977"
  }
 ]
