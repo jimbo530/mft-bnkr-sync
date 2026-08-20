@@ -5203,14 +5203,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2084061751151140867"
  },
  {
-  "band": "Myco",
-  "name": "Money For Trees",
-  "triggers": [
-   "money for trees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083140648132075984"
- },
- {
   "band": "Rish",
   "name": "Come All Ye (Sing a Forest)",
   "triggers": [
@@ -7016,5 +7008,13 @@
    "born on chain"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090383382437900510"
+ },
+ {
+  "band": "Myco",
+  "name": "Money For Trees",
+  "triggers": [
+   "money for trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090388443155030255"
  }
 ]

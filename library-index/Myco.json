@@ -487,14 +487,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Money For Trees",
-  "triggers": [
-   "money for trees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083140648132075984",
-  "tag": "$MfT"
- },
- {
   "name": "Agent Army",
   "triggers": [
    "agent army"
@@ -741,6 +733,14 @@
    "bloom on the blockchain"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090202233941991652",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Money For Trees",
+  "triggers": [
+   "money for trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090388443155030255",
   "tag": "$MfT"
  }
 ]
