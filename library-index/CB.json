@@ -240,14 +240,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Open the Gates",
-  "triggers": [
-   "open the gates"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084509711399858432",
-  "tag": "$MfT"
- },
- {
   "name": "Proof of Freedom",
   "triggers": [
    "proof of freedom"
@@ -446,6 +438,14 @@
    "building for the bulls"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090146947457827160",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Open the Gates",
+  "triggers": [
+   "open the gates"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090267615193124887",
   "tag": "$MfT"
  }
 ]

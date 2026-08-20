@@ -4361,14 +4361,6 @@
  },
  {
   "band": "CB",
-  "name": "Open the Gates",
-  "triggers": [
-   "open the gates"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084509711399858432"
- },
- {
-  "band": "CB",
   "name": "Proof of Freedom",
   "triggers": [
    "proof of freedom"
@@ -7000,5 +6992,13 @@
    "digerie dude- weather the storm"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090262581143364060"
+ },
+ {
+  "band": "CB",
+  "name": "Open the Gates",
+  "triggers": [
+   "open the gates"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090267615193124887"
  }
 ]
