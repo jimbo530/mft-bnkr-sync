@@ -270,14 +270,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Zoom out",
-  "triggers": [
-   "zoom out"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082436028846030914",
-  "tag": "$MfT"
- },
- {
   "name": "(QUIET REVOLUTION OF LOVE)",
   "triggers": [
    "(quiet revolution of love)"
@@ -460,6 +452,14 @@
    "title  “scared money can’t win”"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090222348746019023",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Zoom out",
+  "triggers": [
+   "zoom out"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090408565236175136",
   "tag": "$MfT"
  }
 ]

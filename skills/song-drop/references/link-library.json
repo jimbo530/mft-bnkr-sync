@@ -4396,19 +4396,6 @@
     "caption": "🎵 \"Digeri Dude - I endure\" — Digerie Dude\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2082436028846030914",
-    "translation": "Zoom out",
-    "name": "Zoom out",
-    "triggers": [
-      "zoom out"
-    ],
-    "band": "DD",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2082436028846030914",
-    "caption": "🎵 \"Zoom out\" — Digerie Dude\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2061689293144252490",
     "translation": "(QUIET REVOLUTION OF LOVE)",
     "name": "(QUIET REVOLUTION OF LOVE)",
@@ -11324,5 +11311,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2090403537490448801",
     "caption": "\"Crypto Spring\" — Myco\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2090408565236175136",
+    "translation": "Zoom out",
+    "name": "Zoom out",
+    "triggers": [
+      "zoom out"
+    ],
+    "band": "DD",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2090408565236175136",
+    "caption": "\"Zoom out\" — Digerie Dude\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

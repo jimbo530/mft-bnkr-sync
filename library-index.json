@@ -2744,14 +2744,6 @@
  },
  {
   "band": "DD",
-  "name": "Zoom out",
-  "triggers": [
-   "zoom out"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082436028846030914"
- },
- {
-  "band": "DD",
   "name": "(QUIET REVOLUTION OF LOVE)",
   "triggers": [
    "(quiet revolution of love)"
@@ -7016,5 +7008,13 @@
    "crypto spring"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090403537490448801"
+ },
+ {
+  "band": "DD",
+  "name": "Zoom out",
+  "triggers": [
+   "zoom out"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090408565236175136"
  }
 ]
