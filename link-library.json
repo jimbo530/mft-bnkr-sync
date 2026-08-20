@@ -5606,19 +5606,6 @@
     "caption": "🎵 \"Tunes For Trees\" — Myco\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2083764785838010790",
-    "translation": "Capital for Humanity",
-    "name": "Capital for Humanity",
-    "triggers": [
-      "capital for humanity"
-    ],
-    "band": "JS",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2083764785838010790",
-    "caption": "🎵 \"Capital for Humanity\" — Jony Sings\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2083583594719494332",
     "translation": "It Carries Two",
     "name": "It Carries Two",
@@ -11298,5 +11285,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2090282750318104794",
     "caption": "\"Roots In The Rhythm\" — Moon Rasta\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2090287741594451969",
+    "translation": "Capital for Humanity",
+    "name": "Capital for Humanity",
+    "triggers": [
+      "capital for humanity"
+    ],
+    "band": "JS",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2090287741594451969",
+    "caption": "\"Capital for Humanity\" — Jony Sings\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

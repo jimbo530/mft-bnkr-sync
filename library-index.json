@@ -3489,14 +3489,6 @@
  },
  {
   "band": "JS",
-  "name": "Capital for Humanity",
-  "triggers": [
-   "capital for humanity"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083764785838010790"
- },
- {
-  "band": "JS",
   "name": "It Carries Two",
   "triggers": [
    "it carries two"
@@ -7000,5 +6992,13 @@
    "roots in the rhythm"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090282750318104794"
+ },
+ {
+  "band": "JS",
+  "name": "Capital for Humanity",
+  "triggers": [
+   "capital for humanity"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090287741594451969"
  }
 ]
