@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Secrets — never commit keys
+.env
+.env.*
+*.key
+*-key.txt
+*.pem
+
+# Build / cache
+artifacts/
+cache/
+out/
+*.tsbuildinfo
+
+# Logs
+*.log
+logs/
+fork-*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
