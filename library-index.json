@@ -3600,14 +3600,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2084207679837245676"
  },
  {
-  "band": "JS",
-  "name": "Keep Dancing",
-  "triggers": [
-   "keep dancing"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082013219074216388"
- },
- {
   "band": "NN",
   "name": "It Will Change Your Life",
   "triggers": [
@@ -7000,5 +6992,13 @@
    "title  “scared money can’t win”"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090222348746019023"
+ },
+ {
+  "band": "JS",
+  "name": "Keep Dancing",
+  "triggers": [
+   "keep dancing"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090227382384833018"
  }
 ]
