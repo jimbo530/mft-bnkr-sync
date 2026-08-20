@@ -3513,14 +3513,6 @@
  },
  {
   "band": "JS",
-  "name": "GROWalition vid",
-  "triggers": [
-   "growalition vid"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084142244404044091"
- },
- {
-  "band": "JS",
   "name": "Songs For The Builders",
   "triggers": [
    "songs for the builders"
@@ -7016,5 +7008,13 @@
    "diversity the key"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090363231835484523"
+ },
+ {
+  "band": "JS",
+  "name": "GROWalition vid",
+  "triggers": [
+   "growalition vid"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090368269832126734"
  }
 ]

@@ -364,14 +364,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "GROWalition vid",
-  "triggers": [
-   "growalition vid"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084142244404044091",
-  "tag": "$MfT"
- },
- {
   "name": "Songs For The Builders",
   "triggers": [
    "songs for the builders"
@@ -698,6 +690,14 @@
    "capital for humanity"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090287741594451969",
+  "tag": "$MfT"
+ },
+ {
+  "name": "GROWalition vid",
+  "triggers": [
+   "growalition vid"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090368269832126734",
   "tag": "$MfT"
  }
 ]
