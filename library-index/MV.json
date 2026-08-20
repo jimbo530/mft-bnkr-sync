@@ -48,14 +48,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Digerie Dude- Weather the storm",
-  "triggers": [
-   "digerie dude- weather the storm"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081691146267267362",
-  "tag": "$MfT"
- },
- {
   "name": "diversity the key",
   "triggers": [
    "diversity the key"
@@ -1104,6 +1096,14 @@
    "digerie dude - photosynthesis of the heart"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090242488892051494",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Digerie Dude- Weather the storm",
+  "triggers": [
+   "digerie dude- weather the storm"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090262581143364060",
   "tag": "$MfT"
  }
 ]

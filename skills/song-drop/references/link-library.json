@@ -6230,19 +6230,6 @@
     "caption": "🎵 \"BASE is for Builders\" — CB\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2081691146267267362",
-    "translation": "Digerie Dude- Weather the storm",
-    "name": "Digerie Dude- Weather the storm",
-    "triggers": [
-      "digerie dude- weather the storm"
-    ],
-    "band": "MV",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2081691146267267362",
-    "caption": "🎵 \"Digerie Dude- Weather the storm\"\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2084489557706182802",
     "translation": "diversity the key",
     "name": "diversity the key",
@@ -11298,5 +11285,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2090247520567865731",
     "caption": "\"GROWalition Rising\" — Jony Sings\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2090262581143364060",
+    "translation": "Digerie Dude- Weather the storm",
+    "name": "Digerie Dude- Weather the storm",
+    "triggers": [
+      "digerie dude- weather the storm"
+    ],
+    "band": "MV",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2090262581143364060",
+    "caption": "\"Digerie Dude- Weather the storm\"\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

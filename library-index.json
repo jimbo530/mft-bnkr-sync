@@ -3873,14 +3873,6 @@
  },
  {
   "band": "MV",
-  "name": "Digerie Dude- Weather the storm",
-  "triggers": [
-   "digerie dude- weather the storm"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081691146267267362"
- },
- {
-  "band": "MV",
   "name": "diversity the key",
   "triggers": [
    "diversity the key"
@@ -7000,5 +6992,13 @@
    "growalition rising"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090247520567865731"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude- Weather the storm",
+  "triggers": [
+   "digerie dude- weather the storm"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090262581143364060"
  }
 ]
