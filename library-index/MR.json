@@ -262,14 +262,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Work Now Dance Later vid",
-  "triggers": [
-   "work now dance later vid"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083981184489369989",
-  "tag": "$MfT"
- },
- {
   "name": "Shade For Tomorrow",
   "triggers": [
    "shade for tomorrow"
@@ -380,6 +372,14 @@
    "roots in the rhythm"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090282750318104794",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Work Now Dance Later vid",
+  "triggers": [
+   "work now dance later vid"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090302873049456947",
   "tag": "$MfT"
  }
 ]
