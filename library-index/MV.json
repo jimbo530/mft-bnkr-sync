@@ -449,14 +449,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Digerie Dude Base is for Everyone",
-  "triggers": [
-   "digerie dude base is for everyone"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084303348639920399",
-  "tag": "$MfT"
- },
- {
   "name": "Jony Sings, keep dancing",
   "triggers": [
    "jony sings, keep dancing"
@@ -1128,6 +1120,14 @@
    "isle of 1,000 kingdoms jasmine"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090524295608819752",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Digerie Dude Base is for Everyone",
+  "triggers": [
+   "digerie dude base is for everyone"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090544476372586730",
   "tag": "$MfT"
  }
 ]

@@ -4394,14 +4394,6 @@
  },
  {
   "band": "MV",
-  "name": "Digerie Dude Base is for Everyone",
-  "triggers": [
-   "digerie dude base is for everyone"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084303348639920399"
- },
- {
-  "band": "MV",
   "name": "Jony Sings, keep dancing",
   "triggers": [
    "jony sings, keep dancing"
@@ -7032,5 +7024,13 @@
    "proof of good"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090529373921165500"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude Base is for Everyone",
+  "triggers": [
+   "digerie dude base is for everyone"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090544476372586730"
  }
 ]
