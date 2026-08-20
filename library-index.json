@@ -4161,14 +4161,6 @@
  },
  {
   "band": "MV",
-  "name": "My own Name, - Jasmine",
-  "triggers": [
-   "my own name, - jasmine"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083920834851164652"
- },
- {
-  "band": "MV",
   "name": "Digerie Dude - Stand Through the Storm",
   "triggers": [
    "digerie dude - stand through the storm"
@@ -7008,5 +7000,13 @@
    "ebm - decentraland chainport"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090328053230563496"
+ },
+ {
+  "band": "MV",
+  "name": "My own Name, - Jasmine",
+  "triggers": [
+   "my own name, - jasmine"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090343113734639685"
  }
 ]
