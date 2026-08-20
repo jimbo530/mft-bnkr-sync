@@ -3472,14 +3472,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2083779831259365886"
  },
  {
-  "band": "JS",
-  "name": "GROWalition Rising",
-  "triggers": [
-   "growalition rising"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082496387854348414"
- },
- {
   "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “ALLIANCE FIRE”",
   "triggers": [
@@ -7000,5 +6992,13 @@
    "digerie dude - photosynthesis of the heart"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090242488892051494"
+ },
+ {
+  "band": "JS",
+  "name": "GROWalition Rising",
+  "triggers": [
+   "growalition rising"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090247520567865731"
  }
 ]

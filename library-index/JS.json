@@ -324,14 +324,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "GROWalition Rising",
-  "triggers": [
-   "growalition rising"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082496387854348414",
-  "tag": "$MfT"
- },
- {
   "name": "Cellars Sewers And Spells",
   "triggers": [
    "cellars sewers and spells"
@@ -698,6 +690,14 @@
    "keep dancing"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090227382384833018",
+  "tag": "$MfT"
+ },
+ {
+  "name": "GROWalition Rising",
+  "triggers": [
+   "growalition rising"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090247520567865731",
   "tag": "$MfT"
  }
 ]
