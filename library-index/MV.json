@@ -376,14 +376,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Digerie Dude - Permanent",
-  "triggers": [
-   "digerie dude - permanent"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084504695746261423",
-  "tag": "$MfT"
- },
- {
   "name": "Pass it on Natilie",
   "triggers": [
    "pass it on natilie"
@@ -1128,6 +1120,14 @@
    "digerie dude base is for everyone"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090544476372586730",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Digerie Dude - Permanent",
+  "triggers": [
+   "digerie dude - permanent"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090584738679365933",
   "tag": "$MfT"
  }
 ]

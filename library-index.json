@@ -4265,14 +4265,6 @@
  },
  {
   "band": "MV",
-  "name": "Digerie Dude - Permanent",
-  "triggers": [
-   "digerie dude - permanent"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084504695746261423"
- },
- {
-  "band": "MV",
   "name": "Pass it on Natilie",
   "triggers": [
    "pass it on natilie"
@@ -7032,5 +7024,13 @@
    "elves of ballinmoore — “yucky ducks x tr"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090569601453105413"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Permanent",
+  "triggers": [
+   "digerie dude - permanent"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090584738679365933"
  }
 ]

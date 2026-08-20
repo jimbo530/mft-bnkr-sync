@@ -6867,19 +6867,6 @@
     "caption": "🎵 \"Digerie Dude - Long Way home\"\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2084504695746261423",
-    "translation": "Digerie Dude - Permanent",
-    "name": "Digerie Dude - Permanent",
-    "triggers": [
-      "digerie dude - permanent"
-    ],
-    "band": "MV",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2084504695746261423",
-    "caption": "🎵 \"Digerie Dude - Permanent\"\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2084811704731414655",
     "translation": "Pass it on Natilie",
     "name": "Pass it on Natilie",
@@ -11350,5 +11337,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2090569601453105413",
     "caption": "\"ELVES OF BALLINMOORE — “YUCKY DUCKS x TR\" — Elves of Ballinmoore\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2090584738679365933",
+    "translation": "Digerie Dude - Permanent",
+    "name": "Digerie Dude - Permanent",
+    "triggers": [
+      "digerie dude - permanent"
+    ],
+    "band": "MV",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2090584738679365933",
+    "caption": "\"Digerie Dude - Permanent\"\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
