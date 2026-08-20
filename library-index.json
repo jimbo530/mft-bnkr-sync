@@ -3849,14 +3849,6 @@
  },
  {
   "band": "MV",
-  "name": "love being alive - Moon Rasta",
-  "triggers": [
-   "love being alive - moon rasta"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083477855124500525"
- },
- {
-  "band": "MV",
   "name": "Every Signal Plants Trees",
   "triggers": [
    "every signal plants trees"
@@ -7024,5 +7016,13 @@
    "jony sings, alive"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090468932456951977"
+ },
+ {
+  "band": "MV",
+  "name": "love being alive - Moon Rasta",
+  "triggers": [
+   "love being alive - moon rasta"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090484069452726277"
  }
 ]
