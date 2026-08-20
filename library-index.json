@@ -5580,14 +5580,6 @@
  },
  {
   "band": "JS",
-  "name": "Jony Sings Welcome to the show",
-  "triggers": [
-   "jony sings welcome to the show"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083034956897361968"
- },
- {
-  "band": "JS",
   "name": "Jony Sings, Jaguars",
   "triggers": [
    "jony sings, jaguars"
@@ -7024,5 +7016,13 @@
    "mc - scratch the earth"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090448805850161584"
+ },
+ {
+  "band": "JS",
+  "name": "Jony Sings Welcome to the show",
+  "triggers": [
+   "jony sings welcome to the show"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090463903557837201"
  }
 ]
