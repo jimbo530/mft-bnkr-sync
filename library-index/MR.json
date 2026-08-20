@@ -262,14 +262,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Roots In The Rhythm",
-  "triggers": [
-   "roots in the rhythm"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083759742216778209",
-  "tag": "$MfT"
- },
- {
   "name": "Work Now Dance Later vid",
   "triggers": [
    "work now dance later vid"
@@ -380,6 +372,14 @@
    "un-rug-able family"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090141835922493720",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Roots In The Rhythm",
+  "triggers": [
+   "roots in the rhythm"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090282750318104794",
   "tag": "$MfT"
  }
 ]

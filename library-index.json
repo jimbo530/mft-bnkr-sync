@@ -3456,14 +3456,6 @@
   "promote": true
  },
  {
-  "band": "MR",
-  "name": "Roots In The Rhythm",
-  "triggers": [
-   "roots in the rhythm"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083759742216778209"
- },
- {
   "band": "EBM",
   "name": "Ballinmoore Elves",
   "triggers": [
@@ -7000,5 +6992,13 @@
    "open the gates"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090267615193124887"
+ },
+ {
+  "band": "MR",
+  "name": "Roots In The Rhythm",
+  "triggers": [
+   "roots in the rhythm"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090282750318104794"
  }
 ]
