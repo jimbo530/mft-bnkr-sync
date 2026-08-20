@@ -633,14 +633,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Isle of 1,000 kingdoms Jasmine",
-  "triggers": [
-   "isle of 1,000 kingdoms jasmine"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083739620307587300",
-  "tag": "$MfT"
- },
- {
   "name": "forest and sun Jasmine",
   "triggers": [
    "forest and sun jasmine"
@@ -1128,6 +1120,14 @@
    "digerie dude - plastic in the tide"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090509249738592600",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Isle of 1,000 kingdoms Jasmine",
+  "triggers": [
+   "isle of 1,000 kingdoms jasmine"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090524295608819752",
   "tag": "$MfT"
  }
 ]
