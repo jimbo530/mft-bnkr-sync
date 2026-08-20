@@ -7362,19 +7362,6 @@
     "caption": "🎵 \"Freedoms Faster than Fear\"\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2084917394388984194",
-    "translation": "Digerie Dude - Plastic in the tide",
-    "name": "Digerie Dude - Plastic in the tide",
-    "triggers": [
-      "digerie dude - plastic in the tide"
-    ],
-    "band": "MV",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2084917394388984194",
-    "caption": "🎵 \"Digerie Dude - Plastic in the tide\"\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2088022842168226049",
     "translation": "One Road, Eyes Open",
     "name": "One Road, Eyes Open",
@@ -11350,5 +11337,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2090504201784672495",
     "caption": "\"Work now, dance later - Moon Rasta\"\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2090509249738592600",
+    "translation": "Digerie Dude - Plastic in the tide",
+    "name": "Digerie Dude - Plastic in the tide",
+    "triggers": [
+      "digerie dude - plastic in the tide"
+    ],
+    "band": "MV",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2090509249738592600",
+    "caption": "\"Digerie Dude - Plastic in the tide\"\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

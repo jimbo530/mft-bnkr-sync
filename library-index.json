@@ -4569,14 +4569,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2084403969258827928"
  },
  {
-  "band": "MV",
-  "name": "Digerie Dude - Plastic in the tide",
-  "triggers": [
-   "digerie dude - plastic in the tide"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084917394388984194"
- },
- {
   "band": "EBM",
   "name": "One Road, Eyes Open",
   "triggers": [
@@ -7032,5 +7024,13 @@
    "work now, dance later - moon rasta"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090504201784672495"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Plastic in the tide",
+  "triggers": [
+   "digerie dude - plastic in the tide"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090509249738592600"
  }
 ]

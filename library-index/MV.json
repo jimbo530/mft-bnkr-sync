@@ -601,14 +601,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Digerie Dude - Plastic in the tide",
-  "triggers": [
-   "digerie dude - plastic in the tide"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084917394388984194",
-  "tag": "$MfT"
- },
- {
   "name": "Digerie Dude - Build it Anyway",
   "triggers": [
    "digerie dude - build it anyway"
@@ -1128,6 +1120,14 @@
    "work now, dance later - moon rasta"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090504201784672495",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Digerie Dude - Plastic in the tide",
+  "triggers": [
+   "digerie dude - plastic in the tide"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090509249738592600",
   "tag": "$MfT"
  }
 ]
