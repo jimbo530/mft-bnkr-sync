@@ -5137,19 +5137,6 @@
     "caption": "🎵 \"We Water Each Other\" — Moon Rasta\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2081892468048491001",
-    "translation": "ELVES OF BALLINMOORE — “YUCKY DUCKS x TR",
-    "name": "ELVES OF BALLINMOORE — “YUCKY DUCKS x TR",
-    "triggers": [
-      "elves of ballinmoore — “yucky ducks x tr"
-    ],
-    "band": "EBM",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2081892468048491001",
-    "caption": "🎵 \"ELVES OF BALLINMOORE — “YUCKY DUCKS x TR\" — Elves of Ballinmoore\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2084086882690888038",
     "translation": "Regen Rising",
     "name": "Regen Rising",
@@ -11350,5 +11337,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2090564602656383288",
     "caption": "\"Build The World Together\" — Jony Sings\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2090569601453105413",
+    "translation": "ELVES OF BALLINMOORE — “YUCKY DUCKS x TR",
+    "name": "ELVES OF BALLINMOORE — “YUCKY DUCKS x TR",
+    "triggers": [
+      "elves of ballinmoore — “yucky ducks x tr"
+    ],
+    "band": "EBM",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2090569601453105413",
+    "caption": "\"ELVES OF BALLINMOORE — “YUCKY DUCKS x TR\" — Elves of Ballinmoore\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

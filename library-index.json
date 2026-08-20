@@ -3199,14 +3199,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2084263071795609742"
  },
  {
-  "band": "EBM",
-  "name": "ELVES OF BALLINMOORE — “YUCKY DUCKS x TR",
-  "triggers": [
-   "elves of ballinmoore — “yucky ducks x tr"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081892468048491001"
- },
- {
   "band": "JS",
   "name": "Regen Rising",
   "triggers": [
@@ -7032,5 +7024,13 @@
    "build the world together"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090564602656383288"
+ },
+ {
+  "band": "EBM",
+  "name": "ELVES OF BALLINMOORE — “YUCKY DUCKS x TR",
+  "triggers": [
+   "elves of ballinmoore — “yucky ducks x tr"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090569601453105413"
  }
 ]

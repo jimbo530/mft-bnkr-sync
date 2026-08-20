@@ -545,14 +545,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "ELVES OF BALLINMOORE — “YUCKY DUCKS x TR",
-  "triggers": [
-   "elves of ballinmoore — “yucky ducks x tr"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081892468048491001",
-  "tag": "$MfT"
- },
- {
   "name": "ELVES OF BALLINMOORE — “MORE LOVE, MORE",
   "triggers": [
    "elves of ballinmoore — “more love, more"
@@ -815,6 +807,14 @@
    "meme for trees"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090322966747721958",
+  "tag": "$MfT"
+ },
+ {
+  "name": "ELVES OF BALLINMOORE — “YUCKY DUCKS x TR",
+  "triggers": [
+   "elves of ballinmoore — “yucky ducks x tr"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090569601453105413",
   "tag": "$MfT"
  }
 ]
