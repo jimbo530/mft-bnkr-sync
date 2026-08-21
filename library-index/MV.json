@@ -1129,5 +1129,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090584738679365933",
   "tag": "$MfT"
+ },
+ {
+  "name": "EBM- Community of Communities",
+  "triggers": [
+   "ebm- community of communities"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090609887776473391",
+  "tag": "$MfT"
  }
 ]
