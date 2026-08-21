@@ -2943,14 +2943,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2084021498348556297"
  },
  {
-  "band": "DD",
-  "name": "Signal in the Noise",
-  "triggers": [
-   "signal in the noise"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082999757681688961"
- },
- {
   "band": "Myco",
   "name": "Grow With Every Play",
   "triggers": [
@@ -7032,5 +7024,13 @@
    "they follow us"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090589729821434160"
+ },
+ {
+  "band": "DD",
+  "name": "Signal in the Noise",
+  "triggers": [
+   "signal in the noise"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090604818574291346"
  }
 ]

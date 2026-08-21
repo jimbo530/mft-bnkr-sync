@@ -334,14 +334,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Signal in the Noise",
-  "triggers": [
-   "signal in the noise"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082999757681688961",
-  "tag": "$MfT"
- },
- {
   "name": "Communities",
   "triggers": [
    "communities"
@@ -460,6 +452,14 @@
    "zoom out"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090408565236175136",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Signal in the Noise",
+  "triggers": [
+   "signal in the noise"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090604818574291346",
   "tag": "$MfT"
  }
 ]
