@@ -380,14 +380,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Mangrove",
-  "triggers": [
-   "mangrove"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083422532833583536",
-  "tag": "$MfT"
- },
- {
   "name": "Investors of Tomorrow",
   "triggers": [
    "investors of tomorrow"
@@ -706,6 +698,14 @@
    "jony sings, mangrove"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090906807594094658",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Mangrove",
+  "triggers": [
+   "mangrove"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090911841396437488",
   "tag": "$MfT"
  }
 ]
