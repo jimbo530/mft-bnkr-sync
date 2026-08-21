@@ -2647,14 +2647,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2083664121870839847"
  },
  {
-  "band": "DD",
-  "name": "(PEACE IN YOUR HANDS)",
-  "triggers": [
-   "(peace in your hands)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083518159403810973"
- },
- {
   "band": "EBM",
   "name": "Help The Homies",
   "triggers": [
@@ -7040,5 +7032,13 @@
    "digerie dude- we grow"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090624969528987847"
+ },
+ {
+  "band": "DD",
+  "name": "(PEACE IN YOUR HANDS)",
+  "triggers": [
+   "(peace in your hands)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090630024139288655"
  }
 ]

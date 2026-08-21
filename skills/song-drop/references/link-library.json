@@ -4240,19 +4240,6 @@
     "caption": "🎵 \"Forge the Future\" — Myco\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2083518159403810973",
-    "translation": "(PEACE IN YOUR HANDS)",
-    "name": "(PEACE IN YOUR HANDS)",
-    "triggers": [
-      "(peace in your hands)"
-    ],
-    "band": "DD",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2083518159403810973",
-    "caption": "🎵 \"(PEACE IN YOUR HANDS)\" — Digerie Dude\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2083120551078281695",
     "translation": "Help The Homies",
     "name": "Help The Homies",
@@ -11363,5 +11350,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2090624969528987847",
     "caption": "\"Digerie Dude- We Grow\"\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2090630024139288655",
+    "translation": "(PEACE IN YOUR HANDS)",
+    "name": "(PEACE IN YOUR HANDS)",
+    "triggers": [
+      "(peace in your hands)"
+    ],
+    "band": "DD",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2090630024139288655",
+    "caption": "\"(PEACE IN YOUR HANDS)\" — Digerie Dude\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
