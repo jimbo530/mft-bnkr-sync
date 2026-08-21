@@ -4667,14 +4667,6 @@
  },
  {
   "band": "CB",
-  "name": "They Follow US",
-  "triggers": [
-   "they follow us"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083940975538262054"
- },
- {
-  "band": "CB",
   "name": "Unstoppable System",
   "triggers": [
    "unstoppable system"
@@ -7032,5 +7024,13 @@
    "digerie dude - permanent"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090584738679365933"
+ },
+ {
+  "band": "CB",
+  "name": "They Follow US",
+  "triggers": [
+   "they follow us"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090589729821434160"
  }
 ]
