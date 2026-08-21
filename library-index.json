@@ -5460,14 +5460,6 @@
  },
  {
   "band": "JS",
-  "name": "Jony Sings, devil wants my song",
-  "triggers": [
-   "jony sings, devil wants my song"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083860374848188833"
- },
- {
-  "band": "JS",
   "name": "Jony Sings, Party god",
   "triggers": [
    "jony sings, party god"
@@ -7040,5 +7032,13 @@
    "base base base"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090670296613167130"
+ },
+ {
+  "band": "JS",
+  "name": "Jony Sings, devil wants my song",
+  "triggers": [
+   "jony sings, devil wants my song"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090685396900302920"
  }
 ]
