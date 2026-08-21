@@ -423,14 +423,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Dance To Defend The Earth",
-  "triggers": [
-   "dance to defend the earth"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084227852875038982",
-  "tag": "$MfT"
- },
- {
   "name": "Keep Moving Forward",
   "triggers": [
    "keep moving forward"
@@ -741,6 +733,14 @@
    "liquidity rain"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090665225401819456",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Dance To Defend The Earth",
+  "triggers": [
+   "dance to defend the earth"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090690431688319118",
   "tag": "$MfT"
  }
 ]

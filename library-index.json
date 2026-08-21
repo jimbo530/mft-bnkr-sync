@@ -3143,14 +3143,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2082717889761558548"
  },
  {
-  "band": "Myco",
-  "name": "Dance To Defend The Earth",
-  "triggers": [
-   "dance to defend the earth"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084227852875038982"
- },
- {
   "band": "EBM",
   "name": "Ballinmoore Bounce",
   "triggers": [
@@ -7040,5 +7032,13 @@
    "jony sings, devil wants my song"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090685396900302920"
+ },
+ {
+  "band": "Myco",
+  "name": "Dance To Defend The Earth",
+  "triggers": [
+   "dance to defend the earth"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090690431688319118"
  }
 ]
