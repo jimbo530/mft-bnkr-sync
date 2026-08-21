@@ -3576,14 +3576,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2084182537157407182"
  },
  {
-  "band": "JS",
-  "name": "Dance Until Morning",
-  "triggers": [
-   "dance until morning"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083966197037416566"
- },
- {
   "band": "EBM",
   "name": "Elves of Ballinmoore",
   "triggers": [
@@ -7056,5 +7048,13 @@
    "love and hate  jasmine"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090806199847403800"
+ },
+ {
+  "band": "JS",
+  "name": "Dance Until Morning",
+  "triggers": [
+   "dance until morning"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090811210258067589"
  }
 ]
