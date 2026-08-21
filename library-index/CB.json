@@ -455,5 +455,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090670296613167130",
   "tag": "$MfT"
+ },
+ {
+  "name": "EBM - Together we grow CB",
+  "triggers": [
+   "ebm - together we grow cb"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090831329738842589",
+  "tag": "$MfT"
  }
 ]
