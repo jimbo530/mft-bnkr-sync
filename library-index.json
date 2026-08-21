@@ -4995,14 +4995,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2084041584153080315"
  },
  {
-  "band": "Myco",
-  "name": "Impact Flywheel",
-  "triggers": [
-   "impact flywheel"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083724517201863119"
- },
- {
   "band": "Rish",
   "name": "Come All Ye (Sing a Forest)",
   "triggers": [
@@ -7048,5 +7040,13 @@
    "ricky bobbie - freedoms faster than fear"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090770957589717121"
+ },
+ {
+  "band": "Myco",
+  "name": "Impact Flywheel",
+  "triggers": [
+   "impact flywheel"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090786023902978384"
  }
 ]
