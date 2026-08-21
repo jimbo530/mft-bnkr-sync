@@ -1145,5 +1145,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090770957589717121",
   "tag": "$MfT"
+ },
+ {
+  "name": "love and hate  Jasmine",
+  "triggers": [
+   "love and hate  jasmine"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090806199847403800",
+  "tag": "$MfT"
  }
 ]
