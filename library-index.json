@@ -769,14 +769,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2081358939073970550"
  },
  {
-  "band": "MR",
-  "name": "Joy in the Ground",
-  "triggers": [
-   "joy in the ground"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081535114937323666"
- },
- {
   "band": "EBM",
   "name": "Eternal Harvest",
   "triggers": [
@@ -7064,5 +7056,13 @@
    "digerie dude- we grow as one"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090886674825781713"
+ },
+ {
+  "band": "MR",
+  "name": "Joy in the Ground",
+  "triggers": [
+   "joy in the ground"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090891699945865533"
  }
 ]

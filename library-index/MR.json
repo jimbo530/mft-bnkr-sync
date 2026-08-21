@@ -22,14 +22,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079378601695166716"
  },
  {
-  "name": "Joy in the Ground",
-  "triggers": [
-   "joy in the ground"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081535114937323666",
-  "tag": "$MfT"
- },
- {
   "name": "Coast to the Cabinet",
   "triggers": [
    "coast to the cabinet"
@@ -380,6 +372,14 @@
    "work now dance later vid"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090302873049456947",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Joy in the Ground",
+  "triggers": [
+   "joy in the ground"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090891699945865533",
   "tag": "$MfT"
  }
 ]
