@@ -16,14 +16,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Saltwater crown - Jasmine",
-  "triggers": [
-   "saltwater crown - jasmine"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084268118042435775",
-  "tag": "$MfT"
- },
- {
   "name": "Ballinmoore extends its love",
   "triggers": [
    "ballinmoore extends its love"
@@ -1136,6 +1128,14 @@
    "digerie dude- we grow"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090624969528987847",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Saltwater crown - Jasmine",
+  "triggers": [
+   "saltwater crown - jasmine"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090645136308879410",
   "tag": "$MfT"
  }
 ]

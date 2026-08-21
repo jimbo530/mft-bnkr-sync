@@ -3737,14 +3737,6 @@
  },
  {
   "band": "MV",
-  "name": "Saltwater crown - Jasmine",
-  "triggers": [
-   "saltwater crown - jasmine"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084268118042435775"
- },
- {
-  "band": "MV",
   "name": "Ballinmoore extends its love",
   "triggers": [
    "ballinmoore extends its love"
@@ -7040,5 +7032,13 @@
    "(peace in your hands)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090630024139288655"
+ },
+ {
+  "band": "MV",
+  "name": "Saltwater crown - Jasmine",
+  "triggers": [
+   "saltwater crown - jasmine"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090645136308879410"
  }
 ]
