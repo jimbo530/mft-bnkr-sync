@@ -2943,14 +2943,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2083523202911719463"
  },
  {
-  "band": "Myco",
-  "name": "Circular Didgeridoo",
-  "triggers": [
-   "circular didgeridoo"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084630527835779452"
- },
- {
   "band": "EBM",
   "name": "Forest Got Funded",
   "triggers": [
@@ -7040,5 +7032,13 @@
    "guardians on the floor"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090710563034718530"
+ },
+ {
+  "band": "Myco",
+  "name": "Circular Didgeridoo",
+  "triggers": [
+   "circular didgeridoo"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090725693285965916"
  }
 ]
