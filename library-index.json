@@ -3280,14 +3280,6 @@
  },
  {
   "band": "NN",
-  "name": "Power Of A Meme",
-  "triggers": [
-   "power of a meme"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082179352381301028"
- },
- {
-  "band": "NN",
   "name": "Greatness Grows",
   "triggers": [
    "greatness grows"
@@ -7056,5 +7048,13 @@
    "dance until morning"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090811210258067589"
+ },
+ {
+  "band": "NN",
+  "name": "Power Of A Meme",
+  "triggers": [
+   "power of a meme"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090826282783080927"
  }
 ]

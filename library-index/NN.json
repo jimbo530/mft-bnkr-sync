@@ -224,14 +224,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Power Of A Meme",
-  "triggers": [
-   "power of a meme"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082179352381301028",
-  "tag": "$MfT"
- },
- {
   "name": "Greatness Grows",
   "triggers": [
    "greatness grows"
@@ -359,6 +351,14 @@
    "learn to earn"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090549498787385703",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Power Of A Meme",
+  "triggers": [
+   "power of a meme"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090826282783080927",
   "tag": "$MfT"
  }
 ]
