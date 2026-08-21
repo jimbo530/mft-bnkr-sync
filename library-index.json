@@ -3592,14 +3592,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2083422532833583536"
  },
  {
-  "band": "Myco",
-  "name": "Guardians On The Floor",
-  "triggers": [
-   "guardians on the floor"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082239750539207069"
- },
- {
   "band": "JS",
   "name": "Investors of Tomorrow",
   "triggers": [
@@ -7040,5 +7032,13 @@
    "lessons in the ledger"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090705485712302130"
+ },
+ {
+  "band": "Myco",
+  "name": "Guardians On The Floor",
+  "triggers": [
+   "guardians on the floor"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090710563034718530"
  }
 ]
