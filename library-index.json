@@ -2879,14 +2879,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2082300142749716512"
  },
  {
-  "band": "EBM",
-  "name": "Drop The Memes",
-  "triggers": [
-   "drop the memes"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084600268474233062"
- },
- {
   "band": "DD",
   "name": "CARRY THE LIGHT",
   "triggers": [
@@ -7040,5 +7032,13 @@
    "circular didgeridoo"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090725693285965916"
+ },
+ {
+  "band": "EBM",
+  "name": "Drop The Memes",
+  "triggers": [
+   "drop the memes"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090730649783005549"
  }
 ]

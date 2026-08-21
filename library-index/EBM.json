@@ -401,14 +401,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Drop The Memes",
-  "triggers": [
-   "drop the memes"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084600268474233062",
-  "tag": "$MfT"
- },
- {
   "name": "Like, Comment, Share",
   "triggers": [
    "like, comment, share"
@@ -815,6 +807,14 @@
    "elves of ballinmoore — “yucky ducks x tr"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090569601453105413",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Drop The Memes",
+  "triggers": [
+   "drop the memes"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090730649783005549",
   "tag": "$MfT"
  }
 ]
