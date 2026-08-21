@@ -3544,14 +3544,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2084343603854241822"
  },
  {
-  "band": "NN",
-  "name": "1000 Futures",
-  "triggers": [
-   "1000 futures"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084182537157407182"
- },
- {
   "band": "EBM",
   "name": "Elves of Ballinmoore",
   "triggers": [
@@ -7064,5 +7056,13 @@
    "fund the forest"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090866539213791657"
+ },
+ {
+  "band": "NN",
+  "name": "1000 Futures",
+  "triggers": [
+   "1000 futures"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090871570143064206"
  }
 ]
