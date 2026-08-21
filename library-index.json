@@ -5444,14 +5444,6 @@
  },
  {
   "band": "JS",
-  "name": "jony sings decentralize",
-  "triggers": [
-   "jony sings decentralize"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084912359579996264"
- },
- {
-  "band": "JS",
   "name": "jony sings roots and rythm",
   "triggers": [
    "jony sings roots and rythm"
@@ -7040,5 +7032,13 @@
    "jony sings blockchain boogie"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090750826495025461"
+ },
+ {
+  "band": "JS",
+  "name": "jony sings decentralize",
+  "triggers": [
+   "jony sings decentralize"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090765895496781911"
  }
 ]
