@@ -3840,14 +3840,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2082254808174502340"
  },
  {
-  "band": "MV",
-  "name": "Joy that stays",
-  "triggers": [
-   "joy that stays"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082139053546254829"
- },
- {
   "band": "EBM",
   "name": "Grove Report — Jun 18, 2026",
   "triggers": [
@@ -7080,5 +7072,13 @@
    "every morning, mic hot"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090931971744485559"
+ },
+ {
+  "band": "MV",
+  "name": "Joy that stays",
+  "triggers": [
+   "joy that stays"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090947074544079304"
  }
 ]

@@ -176,14 +176,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Joy that stays",
-  "triggers": [
-   "joy that stays"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082139053546254829",
-  "tag": "$MfT"
- },
- {
   "name": "Thousand Year Plan",
   "triggers": [
    "thousand year plan"
@@ -1152,6 +1144,14 @@
    "digerie dude- we grow as one"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090886674825781713",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Joy that stays",
+  "triggers": [
+   "joy that stays"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090947074544079304",
   "tag": "$MfT"
  }
 ]
