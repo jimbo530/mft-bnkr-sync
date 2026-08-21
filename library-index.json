@@ -4940,14 +4940,6 @@
  },
  {
   "band": "Myco",
-  "name": "Every Morning, Mic Hot",
-  "triggers": [
-   "every morning, mic hot"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083316840088904067"
- },
- {
-  "band": "Myco",
   "name": "After the Winter Comes",
   "triggers": [
    "after the winter comes"
@@ -7080,5 +7072,13 @@
    "jony it carries 2"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090926940739735590"
+ },
+ {
+  "band": "Myco",
+  "name": "Every Morning, Mic Hot",
+  "triggers": [
+   "every morning, mic hot"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090931971744485559"
  }
 ]
