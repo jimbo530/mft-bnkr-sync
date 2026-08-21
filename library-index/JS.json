@@ -699,5 +699,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090846449130950754",
   "tag": "$MfT"
+ },
+ {
+  "name": "Jony Sings, Mangrove",
+  "triggers": [
+   "jony sings, mangrove"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090906807594094658",
+  "tag": "$MfT"
  }
 ]
