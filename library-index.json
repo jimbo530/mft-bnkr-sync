@@ -2967,14 +2967,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2083482905989226821"
  },
  {
-  "band": "DD",
-  "name": "Communities",
-  "triggers": [
-   "communities"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083578563324743749"
- },
- {
   "band": "Myco",
   "name": "(🎧 “Thanks for Being Here”) (1)",
   "triggers": [
@@ -7048,5 +7040,13 @@
    "impact flywheel"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090786023902978384"
+ },
+ {
+  "band": "DD",
+  "name": "Communities",
+  "triggers": [
+   "communities"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090791089015800299"
  }
 ]
