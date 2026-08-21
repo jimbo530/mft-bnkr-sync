@@ -6568,19 +6568,6 @@
     "caption": "🎵 \"test-Mutiny-titled\" — Elves of Ballinmoore\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2082279964905287883",
-    "translation": "Digerie Dude- We grow As one",
-    "name": "Digerie Dude- We grow As one",
-    "triggers": [
-      "digerie dude- we grow as one"
-    ],
-    "band": "MV",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2082279964905287883",
-    "caption": "🎵 \"Digerie Dude- We grow As one\"\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2081852165904076956",
     "translation": "Digerie Dude - Resilient Rain Plant a Tree",
     "name": "Digerie Dude - Resilient Rain Plant a Tree",
@@ -11402,5 +11389,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2090871570143064206",
     "caption": "\"1000 Futures\" — Natilie Nightclub\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2090886674825781713",
+    "translation": "Digerie Dude- We grow As one",
+    "name": "Digerie Dude- We grow As one",
+    "triggers": [
+      "digerie dude- we grow as one"
+    ],
+    "band": "MV",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2090886674825781713",
+    "caption": "\"Digerie Dude- We grow As one\"\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

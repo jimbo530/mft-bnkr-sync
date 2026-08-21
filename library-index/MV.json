@@ -320,14 +320,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Digerie Dude- We grow As one",
-  "triggers": [
-   "digerie dude- we grow as one"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082279964905287883",
-  "tag": "$MfT"
- },
- {
   "name": "Digerie Dude - Resilient Rain Plant a Tree",
   "triggers": [
    "digerie dude - resilient rain plant a tree"
@@ -1152,6 +1144,14 @@
    "fund the forest"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090866539213791657",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Digerie Dude- We grow As one",
+  "triggers": [
+   "digerie dude- we grow as one"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090886674825781713",
   "tag": "$MfT"
  }
 ]
