@@ -3737,14 +3737,6 @@
  },
  {
   "band": "MV",
-  "name": "Fund The Forest",
-  "triggers": [
-   "fund the forest"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083457761115877408"
- },
- {
-  "band": "MV",
   "name": "BASE Scrolls 21626",
   "triggers": [
    "base scrolls 21626"
@@ -7064,5 +7056,13 @@
    "magic today"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090851490357211636"
+ },
+ {
+  "band": "MV",
+  "name": "Fund The Forest",
+  "triggers": [
+   "fund the forest"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090866539213791657"
  }
 ]
