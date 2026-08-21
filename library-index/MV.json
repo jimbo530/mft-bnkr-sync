@@ -280,14 +280,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "J&N make today count",
-  "triggers": [
-   "j&n make today count"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083437637658931438",
-  "tag": "$MfT"
- },
- {
   "name": "carry the light, G.O.A.T.",
   "triggers": [
    "carry the light, g.o.a.t."
@@ -1136,6 +1128,14 @@
    "saltwater crown - jasmine"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090645136308879410",
+  "tag": "$MfT"
+ },
+ {
+  "name": "J&N make today count",
+  "triggers": [
+   "j&n make today count"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090650178441064451",
   "tag": "$MfT"
  }
 ]

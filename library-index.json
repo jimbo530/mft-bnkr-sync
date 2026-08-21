@@ -4104,14 +4104,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2082400838102778224"
  },
  {
-  "band": "MV",
-  "name": "J&N make today count",
-  "triggers": [
-   "j&n make today count"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083437637658931438"
- },
- {
   "band": "CB",
   "name": "Block by Block",
   "triggers": [
@@ -7040,5 +7032,13 @@
    "saltwater crown - jasmine"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090645136308879410"
+ },
+ {
+  "band": "MV",
+  "name": "J&N make today count",
+  "triggers": [
+   "j&n make today count"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090650178441064451"
  }
 ]
