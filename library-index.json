@@ -3184,14 +3184,6 @@
  },
  {
   "band": "JS",
-  "name": "Roots And Rhythm",
-  "triggers": [
-   "roots and rhythm"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083885573362565166"
- },
- {
-  "band": "JS",
   "name": "Circulate Good",
   "triggers": [
    "circulate good"
@@ -7064,5 +7056,13 @@
    "ebm - together we grow cb"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090831329738842589"
+ },
+ {
+  "band": "JS",
+  "name": "Roots And Rhythm",
+  "triggers": [
+   "roots and rhythm"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090846449130950754"
  }
 ]
