@@ -5092,14 +5092,6 @@
  },
  {
   "band": "Myco",
-  "name": "Liquidity Rain",
-  "triggers": [
-   "liquidity rain"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081857238080110769"
- },
- {
-  "band": "Myco",
   "name": "After the Winter Comes",
   "triggers": [
    "after the winter comes"
@@ -7040,5 +7032,13 @@
    "j&n make today count"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090650178441064451"
+ },
+ {
+  "band": "Myco",
+  "name": "Liquidity Rain",
+  "triggers": [
+   "liquidity rain"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090665225401819456"
  }
 ]

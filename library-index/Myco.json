@@ -495,14 +495,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Liquidity Rain",
-  "triggers": [
-   "liquidity rain"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081857238080110769",
-  "tag": "$MfT"
- },
- {
   "name": "After the Winter Comes",
   "triggers": [
    "after the winter comes"
@@ -741,6 +733,14 @@
    "proof of good"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090529373921165500",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Liquidity Rain",
+  "triggers": [
+   "liquidity rain"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090665225401819456",
   "tag": "$MfT"
  }
 ]
