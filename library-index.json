@@ -4201,14 +4201,6 @@
  },
  {
   "band": "CB",
-  "name": "BASE BASE BASE",
-  "triggers": [
-   "base base base"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082335380045476160"
- },
- {
-  "band": "CB",
   "name": "Proof of Freedom",
   "triggers": [
    "proof of freedom"
@@ -7040,5 +7032,13 @@
    "liquidity rain"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090665225401819456"
+ },
+ {
+  "band": "CB",
+  "name": "BASE BASE BASE",
+  "triggers": [
+   "base base base"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090670296613167130"
  }
 ]
