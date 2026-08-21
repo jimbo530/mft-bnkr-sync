@@ -2632,14 +2632,6 @@
  },
  {
   "band": "Myco",
-  "name": "Magic Today",
-  "triggers": [
-   "magic today"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085174072187433153"
- },
- {
-  "band": "Myco",
   "name": "Forge the Future",
   "triggers": [
    "forge the future"
@@ -7064,5 +7056,13 @@
    "roots and rhythm"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090846449130950754"
+ },
+ {
+  "band": "Myco",
+  "name": "Magic Today",
+  "triggers": [
+   "magic today"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090851490357211636"
  }
 ]

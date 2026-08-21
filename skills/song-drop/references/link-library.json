@@ -4214,19 +4214,6 @@
     "caption": "🎵 \"Open Mic Internet\" — Digerie Dude\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2085174072187433153",
-    "translation": "Magic Today",
-    "name": "Magic Today",
-    "triggers": [
-      "magic today"
-    ],
-    "band": "Myco",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2085174072187433153",
-    "caption": "🎵 \"Magic Today\" — Myco\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2083664121870839847",
     "translation": "Forge the Future",
     "name": "Forge the Future",
@@ -11402,5 +11389,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2090846449130950754",
     "caption": "\"Roots And Rhythm\" — Jony Sings\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2090851490357211636",
+    "translation": "Magic Today",
+    "name": "Magic Today",
+    "triggers": [
+      "magic today"
+    ],
+    "band": "Myco",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2090851490357211636",
+    "caption": "\"Magic Today\" — Myco\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
