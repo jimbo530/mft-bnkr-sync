@@ -2959,14 +2959,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2081912570055651791"
  },
  {
-  "band": "Myco",
-  "name": "Seeds To Save Humanity",
-  "triggers": [
-   "seeds to save humanity"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083357115276513639"
- },
- {
   "band": "EBM",
   "name": "All-Time High",
   "triggers": [
@@ -7040,5 +7032,13 @@
    "drop the memes"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090730649783005549"
+ },
+ {
+  "band": "Myco",
+  "name": "Seeds To Save Humanity",
+  "triggers": [
+   "seeds to save humanity"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090745802507383220"
  }
 ]

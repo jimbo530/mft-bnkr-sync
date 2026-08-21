@@ -351,14 +351,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Seeds To Save Humanity",
-  "triggers": [
-   "seeds to save humanity"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083357115276513639",
-  "tag": "$MfT"
- },
- {
   "name": "(🎧 “Thanks for Being Here”) (1)",
   "triggers": [
    "(🎧 “thanks for being here”) (1)"
@@ -741,6 +733,14 @@
    "circular didgeridoo"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090725693285965916",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Seeds To Save Humanity",
+  "triggers": [
+   "seeds to save humanity"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090745802507383220",
   "tag": "$MfT"
  }
 ]
