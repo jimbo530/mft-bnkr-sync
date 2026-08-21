@@ -5460,14 +5460,6 @@
  },
  {
   "band": "JS",
-  "name": "jony sings blockchain boogie",
-  "triggers": [
-   "jony sings blockchain boogie"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084972720442204219"
- },
- {
-  "band": "JS",
   "name": "Jony Sings, keep dancing",
   "triggers": [
    "jony sings, keep dancing"
@@ -7040,5 +7032,13 @@
    "seeds to save humanity"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090745802507383220"
+ },
+ {
+  "band": "JS",
+  "name": "jony sings blockchain boogie",
+  "triggers": [
+   "jony sings blockchain boogie"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090750826495025461"
  }
 ]
