@@ -224,14 +224,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Greatness Grows",
-  "triggers": [
-   "greatness grows"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085053285354938842",
-  "tag": "$MfT"
- },
- {
   "name": "Grow Greatness",
   "triggers": [
    "grow greatness"
@@ -359,6 +351,14 @@
    "1000 futures"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090871570143064206",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Greatness Grows",
+  "triggers": [
+   "greatness grows"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091072893375373614",
   "tag": "$MfT"
  }
 ]

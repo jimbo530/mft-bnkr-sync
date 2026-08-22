@@ -3223,14 +3223,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2084066746437144843"
  },
  {
-  "band": "NN",
-  "name": "Greatness Grows",
-  "triggers": [
-   "greatness grows"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085053285354938842"
- },
- {
   "band": "JS",
   "name": "Party God",
   "triggers": [
@@ -7096,5 +7088,13 @@
    "natalie greatness grows"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091067908239597969"
+ },
+ {
+  "band": "NN",
+  "name": "Greatness Grows",
+  "triggers": [
+   "greatness grows"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091072893375373614"
  }
 ]
