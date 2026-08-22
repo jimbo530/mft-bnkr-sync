@@ -1161,5 +1161,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090992407382745332",
   "tag": "$MfT"
+ },
+ {
+  "name": "EBM - Meme to Green",
+  "triggers": [
+   "ebm - meme to green"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091007472811016302",
+  "tag": "$MfT"
  }
 ]
