@@ -244,14 +244,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Money With a Soul",
-  "triggers": [
-   "money with a soul"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082662480673726869",
-  "tag": "$MfT"
- },
- {
   "name": "Welcome To The Show",
   "triggers": [
    "welcome to the show"
@@ -714,6 +706,14 @@
    "living it up"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091027647551692896",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Money With a Soul",
+  "triggers": [
+   "money with a soul"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091052774179872792",
   "tag": "$MfT"
  }
 ]

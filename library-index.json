@@ -3192,14 +3192,6 @@
  },
  {
   "band": "JS",
-  "name": "Money With a Soul",
-  "triggers": [
-   "money with a soul"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082662480673726869"
- },
- {
-  "band": "JS",
   "name": "Welcome To The Show",
   "triggers": [
    "welcome to the show"
@@ -7096,5 +7088,13 @@
    "j&n every day is an opportunity."
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091047734065123600"
+ },
+ {
+  "band": "JS",
+  "name": "Money With a Soul",
+  "triggers": [
+   "money with a soul"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091052774179872792"
  }
 ]
