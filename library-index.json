@@ -3000,14 +3000,6 @@
  },
  {
   "band": "EBM",
-  "name": "ELVES OF BALLINMOORE — “TREES UP, BAGS U",
-  "triggers": [
-   "elves of ballinmoore — “trees up, bags u"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082717889761558548"
- },
- {
-  "band": "EBM",
   "name": "Ballinmoore Bounce",
   "triggers": [
    "ballinmoore bounce"
@@ -7096,5 +7088,13 @@
    "treegens do what you please for the trees"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091233973464625212"
+ },
+ {
+  "band": "EBM",
+  "name": "ELVES OF BALLINMOORE — “TREES UP, BAGS U",
+  "triggers": [
+   "elves of ballinmoore — “trees up, bags u"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091249055166759350"
  }
 ]

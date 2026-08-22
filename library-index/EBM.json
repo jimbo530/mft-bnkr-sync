@@ -489,14 +489,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "ELVES OF BALLINMOORE — “TREES UP, BAGS U",
-  "triggers": [
-   "elves of ballinmoore — “trees up, bags u"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082717889761558548",
-  "tag": "$MfT"
- },
- {
   "name": "Ballinmoore Bounce",
   "triggers": [
    "ballinmoore bounce"
@@ -815,6 +807,14 @@
    "diamond hands endure"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091168563105067282",
+  "tag": "$MfT"
+ },
+ {
+  "name": "ELVES OF BALLINMOORE — “TREES UP, BAGS U",
+  "triggers": [
+   "elves of ballinmoore — “trees up, bags u"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091249055166759350",
   "tag": "$MfT"
  }
 ]
