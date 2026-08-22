@@ -1169,5 +1169,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091233973464625212",
   "tag": "$MfT"
+ },
+ {
+  "name": "EBM- Trees up Bags Up.",
+  "triggers": [
+   "ebm- trees up bags up."
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091269229584482676",
+  "tag": "$MfT"
  }
 ]
