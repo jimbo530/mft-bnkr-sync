@@ -3809,14 +3809,6 @@
  },
  {
   "band": "MV",
-  "name": "carry the light, G.O.A.T.",
-  "triggers": [
-   "carry the light, g.o.a.t."
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082602127352856804"
- },
- {
-  "band": "MV",
   "name": "Digerie Dude - Pulse of the Forest",
   "triggers": [
    "digerie dude - pulse of the forest"
@@ -7104,5 +7096,13 @@
    "growalition"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091289324822102107"
+ },
+ {
+  "band": "MV",
+  "name": "carry the light, G.O.A.T.",
+  "triggers": [
+   "carry the light, g.o.a.t."
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091294392510259616"
  }
 ]
