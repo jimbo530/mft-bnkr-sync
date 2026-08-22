@@ -2695,14 +2695,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2053354383186755742"
  },
  {
-  "band": "DD",
-  "name": "Digeri Dude - I endure",
-  "triggers": [
-   "digeri dude - i endure"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083221177997172923"
- },
- {
   "band": "EBM",
   "name": "You Can’t Stop The Meme",
   "triggers": [
@@ -7096,5 +7088,13 @@
    "digerie dude - community"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091133301331214842"
+ },
+ {
+  "band": "DD",
+  "name": "Digeri Dude - I endure",
+  "triggers": [
+   "digeri dude - i endure"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091148429443387416"
  }
 ]

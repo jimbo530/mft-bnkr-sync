@@ -246,14 +246,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Digeri Dude - I endure",
-  "triggers": [
-   "digeri dude - i endure"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083221177997172923",
-  "tag": "$MfT"
- },
- {
   "name": "Open Roads",
   "triggers": [
    "open roads"
@@ -460,6 +452,14 @@
    "carry the seed"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091113155480932413",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Digeri Dude - I endure",
+  "triggers": [
+   "digeri dude - i endure"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091148429443387416",
   "tag": "$MfT"
  }
 ]
