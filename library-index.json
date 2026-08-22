@@ -753,14 +753,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2081343795698794783"
  },
  {
-  "band": "DD",
-  "name": "Carry the Seed",
-  "triggers": [
-   "carry the seed"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081358939073970550"
- },
- {
   "band": "EBM",
   "name": "Eternal Harvest",
   "triggers": [
@@ -7096,5 +7088,13 @@
    "elves of ballinmoore — “internet roots"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091108129027096861"
+ },
+ {
+  "band": "DD",
+  "name": "Carry the Seed",
+  "triggers": [
+   "carry the seed"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091113155480932413"
  }
 ]

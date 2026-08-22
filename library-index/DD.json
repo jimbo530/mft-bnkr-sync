@@ -28,14 +28,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079568304016900141"
  },
  {
-  "name": "Carry the Seed",
-  "triggers": [
-   "carry the seed"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081358939073970550",
-  "tag": "$MfT"
- },
- {
   "name": "Kind Folk (In the Strangest Places)",
   "triggers": [
    "kind folk",
@@ -460,6 +452,14 @@
    "creator economy"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090967207647891958",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Carry the Seed",
+  "triggers": [
+   "carry the seed"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091113155480932413",
   "tag": "$MfT"
  }
 ]
