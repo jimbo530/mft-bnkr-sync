@@ -2639,14 +2639,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2084736234178367597"
  },
  {
-  "band": "Myco",
-  "name": "Hero For Being Here",
-  "triggers": [
-   "hero for being here"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082536694780174803"
- },
- {
   "band": "EBM",
   "name": "Day To Build The Dream",
   "triggers": [
@@ -7096,5 +7088,13 @@
    "digeri dude - i endure"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091148429443387416"
+ },
+ {
+  "band": "Myco",
+  "name": "Hero For Being Here",
+  "triggers": [
+   "hero for being here"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091153470401192316"
  }
 ]

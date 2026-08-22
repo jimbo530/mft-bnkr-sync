@@ -231,14 +231,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Hero For Being Here",
-  "triggers": [
-   "hero for being here"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082536694780174803",
-  "tag": "$MfT"
- },
- {
   "name": "We All Are One",
   "triggers": [
    "we all are one"
@@ -741,6 +733,14 @@
    "every morning, mic hot"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090931971744485559",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Hero For Being Here",
+  "triggers": [
+   "hero for being here"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091153470401192316",
   "tag": "$MfT"
  }
 ]
