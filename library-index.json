@@ -745,14 +745,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2081323667925897710"
  },
  {
-  "band": "NN",
-  "name": "Toast to the Trees",
-  "triggers": [
-   "toast to the trees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081338762299142147"
- },
- {
   "band": "EBM",
   "name": "A Billion Strong",
   "triggers": [
@@ -7096,5 +7088,13 @@
    "greatness grows"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091072893375373614"
+ },
+ {
+  "band": "NN",
+  "name": "Toast to the Trees",
+  "triggers": [
+   "toast to the trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091087992781668448"
  }
 ]

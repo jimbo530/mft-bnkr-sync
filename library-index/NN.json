@@ -48,14 +48,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079545861537771528"
  },
  {
-  "name": "Toast to the Trees",
-  "triggers": [
-   "toast to the trees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081338762299142147",
-  "tag": "$MfT"
- },
- {
   "name": "New Address",
   "triggers": [
    "new address"
@@ -359,6 +351,14 @@
    "greatness grows"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091072893375373614",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Toast to the Trees",
+  "triggers": [
+   "toast to the trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091087992781668448",
   "tag": "$MfT"
  }
 ]
