@@ -271,14 +271,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Dancing On The Line",
-  "triggers": [
-   "dancing on the line"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083543334862119229",
-  "tag": "$MfT"
- },
- {
   "name": "Mean Green Meme Machine",
   "triggers": [
    "mean green meme machine"
@@ -741,6 +733,14 @@
    "hero for being here"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091153470401192316",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Dancing On The Line",
+  "triggers": [
+   "dancing on the line"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091173600522875079",
   "tag": "$MfT"
  }
 ]
