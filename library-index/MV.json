@@ -569,14 +569,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "If it was easy",
-  "triggers": [
-   "if it was easy"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083744652801323430",
-  "tag": "$MfT"
- },
- {
   "name": "Marc on base burger boys",
   "triggers": [
    "marc on base burger boys"
@@ -1168,6 +1160,14 @@
    "digerie dude - community"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091133301331214842",
+  "tag": "$MfT"
+ },
+ {
+  "name": "If it was easy",
+  "triggers": [
+   "if it was easy"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091193695903068615",
   "tag": "$MfT"
  }
 ]

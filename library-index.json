@@ -4282,14 +4282,6 @@
  },
  {
   "band": "MV",
-  "name": "If it was easy",
-  "triggers": [
-   "if it was easy"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083744652801323430"
- },
- {
-  "band": "MV",
   "name": "Marc on base burger boys",
   "triggers": [
    "marc on base burger boys"
@@ -7096,5 +7088,13 @@
    "carry the light"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091188695109968273"
+ },
+ {
+  "band": "MV",
+  "name": "If it was easy",
+  "triggers": [
+   "if it was easy"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091193695903068615"
  }
 ]
