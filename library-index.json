@@ -3304,14 +3304,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2084585185140498836"
  },
  {
-  "band": "EBM",
-  "name": "ELVES OF BALLINMOORE — “LIGHT LOAD, LIVI",
-  "triggers": [
-   "elves of ballinmoore — “light load, livi"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084288213439451360"
- },
- {
   "band": "MR",
   "name": "Green Hearts Strong Feet",
   "triggers": [
@@ -7104,5 +7096,13 @@
    "ebm- trees up bags up."
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091269229584482676"
+ },
+ {
+  "band": "EBM",
+  "name": "ELVES OF BALLINMOORE — “LIGHT LOAD, LIVI",
+  "triggers": [
+   "elves of ballinmoore — “light load, livi"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091274268348711412"
  }
 ]
