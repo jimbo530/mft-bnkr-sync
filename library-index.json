@@ -4346,14 +4346,6 @@
  },
  {
   "band": "MV",
-  "name": "Forests For The Future",
-  "triggers": [
-   "forests for the future"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083618785433469004"
- },
- {
-  "band": "MV",
   "name": "treegens do what you please for the trees",
   "triggers": [
    "treegens do what you please for the trees"
@@ -7096,5 +7088,13 @@
    "toast to the trees"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091087992781668448"
+ },
+ {
+  "band": "MV",
+  "name": "Forests For The Future",
+  "triggers": [
+   "forests for the future"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091093068124406170"
  }
 ]
