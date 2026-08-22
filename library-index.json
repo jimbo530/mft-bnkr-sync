@@ -3273,14 +3273,6 @@
  },
  {
   "band": "JS",
-  "name": "You Can Keep The Crowns",
-  "triggers": [
-   "you can keep the crowns"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084992884315488541"
- },
- {
-  "band": "JS",
   "name": "Jaguars",
   "triggers": [
    "jaguars"
@@ -7096,5 +7088,13 @@
    "digerie dude - working in the night"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091208790926410219"
+ },
+ {
+  "band": "JS",
+  "name": "You Can Keep The Crowns",
+  "triggers": [
+   "you can keep the crowns"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091213858044043408"
  }
 ]

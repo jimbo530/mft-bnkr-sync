@@ -316,14 +316,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "You Can Keep The Crowns",
-  "triggers": [
-   "you can keep the crowns"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084992884315488541",
-  "tag": "$MfT"
- },
- {
   "name": "Jaguars",
   "triggers": [
    "jaguars"
@@ -714,6 +706,14 @@
    "money with a soul"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091052774179872792",
+  "tag": "$MfT"
+ },
+ {
+  "name": "You Can Keep The Crowns",
+  "triggers": [
+   "you can keep the crowns"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091213858044043408",
   "tag": "$MfT"
  }
 ]

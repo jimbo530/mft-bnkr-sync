@@ -5255,19 +5255,6 @@
     "caption": "🎵 \"You Dont Know\" — Jony Sings\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2084992884315488541",
-    "translation": "You Can Keep The Crowns",
-    "name": "You Can Keep The Crowns",
-    "triggers": [
-      "you can keep the crowns"
-    ],
-    "band": "JS",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2084992884315488541",
-    "caption": "🎵 \"You Can Keep The Crowns\" — Jony Sings\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2081932686428356624",
     "translation": "Jaguars",
     "name": "Jaguars",
@@ -11454,5 +11441,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2091208790926410219",
     "caption": "\"Digerie Dude - Working in the night\"\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2091213858044043408",
+    "translation": "You Can Keep The Crowns",
+    "name": "You Can Keep The Crowns",
+    "triggers": [
+      "you can keep the crowns"
+    ],
+    "band": "JS",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2091213858044043408",
+    "caption": "\"You Can Keep The Crowns\" — Jony Sings\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
