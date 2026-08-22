@@ -3424,14 +3424,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2084695901667213702"
  },
  {
-  "band": "EBM",
-  "name": "ELVES OF BALLINMOORE — “DIAMOND HAND THE",
-  "triggers": [
-   "elves of ballinmoore — “diamond hand the"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081595481965187232"
- },
- {
   "band": "JS",
   "name": "Un Rugables",
   "triggers": [
@@ -7096,5 +7088,13 @@
    "carry the seed"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091113155480932413"
+ },
+ {
+  "band": "EBM",
+  "name": "ELVES OF BALLINMOORE — “DIAMOND HAND THE",
+  "triggers": [
+   "elves of ballinmoore — “diamond hand the"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091128266610417942"
  }
 ]

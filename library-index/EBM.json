@@ -577,14 +577,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "ELVES OF BALLINMOORE — “DIAMOND HAND THE",
-  "triggers": [
-   "elves of ballinmoore — “diamond hand the"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081595481965187232",
-  "tag": "$MfT"
- },
- {
   "name": "ELVES OF BALLINMOORE — “BASE BASE BASE”",
   "triggers": [
    "elves of ballinmoore — “base base base”"
@@ -815,6 +807,14 @@
    "elves of ballinmoore — “internet roots"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091108129027096861",
+  "tag": "$MfT"
+ },
+ {
+  "name": "ELVES OF BALLINMOORE — “DIAMOND HAND THE",
+  "triggers": [
+   "elves of ballinmoore — “diamond hand the"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091128266610417942",
   "tag": "$MfT"
  }
 ]
