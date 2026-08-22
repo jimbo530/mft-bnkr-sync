@@ -714,14 +714,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Natalie greatness grows",
-  "triggers": [
-   "natalie greatness grows"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082778244093231546",
-  "tag": "$MfT"
- },
- {
   "name": "Trees up Bags Up.",
   "triggers": [
    "trees up bags up."
@@ -1168,6 +1160,14 @@
    "j&n every day is an opportunity."
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091047734065123600",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Natalie greatness grows",
+  "triggers": [
+   "natalie greatness grows"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091067908239597969",
   "tag": "$MfT"
  }
 ]

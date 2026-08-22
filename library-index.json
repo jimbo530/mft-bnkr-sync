@@ -4514,14 +4514,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2084006362028167333"
  },
  {
-  "band": "MV",
-  "name": "Natalie greatness grows",
-  "triggers": [
-   "natalie greatness grows"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082778244093231546"
- },
- {
   "band": "CB",
   "name": "Together we grow CB",
   "triggers": [
@@ -7096,5 +7088,13 @@
    "money with a soul"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091052774179872792"
+ },
+ {
+  "band": "MV",
+  "name": "Natalie greatness grows",
+  "triggers": [
+   "natalie greatness grows"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091067908239597969"
  }
 ]
