@@ -286,14 +286,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Creator Economy",
-  "triggers": [
-   "creator economy"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082300142749716512",
-  "tag": "$MfT"
- },
- {
   "name": "CARRY THE LIGHT",
   "triggers": [
    "carry the light"
@@ -460,6 +452,14 @@
    "(quiet revolution of love)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090952102348460160",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Creator Economy",
+  "triggers": [
+   "creator economy"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090967207647891958",
   "tag": "$MfT"
  }
 ]
