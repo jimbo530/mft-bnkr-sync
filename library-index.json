@@ -3040,14 +3040,6 @@
  },
  {
   "band": "EBM",
-  "name": "ELVES OF BALLINMOORE — “POUND BY POUND”",
-  "triggers": [
-   "elves of ballinmoore — “pound by pound”"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082702790632047063"
- },
- {
-  "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “PRESS IT, BLESS",
   "triggers": [
    "elves of ballinmoore — “press it, bless"
@@ -7080,5 +7072,13 @@
    "creator economy"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090967207647891958"
+ },
+ {
+  "band": "EBM",
+  "name": "ELVES OF BALLINMOORE — “POUND BY POUND”",
+  "triggers": [
+   "elves of ballinmoore — “pound by pound”"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090972238132453798"
  }
 ]
