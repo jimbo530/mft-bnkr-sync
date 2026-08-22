@@ -3696,14 +3696,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088636901527789698"
  },
  {
-  "band": "MV",
-  "name": "growalition",
-  "triggers": [
-   "growalition"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084046664264716493"
- },
- {
   "band": "CB",
   "name": "Future is Here",
   "triggers": [
@@ -7104,5 +7096,13 @@
    "elves of ballinmoore — “light load, livi"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091274268348711412"
+ },
+ {
+  "band": "MV",
+  "name": "growalition",
+  "triggers": [
+   "growalition"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091289324822102107"
  }
 ]
