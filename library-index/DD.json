@@ -262,14 +262,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "(QUIET REVOLUTION OF LOVE)",
-  "triggers": [
-   "(quiet revolution of love)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2061689293144252490",
-  "tag": "$MfT"
- },
- {
   "name": "Open Roads",
   "triggers": [
    "open roads"
@@ -460,6 +452,14 @@
    "communities"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090791089015800299",
+  "tag": "$MfT"
+ },
+ {
+  "name": "(QUIET REVOLUTION OF LOVE)",
+  "triggers": [
+   "(quiet revolution of love)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090952102348460160",
   "tag": "$MfT"
  }
 ]

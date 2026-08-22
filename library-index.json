@@ -2719,14 +2719,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2083221177997172923"
  },
  {
-  "band": "DD",
-  "name": "(QUIET REVOLUTION OF LOVE)",
-  "triggers": [
-   "(quiet revolution of love)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2061689293144252490"
- },
- {
   "band": "EBM",
   "name": "You Can’t Stop The Meme",
   "triggers": [
@@ -7080,5 +7072,13 @@
    "joy that stays"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090947074544079304"
+ },
+ {
+  "band": "DD",
+  "name": "(QUIET REVOLUTION OF LOVE)",
+  "triggers": [
+   "(quiet revolution of love)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090952102348460160"
  }
 ]
