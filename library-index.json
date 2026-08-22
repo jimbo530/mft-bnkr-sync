@@ -3297,14 +3297,6 @@
  },
  {
   "band": "MR",
-  "name": "Shade For Tomorrow",
-  "triggers": [
-   "shade for tomorrow"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084585185140498836"
- },
- {
-  "band": "MR",
   "name": "Green Hearts Strong Feet",
   "triggers": [
    "green hearts strong feet"
@@ -7104,5 +7096,13 @@
    "carry the light, g.o.a.t."
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091294392510259616"
+ },
+ {
+  "band": "MR",
+  "name": "Shade For Tomorrow",
+  "triggers": [
+   "shade for tomorrow"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091309485801222527"
  }
 ]

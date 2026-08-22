@@ -254,14 +254,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Shade For Tomorrow",
-  "triggers": [
-   "shade for tomorrow"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084585185140498836",
-  "tag": "$MfT"
- },
- {
   "name": "Green Hearts Strong Feet",
   "triggers": [
    "green hearts strong feet"
@@ -380,6 +372,14 @@
    "joy in the ground"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090891699945865533",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Shade For Tomorrow",
+  "triggers": [
+   "shade for tomorrow"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091309485801222527",
   "tag": "$MfT"
  }
 ]
