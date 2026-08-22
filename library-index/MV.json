@@ -553,14 +553,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "treegens do what you please for the trees",
-  "triggers": [
-   "treegens do what you please for the trees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081615625802125728",
-  "tag": "$MfT"
- },
- {
   "name": "Marc on base burger boys",
   "triggers": [
    "marc on base burger boys"
@@ -1168,6 +1160,14 @@
    "digerie dude - working in the night"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091208790926410219",
+  "tag": "$MfT"
+ },
+ {
+  "name": "treegens do what you please for the trees",
+  "triggers": [
+   "treegens do what you please for the trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091233973464625212",
   "tag": "$MfT"
  }
 ]

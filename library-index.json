@@ -4250,14 +4250,6 @@
  },
  {
   "band": "MV",
-  "name": "treegens do what you please for the trees",
-  "triggers": [
-   "treegens do what you please for the trees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081615625802125728"
- },
- {
-  "band": "MV",
   "name": "Marc on base burger boys",
   "triggers": [
    "marc on base burger boys"
@@ -7096,5 +7088,13 @@
    "(roots that hold us)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091228915880632643"
+ },
+ {
+  "band": "MV",
+  "name": "treegens do what you please for the trees",
+  "triggers": [
+   "treegens do what you please for the trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091233973464625212"
  }
 ]
