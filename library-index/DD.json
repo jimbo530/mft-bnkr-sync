@@ -262,14 +262,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "(ROOTS THAT HOLD US)",
-  "triggers": [
-   "(roots that hold us)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084952615733850203",
-  "tag": "$MfT"
- },
- {
   "name": "Permanent",
   "triggers": [
    "permanent"
@@ -460,6 +452,14 @@
    "carry the light"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091188695109968273",
+  "tag": "$MfT"
+ },
+ {
+  "name": "(ROOTS THAT HOLD US)",
+  "triggers": [
+   "(roots that hold us)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091228915880632643",
   "tag": "$MfT"
  }
 ]

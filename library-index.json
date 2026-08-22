@@ -2775,14 +2775,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2082355501694665140"
  },
  {
-  "band": "DD",
-  "name": "(ROOTS THAT HOLD US)",
-  "triggers": [
-   "(roots that hold us)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084952615733850203"
- },
- {
   "band": "EBM",
   "name": "“FROM MEMES TO MANGROVES” (1)",
   "triggers": [
@@ -7096,5 +7088,13 @@
    "you can keep the crowns"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091213858044043408"
+ },
+ {
+  "band": "DD",
+  "name": "(ROOTS THAT HOLD US)",
+  "triggers": [
+   "(roots that hold us)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091228915880632643"
  }
 ]

@@ -4448,19 +4448,6 @@
     "caption": "🎵 \"Title “Scared Money Can’t Win”\" — Digerie Dude\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2084952615733850203",
-    "translation": "(ROOTS THAT HOLD US)",
-    "name": "(ROOTS THAT HOLD US)",
-    "triggers": [
-      "(roots that hold us)"
-    ],
-    "band": "DD",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2084952615733850203",
-    "caption": "🎵 \"(ROOTS THAT HOLD US)\" — Digerie Dude\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2055543795433832845",
     "translation": "“FROM MEMES TO MANGROVES” (1)",
     "name": "“FROM MEMES TO MANGROVES” (1)",
@@ -11454,5 +11441,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2091213858044043408",
     "caption": "\"You Can Keep The Crowns\" — Jony Sings\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2091228915880632643",
+    "translation": "(ROOTS THAT HOLD US)",
+    "name": "(ROOTS THAT HOLD US)",
+    "triggers": [
+      "(roots that hold us)"
+    ],
+    "band": "DD",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2091228915880632643",
+    "caption": "\"(ROOTS THAT HOLD US)\" — Digerie Dude\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
