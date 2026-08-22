@@ -3585,14 +3585,6 @@
  },
  {
   "band": "MV",
-  "name": "Digerie Dude - Community",
-  "triggers": [
-   "digerie dude - community"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082576920827335092"
- },
- {
-  "band": "MV",
   "name": "jony sings blockchain boogie",
   "triggers": [
    "jony sings blockchain boogie"
@@ -7096,5 +7088,13 @@
    "elves of ballinmoore — “diamond hand the"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091128266610417942"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Community",
+  "triggers": [
+   "digerie dude - community"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091133301331214842"
  }
 ]

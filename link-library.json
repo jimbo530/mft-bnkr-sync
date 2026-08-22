@@ -5762,19 +5762,6 @@
     "caption": "🎵 \"BASE is for Builders\" — CB\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2082576920827335092",
-    "translation": "Digerie Dude - Community",
-    "name": "Digerie Dude - Community",
-    "triggers": [
-      "digerie dude - community"
-    ],
-    "band": "MV",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2082576920827335092",
-    "caption": "🎵 \"Digerie Dude - Community\"\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2075867708311109794",
     "translation": "jony sings blockchain boogie",
     "name": "jony sings blockchain boogie",
@@ -11454,5 +11441,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2091128266610417942",
     "caption": "\"ELVES OF BALLINMOORE — “DIAMOND HAND THE\" — Elves of Ballinmoore\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2091133301331214842",
+    "translation": "Digerie Dude - Community",
+    "name": "Digerie Dude - Community",
+    "triggers": [
+      "digerie dude - community"
+    ],
+    "band": "MV",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2091133301331214842",
+    "caption": "\"Digerie Dude - Community\"\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
