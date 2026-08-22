@@ -577,14 +577,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "ELVES OF BALLINMOORE — “INTERNET ROOTS",
-  "triggers": [
-   "elves of ballinmoore — “internet roots"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081877326569128121",
-  "tag": "$MfT"
- },
- {
   "name": "ELVES OF BALLINMOORE — “DIAMOND HAND THE",
   "triggers": [
    "elves of ballinmoore — “diamond hand the"
@@ -815,6 +807,14 @@
    "elves of ballinmoore — “pound by pound”"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090972238132453798",
+  "tag": "$MfT"
+ },
+ {
+  "name": "ELVES OF BALLINMOORE — “INTERNET ROOTS",
+  "triggers": [
+   "elves of ballinmoore — “internet roots"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091108129027096861",
   "tag": "$MfT"
  }
 ]

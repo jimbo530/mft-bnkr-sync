@@ -3400,14 +3400,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2082295099015184398"
  },
  {
-  "band": "EBM",
-  "name": "ELVES OF BALLINMOORE — “INTERNET ROOTS",
-  "triggers": [
-   "elves of ballinmoore — “internet roots"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081877326569128121"
- },
- {
   "band": "NN",
   "name": "Forest Song 2",
   "triggers": [
@@ -7096,5 +7088,13 @@
    "forests for the future"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091093068124406170"
+ },
+ {
+  "band": "EBM",
+  "name": "ELVES OF BALLINMOORE — “INTERNET ROOTS",
+  "triggers": [
+   "elves of ballinmoore — “internet roots"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091108129027096861"
  }
 ]
