@@ -3247,14 +3247,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2083135655530361305"
  },
  {
-  "band": "JS",
-  "name": "Living It Up",
-  "triggers": [
-   "living it up"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084635542453440655"
- },
- {
   "band": "NN",
   "name": "Grow Greatness",
   "triggers": [
@@ -7096,5 +7088,13 @@
    "misunderstood"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091012500649091483"
+ },
+ {
+  "band": "JS",
+  "name": "Living It Up",
+  "triggers": [
+   "living it up"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091027647551692896"
  }
 ]

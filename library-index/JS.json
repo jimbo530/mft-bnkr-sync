@@ -276,14 +276,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Living It Up",
-  "triggers": [
-   "living it up"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084635542453440655",
-  "tag": "$MfT"
- },
- {
   "name": "Proof Of Life",
   "triggers": [
    "proof of life"
@@ -714,6 +706,14 @@
    "jony it carries 2"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090926940739735590",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Living It Up",
+  "triggers": [
+   "living it up"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091027647551692896",
   "tag": "$MfT"
  }
 ]
