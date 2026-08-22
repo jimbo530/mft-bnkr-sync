@@ -3825,14 +3825,6 @@
  },
  {
   "band": "MV",
-  "name": "Digerie Dude - Working in the night",
-  "triggers": [
-   "digerie dude - working in the night"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083180949580153108"
- },
- {
-  "band": "MV",
   "name": "nattily grow greatness",
   "triggers": [
    "nattily grow greatness"
@@ -7096,5 +7088,13 @@
    "if it was easy"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091193695903068615"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Working in the night",
+  "triggers": [
+   "digerie dude - working in the night"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091208790926410219"
  }
 ]
