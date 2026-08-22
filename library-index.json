@@ -4282,14 +4282,6 @@
  },
  {
   "band": "MV",
-  "name": "Digerie Dude - Pulse of the Forest (1)",
-  "triggers": [
-   "digerie dude - pulse of the forest (1)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084977752692699318"
- },
- {
-  "band": "MV",
   "name": "Digerie Dude - Still Learning Still Loving",
   "triggers": [
    "digerie dude - still learning still loving"
@@ -7096,5 +7088,13 @@
    "living it up"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091027647551692896"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Pulse of the Forest (1)",
+  "triggers": [
+   "digerie dude - pulse of the forest (1)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091032633199239254"
  }
 ]
