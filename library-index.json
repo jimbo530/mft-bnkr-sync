@@ -729,14 +729,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2080704594137563541"
  },
  {
-  "band": "Myco",
-  "name": "Forward",
-  "triggers": [
-   "forward"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081298549107552461"
- },
- {
   "band": "JS",
   "name": "Streets to Roots",
   "triggers": [
@@ -7096,5 +7088,13 @@
    "elves of ballinmoore — “trees up, bags u"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091249055166759350"
+ },
+ {
+  "band": "Myco",
+  "name": "Forward",
+  "triggers": [
+   "forward"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091254128315957276"
  }
 ]

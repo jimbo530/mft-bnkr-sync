@@ -28,14 +28,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079964634983858188"
  },
  {
-  "name": "Forward",
-  "triggers": [
-   "forward"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081298549107552461",
-  "tag": "$MfT"
- },
- {
   "name": "Sky People (Good Vibes Make Forests)",
   "triggers": [
    "sky people",
@@ -741,6 +733,14 @@
    "dancing on the line"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091173600522875079",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Forward",
+  "triggers": [
+   "forward"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091254128315957276",
   "tag": "$MfT"
  }
 ]
