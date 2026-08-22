@@ -4402,14 +4402,6 @@
  },
  {
   "band": "MV",
-  "name": "Natalie 1000 futures",
-  "triggers": [
-   "natalie 1000 futures"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084615414416396499"
- },
- {
-  "band": "MV",
   "name": "treegens do what you please for the trees",
   "triggers": [
    "treegens do what you please for the trees"
@@ -7080,5 +7072,13 @@
    "elves of ballinmoore — “pound by pound”"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090972238132453798"
+ },
+ {
+  "band": "MV",
+  "name": "Natalie 1000 futures",
+  "triggers": [
+   "natalie 1000 futures"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090987336498618500"
  }
 ]

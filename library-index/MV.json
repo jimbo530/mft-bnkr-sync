@@ -585,14 +585,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Natalie 1000 futures",
-  "triggers": [
-   "natalie 1000 futures"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084615414416396499",
-  "tag": "$MfT"
- },
- {
   "name": "treegens do what you please for the trees",
   "triggers": [
    "treegens do what you please for the trees"
@@ -1152,6 +1144,14 @@
    "joy that stays"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090947074544079304",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Natalie 1000 futures",
+  "triggers": [
+   "natalie 1000 futures"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2090987336498618500",
   "tag": "$MfT"
  }
 ]
