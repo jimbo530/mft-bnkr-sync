@@ -2807,14 +2807,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2084655679801786706"
  },
  {
-  "band": "EBM",
-  "name": "Diamond Hands Endure",
-  "triggers": [
-   "diamond hands endure"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083986263032332679"
- },
- {
   "band": "DD",
   "name": "CARRY THE LIGHT",
   "triggers": [
@@ -7096,5 +7088,13 @@
    "hero for being here"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091153470401192316"
+ },
+ {
+  "band": "EBM",
+  "name": "Diamond Hands Endure",
+  "triggers": [
+   "diamond hands endure"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091168563105067282"
  }
 ]

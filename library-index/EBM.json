@@ -393,14 +393,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Diamond Hands Endure",
-  "triggers": [
-   "diamond hands endure"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083986263032332679",
-  "tag": "$MfT"
- },
- {
   "name": "Like, Comment, Share",
   "triggers": [
    "like, comment, share"
@@ -815,6 +807,14 @@
    "elves of ballinmoore — “diamond hand the"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091128266610417942",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Diamond Hands Endure",
+  "triggers": [
+   "diamond hands endure"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091168563105067282",
   "tag": "$MfT"
  }
 ]
