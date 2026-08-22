@@ -248,14 +248,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Misunderstood",
-  "triggers": [
-   "misunderstood"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083417463409057962",
-  "tag": "$MfT"
- },
- {
   "name": "Fighting TEMERAIRE",
   "triggers": [
    "fighting temeraire"
@@ -462,6 +454,14 @@
    "ebm - together we grow cb"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2090831329738842589",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Misunderstood",
+  "triggers": [
+   "misunderstood"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091012500649091483",
   "tag": "$MfT"
  }
 ]

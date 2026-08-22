@@ -4081,14 +4081,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2082682604176773198"
  },
  {
-  "band": "CB",
-  "name": "Misunderstood",
-  "triggers": [
-   "misunderstood"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083417463409057962"
- },
- {
   "band": "MV",
   "name": "Jony Sings, alive",
   "triggers": [
@@ -7096,5 +7088,13 @@
    "ebm - meme to green"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091007472811016302"
+ },
+ {
+  "band": "CB",
+  "name": "Misunderstood",
+  "triggers": [
+   "misunderstood"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091012500649091483"
  }
 ]
