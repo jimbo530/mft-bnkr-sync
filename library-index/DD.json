@@ -270,14 +270,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "CARRY THE LIGHT",
-  "triggers": [
-   "carry the light"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083643941950279784",
-  "tag": "$MfT"
- },
- {
   "name": "Permanent",
   "triggers": [
    "permanent"
@@ -460,6 +452,14 @@
    "digeri dude - i endure"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091148429443387416",
+  "tag": "$MfT"
+ },
+ {
+  "name": "CARRY THE LIGHT",
+  "triggers": [
+   "carry the light"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091188695109968273",
   "tag": "$MfT"
  }
 ]

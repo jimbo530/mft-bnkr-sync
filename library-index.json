@@ -2800,14 +2800,6 @@
  },
  {
   "band": "DD",
-  "name": "CARRY THE LIGHT",
-  "triggers": [
-   "carry the light"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083643941950279784"
- },
- {
-  "band": "DD",
   "name": "Permanent",
   "triggers": [
    "permanent"
@@ -7096,5 +7088,13 @@
    "dancing on the line"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091173600522875079"
+ },
+ {
+  "band": "DD",
+  "name": "CARRY THE LIGHT",
+  "triggers": [
+   "carry the light"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091188695109968273"
  }
 ]
