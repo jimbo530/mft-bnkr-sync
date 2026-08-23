@@ -4668,14 +4668,6 @@
  },
  {
   "band": "Myco",
-  "name": "Echoes To Eternity",
-  "triggers": [
-   "echoes to eternity"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082033388559482998"
- },
- {
-  "band": "Myco",
   "name": "Bull Market Festival",
   "triggers": [
    "bull market festival"
@@ -7112,5 +7104,13 @@
    "digerie dude - touch grass revolution"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091354744811892758"
+ },
+ {
+  "band": "Myco",
+  "name": "Echoes To Eternity",
+  "triggers": [
+   "echoes to eternity"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091369844314612072"
  }
 ]

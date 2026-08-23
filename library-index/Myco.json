@@ -439,14 +439,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Echoes To Eternity",
-  "triggers": [
-   "echoes to eternity"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082033388559482998",
-  "tag": "$MfT"
- },
- {
   "name": "Bull Market Festival",
   "triggers": [
    "bull market festival"
@@ -741,6 +733,14 @@
    "forward"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091254128315957276",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Echoes To Eternity",
+  "triggers": [
+   "echoes to eternity"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091369844314612072",
   "tag": "$MfT"
  }
 ]
