@@ -463,5 +463,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091012500649091483",
   "tag": "$MfT"
+ },
+ {
+  "name": "EBM - Fighting TEMERAIRE",
+  "triggers": [
+   "ebm - fighting temeraire"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091314513811247586",
+  "tag": "$MfT"
  }
 ]
