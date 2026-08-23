@@ -2960,14 +2960,6 @@
  },
  {
   "band": "EBM",
-  "name": "ELVES OF BALLINMOORE — “PRESS IT, BLESS",
-  "triggers": [
-   "elves of ballinmoore — “press it, bless"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083019858409656792"
- },
- {
-  "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “DOUBT CAN’T TOUC",
   "triggers": [
    "elves of ballinmoore — “doubt can’t touc"
@@ -7112,5 +7104,13 @@
    "digerie dude - early and right"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091390025569071510"
+ },
+ {
+  "band": "EBM",
+  "name": "ELVES OF BALLINMOORE — “PRESS IT, BLESS",
+  "triggers": [
+   "elves of ballinmoore — “press it, bless"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091395026106392942"
  }
 ]
