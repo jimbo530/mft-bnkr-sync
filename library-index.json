@@ -3329,14 +3329,6 @@
  },
  {
   "band": "EBM",
-  "name": "FROM MEMES TO MANGROVES v2",
-  "triggers": [
-   "from memes to mangroves v2"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084122122280898591"
- },
- {
-  "band": "EBM",
   "name": "FROM MEMES TO MANGROVES",
   "triggers": [
    "from memes to mangroves"
@@ -7111,5 +7103,13 @@
    "show me what you got"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091556115850920218"
+ },
+ {
+  "band": "EBM",
+  "name": "FROM MEMES TO MANGROVES v2",
+  "triggers": [
+   "from memes to mangroves v2"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091571179639197930"
  }
 ]
