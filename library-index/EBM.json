@@ -289,14 +289,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Help The Homies",
-  "triggers": [
-   "help the homies"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083120551078281695",
-  "tag": "$MfT"
- },
- {
   "name": "Forever is longer than you Know",
   "triggers": [
    "forever is longer than you know"
@@ -815,6 +807,14 @@
    "from memes to mangroves v2"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091571179639197930",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Help The Homies",
+  "triggers": [
+   "help the homies"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091596372768063616",
   "tag": "$MfT"
  }
 ]

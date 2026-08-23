@@ -2600,14 +2600,6 @@
  },
  {
   "band": "EBM",
-  "name": "Help The Homies",
-  "triggers": [
-   "help the homies"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083120551078281695"
- },
- {
-  "band": "EBM",
   "name": "Forever is longer than you Know",
   "triggers": [
    "forever is longer than you know"
@@ -7111,5 +7103,13 @@
    "move like magic"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091591303381340232"
+ },
+ {
+  "band": "EBM",
+  "name": "Help The Homies",
+  "triggers": [
+   "help the homies"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091596372768063616"
  }
 ]
