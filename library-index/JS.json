@@ -380,14 +380,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Proof Of Life vid",
-  "triggers": [
-   "proof of life vid"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084877129150263681",
-  "tag": "$MfT"
- },
- {
   "name": "For the Short Lived",
   "triggers": [
    "for the short lived"
@@ -714,6 +706,14 @@
    "jony sings roots and rythm"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091349720824238443",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Proof Of Life vid",
+  "triggers": [
+   "proof of life vid"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091551082728026135",
   "tag": "$MfT"
  }
 ]

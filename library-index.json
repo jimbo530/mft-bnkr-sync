@@ -3304,14 +3304,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2082058552609280122"
  },
  {
-  "band": "JS",
-  "name": "Proof Of Life vid",
-  "triggers": [
-   "proof of life vid"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084877129150263681"
- },
- {
   "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “THOUSAND YEAR PL",
   "triggers": [
@@ -7111,5 +7103,13 @@
    "digerie dude the choice"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091535943245152606"
+ },
+ {
+  "band": "JS",
+  "name": "Proof Of Life vid",
+  "triggers": [
+   "proof of life vid"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091551082728026135"
  }
 ]
