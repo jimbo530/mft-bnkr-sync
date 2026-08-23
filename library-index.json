@@ -3256,14 +3256,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2083055094543650823"
  },
  {
-  "band": "NN",
-  "name": "It Will Change Your Life",
-  "triggers": [
-   "it will change your life"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084444226314527000"
- },
- {
   "band": "MR",
   "name": "Green Hearts Strong Feet",
   "triggers": [
@@ -7112,5 +7104,13 @@
    "love being alive vid"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091415140931375224"
+ },
+ {
+  "band": "NN",
+  "name": "It Will Change Your Life",
+  "triggers": [
+   "it will change your life"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091430246696223178"
  }
 ]

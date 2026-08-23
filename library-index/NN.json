@@ -233,14 +233,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "It Will Change Your Life",
-  "triggers": [
-   "it will change your life"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084444226314527000",
-  "tag": "$MfT"
- },
- {
   "name": "Forest Song 2",
   "triggers": [
    "forest song 2"
@@ -359,6 +351,14 @@
    "toast to the trees"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091087992781668448",
+  "tag": "$MfT"
+ },
+ {
+  "name": "It Will Change Your Life",
+  "triggers": [
+   "it will change your life"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091430246696223178",
   "tag": "$MfT"
  }
 ]
