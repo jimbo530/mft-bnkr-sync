@@ -295,14 +295,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Grow With Every Play",
-  "triggers": [
-   "grow with every play"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083523202911719463",
-  "tag": "$MfT"
- },
- {
   "name": "Move Your Feet, Fund The Forest",
   "triggers": [
    "move your feet, fund the forest"
@@ -741,6 +733,14 @@
    "echoes to eternity"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091369844314612072",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Grow With Every Play",
+  "triggers": [
+   "grow with every play"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091410153727746301",
   "tag": "$MfT"
  }
 ]
