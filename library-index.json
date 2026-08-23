@@ -3119,14 +3119,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2083135655530361305"
  },
  {
-  "band": "NN",
-  "name": "Grow Greatness",
-  "triggers": [
-   "grow greatness"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085158958499496288"
- },
- {
   "band": "JS",
   "name": "Proof Of Life",
   "triggers": [
@@ -7112,5 +7104,13 @@
    "it will change your life"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091430246696223178"
+ },
+ {
+  "band": "NN",
+  "name": "Grow Greatness",
+  "triggers": [
+   "grow greatness"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091435263788527997"
  }
 ]

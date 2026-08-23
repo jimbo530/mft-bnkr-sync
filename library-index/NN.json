@@ -216,14 +216,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Grow Greatness",
-  "triggers": [
-   "grow greatness"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085158958499496288",
-  "tag": "$MfT"
- },
- {
   "name": "Pass It On",
   "triggers": [
    "pass it on"
@@ -359,6 +351,14 @@
    "it will change your life"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091430246696223178",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Grow Greatness",
+  "triggers": [
+   "grow greatness"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091435263788527997",
   "tag": "$MfT"
  }
 ]
