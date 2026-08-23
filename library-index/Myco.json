@@ -447,14 +447,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Show Me What You Got",
-  "triggers": [
-   "show me what you got"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082375636362891558",
-  "tag": "$MfT"
- },
- {
   "name": "Play For Impact",
   "triggers": [
    "play for impact"
@@ -741,6 +733,14 @@
    "diamond roots"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091495715444797917",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Show Me What You Got",
+  "triggers": [
+   "show me what you got"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091556115850920218",
   "tag": "$MfT"
  }
 ]

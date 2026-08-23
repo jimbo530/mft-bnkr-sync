@@ -4563,14 +4563,6 @@
  },
  {
   "band": "Myco",
-  "name": "Show Me What You Got",
-  "triggers": [
-   "show me what you got"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082375636362891558"
- },
- {
-  "band": "Myco",
   "name": "Play For Impact",
   "triggers": [
    "play for impact"
@@ -7111,5 +7103,13 @@
    "proof of life vid"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091551082728026135"
+ },
+ {
+  "band": "Myco",
+  "name": "Show Me What You Got",
+  "triggers": [
+   "show me what you got"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091556115850920218"
  }
 ]
