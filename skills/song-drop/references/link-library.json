@@ -4773,19 +4773,6 @@
     "caption": "🎵 \"ELVES OF BALLINMOORE — “WE ARE BASED”\" — Elves of Ballinmoore\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2084263071795609742",
-    "translation": "We Water Each Other",
-    "name": "We Water Each Other",
-    "triggers": [
-      "we water each other"
-    ],
-    "band": "MR",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2084263071795609742",
-    "caption": "🎵 \"We Water Each Other\" — Moon Rasta\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2084086882690888038",
     "translation": "Regen Rising",
     "name": "Regen Rising",
@@ -11479,5 +11466,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2091495715444797917",
     "caption": "\"Diamond Roots\" — Myco\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2091510764875989429",
+    "translation": "We Water Each Other",
+    "name": "We Water Each Other",
+    "triggers": [
+      "we water each other"
+    ],
+    "band": "MR",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2091510764875989429",
+    "caption": "\"We Water Each Other\" — Moon Rasta\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

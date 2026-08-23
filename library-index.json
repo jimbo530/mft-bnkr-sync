@@ -2975,14 +2975,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2083397372780871798"
  },
  {
-  "band": "MR",
-  "name": "We Water Each Other",
-  "triggers": [
-   "we water each other"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084263071795609742"
- },
- {
   "band": "JS",
   "name": "Regen Rising",
   "triggers": [
@@ -7111,5 +7103,13 @@
    "diamond roots"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091495715444797917"
+ },
+ {
+  "band": "MR",
+  "name": "We Water Each Other",
+  "triggers": [
+   "we water each other"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091510764875989429"
  }
 ]
