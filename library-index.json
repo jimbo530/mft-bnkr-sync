@@ -3256,14 +3256,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2084343603854241822"
  },
  {
-  "band": "EBM",
-  "name": "Elves of Ballinmoore",
-  "triggers": [
-   "elves of ballinmoore"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083336971577913459"
- },
- {
   "band": "JS",
   "name": "Alliance",
   "triggers": [
@@ -7111,5 +7103,13 @@
    "digerie dude - build it anyway"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091631606565839048"
+ },
+ {
+  "band": "EBM",
+  "name": "Elves of Ballinmoore",
+  "triggers": [
+   "elves of ballinmoore"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091636594742583780"
  }
 ]
