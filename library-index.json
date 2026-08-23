@@ -4611,14 +4611,6 @@
  },
  {
   "band": "Myco",
-  "name": "Diamond Roots",
-  "triggers": [
-   "diamond roots"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081957894765826055"
- },
- {
-  "band": "Myco",
   "name": "Play For Impact",
   "triggers": [
    "play for impact"
@@ -7111,5 +7103,13 @@
    "liquidity for the planet"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091490688990953891"
+ },
+ {
+  "band": "Myco",
+  "name": "Diamond Roots",
+  "triggers": [
+   "diamond roots"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091495715444797917"
  }
 ]
