@@ -4492,14 +4492,6 @@
  },
  {
   "band": "MV",
-  "name": "J&N you dont know",
-  "triggers": [
-   "j&n you dont know"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085214342606139842"
- },
- {
-  "band": "MV",
   "name": "Natali Learn to Earn",
   "triggers": [
    "natali learn to earn"
@@ -7112,5 +7104,13 @@
    "every listen plants a tree"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091455450470350913"
+ },
+ {
+  "band": "MV",
+  "name": "J&N you dont know",
+  "triggers": [
+   "j&n you dont know"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091470613776871862"
  }
 ]

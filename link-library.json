@@ -7234,19 +7234,6 @@
     "caption": "🎵 \"Started, Made, Done\" — CB\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2085214342606139842",
-    "translation": "J&N you dont know",
-    "name": "J&N you dont know",
-    "triggers": [
-      "j&n you dont know"
-    ],
-    "band": "MV",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2085214342606139842",
-    "caption": "🎵 \"J&N you dont know\"\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2083679223856644321",
     "translation": "Natali Learn to Earn",
     "name": "Natali Learn to Earn",
@@ -11480,5 +11467,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2091455450470350913",
     "caption": "\"Every Listen Plants a Tree\" — Myco\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2091470613776871862",
+    "translation": "J&N you dont know",
+    "name": "J&N you dont know",
+    "triggers": [
+      "j&n you dont know"
+    ],
+    "band": "MV",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2091470613776871862",
+    "caption": "\"J&N you dont know\"\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

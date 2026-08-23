@@ -739,14 +739,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "J&N you dont know",
-  "triggers": [
-   "j&n you dont know"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085214342606139842",
-  "tag": "$MfT"
- },
- {
   "name": "Natali Learn to Earn",
   "triggers": [
    "natali learn to earn"
@@ -1176,6 +1168,14 @@
    "digerie dude - early and right"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091390025569071510",
+  "tag": "$MfT"
+ },
+ {
+  "name": "J&N you dont know",
+  "triggers": [
+   "j&n you dont know"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091470613776871862",
   "tag": "$MfT"
  }
 ]
