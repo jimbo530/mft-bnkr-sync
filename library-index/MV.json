@@ -184,14 +184,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Digerie Dude - Early and Right",
-  "triggers": [
-   "digerie dude - early and right"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084464398777594084",
-  "tag": "$MfT"
- },
- {
   "name": "Digerie Dude - Stand Through the Storm",
   "triggers": [
    "digerie dude - stand through the storm"
@@ -1176,6 +1168,14 @@
    "digerie dude - internet we dreamed of."
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091374934320713954",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Digerie Dude - Early and Right",
+  "triggers": [
+   "digerie dude - early and right"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091390025569071510",
   "tag": "$MfT"
  }
 ]

@@ -3712,14 +3712,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2084081848196444373"
  },
  {
-  "band": "MV",
-  "name": "Digerie Dude - Early and Right",
-  "triggers": [
-   "digerie dude - early and right"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084464398777594084"
- },
- {
   "band": "CB",
   "name": "Digerie Dude - Zoom Out",
   "triggers": [
@@ -7112,5 +7104,13 @@
    "digerie dude - internet we dreamed of."
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091374934320713954"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Early and Right",
+  "triggers": [
+   "digerie dude - early and right"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091390025569071510"
  }
 ]
