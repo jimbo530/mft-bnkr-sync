@@ -3970,14 +3970,6 @@
  },
  {
   "band": "MV",
-  "name": "Digerie Dude - Build it Anyway",
-  "triggers": [
-   "digerie dude - build it anyway"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082959501875962118"
- },
- {
-  "band": "MV",
   "name": "Jony Sings, dance until morning",
   "triggers": [
    "jony sings, dance until morning"
@@ -7111,5 +7103,13 @@
    "mean green meme machine"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091616509382570062"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Build it Anyway",
+  "triggers": [
+   "digerie dude - build it anyway"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091631606565839048"
  }
 ]
