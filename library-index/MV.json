@@ -690,14 +690,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Digerie Dude The Choice",
-  "triggers": [
-   "digerie dude the choice"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081696229734388066",
-  "tag": "$MfT"
- },
- {
   "name": "Mcjamin - Math isn't Mathing",
   "triggers": [
    "mcjamin - math isn't mathing"
@@ -1175,6 +1167,14 @@
    "regen rise"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091515855850852490",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Digerie Dude The Choice",
+  "triggers": [
+   "digerie dude the choice"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091535943245152606",
   "tag": "$MfT"
  }
 ]

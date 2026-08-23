@@ -7038,19 +7038,6 @@
     "caption": "🎵 \"Attention Tree Appreciators\" — CB\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2081696229734388066",
-    "translation": "Digerie Dude The Choice",
-    "name": "Digerie Dude The Choice",
-    "triggers": [
-      "digerie dude the choice"
-    ],
-    "band": "MV",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2081696229734388066",
-    "caption": "🎵 \"Digerie Dude The Choice\"\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2081816935029760153",
     "translation": "Mcjamin - Math isn't Mathing",
     "name": "Mcjamin - Math isn't Mathing",
@@ -11479,5 +11466,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2091530911435071871",
     "caption": "\"Share The Memes, Fund The Trees\" — Elves of Ballinmoore\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2091535943245152606",
+    "translation": "Digerie Dude The Choice",
+    "name": "Digerie Dude The Choice",
+    "triggers": [
+      "digerie dude the choice"
+    ],
+    "band": "MV",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2091535943245152606",
+    "caption": "\"Digerie Dude The Choice\"\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

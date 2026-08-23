@@ -4371,14 +4371,6 @@
  },
  {
   "band": "MV",
-  "name": "Digerie Dude The Choice",
-  "triggers": [
-   "digerie dude the choice"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081696229734388066"
- },
- {
-  "band": "MV",
   "name": "Mcjamin - Math isn't Mathing",
   "triggers": [
    "mcjamin - math isn't mathing"
@@ -7111,5 +7103,13 @@
    "share the memes, fund the trees"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091530911435071871"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude The Choice",
+  "triggers": [
+   "digerie dude the choice"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091535943245152606"
  }
 ]
