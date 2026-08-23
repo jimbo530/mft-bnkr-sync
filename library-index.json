@@ -4211,14 +4211,6 @@
  },
  {
   "band": "MV",
-  "name": "rockin regen",
-  "triggers": [
-   "rockin regen"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084791524072538438"
- },
- {
-  "band": "MV",
   "name": "Jony Sings - For the Builders",
   "triggers": [
    "jony sings - for the builders"
@@ -7111,5 +7103,13 @@
    "from memes to mangroves v2"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091571179639197930"
+ },
+ {
+  "band": "MV",
+  "name": "rockin regen",
+  "triggers": [
+   "rockin regen"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091576203710746720"
  }
 ]
