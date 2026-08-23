@@ -3737,14 +3737,6 @@
  },
  {
   "band": "MV",
-  "name": "Digerie Dude - Internet We Dreamed Of.",
-  "triggers": [
-   "digerie dude - internet we dreamed of."
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084565065429025201"
- },
- {
-  "band": "MV",
   "name": "nattily grow greatness",
   "triggers": [
    "nattily grow greatness"
@@ -7112,5 +7104,13 @@
    "echoes to eternity"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091369844314612072"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Internet We Dreamed Of.",
+  "triggers": [
+   "digerie dude - internet we dreamed of."
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091374934320713954"
  }
 ]
