@@ -3505,14 +3505,6 @@
  },
  {
   "band": "MV",
-  "name": "Digerie Dude - Touch Grass Revolution",
-  "triggers": [
-   "digerie dude - touch grass revolution"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084796557472235845"
- },
- {
-  "band": "MV",
   "name": "Digerie Dude - I endure",
   "triggers": [
    "digerie dude - i endure"
@@ -7112,5 +7104,13 @@
    "jony sings roots and rythm"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091349720824238443"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Touch Grass Revolution",
+  "triggers": [
+   "digerie dude - touch grass revolution"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091354744811892758"
  }
 ]
