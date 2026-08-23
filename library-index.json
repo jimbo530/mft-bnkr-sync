@@ -4411,15 +4411,6 @@
  },
  {
   "band": "MV",
-  "name": "Pass it on hollow hailer",
-  "triggers": [
-   "pass it on hollow hailer"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085073380282151266",
-  "promote": true
- },
- {
-  "band": "MV",
   "name": "Mcjamin - Math isn't Mathing",
   "triggers": [
    "mcjamin - math isn't mathing"
@@ -7112,5 +7103,13 @@
    "j&n you dont know"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091470613776871862"
+ },
+ {
+  "band": "MV",
+  "name": "Pass it on hollow hailer",
+  "triggers": [
+   "pass it on hollow hailer"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091475556944535623"
  }
 ]

@@ -7103,20 +7103,6 @@
     "caption": "🎵 \"Digerie Dude The Choice\"\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2085073380282151266",
-    "translation": "Pass it on hollow hailer",
-    "name": "Pass it on hollow hailer",
-    "triggers": [
-      "pass it on hollow hailer"
-    ],
-    "band": "MV",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2085073380282151266",
-    "caption": "🎵 \"Pass it on hollow hailer\"\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "promote": true
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2081816935029760153",
     "translation": "Mcjamin - Math isn't Mathing",
     "name": "Mcjamin - Math isn't Mathing",
@@ -11480,5 +11466,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2091470613776871862",
     "caption": "\"J&N you dont know\"\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2091475556944535623",
+    "translation": "Pass it on hollow hailer",
+    "name": "Pass it on hollow hailer",
+    "triggers": [
+      "pass it on hollow hailer"
+    ],
+    "band": "MV",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2091475556944535623",
+    "caption": "\"Pass it on hollow hailer\"\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
