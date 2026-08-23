@@ -3600,14 +3600,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2085254605932265775"
  },
  {
-  "band": "MV",
-  "name": "regen rise",
-  "triggers": [
-   "regen rise"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084283176164209123"
- },
- {
   "band": "EBM",
   "name": "Grove Report — Jun 19, 2026",
   "triggers": [
@@ -7111,5 +7103,13 @@
    "we water each other"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091510764875989429"
+ },
+ {
+  "band": "MV",
+  "name": "regen rise",
+  "triggers": [
+   "regen rise"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091515855850852490"
  }
 ]
