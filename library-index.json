@@ -2935,14 +2935,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2075958328077799454"
  },
  {
-  "band": "Myco",
-  "name": "Every Listen Plants a Tree",
-  "triggers": [
-   "every listen plants a tree"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084872097570971882"
- },
- {
   "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “DOUBT CAN’T TOUC",
   "triggers": [
@@ -7112,5 +7104,13 @@
    "mean green meme team"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091450423626342659"
+ },
+ {
+  "band": "Myco",
+  "name": "Every Listen Plants a Tree",
+  "triggers": [
+   "every listen plants a tree"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091455450470350913"
  }
 ]
