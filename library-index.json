@@ -2983,14 +2983,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2082214547939573868"
  },
  {
-  "band": "JS",
-  "name": "Circulate Good",
-  "triggers": [
-   "circulate good"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082274975004626996"
- },
- {
   "band": "MR",
   "name": "Work Now Dance Later",
   "triggers": [
@@ -7111,5 +7103,13 @@
    "elves of ballinmoore"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091636594742583780"
+ },
+ {
+  "band": "JS",
+  "name": "Circulate Good",
+  "triggers": [
+   "circulate good"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091651708338266474"
  }
 ]

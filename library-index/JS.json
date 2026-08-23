@@ -220,14 +220,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Circulate Good",
-  "triggers": [
-   "circulate good"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082274975004626996",
-  "tag": "$MfT"
- },
- {
   "name": "Decentralize",
   "triggers": [
    "decentralize"
@@ -714,6 +706,14 @@
    "move like magic"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091591303381340232",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Circulate Good",
+  "triggers": [
+   "circulate good"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091651708338266474",
   "tag": "$MfT"
  }
 ]
