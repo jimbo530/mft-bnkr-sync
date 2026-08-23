@@ -3977,14 +3977,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2085219401645593054"
  },
  {
-  "band": "MV",
-  "name": "Digerie Dude- Carry the light",
-  "triggers": [
-   "digerie dude- carry the light"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084363743585050813"
- },
- {
   "band": "CB",
   "name": "Digerie Dude - Believe in SomeETHing (1)",
   "triggers": [
@@ -7111,5 +7103,13 @@
    "circulate good"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091651708338266474"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude- Carry the light",
+  "triggers": [
+   "digerie dude- carry the light"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091656775065817273"
  }
 ]

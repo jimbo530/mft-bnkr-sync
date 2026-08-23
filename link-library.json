@@ -6400,19 +6400,6 @@
     "caption": "🎵 \"Horse of a thousand names\"\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2084363743585050813",
-    "translation": "Digerie Dude- Carry the light",
-    "name": "Digerie Dude- Carry the light",
-    "triggers": [
-      "digerie dude- carry the light"
-    ],
-    "band": "MV",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2084363743585050813",
-    "caption": "🎵 \"Digerie Dude- Carry the light\"\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2073210210328498302",
     "translation": "Digerie Dude - Believe in SomeETHing (1)",
     "name": "Digerie Dude - Believe in SomeETHing (1)",
@@ -11479,5 +11466,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2091651708338266474",
     "caption": "\"Circulate Good\" — Jony Sings\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2091656775065817273",
+    "translation": "Digerie Dude- Carry the light",
+    "name": "Digerie Dude- Carry the light",
+    "triggers": [
+      "digerie dude- carry the light"
+    ],
+    "band": "MV",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2091656775065817273",
+    "caption": "\"Digerie Dude- Carry the light\"\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

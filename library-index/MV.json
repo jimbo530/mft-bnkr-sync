@@ -473,14 +473,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Digerie Dude- Carry the light",
-  "triggers": [
-   "digerie dude- carry the light"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084363743585050813",
-  "tag": "$MfT"
- },
- {
   "name": "forest and sun Jasmine",
   "triggers": [
    "forest and sun jasmine"
@@ -1175,6 +1167,14 @@
    "digerie dude - build it anyway"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091631606565839048",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Digerie Dude- Carry the light",
+  "triggers": [
+   "digerie dude- carry the light"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091656775065817273",
   "tag": "$MfT"
  }
 ]
