@@ -345,14 +345,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Mean Green Meme Team",
-  "triggers": [
-   "mean green meme team"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083684260897030145",
-  "tag": "$MfT"
- },
- {
   "name": "You Make The Magic Happen",
   "triggers": [
    "you make the magic happen"
@@ -815,6 +807,14 @@
    "elves of ballinmoore — “press it, bless"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091395026106392942",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Mean Green Meme Team",
+  "triggers": [
+   "mean green meme team"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091450423626342659",
   "tag": "$MfT"
  }
 ]

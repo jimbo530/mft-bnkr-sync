@@ -4331,19 +4331,6 @@
     "caption": "🎵 \"Party Til Forests Are Funded\" — Myco\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2083684260897030145",
-    "translation": "Mean Green Meme Team",
-    "name": "Mean Green Meme Team",
-    "triggers": [
-      "mean green meme team"
-    ],
-    "band": "EBM",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2083684260897030145",
-    "caption": "🎵 \"Mean Green Meme Team\" — Elves of Ballinmoore\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2085113703326691427",
     "translation": "You Make The Magic Happen",
     "name": "You Make The Magic Happen",
@@ -11480,5 +11467,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2091435263788527997",
     "caption": "\"Grow Greatness\" — Natilie Nightclub\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2091450423626342659",
+    "translation": "Mean Green Meme Team",
+    "name": "Mean Green Meme Team",
+    "triggers": [
+      "mean green meme team"
+    ],
+    "band": "EBM",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2091450423626342659",
+    "caption": "\"Mean Green Meme Team\" — Elves of Ballinmoore\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

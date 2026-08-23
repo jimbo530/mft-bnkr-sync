@@ -2704,14 +2704,6 @@
  },
  {
   "band": "EBM",
-  "name": "Mean Green Meme Team",
-  "triggers": [
-   "mean green meme team"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083684260897030145"
- },
- {
-  "band": "EBM",
   "name": "You Make The Magic Happen",
   "triggers": [
    "you make the magic happen"
@@ -7112,5 +7104,13 @@
    "grow greatness"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091435263788527997"
+ },
+ {
+  "band": "EBM",
+  "name": "Mean Green Meme Team",
+  "triggers": [
+   "mean green meme team"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091450423626342659"
  }
 ]
