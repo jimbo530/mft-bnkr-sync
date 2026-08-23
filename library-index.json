@@ -3376,14 +3376,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2075867708311109794"
  },
  {
-  "band": "CB",
-  "name": "Natilie - Base is for you",
-  "triggers": [
-   "natilie - base is for you"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083880529808511331"
- },
- {
   "band": "MV",
   "name": "Every Signal Plants Trees",
   "triggers": [
@@ -7111,5 +7103,13 @@
    "help the homies"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091596372768063616"
+ },
+ {
+  "band": "CB",
+  "name": "Natilie - Base is for you",
+  "triggers": [
+   "natilie - base is for you"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091611463215411424"
  }
 ]
