@@ -439,14 +439,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Play For Impact",
-  "triggers": [
-   "play for impact"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082199483345940603",
-  "tag": "$MfT"
- },
- {
   "name": "Two Currents, One Flow",
   "triggers": [
    "two currents, one flow"
@@ -741,6 +733,14 @@
    "mean green meme machine"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091616509382570062",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Play For Impact",
+  "triggers": [
+   "play for impact"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091671872396025901",
   "tag": "$MfT"
  }
 ]

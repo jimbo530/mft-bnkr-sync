@@ -4482,14 +4482,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2081756585919951279"
  },
  {
-  "band": "Myco",
-  "name": "Play For Impact",
-  "triggers": [
-   "play for impact"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082199483345940603"
- },
- {
   "band": "Bongo",
   "name": "It Does the Doin'",
   "triggers": [
@@ -7111,5 +7103,13 @@
    "digerie dude- carry the light"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091656775065817273"
+ },
+ {
+  "band": "Myco",
+  "name": "Play For Impact",
+  "triggers": [
+   "play for impact"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091671872396025901"
  }
 ]
