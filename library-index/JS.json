@@ -276,14 +276,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Move Like Magic",
-  "triggers": [
-   "move like magic"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083825138303193150",
-  "tag": "$MfT"
- },
- {
   "name": "Make Today Count",
   "triggers": [
    "make today count"
@@ -714,6 +706,14 @@
    "proof of life vid"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091551082728026135",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Move Like Magic",
+  "triggers": [
+   "move like magic"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091591303381340232",
   "tag": "$MfT"
  }
 ]

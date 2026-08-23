@@ -3104,14 +3104,6 @@
  },
  {
   "band": "JS",
-  "name": "Move Like Magic",
-  "triggers": [
-   "move like magic"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083825138303193150"
- },
- {
-  "band": "JS",
   "name": "Make Today Count",
   "triggers": [
    "make today count"
@@ -7111,5 +7103,13 @@
    "rockin regen"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091576203710746720"
+ },
+ {
+  "band": "JS",
+  "name": "Move Like Magic",
+  "triggers": [
+   "move like magic"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091591303381340232"
  }
 ]
