@@ -3337,14 +3337,6 @@
  },
  {
   "band": "EBM",
-  "name": "LIQUIDITY FOR THE PLANET",
-  "triggers": [
-   "liquidity for the planet"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081998166438645960"
- },
- {
-  "band": "EBM",
   "name": "Un Rugables",
   "triggers": [
    "un rugables"
@@ -7111,5 +7103,13 @@
    "pass it on hollow hailer"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091475556944535623"
+ },
+ {
+  "band": "EBM",
+  "name": "LIQUIDITY FOR THE PLANET",
+  "triggers": [
+   "liquidity for the planet"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091490688990953891"
  }
 ]

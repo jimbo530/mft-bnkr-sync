@@ -553,14 +553,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "LIQUIDITY FOR THE PLANET",
-  "triggers": [
-   "liquidity for the planet"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081998166438645960",
-  "tag": "$MfT"
- },
- {
   "name": "Un Rugables",
   "triggers": [
    "un rugables"
@@ -815,6 +807,14 @@
    "mean green meme team"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091450423626342659",
+  "tag": "$MfT"
+ },
+ {
+  "name": "LIQUIDITY FOR THE PLANET",
+  "triggers": [
+   "liquidity for the planet"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091490688990953891",
   "tag": "$MfT"
  }
 ]
