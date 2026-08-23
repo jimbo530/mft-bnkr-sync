@@ -2727,14 +2727,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2081731429562565019"
  },
  {
-  "band": "Myco",
-  "name": "Mean Green Meme Machine",
-  "triggers": [
-   "mean green meme machine"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084544928596558273"
- },
- {
   "band": "DD",
   "name": "Title “Scared Money Can’t Win”",
   "triggers": [
@@ -7111,5 +7103,13 @@
    "natilie - base is for you"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091611463215411424"
+ },
+ {
+  "band": "Myco",
+  "name": "Mean Green Meme Machine",
+  "triggers": [
+   "mean green meme machine"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091616509382570062"
  }
 ]

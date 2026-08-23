@@ -4370,19 +4370,6 @@
     "caption": "🎵 \"“EVERY SIGNAL PLANTS TREES”\" — Elves of Ballinmoore\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2084544928596558273",
-    "translation": "Mean Green Meme Machine",
-    "name": "Mean Green Meme Machine",
-    "triggers": [
-      "mean green meme machine"
-    ],
-    "band": "Myco",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2084544928596558273",
-    "caption": "🎵 \"Mean Green Meme Machine\" — Myco\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2082355501694665140",
     "translation": "Title “Scared Money Can’t Win”",
     "name": "Title “Scared Money Can’t Win”",
@@ -11479,5 +11466,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2091611463215411424",
     "caption": "\"Natilie - Base is for you\" — CB\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2091616509382570062",
+    "translation": "Mean Green Meme Machine",
+    "name": "Mean Green Meme Machine",
+    "triggers": [
+      "mean green meme machine"
+    ],
+    "band": "Myco",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2091616509382570062",
+    "caption": "\"Mean Green Meme Machine\" — Myco\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
