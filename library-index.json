@@ -745,14 +745,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2081343795698794783"
  },
  {
-  "band": "EBM",
-  "name": "Eternal Harvest",
-  "triggers": [
-   "eternal harvest"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081550171175788782"
- },
- {
   "band": "DD",
   "name": "Kind Folk (In the Strangest Places)",
   "triggers": [
@@ -7112,5 +7104,13 @@
    "ebm - fighting temeraire"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091314513811247586"
+ },
+ {
+  "band": "EBM",
+  "name": "Eternal Harvest",
+  "triggers": [
+   "eternal harvest"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091329621690105870"
  }
 ]
