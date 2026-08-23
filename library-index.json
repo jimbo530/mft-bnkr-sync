@@ -3464,14 +3464,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2083598659833176105"
  },
  {
-  "band": "MV",
-  "name": "Bigger than your Box - Biggins",
-  "triggers": [
-   "bigger than your box - biggins"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082093793424089137"
- },
- {
   "band": "CB",
   "name": "MEME War",
   "triggers": [
@@ -7112,5 +7104,13 @@
    "eternal harvest"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091329621690105870"
+ },
+ {
+  "band": "MV",
+  "name": "Bigger than your Box - Biggins",
+  "triggers": [
+   "bigger than your box - biggins"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091334616250523972"
  }
 ]
