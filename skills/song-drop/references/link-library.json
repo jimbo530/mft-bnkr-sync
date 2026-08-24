@@ -7545,19 +7545,6 @@
     "caption": "🎵 \"jony sings Polyraiders\" — Jony Sings\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2083699312467275896",
-    "translation": "Jony Sings gotta get paid",
-    "name": "Jony Sings gotta get paid",
-    "triggers": [
-      "jony sings gotta get paid"
-    ],
-    "band": "JS",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2083699312467275896",
-    "caption": "🎵 \"Jony Sings gotta get paid\" — Jony Sings\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2084162416313548933",
     "translation": "Jony Sings, Party god",
     "name": "Jony Sings, Party god",
@@ -11492,5 +11479,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2091777611177378138",
     "caption": "\"ELVES OF BALLINMOORE — “MEMES TURN TO TREES\" — Elves of Ballinmoore\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2091792627762856247",
+    "translation": "Jony Sings gotta get paid",
+    "name": "Jony Sings gotta get paid",
+    "triggers": [
+      "jony sings gotta get paid"
+    ],
+    "band": "JS",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2091792627762856247",
+    "caption": "\"Jony Sings gotta get paid\" — Jony Sings\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

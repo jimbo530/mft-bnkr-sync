@@ -4683,14 +4683,6 @@
  },
  {
   "band": "JS",
-  "name": "Jony Sings gotta get paid",
-  "triggers": [
-   "jony sings gotta get paid"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083699312467275896"
- },
- {
-  "band": "JS",
   "name": "Jony Sings, Party god",
   "triggers": [
    "jony sings, party god"
@@ -7119,5 +7111,13 @@
    "elves of ballinmoore — “memes turn to trees"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091777611177378138"
+ },
+ {
+  "band": "JS",
+  "name": "Jony Sings gotta get paid",
+  "triggers": [
+   "jony sings gotta get paid"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091792627762856247"
  }
 ]
