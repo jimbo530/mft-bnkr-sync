@@ -316,14 +316,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Each One Carries Two",
-  "triggers": [
-   "each one carries two"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082038425729871924",
-  "tag": "$MfT"
- },
- {
   "name": "Polyraiders",
   "triggers": [
    "polyraiders"
@@ -722,6 +714,14 @@
    "jony sings alliance"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091676908291317920",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Each One Carries Two",
+  "triggers": [
+   "each one carries two"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091712130282037250",
   "tag": "$MfT"
  }
 ]

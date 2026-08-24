@@ -3144,14 +3144,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2081575378284323233"
  },
  {
-  "band": "JS",
-  "name": "Each One Carries Two",
-  "triggers": [
-   "each one carries two"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082038425729871924"
- },
- {
   "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “GOLD TO GREEN (O",
   "triggers": [
@@ -7119,5 +7111,13 @@
    "you can’t stop the meme"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091697035212640744"
+ },
+ {
+  "band": "JS",
+  "name": "Each One Carries Two",
+  "triggers": [
+   "each one carries two"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091712130282037250"
  }
 ]

@@ -5047,19 +5047,6 @@
     "caption": "🎵 \"Songs For The Builders\" — Jony Sings\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2082038425729871924",
-    "translation": "Each One Carries Two",
-    "name": "Each One Carries Two",
-    "triggers": [
-      "each one carries two"
-    ],
-    "band": "JS",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2082038425729871924",
-    "caption": "🎵 \"Each One Carries Two\" — Jony Sings\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2081952865052926346",
     "translation": "ELVES OF BALLINMOORE — “GOLD TO GREEN (O",
     "name": "ELVES OF BALLINMOORE — “GOLD TO GREEN (O",
@@ -11492,5 +11479,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2091697035212640744",
     "caption": "\"You Can’t Stop The Meme\" — Elves of Ballinmoore\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2091712130282037250",
+    "translation": "Each One Carries Two",
+    "name": "Each One Carries Two",
+    "triggers": [
+      "each one carries two"
+    ],
+    "band": "JS",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2091712130282037250",
+    "caption": "\"Each One Carries Two\" — Jony Sings\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
