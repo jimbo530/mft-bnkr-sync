@@ -4642,14 +4642,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2084897260391825486"
  },
  {
-  "band": "JS",
-  "name": "Jony Sings, keep dancing",
-  "triggers": [
-   "jony sings, keep dancing"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085058281584677165"
- },
- {
   "band": "EBM",
   "name": "Plug That Backs Real Ones",
   "triggers": [
@@ -7135,5 +7127,13 @@
    "on-chain garden"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091898369916457203"
+ },
+ {
+  "band": "JS",
+  "name": "Jony Sings, keep dancing",
+  "triggers": [
+   "jony sings, keep dancing"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091913425265803705"
  }
 ]
