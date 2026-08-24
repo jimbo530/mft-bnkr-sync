@@ -723,5 +723,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091792627762856247",
   "tag": "$MfT"
+ },
+ {
+  "name": "Jony Lessons in the ledger",
+  "triggers": [
+   "jony lessons in the ledger"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091853021357445432",
+  "tag": "$MfT"
  }
 ]
