@@ -6023,19 +6023,6 @@
     "caption": "🎵 \"Community of Communities\"\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2085033115571863757",
-    "translation": "Digerie Dude - Signal in the Noise",
-    "name": "Digerie Dude - Signal in the Noise",
-    "triggers": [
-      "digerie dude - signal in the noise"
-    ],
-    "band": "MV",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2085033115571863757",
-    "caption": "🎵 \"Digerie Dude - Signal in the Noise\"\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2085133771896930445",
     "translation": "Digerie Dude - Still Learning Still Loving",
     "name": "Digerie Dude - Still Learning Still Loving",
@@ -11518,5 +11505,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2091953722377076754",
     "caption": "\"Digerie Dude - Creators Economy\"\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2091958759748760016",
+    "translation": "Digerie Dude - Signal in the Noise",
+    "name": "Digerie Dude - Signal in the Noise",
+    "triggers": [
+      "digerie dude - signal in the noise"
+    ],
+    "band": "MV",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2091958759748760016",
+    "caption": "\"Digerie Dude - Signal in the Noise\"\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

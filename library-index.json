@@ -3746,14 +3746,6 @@
  },
  {
   "band": "MV",
-  "name": "Digerie Dude - Signal in the Noise",
-  "triggers": [
-   "digerie dude - signal in the noise"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085033115571863757"
- },
- {
-  "band": "MV",
   "name": "Digerie Dude - Still Learning Still Loving",
   "triggers": [
    "digerie dude - still learning still loving"
@@ -7135,5 +7127,13 @@
    "digerie dude - creators economy"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091953722377076754"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Signal in the Noise",
+  "triggers": [
+   "digerie dude - signal in the noise"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091958759748760016"
  }
 ]
