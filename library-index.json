@@ -3408,14 +3408,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2082018252113244268"
  },
  {
-  "band": "MV",
-  "name": "dungeon games",
-  "triggers": [
-   "dungeon games"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082254808174502340"
- },
- {
   "band": "EBM",
   "name": "Grove Report — Jun 18, 2026",
   "triggers": [
@@ -7127,5 +7119,13 @@
    "jony lessons in the ledger"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091853021357445432"
+ },
+ {
+  "band": "MV",
+  "name": "dungeon games",
+  "triggers": [
+   "dungeon games"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091858072209678811"
  }
 ]
