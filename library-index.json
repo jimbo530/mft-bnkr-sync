@@ -3810,14 +3810,6 @@
  },
  {
   "band": "MV",
-  "name": "elven gold (1)",
-  "triggers": [
-   "elven gold (1)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083840237579481441"
- },
- {
-  "band": "MV",
   "name": "Digerie Dude - Signal in the Noise",
   "triggers": [
    "digerie dude - signal in the noise"
@@ -7119,5 +7111,13 @@
    "elves of ballinmoore — “listen, like, an"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091812760392737260"
+ },
+ {
+  "band": "MV",
+  "name": "elven gold (1)",
+  "triggers": [
+   "elven gold (1)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091817784577593597"
  }
 ]

@@ -401,14 +401,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "elven gold (1)",
-  "triggers": [
-   "elven gold (1)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083840237579481441",
-  "tag": "$MfT"
- },
- {
   "name": "Digerie Dude - Signal in the Noise",
   "triggers": [
    "digerie dude - signal in the noise"
@@ -1175,6 +1167,14 @@
    "digerie dude - open roads (1)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091797658935365837",
+  "tag": "$MfT"
+ },
+ {
+  "name": "elven gold (1)",
+  "triggers": [
+   "elven gold (1)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091817784577593597",
   "tag": "$MfT"
  }
 ]
