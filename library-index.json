@@ -3105,14 +3105,6 @@
  },
  {
   "band": "EBM",
-  "name": "ELVES OF BALLINMOORE — “GOLD TO GREEN (O",
-  "triggers": [
-   "elves of ballinmoore — “gold to green (o"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081952865052926346"
- },
- {
-  "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “COMMUNITY OF COM",
   "triggers": [
    "elves of ballinmoore — “community of com"
@@ -7119,5 +7111,13 @@
    "forever is longer than you know"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091832893311975856"
+ },
+ {
+  "band": "EBM",
+  "name": "ELVES OF BALLINMOORE — “GOLD TO GREEN (O",
+  "triggers": [
+   "elves of ballinmoore — “gold to green (o"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091837964393361526"
  }
 ]
