@@ -425,14 +425,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "ELVES OF BALLINMOORE — “MEMES TURN TO TREES",
-  "triggers": [
-   "elves of ballinmoore — “memes turn to trees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084484491444101493",
-  "tag": "$MfT"
- },
- {
   "name": "ELVES OF BALLINMOORE — “DOUBT CAN’T TOUC",
   "triggers": [
    "elves of ballinmoore — “doubt can’t touc"
@@ -815,6 +807,14 @@
    "elves of ballinmoore — “thousand year pl"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091737310190600524",
+  "tag": "$MfT"
+ },
+ {
+  "name": "ELVES OF BALLINMOORE — “MEMES TURN TO TREES",
+  "triggers": [
+   "elves of ballinmoore — “memes turn to trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091777611177378138",
   "tag": "$MfT"
  }
 ]

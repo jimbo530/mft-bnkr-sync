@@ -2871,14 +2871,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2082415879388643628"
  },
  {
-  "band": "EBM",
-  "name": "ELVES OF BALLINMOORE — “MEMES TURN TO TREES",
-  "triggers": [
-   "elves of ballinmoore — “memes turn to trees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084484491444101493"
- },
- {
   "band": "Myco",
   "name": "\udfa7 “Stay In Your Lane (We Grow Together) (2)",
   "triggers": [
@@ -7119,5 +7111,13 @@
    "move your feet, fund the forest"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091772546995654940"
+ },
+ {
+  "band": "EBM",
+  "name": "ELVES OF BALLINMOORE — “MEMES TURN TO TREES",
+  "triggers": [
+   "elves of ballinmoore — “memes turn to trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091777611177378138"
  }
 ]
