@@ -208,14 +208,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Chain Reaction Diplomacy",
-  "triggers": [
-   "chain reaction diplomacy"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082738091555537071",
-  "tag": "$MfT"
- },
- {
   "name": "Proof of Freedom",
   "triggers": [
    "proof of freedom"
@@ -470,6 +462,14 @@
    "natilie - base is for you"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091611463215411424",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Chain Reaction Diplomacy",
+  "triggers": [
+   "chain reaction diplomacy"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091752485492809769",
   "tag": "$MfT"
  }
 ]

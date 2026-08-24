@@ -3592,14 +3592,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2069244081536913882"
  },
  {
-  "band": "CB",
-  "name": "Chain Reaction Diplomacy",
-  "triggers": [
-   "chain reaction diplomacy"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082738091555537071"
- },
- {
   "band": "MV",
   "name": "Each one matters",
   "triggers": [
@@ -7119,5 +7111,13 @@
    "elves of ballinmoore — “thousand year pl"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091737310190600524"
+ },
+ {
+  "band": "CB",
+  "name": "Chain Reaction Diplomacy",
+  "triggers": [
+   "chain reaction diplomacy"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091752485492809769"
  }
 ]
