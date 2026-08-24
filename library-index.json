@@ -3097,14 +3097,6 @@
  },
  {
   "band": "EBM",
-  "name": "Ballinmoore Elves",
-  "triggers": [
-   "ballinmoore elves"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083779831259365886"
- },
- {
-  "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “ALLIANCE FIRE”",
   "triggers": [
    "elves of ballinmoore — “alliance fire”"
@@ -7119,5 +7111,13 @@
    "jony sings alliance"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091676908291317920"
+ },
+ {
+  "band": "EBM",
+  "name": "Ballinmoore Elves",
+  "triggers": [
+   "ballinmoore elves"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091691958515200472"
  }
 ]

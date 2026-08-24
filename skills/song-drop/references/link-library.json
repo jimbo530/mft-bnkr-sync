@@ -4969,19 +4969,6 @@
     "promote": true
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2083779831259365886",
-    "translation": "Ballinmoore Elves",
-    "name": "Ballinmoore Elves",
-    "triggers": [
-      "ballinmoore elves"
-    ],
-    "band": "EBM",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2083779831259365886",
-    "caption": "🎵 \"Ballinmoore Elves\" — Elves of Ballinmoore\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2083961098965799397",
     "translation": "ELVES OF BALLINMOORE — “ALLIANCE FIRE”",
     "name": "ELVES OF BALLINMOORE — “ALLIANCE FIRE”",
@@ -11492,5 +11479,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2091676908291317920",
     "caption": "\"Jony Sings Alliance\" — Jony Sings\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2091691958515200472",
+    "translation": "Ballinmoore Elves",
+    "name": "Ballinmoore Elves",
+    "triggers": [
+      "ballinmoore elves"
+    ],
+    "band": "EBM",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2091691958515200472",
+    "caption": "\"Ballinmoore Elves\" — Elves of Ballinmoore\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
