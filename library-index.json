@@ -2663,14 +2663,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2053354383186755742"
  },
  {
-  "band": "EBM",
-  "name": "You Can’t Stop The Meme",
-  "triggers": [
-   "you can’t stop the meme"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084650635819946126"
- },
- {
   "band": "Myco",
   "name": "Go Do Something Nice",
   "triggers": [
@@ -7119,5 +7111,13 @@
    "ballinmoore elves"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091691958515200472"
+ },
+ {
+  "band": "EBM",
+  "name": "You Can’t Stop The Meme",
+  "triggers": [
+   "you can’t stop the meme"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091697035212640744"
  }
 ]
