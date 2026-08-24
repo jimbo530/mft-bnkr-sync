@@ -200,14 +200,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Digerie Dude - Open Mic",
-  "triggers": [
-   "digerie dude - open mic"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2069244081536913882",
-  "tag": "$MfT"
- },
- {
   "name": "Each one matters",
   "triggers": [
    "each one matters"
@@ -1175,6 +1167,14 @@
    "digerie dude - stand through the storm"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092019115439321565",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Digerie Dude - Open Mic",
+  "triggers": [
+   "digerie dude - open mic"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092034253567447416",
   "tag": "$MfT"
  }
 ]
