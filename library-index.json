@@ -2679,14 +2679,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2063798252307148897"
  },
  {
-  "band": "Myco",
-  "name": "Party Til Forests Are Funded",
-  "triggers": [
-   "party til forests are funded"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084202637176471752"
- },
- {
   "band": "EBM",
   "name": "You Make The Magic Happen",
   "triggers": [
@@ -7119,5 +7111,13 @@
    "ballinmorre elves forestkids"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091717129208824158"
+ },
+ {
+  "band": "Myco",
+  "name": "Party Til Forests Are Funded",
+  "triggers": [
+   "party til forests are funded"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091732269073400302"
  }
 ]

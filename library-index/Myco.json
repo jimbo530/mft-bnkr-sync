@@ -255,14 +255,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Party Til Forests Are Funded",
-  "triggers": [
-   "party til forests are funded"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084202637176471752",
-  "tag": "$MfT"
- },
- {
   "name": "Much Love, Friends",
   "triggers": [
    "much love, friends"
@@ -741,6 +733,14 @@
    "play for impact"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091671872396025901",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Party Til Forests Are Funded",
+  "triggers": [
+   "party til forests are funded"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091732269073400302",
   "tag": "$MfT"
  }
 ]
