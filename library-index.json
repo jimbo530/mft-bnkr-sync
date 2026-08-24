@@ -2600,14 +2600,6 @@
  },
  {
   "band": "EBM",
-  "name": "Forever is longer than you Know",
-  "triggers": [
-   "forever is longer than you know"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085078454395928677"
- },
- {
-  "band": "EBM",
   "name": "Interest In The Infinite",
   "triggers": [
    "interest in the infinite"
@@ -7119,5 +7111,13 @@
    "elven gold (1)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091817784577593597"
+ },
+ {
+  "band": "EBM",
+  "name": "Forever is longer than you Know",
+  "triggers": [
+   "forever is longer than you know"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091832893311975856"
  }
 ]
