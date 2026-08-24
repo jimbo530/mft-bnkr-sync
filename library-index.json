@@ -3137,14 +3137,6 @@
  },
  {
   "band": "JS",
-  "name": "Alliance",
-  "triggers": [
-   "alliance"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084856990606463262"
- },
- {
-  "band": "JS",
   "name": "Gotta Get Paid",
   "triggers": [
    "gotta get paid"
@@ -7135,5 +7127,13 @@
    "jony sings - living it up"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091978853900009630"
+ },
+ {
+  "band": "JS",
+  "name": "Alliance",
+  "triggers": [
+   "alliance"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091993986017738812"
  }
 ]
