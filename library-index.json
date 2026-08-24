@@ -2959,14 +2959,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2082516525861204465"
  },
  {
-  "band": "MR",
-  "name": "Take Your Shot",
-  "triggers": [
-   "take your shot"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084957649305538969"
- },
- {
   "band": "JS",
   "name": "Blockchain Boogie",
   "triggers": [
@@ -7135,5 +7127,13 @@
    "(🎧 “thanks for being here”) (1)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091933612337692922"
+ },
+ {
+  "band": "MR",
+  "name": "Take Your Shot",
+  "triggers": [
+   "take your shot"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091938575096950800"
  }
 ]
