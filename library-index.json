@@ -4586,14 +4586,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2084831871934873981"
  },
  {
-  "band": "JS",
-  "name": "Jony Sings - Living it Up",
-  "triggers": [
-   "jony sings - living it up"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084897260391825486"
- },
- {
   "band": "EBM",
   "name": "Plug That Backs Real Ones",
   "triggers": [
@@ -7135,5 +7127,13 @@
    "more than whole"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091973865886916759"
+ },
+ {
+  "band": "JS",
+  "name": "Jony Sings - Living it Up",
+  "triggers": [
+   "jony sings - living it up"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091978853900009630"
  }
 ]

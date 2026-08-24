@@ -420,14 +420,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Jony Sings - Living it Up",
-  "triggers": [
-   "jony sings - living it up"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084897260391825486",
-  "tag": "$MfT"
- },
- {
   "name": "Back The Beginning",
   "triggers": [
    "back the beginning"
@@ -730,6 +722,14 @@
    "jony sings, keep dancing"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091913425265803705",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Jony Sings - Living it Up",
+  "triggers": [
+   "jony sings - living it up"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091978853900009630",
   "tag": "$MfT"
  }
 ]
