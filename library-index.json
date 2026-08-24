@@ -2784,14 +2784,6 @@
  },
  {
   "band": "Myco",
-  "name": "Move Your Feet, Fund The Forest",
-  "triggers": [
-   "move your feet, fund the forest"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083638924912570855"
- },
- {
-  "band": "Myco",
   "name": "Drop The Beats To Fund The Forest",
   "triggers": [
    "drop the beats to fund the forest"
@@ -7119,5 +7111,13 @@
    "you matter here -g.o.a.t."
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091757434364633268"
+ },
+ {
+  "band": "Myco",
+  "name": "Move Your Feet, Fund The Forest",
+  "triggers": [
+   "move your feet, fund the forest"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091772546995654940"
  }
 ]
