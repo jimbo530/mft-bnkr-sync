@@ -3008,14 +3008,6 @@
   "promote": true
  },
  {
-  "band": "EBM",
-  "name": "ELVES OF BALLINMOORE — “ALLIANCE FIRE”",
-  "triggers": [
-   "elves of ballinmoore — “alliance fire”"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083961098965799397"
- },
- {
   "band": "JS",
   "name": "Cellars Sewers And Spells",
   "triggers": [
@@ -7135,5 +7127,13 @@
    "alliance"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091993986017738812"
+ },
+ {
+  "band": "EBM",
+  "name": "ELVES OF BALLINMOORE — “ALLIANCE FIRE”",
+  "triggers": [
+   "elves of ballinmoore — “alliance fire”"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091999029655662610"
  }
 ]
