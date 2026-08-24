@@ -737,14 +737,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2081323667925897710"
  },
  {
-  "band": "EBM",
-  "name": "A Billion Strong",
-  "triggers": [
-   "a billion strong"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081343795698794783"
- },
- {
   "band": "DD",
   "name": "Kind Folk (In the Strangest Places)",
   "triggers": [
@@ -7135,5 +7127,13 @@
    "jony sings, keep dancing"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091913425265803705"
+ },
+ {
+  "band": "EBM",
+  "name": "A Billion Strong",
+  "triggers": [
+   "a billion strong"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091918485223887280"
  }
 ]

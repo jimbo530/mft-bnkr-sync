@@ -57,14 +57,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079250875076296731"
  },
  {
-  "name": "A Billion Strong",
-  "triggers": [
-   "a billion strong"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081343795698794783",
-  "tag": "$MfT"
- },
- {
   "name": "Oldest Magic",
   "triggers": [
    "oldest magic"
@@ -815,6 +807,14 @@
    "all-time high"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091878200129290423",
+  "tag": "$MfT"
+ },
+ {
+  "name": "A Billion Strong",
+  "triggers": [
+   "a billion strong"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091918485223887280",
   "tag": "$MfT"
  }
 ]
