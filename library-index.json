@@ -3769,14 +3769,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2083865406821827042"
  },
  {
-  "band": "MV",
-  "name": "Digerie Dude - Open Roads (1)",
-  "triggers": [
-   "digerie dude - open roads (1)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084675809084633231"
- },
- {
   "band": "JS",
   "name": "The Magic s in the Crowd",
   "triggers": [
@@ -7119,5 +7111,13 @@
    "jony sings gotta get paid"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091792627762856247"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Open Roads (1)",
+  "triggers": [
+   "digerie dude - open roads (1)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091797658935365837"
  }
 ]

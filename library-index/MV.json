@@ -369,14 +369,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Digerie Dude - Open Roads (1)",
-  "triggers": [
-   "digerie dude - open roads (1)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084675809084633231",
-  "tag": "$MfT"
- },
- {
   "name": "Digerie Dude- sound of Growth",
   "triggers": [
    "digerie dude- sound of growth"
@@ -1175,6 +1167,14 @@
    "you matter here -g.o.a.t."
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091757434364633268",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Digerie Dude - Open Roads (1)",
+  "triggers": [
+   "digerie dude - open roads (1)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091797658935365837",
   "tag": "$MfT"
  }
 ]
