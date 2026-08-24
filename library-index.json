@@ -3722,14 +3722,6 @@
  },
  {
   "band": "MV",
-  "name": "Digerie Dude - Still Learning Still Loving",
-  "triggers": [
-   "digerie dude - still learning still loving"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085133771896930445"
- },
- {
-  "band": "MV",
   "name": "Freedoms Faster than Fear",
   "triggers": [
    "freedoms faster than fear"
@@ -7135,5 +7127,13 @@
    "elves of ballinmoore — “alliance fire”"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091999029655662610"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Still Learning Still Loving",
+  "triggers": [
+   "digerie dude - still learning still loving"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092014080500392217"
  }
 ]

@@ -385,14 +385,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Digerie Dude - Still Learning Still Loving",
-  "triggers": [
-   "digerie dude - still learning still loving"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085133771896930445",
-  "tag": "$MfT"
- },
- {
   "name": "Freedoms Faster than Fear",
   "triggers": [
    "freedoms faster than fear"
@@ -1175,6 +1167,14 @@
    "digerie dude - signal in the noise"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091958759748760016",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Digerie Dude - Still Learning Still Loving",
+  "triggers": [
+   "digerie dude - still learning still loving"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092014080500392217",
   "tag": "$MfT"
  }
 ]
