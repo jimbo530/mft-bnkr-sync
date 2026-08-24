@@ -4258,14 +4258,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2084469433536299492"
  },
  {
-  "band": "Myco",
-  "name": "Pizza Day Party",
-  "triggers": [
-   "pizza day party"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084041584153080315"
- },
- {
   "band": "Rish",
   "name": "Come All Ye (Sing a Forest)",
   "triggers": [
@@ -7135,5 +7127,13 @@
    "all-time high"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091878200129290423"
+ },
+ {
+  "band": "Myco",
+  "name": "Pizza Day Party",
+  "triggers": [
+   "pizza day party"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091893326240686586"
  }
 ]
