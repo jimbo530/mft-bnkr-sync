@@ -383,14 +383,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "On-Chain Garden",
-  "triggers": [
-   "on-chain garden"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082219639879119104",
-  "tag": "$MfT"
- },
- {
   "name": "Bull Market Festival",
   "triggers": [
    "bull market festival"
@@ -741,6 +733,14 @@
    "pizza day party"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091893326240686586",
+  "tag": "$MfT"
+ },
+ {
+  "name": "On-Chain Garden",
+  "triggers": [
+   "on-chain garden"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091898369916457203",
   "tag": "$MfT"
  }
 ]
