@@ -3608,14 +3608,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2069244081536913882"
  },
  {
-  "band": "MV",
-  "name": "ballinmorre elves forestkids",
-  "triggers": [
-   "ballinmorre elves forestkids"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082556780291194915"
- },
- {
   "band": "CB",
   "name": "Chain Reaction Diplomacy",
   "triggers": [
@@ -7119,5 +7111,13 @@
    "each one carries two"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091712130282037250"
+ },
+ {
+  "band": "MV",
+  "name": "ballinmorre elves forestkids",
+  "triggers": [
+   "ballinmorre elves forestkids"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091717129208824158"
  }
 ]
