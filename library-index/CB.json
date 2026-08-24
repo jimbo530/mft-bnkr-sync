@@ -471,5 +471,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091752485492809769",
   "tag": "$MfT"
+ },
+ {
+  "name": "EBM - Code Not Coal",
+  "triggers": [
+   "ebm - code not coal"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091873145196007817",
+  "tag": "$MfT"
  }
 ]
