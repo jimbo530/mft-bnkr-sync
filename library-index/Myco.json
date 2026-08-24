@@ -295,14 +295,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "More Than Whole",
-  "triggers": [
-   "more than whole"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081570358793060857",
-  "tag": "$MfT"
- },
- {
   "name": "Make The Change You Want To See",
   "triggers": [
    "make the change you want to see"
@@ -741,6 +733,14 @@
    "(🎧 “thanks for being here”) (1)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091933612337692922",
+  "tag": "$MfT"
+ },
+ {
+  "name": "More Than Whole",
+  "triggers": [
+   "more than whole"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091973865886916759",
   "tag": "$MfT"
  }
 ]

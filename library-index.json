@@ -2799,14 +2799,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2081837117613731982"
  },
  {
-  "band": "Myco",
-  "name": "More Than Whole",
-  "triggers": [
-   "more than whole"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081570358793060857"
- },
- {
   "band": "EBM",
   "name": "Drop ’Em If You Got ’Em",
   "triggers": [
@@ -7135,5 +7127,13 @@
    "digerie dude - signal in the noise"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091958759748760016"
+ },
+ {
+  "band": "Myco",
+  "name": "More Than Whole",
+  "triggers": [
+   "more than whole"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091973865886916759"
  }
 ]
