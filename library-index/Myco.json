@@ -287,14 +287,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "(🎧 “Thanks for Being Here”) (1)",
-  "triggers": [
-   "(🎧 “thanks for being here”) (1)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084670795452686830",
-  "tag": "$MfT"
- },
- {
   "name": "One Act At A Time",
   "triggers": [
    "one act at a time"
@@ -741,6 +733,14 @@
    "on-chain garden"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091898369916457203",
+  "tag": "$MfT"
+ },
+ {
+  "name": "(🎧 “Thanks for Being Here”) (1)",
+  "triggers": [
+   "(🎧 “thanks for being here”) (1)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091933612337692922",
   "tag": "$MfT"
  }
 ]
