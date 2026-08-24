@@ -3425,14 +3425,6 @@
  },
  {
   "band": "MV",
-  "name": "Digerie Dude - Stand Through the Storm",
-  "triggers": [
-   "digerie dude - stand through the storm"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083075255489224719"
- },
- {
-  "band": "MV",
   "name": "nattily grow greatness",
   "triggers": [
    "nattily grow greatness"
@@ -7135,5 +7127,13 @@
    "digerie dude - still learning still loving"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092014080500392217"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Stand Through the Storm",
+  "triggers": [
+   "digerie dude - stand through the storm"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092019115439321565"
  }
 ]
