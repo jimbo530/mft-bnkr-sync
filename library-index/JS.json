@@ -715,5 +715,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091651708338266474",
   "tag": "$MfT"
+ },
+ {
+  "name": "Jony Sings Alliance",
+  "triggers": [
+   "jony sings alliance"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091676908291317920",
+  "tag": "$MfT"
  }
 ]
