@@ -377,14 +377,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "You matter here -G.O.A.T.",
-  "triggers": [
-   "you matter here -g.o.a.t."
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083321878941245877",
-  "tag": "$MfT"
- },
- {
   "name": "Digerie Dude- sound of Growth",
   "triggers": [
    "digerie dude- sound of growth"
@@ -1175,6 +1167,14 @@
    "ballinmorre elves forestkids"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091717129208824158",
+  "tag": "$MfT"
+ },
+ {
+  "name": "You matter here -G.O.A.T.",
+  "triggers": [
+   "you matter here -g.o.a.t."
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091757434364633268",
   "tag": "$MfT"
  }
 ]

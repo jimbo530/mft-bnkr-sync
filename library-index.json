@@ -3793,14 +3793,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2084675809084633231"
  },
  {
-  "band": "MV",
-  "name": "You matter here -G.O.A.T.",
-  "triggers": [
-   "you matter here -g.o.a.t."
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083321878941245877"
- },
- {
   "band": "JS",
   "name": "The Magic s in the Crowd",
   "triggers": [
@@ -7119,5 +7111,13 @@
    "chain reaction diplomacy"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091752485492809769"
+ },
+ {
+  "band": "MV",
+  "name": "You matter here -G.O.A.T.",
+  "triggers": [
+   "you matter here -g.o.a.t."
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091757434364633268"
  }
 ]
