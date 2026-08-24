@@ -2783,14 +2783,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2081912570055651791"
  },
  {
-  "band": "EBM",
-  "name": "All-Time High",
-  "triggers": [
-   "all-time high"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083482905989226821"
- },
- {
   "band": "Myco",
   "name": "(🎧 “Thanks for Being Here”) (1)",
   "triggers": [
@@ -7135,5 +7127,13 @@
    "ebm - code not coal"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091873145196007817"
+ },
+ {
+  "band": "EBM",
+  "name": "All-Time High",
+  "triggers": [
+   "all-time high"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091878200129290423"
  }
 ]

@@ -369,14 +369,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "All-Time High",
-  "triggers": [
-   "all-time high"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083482905989226821",
-  "tag": "$MfT"
- },
- {
   "name": "Invite A Friend",
   "triggers": [
    "invite a friend"
@@ -815,6 +807,14 @@
    "elves of ballinmoore — “gold to green (o"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091837964393361526",
+  "tag": "$MfT"
+ },
+ {
+  "name": "All-Time High",
+  "triggers": [
+   "all-time high"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2091878200129290423",
   "tag": "$MfT"
  }
 ]
