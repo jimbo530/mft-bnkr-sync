@@ -2760,14 +2760,6 @@
  },
  {
   "band": "EBM",
-  "name": "Invite A Friend",
-  "triggers": [
-   "invite a friend"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083820138411819035"
- },
- {
-  "band": "EBM",
   "name": "Drop ’Em If You Got ’Em",
   "triggers": [
    "drop ’em if you got ’em"
@@ -7134,5 +7126,13 @@
    "drop memes, fund trees"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092220482430890347"
+ },
+ {
+  "band": "EBM",
+  "name": "Invite A Friend",
+  "triggers": [
+   "invite a friend"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092235524555657724"
  }
 ]
