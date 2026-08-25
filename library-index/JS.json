@@ -284,14 +284,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "It Carries Two",
-  "triggers": [
-   "it carries two"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083583594719494332",
-  "tag": "$MfT"
- },
- {
   "name": "You Dont Know",
   "triggers": [
    "you dont know"
@@ -730,6 +722,14 @@
    "alliance"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091993986017738812",
+  "tag": "$MfT"
+ },
+ {
+  "name": "It Carries Two",
+  "triggers": [
+   "it carries two"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092054387858231445",
   "tag": "$MfT"
  }
 ]

@@ -3017,14 +3017,6 @@
  },
  {
   "band": "JS",
-  "name": "It Carries Two",
-  "triggers": [
-   "it carries two"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083583594719494332"
- },
- {
-  "band": "JS",
   "name": "You Dont Know",
   "triggers": [
    "you dont know"
@@ -7135,5 +7127,13 @@
    "locked forever"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092039295913660900"
+ },
+ {
+  "band": "JS",
+  "name": "It Carries Two",
+  "triggers": [
+   "it carries two"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092054387858231445"
  }
 ]
