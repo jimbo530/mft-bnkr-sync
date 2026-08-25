@@ -2967,15 +2967,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2082657442203136049"
  },
  {
-  "band": "NN",
-  "name": "Pass It On",
-  "triggers": [
-   "pass it on"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081917587084935272",
-  "promote": true
- },
- {
   "band": "JS",
   "name": "Cellars Sewers And Spells",
   "triggers": [
@@ -7135,5 +7126,13 @@
    "opp to be awesome - biggins mcjamin"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092099658482901108"
+ },
+ {
+  "band": "NN",
+  "name": "Pass It On",
+  "triggers": [
+   "pass it on"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092114779699572939"
  }
 ]
