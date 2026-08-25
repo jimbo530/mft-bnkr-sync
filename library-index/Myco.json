@@ -271,14 +271,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Make Some Magic",
-  "triggers": [
-   "make some magic"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083014881926619573",
-  "tag": "$MfT"
- },
- {
   "name": "Drop The Beats To Fund The Forest",
   "triggers": [
    "drop the beats to fund the forest"
@@ -741,6 +733,14 @@
    "more than whole"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091973865886916759",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Make Some Magic",
+  "triggers": [
+   "make some magic"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092079553724252545",
   "tag": "$MfT"
  }
 ]

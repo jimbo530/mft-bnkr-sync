@@ -2735,14 +2735,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2081771676182651030"
  },
  {
-  "band": "Myco",
-  "name": "Make Some Magic",
-  "triggers": [
-   "make some magic"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083014881926619573"
- },
- {
   "band": "DD",
   "name": "Small Voices, Big Waves",
   "triggers": [
@@ -7135,5 +7127,13 @@
    "i love being alive"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092074466922639707"
+ },
+ {
+  "band": "Myco",
+  "name": "Make Some Magic",
+  "triggers": [
+   "make some magic"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092079553724252545"
  }
 ]
