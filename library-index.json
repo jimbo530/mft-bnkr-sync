@@ -3487,14 +3487,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2083704336857653278"
  },
  {
-  "band": "MV",
-  "name": "herbs and rimes",
-  "triggers": [
-   "herbs and rimes"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083865406821827042"
- },
- {
   "band": "JS",
   "name": "The Magic s in the Crowd",
   "triggers": [
@@ -7141,5 +7133,13 @@
    "real proof"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092295978866835666"
+ },
+ {
+  "band": "MV",
+  "name": "herbs and rimes",
+  "triggers": [
+   "herbs and rimes"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092300968373223534"
  }
 ]
