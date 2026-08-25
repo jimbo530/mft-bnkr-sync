@@ -2783,14 +2783,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2083820138411819035"
  },
  {
-  "band": "EBM",
-  "name": "Locked Forever",
-  "triggers": [
-   "locked forever"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082174287562129614"
- },
- {
   "band": "Myco",
   "name": "One Act At A Time",
   "triggers": [
@@ -7135,5 +7127,13 @@
    "digerie dude - open mic"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092034253567447416"
+ },
+ {
+  "band": "EBM",
+  "name": "Locked Forever",
+  "triggers": [
+   "locked forever"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092039295913660900"
  }
 ]
