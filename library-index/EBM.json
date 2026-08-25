@@ -816,5 +816,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092316115657519182",
   "tag": "$MfT"
+ },
+ {
+  "name": "Compost By The Snow",
+  "triggers": [
+   "compost by the snow"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092386556929515927",
+  "tag": "$MfT"
  }
 ]
