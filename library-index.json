@@ -4033,14 +4033,6 @@
  },
  {
   "band": "Myco",
-  "name": "Real Proof",
-  "triggers": [
-   "real proof"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081937765034238243"
- },
- {
-  "band": "Myco",
   "name": "Bull Market Festival",
   "triggers": [
    "bull market festival"
@@ -7141,5 +7133,13 @@
    "digerie dude - believe in someething"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092280875970896234"
+ },
+ {
+  "band": "Myco",
+  "name": "Real Proof",
+  "triggers": [
+   "real proof"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092295978866835666"
  }
 ]

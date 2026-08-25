@@ -6490,19 +6490,6 @@
     "caption": "🎵 \"After the Winter Comes\" — Myco\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2081937765034238243",
-    "translation": "Real Proof",
-    "name": "Real Proof",
-    "triggers": [
-      "real proof"
-    ],
-    "band": "Myco",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2081937765034238243",
-    "caption": "🎵 \"Real Proof\" — Myco\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2082481294089306119",
     "translation": "Bull Market Festival",
     "name": "Bull Market Festival",
@@ -11529,5 +11516,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2092280875970896234",
     "caption": "\"Digerie Dude - Believe in SomeETHing\"\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2092295978866835666",
+    "translation": "Real Proof",
+    "name": "Real Proof",
+    "triggers": [
+      "real proof"
+    ],
+    "band": "Myco",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2092295978866835666",
+    "caption": "\"Real Proof\" — Myco\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

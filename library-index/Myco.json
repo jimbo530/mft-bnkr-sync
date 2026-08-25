@@ -343,14 +343,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Real Proof",
-  "triggers": [
-   "real proof"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081937765034238243",
-  "tag": "$MfT"
- },
- {
   "name": "Bull Market Festival",
   "triggers": [
    "bull market festival"
@@ -741,6 +733,14 @@
    "one act at a time"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092094654825034186",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Real Proof",
+  "triggers": [
+   "real proof"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092295978866835666",
   "tag": "$MfT"
  }
 ]
