@@ -2991,14 +2991,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2083945990722097391"
  },
  {
-  "band": "EBM",
-  "name": "ELVES OF BALLINMOORE — “BASE BASE BASE”",
-  "triggers": [
-   "elves of ballinmoore — “base base base”"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082954427414044758"
- },
- {
   "band": "JS",
   "name": "Investors of Tomorrow",
   "triggers": [
@@ -7141,5 +7133,13 @@
    "herbs and rimes"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092300968373223534"
+ },
+ {
+  "band": "EBM",
+  "name": "ELVES OF BALLINMOORE — “BASE BASE BASE”",
+  "triggers": [
+   "elves of ballinmoore — “base base base”"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092316115657519182"
  }
 ]
