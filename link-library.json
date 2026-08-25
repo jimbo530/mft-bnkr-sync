@@ -5488,19 +5488,6 @@
     "caption": "🎵 \"Digerie Dude - Resilient Rain Plant a Tree\"\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2082581999294861460",
-    "translation": "Proof of Freedom",
-    "name": "Proof of Freedom",
-    "triggers": [
-      "proof of freedom"
-    ],
-    "band": "CB",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2082581999294861460",
-    "caption": "🎵 \"Proof of Freedom\" — CB\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2083719445646582046",
     "translation": "Digerie Dude - Long Way home",
     "name": "Digerie Dude - Long Way home",
@@ -11517,5 +11504,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2092155052269957453",
     "caption": "\"Forever Is Longer Than You Know\" — Elves of Ballinmoore\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2092175191342277003",
+    "translation": "Proof of Freedom",
+    "name": "Proof of Freedom",
+    "triggers": [
+      "proof of freedom"
+    ],
+    "band": "CB",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2092175191342277003",
+    "caption": "\"Proof of Freedom\" — CB\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

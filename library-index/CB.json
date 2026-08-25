@@ -208,14 +208,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Proof of Freedom",
-  "triggers": [
-   "proof of freedom"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082581999294861460",
-  "tag": "$MfT"
- },
- {
   "name": "Getting Based",
   "triggers": [
    "getting based"
@@ -478,6 +470,14 @@
    "ebm - code not coal"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091873145196007817",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Proof of Freedom",
+  "triggers": [
+   "proof of freedom"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092175191342277003",
   "tag": "$MfT"
  }
 ]

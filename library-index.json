@@ -3415,14 +3415,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2081852165904076956"
  },
  {
-  "band": "CB",
-  "name": "Proof of Freedom",
-  "triggers": [
-   "proof of freedom"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082581999294861460"
- },
- {
   "band": "MV",
   "name": "Digerie Dude - Long Way home",
   "triggers": [
@@ -7134,5 +7126,13 @@
    "forever is longer than you know"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092155052269957453"
+ },
+ {
+  "band": "CB",
+  "name": "Proof of Freedom",
+  "triggers": [
+   "proof of freedom"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092175191342277003"
  }
 ]
