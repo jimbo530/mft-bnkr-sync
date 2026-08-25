@@ -2903,14 +2903,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2085380380987703780"
  },
  {
-  "band": "MR",
-  "name": "I Love Being Alive",
-  "triggers": [
-   "i love being alive"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084026475443818999"
- },
- {
   "band": "JS",
   "name": "Decentralize",
   "triggers": [
@@ -7135,5 +7127,13 @@
    "polyraiders"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092059417797628071"
+ },
+ {
+  "band": "MR",
+  "name": "I Love Being Alive",
+  "triggers": [
+   "i love being alive"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092074466922639707"
  }
 ]
