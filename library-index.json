@@ -2775,14 +2775,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2083820138411819035"
  },
  {
-  "band": "Myco",
-  "name": "One Act At A Time",
-  "triggers": [
-   "one act at a time"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081837117613731982"
- },
- {
   "band": "EBM",
   "name": "Drop ’Em If You Got ’Em",
   "triggers": [
@@ -7135,5 +7127,13 @@
    "make some magic"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092079553724252545"
+ },
+ {
+  "band": "Myco",
+  "name": "One Act At A Time",
+  "triggers": [
+   "one act at a time"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092094654825034186"
  }
 ]
