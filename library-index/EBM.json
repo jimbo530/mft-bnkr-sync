@@ -345,14 +345,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Forest Got Funded",
-  "triggers": [
-   "forest got funded"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082561826454204756",
-  "tag": "$MfT"
- },
- {
   "name": "Drop ’Em If You Got ’Em",
   "triggers": [
    "drop ’em if you got ’em"
@@ -815,6 +807,14 @@
    "invite a friend"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092235524555657724",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Forest Got Funded",
+  "triggers": [
+   "forest got funded"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092260709602087120",
   "tag": "$MfT"
  }
 ]

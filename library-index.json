@@ -2743,14 +2743,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2084021498348556297"
  },
  {
-  "band": "EBM",
-  "name": "Forest Got Funded",
-  "triggers": [
-   "forest got funded"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082561826454204756"
- },
- {
   "band": "Myco",
   "name": "Drop The Beats To Fund The Forest",
   "triggers": [
@@ -7141,5 +7133,13 @@
    "ebm- ballinmoore extends its love"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092255681348850065"
+ },
+ {
+  "band": "EBM",
+  "name": "Forest Got Funded",
+  "triggers": [
+   "forest got funded"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092260709602087120"
  }
 ]
