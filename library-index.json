@@ -3081,14 +3081,6 @@
  },
  {
   "band": "JS",
-  "name": "Polyraiders",
-  "triggers": [
-   "polyraiders"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084695901667213702"
- },
- {
-  "band": "JS",
   "name": "Un Rugables",
   "triggers": [
    "un rugables"
@@ -7135,5 +7127,13 @@
    "it carries two"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092054387858231445"
+ },
+ {
+  "band": "JS",
+  "name": "Polyraiders",
+  "triggers": [
+   "polyraiders"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092059417797628071"
  }
 ]
