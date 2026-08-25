@@ -3024,14 +3024,6 @@
  },
  {
   "band": "EBM",
-  "name": "emerald signal 22726",
-  "triggers": [
-   "emerald signal 22726"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083603707577389563"
- },
- {
-  "band": "EBM",
   "name": "FROM MEMES TO MANGROVES",
   "triggers": [
    "from memes to mangroves"
@@ -7141,5 +7133,13 @@
    "forest got funded"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092260709602087120"
+ },
+ {
+  "band": "EBM",
+  "name": "emerald signal 22726",
+  "triggers": [
+   "emerald signal 22726"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092275850850742321"
  }
 ]
