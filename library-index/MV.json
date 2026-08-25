@@ -216,15 +216,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Pass it on Natilie",
-  "triggers": [
-   "pass it on natilie"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084811704731414655",
-  "promote": true,
-  "tag": "$MfT"
- },
- {
   "name": "Jony Sings, alive",
   "triggers": [
    "jony sings, alive"
@@ -1175,6 +1166,14 @@
    "natilie - it will change your life."
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092139977089892752",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Pass it on Natilie",
+  "triggers": [
+   "pass it on natilie"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092240613395578987",
   "tag": "$MfT"
  }
 ]

@@ -3383,15 +3383,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2083719445646582046"
  },
  {
-  "band": "MV",
-  "name": "Pass it on Natilie",
-  "triggers": [
-   "pass it on natilie"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084811704731414655",
-  "promote": true
- },
- {
   "band": "CB",
   "name": "Getting Based",
   "triggers": [
@@ -7134,5 +7125,13 @@
    "invite a friend"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092235524555657724"
+ },
+ {
+  "band": "MV",
+  "name": "Pass it on Natilie",
+  "triggers": [
+   "pass it on natilie"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092240613395578987"
  }
 ]
