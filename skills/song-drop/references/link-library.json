@@ -4591,19 +4591,6 @@
     "caption": "🎵 \"Alive\" — Jony Sings\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2082516525861204465",
-    "translation": "Welcome To The Show",
-    "name": "Welcome To The Show",
-    "triggers": [
-      "welcome to the show"
-    ],
-    "band": "JS",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2082516525861204465",
-    "caption": "🎵 \"Welcome To The Show\" — Jony Sings\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2084524756372423061",
     "translation": "Blockchain Boogie",
     "name": "Blockchain Boogie",
@@ -11529,5 +11516,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2092336240842403854",
     "caption": "\"Regen Rising\" — Jony Sings\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2092341319851033024",
+    "translation": "Welcome To The Show",
+    "name": "Welcome To The Show",
+    "triggers": [
+      "welcome to the show"
+    ],
+    "band": "JS",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2092341319851033024",
+    "caption": "\"Welcome To The Show\" — Jony Sings\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

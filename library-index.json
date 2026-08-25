@@ -2864,14 +2864,6 @@
  },
  {
   "band": "JS",
-  "name": "Welcome To The Show",
-  "triggers": [
-   "welcome to the show"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082516525861204465"
- },
- {
-  "band": "JS",
   "name": "Blockchain Boogie",
   "triggers": [
    "blockchain boogie"
@@ -7141,5 +7133,13 @@
    "regen rising"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092336240842403854"
+ },
+ {
+  "band": "JS",
+  "name": "Welcome To The Show",
+  "triggers": [
+   "welcome to the show"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092341319851033024"
  }
 ]
