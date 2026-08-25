@@ -305,14 +305,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Opp to be awesome - Biggins Mcjamin",
-  "triggers": [
-   "opp to be awesome - biggins mcjamin"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084409007989506277",
-  "tag": "$MfT"
- },
- {
   "name": "TGN Alliance",
   "triggers": [
    "tgn alliance"
@@ -1175,6 +1167,14 @@
    "digerie dude - open mic"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092034253567447416",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Opp to be awesome - Biggins Mcjamin",
+  "triggers": [
+   "opp to be awesome - biggins mcjamin"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092099658482901108",
   "tag": "$MfT"
  }
 ]
