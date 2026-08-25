@@ -731,5 +731,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092346349912027607",
   "tag": "$MfT"
+ },
+ {
+  "name": "Proof of life jony-natilie",
+  "triggers": [
+   "proof of life jony-natilie"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092361422281818142",
+  "tag": "$MfT"
  }
 ]
