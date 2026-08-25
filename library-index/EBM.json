@@ -417,14 +417,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "ELVES OF BALLINMOORE — “MORE LOVE, MORE",
-  "triggers": [
-   "elves of ballinmoore — “more love, more"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082214547939573868",
-  "tag": "$MfT"
- },
- {
   "name": "ELVES OF BALLINMOORE — “BASE BASE BASE”",
   "triggers": [
    "elves of ballinmoore — “base base base”"
@@ -815,6 +807,14 @@
    "elves of ballinmoore — “community of com"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092119815800381944",
+  "tag": "$MfT"
+ },
+ {
+  "name": "ELVES OF BALLINMOORE — “MORE LOVE, MORE",
+  "triggers": [
+   "elves of ballinmoore — “more love, more"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092134919321382970",
   "tag": "$MfT"
  }
 ]

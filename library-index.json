@@ -2871,14 +2871,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2081298549107552461"
  },
  {
-  "band": "EBM",
-  "name": "ELVES OF BALLINMOORE — “MORE LOVE, MORE",
-  "triggers": [
-   "elves of ballinmoore — “more love, more"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082214547939573868"
- },
- {
   "band": "MR",
   "name": "Work Now Dance Later",
   "triggers": [
@@ -7134,5 +7126,13 @@
    "elves of ballinmoore — “community of com"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092119815800381944"
+ },
+ {
+  "band": "EBM",
+  "name": "ELVES OF BALLINMOORE — “MORE LOVE, MORE",
+  "triggers": [
+   "elves of ballinmoore — “more love, more"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092134919321382970"
  }
 ]
