@@ -204,14 +204,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Regen Rising",
-  "triggers": [
-   "regen rising"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084086882690888038",
-  "tag": "$MfT"
- },
- {
   "name": "Every Day Is An Opportunity",
   "triggers": [
    "every day is an opportunity"
@@ -730,6 +722,14 @@
    "un rugables"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092321130065408287",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Regen Rising",
+  "triggers": [
+   "regen rising"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092336240842403854",
   "tag": "$MfT"
  }
 ]
