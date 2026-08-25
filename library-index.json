@@ -6881,14 +6881,6 @@
  },
  {
   "band": "EBM",
-  "name": "Forever is longer than you Know",
-  "triggers": [
-   "forever is longer than you know"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091832893311975856"
- },
- {
-  "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “GOLD TO GREEN (O",
   "triggers": [
    "elves of ballinmoore — “gold to green (o"
@@ -7134,5 +7126,13 @@
    "natilie - it will change your life."
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092139977089892752"
+ },
+ {
+  "band": "EBM",
+  "name": "Forever Is Longer Than You Know",
+  "triggers": [
+   "forever is longer than you know"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092155052269957453"
  }
 ]

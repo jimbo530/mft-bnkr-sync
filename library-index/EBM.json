@@ -754,14 +754,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Forever is longer than you Know",
-  "triggers": [
-   "forever is longer than you know"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091832893311975856",
-  "tag": "$MfT"
- },
- {
   "name": "ELVES OF BALLINMOORE — “GOLD TO GREEN (O",
   "triggers": [
    "elves of ballinmoore — “gold to green (o"
@@ -815,6 +807,14 @@
    "elves of ballinmoore — “more love, more"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092134919321382970",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Forever Is Longer Than You Know",
+  "triggers": [
+   "forever is longer than you know"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092155052269957453",
   "tag": "$MfT"
  }
 ]
