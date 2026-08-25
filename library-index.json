@@ -3360,14 +3360,6 @@
  },
  {
   "band": "MV",
-  "name": "Myko - Your Lane",
-  "triggers": [
-   "myko - your lane"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082622257172549825"
- },
- {
-  "band": "MV",
   "name": "Decentraland Chainport",
   "triggers": [
    "decentraland chainport"
@@ -7149,5 +7141,13 @@
    "digerie dude - pulse of the forest"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092366508798132713"
+ },
+ {
+  "band": "MV",
+  "name": "Myko - Your Lane",
+  "triggers": [
+   "myko - your lane"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092381601581727872"
  }
 ]
