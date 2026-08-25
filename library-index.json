@@ -2903,14 +2903,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2082657442203136049"
  },
  {
-  "band": "JS",
-  "name": "Cellars Sewers And Spells",
-  "triggers": [
-   "cellars sewers and spells"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081671016112173074"
- },
- {
   "band": "Myco",
   "name": "Tunes For Trees",
   "triggers": [
@@ -7141,5 +7133,13 @@
    "welcome to the show"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092341319851033024"
+ },
+ {
+  "band": "JS",
+  "name": "Cellars Sewers And Spells",
+  "triggers": [
+   "cellars sewers and spells"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092346349912027607"
  }
 ]
