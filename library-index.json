@@ -2927,14 +2927,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2083135655530361305"
  },
  {
-  "band": "JS",
-  "name": "Proof Of Life",
-  "triggers": [
-   "proof of life"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084549917515673844"
- },
- {
   "band": "MR",
   "name": "Opportunity To Be Great",
   "triggers": [
@@ -7134,5 +7126,13 @@
    "ballinmoore bounce"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092195292795768946"
+ },
+ {
+  "band": "JS",
+  "name": "Proof Of Life",
+  "triggers": [
+   "proof of life"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092200339847922003"
  }
 ]
