@@ -292,14 +292,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Un Rugables",
-  "triggers": [
-   "un rugables"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083945990722097391",
-  "tag": "$MfT"
- },
- {
   "name": "Investors of Tomorrow",
   "triggers": [
    "investors of tomorrow"
@@ -730,6 +722,14 @@
    "songs for the builders"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092215397864870120",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Un Rugables",
+  "triggers": [
+   "un rugables"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092321130065408287",
   "tag": "$MfT"
  }
 ]

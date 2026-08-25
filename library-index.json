@@ -2984,14 +2984,6 @@
  },
  {
   "band": "JS",
-  "name": "Un Rugables",
-  "triggers": [
-   "un rugables"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083945990722097391"
- },
- {
-  "band": "JS",
   "name": "Investors of Tomorrow",
   "triggers": [
    "investors of tomorrow"
@@ -7141,5 +7133,13 @@
    "elves of ballinmoore — “base base base”"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092316115657519182"
+ },
+ {
+  "band": "JS",
+  "name": "Un Rugables",
+  "triggers": [
+   "un rugables"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092321130065408287"
  }
 ]
