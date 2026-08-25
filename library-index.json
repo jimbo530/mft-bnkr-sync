@@ -4418,14 +4418,6 @@
  },
  {
   "band": "JS",
-  "name": "jony sings Polyraiders",
-  "triggers": [
-   "jony sings polyraiders"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083301750816084229"
- },
- {
-  "band": "JS",
   "name": "Jony Sings, Party god",
   "triggers": [
    "jony sings, party god"
@@ -7134,5 +7126,13 @@
    "proof of freedom"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092175191342277003"
+ },
+ {
+  "band": "JS",
+  "name": "jony sings Polyraiders",
+  "triggers": [
+   "jony sings polyraiders"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092180214549815693"
  }
 ]
