@@ -425,14 +425,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "ELVES OF BALLINMOORE — “COMMUNITY OF COM",
-  "triggers": [
-   "elves of ballinmoore — “community of com"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083055094543650823",
-  "tag": "$MfT"
- },
- {
   "name": "ELVES OF BALLINMOORE — “BASE BASE BASE”",
   "triggers": [
    "elves of ballinmoore — “base base base”"
@@ -815,6 +807,14 @@
    "locked forever"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092039295913660900",
+  "tag": "$MfT"
+ },
+ {
+  "name": "ELVES OF BALLINMOORE — “COMMUNITY OF COM",
+  "triggers": [
+   "elves of ballinmoore — “community of com"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092119815800381944",
   "tag": "$MfT"
  }
 ]

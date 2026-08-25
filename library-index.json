@@ -3007,14 +3007,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2081575378284323233"
  },
  {
-  "band": "EBM",
-  "name": "ELVES OF BALLINMOORE — “COMMUNITY OF COM",
-  "triggers": [
-   "elves of ballinmoore — “community of com"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083055094543650823"
- },
- {
   "band": "MR",
   "name": "Green Hearts Strong Feet",
   "triggers": [
@@ -7134,5 +7126,13 @@
    "pass it on"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092114779699572939"
+ },
+ {
+  "band": "EBM",
+  "name": "ELVES OF BALLINMOORE — “COMMUNITY OF COM",
+  "triggers": [
+   "elves of ballinmoore — “community of com"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092119815800381944"
  }
 ]
