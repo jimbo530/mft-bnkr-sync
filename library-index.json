@@ -2607,14 +2607,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2084328509929926917"
  },
  {
-  "band": "EBM",
-  "name": "Drop Memes, Fund Trees",
-  "triggers": [
-   "drop memes, fund trees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082743054063014011"
- },
- {
   "band": "DD",
   "name": "The Internet We Dreamed Of",
   "triggers": [
@@ -7134,5 +7126,13 @@
    "songs for the builders"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092215397864870120"
+ },
+ {
+  "band": "EBM",
+  "name": "Drop Memes, Fund Trees",
+  "triggers": [
+   "drop memes, fund trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092220482430890347"
  }
 ]
