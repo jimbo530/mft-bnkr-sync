@@ -2824,14 +2824,6 @@
  },
  {
   "band": "EBM",
-  "name": "Ballinmoore Bounce",
-  "triggers": [
-   "ballinmoore bounce"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081872278237614461"
- },
- {
-  "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “NO TURNING BACK”",
   "triggers": [
    "elves of ballinmoore — “no turning back”"
@@ -7134,5 +7126,13 @@
    "jony sings polyraiders"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092180214549815693"
+ },
+ {
+  "band": "EBM",
+  "name": "Ballinmoore Bounce",
+  "triggers": [
+   "ballinmoore bounce"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092195292795768946"
  }
 ]
