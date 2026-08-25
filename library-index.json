@@ -3520,14 +3520,6 @@
  },
  {
   "band": "MV",
-  "name": "Digerie Dude - Believe in SomeETHing",
-  "triggers": [
-   "digerie dude - believe in someething"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084388910260482199"
- },
- {
-  "band": "MV",
   "name": "Jony Sings - Living it Up",
   "triggers": [
    "jony sings - living it up"
@@ -7141,5 +7133,13 @@
    "emerald signal 22726"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092275850850742321"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Believe in SomeETHing",
+  "triggers": [
+   "digerie dude - believe in someething"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092280875970896234"
  }
 ]

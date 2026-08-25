@@ -320,14 +320,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Digerie Dude - Believe in SomeETHing",
-  "triggers": [
-   "digerie dude - believe in someething"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084388910260482199",
-  "tag": "$MfT"
- },
- {
   "name": "Jony Sings - Living it Up",
   "triggers": [
    "jony sings - living it up"
@@ -1182,6 +1174,14 @@
    "ebm- ballinmoore extends its love"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092255681348850065",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Digerie Dude - Believe in SomeETHing",
+  "triggers": [
+   "digerie dude - believe in someething"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092280875970896234",
   "tag": "$MfT"
  }
 ]
