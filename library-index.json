@@ -3280,14 +3280,6 @@
  },
  {
   "band": "MV",
-  "name": "Digerie Dude - Pulse of the Forest",
-  "triggers": [
-   "digerie dude - pulse of the forest"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083040049226985664"
- },
- {
-  "band": "MV",
   "name": "Forest on Fire rock",
   "triggers": [
    "forest on fire rock"
@@ -7149,5 +7141,13 @@
    "proof of life jony-natilie"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092361422281818142"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Pulse of the Forest",
+  "triggers": [
+   "digerie dude - pulse of the forest"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092366508798132713"
  }
 ]

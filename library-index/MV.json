@@ -176,14 +176,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Digerie Dude - Pulse of the Forest",
-  "triggers": [
-   "digerie dude - pulse of the forest"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083040049226985664",
-  "tag": "$MfT"
- },
- {
   "name": "Forest on Fire rock",
   "triggers": [
    "forest on fire rock"
@@ -1182,6 +1174,14 @@
    "herbs and rimes"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092300968373223534",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Digerie Dude - Pulse of the Forest",
+  "triggers": [
+   "digerie dude - pulse of the forest"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092366508798132713",
   "tag": "$MfT"
  }
 ]
