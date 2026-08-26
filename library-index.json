@@ -3549,14 +3549,6 @@
  },
  {
   "band": "MV",
-  "name": "Digerie Dude - Crown of Silence",
-  "triggers": [
-   "digerie dude - crown of silence"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085012979888632309"
- },
- {
-  "band": "MV",
   "name": "love and hate Jasmine",
   "triggers": [
    "love and hate jasmine"
@@ -7265,5 +7257,13 @@
    "the canopy owes nobody"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092663379714302401"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Crown of Silence",
+  "triggers": [
+   "digerie dude - crown of silence"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092668470252957919"
  }
 ]
