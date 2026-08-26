@@ -739,5 +739,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092361422281818142",
   "tag": "$MfT"
+ },
+ {
+  "name": "I Poured It Tea",
+  "triggers": [
+   "i poured it tea"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092507392659329468",
+  "tag": "$MfT"
  }
 ]
