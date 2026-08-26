@@ -247,14 +247,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Magic Comes From You",
-  "triggers": [
-   "magic comes from you"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081771676182651030",
-  "tag": "$MfT"
- },
- {
   "name": "Drop The Beats To Fund The Forest",
   "triggers": [
    "drop the beats to fund the forest"
@@ -749,6 +741,14 @@
    "we all are one"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092708735776968993",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Magic Comes From You",
+  "triggers": [
+   "magic comes from you"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092728880364691698",
   "tag": "$MfT"
  }
 ]

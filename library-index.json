@@ -2683,14 +2683,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2083115527279354170"
  },
  {
-  "band": "Myco",
-  "name": "Magic Comes From You",
-  "triggers": [
-   "magic comes from you"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081771676182651030"
- },
- {
   "band": "DD",
   "name": "Small Voices, Big Waves",
   "triggers": [
@@ -7265,5 +7257,13 @@
    "gotta get paid"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092723834109505981"
+ },
+ {
+  "band": "Myco",
+  "name": "Magic Comes From You",
+  "triggers": [
+   "magic comes from you"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092728880364691698"
  }
 ]
