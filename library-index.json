@@ -2595,14 +2595,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2084328509929926917"
  },
  {
-  "band": "DD",
-  "name": "The Internet We Dreamed Of",
-  "triggers": [
-   "the internet we dreamed of"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081630753461256648"
- },
- {
   "band": "Myco",
   "name": "We All Are One",
   "triggers": [
@@ -7257,5 +7249,13 @@
    "go do something nice"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092603040498872434"
+ },
+ {
+  "band": "DD",
+  "name": "The Internet We Dreamed Of",
+  "triggers": [
+   "the internet we dreamed of"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092608079355433287"
  }
 ]
