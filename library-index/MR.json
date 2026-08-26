@@ -381,5 +381,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092074466922639707",
   "tag": "$MfT"
+ },
+ {
+  "name": "Steady As Di Riddim",
+  "triggers": [
+   "steady as di riddim"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092502330805555400",
+  "tag": "$MfT"
  }
 ]
