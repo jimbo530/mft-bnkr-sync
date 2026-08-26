@@ -325,5 +325,12 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089759339485569089",
   "tag": "$MfT"
+ },
+ {
+  "name": "For MemeForTrees — 0fcd",
+  "triggers": [
+   "for memefortrees — 0fcd"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092403302742831462"
  }
 ]
