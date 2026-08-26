@@ -3244,14 +3244,6 @@
  },
  {
   "band": "CB",
-  "name": "Block by Block",
-  "triggers": [
-   "block by block"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084836964805574794"
- },
- {
-  "band": "CB",
   "name": "Global Village",
   "triggers": [
    "global village"
@@ -7241,5 +7233,13 @@
    "started, made, done"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092542637844668796"
+ },
+ {
+  "band": "CB",
+  "name": "Block by Block",
+  "triggers": [
+   "block by block"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092547750655128053"
  }
 ]
