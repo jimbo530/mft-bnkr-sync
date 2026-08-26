@@ -465,14 +465,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Lighter than before",
-  "triggers": [
-   "lighter than before"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081711283993235656",
-  "tag": "$MfT"
- },
- {
   "name": "Jony Sings - For the Builders",
   "triggers": [
    "jony sings - for the builders"
@@ -1198,6 +1190,14 @@
    "each one matters"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092587904040116362",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Lighter than before",
+  "triggers": [
+   "lighter than before"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092648342744449430",
   "tag": "$MfT"
  }
 ]

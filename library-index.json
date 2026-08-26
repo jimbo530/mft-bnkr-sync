@@ -3605,14 +3605,6 @@
  },
  {
   "band": "MV",
-  "name": "Lighter than before",
-  "triggers": [
-   "lighter than before"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081711283993235656"
- },
- {
-  "band": "MV",
   "name": "Jony Sings - For the Builders",
   "triggers": [
    "jony sings - for the builders"
@@ -7257,5 +7249,13 @@
    "make the change you want to see"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092643305439789157"
+ },
+ {
+  "band": "MV",
+  "name": "Lighter than before",
+  "triggers": [
+   "lighter than before"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092648342744449430"
  }
 ]
