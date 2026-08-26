@@ -359,5 +359,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092114779699572939",
   "tag": "$MfT"
+ },
+ {
+  "name": "Can t Doomscroll And Dance",
+  "triggers": [
+   "can t doomscroll and dance"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092401666515497235",
+  "tag": "$MfT"
  }
 ]
