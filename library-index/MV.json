@@ -1191,5 +1191,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092562785536196958",
   "tag": "$MfT"
+ },
+ {
+  "name": "EBM - No Turning back.",
+  "triggers": [
+   "ebm - no turning back."
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092582917440426124",
+  "tag": "$MfT"
  }
 ]
