@@ -202,5 +202,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089779519515173164",
   "tag": "$MfT"
+ },
+ {
+  "name": "Second-Line For Your Fear",
+  "triggers": [
+   "second-line for your fear"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092406740713189736",
+  "tag": "$MfT"
  }
 ]

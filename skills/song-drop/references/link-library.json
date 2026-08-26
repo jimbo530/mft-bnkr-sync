@@ -11582,5 +11582,18 @@
     "xPost": "https://x.com/MemeForTrees/status/2092403302742831462",
     "caption": "\"For MemeForTrees — 0fcd\" — Bongo",
     "boothCommission": "sg_mt9c0o0fcd"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2092406740713189736",
+    "translation": "Second-Line For Your Fear",
+    "name": "Second-Line For Your Fear",
+    "triggers": [
+      "second-line for your fear"
+    ],
+    "band": "DGT",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2092406740713189736",
+    "caption": "\"Second-Line For Your Fear\" — Damned Good Time Orchestra\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
