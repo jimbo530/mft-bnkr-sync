@@ -109,5 +109,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089799565897556013",
   "tag": "$MfT"
+ },
+ {
+  "name": "Against Da FUD",
+  "triggers": [
+   "against da fud"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092426827142664649",
+  "tag": "$MfT"
  }
 ]
