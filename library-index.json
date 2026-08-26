@@ -3171,14 +3171,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2080327097336148380"
  },
  {
-  "band": "CB",
-  "name": "Embodied Network",
-  "triggers": [
-   "embodied network"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081897502509265276"
- },
- {
   "band": "MV",
   "name": "Society is a Meme",
   "triggers": [
@@ -7257,5 +7249,13 @@
    "jony sings, jaguars"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092623138995511725"
+ },
+ {
+  "band": "CB",
+  "name": "Embodied Network",
+  "triggers": [
+   "embodied network"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092628205790253224"
  }
 ]
