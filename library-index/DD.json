@@ -461,5 +461,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2091228915880632643",
   "tag": "$MfT"
+ },
+ {
+  "name": "One Long Breath",
+  "triggers": [
+   "one long breath"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092482233147736334",
+  "tag": "$MfT"
  }
 ]
