@@ -6758,19 +6758,6 @@
     "caption": "🎵 \"Name Yer Monkey\" — Rish\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2083160826475655628",
-    "translation": "Jony Sings, Jaguars",
-    "name": "Jony Sings, Jaguars",
-    "triggers": [
-      "jony sings, jaguars"
-    ],
-    "band": "JS",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2083160826475655628",
-    "caption": "🎵 \"Jony Sings, Jaguars\" — Jony Sings\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2084162416313548933",
     "translation": "Jony Sings, Party god",
     "name": "Jony Sings, Party god",
@@ -11719,5 +11706,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2092608079355433287",
     "caption": "\"The Internet We Dreamed Of\" — Digerie Dude\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2092623138995511725",
+    "translation": "Jony Sings, Jaguars",
+    "name": "Jony Sings, Jaguars",
+    "triggers": [
+      "jony sings, jaguars"
+    ],
+    "band": "JS",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2092623138995511725",
+    "caption": "\"Jony Sings, Jaguars\" — Jony Sings\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

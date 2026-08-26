@@ -308,14 +308,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Jony Sings, Jaguars",
-  "triggers": [
-   "jony sings, jaguars"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083160826475655628",
-  "tag": "$MfT"
- },
- {
   "name": "Jony Sings, Party god",
   "triggers": [
    "jony sings, party god"
@@ -746,6 +738,14 @@
    "i poured it tea"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092507392659329468",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Jony Sings, Jaguars",
+  "triggers": [
+   "jony sings, jaguars"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092623138995511725",
   "tag": "$MfT"
  }
 ]

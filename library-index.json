@@ -4197,14 +4197,6 @@
  },
  {
   "band": "JS",
-  "name": "Jony Sings, Jaguars",
-  "triggers": [
-   "jony sings, jaguars"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083160826475655628"
- },
- {
-  "band": "JS",
   "name": "Jony Sings, Party god",
   "triggers": [
    "jony sings, party god"
@@ -7257,5 +7249,13 @@
    "the internet we dreamed of"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092608079355433287"
+ },
+ {
+  "band": "JS",
+  "name": "Jony Sings, Jaguars",
+  "triggers": [
+   "jony sings, jaguars"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092623138995511725"
  }
 ]
