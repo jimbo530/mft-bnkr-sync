@@ -2827,14 +2827,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2084524756372423061"
  },
  {
-  "band": "NN",
-  "name": "Golden On The Base Line",
-  "triggers": [
-   "golden on the base line"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084066746437144843"
- },
- {
   "band": "JS",
   "name": "Party God",
   "triggers": [
@@ -7265,5 +7257,13 @@
    "digerie dude - crown of silence"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092668470252957919"
+ },
+ {
+  "band": "NN",
+  "name": "Golden On The Base Line",
+  "triggers": [
+   "golden on the base line"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092683569923514842"
  }
 ]
