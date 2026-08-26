@@ -3395,14 +3395,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088022842168226049"
  },
  {
-  "band": "CB",
-  "name": "Need More Base",
-  "triggers": [
-   "need more base"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082758148738187318"
- },
- {
   "band": "MV",
   "name": "Jony Sings, dance until morning",
   "triggers": [
@@ -7265,5 +7257,13 @@
    "un rugables"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092688563351498861"
+ },
+ {
+  "band": "CB",
+  "name": "Need More Base",
+  "triggers": [
+   "need more base"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092703699747389507"
  }
 ]
