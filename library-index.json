@@ -3251,14 +3251,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2083216185579929965"
  },
  {
-  "band": "MV",
-  "name": "Each one matters",
-  "triggers": [
-   "each one matters"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085038187043279039"
- },
- {
   "band": "EBM",
   "name": "test-Mutiny-titled",
   "triggers": [
@@ -7257,5 +7249,13 @@
    "ebm - no turning back."
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092582917440426124"
+ },
+ {
+  "band": "MV",
+  "name": "Each one matters",
+  "triggers": [
+   "each one matters"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092587904040116362"
  }
 ]
