@@ -316,14 +316,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Jony Sings, dance until morning",
-  "triggers": [
-   "jony sings, dance until morning"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084831871934873981",
-  "tag": "$MfT"
- },
- {
   "name": "Back The Beginning",
   "triggers": [
    "back the beginning"
@@ -746,6 +738,14 @@
    "gotta get paid"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092723834109505981",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Jony Sings, dance until morning",
+  "triggers": [
+   "jony sings, dance until morning"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092743922908832130",
   "tag": "$MfT"
  }
 ]

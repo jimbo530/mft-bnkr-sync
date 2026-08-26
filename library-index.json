@@ -4132,14 +4132,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2084771392973668798"
  },
  {
-  "band": "JS",
-  "name": "Jony Sings, dance until morning",
-  "triggers": [
-   "jony sings, dance until morning"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084831871934873981"
- },
- {
   "band": "EBM",
   "name": "Plug That Backs Real Ones",
   "triggers": [
@@ -7265,5 +7257,13 @@
    "magic comes from you"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092728880364691698"
+ },
+ {
+  "band": "JS",
+  "name": "Jony Sings, dance until morning",
+  "triggers": [
+   "jony sings, dance until morning"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092743922908832130"
  }
 ]
