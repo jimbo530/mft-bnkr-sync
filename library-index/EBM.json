@@ -377,14 +377,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Un Rugables",
-  "triggers": [
-   "un rugables"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083296673875296705",
-  "tag": "$MfT"
- },
- {
   "name": "FROM MEMES TO MANGROVES",
   "triggers": [
    "from memes to mangroves"
@@ -831,6 +823,14 @@
    "the canopy owes nobody"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092663379714302401",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Un Rugables",
+  "triggers": [
+   "un rugables"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092688563351498861",
   "tag": "$MfT"
  }
 ]

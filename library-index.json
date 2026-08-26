@@ -2916,14 +2916,6 @@
  },
  {
   "band": "EBM",
-  "name": "Un Rugables",
-  "triggers": [
-   "un rugables"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083296673875296705"
- },
- {
-  "band": "EBM",
   "name": "FROM MEMES TO MANGROVES",
   "triggers": [
    "from memes to mangroves"
@@ -7265,5 +7257,13 @@
    "golden on the base line"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092683569923514842"
+ },
+ {
+  "band": "EBM",
+  "name": "Un Rugables",
+  "triggers": [
+   "un rugables"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092688563351498861"
  }
 ]

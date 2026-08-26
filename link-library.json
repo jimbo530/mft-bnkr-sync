@@ -4677,19 +4677,6 @@
     "caption": "🎵 \"Gotta Get Paid\" — Jony Sings\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2083296673875296705",
-    "translation": "Un Rugables",
-    "name": "Un Rugables",
-    "triggers": [
-      "un rugables"
-    ],
-    "band": "EBM",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2083296673875296705",
-    "caption": "🎵 \"Un Rugables\" — Elves of Ballinmoore\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2063823397822386646",
     "translation": "FROM MEMES TO MANGROVES",
     "name": "FROM MEMES TO MANGROVES",
@@ -11732,5 +11719,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2092683569923514842",
     "caption": "\"Golden On The Base Line\" — Natilie Nightclub\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2092688563351498861",
+    "translation": "Un Rugables",
+    "name": "Un Rugables",
+    "triggers": [
+      "un rugables"
+    ],
+    "band": "EBM",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2092688563351498861",
+    "caption": "\"Un Rugables\" — Elves of Ballinmoore\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
