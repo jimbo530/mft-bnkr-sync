@@ -125,5 +125,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092446957813870697",
   "tag": "$MfT"
+ },
+ {
+  "name": "Morale (Da Sad Ork Shanty)",
+  "triggers": [
+   "morale (da sad ork shanty)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092462058084122752",
+  "tag": "$MfT"
  }
 ]

@@ -7205,5 +7205,13 @@
    "da grot wot whittles"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092446957813870697"
+ },
+ {
+  "band": "WarMachine",
+  "name": "Morale (Da Sad Ork Shanty)",
+  "triggers": [
+   "morale (da sad ork shanty)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092462058084122752"
  }
 ]
