@@ -2628,14 +2628,6 @@
  },
  {
   "band": "Myco",
-  "name": "Go Do Something Nice",
-  "triggers": [
-   "go do something nice"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083402411423523234"
- },
- {
-  "band": "Myco",
   "name": "\udfa7 “Listen Close, Let It Grow”",
   "triggers": [
    "\udfa7 “listen close, let it grow”"
@@ -7257,5 +7249,13 @@
    "each one matters"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092587904040116362"
+ },
+ {
+  "band": "Myco",
+  "name": "Go Do Something Nice",
+  "triggers": [
+   "go do something nice"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092603040498872434"
  }
 ]
