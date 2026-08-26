@@ -3868,14 +3868,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2082159185785958858"
  },
  {
-  "band": "CB",
-  "name": "Started, Made, Done",
-  "triggers": [
-   "started, made, done"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082320275266220350"
- },
- {
   "band": "MV",
   "name": "Natali Learn to Earn",
   "triggers": [
@@ -7241,5 +7233,13 @@
    "tunes for trees"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092527539151352105"
+ },
+ {
+  "band": "CB",
+  "name": "Started, Made, Done",
+  "triggers": [
+   "started, made, done"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092542637844668796"
  }
 ]
