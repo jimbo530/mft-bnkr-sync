@@ -2723,14 +2723,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2082380634329063769"
  },
  {
-  "band": "Myco",
-  "name": "Make The Change You Want To See",
-  "triggers": [
-   "make the change you want to see"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081716312091267247"
- },
- {
   "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “CHAR TO THE ROOT",
   "triggers": [
@@ -7257,5 +7249,13 @@
    "embodied network"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092628205790253224"
+ },
+ {
+  "band": "Myco",
+  "name": "Make The Change You Want To See",
+  "triggers": [
+   "make the change you want to see"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092643305439789157"
  }
 ]
