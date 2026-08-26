@@ -327,18 +327,19 @@
   "tag": "$MfT"
  },
  {
-  "name": "For MemeForTrees — 0fcd",
-  "triggers": [
-   "for memefortrees — 0fcd"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092403302742831462"
- },
- {
   "name": "Blessed. Again.",
   "triggers": [
    "blessed. again."
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092421835744801143",
+  "tag": "$MfT"
+ },
+ {
+  "name": "For MemeForTrees — 0fcd",
+  "triggers": [
+   "for memefortrees — 0fcd"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092522497132417305",
   "tag": "$MfT"
  }
 ]

@@ -7167,14 +7167,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2092401666515497235"
  },
  {
-  "band": "Bongo",
-  "name": "For MemeForTrees — 0fcd",
-  "triggers": [
-   "for memefortrees — 0fcd"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092403302742831462"
- },
- {
   "band": "DGT",
   "name": "Second-Line For Your Fear",
   "triggers": [
@@ -7253,5 +7245,13 @@
    "i poured it tea"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092507392659329468"
+ },
+ {
+  "band": "Bongo",
+  "name": "For MemeForTrees — 0fcd",
+  "triggers": [
+   "for memefortrees — 0fcd"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092522497132417305"
  }
 ]
