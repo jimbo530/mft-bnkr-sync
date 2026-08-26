@@ -777,24 +777,6 @@
     "caption": "\"Everybody Drinks\" — Jony Sings\n\n$MfT 0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2079507647942795388",
-    "translation": "tunes for trees",
-    "name": "tunes for trees",
-    "triggers": [
-      "tunes for trees",
-      "tunes 4 trees",
-      "tunesfortrees",
-      "music for trees",
-      "music 4 trees"
-    ],
-    "band": null,
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2079507647942795388",
-    "caption": "🌱🎶 tunes for trees — the 24/7 stream\n\njust listen, like, and share to help fund forests. every play is a little rain.\n\nwant YOUR song on the stream? commission one for $1 — pick a band, give the idea, and it joins the rotation forever. just ask me.\n\n$MfT",
-    "special": true
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2079545861537771528",
     "translation": "Bad for Business",
     "name": "Bad for Business",
@@ -4654,19 +4636,6 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2082657442203136049",
     "caption": "🎵 \"Make Today Count\" — Jony Sings\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
-    "file": "https://x.com/MemeForTrees/status/2081751550750298316",
-    "translation": "Tunes For Trees",
-    "name": "Tunes For Trees",
-    "triggers": [
-      "tunes for trees"
-    ],
-    "band": "Myco",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2081751550750298316",
-    "caption": "🎵 \"Tunes For Trees\" — Myco\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
     "file": "https://x.com/MemeForTrees/status/2084308379107782926",
@@ -11711,5 +11680,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2092522497132417305",
     "caption": "\"For MemeForTrees — 0fcd\" — Bongo\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2092527539151352105",
+    "translation": "Tunes For Trees",
+    "name": "Tunes For Trees",
+    "triggers": [
+      "tunes for trees"
+    ],
+    "band": "Myco",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2092527539151352105",
+    "caption": "\"Tunes For Trees\" — Myco\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

@@ -39,18 +39,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "tunes for trees",
-  "triggers": [
-   "tunes for trees",
-   "tunes 4 trees",
-   "tunesfortrees",
-   "music for trees",
-   "music 4 trees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079507647942795388",
-  "tag": "$MfT"
- },
- {
   "name": "whats new with RWI",
   "triggers": [
    "whats new with rwi",

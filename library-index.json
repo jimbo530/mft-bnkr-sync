@@ -506,18 +506,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079456395129131479"
  },
  {
-  "band": null,
-  "name": "tunes for trees",
-  "triggers": [
-   "tunes for trees",
-   "tunes 4 trees",
-   "tunesfortrees",
-   "music for trees",
-   "music 4 trees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079507647942795388"
- },
- {
   "band": "NN",
   "name": "Bad for Business",
   "triggers": [
@@ -2901,14 +2889,6 @@
    "make today count"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2082657442203136049"
- },
- {
-  "band": "Myco",
-  "name": "Tunes For Trees",
-  "triggers": [
-   "tunes for trees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081751550750298316"
  },
  {
   "band": "JS",
@@ -7253,5 +7233,13 @@
    "for memefortrees — 0fcd"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092522497132417305"
+ },
+ {
+  "band": "Myco",
+  "name": "Tunes For Trees",
+  "triggers": [
+   "tunes for trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092527539151352105"
  }
 ]

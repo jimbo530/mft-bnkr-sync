@@ -311,14 +311,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Tunes For Trees",
-  "triggers": [
-   "tunes for trees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081751550750298316",
-  "tag": "$MfT"
- },
- {
   "name": "Mushroom Web",
   "triggers": [
    "mushroom web"
@@ -749,6 +741,14 @@
    "- spores don't read the chart"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092487238479151181",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Tunes For Trees",
+  "triggers": [
+   "tunes for trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092527539151352105",
   "tag": "$MfT"
  }
 ]
