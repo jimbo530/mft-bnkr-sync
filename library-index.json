@@ -2723,14 +2723,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2083503065114509735"
  },
  {
-  "band": "EBM",
-  "name": "Like, Comment, Share",
-  "triggers": [
-   "like, comment, share"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084021498348556297"
- },
- {
   "band": "Myco",
   "name": "Drop The Beats To Fund The Forest",
   "triggers": [
@@ -7249,5 +7241,13 @@
    "guardians of the gate   jasmine"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092562785536196958"
+ },
+ {
+  "band": "EBM",
+  "name": "Like, Comment, Share",
+  "triggers": [
+   "like, comment, share"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092567775109603418"
  }
 ]
