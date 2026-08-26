@@ -4651,19 +4651,6 @@
     "caption": "🎵 \"Investors of Tomorrow\" — Jony Sings\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2082058552609280122",
-    "translation": "Gotta Get Paid",
-    "name": "Gotta Get Paid",
-    "triggers": [
-      "gotta get paid"
-    ],
-    "band": "JS",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2082058552609280122",
-    "caption": "🎵 \"Gotta Get Paid\" — Jony Sings\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2063823397822386646",
     "translation": "FROM MEMES TO MANGROVES",
     "name": "FROM MEMES TO MANGROVES",
@@ -11732,5 +11719,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2092708735776968993",
     "caption": "\"We All Are One\" — Myco\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2092723834109505981",
+    "translation": "Gotta Get Paid",
+    "name": "Gotta Get Paid",
+    "triggers": [
+      "gotta get paid"
+    ],
+    "band": "JS",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2092723834109505981",
+    "caption": "\"Gotta Get Paid\" — Jony Sings\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

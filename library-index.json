@@ -2899,14 +2899,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2084343603854241822"
  },
  {
-  "band": "JS",
-  "name": "Gotta Get Paid",
-  "triggers": [
-   "gotta get paid"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082058552609280122"
- },
- {
   "band": "EBM",
   "name": "FROM MEMES TO MANGROVES",
   "triggers": [
@@ -7265,5 +7257,13 @@
    "we all are one"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092708735776968993"
+ },
+ {
+  "band": "JS",
+  "name": "Gotta Get Paid",
+  "triggers": [
+   "gotta get paid"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092723834109505981"
  }
 ]
