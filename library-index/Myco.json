@@ -223,14 +223,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "We All Are One",
-  "triggers": [
-   "we all are one"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083100432998473880",
-  "tag": "$MfT"
- },
- {
   "name": "Give It Away",
   "triggers": [
    "give it away"
@@ -749,6 +741,14 @@
    "make the change you want to see"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092643305439789157",
+  "tag": "$MfT"
+ },
+ {
+  "name": "We All Are One",
+  "triggers": [
+   "we all are one"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092708735776968993",
   "tag": "$MfT"
  }
 ]

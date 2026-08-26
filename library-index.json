@@ -2596,14 +2596,6 @@
  },
  {
   "band": "Myco",
-  "name": "We All Are One",
-  "triggers": [
-   "we all are one"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083100432998473880"
- },
- {
-  "band": "Myco",
   "name": "Give It Away",
   "triggers": [
    "give it away"
@@ -7265,5 +7257,13 @@
    "need more base"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092703699747389507"
+ },
+ {
+  "band": "Myco",
+  "name": "We All Are One",
+  "triggers": [
+   "we all are one"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092708735776968993"
  }
 ]
