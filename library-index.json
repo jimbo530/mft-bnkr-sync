@@ -3829,14 +3829,6 @@
  },
  {
   "band": "Myco",
-  "name": "Welcome To The Party",
-  "triggers": [
-   "welcome to the party"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085098571162915306"
- },
- {
-  "band": "Myco",
   "name": "Green Candle Sunrise",
   "triggers": [
    "green candle sunrise"
@@ -7265,5 +7257,13 @@
    "jony sings, dance until morning"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092743922908832130"
+ },
+ {
+  "band": "Myco",
+  "name": "Welcome To The Party",
+  "triggers": [
+   "welcome to the party"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092748987971317814"
  }
 ]
