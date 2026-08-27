@@ -1223,5 +1223,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092884847496667205",
   "tag": "$MfT"
+ },
+ {
+  "name": "EBM - Thousand Year Plan",
+  "triggers": [
+   "ebm - thousand year plan"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092950334423400849",
+  "tag": "$MfT"
  }
 ]
