@@ -5132,19 +5132,6 @@
     "caption": "🎵 \"Digerie Dude - Resilient Rain Plant a Tree\"\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2083719445646582046",
-    "translation": "Digerie Dude - Long Way home",
-    "name": "Digerie Dude - Long Way home",
-    "triggers": [
-      "digerie dude - long way home"
-    ],
-    "band": "MV",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2083719445646582046",
-    "caption": "🎵 \"Digerie Dude - Long Way home\"\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2082783263873990803",
     "translation": "Getting Based",
     "name": "Getting Based",
@@ -11732,5 +11719,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2092748987971317814",
     "caption": "\"Welcome To The Party\" — Myco\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2092764060500574471",
+    "translation": "Digerie Dude - Long Way home",
+    "name": "Digerie Dude - Long Way home",
+    "triggers": [
+      "digerie dude - long way home"
+    ],
+    "band": "MV",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2092764060500574471",
+    "caption": "\"Digerie Dude - Long Way home\"\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
