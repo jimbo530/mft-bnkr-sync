@@ -160,14 +160,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Signal through the noise",
-  "triggers": [
-   "signal through the noise"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084756350999855329",
-  "tag": "$MfT"
- },
- {
   "name": "Future is Here",
   "triggers": [
    "future is here"
@@ -478,6 +470,14 @@
    "need more base"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092703699747389507",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Signal through the noise",
+  "triggers": [
+   "signal through the noise"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092769132068425829",
   "tag": "$MfT"
  }
 ]

@@ -2987,14 +2987,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2081676052087083267"
  },
  {
-  "band": "CB",
-  "name": "Signal through the noise",
-  "triggers": [
-   "signal through the noise"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084756350999855329"
- },
- {
   "band": "MV",
   "name": "Digerie Dude - Quite Revolution of Love",
   "triggers": [
@@ -7265,5 +7257,13 @@
    "digerie dude - long way home"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092764060500574471"
+ },
+ {
+  "band": "CB",
+  "name": "Signal through the noise",
+  "triggers": [
+   "signal through the noise"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092769132068425829"
  }
 ]
