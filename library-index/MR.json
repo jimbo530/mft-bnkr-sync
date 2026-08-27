@@ -222,14 +222,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Green Hearts Strong Feet",
-  "triggers": [
-   "green hearts strong feet"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082295099015184398",
-  "tag": "$MfT"
- },
- {
   "name": "We Water Each Other vid",
   "triggers": [
    "we water each other vid"
@@ -388,6 +380,14 @@
    "steady as di riddim"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092502330805555400",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Green Hearts Strong Feet",
+  "triggers": [
+   "green hearts strong feet"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092889872050602131",
   "tag": "$MfT"
  }
 ]

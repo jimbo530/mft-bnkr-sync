@@ -2835,14 +2835,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2081932686428356624"
  },
  {
-  "band": "MR",
-  "name": "Green Hearts Strong Feet",
-  "triggers": [
-   "green hearts strong feet"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082295099015184398"
- },
- {
   "band": "NN",
   "name": "Forest Song 2",
   "triggers": [
@@ -7289,5 +7281,13 @@
    "green hearts- moon rasta"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092884847496667205"
+ },
+ {
+  "band": "MR",
+  "name": "Green Hearts Strong Feet",
+  "triggers": [
+   "green hearts strong feet"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092889872050602131"
  }
 ]
