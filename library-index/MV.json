@@ -1207,5 +1207,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092789263217680397",
   "tag": "$MfT"
+ },
+ {
+  "name": "Forest on Fire   rock",
+  "triggers": [
+   "forest on fire   rock"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092804361437012265",
+  "tag": "$MfT"
  }
 ]
