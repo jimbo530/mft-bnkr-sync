@@ -3155,14 +3155,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088566372670275829"
  },
  {
-  "band": "MV",
-  "name": "Digerie Dude - Resilient Rain Plant a Tree",
-  "triggers": [
-   "digerie dude - resilient rain plant a tree"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081852165904076956"
- },
- {
   "band": "CB",
   "name": "Getting Based",
   "triggers": [
@@ -7281,5 +7273,13 @@
    "you dont know"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092824497954975959"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Resilient Rain Plant a Tree",
+  "triggers": [
+   "digerie dude - resilient rain plant a tree"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092829527483318460"
  }
 ]

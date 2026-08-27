@@ -5067,19 +5067,6 @@
     "caption": "🎵 \"test-Mutiny-titled\" — Elves of Ballinmoore\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2081852165904076956",
-    "translation": "Digerie Dude - Resilient Rain Plant a Tree",
-    "name": "Digerie Dude - Resilient Rain Plant a Tree",
-    "triggers": [
-      "digerie dude - resilient rain plant a tree"
-    ],
-    "band": "MV",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2081852165904076956",
-    "caption": "🎵 \"Digerie Dude - Resilient Rain Plant a Tree\"\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2082783263873990803",
     "translation": "Getting Based",
     "name": "Getting Based",
@@ -11758,5 +11745,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2092824497954975959",
     "caption": "\"You Dont Know\" — Jony Sings\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2092829527483318460",
+    "translation": "Digerie Dude - Resilient Rain Plant a Tree",
+    "name": "Digerie Dude - Resilient Rain Plant a Tree",
+    "triggers": [
+      "digerie dude - resilient rain plant a tree"
+    ],
+    "band": "MV",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2092829527483318460",
+    "caption": "\"Digerie Dude - Resilient Rain Plant a Tree\"\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
