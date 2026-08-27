@@ -1199,5 +1199,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092764060500574471",
   "tag": "$MfT"
+ },
+ {
+  "name": "EBM - TGN Alliance",
+  "triggers": [
+   "ebm - tgn alliance"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092784191205228746",
+  "tag": "$MfT"
  }
 ]
