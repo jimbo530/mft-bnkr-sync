@@ -2668,14 +2668,6 @@
  },
  {
   "band": "EBM",
-  "name": "Drop ’Em If You Got ’Em",
-  "triggers": [
-   "drop ’em if you got ’em"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082380634329063769"
- },
- {
-  "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “CHAR TO THE ROOT",
   "triggers": [
    "elves of ballinmoore — “char to the root"
@@ -7305,5 +7297,13 @@
    "ddd trade route open"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092965361998045409"
+ },
+ {
+  "band": "EBM",
+  "name": "Drop ’Em If You Got ’Em",
+  "triggers": [
+   "drop ’em if you got ’em"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092970457045635208"
  }
 ]
