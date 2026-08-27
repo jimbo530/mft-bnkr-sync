@@ -2892,14 +2892,6 @@
  },
  {
   "band": "MV",
-  "name": "Digerie Dude - Quite Revolution of Love",
-  "triggers": [
-   "digerie dude - quite revolution of love"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084107061244096949"
- },
- {
-  "band": "MV",
   "name": "Digerie Dude - Small Voices Big Waves",
   "triggers": [
    "digerie dude - small voices big waves"
@@ -7329,5 +7321,13 @@
    "ebm- more love"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093050956699058572"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Quite Revolution of Love",
+  "triggers": [
+   "digerie dude - quite revolution of love"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093066038447382709"
  }
 ]
