@@ -3044,14 +3044,6 @@
  },
  {
   "band": "MV",
-  "name": "nattily grow greatness",
-  "triggers": [
-   "nattily grow greatness"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081796793294057614"
- },
- {
-  "band": "MV",
   "name": "d trade route open",
   "triggers": [
    "d trade route open"
@@ -7313,5 +7305,13 @@
    "ebm - code not coal"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093010683143090659"
+ },
+ {
+  "band": "MV",
+  "name": "nattily grow greatness",
+  "triggers": [
+   "nattily grow greatness"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093025819723542866"
  }
 ]
