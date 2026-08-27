@@ -3724,14 +3724,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2081811906235441322"
  },
  {
-  "band": "Myco",
-  "name": "Mushroom Web",
-  "triggers": [
-   "mushroom web"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084469433536299492"
- },
- {
   "band": "Rish",
   "name": "Come All Ye (Sing a Forest)",
   "triggers": [
@@ -7281,5 +7273,13 @@
    "bull market festival"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092849668673741224"
+ },
+ {
+  "band": "Myco",
+  "name": "Mushroom Web",
+  "triggers": [
+   "mushroom web"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092864760823865825"
  }
 ]
