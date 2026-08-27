@@ -3629,14 +3629,6 @@
  },
  {
   "band": "Myco",
-  "name": "After the Winter Comes",
-  "triggers": [
-   "after the winter comes"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082617208438419873"
- },
- {
-  "band": "Myco",
   "name": "Green Candle Sunrise",
   "triggers": [
    "green candle sunrise"
@@ -7337,5 +7329,13 @@
    "ebm - getting based"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093091196310561247"
+ },
+ {
+  "band": "Myco",
+  "name": "After the Winter Comes",
+  "triggers": [
+   "after the winter comes"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093106342521082115"
  }
 ]

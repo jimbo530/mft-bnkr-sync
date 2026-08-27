@@ -263,14 +263,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "After the Winter Comes",
-  "triggers": [
-   "after the winter comes"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082617208438419873",
-  "tag": "$MfT"
- },
- {
   "name": "Green Candle Sunrise",
   "triggers": [
    "green candle sunrise"
@@ -749,6 +741,14 @@
    "drop the beats to fund the forest"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093005676851212517",
+  "tag": "$MfT"
+ },
+ {
+  "name": "After the Winter Comes",
+  "triggers": [
+   "after the winter comes"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093106342521082115",
   "tag": "$MfT"
  }
 ]
