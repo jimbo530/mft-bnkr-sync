@@ -3220,14 +3220,6 @@
  },
  {
   "band": "MV",
-  "name": "Water Each Other - Moon Rasta",
-  "triggers": [
-   "water each other - moon rasta"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083845266453549084"
- },
- {
-  "band": "MV",
   "name": "Jony Sings, keep dancing",
   "triggers": [
    "jony sings, keep dancing"
@@ -7281,5 +7273,13 @@
    "digerie dude - resilient rain plant a tree"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092829527483318460"
+ },
+ {
+  "band": "MV",
+  "name": "Water Each Other - Moon Rasta",
+  "triggers": [
+   "water each other - moon rasta"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092844621105709501"
  }
 ]

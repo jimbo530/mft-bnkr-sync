@@ -5171,19 +5171,6 @@
     "caption": "🎵 \"Grove Report — Jun 26, 2026\" — Elves of Ballinmoore\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2083845266453549084",
-    "translation": "Water Each Other - Moon Rasta",
-    "name": "Water Each Other - Moon Rasta",
-    "triggers": [
-      "water each other - moon rasta"
-    ],
-    "band": "MV",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2083845266453549084",
-    "caption": "🎵 \"Water Each Other - Moon Rasta\"\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2076109313542705349",
     "translation": "Jony Sings, keep dancing",
     "name": "Jony Sings, keep dancing",
@@ -11758,5 +11745,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2092829527483318460",
     "caption": "\"Digerie Dude - Resilient Rain Plant a Tree\"\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2092844621105709501",
+    "translation": "Water Each Other - Moon Rasta",
+    "name": "Water Each Other - Moon Rasta",
+    "triggers": [
+      "water each other - moon rasta"
+    ],
+    "band": "MV",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2092844621105709501",
+    "caption": "\"Water Each Other - Moon Rasta\"\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
