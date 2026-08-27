@@ -2828,14 +2828,6 @@
  },
  {
   "band": "JS",
-  "name": "You Dont Know",
-  "triggers": [
-   "you dont know"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084308379107782926"
- },
- {
-  "band": "JS",
   "name": "Jaguars",
   "triggers": [
    "jaguars"
@@ -7281,5 +7273,13 @@
    "give it away"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092809398804509144"
+ },
+ {
+  "band": "JS",
+  "name": "You Dont Know",
+  "triggers": [
+   "you dont know"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092824497954975959"
  }
 ]
