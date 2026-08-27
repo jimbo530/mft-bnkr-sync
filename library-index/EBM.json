@@ -337,14 +337,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "ELVES OF BALLINMOORE — “CHAR TO THE ROOT",
-  "triggers": [
-   "elves of ballinmoore — “char to the root"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084368810602037553",
-  "tag": "$MfT"
- },
- {
   "name": "ELVES OF BALLINMOORE — “DOUBT CAN’T TOUC",
   "triggers": [
    "elves of ballinmoore — “doubt can’t touc"
@@ -831,6 +823,14 @@
    "drop ’em if you got ’em"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092970457045635208",
+  "tag": "$MfT"
+ },
+ {
+  "name": "ELVES OF BALLINMOORE — “CHAR TO THE ROOT",
+  "triggers": [
+   "elves of ballinmoore — “char to the root"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092990548051165681",
   "tag": "$MfT"
  }
 ]
