@@ -2595,14 +2595,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2084328509929926917"
  },
  {
-  "band": "Myco",
-  "name": "Give It Away",
-  "triggers": [
-   "give it away"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2064744462866153689"
- },
- {
   "band": "EBM",
   "name": "“zFROM MEMES TO MANGROVES”",
   "triggers": [
@@ -7281,5 +7273,13 @@
    "forest on fire   rock"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092804361437012265"
+ },
+ {
+  "band": "Myco",
+  "name": "Give It Away",
+  "triggers": [
+   "give it away"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092809398804509144"
  }
 ]
