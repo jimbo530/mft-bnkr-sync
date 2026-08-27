@@ -337,14 +337,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Green Hearts- Moon Rasta",
-  "triggers": [
-   "green hearts- moon rasta"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083538303458918543",
-  "tag": "$MfT"
- },
- {
   "name": "Proof of life jony-natilie",
   "triggers": [
    "proof of life jony-natilie"
@@ -1222,6 +1214,14 @@
    "forest and sun   jasmine"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092869806361862283",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Green Hearts- Moon Rasta",
+  "triggers": [
+   "green hearts- moon rasta"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092884847496667205",
   "tag": "$MfT"
  }
 ]
