@@ -3020,14 +3020,6 @@
  },
  {
   "band": "MV",
-  "name": "Digeri Dude - Rabbit Hole",
-  "triggers": [
-   "digeri dude - rabbit hole"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084187581403509148"
- },
- {
-  "band": "MV",
   "name": "RAISE THE CRACKS",
   "triggers": [
    "raise the cracks"
@@ -7273,5 +7265,13 @@
    "ebm - tgn alliance"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092784191205228746"
+ },
+ {
+  "band": "MV",
+  "name": "Digeri Dude - Rabbit Hole",
+  "triggers": [
+   "digeri dude - rabbit hole"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092789263217680397"
  }
 ]
