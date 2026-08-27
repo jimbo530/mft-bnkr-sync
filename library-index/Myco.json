@@ -215,14 +215,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Forge the Future",
-  "triggers": [
-   "forge the future"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083664121870839847",
-  "tag": "$MfT"
- },
- {
   "name": "\udfa7 “Listen Close, Let It Grow”",
   "triggers": [
    "\udfa7 “listen close, let it grow”"
@@ -749,6 +741,14 @@
    "mushroom web"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092864760823865825",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Forge the Future",
+  "triggers": [
+   "forge the future"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092930195292356868",
   "tag": "$MfT"
  }
 ]

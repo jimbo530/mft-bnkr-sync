@@ -2555,14 +2555,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088797996662047166"
  },
  {
-  "band": "Myco",
-  "name": "Forge the Future",
-  "triggers": [
-   "forge the future"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083664121870839847"
- },
- {
   "band": "EBM",
   "name": "Interest In The Infinite",
   "triggers": [
@@ -7289,5 +7281,13 @@
    "streets to roots"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092925103315013713"
+ },
+ {
+  "band": "Myco",
+  "name": "Forge the Future",
+  "triggers": [
+   "forge the future"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092930195292356868"
  }
 ]
