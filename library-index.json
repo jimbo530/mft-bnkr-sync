@@ -3989,14 +3989,6 @@
  },
  {
   "band": "JS",
-  "name": "Jony Sings, Party god",
-  "triggers": [
-   "jony sings, party god"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084162416313548933"
- },
- {
-  "band": "JS",
   "name": "Jony Sings move like magic",
   "triggers": [
    "jony sings move like magic"
@@ -7289,5 +7281,13 @@
    "forge the future"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092930195292356868"
+ },
+ {
+  "band": "JS",
+  "name": "Jony Sings, Party god",
+  "triggers": [
+   "jony sings, party god"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092945289346678807"
  }
 ]

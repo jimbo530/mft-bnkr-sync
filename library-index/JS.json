@@ -276,14 +276,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Jony Sings, Party god",
-  "triggers": [
-   "jony sings, party god"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084162416313548933",
-  "tag": "$MfT"
- },
- {
   "name": "Jony Sings move like magic",
   "triggers": [
    "jony sings move like magic"
@@ -746,6 +738,14 @@
    "streets to roots"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092925103315013713",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Jony Sings, Party god",
+  "triggers": [
+   "jony sings, party god"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092945289346678807",
   "tag": "$MfT"
  }
 ]
