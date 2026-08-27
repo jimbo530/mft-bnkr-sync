@@ -1255,5 +1255,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093045953070575889",
   "tag": "$MfT"
+ },
+ {
+  "name": "EBM- more love",
+  "triggers": [
+   "ebm- more love"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093050956699058572",
+  "tag": "$MfT"
  }
 ]
