@@ -305,14 +305,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "You Make The Magic Happen",
-  "triggers": [
-   "you make the magic happen"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085113703326691427",
-  "tag": "$MfT"
- },
- {
   "name": "Dance Dance My Friends",
   "triggers": [
    "dance dance my friends"
@@ -831,6 +823,14 @@
    "elves of ballinmoore — “char to the root"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092990548051165681",
+  "tag": "$MfT"
+ },
+ {
+  "name": "You Make The Magic Happen",
+  "triggers": [
+   "you make the magic happen"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093030816582361384",
   "tag": "$MfT"
  }
 ]

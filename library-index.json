@@ -2587,14 +2587,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2063798252307148897"
  },
  {
-  "band": "EBM",
-  "name": "You Make The Magic Happen",
-  "triggers": [
-   "you make the magic happen"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085113703326691427"
- },
- {
   "band": "DD",
   "name": "Open Roads",
   "triggers": [
@@ -7313,5 +7305,13 @@
    "nattily grow greatness"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093025819723542866"
+ },
+ {
+  "band": "EBM",
+  "name": "You Make The Magic Happen",
+  "triggers": [
+   "you make the magic happen"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093030816582361384"
  }
 ]
