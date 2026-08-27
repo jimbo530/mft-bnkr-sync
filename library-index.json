@@ -3765,14 +3765,6 @@
  },
  {
   "band": "Myco",
-  "name": "Bull Market Festival",
-  "triggers": [
-   "bull market festival"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082481294089306119"
- },
- {
-  "band": "Myco",
   "name": "Green Candle Sunrise",
   "triggers": [
    "green candle sunrise"
@@ -7281,5 +7273,13 @@
    "water each other - moon rasta"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092844621105709501"
+ },
+ {
+  "band": "Myco",
+  "name": "Bull Market Festival",
+  "triggers": [
+   "bull market festival"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092849668673741224"
  }
 ]

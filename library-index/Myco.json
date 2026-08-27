@@ -295,14 +295,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Bull Market Festival",
-  "triggers": [
-   "bull market festival"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082481294089306119",
-  "tag": "$MfT"
- },
- {
   "name": "Green Candle Sunrise",
   "triggers": [
    "green candle sunrise"
@@ -749,6 +741,14 @@
    "give it away"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092809398804509144",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Bull Market Festival",
+  "triggers": [
+   "bull market festival"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092849668673741224",
   "tag": "$MfT"
  }
 ]
