@@ -1231,5 +1231,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092950334423400849",
   "tag": "$MfT"
+ },
+ {
+  "name": "ddd trade route open",
+  "triggers": [
+   "ddd trade route open"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092965361998045409",
+  "tag": "$MfT"
  }
 ]
