@@ -479,5 +479,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093086205608923148",
   "tag": "$MfT"
+ },
+ {
+  "name": "EBM - Getting Based",
+  "triggers": [
+   "ebm - getting based"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093091196310561247",
+  "tag": "$MfT"
  }
 ]
