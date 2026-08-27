@@ -2763,14 +2763,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2082657442203136049"
  },
  {
-  "band": "JS",
-  "name": "Jaguars",
-  "triggers": [
-   "jaguars"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081932686428356624"
- },
- {
   "band": "MR",
   "name": "We Water Each Other vid",
   "triggers": [
@@ -7337,5 +7329,13 @@
    "after the winter comes"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093106342521082115"
+ },
+ {
+  "band": "JS",
+  "name": "Jaguars",
+  "triggers": [
+   "jaguars"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093111373454536848"
  }
 ]
