@@ -2780,14 +2780,6 @@
  },
  {
   "band": "JS",
-  "name": "Alive",
-  "triggers": [
-   "alive"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082441022953439257"
- },
- {
-  "band": "JS",
   "name": "Blockchain Boogie",
   "triggers": [
    "blockchain boogie"
@@ -7289,5 +7281,13 @@
    "open mic internet"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092904979270873569"
+ },
+ {
+  "band": "JS",
+  "name": "Alive",
+  "triggers": [
+   "alive"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092910069012680808"
  }
 ]
