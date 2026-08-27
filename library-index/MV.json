@@ -1,13 +1,5 @@
 [
  {
-  "name": "The more love you give - Biggins Mcjamin",
-  "triggers": [
-   "the more love you give - biggins mcjamin"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085093511485919479",
-  "tag": "$MfT"
- },
- {
   "name": "Jony Sings, Mangrove",
   "triggers": [
    "jony sings, mangrove"
@@ -1262,6 +1254,14 @@
    "digerie dude - quite revolution of love"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093066038447382709",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The more love you give - Biggins Mcjamin",
+  "triggers": [
+   "the more love you give - biggins mcjamin"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093071114121457954",
   "tag": "$MfT"
  }
 ]
