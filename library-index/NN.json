@@ -208,14 +208,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Forest Song 2",
-  "triggers": [
-   "forest song 2"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083659081680613728",
-  "tag": "$MfT"
- },
- {
   "name": "Velvet And Valor",
   "triggers": [
    "velvet and valor"
@@ -366,6 +358,14 @@
    "golden on the base line"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092683569923514842",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Forest Song 2",
+  "triggers": [
+   "forest song 2"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092985540836495594",
   "tag": "$MfT"
  }
 ]
