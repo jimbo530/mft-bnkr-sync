@@ -717,14 +717,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2080704594137563541"
  },
  {
-  "band": "JS",
-  "name": "Streets to Roots",
-  "triggers": [
-   "streets to roots"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081323667925897710"
- },
- {
   "band": "DD",
   "name": "Kind Folk (In the Strangest Places)",
   "triggers": [
@@ -7289,5 +7281,13 @@
    "alive"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092910069012680808"
+ },
+ {
+  "band": "JS",
+  "name": "Streets to Roots",
+  "triggers": [
+   "streets to roots"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092925103315013713"
  }
 ]
