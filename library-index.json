@@ -3011,14 +3011,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2084081848196444373"
  },
  {
-  "band": "CB",
-  "name": "Digerie Dude - Zoom Out",
-  "triggers": [
-   "digerie dude - zoom out"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082360531634016646"
- },
- {
   "band": "MV",
   "name": "d trade route open",
   "triggers": [
@@ -7329,5 +7321,13 @@
    "the more love you give - biggins mcjamin"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093071114121457954"
+ },
+ {
+  "band": "CB",
+  "name": "Digerie Dude - Zoom Out",
+  "triggers": [
+   "digerie dude - zoom out"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093086205608923148"
  }
 ]

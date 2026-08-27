@@ -4833,19 +4833,6 @@
     "caption": "🎵 \"DOUBT CANT TOUCH US.\"\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2082360531634016646",
-    "translation": "Digerie Dude - Zoom Out",
-    "name": "Digerie Dude - Zoom Out",
-    "triggers": [
-      "digerie dude - zoom out"
-    ],
-    "band": "CB",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2082360531634016646",
-    "caption": "🎵 \"Digerie Dude - Zoom Out\" — CB\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2082400838102778224",
     "translation": "d trade route open",
     "name": "d trade route open",
@@ -11836,5 +11823,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2093071114121457954",
     "caption": "\"The more love you give - Biggins Mcjamin\"\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2093086205608923148",
+    "translation": "Digerie Dude - Zoom Out",
+    "name": "Digerie Dude - Zoom Out",
+    "triggers": [
+      "digerie dude - zoom out"
+    ],
+    "band": "CB",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2093086205608923148",
+    "caption": "\"Digerie Dude - Zoom Out\" — CB\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
