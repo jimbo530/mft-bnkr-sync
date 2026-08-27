@@ -2563,14 +2563,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088797996662047166"
  },
  {
-  "band": "DD",
-  "name": "Open Mic Internet",
-  "triggers": [
-   "open mic internet"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084851962323898529"
- },
- {
   "band": "Myco",
   "name": "Forge the Future",
   "triggers": [
@@ -7289,5 +7281,13 @@
    "green hearts strong feet"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092889872050602131"
+ },
+ {
+  "band": "DD",
+  "name": "Open Mic Internet",
+  "triggers": [
+   "open mic internet"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092904979270873569"
  }
 ]

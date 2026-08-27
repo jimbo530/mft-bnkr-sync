@@ -230,14 +230,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Open Mic Internet",
-  "triggers": [
-   "open mic internet"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084851962323898529",
-  "tag": "$MfT"
- },
- {
   "name": "Open Roads",
   "triggers": [
    "open roads"
@@ -468,6 +460,14 @@
    "the internet we dreamed of"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092608079355433287",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Open Mic Internet",
+  "triggers": [
+   "open mic internet"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2092904979270873569",
   "tag": "$MfT"
  }
 ]
