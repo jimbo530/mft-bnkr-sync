@@ -4430,19 +4430,6 @@
     "caption": "🎵 \"Make Today Count\" — Jony Sings\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2084383865821384839",
-    "translation": "We Water Each Other vid",
-    "name": "We Water Each Other vid",
-    "triggers": [
-      "we water each other vid"
-    ],
-    "band": "MR",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2084383865821384839",
-    "caption": "🎵 \"We Water Each Other vid\" — Moon Rasta\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2084690863548969190",
     "translation": "Velvet And Valor",
     "name": "Velvet And Valor",
@@ -11849,5 +11836,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2093126429890277582",
     "caption": "\"Together we rise -G.O.A.T.\"\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2093131500879245399",
+    "translation": "We Water Each Other vid",
+    "name": "We Water Each Other vid",
+    "triggers": [
+      "we water each other vid"
+    ],
+    "band": "MR",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2093131500879245399",
+    "caption": "\"We Water Each Other vid\" — Moon Rasta\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

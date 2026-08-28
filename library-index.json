@@ -2763,14 +2763,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2082657442203136049"
  },
  {
-  "band": "MR",
-  "name": "We Water Each Other vid",
-  "triggers": [
-   "we water each other vid"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084383865821384839"
- },
- {
   "band": "NN",
   "name": "Velvet And Valor",
   "triggers": [
@@ -7337,5 +7329,13 @@
    "together we rise -g.o.a.t."
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093126429890277582"
+ },
+ {
+  "band": "MR",
+  "name": "We Water Each Other vid",
+  "triggers": [
+   "we water each other vid"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093131500879245399"
  }
 ]
