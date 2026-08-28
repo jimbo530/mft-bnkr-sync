@@ -3124,14 +3124,6 @@
  },
  {
   "band": "MV",
-  "name": "Digerie Dude- sound of Growth",
-  "triggers": [
-   "digerie dude- sound of growth"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082994688395542788"
- },
- {
-  "band": "MV",
   "name": "Jony Sings - Living it Up",
   "triggers": [
    "jony sings - living it up"
@@ -7337,5 +7329,13 @@
    "interest in the infinite"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093181831298400316"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude- sound of Growth",
+  "triggers": [
+   "digerie dude- sound of growth"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093186885568917761"
  }
 ]
