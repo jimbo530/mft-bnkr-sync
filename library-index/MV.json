@@ -1263,5 +1263,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093186885568917761",
   "tag": "$MfT"
+ },
+ {
+  "name": "EBM - Marc on base burger boys",
+  "triggers": [
+   "ebm - marc on base burger boys"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093222121849647569",
+  "tag": "$MfT"
  }
 ]
