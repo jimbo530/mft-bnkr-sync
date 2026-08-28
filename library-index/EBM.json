@@ -281,14 +281,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Day To Build The Dream",
-  "triggers": [
-   "day to build the dream"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084328509929926917",
-  "tag": "$MfT"
- },
- {
   "name": "“zFROM MEMES TO MANGROVES”",
   "triggers": [
    "“zfrom memes to mangroves”"
@@ -831,6 +823,14 @@
    "elves of ballinmoore — “we are based”"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093287557073096981",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Day To Build The Dream",
+  "triggers": [
+   "day to build the dream"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093342914780725269",
   "tag": "$MfT"
  }
 ]

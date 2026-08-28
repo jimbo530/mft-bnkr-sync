@@ -2556,14 +2556,6 @@
  },
  {
   "band": "EBM",
-  "name": "Day To Build The Dream",
-  "triggers": [
-   "day to build the dream"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084328509929926917"
- },
- {
-  "band": "EBM",
   "name": "“zFROM MEMES TO MANGROVES”",
   "triggers": [
    "“zfrom memes to mangroves”"
@@ -7353,5 +7345,13 @@
    "blockchain boogie"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093327815911358787"
+ },
+ {
+  "band": "EBM",
+  "name": "Day To Build The Dream",
+  "triggers": [
+   "day to build the dream"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093342914780725269"
  }
 ]
