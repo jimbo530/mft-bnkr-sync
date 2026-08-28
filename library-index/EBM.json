@@ -281,14 +281,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Interest In The Infinite",
-  "triggers": [
-   "interest in the infinite"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084736234178367597",
-  "tag": "$MfT"
- },
- {
   "name": "Day To Build The Dream",
   "triggers": [
    "day to build the dream"
@@ -831,6 +823,14 @@
    "you make the magic happen"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093030816582361384",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Interest In The Infinite",
+  "triggers": [
+   "interest in the infinite"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093181831298400316",
   "tag": "$MfT"
  }
 ]

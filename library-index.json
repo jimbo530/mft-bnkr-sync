@@ -2556,14 +2556,6 @@
  },
  {
   "band": "EBM",
-  "name": "Interest In The Infinite",
-  "triggers": [
-   "interest in the infinite"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084736234178367597"
- },
- {
-  "band": "EBM",
   "name": "Day To Build The Dream",
   "triggers": [
    "day to build the dream"
@@ -7337,5 +7329,13 @@
    "decentralize"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093166704805236828"
+ },
+ {
+  "band": "EBM",
+  "name": "Interest In The Infinite",
+  "triggers": [
+   "interest in the infinite"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093181831298400316"
  }
 ]
