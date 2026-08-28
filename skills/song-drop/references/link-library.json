@@ -4287,19 +4287,6 @@
     "caption": "🎵 \"Opportunity To Be Great\" — Moon Rasta\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2084343603854241822",
-    "translation": "Investors of Tomorrow",
-    "name": "Investors of Tomorrow",
-    "triggers": [
-      "investors of tomorrow"
-    ],
-    "band": "JS",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2084343603854241822",
-    "caption": "🎵 \"Investors of Tomorrow\" — Jony Sings\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2063823397822386646",
     "translation": "FROM MEMES TO MANGROVES",
     "name": "FROM MEMES TO MANGROVES",
@@ -11875,5 +11862,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2093347902034731464",
     "caption": "\"Green Hearts vid\" — Moon Rasta\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2093363018327273906",
+    "translation": "Investors of Tomorrow",
+    "name": "Investors of Tomorrow",
+    "triggers": [
+      "investors of tomorrow"
+    ],
+    "band": "JS",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2093363018327273906",
+    "caption": "\"Investors of Tomorrow\" — Jony Sings\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

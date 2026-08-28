@@ -2675,14 +2675,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2085319985509847245"
  },
  {
-  "band": "JS",
-  "name": "Investors of Tomorrow",
-  "triggers": [
-   "investors of tomorrow"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084343603854241822"
- },
- {
   "band": "EBM",
   "name": "FROM MEMES TO MANGROVES",
   "triggers": [
@@ -7353,5 +7345,13 @@
    "green hearts vid"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093347902034731464"
+ },
+ {
+  "band": "JS",
+  "name": "Investors of Tomorrow",
+  "triggers": [
+   "investors of tomorrow"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093363018327273906"
  }
 ]
