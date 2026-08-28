@@ -321,14 +321,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "ELVES OF BALLINMOORE — “WE ARE BASED”",
-  "triggers": [
-   "elves of ballinmoore — “we are based”"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083397372780871798",
-  "tag": "$MfT"
- },
- {
   "name": "FROM MEMES TO MANGROVES",
   "triggers": [
    "from memes to mangroves"
@@ -831,6 +823,14 @@
    "“every signal plants trees”"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093267390196854936",
+  "tag": "$MfT"
+ },
+ {
+  "name": "ELVES OF BALLINMOORE — “WE ARE BASED”",
+  "triggers": [
+   "elves of ballinmoore — “we are based”"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093287557073096981",
   "tag": "$MfT"
  }
 ]

@@ -2651,14 +2651,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2061764769393119536"
  },
  {
-  "band": "EBM",
-  "name": "ELVES OF BALLINMOORE — “WE ARE BASED”",
-  "triggers": [
-   "elves of ballinmoore — “we are based”"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083397372780871798"
- },
- {
   "band": "JS",
   "name": "Every Day Is An Opportunity",
   "triggers": [
@@ -7345,5 +7337,13 @@
    "digerie dude - i endure"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093282513993023965"
+ },
+ {
+  "band": "EBM",
+  "name": "ELVES OF BALLINMOORE — “WE ARE BASED”",
+  "triggers": [
+   "elves of ballinmoore — “we are based”"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093287557073096981"
  }
 ]
