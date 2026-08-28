@@ -2595,14 +2595,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2055543795433832845"
  },
  {
-  "band": "DD",
-  "name": "Small Voices, Big Waves",
-  "triggers": [
-   "small voices, big waves"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083503065114509735"
- },
- {
   "band": "Myco",
   "name": "\udfa7 “Stay In Your Lane (We Grow Together) (2)",
   "triggers": [
@@ -7368,5 +7360,13 @@
    "much love, friends"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093428430872211890"
+ },
+ {
+  "band": "DD",
+  "name": "Small Voices, Big Waves",
+  "triggers": [
+   "small voices, big waves"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093443526784672106"
  }
 ]
