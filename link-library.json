@@ -4976,20 +4976,6 @@
     "caption": "🎵 \"Marc on base burger boys\"\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2083201047271522420",
-    "translation": "Pass it on",
-    "name": "Pass it on",
-    "triggers": [
-      "pass it on"
-    ],
-    "band": "MV",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2083201047271522420",
-    "caption": "🎵 \"Pass it on\"\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "promote": true
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2082461164697526426",
     "translation": "Jony it carries 2",
     "name": "Jony it carries 2",
@@ -11901,5 +11887,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2093403319741927739",
     "caption": "\"EBM - Char to the Root\"\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2093408346636173686",
+    "translation": "Pass it on",
+    "name": "Pass it on",
+    "triggers": [
+      "pass it on"
+    ],
+    "band": "MV",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2093408346636173686",
+    "caption": "\"Pass it on\"\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

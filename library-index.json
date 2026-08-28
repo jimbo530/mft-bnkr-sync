@@ -3100,15 +3100,6 @@
  },
  {
   "band": "MV",
-  "name": "Pass it on",
-  "triggers": [
-   "pass it on"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083201047271522420",
-  "promote": true
- },
- {
-  "band": "MV",
   "name": "Jony it carries 2",
   "triggers": [
    "jony it carries 2"
@@ -7369,5 +7360,13 @@
    "ebm - char to the root"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093403319741927739"
+ },
+ {
+  "band": "MV",
+  "name": "Pass it on",
+  "triggers": [
+   "pass it on"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093408346636173686"
  }
 ]
