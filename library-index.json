@@ -3541,14 +3541,6 @@
  },
  {
   "band": "MV",
-  "name": "Natali Learn to Earn",
-  "triggers": [
-   "natali learn to earn"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083679223856644321"
- },
- {
-  "band": "MV",
   "name": "Thanks for being here",
   "triggers": [
    "thanks for being here"
@@ -7337,5 +7329,13 @@
    "velvet and valor"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093141588415332845"
+ },
+ {
+  "band": "MV",
+  "name": "Natali Learn to Earn",
+  "triggers": [
+   "natali learn to earn"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093146592333140103"
  }
 ]

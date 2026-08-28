@@ -457,14 +457,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Natali Learn to Earn",
-  "triggers": [
-   "natali learn to earn"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083679223856644321",
-  "tag": "$MfT"
- },
- {
   "name": "Thanks for being here",
   "triggers": [
    "thanks for being here"
@@ -1262,6 +1254,14 @@
    "together we rise -g.o.a.t."
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093126429890277582",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Natali Learn to Earn",
+  "triggers": [
+   "natali learn to earn"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093146592333140103",
   "tag": "$MfT"
  }
 ]
