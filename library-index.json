@@ -3237,14 +3237,6 @@
  },
  {
   "band": "MV",
-  "name": "nothing without you - Biggins Mcjamin",
-  "triggers": [
-   "nothing without you - biggins mcjamin"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082098831232020890"
- },
- {
-  "band": "MV",
   "name": "Code Not Coal",
   "triggers": [
    "code not coal"
@@ -7345,5 +7337,13 @@
    "elves of ballinmoore — “we are based”"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093287557073096981"
+ },
+ {
+  "band": "MV",
+  "name": "nothing without you - Biggins Mcjamin",
+  "triggers": [
+   "nothing without you - biggins mcjamin"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093302649080692853"
  }
 ]
