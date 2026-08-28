@@ -230,14 +230,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Open Roads",
-  "triggers": [
-   "open roads"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085179104572113048",
-  "tag": "$MfT"
- },
- {
   "name": "Title “Scared Money Can’t Win”",
   "triggers": [
    "title “scared money can’t win”"
@@ -468,6 +460,14 @@
    "open mic internet"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092904979270873569",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Open Roads",
+  "triggers": [
+   "open roads"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093201983574331792",
   "tag": "$MfT"
  }
 ]

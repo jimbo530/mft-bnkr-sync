@@ -2579,14 +2579,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2063798252307148897"
  },
  {
-  "band": "DD",
-  "name": "Open Roads",
-  "triggers": [
-   "open roads"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085179104572113048"
- },
- {
   "band": "EBM",
   "name": "Dance Dance My Friends",
   "triggers": [
@@ -7337,5 +7329,13 @@
    "digerie dude- sound of growth"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093186885568917761"
+ },
+ {
+  "band": "DD",
+  "name": "Open Roads",
+  "triggers": [
+   "open roads"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093201983574331792"
  }
 ]
