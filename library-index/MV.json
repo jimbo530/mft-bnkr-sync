@@ -457,14 +457,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Thanks for being here",
-  "triggers": [
-   "thanks for being here"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085138809985843434",
-  "tag": "$MfT"
- },
- {
   "name": "Meme to Green",
   "triggers": [
    "meme to green"
@@ -1262,6 +1254,14 @@
    "natali learn to earn"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093146592333140103",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Thanks for being here",
+  "triggers": [
+   "thanks for being here"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093161682302382253",
   "tag": "$MfT"
  }
 ]
