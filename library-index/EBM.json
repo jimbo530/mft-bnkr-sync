@@ -305,14 +305,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "“EVERY SIGNAL PLANTS TREES”",
-  "triggers": [
-   "“every signal plants trees”"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081731429562565019",
-  "tag": "$MfT"
- },
- {
   "name": "“FROM MEMES TO MANGROVES” (1)",
   "triggers": [
    "“from memes to mangroves” (1)"
@@ -831,6 +823,14 @@
    "elves of ballinmoore — “no turning back”"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093227117018227194",
+  "tag": "$MfT"
+ },
+ {
+  "name": "“EVERY SIGNAL PLANTS TREES”",
+  "triggers": [
+   "“every signal plants trees”"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093267390196854936",
   "tag": "$MfT"
  }
 ]

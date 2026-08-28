@@ -2587,14 +2587,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2061553424164889072"
  },
  {
-  "band": "EBM",
-  "name": "“EVERY SIGNAL PLANTS TREES”",
-  "triggers": [
-   "“every signal plants trees”"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081731429562565019"
- },
- {
   "band": "DD",
   "name": "Title “Scared Money Can’t Win”",
   "triggers": [
@@ -7345,5 +7337,13 @@
    "party god"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093262380553646411"
+ },
+ {
+  "band": "EBM",
+  "name": "“EVERY SIGNAL PLANTS TREES”",
+  "triggers": [
+   "“every signal plants trees”"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093267390196854936"
  }
 ]
