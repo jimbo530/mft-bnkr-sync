@@ -2595,14 +2595,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2055543795433832845"
  },
  {
-  "band": "Myco",
-  "name": "Much Love, Friends",
-  "triggers": [
-   "much love, friends"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084655679801786706"
- },
- {
   "band": "DD",
   "name": "Small Voices, Big Waves",
   "triggers": [
@@ -7368,5 +7360,13 @@
    "garden spinning green"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093423401167728775"
+ },
+ {
+  "band": "Myco",
+  "name": "Much Love, Friends",
+  "triggers": [
+   "much love, friends"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093428430872211890"
  }
 ]
