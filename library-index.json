@@ -2683,14 +2683,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2081610608739291186"
  },
  {
-  "band": "JS",
-  "name": "Blockchain Boogie",
-  "triggers": [
-   "blockchain boogie"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084524756372423061"
- },
- {
   "band": "MR",
   "name": "Opportunity To Be Great",
   "triggers": [
@@ -7353,5 +7345,13 @@
    "digerie dude - pulse of the forest"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093322731466965273"
+ },
+ {
+  "band": "JS",
+  "name": "Blockchain Boogie",
+  "triggers": [
+   "blockchain boogie"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093327815911358787"
  }
 ]
