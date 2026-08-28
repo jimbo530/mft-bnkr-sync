@@ -3812,14 +3812,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086648821832962156"
  },
  {
-  "band": "JS",
-  "name": "Jony Sings move like magic",
-  "triggers": [
-   "jony sings move like magic"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084771392973668798"
- },
- {
   "band": "EBM",
   "name": "Plug That Backs Real Ones",
   "triggers": [
@@ -7345,5 +7337,13 @@
    "make today count"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093242225496887411"
+ },
+ {
+  "band": "JS",
+  "name": "Jony Sings move like magic",
+  "triggers": [
+   "jony sings move like magic"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093247286243394015"
  }
 ]

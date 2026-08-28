@@ -252,14 +252,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Jony Sings move like magic",
-  "triggers": [
-   "jony sings move like magic"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084771392973668798",
-  "tag": "$MfT"
- },
- {
   "name": "Back The Beginning",
   "triggers": [
    "back the beginning"
@@ -746,6 +738,14 @@
    "make today count"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093242225496887411",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Jony Sings move like magic",
+  "triggers": [
+   "jony sings move like magic"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093247286243394015",
   "tag": "$MfT"
  }
 ]
