@@ -832,5 +832,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093342914780725269",
   "tag": "$MfT"
+ },
+ {
+  "name": "Witness In The Timber",
+  "triggers": [
+   "witness in the timber"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093388155726463139",
+  "tag": "$MfT"
  }
 ]
