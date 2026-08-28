@@ -1459,14 +1459,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086487811343933589"
  },
  {
-  "band": "MR",
-  "name": "Water Is Life",
-  "triggers": [
-   "water is life"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086492832085283063"
- },
- {
   "band": "Jasmine",
   "name": "Warmth of the Dwarven Hearth",
   "triggers": [
@@ -7368,5 +7360,13 @@
    "dance to defend the earth"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093468740620779893"
+ },
+ {
+  "band": "MR",
+  "name": "Water Is Life",
+  "triggers": [
+   "water is life"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093483828153094204"
  }
 ]
