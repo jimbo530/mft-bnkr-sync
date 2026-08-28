@@ -2668,14 +2668,6 @@
  },
  {
   "band": "MR",
-  "name": "Green Hearts vid",
-  "triggers": [
-   "green hearts vid"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081610608739291186"
- },
- {
-  "band": "MR",
   "name": "Opportunity To Be Great",
   "triggers": [
    "opportunity to be great"
@@ -7353,5 +7345,13 @@
    "day to build the dream"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093342914780725269"
+ },
+ {
+  "band": "MR",
+  "name": "Green Hearts vid",
+  "triggers": [
+   "green hearts vid"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093347902034731464"
  }
 ]
