@@ -4456,19 +4456,6 @@
     "caption": "🎵 \"Every Signal Plants Trees\"\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2084716034716549541",
-    "translation": "Digerie Dude - I endure",
-    "name": "Digerie Dude - I endure",
-    "triggers": [
-      "digerie dude - i endure"
-    ],
-    "band": "MV",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2084716034716549541",
-    "caption": "🎵 \"Digerie Dude - I endure\"\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2066490907298345422",
     "translation": "BASE Scrolls 21626",
     "name": "BASE Scrolls 21626",
@@ -11862,5 +11849,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2093267390196854936",
     "caption": "\"“EVERY SIGNAL PLANTS TREES”\" — Elves of Ballinmoore\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2093282513993023965",
+    "translation": "Digerie Dude - I endure",
+    "name": "Digerie Dude - I endure",
+    "triggers": [
+      "digerie dude - i endure"
+    ],
+    "band": "MV",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2093282513993023965",
+    "caption": "\"Digerie Dude - I endure\"\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

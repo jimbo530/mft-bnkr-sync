@@ -40,14 +40,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Digerie Dude - I endure",
-  "triggers": [
-   "digerie dude - i endure"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084716034716549541",
-  "tag": "$MfT"
- },
- {
   "name": "BASE Scrolls 21626",
   "triggers": [
    "base scrolls 21626"
@@ -1270,6 +1262,14 @@
    "ebm - marc on base burger boys"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093222121849647569",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Digerie Dude - I endure",
+  "triggers": [
+   "digerie dude - i endure"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093282513993023965",
   "tag": "$MfT"
  }
 ]
