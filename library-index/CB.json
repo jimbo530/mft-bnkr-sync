@@ -208,14 +208,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Unstoppable System",
-  "triggers": [
-   "unstoppable system"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083060118573187078",
-  "tag": "$MfT"
- },
- {
   "name": "Together we grow CB",
   "triggers": [
    "together we grow cb"
@@ -486,6 +478,14 @@
    "digerie dude - pulse of the forest"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093322731466965273",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Unstoppable System",
+  "triggers": [
+   "unstoppable system"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093368043086680316",
   "tag": "$MfT"
  }
 ]

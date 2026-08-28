@@ -3132,14 +3132,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2073361214717968755"
  },
  {
-  "band": "CB",
-  "name": "Unstoppable System",
-  "triggers": [
-   "unstoppable system"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083060118573187078"
- },
- {
   "band": "MV",
   "name": "Proof of life jony-natilie",
   "triggers": [
@@ -7353,5 +7345,13 @@
    "investors of tomorrow"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093363018327273906"
+ },
+ {
+  "band": "CB",
+  "name": "Unstoppable System",
+  "triggers": [
+   "unstoppable system"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093368043086680316"
  }
 ]
