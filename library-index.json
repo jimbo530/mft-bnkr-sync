@@ -2660,14 +2660,6 @@
  },
  {
   "band": "EBM",
-  "name": "ELVES OF BALLINMOORE — “NO TURNING BACK”",
-  "triggers": [
-   "elves of ballinmoore — “no turning back”"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082763149095129567"
- },
- {
-  "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “WE ARE BASED”",
   "triggers": [
    "elves of ballinmoore — “we are based”"
@@ -7345,5 +7337,13 @@
    "ebm - marc on base burger boys"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093222121849647569"
+ },
+ {
+  "band": "EBM",
+  "name": "ELVES OF BALLINMOORE — “NO TURNING BACK”",
+  "triggers": [
+   "elves of ballinmoore — “no turning back”"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093227117018227194"
  }
 ]
