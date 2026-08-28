@@ -3381,14 +3381,6 @@
  },
  {
   "band": "MV",
-  "name": "Together we rise -G.O.A.T.",
-  "triggers": [
-   "together we rise -g.o.a.t."
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084167405740106221"
- },
- {
-  "band": "MV",
   "name": "Jony Sings, Jaguars",
   "triggers": [
    "jony sings, jaguars"
@@ -7337,5 +7329,13 @@
    "jaguars"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093111373454536848"
+ },
+ {
+  "band": "MV",
+  "name": "Together we rise -G.O.A.T.",
+  "triggers": [
+   "together we rise -g.o.a.t."
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093126429890277582"
  }
 ]

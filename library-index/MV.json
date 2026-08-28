@@ -409,14 +409,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Together we rise -G.O.A.T.",
-  "triggers": [
-   "together we rise -g.o.a.t."
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084167405740106221",
-  "tag": "$MfT"
- },
- {
   "name": "Jony Sings, Jaguars",
   "triggers": [
    "jony sings, jaguars"
@@ -1262,6 +1254,14 @@
    "the more love you give - biggins mcjamin"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093071114121457954",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Together we rise -G.O.A.T.",
+  "triggers": [
+   "together we rise -g.o.a.t."
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093126429890277582",
   "tag": "$MfT"
  }
 ]
