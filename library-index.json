@@ -2603,14 +2603,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2075958328077799454"
  },
  {
-  "band": "EBM",
-  "name": "ELVES OF BALLINMOORE — “DOUBT CAN’T TOUC",
-  "triggers": [
-   "elves of ballinmoore — “doubt can’t touc"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081655872820744358"
- },
- {
   "band": "Myco",
   "name": "\udfa7 “First Light, Keep Moving”",
   "triggers": [
@@ -7368,5 +7360,13 @@
    "small voices, big waves"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093443526784672106"
+ },
+ {
+  "band": "EBM",
+  "name": "ELVES OF BALLINMOORE — “DOUBT CAN’T TOUC",
+  "triggers": [
+   "elves of ballinmoore — “doubt can’t touc"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093448598859960669"
  }
 ]
