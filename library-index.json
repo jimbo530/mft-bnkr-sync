@@ -2723,14 +2723,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2081676052087083267"
  },
  {
-  "band": "MV",
-  "name": "Digerie Dude - Small Voices Big Waves",
-  "triggers": [
-   "digerie dude - small voices big waves"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084570058651468017"
- },
- {
   "band": "EBM",
   "name": "Base Wire — Jun 16, 2026",
   "triggers": [
@@ -7368,5 +7360,13 @@
    "elves of ballinmoore — “doubt can’t touc"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093448598859960669"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Small Voices Big Waves",
+  "triggers": [
+   "digerie dude - small voices big waves"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093463715840487439"
  }
 ]

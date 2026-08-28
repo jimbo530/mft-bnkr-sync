@@ -56,14 +56,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Digerie Dude - Small Voices Big Waves",
-  "triggers": [
-   "digerie dude - small voices big waves"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084570058651468017",
-  "tag": "$MfT"
- },
- {
   "name": "RAISE THE CRACKS",
   "triggers": [
    "raise the cracks"
@@ -1285,6 +1277,14 @@
    "garden spinning green"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093423401167728775",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Digerie Dude - Small Voices Big Waves",
+  "triggers": [
+   "digerie dude - small voices big waves"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093463715840487439",
   "tag": "$MfT"
  }
 ]

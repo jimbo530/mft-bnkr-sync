@@ -4365,19 +4365,6 @@
     "caption": "🎵 \"Jony Sings Alliance\"\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2084570058651468017",
-    "translation": "Digerie Dude - Small Voices Big Waves",
-    "name": "Digerie Dude - Small Voices Big Waves",
-    "triggers": [
-      "digerie dude - small voices big waves"
-    ],
-    "band": "MV",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2084570058651468017",
-    "caption": "🎵 \"Digerie Dude - Small Voices Big Waves\"\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2066888556987941139",
     "translation": "Base Wire — Jun 16, 2026",
     "name": "Base Wire — Jun 16, 2026",
@@ -11900,5 +11887,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2093448598859960669",
     "caption": "\"ELVES OF BALLINMOORE — “DOUBT CAN’T TOUC\" — Elves of Ballinmoore\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2093463715840487439",
+    "translation": "Digerie Dude - Small Voices Big Waves",
+    "name": "Digerie Dude - Small Voices Big Waves",
+    "triggers": [
+      "digerie dude - small voices big waves"
+    ],
+    "band": "MV",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2093463715840487439",
+    "caption": "\"Digerie Dude - Small Voices Big Waves\"\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
