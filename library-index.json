@@ -6540,14 +6540,6 @@
  },
  {
   "band": "JS",
-  "name": "Proof Of Life",
-  "triggers": [
-   "proof of life"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092200339847922003"
- },
- {
-  "band": "JS",
   "name": "Songs For The Builders",
   "triggers": [
    "songs for the builders"
@@ -7337,5 +7329,13 @@
    "open roads"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093201983574331792"
+ },
+ {
+  "band": "JS",
+  "name": "Proof Of Life",
+  "triggers": [
+   "proof of life"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093206974989013490"
  }
 ]
