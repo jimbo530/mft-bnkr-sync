@@ -4365,19 +4365,6 @@
     "caption": "🎵 \"Opportunity To Be Great\" — Moon Rasta\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2082657442203136049",
-    "translation": "Make Today Count",
-    "name": "Make Today Count",
-    "triggers": [
-      "make today count"
-    ],
-    "band": "JS",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2082657442203136049",
-    "caption": "🎵 \"Make Today Count\" — Jony Sings\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2084343603854241822",
     "translation": "Investors of Tomorrow",
     "name": "Investors of Tomorrow",
@@ -11862,5 +11849,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2093227117018227194",
     "caption": "\"ELVES OF BALLINMOORE — “NO TURNING BACK”\" — Elves of Ballinmoore\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2093242225496887411",
+    "translation": "Make Today Count",
+    "name": "Make Today Count",
+    "triggers": [
+      "make today count"
+    ],
+    "band": "JS",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2093242225496887411",
+    "caption": "\"Make Today Count\" — Jony Sings\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

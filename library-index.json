@@ -2724,14 +2724,6 @@
  },
  {
   "band": "JS",
-  "name": "Make Today Count",
-  "triggers": [
-   "make today count"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082657442203136049"
- },
- {
-  "band": "JS",
   "name": "Investors of Tomorrow",
   "triggers": [
    "investors of tomorrow"
@@ -7345,5 +7337,13 @@
    "elves of ballinmoore — “no turning back”"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093227117018227194"
+ },
+ {
+  "band": "JS",
+  "name": "Make Today Count",
+  "triggers": [
+   "make today count"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093242225496887411"
  }
 ]
