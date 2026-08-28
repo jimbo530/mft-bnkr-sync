@@ -212,14 +212,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Party God",
-  "triggers": [
-   "party god"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083135655530361305",
-  "tag": "$MfT"
- },
- {
   "name": "Investors of Tomorrow",
   "triggers": [
    "investors of tomorrow"
@@ -746,6 +738,14 @@
    "jony sings move like magic"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093247286243394015",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Party God",
+  "triggers": [
+   "party god"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093262380553646411",
   "tag": "$MfT"
  }
 ]

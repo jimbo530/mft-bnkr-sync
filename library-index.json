@@ -2707,14 +2707,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2084524756372423061"
  },
  {
-  "band": "JS",
-  "name": "Party God",
-  "triggers": [
-   "party god"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083135655530361305"
- },
- {
   "band": "MR",
   "name": "Opportunity To Be Great",
   "triggers": [
@@ -7345,5 +7337,13 @@
    "jony sings move like magic"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093247286243394015"
+ },
+ {
+  "band": "JS",
+  "name": "Party God",
+  "triggers": [
+   "party god"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093262380553646411"
  }
 ]
