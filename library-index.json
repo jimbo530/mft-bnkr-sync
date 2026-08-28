@@ -2715,14 +2715,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2085380380987703780"
  },
  {
-  "band": "JS",
-  "name": "Decentralize",
-  "triggers": [
-   "decentralize"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081791763996348826"
- },
- {
   "band": "MR",
   "name": "Green Hearts vid",
   "triggers": [
@@ -7337,5 +7329,13 @@
    "thanks for being here"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093161682302382253"
+ },
+ {
+  "band": "JS",
+  "name": "Decentralize",
+  "triggers": [
+   "decentralize"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093166704805236828"
  }
 ]

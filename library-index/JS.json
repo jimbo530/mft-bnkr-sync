@@ -204,14 +204,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Decentralize",
-  "triggers": [
-   "decentralize"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2081791763996348826",
-  "tag": "$MfT"
- },
- {
   "name": "Blockchain Boogie",
   "triggers": [
    "blockchain boogie"
@@ -746,6 +738,14 @@
    "jaguars"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093111373454536848",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Decentralize",
+  "triggers": [
+   "decentralize"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093166704805236828",
   "tag": "$MfT"
  }
 ]
