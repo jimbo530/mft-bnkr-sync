@@ -2955,14 +2955,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2082783263873990803"
  },
  {
-  "band": "CB",
-  "name": "Digerie Dude - Pulse of the Forest",
-  "triggers": [
-   "digerie dude - pulse of the forest"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082682604176773198"
- },
- {
   "band": "MV",
   "name": "Jony Sings, alive",
   "triggers": [
@@ -7353,5 +7345,13 @@
    "ebm- alliance"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093307654466580551"
+ },
+ {
+  "band": "CB",
+  "name": "Digerie Dude - Pulse of the Forest",
+  "triggers": [
+   "digerie dude - pulse of the forest"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093322731466965273"
  }
 ]
