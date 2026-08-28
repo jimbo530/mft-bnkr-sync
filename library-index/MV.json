@@ -360,14 +360,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Dance to Defend The Earth",
-  "triggers": [
-   "dance to defend the earth"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085199239282414022",
-  "tag": "$MfT"
- },
- {
   "name": "Jony Sings, Jaguars",
   "triggers": [
    "jony sings, jaguars"
@@ -1285,6 +1277,14 @@
    "digerie dude - small voices big waves"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093463715840487439",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Dance to Defend The Earth",
+  "triggers": [
+   "dance to defend the earth"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093468740620779893",
   "tag": "$MfT"
  }
 ]
