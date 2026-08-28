@@ -2604,14 +2604,6 @@
  },
  {
   "band": "DD",
-  "name": "Permanent",
-  "triggers": [
-   "permanent"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083115527279354170"
- },
- {
-  "band": "DD",
   "name": "Small Voices, Big Waves",
   "triggers": [
    "small voices, big waves"
@@ -7353,5 +7345,13 @@
    "unstoppable system"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093368043086680316"
+ },
+ {
+  "band": "DD",
+  "name": "Permanent",
+  "triggers": [
+   "permanent"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093383188231970996"
  }
 ]

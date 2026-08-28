@@ -238,14 +238,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Permanent",
-  "triggers": [
-   "permanent"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2083115527279354170",
-  "tag": "$MfT"
- },
- {
   "name": "Small Voices, Big Waves",
   "triggers": [
    "small voices, big waves"
@@ -468,6 +460,14 @@
    "open roads"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093201983574331792",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Permanent",
+  "triggers": [
+   "permanent"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093383188231970996",
   "tag": "$MfT"
  }
 ]
