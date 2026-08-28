@@ -5184,19 +5184,6 @@
     "caption": "🎵 \"Digerie Dude- Tender Resilience.\"\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2082073620331810948",
-    "translation": "Garden spinning green",
-    "name": "Garden spinning green",
-    "triggers": [
-      "garden spinning green"
-    ],
-    "band": "MV",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2082073620331810948",
-    "caption": "🎵 \"Garden spinning green\"\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2085662227206447176",
     "translation": "Meme For Trees",
     "name": "Meme For Trees",
@@ -11900,5 +11887,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2093408346636173686",
     "caption": "\"Pass it on\"\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2093423401167728775",
+    "translation": "Garden spinning green",
+    "name": "Garden spinning green",
+    "triggers": [
+      "garden spinning green"
+    ],
+    "band": "MV",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2093423401167728775",
+    "caption": "\"Garden spinning green\"\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

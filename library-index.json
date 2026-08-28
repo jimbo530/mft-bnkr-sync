@@ -3227,14 +3227,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2084147279254958581"
  },
  {
-  "band": "MV",
-  "name": "Garden spinning green",
-  "triggers": [
-   "garden spinning green"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2082073620331810948"
- },
- {
   "band": "Bongo",
   "name": "Meme For Trees",
   "triggers": [
@@ -7368,5 +7360,13 @@
    "pass it on"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093408346636173686"
+ },
+ {
+  "band": "MV",
+  "name": "Garden spinning green",
+  "triggers": [
+   "garden spinning green"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093423401167728775"
  }
 ]
