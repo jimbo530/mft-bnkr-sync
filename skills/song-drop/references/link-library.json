@@ -4430,19 +4430,6 @@
     "caption": "🎵 \"Make Today Count\" — Jony Sings\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2084690863548969190",
-    "translation": "Velvet And Valor",
-    "name": "Velvet And Valor",
-    "triggers": [
-      "velvet and valor"
-    ],
-    "band": "NN",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2084690863548969190",
-    "caption": "🎵 \"Velvet And Valor\" — Natilie Nightclub\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2084343603854241822",
     "translation": "Investors of Tomorrow",
     "name": "Investors of Tomorrow",
@@ -11849,5 +11836,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2093131500879245399",
     "caption": "\"We Water Each Other vid\" — Moon Rasta\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2093141588415332845",
+    "translation": "Velvet And Valor",
+    "name": "Velvet And Valor",
+    "triggers": [
+      "velvet and valor"
+    ],
+    "band": "NN",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2093141588415332845",
+    "caption": "\"Velvet And Valor\" — Natilie Nightclub\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

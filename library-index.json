@@ -2763,14 +2763,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2082657442203136049"
  },
  {
-  "band": "NN",
-  "name": "Velvet And Valor",
-  "triggers": [
-   "velvet and valor"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084690863548969190"
- },
- {
   "band": "JS",
   "name": "Investors of Tomorrow",
   "triggers": [
@@ -7337,5 +7329,13 @@
    "we water each other vid"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093131500879245399"
+ },
+ {
+  "band": "NN",
+  "name": "Velvet And Valor",
+  "triggers": [
+   "velvet and valor"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093141588415332845"
  }
 ]

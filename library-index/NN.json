@@ -208,14 +208,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Velvet And Valor",
-  "triggers": [
-   "velvet and valor"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2084690863548969190",
-  "tag": "$MfT"
- },
- {
   "name": "Darling That s the Magic",
   "triggers": [
    "darling that s the magic"
@@ -366,6 +358,14 @@
    "forest song 2"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092985540836495594",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Velvet And Valor",
+  "triggers": [
+   "velvet and valor"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093141588415332845",
   "tag": "$MfT"
  }
 ]
