@@ -3562,14 +3562,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086648821832962156"
  },
  {
-  "band": "EBM",
-  "name": "Plug That Backs Real Ones",
-  "triggers": [
-   "plug that backs real ones"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088802947723366552"
- },
- {
   "band": "DD",
   "name": "Hands That Lift The Maker",
   "triggers": [
@@ -7351,5 +7343,13 @@
    "everybody drinks"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093644884775166129"
+ },
+ {
+  "band": "EBM",
+  "name": "Plug That Backs Real Ones",
+  "triggers": [
+   "plug that backs real ones"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093649874486993304"
  }
 ]

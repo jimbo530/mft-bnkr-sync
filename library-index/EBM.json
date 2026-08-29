@@ -385,14 +385,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Plug That Backs Real Ones",
-  "triggers": [
-   "plug that backs real ones"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088802947723366552",
-  "tag": "$MfT"
- },
- {
   "name": "Vault That Don't Run Dry",
   "triggers": [
    "vault that don't run dry"
@@ -839,6 +831,14 @@
    "liquidity for the planet"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093488840702833090",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Plug That Backs Real Ones",
+  "triggers": [
+   "plug that backs real ones"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093649874486993304",
   "tag": "$MfT"
  }
 ]
