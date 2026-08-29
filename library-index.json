@@ -4297,14 +4297,6 @@
  },
  {
   "band": "Strut",
-  "name": "Pennies Into Thunder",
-  "triggers": [
-   "pennies into thunder"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089583133158932857"
- },
- {
-  "band": "Strut",
   "name": "Plant It Loud",
   "triggers": [
    "plant it loud"
@@ -7366,5 +7358,13 @@
    "kneel to no one"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093549224990310457"
+ },
+ {
+  "band": "Strut",
+  "name": "Pennies Into Thunder",
+  "triggers": [
+   "pennies into thunder"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093564313625665771"
  }
 ]
