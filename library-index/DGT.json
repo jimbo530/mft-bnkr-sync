@@ -123,14 +123,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "One More Plate Before Dawn",
-  "triggers": [
-   "one more plate before dawn"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088702357001437561",
-  "tag": "$MfT"
- },
- {
   "name": "Lucky To Be Here",
   "triggers": [
    "lucky to be here"
@@ -209,6 +201,14 @@
    "second-line for your fear"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092406740713189736",
+  "tag": "$MfT"
+ },
+ {
+  "name": "One More Plate Before Dawn",
+  "triggers": [
+   "one more plate before dawn"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093670071830745264",
   "tag": "$MfT"
  }
 ]

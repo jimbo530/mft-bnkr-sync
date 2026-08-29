@@ -2402,14 +2402,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088697261026844820"
  },
  {
-  "band": "DGT",
-  "name": "One More Plate Before Dawn",
-  "triggers": [
-   "one more plate before dawn"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088702357001437561"
- },
- {
   "band": "MR",
   "name": "Feed the Village",
   "triggers": [
@@ -7351,5 +7343,13 @@
    "decentralize"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093664983343092195"
+ },
+ {
+  "band": "DGT",
+  "name": "One More Plate Before Dawn",
+  "triggers": [
+   "one more plate before dawn"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093670071830745264"
  }
 ]

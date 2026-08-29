@@ -3852,19 +3852,6 @@
     "caption": "\"Cheap Tricks Expensive Forests\" — Natilie Nightclub\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2088702357001437561",
-    "translation": "One More Plate Before Dawn",
-    "name": "One More Plate Before Dawn",
-    "triggers": [
-      "one more plate before dawn"
-    ],
-    "band": "DGT",
-    "tag": "$MfT",
-    "ca": "0x52414B7cD2FA723E1c8f9295EB29F16d15aA7BB9",
-    "xPost": "https://x.com/MemeForTrees/status/2088702357001437561",
-    "caption": "\"One More Plate Before Dawn\" — Damned Good Time Orchestra\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2088722416574910557",
     "translation": "Feed the Village",
     "name": "Feed the Village",
@@ -11881,5 +11868,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2093664983343092195",
     "caption": "\"Decentralize\" — Jony Sings\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2093670071830745264",
+    "translation": "One More Plate Before Dawn",
+    "name": "One More Plate Before Dawn",
+    "triggers": [
+      "one more plate before dawn"
+    ],
+    "band": "DGT",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2093670071830745264",
+    "caption": "\"One More Plate Before Dawn\" — Damned Good Time Orchestra\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
