@@ -7112,14 +7112,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093206974989013490"
  },
  {
-  "band": "MV",
-  "name": "EBM - Marc on base burger boys",
-  "triggers": [
-   "ebm - marc on base burger boys"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093222121849647569"
- },
- {
   "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “NO TURNING BACK”",
   "triggers": [
@@ -7366,5 +7358,13 @@
    "charge! (the ballad of bold nobi)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093529088816205880"
+ },
+ {
+  "band": "MV",
+  "name": "EBM - Marc on base burger boys",
+  "triggers": [
+   "ebm - marc on base burger boys"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093544245512556760"
  }
 ]
