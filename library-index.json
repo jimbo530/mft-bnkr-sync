@@ -6969,14 +6969,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093161682302382253"
  },
  {
-  "band": "JS",
-  "name": "Decentralize",
-  "triggers": [
-   "decentralize"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093166704805236828"
- },
- {
   "band": "EBM",
   "name": "Interest In The Infinite",
   "triggers": [
@@ -7351,5 +7343,13 @@
    "plug that backs real ones"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093649874486993304"
+ },
+ {
+  "band": "JS",
+  "name": "Decentralize",
+  "triggers": [
+   "decentralize"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093664983343092195"
  }
 ]
