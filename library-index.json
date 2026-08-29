@@ -191,19 +191,6 @@
   ]
  },
  {
-  "band": "ALAN",
-  "name": "Still Building After Dark",
-  "triggers": [
-   "still building after dark"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079177191829422339",
-  "topics": [
-   "building",
-   "night shift",
-   "builders"
-  ]
- },
- {
   "band": "NN",
   "name": "The Path to Personal Shows",
   "triggers": [
@@ -7351,5 +7338,13 @@
    "party til forests are funded"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093690188425822511"
+ },
+ {
+  "band": "ALAN",
+  "name": "Still Building After Dark",
+  "triggers": [
+   "still building after dark"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093705249097654754"
  }
 ]

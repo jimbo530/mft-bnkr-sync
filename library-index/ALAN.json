@@ -60,19 +60,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Still Building After Dark",
-  "triggers": [
-   "still building after dark"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079177191829422339",
-  "topics": [
-   "building",
-   "night shift",
-   "builders"
-  ],
-  "tag": "$MfT"
- },
- {
   "name": "The Sounds of the Barn Yard",
   "triggers": [
    "the sounds of the barn yard"
@@ -141,6 +128,14 @@
    "for the tree and the bees"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093569394160922634",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Still Building After Dark",
+  "triggers": [
+   "still building after dark"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093705249097654754",
   "tag": "$MfT"
  }
 ]
