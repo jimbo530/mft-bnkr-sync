@@ -1717,14 +1717,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2087111890753249480"
  },
  {
-  "band": "JS",
-  "name": "The Block Plants Oaks",
-  "triggers": [
-   "the block plants oaks"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087494359490900260"
- },
- {
   "band": "DD",
   "name": "Where the Maps Run Out",
   "triggers": [
@@ -7346,5 +7338,13 @@
    "jony sings gotta get paid"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093710327766466574"
+ },
+ {
+  "band": "JS",
+  "name": "The Block Plants Oaks",
+  "triggers": [
+   "the block plants oaks"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093725429668409632"
  }
 ]

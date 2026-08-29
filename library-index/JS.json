@@ -134,14 +134,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Block Plants Oaks",
-  "triggers": [
-   "the block plants oaks"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087494359490900260",
-  "tag": "$MfT"
- },
- {
   "name": "She Just Said It",
   "triggers": [
    "she just said it"
@@ -740,6 +732,14 @@
    "jony sings gotta get paid"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093710327766466574",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Block Plants Oaks",
+  "triggers": [
+   "the block plants oaks"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093725429668409632",
   "tag": "$MfT"
  }
 ]
