@@ -717,16 +717,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2080704594137563541"
  },
  {
-  "band": "DD",
-  "name": "Kind Folk (In the Strangest Places)",
-  "triggers": [
-   "kind folk",
-   "kind folk in the strangest places",
-   "kindest people strangest places"
-  ],
-  "xPost": "https://x.com/MonkyTownWallet/status/2083242937089970250"
- },
- {
   "band": "Myco",
   "name": "Sky People (Good Vibes Make Forests)",
   "triggers": [
@@ -7368,5 +7358,13 @@
    "liquidity for the planet"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093488840702833090"
+ },
+ {
+  "band": "DD",
+  "name": "Kind Folk (In the Strangest Places)",
+  "triggers": [
+   "kind folk (in the strangest places)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093503976431841313"
  }
 ]

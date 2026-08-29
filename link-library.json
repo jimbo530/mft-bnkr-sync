@@ -1114,21 +1114,6 @@
     "caption": "\"Shout It and It's Live\" — Biggins Mcjammin\n\n$MfT"
   },
   {
-    "file": "https://x.com/MonkyTownWallet/status/2083242937089970250",
-    "translation": "Kind Folk (In the Strangest Places)",
-    "name": "Kind Folk (In the Strangest Places)",
-    "triggers": [
-      "kind folk",
-      "kind folk in the strangest places",
-      "kindest people strangest places"
-    ],
-    "band": "DD",
-    "tag": "$MfT",
-    "ca": "0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3",
-    "xPost": "https://x.com/MonkyTownWallet/status/2083242937089970250",
-    "caption": "\"Kind Folk (In the Strangest Places)\" — Digerie Dude\n\n$MfT 0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3"
-  },
-  {
     "file": "https://x.com/MonkyTownWallet/status/2083245731142324463",
     "translation": "Sky People (Good Vibes Make Forests)",
     "name": "Sky People (Good Vibes Make Forests)",
@@ -11900,5 +11885,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2093488840702833090",
     "caption": "\"LIQUIDITY FOR THE PLANET\" — Elves of Ballinmoore\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2093503976431841313",
+    "translation": "Kind Folk (In the Strangest Places)",
+    "name": "Kind Folk (In the Strangest Places)",
+    "triggers": [
+      "kind folk (in the strangest places)"
+    ],
+    "band": "DD",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2093503976431841313",
+    "caption": "\"Kind Folk (In the Strangest Places)\" — Digerie Dude\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

@@ -28,16 +28,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079568304016900141"
  },
  {
-  "name": "Kind Folk (In the Strangest Places)",
-  "triggers": [
-   "kind folk",
-   "kind folk in the strangest places",
-   "kindest people strangest places"
-  ],
-  "xPost": "https://x.com/MonkyTownWallet/status/2083242937089970250",
-  "tag": "$MfT"
- },
- {
   "name": "Carry the Water",
   "triggers": [
    "carry the water"
@@ -468,6 +458,14 @@
    "small voices, big waves"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093443526784672106",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Kind Folk (In the Strangest Places)",
+  "triggers": [
+   "kind folk (in the strangest places)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093503976431841313",
   "tag": "$MfT"
  }
 ]
