@@ -64,14 +64,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Club Is Open Darlings",
-  "triggers": [
-   "the club is open darlings"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085299886820389257",
-  "tag": "$MfT"
- },
- {
   "name": "It Does It for You",
   "triggers": [
    "it does it for you"
@@ -366,6 +358,14 @@
    "the velvet ledger"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093589529907142864",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Club Is Open Darlings",
+  "triggers": [
+   "the club is open darlings"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093609663770075412",
   "tag": "$MfT"
  }
 ]

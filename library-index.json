@@ -786,14 +786,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2085279758657396915"
  },
  {
-  "band": "NN",
-  "name": "The Club Is Open Darlings",
-  "triggers": [
-   "the club is open darlings"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085299886820389257"
- },
- {
   "band": "EBM",
   "name": "Oldest Magic",
   "triggers": [
@@ -7351,5 +7343,13 @@
    "out of the treeline"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093604619196797226"
+ },
+ {
+  "band": "NN",
+  "name": "The Club Is Open Darlings",
+  "triggers": [
+   "the club is open darlings"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093609663770075412"
  }
 ]

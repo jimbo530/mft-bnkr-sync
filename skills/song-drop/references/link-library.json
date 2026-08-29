@@ -1226,19 +1226,6 @@
     "caption": "\"Tavern at the Tide\" — Natilie Nightclub\npress play, plant trees\n\ngrab a monkey, name him forever, feed him a banana a day — a Monkey Town wallet takes just an email:\nhttps://tasern.quest/monkeytown\n\n$MfT 0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2085299886820389257",
-    "translation": "The Club Is Open Darlings",
-    "name": "The Club Is Open Darlings",
-    "triggers": [
-      "the club is open darlings"
-    ],
-    "band": "NN",
-    "tag": "$MfT",
-    "ca": "0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc",
-    "xPost": "https://x.com/MemeForTrees/status/2085299886820389257",
-    "caption": "\"The Club Is Open Darlings\" — Natilie Nightclub\nturn it up for the trees\n\nthe band works for a dollar — your song, their voice:\nhttps://tasern.quest/songsmith.html\nor pay right here on X: tag @MonkyTownWallet, any library song for 2 gold or 2 bananas\n\n$MfT 0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2085335080713461969",
     "translation": "Oldest Magic",
     "name": "Oldest Magic",
@@ -11881,5 +11868,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2093604619196797226",
     "caption": "\"Out Of the Treeline\" — Biggins Mcjammin\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2093609663770075412",
+    "translation": "The Club Is Open Darlings",
+    "name": "The Club Is Open Darlings",
+    "triggers": [
+      "the club is open darlings"
+    ],
+    "band": "NN",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2093609663770075412",
+    "caption": "\"The Club Is Open Darlings\" — Natilie Nightclub\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
