@@ -3508,19 +3508,6 @@
     "caption": "\"Feed the Column\" — Moon Rasta\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2088405354119889185",
-    "translation": "Champion of the Trees",
-    "name": "Champion of the Trees",
-    "triggers": [
-      "champion of the trees"
-    ],
-    "band": "MR",
-    "tag": "$MfT",
-    "ca": "0x8d669b539C7801c1271BC484Bdd8a6084b7788e7",
-    "xPost": "https://x.com/MemeForTrees/status/2088405354119889185",
-    "caption": "\"Champion of the Trees\" — Moon Rasta\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2088410398672179219",
     "translation": "Fast as the Forge-Fire",
     "name": "Fast as the Forge-Fire",
@@ -11875,5 +11862,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2093725429668409632",
     "caption": "\"The Block Plants Oaks\" — Jony Sings\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2093730410253455839",
+    "translation": "Champion of the Trees",
+    "name": "Champion of the Trees",
+    "triggers": [
+      "champion of the trees"
+    ],
+    "band": "MR",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2093730410253455839",
+    "caption": "\"Champion of the Trees\" — Moon Rasta\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
