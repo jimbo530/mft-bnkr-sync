@@ -153,14 +153,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Canopy Law",
-  "triggers": [
-   "canopy law"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086512964023021970",
-  "tag": "$MfT"
- },
- {
   "name": "Costs You Nothing",
   "triggers": [
    "costs you nothing"
@@ -839,6 +831,14 @@
    "drop memes, fund trees"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093685123812119014",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Canopy Law",
+  "triggers": [
+   "canopy law"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093770669716550108",
   "tag": "$MfT"
  }
 ]

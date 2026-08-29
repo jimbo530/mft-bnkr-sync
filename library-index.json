@@ -1381,14 +1381,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086507947761271242"
  },
  {
-  "band": "EBM",
-  "name": "Canopy Law",
-  "triggers": [
-   "canopy law"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086512964023021970"
- },
- {
   "band": "Rish",
   "name": "The Hearth That Tends Itself",
   "triggers": [
@@ -7346,5 +7338,13 @@
    "they paid me nothing (and i love it)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093765681577611552"
+ },
+ {
+  "band": "EBM",
+  "name": "Canopy Law",
+  "triggers": [
+   "canopy law"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093770669716550108"
  }
 ]
