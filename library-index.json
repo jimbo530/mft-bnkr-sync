@@ -1189,14 +1189,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086190749524111773"
  },
  {
-  "band": "JS",
-  "name": "Still on the Stoop",
-  "triggers": [
-   "still on the stoop"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086205839136735351"
- },
- {
   "band": "RickyBobbie",
   "name": "Fastest Word in the Sky",
   "triggers": [
@@ -7346,5 +7338,13 @@
    "sing to the machine"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093831112866873453"
+ },
+ {
+  "band": "JS",
+  "name": "Still on the Stoop",
+  "triggers": [
+   "still on the stoop"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093846165519253542"
  }
 ]

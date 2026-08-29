@@ -86,14 +86,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Still on the Stoop",
-  "triggers": [
-   "still on the stoop"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086205839136735351",
-  "tag": "$MfT"
- },
- {
   "name": "Money That Feeds",
   "triggers": [
    "money that feeds"
@@ -740,6 +732,14 @@
    "the block plants oaks"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093725429668409632",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Still on the Stoop",
+  "triggers": [
+   "still on the stoop"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093846165519253542",
   "tag": "$MfT"
  }
 ]
