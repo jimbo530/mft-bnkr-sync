@@ -5868,14 +5868,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091777611177378138"
  },
  {
-  "band": "JS",
-  "name": "Jony Sings gotta get paid",
-  "triggers": [
-   "jony sings gotta get paid"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091792627762856247"
- },
- {
   "band": "MV",
   "name": "Digerie Dude - Open Roads (1)",
   "triggers": [
@@ -7346,5 +7338,13 @@
    "still building after dark"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093705249097654754"
+ },
+ {
+  "band": "JS",
+  "name": "Jony Sings gotta get paid",
+  "triggers": [
+   "jony sings gotta get paid"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093710327766466574"
  }
 ]
