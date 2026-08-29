@@ -6210,14 +6210,6 @@
  },
  {
   "band": "EBM",
-  "name": "Drop Memes, Fund Trees",
-  "triggers": [
-   "drop memes, fund trees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092220482430890347"
- },
- {
-  "band": "EBM",
   "name": "Invite A Friend",
   "triggers": [
    "invite a friend"
@@ -7351,5 +7343,13 @@
    "one more plate before dawn"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093670071830745264"
+ },
+ {
+  "band": "EBM",
+  "name": "Drop Memes, Fund Trees",
+  "triggers": [
+   "drop memes, fund trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093685123812119014"
  }
 ]
