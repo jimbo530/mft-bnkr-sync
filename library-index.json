@@ -1685,14 +1685,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2087071539380330869"
  },
  {
-  "band": "Rish",
-  "name": "The Warden's Round",
-  "triggers": [
-   "the warden's round"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087086686165483901"
- },
- {
   "band": "Bongo",
   "name": "The Beat Votes Tomorrow",
   "triggers": [
@@ -7346,5 +7338,13 @@
    "canopy law"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093770669716550108"
+ },
+ {
+  "band": "Rish",
+  "name": "The Warden's Round",
+  "triggers": [
+   "the warden's round"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093785822864535942"
  }
 ]
