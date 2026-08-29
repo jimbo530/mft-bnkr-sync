@@ -5841,14 +5841,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091717129208824158"
  },
  {
-  "band": "Myco",
-  "name": "Party Til Forests Are Funded",
-  "triggers": [
-   "party til forests are funded"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091732269073400302"
- },
- {
   "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “THOUSAND YEAR PL",
   "triggers": [
@@ -7351,5 +7343,13 @@
    "drop memes, fund trees"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093685123812119014"
+ },
+ {
+  "band": "Myco",
+  "name": "Party Til Forests Are Funded",
+  "triggers": [
+   "party til forests are funded"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093690188425822511"
  }
 ]
