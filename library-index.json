@@ -1217,14 +1217,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086019572541300968"
  },
  {
-  "band": "Rish",
-  "name": "A Coin for the Round",
-  "triggers": [
-   "a coin for the round"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086044745168543756"
- },
- {
   "band": "MR",
   "name": "The Heaviest End",
   "triggers": [
@@ -7366,5 +7358,13 @@
    "finally found the one"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093508988356673696"
+ },
+ {
+  "band": "Rish",
+  "name": "A Coin for the Round",
+  "triggers": [
+   "a coin for the round"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093524093547024531"
  }
 ]

@@ -1919,19 +1919,6 @@
     "caption": "\"Pull Up to the Space\" — Jony Sings\ngood tunes, real forests\n\n$MfT 0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2086044745168543756",
-    "translation": "A Coin for the Round",
-    "name": "A Coin for the Round",
-    "triggers": [
-      "a coin for the round"
-    ],
-    "band": "Rish",
-    "tag": "$MfT",
-    "ca": "0x31c600871603bab5d855463E03c6d0a9eB661D26",
-    "xPost": "https://x.com/MemeForTrees/status/2086044745168543756",
-    "caption": "\"A Coin for the Round\" — Rish\nturn it up for the trees\n\nsoon you’ll launch your own critter with a tweet 🌱 Monkey Town is warming up\n\n$MfT 0x31c600871603bab5d855463E03c6d0a9eB661D26"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2086090123641258117",
     "translation": "The Heaviest End",
     "name": "The Heaviest End",
@@ -11898,5 +11885,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2093508988356673696",
     "caption": "\"Finally Found The One\" — Jony Sings\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2093524093547024531",
+    "translation": "A Coin for the Round",
+    "name": "A Coin for the Round",
+    "triggers": [
+      "a coin for the round"
+    ],
+    "band": "Rish",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2093524093547024531",
+    "caption": "\"A Coin for the Round\" — Rish\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
