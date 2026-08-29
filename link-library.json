@@ -1597,19 +1597,6 @@
     "caption": "\"Tally at the Muster\" — Jony Sings\nlisten, like, and share to fund forests\n\nthe band works for a dollar — your song, their voice:\nhttps://tasern.quest/songsmith.html\nor pay right here on X: tag @MonkyTownWallet, any library song for 2 gold or 2 bananas\n\n$MfT 0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2085803176012202299",
-    "translation": "Sing To the Machine",
-    "name": "Sing To the Machine",
-    "triggers": [
-      "sing to the machine"
-    ],
-    "band": "WarMachine",
-    "tag": "$MfT",
-    "ca": "0x6f45F5cE7027745b1Ab11D5493F187960D00FCfc",
-    "xPost": "https://x.com/MemeForTrees/status/2085803176012202299",
-    "caption": "\"Sing To the Machine\" — War Machine\ngood tunes, real forests\n\n$MfT 0x6f45F5cE7027745b1Ab11D5493F187960D00FCfc"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2085818305206472978",
     "translation": "The Patient Ones",
     "name": "The Patient Ones",
@@ -11875,5 +11862,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2093826076216631350",
     "caption": "\"I Saw You First\" — Natilie Nightclub\nevery listen grows the jungle\n\nThank you @artizen for including our Crypto Endowment Network in Season 7 💚 the bands sing their gratitude better than we can say it 🌱"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2093831112866873453",
+    "translation": "Sing To the Machine",
+    "name": "Sing To the Machine",
+    "triggers": [
+      "sing to the machine"
+    ],
+    "band": "WarMachine",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2093831112866873453",
+    "caption": "\"Sing To the Machine\" — War Machine\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

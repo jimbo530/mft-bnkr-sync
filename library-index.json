@@ -1013,14 +1013,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2085798182257140160"
  },
  {
-  "band": "WarMachine",
-  "name": "Sing To the Machine",
-  "triggers": [
-   "sing to the machine"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085803176012202299"
- },
- {
   "band": "EBM",
   "name": "The Patient Ones",
   "triggers": [
@@ -7346,5 +7338,13 @@
    "i saw you first"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093826076216631350"
+ },
+ {
+  "band": "WarMachine",
+  "name": "Sing To the Machine",
+  "triggers": [
+   "sing to the machine"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093831112866873453"
  }
 ]
