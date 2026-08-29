@@ -1069,14 +1069,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2085903858455159228"
  },
  {
-  "band": "EBM",
-  "name": "The Prompt Heard",
-  "triggers": [
-   "the prompt heard"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085918949321941453"
- },
- {
   "band": "Bongo",
   "name": "All You Have To Do Is Dance",
   "triggers": [
@@ -7346,5 +7338,13 @@
    "the oldest provider"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093790844134330431"
+ },
+ {
+  "band": "EBM",
+  "name": "The Prompt Heard",
+  "triggers": [
+   "the prompt heard"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093805938532614152"
  }
 ]
