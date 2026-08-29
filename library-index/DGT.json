@@ -123,14 +123,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Lucky To Be Here",
-  "triggers": [
-   "lucky to be here"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088762754630832220",
-  "tag": "$MfT"
- },
- {
   "name": "Just Got Out",
   "triggers": [
    "just got out"
@@ -209,6 +201,14 @@
    "one more plate before dawn"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093670071830745264",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Lucky To Be Here",
+  "triggers": [
+   "lucky to be here"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093745584532258870",
   "tag": "$MfT"
  }
 ]

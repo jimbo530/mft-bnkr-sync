@@ -2389,14 +2389,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088757653321273832"
  },
  {
-  "band": "DGT",
-  "name": "Lucky To Be Here",
-  "triggers": [
-   "lucky to be here"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088762754630832220"
- },
- {
   "band": "RickyBobbie",
   "name": "She Keeps Herself Flying",
   "triggers": [
@@ -7346,5 +7338,13 @@
    "champion of the trees"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093730410253455839"
+ },
+ {
+  "band": "DGT",
+  "name": "Lucky To Be Here",
+  "triggers": [
+   "lucky to be here"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093745584532258870"
  }
 ]
