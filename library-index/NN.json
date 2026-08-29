@@ -152,14 +152,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Velvet Ledger",
-  "triggers": [
-   "the velvet ledger"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087126905866564001",
-  "tag": "$MfT"
- },
- {
   "name": "The Price of a Song Darling",
   "triggers": [
    "the price of a song darling"
@@ -366,6 +358,14 @@
    "velvet and valor"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093141588415332845",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Velvet Ledger",
+  "triggers": [
+   "the velvet ledger"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093589529907142864",
   "tag": "$MfT"
  }
 ]

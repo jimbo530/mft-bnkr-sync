@@ -1754,14 +1754,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2087111890753249480"
  },
  {
-  "band": "NN",
-  "name": "The Velvet Ledger",
-  "triggers": [
-   "the velvet ledger"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087126905866564001"
- },
- {
   "band": "JS",
   "name": "The Block Plants Oaks",
   "triggers": [
@@ -7351,5 +7343,13 @@
    "the architecture of trust"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093584447236886896"
+ },
+ {
+  "band": "NN",
+  "name": "The Velvet Ledger",
+  "triggers": [
+   "the velvet ledger"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093589529907142864"
  }
 ]
