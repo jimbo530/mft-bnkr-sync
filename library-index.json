@@ -4417,14 +4417,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2089854922191757416"
  },
  {
-  "band": "Gurdy",
-  "name": "The Quiet Crown",
-  "triggers": [
-   "the quiet crown"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089859957835382795"
- },
- {
   "band": "HammerTone",
   "name": "The Guildmaster Who Asks Nothing",
   "triggers": [
@@ -7351,5 +7343,13 @@
    "haul the harvest home"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093624716044984794"
+ },
+ {
+  "band": "Gurdy",
+  "name": "The Quiet Crown",
+  "triggers": [
+   "the quiet crown"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093629791861707134"
  }
 ]
