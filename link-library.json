@@ -5653,19 +5653,6 @@
     "caption": "🎵 \"Back The Beginning\" — Jony Sings\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2088848301793718471",
-    "translation": "I Saw You First",
-    "name": "I Saw You First",
-    "triggers": [
-      "i saw you first"
-    ],
-    "band": "NN",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2088848301793718471",
-    "caption": "🎵 \"I Saw You First\" — Natilie Nightclub\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2088853331846303784",
     "translation": "Someone Bet on Me",
     "name": "Someone Bet on Me",
@@ -11875,5 +11862,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2093810971831579132",
     "caption": "\"Da Grot Wot Whittles\" — War Machine\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2093826076216631350",
+    "translation": "I Saw You First",
+    "name": "I Saw You First",
+    "triggers": [
+      "i saw you first"
+    ],
+    "band": "NN",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2093826076216631350",
+    "caption": "\"I Saw You First\" — Natilie Nightclub\nevery listen grows the jungle\n\nThank you @artizen for including our Crypto Endowment Network in Season 7 💚 the bands sing their gratitude better than we can say it 🌱"
   }
 ]

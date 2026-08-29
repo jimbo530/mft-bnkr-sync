@@ -3509,14 +3509,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088833200571171002"
  },
  {
-  "band": "NN",
-  "name": "I Saw You First",
-  "triggers": [
-   "i saw you first"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088848301793718471"
- },
- {
   "band": "Gurdy",
   "name": "Someone Bet on Me",
   "triggers": [
@@ -7346,5 +7338,13 @@
    "da grot wot whittles"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093810971831579132"
+ },
+ {
+  "band": "NN",
+  "name": "I Saw You First",
+  "triggers": [
+   "i saw you first"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093826076216631350"
  }
 ]
