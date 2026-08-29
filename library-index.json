@@ -4424,14 +4424,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2089719075089891741"
  },
  {
-  "band": "JS",
-  "name": "Finally Found The One",
-  "triggers": [
-   "finally found the one"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089724059139404007"
- },
- {
   "band": "NN",
   "name": "A Lord With Manners",
   "triggers": [
@@ -7366,5 +7358,13 @@
    "kind folk (in the strangest places)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093503976431841313"
+ },
+ {
+  "band": "JS",
+  "name": "Finally Found The One",
+  "triggers": [
+   "finally found the one"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093508988356673696"
  }
 ]

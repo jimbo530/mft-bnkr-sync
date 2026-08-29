@@ -261,14 +261,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Finally Found The One",
-  "triggers": [
-   "finally found the one"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089724059139404007",
-  "tag": "$MfT"
- },
- {
   "name": "For The Builders",
   "triggers": [
    "for the builders"
@@ -746,6 +738,14 @@
    "investors of tomorrow"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093363018327273906",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Finally Found The One",
+  "triggers": [
+   "finally found the one"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093508988356673696",
   "tag": "$MfT"
  }
 ]
