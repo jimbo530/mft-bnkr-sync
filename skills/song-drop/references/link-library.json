@@ -721,19 +721,6 @@
     "boothCommission": "sg_mru1d6ruoh"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2079456395129131479",
-    "translation": "Everybody Drinks",
-    "name": "Everybody Drinks",
-    "triggers": [
-      "everybody drinks"
-    ],
-    "band": "JS",
-    "tag": "$MfT",
-    "ca": "0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65",
-    "xPost": "https://x.com/MemeForTrees/status/2079456395129131479",
-    "caption": "\"Everybody Drinks\" — Jony Sings\n\n$MfT 0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2079545861537771528",
     "translation": "Bad for Business",
     "name": "Bad for Business",
@@ -11881,5 +11868,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2093629791861707134",
     "caption": "\"The Quiet Crown\" — Gurdy\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2093644884775166129",
+    "translation": "Everybody Drinks",
+    "name": "Everybody Drinks",
+    "triggers": [
+      "everybody drinks"
+    ],
+    "band": "JS",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2093644884775166129",
+    "caption": "\"Everybody Drinks\" — Jony Sings\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

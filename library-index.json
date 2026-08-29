@@ -467,14 +467,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079395156420124760"
  },
  {
-  "band": "JS",
-  "name": "Everybody Drinks",
-  "triggers": [
-   "everybody drinks"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079456395129131479"
- },
- {
   "band": "NN",
   "name": "Bad for Business",
   "triggers": [
@@ -7351,5 +7343,13 @@
    "the quiet crown"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093629791861707134"
+ },
+ {
+  "band": "JS",
+  "name": "Everybody Drinks",
+  "triggers": [
+   "everybody drinks"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093644884775166129"
  }
 ]

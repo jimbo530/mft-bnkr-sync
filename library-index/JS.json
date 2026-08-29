@@ -16,14 +16,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Everybody Drinks",
-  "triggers": [
-   "everybody drinks"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079456395129131479",
-  "tag": "$MfT"
- },
- {
   "name": "Ko Came Early",
   "triggers": [
    "ko came early"
@@ -740,6 +732,14 @@
    "the architecture of trust"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093584447236886896",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Everybody Drinks",
+  "triggers": [
+   "everybody drinks"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093644884775166129",
   "tag": "$MfT"
  }
 ]
