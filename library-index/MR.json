@@ -46,14 +46,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Haul the Harvest Home",
-  "triggers": [
-   "haul the harvest home"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085697478083387498",
-  "tag": "$MfT"
- },
- {
   "name": "Love Does the Growing",
   "triggers": [
    "love does the growing"
@@ -388,6 +380,14 @@
    "water is life"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093483828153094204",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Haul the Harvest Home",
+  "triggers": [
+   "haul the harvest home"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093624716044984794",
   "tag": "$MfT"
  }
 ]

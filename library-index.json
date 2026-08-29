@@ -962,14 +962,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2085682359039390115"
  },
  {
-  "band": "MR",
-  "name": "Haul the Harvest Home",
-  "triggers": [
-   "haul the harvest home"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085697478083387498"
- },
- {
   "band": "DD",
   "name": "The Well at the Bend",
   "triggers": [
@@ -7351,5 +7343,13 @@
    "the club is open darlings"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093609663770075412"
+ },
+ {
+  "band": "MR",
+  "name": "Haul the Harvest Home",
+  "triggers": [
+   "haul the harvest home"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093624716044984794"
  }
 ]
