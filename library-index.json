@@ -204,21 +204,6 @@
   ]
  },
  {
-  "band": "JS",
-  "name": "The Architecture of Trust",
-  "triggers": [
-   "the architecture of trust"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079177348314779845",
-  "topics": [
-   "trust",
-   "civilization",
-   "blockchain",
-   "verification"
-  ],
-  "promote": true
- },
- {
   "band": "NN",
   "name": "The Path to Personal Shows",
   "triggers": [
@@ -7358,5 +7343,13 @@
    "for the tree and the bees"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093569394160922634"
+ },
+ {
+  "band": "JS",
+  "name": "The Architecture of Trust",
+  "triggers": [
+   "the architecture of trust"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093584447236886896"
  }
 ]

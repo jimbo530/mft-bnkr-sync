@@ -309,27 +309,6 @@
     ]
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2079177348314779845",
-    "translation": "The Architecture of Trust",
-    "name": "The Architecture of Trust",
-    "triggers": [
-      "the architecture of trust"
-    ],
-    "band": "JS",
-    "tag": "",
-    "ca": "",
-    "xPost": "https://x.com/MemeForTrees/status/2079177348314779845",
-    "caption": "\"The Architecture of Trust\" — JS",
-    "boothCommission": "sg_mrt3p5ed7e",
-    "topics": [
-      "trust",
-      "civilization",
-      "blockchain",
-      "verification"
-    ],
-    "promote": true
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2079182617488888165",
     "translation": "The Path to Personal Shows",
     "name": "The Path to Personal Shows",
@@ -11889,5 +11868,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2093569394160922634",
     "caption": "\"For the Tree and the Bees\" — ALAN\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2093584447236886896",
+    "translation": "The Architecture of Trust",
+    "name": "The Architecture of Trust",
+    "triggers": [
+      "the architecture of trust"
+    ],
+    "band": "JS",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2093584447236886896",
+    "caption": "\"The Architecture of Trust\" — Jony Sings\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
