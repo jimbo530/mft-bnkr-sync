@@ -6713,19 +6713,6 @@
     "caption": "\"Side Effect\" — Elves of Ballinmoore\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2089422042835640560",
-    "translation": "CHARGE! (The Ballad of Bold Nobi)",
-    "name": "CHARGE! (The Ballad of Bold Nobi)",
-    "triggers": [
-      "charge! (the ballad of bold nobi)"
-    ],
-    "band": "Bongo",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2089422042835640560",
-    "caption": "\"CHARGE! (The Ballad of Bold Nobi)\" — Bongo\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2089437179986457002",
     "translation": "- The Beats Hit Different (When They Fund Forests)",
     "name": "- The Beats Hit Different (When They Fund Forests)",
@@ -11898,5 +11885,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2093524093547024531",
     "caption": "\"A Coin for the Round\" — Rish\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2093529088816205880",
+    "translation": "CHARGE! (The Ballad of Bold Nobi)",
+    "name": "CHARGE! (The Ballad of Bold Nobi)",
+    "triggers": [
+      "charge! (the ballad of bold nobi)"
+    ],
+    "band": "Bongo",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2093529088816205880",
+    "caption": "\"CHARGE! (The Ballad of Bold Nobi)\" — Bongo\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

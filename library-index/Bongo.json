@@ -303,14 +303,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "CHARGE! (The Ballad of Bold Nobi)",
-  "triggers": [
-   "charge! (the ballad of bold nobi)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089422042835640560",
-  "tag": "$MfT"
- },
- {
   "name": "The Chest Is Full (Party Anyway)",
   "triggers": [
    "the chest is full (party anyway)"
@@ -340,6 +332,14 @@
    "for memefortrees — 0fcd"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2092522497132417305",
+  "tag": "$MfT"
+ },
+ {
+  "name": "CHARGE! (The Ballad of Bold Nobi)",
+  "triggers": [
+   "charge! (the ballad of bold nobi)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093529088816205880",
   "tag": "$MfT"
  }
 ]
