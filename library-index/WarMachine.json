@@ -103,14 +103,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Against Da FUD",
-  "triggers": [
-   "against da fud"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092426827142664649",
-  "tag": "$MfT"
- },
- {
   "name": "Da Grot Wot Whittles",
   "triggers": [
    "da grot wot whittles"
@@ -140,6 +132,14 @@
    "kneel to no one"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093549224990310457",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Against Da FUD",
+  "triggers": [
+   "against da fud"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093750537028022736",
   "tag": "$MfT"
  }
 ]

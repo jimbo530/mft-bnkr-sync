@@ -6317,14 +6317,6 @@
  },
  {
   "band": "WarMachine",
-  "name": "Against Da FUD",
-  "triggers": [
-   "against da fud"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092426827142664649"
- },
- {
-  "band": "WarMachine",
   "name": "Da Grot Wot Whittles",
   "triggers": [
    "da grot wot whittles"
@@ -7346,5 +7338,13 @@
    "lucky to be here"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093745584532258870"
+ },
+ {
+  "band": "WarMachine",
+  "name": "Against Da FUD",
+  "triggers": [
+   "against da fud"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093750537028022736"
  }
 ]
