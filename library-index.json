@@ -177,22 +177,6 @@
  },
  {
   "band": "ALAN",
-  "name": "For the Tree and the Bees",
-  "triggers": [
-   "for the tree and the bees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079163806941384968",
-  "topics": [
-   "trees",
-   "bees",
-   "mission",
-   "charity",
-   "planting"
-  ],
-  "promote": true
- },
- {
-  "band": "ALAN",
   "name": "Here Building Anyway",
   "triggers": [
    "here building anyway"
@@ -7366,5 +7350,13 @@
    "pennies into thunder"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093564313625665771"
+ },
+ {
+  "band": "ALAN",
+  "name": "For the Tree and the Bees",
+  "triggers": [
+   "for the tree and the bees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093569394160922634"
  }
 ]

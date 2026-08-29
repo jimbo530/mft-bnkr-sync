@@ -45,22 +45,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "For the Tree and the Bees",
-  "triggers": [
-   "for the tree and the bees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079163806941384968",
-  "topics": [
-   "trees",
-   "bees",
-   "mission",
-   "charity",
-   "planting"
-  ],
-  "promote": true,
-  "tag": "$MfT"
- },
- {
   "name": "Here Building Anyway",
   "triggers": [
    "here building anyway"
@@ -149,6 +133,14 @@
    "the lord who rules nobody"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089764327540597200",
+  "tag": "$MfT"
+ },
+ {
+  "name": "For the Tree and the Bees",
+  "triggers": [
+   "for the tree and the bees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093569394160922634",
   "tag": "$MfT"
  }
 ]

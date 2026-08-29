@@ -126,7 +126,6 @@ Newest songs are always in their band file the moment the poster adds them — n
 ## ⭐ PROMOTED songs (surface these first on topic/menu requests)
 ALAN | The First Coin Through the Flow | https://x.com/MemeForTrees/status/2079019369607176532
 ALAN | Banker Season | https://x.com/MemeForTrees/status/2079160599540347253
-ALAN | For the Tree and the Bees | https://x.com/MemeForTrees/status/2079163806941384968
 JS | The Architecture of Trust | https://x.com/MemeForTrees/status/2079177348314779845
 NN | Grow Something Great | https://x.com/MemeForTrees/status/2079186043362812034
 ALAN | Burgers Feed the People | https://x.com/MemeForTrees/status/2079214617838952609

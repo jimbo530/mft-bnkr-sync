@@ -269,28 +269,6 @@
     "promote": true
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2079163806941384968",
-    "translation": "For the Tree and the Bees",
-    "name": "For the Tree and the Bees",
-    "triggers": [
-      "for the tree and the bees"
-    ],
-    "band": "ALAN",
-    "tag": "$MfT",
-    "ca": "0x5e35b494f4941cf6f47d407d93fee66a366daba3",
-    "xPost": "https://x.com/MemeForTrees/status/2079163806941384968",
-    "caption": "\"For the Tree and the Bees\" — Alan-a-Dale\n\n$MfT",
-    "boothCommission": "sg_mrt4givcc5",
-    "topics": [
-      "trees",
-      "bees",
-      "mission",
-      "charity",
-      "planting"
-    ],
-    "promote": true
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2079174697539739889",
     "translation": "Here Building Anyway",
     "name": "Here Building Anyway",
@@ -11898,5 +11876,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2093564313625665771",
     "caption": "\"Pennies Into Thunder\" — Miss Strut\nlisten, like, and share to fund forests\n\nThank you @artizen for including our Crypto Endowment Network in Season 7 💚 the bands sing their gratitude better than we can say it 🌱"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2093569394160922634",
+    "translation": "For the Tree and the Bees",
+    "name": "For the Tree and the Bees",
+    "triggers": [
+      "for the tree and the bees"
+    ],
+    "band": "ALAN",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2093569394160922634",
+    "caption": "\"For the Tree and the Bees\" — ALAN\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
