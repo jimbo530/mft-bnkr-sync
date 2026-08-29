@@ -538,14 +538,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "LIQUIDITY FOR THE PLANET",
-  "triggers": [
-   "liquidity for the planet"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091490688990953891",
-  "tag": "$MfT"
- },
- {
   "name": "Share The Memes, Fund The Trees",
   "triggers": [
    "share the memes, fund the trees"
@@ -839,6 +831,14 @@
    "elves of ballinmoore — “doubt can’t touc"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093448598859960669",
+  "tag": "$MfT"
+ },
+ {
+  "name": "LIQUIDITY FOR THE PLANET",
+  "triggers": [
+   "liquidity for the planet"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093488840702833090",
   "tag": "$MfT"
  }
 ]

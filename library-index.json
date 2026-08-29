@@ -5802,14 +5802,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091475556944535623"
  },
  {
-  "band": "EBM",
-  "name": "LIQUIDITY FOR THE PLANET",
-  "triggers": [
-   "liquidity for the planet"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091490688990953891"
- },
- {
   "band": "Myco",
   "name": "Diamond Roots",
   "triggers": [
@@ -7368,5 +7360,13 @@
    "water is life"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093483828153094204"
+ },
+ {
+  "band": "EBM",
+  "name": "LIQUIDITY FOR THE PLANET",
+  "triggers": [
+   "liquidity for the planet"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093488840702833090"
  }
 ]
