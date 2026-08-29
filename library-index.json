@@ -1605,14 +1605,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086945762886172774"
  },
  {
-  "band": "MR",
-  "name": "The Oldest Provider",
-  "triggers": [
-   "the oldest provider"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086950796717912567"
- },
- {
   "band": "JS",
   "name": "Build the Grove",
   "triggers": [
@@ -7346,5 +7338,13 @@
    "the warden's round"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093785822864535942"
+ },
+ {
+  "band": "MR",
+  "name": "The Oldest Provider",
+  "triggers": [
+   "the oldest provider"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093790844134330431"
  }
 ]
