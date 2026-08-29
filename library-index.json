@@ -3277,14 +3277,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086749487528071171"
  },
  {
-  "band": "Bongo",
-  "name": "They Paid Me Nothing (And I Love It)",
-  "triggers": [
-   "they paid me nothing (and i love it)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086069947495555214"
- },
- {
   "band": "DD",
   "name": "Two Roads, One Traveler",
   "triggers": [
@@ -7346,5 +7338,13 @@
    "against da fud"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093750537028022736"
+ },
+ {
+  "band": "Bongo",
+  "name": "They Paid Me Nothing (And I Love It)",
+  "triggers": [
+   "they paid me nothing (and i love it)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093765681577611552"
  }
 ]
