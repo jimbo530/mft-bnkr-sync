@@ -199,14 +199,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "One Mycelium",
-  "triggers": [
-   "one mycelium"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088244306876260604",
-  "tag": "$MfT"
- },
- {
   "name": "Hold the Deck",
   "triggers": [
    "hold the deck"
@@ -757,6 +749,14 @@
    "- two rivers, many tools"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093967005787291879",
+  "tag": "$MfT"
+ },
+ {
+  "name": "One Mycelium",
+  "triggers": [
+   "one mycelium"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094148202454712390",
   "tag": "$MfT"
  }
 ]

@@ -1902,14 +1902,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088229199018426731"
  },
  {
-  "band": "Myco",
-  "name": "One Mycelium",
-  "triggers": [
-   "one mycelium"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088244306876260604"
- },
- {
   "band": "DD",
   "name": "Gather the Good Road",
   "triggers": [
@@ -7339,5 +7331,13 @@
    "room for everyone"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094133110505976198"
+ },
+ {
+  "band": "Myco",
+  "name": "One Mycelium",
+  "triggers": [
+   "one mycelium"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094148202454712390"
  }
 ]
