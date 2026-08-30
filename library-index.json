@@ -6180,14 +6180,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2092507392659329468"
  },
  {
-  "band": "Bongo",
-  "name": "For MemeForTrees — 0fcd",
-  "triggers": [
-   "for memefortrees — 0fcd"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092522497132417305"
- },
- {
   "band": "Myco",
   "name": "Tunes For Trees",
   "triggers": [
@@ -7354,5 +7346,13 @@
    "no gate"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094007259030270313"
+ },
+ {
+  "band": "Bongo",
+  "name": "For MemeForTrees — 0fcd",
+  "triggers": [
+   "for memefortrees — 0fcd"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094012255721406889"
  }
 ]
