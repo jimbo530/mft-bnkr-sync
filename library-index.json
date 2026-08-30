@@ -257,21 +257,6 @@
   ]
  },
  {
-  "band": "Bongo",
-  "name": "The Bridge That Folds",
-  "triggers": [
-   "the bridge that folds"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079211282461315360",
-  "topics": [
-   "engineering",
-   "bridge",
-   "snow",
-   "switzerland",
-   "how things work"
-  ]
- },
- {
   "band": null,
   "name": "the meme that feeds people",
   "triggers": [
@@ -7354,5 +7339,13 @@
    "the plantin' crew"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094027408647094588"
+ },
+ {
+  "band": "Bongo",
+  "name": "The Bridge That Folds",
+  "triggers": [
+   "the bridge that folds"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094032432286650787"
  }
 ]
