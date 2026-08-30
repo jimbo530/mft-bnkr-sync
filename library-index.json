@@ -1438,14 +1438,6 @@
  },
  {
   "band": "Rish",
-  "name": "The Road to Robinhood",
-  "triggers": [
-   "the road to robinhood"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086669001569005629"
- },
- {
-  "band": "Rish",
   "name": "The First Loaf",
   "triggers": [
    "the first loaf"
@@ -7346,5 +7338,13 @@
    "the chest that never empties"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093886435912786204"
+ },
+ {
+  "band": "Rish",
+  "name": "The Road to Robinhood",
+  "triggers": [
+   "the road to robinhood"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093891504875946271"
  }
 ]

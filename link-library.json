@@ -2286,19 +2286,6 @@
     "caption": "\"Every Road a Grove\" — Digerie Dude\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2086669001569005629",
-    "translation": "The Road to Robinhood",
-    "name": "The Road to Robinhood",
-    "triggers": [
-      "the road to robinhood"
-    ],
-    "band": "Rish",
-    "tag": "$MfT",
-    "ca": "0x31c600871603bab5d855463E03c6d0a9eB661D26",
-    "xPost": "https://x.com/MemeForTrees/status/2086669001569005629",
-    "caption": "\"The Road To Robinhood\" — Rish\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2086694161546109383",
     "translation": "The First Loaf",
     "name": "The First Loaf",
@@ -11875,5 +11862,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2093886435912786204",
     "caption": "\"The Chest That Never Empties\" — Bongo\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2093891504875946271",
+    "translation": "The Road to Robinhood",
+    "name": "The Road to Robinhood",
+    "triggers": [
+      "the road to robinhood"
+    ],
+    "band": "Rish",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2093891504875946271",
+    "caption": "\"The Road To Robinhood\" — Rish\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

@@ -112,14 +112,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Road to Robinhood",
-  "triggers": [
-   "the road to robinhood"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086669001569005629",
-  "tag": "$MfT"
- },
- {
   "name": "The First Loaf",
   "triggers": [
    "the first loaf"
@@ -334,6 +326,14 @@
    "the warden's round"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093785822864535942",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Road to Robinhood",
+  "triggers": [
+   "the road to robinhood"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093891504875946271",
   "tag": "$MfT"
  }
 ]
