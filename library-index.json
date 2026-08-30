@@ -1718,14 +1718,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2087700698121060529"
  },
  {
-  "band": "DGT",
-  "name": "Requests at Last Call",
-  "triggers": [
-   "requests at last call"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087705786482876822"
- },
- {
   "band": "Rish",
   "name": "Will Ye March",
   "triggers": [
@@ -7347,5 +7339,13 @@
    "the bridge that folds"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094032432286650787"
+ },
+ {
+  "band": "DGT",
+  "name": "Requests at Last Call",
+  "triggers": [
+   "requests at last call"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094047514940854367"
  }
 ]
