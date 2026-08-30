@@ -1037,14 +1037,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2085858566804541628"
  },
  {
-  "band": "CB",
-  "name": "Green It Up",
-  "triggers": [
-   "green it up"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085878703897080140"
- },
- {
   "band": "NN",
   "name": "Keep Your Purse",
   "triggers": [
@@ -7354,5 +7346,13 @@
    "a billion in a day"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093972039040188658"
+ },
+ {
+  "band": "CB",
+  "name": "Green It Up",
+  "triggers": [
+   "green it up"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093987105017897057"
  }
 ]
