@@ -814,14 +814,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2085556580674675164"
  },
  {
-  "band": "CB",
-  "name": "Room For Everyone",
-  "triggers": [
-   "room for everyone"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085561623947665615"
- },
- {
   "band": "Rish",
   "name": "Plant It Back",
   "triggers": [
@@ -7339,5 +7331,13 @@
    "the street takes requests"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094128014569148701"
+ },
+ {
+  "band": "CB",
+  "name": "Room For Everyone",
+  "triggers": [
+   "room for everyone"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094133110505976198"
  }
 ]
