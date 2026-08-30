@@ -750,5 +750,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093690188425822511",
   "tag": "$MfT"
+ },
+ {
+  "name": "- Two Rivers, Many Tools",
+  "triggers": [
+   "- two rivers, many tools"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093967005787291879",
+  "tag": "$MfT"
  }
 ]
