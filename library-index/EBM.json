@@ -169,14 +169,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Street Takes Requests",
-  "triggers": [
-   "the street takes requests"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087680544318374005",
-  "tag": "$MfT"
- },
- {
   "name": "The First Joke",
   "triggers": [
    "the first joke"
@@ -839,6 +831,14 @@
    "the club with no gate"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094112916387619238",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Street Takes Requests",
+  "triggers": [
+   "the street takes requests"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094128014569148701",
   "tag": "$MfT"
  }
 ]

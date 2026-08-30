@@ -1654,14 +1654,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2087640355285909890"
  },
  {
-  "band": "EBM",
-  "name": "The Street Takes Requests",
-  "triggers": [
-   "the street takes requests"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087680544318374005"
- },
- {
   "band": "Myco",
   "name": "The Rite of the Floor",
   "triggers": [
@@ -7339,5 +7331,13 @@
    "the club with no gate"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094112916387619238"
+ },
+ {
+  "band": "EBM",
+  "name": "The Street Takes Requests",
+  "triggers": [
+   "the street takes requests"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094128014569148701"
  }
 ]
