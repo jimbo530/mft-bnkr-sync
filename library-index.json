@@ -1286,14 +1286,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086507947761271242"
  },
  {
-  "band": "Rish",
-  "name": "The Hearth That Tends Itself",
-  "triggers": [
-   "the hearth that tends itself"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086528036933959932"
- },
- {
   "band": "MR",
   "name": "Give It Back Green",
   "triggers": [
@@ -7339,5 +7331,13 @@
    "one mycelium"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094148202454712390"
+ },
+ {
+  "band": "Rish",
+  "name": "The Hearth That Tends Itself",
+  "triggers": [
+   "the hearth that tends itself"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094153188349812878"
  }
 ]

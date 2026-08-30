@@ -94,14 +94,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Hearth That Tends Itself",
-  "triggers": [
-   "the hearth that tends itself"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086528036933959932",
-  "tag": "$MfT"
- },
- {
   "name": "The First Loaf",
   "triggers": [
    "the first loaf"
@@ -332,6 +324,14 @@
    "the good way (we grow every day)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094052563893031093",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Hearth That Tends Itself",
+  "triggers": [
+   "the hearth that tends itself"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094153188349812878",
   "tag": "$MfT"
  }
 ]
