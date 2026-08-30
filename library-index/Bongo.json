@@ -118,14 +118,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Quick as a Drumbeat",
-  "triggers": [
-   "quick as a drumbeat"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086734386062385284",
-  "tag": "$MfT"
- },
- {
   "name": "The Agent Does It",
   "triggers": [
    "the agent does it"
@@ -340,6 +332,14 @@
    "they paid me nothing (and i love it)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093765681577611552",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Quick as a Drumbeat",
+  "triggers": [
+   "quick as a drumbeat"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093866297603817518",
   "tag": "$MfT"
  }
 ]

@@ -1469,14 +1469,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086729394228277570"
  },
  {
-  "band": "Bongo",
-  "name": "Quick as a Drumbeat",
-  "triggers": [
-   "quick as a drumbeat"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086734386062385284"
- },
- {
   "band": "NN",
   "name": "One Clean Drop",
   "triggers": [
@@ -7346,5 +7338,13 @@
    "play games, save the world"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093851236172755021"
+ },
+ {
+  "band": "Bongo",
+  "name": "Quick as a Drumbeat",
+  "triggers": [
+   "quick as a drumbeat"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093866297603817518"
  }
 ]
