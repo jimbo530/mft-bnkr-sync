@@ -65,14 +65,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "No Gate",
-  "triggers": [
-   "no gate"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085657231639400451",
-  "tag": "$MfT"
- },
- {
   "name": "Revolution of Money",
   "triggers": [
    "revolution of money"
@@ -839,6 +831,14 @@
    "the prompt heard"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093805938532614152",
+  "tag": "$MfT"
+ },
+ {
+  "name": "No Gate",
+  "triggers": [
+   "no gate"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094007259030270313",
   "tag": "$MfT"
  }
 ]

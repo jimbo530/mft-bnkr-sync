@@ -917,14 +917,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2085642097760096491"
  },
  {
-  "band": "EBM",
-  "name": "No Gate",
-  "triggers": [
-   "no gate"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085657231639400451"
- },
- {
   "band": "NN",
   "name": "It Does It for You",
   "triggers": [
@@ -7354,5 +7346,13 @@
    "plant it brave"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093992161167413500"
+ },
+ {
+  "band": "EBM",
+  "name": "No Gate",
+  "triggers": [
+   "no gate"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094007259030270313"
  }
 ]
