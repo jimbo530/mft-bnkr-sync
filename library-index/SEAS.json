@@ -17,14 +17,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Feed Your Crew",
-  "triggers": [
-   "feed your crew"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089336512622084417",
-  "tag": "$MfT"
- },
- {
   "name": "Launch Her Off The Slip",
   "triggers": [
    "launch her off the slip"
@@ -78,6 +70,14 @@
    "a captain, not a king"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089854922191757416",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Feed Your Crew",
+  "triggers": [
+   "feed your crew"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093871372879466617",
   "tag": "$MfT"
  }
 ]

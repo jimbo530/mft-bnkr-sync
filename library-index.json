@@ -3909,14 +3909,6 @@
  },
  {
   "band": "SEAS",
-  "name": "Feed Your Crew",
-  "triggers": [
-   "feed your crew"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089336512622084417"
- },
- {
-  "band": "SEAS",
   "name": "Launch Her Off The Slip",
   "triggers": [
    "launch her off the slip"
@@ -7346,5 +7338,13 @@
    "quick as a drumbeat"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093866297603817518"
+ },
+ {
+  "band": "SEAS",
+  "name": "Feed Your Crew",
+  "triggers": [
+   "feed your crew"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093871372879466617"
  }
 ]
