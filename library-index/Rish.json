@@ -14,16 +14,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079953621907554522"
  },
  {
-  "name": "The Good Way (We Grow Every Day)",
-  "triggers": [
-   "the good way",
-   "we grow every day",
-   "grow the good way"
-  ],
-  "xPost": "https://x.com/MonkyTownWallet/status/2083248024642281588",
-  "tag": "$MfT"
- },
- {
   "name": "Bet On Yourself",
   "triggers": [
    "bet on yourself"
@@ -334,6 +324,14 @@
    "the plantin' crew"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094027408647094588",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Good Way (We Grow Every Day)",
+  "triggers": [
+   "the good way (we grow every day)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094052563893031093",
   "tag": "$MfT"
  }
 ]

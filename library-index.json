@@ -660,16 +660,6 @@
   "xPost": "https://x.com/MonkyTownWallet/status/2083245731142324463"
  },
  {
-  "band": "Rish",
-  "name": "The Good Way (We Grow Every Day)",
-  "triggers": [
-   "the good way",
-   "we grow every day",
-   "grow the good way"
-  ],
-  "xPost": "https://x.com/MonkyTownWallet/status/2083248024642281588"
- },
- {
   "band": "Myco",
   "name": "The Sky People Came To Party",
   "triggers": [
@@ -7347,5 +7337,13 @@
    "requests at last call"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094047514940854367"
+ },
+ {
+  "band": "Rish",
+  "name": "The Good Way (We Grow Every Day)",
+  "triggers": [
+   "the good way (we grow every day)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094052563893031093"
  }
 ]

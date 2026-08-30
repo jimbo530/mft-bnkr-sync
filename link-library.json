@@ -1033,21 +1033,6 @@
     "caption": "\"Sky People (Good Vibes Make Forests)\" — Myco\n\n$MfT 0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3"
   },
   {
-    "file": "https://x.com/MonkyTownWallet/status/2083248024642281588",
-    "translation": "The Good Way (We Grow Every Day)",
-    "name": "The Good Way (We Grow Every Day)",
-    "triggers": [
-      "the good way",
-      "we grow every day",
-      "grow the good way"
-    ],
-    "band": "Rish",
-    "tag": "$MfT",
-    "ca": "0x31c600871603bab5d855463E03c6d0a9eB661D26",
-    "xPost": "https://x.com/MonkyTownWallet/status/2083248024642281588",
-    "caption": "\"The Good Way (We Grow Every Day)\" — Rish\n\n$MfT 0x31c600871603bab5d855463E03c6d0a9eB661D26"
-  },
-  {
     "file": "https://x.com/MonkyTownWallet/status/2083249368035987512",
     "translation": "The Sky People Came To Party",
     "name": "The Sky People Came To Party",
@@ -11880,5 +11865,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2094047514940854367",
     "caption": "\"Requests at Last Call\" — Damned Good Time Orchestra\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2094052563893031093",
+    "translation": "The Good Way (We Grow Every Day)",
+    "name": "The Good Way (We Grow Every Day)",
+    "triggers": [
+      "the good way (we grow every day)"
+    ],
+    "band": "Rish",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2094052563893031093",
+    "caption": "\"The Good Way (We Grow Every Day)\" — Rish\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
