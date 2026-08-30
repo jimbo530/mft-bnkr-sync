@@ -221,20 +221,6 @@
   "promote": true
  },
  {
-  "band": "DD",
-  "name": "The Roads Never End",
-  "triggers": [
-   "the roads never end"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079191043380052040",
-  "topics": [
-   "walking",
-   "roads",
-   "journey",
-   "together"
-  ]
- },
- {
   "band": "EBM",
   "name": "Street Mint",
   "triggers": [
@@ -7345,5 +7331,13 @@
    "quick word, quick run"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094067624355197267"
+ },
+ {
+  "band": "DD",
+  "name": "The Roads Never End",
+  "triggers": [
+   "the roads never end"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094072696560619768"
  }
 ]
