@@ -3389,14 +3389,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088123547302371469"
  },
  {
-  "band": "RickyBobbie",
-  "name": "Banana A Day",
-  "triggers": [
-   "banana a day"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086251136474898811"
- },
- {
   "band": "HammerTone",
   "name": "A Name That Holds",
   "triggers": [
@@ -7346,5 +7338,13 @@
    "build the grove"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093911593457209837"
+ },
+ {
+  "band": "RickyBobbie",
+  "name": "Banana A Day",
+  "triggers": [
+   "banana a day"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093926736866017781"
  }
 ]

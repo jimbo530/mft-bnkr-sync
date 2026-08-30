@@ -63,14 +63,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Banana A Day",
-  "triggers": [
-   "banana a day"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086251136474898811",
-  "tag": "$MfT"
- },
- {
   "name": "Wind In Your Sails",
   "triggers": [
    "wind in your sails"
@@ -101,6 +93,14 @@
    "sail with the crownless"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089784498124734503",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Banana A Day",
+  "triggers": [
+   "banana a day"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093926736866017781",
   "tag": "$MfT"
  }
 ]

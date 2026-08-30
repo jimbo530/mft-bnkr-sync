@@ -5458,19 +5458,6 @@
     "caption": "🎵 \"Open The Gates (Monkey Town Tonight)\" — Damned Good Time Orchestra\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2086251136474898811",
-    "translation": "Banana A Day",
-    "name": "Banana A Day",
-    "triggers": [
-      "banana a day"
-    ],
-    "band": "RickyBobbie",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2086251136474898811",
-    "caption": "🎵 \"Banana A Day\" — Ricky Bobbie\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2086115247291564063",
     "translation": "A Name That Holds",
     "name": "A Name That Holds",
@@ -11875,5 +11862,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2093911593457209837",
     "caption": "\"Build the Grove\" — Jony Sings\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2093926736866017781",
+    "translation": "Banana A Day",
+    "name": "Banana A Day",
+    "triggers": [
+      "banana a day"
+    ],
+    "band": "RickyBobbie",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2093926736866017781",
+    "caption": "\"Banana A Day\" — Ricky Bobbie\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
