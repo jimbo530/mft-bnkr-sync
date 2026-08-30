@@ -172,14 +172,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Dinner Drum",
-  "triggers": [
-   "the dinner drum"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087922147939258532",
-  "tag": "$MfT"
- },
- {
   "name": "Water to the Village",
   "triggers": [
    "water to the village"
@@ -466,6 +458,14 @@
    "kind folk (in the strangest places)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093503976431841313",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Dinner Drum",
+  "triggers": [
+   "the dinner drum"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093906609802031431",
   "tag": "$MfT"
  }
 ]

@@ -1893,14 +1893,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2087907080871035174"
  },
  {
-  "band": "DD",
-  "name": "The Dinner Drum",
-  "triggers": [
-   "the dinner drum"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087922147939258532"
- },
- {
   "band": "Bongo",
   "name": "They Paid Me To Feed You",
   "triggers": [
@@ -7346,5 +7338,13 @@
    "the road to robinhood"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093891504875946271"
+ },
+ {
+  "band": "DD",
+  "name": "The Dinner Drum",
+  "triggers": [
+   "the dinner drum"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093906609802031431"
  }
 ]
