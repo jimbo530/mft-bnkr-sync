@@ -54,14 +54,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Hundred Hands",
-  "triggers": [
-   "hundred hands"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086105177388433720",
-  "tag": "$MfT"
- },
- {
   "name": "Welcome to the Race (HOLM's Reel)",
   "triggers": [
    "welcome to the race (holm's reel)"
@@ -332,6 +324,14 @@
    "the love you give"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094193446462374315",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Hundred Hands",
+  "triggers": [
+   "hundred hands"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094208591632736518",
   "tag": "$MfT"
  }
 ]

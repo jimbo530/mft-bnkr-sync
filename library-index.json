@@ -1070,14 +1070,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086090123641258117"
  },
  {
-  "band": "Rish",
-  "name": "Hundred Hands",
-  "triggers": [
-   "hundred hands"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086105177388433720"
- },
- {
   "band": "EBM",
   "name": "New Banner in the Races",
   "triggers": [
@@ -7339,5 +7331,13 @@
    "the love you give"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094193446462374315"
+ },
+ {
+  "band": "Rish",
+  "name": "Hundred Hands",
+  "triggers": [
+   "hundred hands"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094208591632736518"
  }
 ]

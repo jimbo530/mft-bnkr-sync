@@ -1696,19 +1696,6 @@
     "caption": "\"The Heaviest End\" — Moon Rasta\npress play, plant trees\n\ngrab a monkey, name him forever, feed him a banana a day — a Monkey Town wallet takes just an email:\nhttps://tasern.quest/monkeytown\n\n$MfT 0x8d669b539C7801c1271BC484Bdd8a6084b7788e7"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2086105177388433720",
-    "translation": "Hundred Hands",
-    "name": "Hundred Hands",
-    "triggers": [
-      "hundred hands"
-    ],
-    "band": "Rish",
-    "tag": "$MfT",
-    "ca": "0x31c600871603bab5d855463E03c6d0a9eB661D26",
-    "xPost": "https://x.com/MemeForTrees/status/2086105177388433720",
-    "caption": "\"Hundred Hands\" — Rish\nturn it up for the trees\n\nsoon you’ll launch your own critter with a tweet 🌱 Monkey Town is warming up\n\n$MfT 0x31c600871603bab5d855463E03c6d0a9eB661D26"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2086110205322973554",
     "translation": "New Banner in the Races",
     "name": "New Banner in the Races",
@@ -11870,5 +11857,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2094193446462374315",
     "caption": "\"The Love You Give\" — Rish\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2094208591632736518",
+    "translation": "Hundred Hands",
+    "name": "Hundred Hands",
+    "triggers": [
+      "hundred hands"
+    ],
+    "band": "Rish",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2094208591632736518",
+    "caption": "\"Hundred Hands\" — Rish\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
