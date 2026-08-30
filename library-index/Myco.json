@@ -143,14 +143,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "What Survives the Dark",
-  "triggers": [
-   "what survives the dark"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087046432976969795",
-  "tag": "$MfT"
- },
- {
   "name": "Roots That Hold",
   "triggers": [
    "roots that hold"
@@ -757,6 +749,14 @@
    "one mycelium"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094148202454712390",
+  "tag": "$MfT"
+ },
+ {
+  "name": "What Survives the Dark",
+  "triggers": [
+   "what survives the dark"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094173392618266891",
   "tag": "$MfT"
  }
 ]

@@ -1519,14 +1519,6 @@
  },
  {
   "band": "Myco",
-  "name": "What Survives the Dark",
-  "triggers": [
-   "what survives the dark"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087046432976969795"
- },
- {
-  "band": "Myco",
   "name": "Roots That Hold",
   "triggers": [
    "roots that hold"
@@ -7339,5 +7331,13 @@
    "it rides for you"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094168286187438528"
+ },
+ {
+  "band": "Myco",
+  "name": "What Survives the Dark",
+  "triggers": [
+   "what survives the dark"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094173392618266891"
  }
 ]
