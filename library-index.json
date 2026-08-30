@@ -2038,14 +2038,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088546321321873718"
  },
  {
-  "band": "EBM",
-  "name": "Mutiny",
-  "triggers": [
-   "mutiny"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088566372670275829"
- },
- {
   "band": "DGT",
   "name": "We Built the Furnace Ourselves",
   "triggers": [
@@ -7339,5 +7331,13 @@
    "what survives the dark"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094173392618266891"
+ },
+ {
+  "band": "EBM",
+  "name": "Mutiny",
+  "triggers": [
+   "mutiny"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094188454171050102"
  }
 ]

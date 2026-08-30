@@ -225,14 +225,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Mutiny",
-  "triggers": [
-   "mutiny"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088566372670275829",
-  "tag": "$MfT"
- },
- {
   "name": "Plain Language Door",
   "triggers": [
    "plain language door"
@@ -839,6 +831,14 @@
    "the street takes requests"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094128014569148701",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Mutiny",
+  "triggers": [
+   "mutiny"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094188454171050102",
   "tag": "$MfT"
  }
 ]
