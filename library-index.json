@@ -3188,14 +3188,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2087982586408640908"
  },
  {
-  "band": "RickyBobbie",
-  "name": "Quick Word, Quick Run",
-  "triggers": [
-   "quick word, quick run"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085838383868170333"
- },
- {
   "band": "WarMachine",
   "name": "Muster",
   "triggers": [
@@ -7345,5 +7337,13 @@
    "the good way (we grow every day)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094052563893031093"
+ },
+ {
+  "band": "RickyBobbie",
+  "name": "Quick Word, Quick Run",
+  "triggers": [
+   "quick word, quick run"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094067624355197267"
  }
 ]

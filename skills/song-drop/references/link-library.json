@@ -5136,19 +5136,6 @@
     "caption": "🎵 \"Two Chains, One Forward\" — CB\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2085838383868170333",
-    "translation": "Quick Word, Quick Run",
-    "name": "Quick Word, Quick Run",
-    "triggers": [
-      "quick word, quick run"
-    ],
-    "band": "RickyBobbie",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2085838383868170333",
-    "caption": "🎵 \"Quick Word, Quick Run\" — Ricky Bobbie\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2087539625325707760",
     "translation": "Muster",
     "name": "Muster",
@@ -11878,5 +11865,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2094052563893031093",
     "caption": "\"The Good Way (We Grow Every Day)\" — Rish\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2094067624355197267",
+    "translation": "Quick Word, Quick Run",
+    "name": "Quick Word, Quick Run",
+    "triggers": [
+      "quick word, quick run"
+    ],
+    "band": "RickyBobbie",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2094067624355197267",
+    "caption": "\"Quick Word, Quick Run\" — Ricky Bobbie\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
