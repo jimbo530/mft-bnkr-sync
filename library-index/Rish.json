@@ -208,14 +208,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Plantin' Crew",
-  "triggers": [
-   "the plantin' crew"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086135429607080426",
-  "tag": "$MfT"
- },
- {
   "name": "Come All Ye (Sing a Forest)",
   "triggers": [
    "come all ye (sing a forest)"
@@ -334,6 +326,14 @@
    "plant it brave"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093992161167413500",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Plantin' Crew",
+  "triggers": [
+   "the plantin' crew"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094027408647094588",
   "tag": "$MfT"
  }
 ]

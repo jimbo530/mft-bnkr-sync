@@ -3037,14 +3037,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088621771456926166"
  },
  {
-  "band": "Rish",
-  "name": "The Plantin' Crew",
-  "triggers": [
-   "the plantin' crew"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086135429607080426"
- },
- {
   "band": "MV",
   "name": "No Turning back.",
   "triggers": [
@@ -7354,5 +7346,13 @@
    "for memefortrees — 0fcd"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094012255721406889"
+ },
+ {
+  "band": "Rish",
+  "name": "The Plantin' Crew",
+  "triggers": [
+   "the plantin' crew"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094027408647094588"
  }
 ]

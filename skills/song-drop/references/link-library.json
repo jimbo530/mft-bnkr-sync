@@ -4886,19 +4886,6 @@
     "caption": "🎵 \"Trees! (For No Reason At All)\" — Bongo\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2086135429607080426",
-    "translation": "The Plantin' Crew",
-    "name": "The Plantin' Crew",
-    "triggers": [
-      "the plantin' crew"
-    ],
-    "band": "Rish",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2086135429607080426",
-    "caption": "🎵 \"The Plantin' Crew\" — Rish\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2084731133174984800",
     "translation": "No Turning back.",
     "name": "No Turning back.",
@@ -11888,5 +11875,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2094012255721406889",
     "caption": "\"For MemeForTrees — 0fcd\" — Bongo\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2094027408647094588",
+    "translation": "The Plantin' Crew",
+    "name": "The Plantin' Crew",
+    "triggers": [
+      "the plantin' crew"
+    ],
+    "band": "Rish",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2094027408647094588",
+    "caption": "\"The Plantin' Crew\" — Rish\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
