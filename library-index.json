@@ -3581,14 +3581,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088969108108767470"
  },
  {
-  "band": "Bongo",
-  "name": "The Chest That Never Empties",
-  "triggers": [
-   "the chest that never empties"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088974136378884524"
- },
- {
   "band": "WarMachine",
   "name": "An Army Behind You",
   "triggers": [
@@ -7346,5 +7338,13 @@
    "feed your crew"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093871372879466617"
+ },
+ {
+  "band": "Bongo",
+  "name": "The Chest That Never Empties",
+  "triggers": [
+   "the chest that never empties"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093886435912786204"
  }
 ]
