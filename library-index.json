@@ -1910,14 +1910,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088269428945305855"
  },
  {
-  "band": "Rish",
-  "name": "The Love You Give",
-  "triggers": [
-   "the love you give"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088284566817554531"
- },
- {
   "band": "CB",
   "name": "Bring the Water",
   "triggers": [
@@ -7339,5 +7331,13 @@
    "mutiny"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094188454171050102"
+ },
+ {
+  "band": "Rish",
+  "name": "The Love You Give",
+  "triggers": [
+   "the love you give"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094193446462374315"
  }
 ]
