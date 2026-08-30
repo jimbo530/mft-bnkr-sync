@@ -2046,14 +2046,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088425487076823452"
  },
  {
-  "band": "Bongo",
-  "name": "The Hungry Drum",
-  "triggers": [
-   "the hungry drum"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088430487320592530"
- },
- {
   "band": "CB",
   "name": "Green Candle Anthem",
   "triggers": [
@@ -7339,5 +7331,13 @@
    "name your nobody"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094087752958546411"
+ },
+ {
+  "band": "Bongo",
+  "name": "The Hungry Drum",
+  "triggers": [
+   "the hungry drum"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094092796428738833"
  }
 ]
