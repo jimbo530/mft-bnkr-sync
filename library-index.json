@@ -2565,14 +2565,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2082637320113520983"
  },
  {
-  "band": "MR",
-  "name": "The Long Rains",
-  "triggers": [
-   "the long rains"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088636901527789698"
- },
- {
   "band": "CB",
   "name": "Future is Here",
   "triggers": [
@@ -7346,5 +7338,13 @@
    "more life than half the charts"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093946943755911340"
+ },
+ {
+  "band": "MR",
+  "name": "The Long Rains",
+  "triggers": [
+   "the long rains"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093951865071300998"
  }
 ]

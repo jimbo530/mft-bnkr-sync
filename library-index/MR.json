@@ -182,14 +182,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Long Rains",
-  "triggers": [
-   "the long rains"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088636901527789698",
-  "tag": "$MfT"
- },
- {
   "name": "Everybody s Welcome",
   "triggers": [
    "everybody s welcome"
@@ -388,6 +380,14 @@
    "the oldest provider"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093790844134330431",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Long Rains",
+  "triggers": [
+   "the long rains"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093951865071300998",
   "tag": "$MfT"
  }
 ]
