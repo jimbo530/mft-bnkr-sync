@@ -1565,14 +1565,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086945762886172774"
  },
  {
-  "band": "JS",
-  "name": "Build the Grove",
-  "triggers": [
-   "build the grove"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086965864545316946"
- },
- {
   "band": "CB",
   "name": "STILL HERE FORWARD",
   "triggers": [
@@ -7346,5 +7338,13 @@
    "the dinner drum"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093906609802031431"
+ },
+ {
+  "band": "JS",
+  "name": "Build the Grove",
+  "triggers": [
+   "build the grove"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093911593457209837"
  }
 ]

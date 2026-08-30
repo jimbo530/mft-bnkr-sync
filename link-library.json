@@ -2494,19 +2494,6 @@
     "caption": "\"- The Canopy Drinks the Bass\" — Myco\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2086965864545316946",
-    "translation": "Build the Grove",
-    "name": "Build the Grove",
-    "triggers": [
-      "build the grove"
-    ],
-    "band": "JS",
-    "tag": "$MfT",
-    "ca": "0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65",
-    "xPost": "https://x.com/MemeForTrees/status/2086965864545316946",
-    "caption": "\"Build the Grove\" — Jony Sings\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2086970919851860164",
     "translation": "STILL HERE FORWARD",
     "name": "STILL HERE FORWARD",
@@ -11875,5 +11862,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2093906609802031431",
     "caption": "\"The Dinner Drum\" — Digerie Dude\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2093911593457209837",
+    "translation": "Build the Grove",
+    "name": "Build the Grove",
+    "triggers": [
+      "build the grove"
+    ],
+    "band": "JS",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2093911593457209837",
+    "caption": "\"Build the Grove\" — Jony Sings\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
