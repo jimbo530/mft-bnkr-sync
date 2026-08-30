@@ -479,20 +479,6 @@
     "boothCommission": "sg_mrtd14ys4a"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2079239633427218888",
-    "translation": "The Famitree",
-    "name": "The Famitree",
-    "triggers": [
-      "the famitree"
-    ],
-    "band": "Bongo",
-    "tag": "",
-    "ca": "",
-    "xPost": "https://x.com/MemeForTrees/status/2079239633427218888",
-    "caption": "\"The Famitree\" — Bongo",
-    "boothCommission": "sg_mrtfc0qv3q"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2079243269200834706",
     "translation": "It Does Not Go Unseen",
     "name": "It Does Not Go Unseen",
@@ -11871,5 +11857,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2094092796428738833",
     "caption": "\"The Hungry Drum\" — Bongo\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2094107894006370641",
+    "translation": "The Famitree",
+    "name": "The Famitree",
+    "triggers": [
+      "the famitree"
+    ],
+    "band": "Bongo",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2094107894006370641",
+    "caption": "\"The Famitree\" — Bongo\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

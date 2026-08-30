@@ -321,14 +321,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079224666451808414"
  },
  {
-  "band": "Bongo",
-  "name": "The Famitree",
-  "triggers": [
-   "the famitree"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079239633427218888"
- },
- {
   "band": "Myco",
   "name": "It Does Not Go Unseen",
   "triggers": [
@@ -7339,5 +7331,13 @@
    "the hungry drum"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094092796428738833"
+ },
+ {
+  "band": "Bongo",
+  "name": "The Famitree",
+  "triggers": [
+   "the famitree"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094107894006370641"
  }
 ]

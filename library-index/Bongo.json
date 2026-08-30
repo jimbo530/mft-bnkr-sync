@@ -31,13 +31,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079224666451808414"
  },
  {
-  "name": "The Famitree",
-  "triggers": [
-   "the famitree"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079239633427218888"
- },
- {
   "name": "No Crying in the Casino",
   "triggers": [
    "no crying in the casino"
@@ -334,6 +327,14 @@
    "the hungry drum"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094092796428738833",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Famitree",
+  "triggers": [
+   "the famitree"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094107894006370641",
   "tag": "$MfT"
  }
 ]
