@@ -2181,14 +2181,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088546321321873718"
  },
  {
-  "band": "DGT",
-  "name": "More Life Than Half the Charts",
-  "triggers": [
-   "more life than half the charts"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088551382391423476"
- },
- {
   "band": "EBM",
   "name": "Mutiny",
   "triggers": [
@@ -7346,5 +7338,13 @@
    "the price of a song darling"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093931772077658173"
+ },
+ {
+  "band": "DGT",
+  "name": "More Life Than Half the Charts",
+  "triggers": [
+   "more life than half the charts"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093946943755911340"
  }
 ]
