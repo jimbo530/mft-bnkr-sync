@@ -145,14 +145,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Club With No Gate",
-  "triggers": [
-   "the club with no gate"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086628687948943398",
-  "tag": "$MfT"
- },
- {
   "name": "Ten Years Deep",
   "triggers": [
    "ten years deep"
@@ -839,6 +831,14 @@
    "no gate"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094007259030270313",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Club With No Gate",
+  "triggers": [
+   "the club with no gate"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094112916387619238",
   "tag": "$MfT"
  }
 ]

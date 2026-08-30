@@ -1358,14 +1358,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086613597921157226"
  },
  {
-  "band": "EBM",
-  "name": "The Club With No Gate",
-  "triggers": [
-   "the club with no gate"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086628687948943398"
- },
- {
   "band": "DD",
   "name": "Every Road a Grove",
   "triggers": [
@@ -7339,5 +7331,13 @@
    "the famitree"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094107894006370641"
+ },
+ {
+  "band": "EBM",
+  "name": "The Club With No Gate",
+  "triggers": [
+   "the club with no gate"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094112916387619238"
  }
 ]
