@@ -4117,14 +4117,6 @@
  },
  {
   "band": "Strut",
-  "name": "Play Games, Save The World",
-  "triggers": [
-   "play games, save the world"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089603264874520690"
- },
- {
-  "band": "Strut",
   "name": "Put On A Show",
   "triggers": [
    "put on a show"
@@ -7346,5 +7338,13 @@
    "still on the stoop"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093846165519253542"
+ },
+ {
+  "band": "Strut",
+  "name": "Play Games, Save The World",
+  "triggers": [
+   "play games, save the world"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093851236172755021"
  }
 ]

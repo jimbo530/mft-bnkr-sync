@@ -57,14 +57,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Play Games, Save The World",
-  "triggers": [
-   "play games, save the world"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089603264874520690",
-  "tag": "$MfT"
- },
- {
   "name": "Put On A Show",
   "triggers": [
    "put on a show"
@@ -110,6 +102,14 @@
    "pennies into thunder"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093564313625665771",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Play Games, Save The World",
+  "triggers": [
+   "play games, save the world"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093851236172755021",
   "tag": "$MfT"
  }
 ]
