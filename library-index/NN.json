@@ -144,14 +144,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Price of a Song Darling",
-  "triggers": [
-   "the price of a song darling"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087740945903026285",
-  "tag": "$MfT"
- },
- {
   "name": "Toast to Tomorrow",
   "triggers": [
    "toast to tomorrow"
@@ -366,6 +358,14 @@
    "i saw you first"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093826076216631350",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Price of a Song Darling",
+  "triggers": [
+   "the price of a song darling"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093931772077658173",
   "tag": "$MfT"
  }
 ]

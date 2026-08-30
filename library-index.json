@@ -1765,14 +1765,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2087725853933256898"
  },
  {
-  "band": "NN",
-  "name": "The Price of a Song Darling",
-  "triggers": [
-   "the price of a song darling"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087740945903026285"
- },
- {
   "band": "HammerTone",
   "name": "The Door in the Halls",
   "triggers": [
@@ -7346,5 +7338,13 @@
    "banana a day"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093926736866017781"
+ },
+ {
+  "band": "NN",
+  "name": "The Price of a Song Darling",
+  "triggers": [
+   "the price of a song darling"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093931772077658173"
  }
 ]
