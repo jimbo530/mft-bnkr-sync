@@ -184,14 +184,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Plant It Brave",
-  "triggers": [
-   "plant it brave"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088657006965952942",
-  "tag": "$MfT"
- },
- {
   "name": "Bread and Water",
   "triggers": [
    "bread and water"
@@ -334,6 +326,14 @@
    "the road to robinhood"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093891504875946271",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Plant It Brave",
+  "triggers": [
+   "plant it brave"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093992161167413500",
   "tag": "$MfT"
  }
 ]

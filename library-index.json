@@ -2229,14 +2229,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088641886810485014"
  },
  {
-  "band": "Rish",
-  "name": "Plant It Brave",
-  "triggers": [
-   "plant it brave"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088657006965952942"
- },
- {
   "band": "DD",
   "name": "The Long Walk's Done",
   "triggers": [
@@ -7354,5 +7346,13 @@
    "green it up"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093987105017897057"
+ },
+ {
+  "band": "Rish",
+  "name": "Plant It Brave",
+  "triggers": [
+   "plant it brave"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093992161167413500"
  }
 ]
