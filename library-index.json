@@ -2245,14 +2245,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088657006965952942"
  },
  {
-  "band": "CB",
-  "name": "A Billion in a Day",
-  "triggers": [
-   "a billion in a day"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088662073395831126"
- },
- {
   "band": "DD",
   "name": "The Long Walk's Done",
   "triggers": [
@@ -7354,5 +7346,13 @@
    "- two rivers, many tools"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093967005787291879"
+ },
+ {
+  "band": "CB",
+  "name": "A Billion in a Day",
+  "triggers": [
+   "a billion in a day"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2093972039040188658"
  }
 ]

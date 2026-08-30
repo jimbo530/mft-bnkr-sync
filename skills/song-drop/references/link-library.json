@@ -3599,19 +3599,6 @@
     "caption": "\"Plant It Brave\" — Rish\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2088662073395831126",
-    "translation": "A Billion in a Day",
-    "name": "A Billion in a Day",
-    "triggers": [
-      "a billion in a day"
-    ],
-    "band": "CB",
-    "tag": "$MfT",
-    "ca": null,
-    "xPost": "https://x.com/MemeForTrees/status/2088662073395831126",
-    "caption": "\"A Billion in a Day\" — CB\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2088677162903580805",
     "translation": "The Long Walk's Done",
     "name": "The Long Walk's Done",
@@ -11888,5 +11875,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2093967005787291879",
     "caption": "\"- Two Rivers, Many Tools\" — Myco\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2093972039040188658",
+    "translation": "A Billion in a Day",
+    "name": "A Billion in a Day",
+    "triggers": [
+      "a billion in a day"
+    ],
+    "band": "CB",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2093972039040188658",
+    "caption": "\"A Billion in a Day\" — CB\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
