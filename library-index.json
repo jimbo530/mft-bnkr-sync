@@ -2006,14 +2006,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088450619426152685"
  },
  {
-  "band": "Jasmine",
-  "name": "It Rides for You",
-  "triggers": [
-   "it rides for you"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088470750982217902"
- },
- {
   "band": "EBM",
   "name": "The Good Word",
   "triggers": [
@@ -7339,5 +7331,13 @@
    "the hearth that tends itself"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094153188349812878"
+ },
+ {
+  "band": "Jasmine",
+  "name": "It Rides for You",
+  "triggers": [
+   "it rides for you"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094168286187438528"
  }
 ]

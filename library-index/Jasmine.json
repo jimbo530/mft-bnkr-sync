@@ -40,14 +40,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "It Rides for You",
-  "triggers": [
-   "it rides for you"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088470750982217902",
-  "tag": "$MfT"
- },
- {
   "name": "A Hundred Skills, No Keeper",
   "triggers": [
    "a hundred skills, no keeper"
@@ -110,6 +102,14 @@
    "the neighborly lord"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089834748675768620",
+  "tag": "$MfT"
+ },
+ {
+  "name": "It Rides for You",
+  "triggers": [
+   "it rides for you"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094168286187438528",
   "tag": "$MfT"
  }
 ]
