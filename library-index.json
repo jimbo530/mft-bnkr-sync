@@ -2006,14 +2006,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088329825601589371"
  },
  {
-  "band": "JS",
-  "name": "Name Your Nobody",
-  "triggers": [
-   "name your nobody"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088344953470525457"
- },
- {
   "band": "EBM",
   "name": "Feed The People",
   "triggers": [
@@ -7339,5 +7331,13 @@
    "the roads never end"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094072696560619768"
+ },
+ {
+  "band": "JS",
+  "name": "Name Your Nobody",
+  "triggers": [
+   "name your nobody"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094087752958546411"
  }
 ]
