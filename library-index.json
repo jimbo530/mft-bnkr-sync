@@ -3571,14 +3571,6 @@
  },
  {
   "band": "Strut",
-  "name": "I Don't Strut (I Arrive)",
-  "triggers": [
-   "i don't strut (i arrive)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089557962561839181"
- },
- {
-  "band": "Strut",
   "name": "One Dollar (What The Hell)",
   "triggers": [
    "one dollar (what the hell)"
@@ -7336,5 +7328,13 @@
    "something real to hold"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094535720232767691"
+ },
+ {
+  "band": "Strut",
+  "name": "I Don't Strut (I Arrive)",
+  "triggers": [
+   "i don't strut (i arrive)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094540863653232914"
  }
 ]
