@@ -521,20 +521,6 @@
     "boothCommission": "sg_mrth6n3cav"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2079254681331667213",
-    "translation": "Proof From the Sky",
-    "name": "Proof From the Sky",
-    "triggers": [
-      "proof from the sky"
-    ],
-    "band": "HammerTone",
-    "tag": "",
-    "ca": "",
-    "xPost": "https://x.com/MemeForTrees/status/2079254681331667213",
-    "caption": "\"Proof From the Sky\" — HammerTone",
-    "boothCommission": "sg_mrthbilcnb"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2079303270204383633",
     "translation": "The Grind Holds",
     "name": "The Grind Holds",
@@ -11866,5 +11852,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2094435044601262502",
     "caption": "\"Love Builds the Forest\" — CB\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2094450137661599907",
+    "translation": "Proof From the Sky",
+    "name": "Proof From the Sky",
+    "triggers": [
+      "proof from the sky"
+    ],
+    "band": "HammerTone",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2094450137661599907",
+    "caption": "\"Proof From the Sky\" — Hammer Tone\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

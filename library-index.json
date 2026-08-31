@@ -346,14 +346,6 @@
  },
  {
   "band": "HammerTone",
-  "name": "Proof From the Sky",
-  "triggers": [
-   "proof from the sky"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079254681331667213"
- },
- {
-  "band": "HammerTone",
   "name": "The Grind Holds",
   "triggers": [
    "the grind holds"
@@ -7336,5 +7328,13 @@
    "love builds the forest"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094435044601262502"
+ },
+ {
+  "band": "HammerTone",
+  "name": "Proof From the Sky",
+  "triggers": [
+   "proof from the sky"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094450137661599907"
  }
 ]

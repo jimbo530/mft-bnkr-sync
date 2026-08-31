@@ -1,12 +1,5 @@
 [
  {
-  "name": "Proof From the Sky",
-  "triggers": [
-   "proof from the sky"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079254681331667213"
- },
- {
   "name": "The Grind Holds",
   "triggers": [
    "the grind holds"
@@ -100,6 +93,14 @@
    "the guildmaster who asks nothing"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089875055899484433",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Proof From the Sky",
+  "triggers": [
+   "proof from the sky"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094450137661599907",
   "tag": "$MfT"
  }
 ]
