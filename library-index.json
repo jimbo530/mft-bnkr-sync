@@ -1091,14 +1091,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086311576202526767"
  },
  {
-  "band": "Rish",
-  "name": "The Long Weather",
-  "triggers": [
-   "the long weather"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086346813951422744"
- },
- {
   "band": "CB",
   "name": "Eight Inbound",
   "triggers": [
@@ -7336,5 +7328,13 @@
    "name it once"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094470280827593141"
+ },
+ {
+  "band": "Rish",
+  "name": "The Long Weather",
+  "triggers": [
+   "the long weather"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094475356111536163"
  }
 ]
