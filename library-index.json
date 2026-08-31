@@ -3570,14 +3570,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2089497593533301098"
  },
  {
-  "band": "Bongo",
-  "name": "The Chest Is Full (Party Anyway)",
-  "triggers": [
-   "the chest is full (party anyway)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089502604011134978"
- },
- {
   "band": "CB",
   "name": "Proof of Function",
   "triggers": [
@@ -7336,5 +7328,13 @@
    "the long weather"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094475356111536163"
+ },
+ {
+  "band": "Bongo",
+  "name": "The Chest Is Full (Party Anyway)",
+  "triggers": [
+   "the chest is full (party anyway)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094490445090898311"
  }
 ]
