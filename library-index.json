@@ -1931,14 +1931,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088677162903580805"
  },
  {
-  "band": "RickyBobbie",
-  "name": "Quick Off the Line",
-  "triggers": [
-   "quick off the line"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088682194159997167"
- },
- {
   "band": "NN",
   "name": "Cheap Tricks Expensive Forests",
   "triggers": [
@@ -7336,5 +7328,13 @@
    "name it once"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094561000166969769"
+ },
+ {
+  "band": "RickyBobbie",
+  "name": "Quick Off the Line",
+  "triggers": [
+   "quick off the line"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094566025387814963"
  }
 ]
