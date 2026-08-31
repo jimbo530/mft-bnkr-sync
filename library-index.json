@@ -2692,14 +2692,6 @@
  },
  {
   "band": "Bongo",
-  "name": "Money Grows Trees (They Said It Wrong)",
-  "triggers": [
-   "money grows trees (they said it wrong)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086633764310941936"
- },
- {
-  "band": "Bongo",
   "name": "One Reason (Trees)",
   "triggers": [
    "one reason (trees)"
@@ -7336,5 +7328,13 @@
    "set a table"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094389736668299532"
+ },
+ {
+  "band": "Bongo",
+  "name": "Money Grows Trees (They Said It Wrong)",
+  "triggers": [
+   "money grows trees (they said it wrong)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094394772651684230"
  }
 ]
