@@ -3739,14 +3739,6 @@
  },
  {
   "band": "Strut",
-  "name": "Learn Out Loud",
-  "triggers": [
-   "learn out loud"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089562958334459959"
- },
- {
-  "band": "Strut",
   "name": "One Dollar (What The Hell)",
   "triggers": [
    "one dollar (what the hell)"
@@ -7336,5 +7328,13 @@
    "little meme little tree"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094309212184625416"
+ },
+ {
+  "band": "Strut",
+  "name": "Learn Out Loud",
+  "triggers": [
+   "learn out loud"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094314276982813145"
  }
 ]
