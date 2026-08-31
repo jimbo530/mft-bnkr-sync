@@ -1451,14 +1451,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086930618764468453"
  },
  {
-  "band": "Myco",
-  "name": "The Canopy Drinks the Bass",
-  "triggers": [
-   "the canopy drinks the bass"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086945762886172774"
- },
- {
   "band": "CB",
   "name": "STILL HERE FORWARD",
   "triggers": [
@@ -7336,5 +7328,13 @@
    "society is a meme"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094233718386811012"
+ },
+ {
+  "band": "Myco",
+  "name": "The Canopy Drinks the Bass",
+  "triggers": [
+   "the canopy drinks the bass"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094248823187034295"
  }
 ]

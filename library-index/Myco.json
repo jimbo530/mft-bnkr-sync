@@ -127,14 +127,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Canopy Drinks the Bass",
-  "triggers": [
-   "the canopy drinks the bass"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086945762886172774",
-  "tag": "$MfT"
- },
- {
   "name": "Char in the Soil",
   "triggers": [
    "char in the soil"
@@ -757,6 +749,14 @@
    "what survives the dark"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094173392618266891",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Canopy Drinks the Bass",
+  "triggers": [
+   "the canopy drinks the bass"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094248823187034295",
   "tag": "$MfT"
  }
 ]
