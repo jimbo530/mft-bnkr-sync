@@ -174,14 +174,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Come All Ye (Sing a Forest)",
-  "triggers": [
-   "come all ye (sing a forest)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087006149925061114",
-  "tag": "$MfT"
- },
- {
   "name": "Just Say It, Wee One",
   "triggers": [
    "just say it, wee one"
@@ -332,6 +324,14 @@
    "hundred hands"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094208591632736518",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Come All Ye (Sing a Forest)",
+  "triggers": [
+   "come all ye (sing a forest)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094334372690206932",
   "tag": "$MfT"
  }
 ]
