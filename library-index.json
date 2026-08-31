@@ -987,14 +987,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2085999486963163371"
  },
  {
-  "band": "EBM",
-  "name": "The Realest Magic",
-  "triggers": [
-   "the realest magic"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086004467661496795"
- },
- {
   "band": "JS",
   "name": "Pull Up to the Space",
   "triggers": [
@@ -7336,5 +7328,13 @@
    "the guildmaster who asks nothing"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094510589326315530"
+ },
+ {
+  "band": "EBM",
+  "name": "The Realest Magic",
+  "triggers": [
+   "the realest magic"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094515561212363230"
  }
 ]

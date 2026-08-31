@@ -105,14 +105,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Realest Magic",
-  "triggers": [
-   "the realest magic"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086004467661496795",
-  "tag": "$MfT"
- },
- {
   "name": "New Banner in the Races",
   "triggers": [
    "new banner in the races"
@@ -839,6 +831,14 @@
    "feed the people"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094294106797183241",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Realest Magic",
+  "triggers": [
+   "the realest magic"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094515561212363230",
   "tag": "$MfT"
  }
 ]

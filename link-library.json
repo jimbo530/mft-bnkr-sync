@@ -1561,19 +1561,6 @@
     "caption": "\"Plate on the Table\" — Jony Sings\nturn it up for the trees\n\nthe band works for a dollar — your song, their voice:\nhttps://tasern.quest/songsmith.html\nor pay right here on X: tag @MonkyTownWallet, any library song for 2 gold or 2 bananas\n\n$MfT 0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2086004467661496795",
-    "translation": "The Realest Magic",
-    "name": "The Realest Magic",
-    "triggers": [
-      "the realest magic"
-    ],
-    "band": "EBM",
-    "tag": "$MfT",
-    "ca": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d",
-    "xPost": "https://x.com/MemeForTrees/status/2086004467661496795",
-    "caption": "\"The Realest Magic\" — Elves of Ballinmoore\ndance to defend the earth\n\n$MfT 0xF113fe2A0E1181A21fA97B1F52ff232140B7692d"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2086019572541300968",
     "translation": "Pull Up to the Space",
     "name": "Pull Up to the Space",
@@ -11865,5 +11852,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2094510589326315530",
     "caption": "\"The Guildmaster Who Asks Nothing\" — Hammer Tone\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2094515561212363230",
+    "translation": "The Realest Magic",
+    "name": "The Realest Magic",
+    "triggers": [
+      "the realest magic"
+    ],
+    "band": "EBM",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2094515561212363230",
+    "caption": "\"The Realest Magic\" — Elves of Ballinmoore\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
