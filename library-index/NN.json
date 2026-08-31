@@ -72,14 +72,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Little Meme Little Tree",
-  "triggers": [
-   "little meme little tree"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085717591247507575",
-  "tag": "$MfT"
- },
- {
   "name": "Keep Your Purse",
   "triggers": [
    "keep your purse"
@@ -366,6 +358,14 @@
    "open the jungle door"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094228728805048329",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Little Meme Little Tree",
+  "triggers": [
+   "little meme little tree"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094309212184625416",
   "tag": "$MfT"
  }
 ]

@@ -875,14 +875,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2085702546337767667"
  },
  {
-  "band": "NN",
-  "name": "Little Meme Little Tree",
-  "triggers": [
-   "little meme little tree"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085717591247507575"
- },
- {
   "band": "CB",
   "name": "Post Laugh Plant Repeat",
   "triggers": [
@@ -7336,5 +7328,13 @@
    "feed the people"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094294106797183241"
+ },
+ {
+  "band": "NN",
+  "name": "Little Meme Little Tree",
+  "triggers": [
+   "little meme little tree"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094309212184625416"
  }
 ]
