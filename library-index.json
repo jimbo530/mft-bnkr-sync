@@ -1035,14 +1035,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086110205322973554"
  },
  {
-  "band": "CB",
-  "name": "Love Builds the Forest",
-  "triggers": [
-   "love builds the forest"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086145495206859129"
- },
- {
   "band": "JS",
   "name": "Everybody Plants",
   "triggers": [
@@ -7336,5 +7328,13 @@
    "let's grow"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094430080294416749"
+ },
+ {
+  "band": "CB",
+  "name": "Love Builds the Forest",
+  "triggers": [
+   "love builds the forest"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094435044601262502"
  }
 ]

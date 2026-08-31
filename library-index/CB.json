@@ -40,14 +40,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Love Builds the Forest",
-  "triggers": [
-   "love builds the forest"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086145495206859129",
-  "tag": "$MfT"
- },
- {
   "name": "Eight Inbound",
   "triggers": [
    "eight inbound"
@@ -486,6 +478,14 @@
    "room for everyone"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094133110505976198",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Love Builds the Forest",
+  "triggers": [
+   "love builds the forest"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094435044601262502",
   "tag": "$MfT"
  }
 ]
