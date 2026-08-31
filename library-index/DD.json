@@ -23,14 +23,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Tool On My Back",
-  "triggers": [
-   "the tool on my back"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085637111084933534",
-  "tag": "$MfT"
- },
- {
   "name": "The Well at the Bend",
   "triggers": [
    "the well at the bend"
@@ -461,6 +453,14 @@
    "carried by your love"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094354556096299243",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Tool On My Back",
+  "triggers": [
+   "the tool on my back"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094414955915178025",
   "tag": "$MfT"
  }
 ]

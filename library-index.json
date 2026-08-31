@@ -819,14 +819,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2085616930602225721"
  },
  {
-  "band": "DD",
-  "name": "The Tool On My Back",
-  "triggers": [
-   "the tool on my back"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085637111084933534"
- },
- {
   "band": "JS",
   "name": "Frens in the Field",
   "triggers": [
@@ -7336,5 +7328,13 @@
    "earn it"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094409912155578449"
+ },
+ {
+  "band": "DD",
+  "name": "The Tool On My Back",
+  "triggers": [
+   "the tool on my back"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094414955915178025"
  }
 ]
