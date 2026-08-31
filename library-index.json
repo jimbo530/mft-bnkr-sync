@@ -787,14 +787,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2085536476754829515"
  },
  {
-  "band": "MR",
-  "name": "Set a Table",
-  "triggers": [
-   "set a table"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085541439371452678"
- },
- {
   "band": "Myco",
   "name": "Follow the Signal Up",
   "triggers": [
@@ -7336,5 +7328,13 @@
    "for no reason at all"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094374681591566749"
+ },
+ {
+  "band": "MR",
+  "name": "Set a Table",
+  "triggers": [
+   "set a table"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094389736668299532"
  }
 ]

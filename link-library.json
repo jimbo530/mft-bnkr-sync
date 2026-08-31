@@ -1238,19 +1238,6 @@
     "caption": "\"A Damned Good Time\" — Damned Good Time Orchestra\nevery listen grows the jungle\n\n$MfT 0x52414B7cD2FA723E1c8f9295EB29F16d15aA7BB9"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2085541439371452678",
-    "translation": "Set a Table",
-    "name": "Set a Table",
-    "triggers": [
-      "set a table"
-    ],
-    "band": "MR",
-    "tag": "$MfT",
-    "ca": "0x8d669b539C7801c1271BC484Bdd8a6084b7788e7",
-    "xPost": "https://x.com/MemeForTrees/status/2085541439371452678",
-    "caption": "\"Set a Table\" — Moon Rasta\npress play, plant trees\n\nthe band works for a dollar — your song, their voice:\nhttps://tasern.quest/songsmith.html\nor pay right here on X: tag @MonkyTownWallet, any library song for 2 gold or 2 bananas\n\n$MfT 0x8d669b539C7801c1271BC484Bdd8a6084b7788e7"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2085556580674675164",
     "translation": "Follow the Signal Up",
     "name": "Follow the Signal Up",
@@ -11867,5 +11854,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2094374681591566749",
     "caption": "\"Trees! (For No Reason At All)\" — Bongo\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2094389736668299532",
+    "translation": "Set a Table",
+    "name": "Set a Table",
+    "triggers": [
+      "set a table"
+    ],
+    "band": "MR",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2094389736668299532",
+    "caption": "\"Set a Table\" — Moon Rasta\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
