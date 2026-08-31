@@ -1427,14 +1427,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086925585226354787"
  },
  {
-  "band": "DD",
-  "name": "Carried by Your Love",
-  "triggers": [
-   "carried by your love"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086930618764468453"
- },
- {
   "band": "CB",
   "name": "STILL HERE FORWARD",
   "triggers": [
@@ -7336,5 +7328,13 @@
    "warband of one"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094349518527479912"
+ },
+ {
+  "band": "DD",
+  "name": "Carried by Your Love",
+  "triggers": [
+   "carried by your love"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094354556096299243"
  }
 ]
