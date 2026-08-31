@@ -543,14 +543,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "I Poured It Tea",
-  "triggers": [
-   "i poured it tea"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092507392659329468",
-  "tag": "$MfT"
- },
- {
   "name": "Jony Sings, Jaguars",
   "triggers": [
    "jony sings, jaguars"
@@ -740,6 +732,14 @@
    "for the short lived"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094268945964363960",
+  "tag": "$MfT"
+ },
+ {
+  "name": "I Poured It Tea",
+  "triggers": [
+   "i poured it tea"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094369601727402136",
   "tag": "$MfT"
  }
 ]

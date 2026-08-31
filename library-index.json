@@ -5882,14 +5882,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2092502330805555400"
  },
  {
-  "band": "JS",
-  "name": "I Poured It Tea",
-  "triggers": [
-   "i poured it tea"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092507392659329468"
- },
- {
   "band": "Myco",
   "name": "Tunes For Trees",
   "triggers": [
@@ -7336,5 +7328,13 @@
    "carried by your love"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094354556096299243"
+ },
+ {
+  "band": "JS",
+  "name": "I Poured It Tea",
+  "triggers": [
+   "i poured it tea"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094369601727402136"
  }
 ]
