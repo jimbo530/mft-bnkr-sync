@@ -3786,14 +3786,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2089854922191757416"
  },
  {
-  "band": "HammerTone",
-  "name": "The Guildmaster Who Asks Nothing",
-  "triggers": [
-   "the guildmaster who asks nothing"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089875055899484433"
- },
- {
   "band": "Strut",
   "name": "Bow To Nobody (Dance With Everybody)",
   "triggers": [
@@ -7336,5 +7328,13 @@
    "the bells of port royal"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094495429014458557"
+ },
+ {
+  "band": "HammerTone",
+  "name": "The Guildmaster Who Asks Nothing",
+  "triggers": [
+   "the guildmaster who asks nothing"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094510589326315530"
  }
 ]

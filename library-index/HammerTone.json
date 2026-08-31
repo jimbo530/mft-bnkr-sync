@@ -88,19 +88,19 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Guildmaster Who Asks Nothing",
-  "triggers": [
-   "the guildmaster who asks nothing"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089875055899484433",
-  "tag": "$MfT"
- },
- {
   "name": "Proof From the Sky",
   "triggers": [
    "proof from the sky"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094450137661599907",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Guildmaster Who Asks Nothing",
+  "triggers": [
+   "the guildmaster who asks nothing"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094510589326315530",
   "tag": "$MfT"
  }
 ]
