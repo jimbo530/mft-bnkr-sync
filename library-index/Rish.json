@@ -134,14 +134,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Let's Grow",
-  "triggers": [
-   "let's grow"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088128538771628058",
-  "tag": "$MfT"
- },
- {
   "name": "A Little Kid Said Thank You",
   "triggers": [
    "a little kid said thank you"
@@ -332,6 +324,14 @@
    "come all ye (sing a forest)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094334372690206932",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Let's Grow",
+  "triggers": [
+   "let's grow"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094430080294416749",
   "tag": "$MfT"
  }
 ]

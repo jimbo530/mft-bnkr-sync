@@ -1771,14 +1771,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088108402891231556"
  },
  {
-  "band": "Rish",
-  "name": "Let's Grow",
-  "triggers": [
-   "let's grow"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088128538771628058"
- },
- {
   "band": "Myco",
   "name": "Underground Choir",
   "triggers": [
@@ -7336,5 +7328,13 @@
    "the tool on my back"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094414955915178025"
+ },
+ {
+  "band": "Rish",
+  "name": "Let's Grow",
+  "triggers": [
+   "let's grow"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094430080294416749"
  }
 ]
