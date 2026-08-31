@@ -1091,14 +1091,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086351807110909988"
  },
  {
-  "band": "Bongo",
-  "name": "The Coconut Takes Requests",
-  "triggers": [
-   "the coconut takes requests"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086366936259076605"
- },
- {
   "band": "JS",
   "name": "Money That Feeds",
   "triggers": [
@@ -7336,5 +7328,13 @@
    "the realest magic"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094515561212363230"
+ },
+ {
+  "band": "Bongo",
+  "name": "The Coconut Takes Requests",
+  "triggers": [
+   "the coconut takes requests"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094530661839192445"
  }
 ]
