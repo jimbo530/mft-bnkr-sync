@@ -409,14 +409,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079388587297038636"
  },
  {
-  "band": "WarMachine",
-  "name": "Earn It",
-  "triggers": [
-   "earn it"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079395156420124760"
- },
- {
   "band": "NN",
   "name": "Bad for Business",
   "triggers": [
@@ -7336,5 +7328,13 @@
    "money grows trees (they said it wrong)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094394772651684230"
+ },
+ {
+  "band": "WarMachine",
+  "name": "Earn It",
+  "triggers": [
+   "earn it"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094409912155578449"
  }
 ]

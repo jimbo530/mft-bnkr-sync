@@ -7,13 +7,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079347245405679828"
  },
  {
-  "name": "Earn It",
-  "triggers": [
-   "earn it"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079395156420124760"
- },
- {
   "name": "It Moves When We Roar",
   "triggers": [
    "it moves when we roar"
@@ -140,6 +133,14 @@
    "warband of one"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094349518527479912",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Earn It",
+  "triggers": [
+   "earn it"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094409912155578449",
   "tag": "$MfT"
  }
 ]
