@@ -2923,14 +2923,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088737515628892336"
  },
  {
-  "band": "EBM",
-  "name": "Name It Once",
-  "triggers": [
-   "name it once"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086462595364520066"
- },
- {
   "band": "DD",
   "name": "The Town That Grew A Monkey",
   "triggers": [
@@ -7336,5 +7328,13 @@
    "press the button"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094545980788019315"
+ },
+ {
+  "band": "EBM",
+  "name": "Name It Once",
+  "triggers": [
+   "name it once"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094561000166969769"
  }
 ]

@@ -313,14 +313,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Name It Once",
-  "triggers": [
-   "name it once"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086462595364520066",
-  "tag": "$MfT"
- },
- {
   "name": "Vault That Don't Run Dry",
   "triggers": [
    "vault that don't run dry"
@@ -839,6 +831,14 @@
    "the realest magic"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094515561212363230",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Name It Once",
+  "triggers": [
+   "name it once"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094561000166969769",
   "tag": "$MfT"
  }
 ]
