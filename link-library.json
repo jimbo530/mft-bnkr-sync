@@ -5008,19 +5008,6 @@
     "caption": "🎵 \"A Name That Holds\" — Hammer Tone\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2087600041041043719",
-    "translation": "Warband Of One",
-    "name": "Warband Of One",
-    "triggers": [
-      "warband of one"
-    ],
-    "band": "WarMachine",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2087600041041043719",
-    "caption": "🎵 \"Warband Of One\" — War Machine\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2086231043326030056",
     "translation": "A Banana a Day (Monkey Town)",
     "name": "A Banana a Day (Monkey Town)",
@@ -11867,5 +11854,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2094334372690206932",
     "caption": "\"Come All Ye (Sing a Forest)\" — Rish\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2094349518527479912",
+    "translation": "Warband Of One",
+    "name": "Warband Of One",
+    "triggers": [
+      "warband of one"
+    ],
+    "band": "WarMachine",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2094349518527479912",
+    "caption": "\"Warband Of One\" — War Machine\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

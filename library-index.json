@@ -3107,14 +3107,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086115247291564063"
  },
  {
-  "band": "WarMachine",
-  "name": "Warband Of One",
-  "triggers": [
-   "warband of one"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087600041041043719"
- },
- {
   "band": "Jasmine",
   "name": "A Banana a Day (Monkey Town)",
   "triggers": [
@@ -7336,5 +7328,13 @@
    "come all ye (sing a forest)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094334372690206932"
+ },
+ {
+  "band": "WarMachine",
+  "name": "Warband Of One",
+  "triggers": [
+   "warband of one"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094349518527479912"
  }
 ]

@@ -54,14 +54,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Warband Of One",
-  "triggers": [
-   "warband of one"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087600041041043719",
-  "tag": "$MfT"
- },
- {
   "name": "March to the Time War",
   "triggers": [
    "march to the time war"
@@ -140,6 +132,14 @@
    "sing to the machine"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093831112866873453",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Warband Of One",
+  "triggers": [
+   "warband of one"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094349518527479912",
   "tag": "$MfT"
  }
 ]
