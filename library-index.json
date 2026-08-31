@@ -2291,14 +2291,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2066888556987941139"
  },
  {
-  "band": "JS",
-  "name": "For the Short Lived",
-  "triggers": [
-   "for the short lived"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086185712110469565"
- },
- {
   "band": "MV",
   "name": "RAISE THE CRACKS",
   "triggers": [
@@ -7336,5 +7328,13 @@
    "compost by the snow"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094253836479213836"
+ },
+ {
+  "band": "JS",
+  "name": "For the Short Lived",
+  "triggers": [
+   "for the short lived"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094268945964363960"
  }
 ]

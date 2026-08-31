@@ -150,14 +150,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "For the Short Lived",
-  "triggers": [
-   "for the short lived"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086185712110469565",
-  "tag": "$MfT"
- },
- {
   "name": "The Magic s in the Crowd",
   "triggers": [
    "the magic s in the crowd"
@@ -740,6 +732,14 @@
    "name your nobody"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094087752958546411",
+  "tag": "$MfT"
+ },
+ {
+  "name": "For the Short Lived",
+  "triggers": [
+   "for the short lived"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094268945964363960",
   "tag": "$MfT"
  }
 ]
