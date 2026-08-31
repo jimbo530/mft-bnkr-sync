@@ -200,14 +200,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Open The Jungle Door",
-  "triggers": [
-   "open the jungle door"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086890394583720155",
-  "tag": "$MfT"
- },
- {
   "name": "The House Keeps Its Word",
   "triggers": [
    "the house keeps its word"
@@ -366,6 +358,14 @@
    "the price of a song darling"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093931772077658173",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Open The Jungle Door",
+  "triggers": [
+   "open the jungle door"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094228728805048329",
   "tag": "$MfT"
  }
 ]
