@@ -33,14 +33,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Stores That Never Empty",
-  "triggers": [
-   "stores that never empty"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089376790103859610",
-  "tag": "$MfT"
- },
- {
   "name": "The Bells of Port Royal",
   "triggers": [
    "the bells of port royal"
@@ -78,6 +70,14 @@
    "set sail"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094274020359159834",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Stores That Never Empty",
+  "triggers": [
+   "stores that never empty"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094289125335601197",
   "tag": "$MfT"
  }
 ]
