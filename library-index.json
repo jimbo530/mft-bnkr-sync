@@ -1915,14 +1915,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088329825601589371"
  },
  {
-  "band": "EBM",
-  "name": "Feed The People",
-  "triggers": [
-   "feed the people"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088349943891186004"
- },
- {
   "band": "DGT",
   "name": "Pull Up a Chair",
   "triggers": [
@@ -7336,5 +7328,13 @@
    "stores that never empty"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094289125335601197"
+ },
+ {
+  "band": "EBM",
+  "name": "Feed The People",
+  "triggers": [
+   "feed the people"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094294106797183241"
  }
 ]
