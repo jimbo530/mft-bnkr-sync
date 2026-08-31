@@ -658,14 +658,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Compost By The Snow",
-  "triggers": [
-   "compost by the snow"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092386556929515927",
-  "tag": "$MfT"
- },
- {
   "name": "Like, Comment, Share",
   "triggers": [
    "like, comment, share"
@@ -839,6 +831,14 @@
    "mutiny"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094188454171050102",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Compost By The Snow",
+  "triggers": [
+   "compost by the snow"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094253836479213836",
   "tag": "$MfT"
  }
 ]
