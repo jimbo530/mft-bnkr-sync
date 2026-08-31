@@ -3003,14 +3003,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088224170937090423"
  },
  {
-  "band": "CB",
-  "name": "Name It Once",
-  "triggers": [
-   "name it once"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086326638380294593"
- },
- {
   "band": "DGT",
   "name": "Open The Gates (Monkey Town Tonight)",
   "triggers": [
@@ -7336,5 +7328,13 @@
    "dancefloor grows a forest"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094455172210577465"
+ },
+ {
+  "band": "CB",
+  "name": "Name It Once",
+  "triggers": [
+   "name it once"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094470280827593141"
  }
 ]
