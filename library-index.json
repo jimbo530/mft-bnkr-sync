@@ -3619,14 +3619,6 @@
  },
  {
   "band": "SEAS",
-  "name": "Set Sail",
-  "triggers": [
-   "set sail"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089361644631605748"
- },
- {
-  "band": "SEAS",
   "name": "Stores That Never Empty",
   "triggers": [
    "stores that never empty"
@@ -7336,5 +7328,13 @@
    "for the short lived"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094268945964363960"
+ },
+ {
+  "band": "SEAS",
+  "name": "Set Sail",
+  "triggers": [
+   "set sail"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094274020359159834"
  }
 ]

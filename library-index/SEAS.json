@@ -33,14 +33,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Set Sail",
-  "triggers": [
-   "set sail"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089361644631605748",
-  "tag": "$MfT"
- },
- {
   "name": "Stores That Never Empty",
   "triggers": [
    "stores that never empty"
@@ -78,6 +70,14 @@
    "feed your crew"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093871372879466617",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Set Sail",
+  "triggers": [
+   "set sail"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094274020359159834",
   "tag": "$MfT"
  }
 ]

@@ -5824,19 +5824,6 @@
     "caption": "\"Pull for the Horizon\" — Seize the Seas\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2089361644631605748",
-    "translation": "Set Sail",
-    "name": "Set Sail",
-    "triggers": [
-      "set sail"
-    ],
-    "band": "SEAS",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2089361644631605748",
-    "caption": "\"Set Sail\" — Seize the Seas\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2089376790103859610",
     "translation": "Stores That Never Empty",
     "name": "Stores That Never Empty",
@@ -11867,5 +11854,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2094268945964363960",
     "caption": "\"For the Short Lived\" — Jony Sings\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2094274020359159834",
+    "translation": "Set Sail",
+    "name": "Set Sail",
+    "triggers": [
+      "set sail"
+    ],
+    "band": "SEAS",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2094274020359159834",
+    "caption": "\"Set Sail\" — Seize the Seas\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
