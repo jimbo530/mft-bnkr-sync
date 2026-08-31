@@ -699,14 +699,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2085335080713461969"
  },
  {
-  "band": "CB",
-  "name": "Press the Button",
-  "triggers": [
-   "press the button"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085375363996139961"
- },
- {
   "band": "JS",
   "name": "Better Than We Found It",
   "triggers": [
@@ -7336,5 +7328,13 @@
    "i don't strut (i arrive)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094540863653232914"
+ },
+ {
+  "band": "CB",
+  "name": "Press the Button",
+  "triggers": [
+   "press the button"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094545980788019315"
  }
 ]
