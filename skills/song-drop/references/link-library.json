@@ -1849,19 +1849,6 @@
     "caption": "\"The Coconut Takes Requests!\" — Bongo\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2086371931217948958",
-    "translation": "The Road Made Family",
-    "name": "The Road Made Family",
-    "triggers": [
-      "the road made family"
-    ],
-    "band": "DD",
-    "tag": "$MfT",
-    "ca": "0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3",
-    "xPost": "https://x.com/MemeForTrees/status/2086371931217948958",
-    "caption": "\"The Road Made Family\" — Digerie Dude\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2086387024022351872",
     "translation": "Money That Feeds",
     "name": "Money That Feeds",
@@ -11867,5 +11854,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2094314276982813145",
     "caption": "\"Learn Out Loud\" — Miss Strut\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2094329345108017532",
+    "translation": "The Road Made Family",
+    "name": "The Road Made Family",
+    "triggers": [
+      "the road made family"
+    ],
+    "band": "DD",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2094329345108017532",
+    "caption": "\"The Road Made Family\" — Digerie Dude\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

@@ -55,14 +55,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Road Made Family",
-  "triggers": [
-   "the road made family"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086371931217948958",
-  "tag": "$MfT"
- },
- {
   "name": "Walk With the Eight",
   "triggers": [
    "walk with the eight"
@@ -461,6 +453,14 @@
    "the roads never end"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094072696560619768",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Road Made Family",
+  "triggers": [
+   "the road made family"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094329345108017532",
   "tag": "$MfT"
  }
 ]

@@ -1163,14 +1163,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086366936259076605"
  },
  {
-  "band": "DD",
-  "name": "The Road Made Family",
-  "triggers": [
-   "the road made family"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086371931217948958"
- },
- {
   "band": "JS",
   "name": "Money That Feeds",
   "triggers": [
@@ -7336,5 +7328,13 @@
    "learn out loud"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094314276982813145"
+ },
+ {
+  "band": "DD",
+  "name": "The Road Made Family",
+  "triggers": [
+   "the road made family"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094329345108017532"
  }
 ]
