@@ -853,22 +853,6 @@
     "caption": "\"Nobody Owns the Prompt\" — Jasmine\n\n$MfT"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2076260282322620717",
-    "translation": "Society is a Meme",
-    "name": "Society is a Meme",
-    "triggers": [
-      "society is a meme",
-      "society is a meme by gurdy",
-      "gurdy society",
-      "the society song"
-    ],
-    "band": "Gurdy",
-    "tag": "$MfT",
-    "ca": null,
-    "xPost": "https://x.com/MemeForTrees/status/2076260282322620717",
-    "caption": "\"Society is a Meme\" — Gurdy\n\n$MfT"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2067210695083528216",
     "translation": "Raise the Cracks",
     "name": "Raise the Cracks",
@@ -11870,5 +11854,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2094228728805048329",
     "caption": "\"Open The Jungle Door\" — Natilie Nightclub\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2094233718386811012",
+    "translation": "Society is a Meme",
+    "name": "Society is a Meme",
+    "triggers": [
+      "society is a meme"
+    ],
+    "band": "Gurdy",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2094233718386811012",
+    "caption": "\"Society is a Meme\" — Gurdy\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
