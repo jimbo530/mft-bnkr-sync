@@ -25,14 +25,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "One Dollar (What The Hell)",
-  "triggers": [
-   "one dollar (what the hell)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089578101038583911",
-  "tag": "$MfT"
- },
- {
   "name": "Plant It Loud",
   "triggers": [
    "plant it loud"
@@ -110,6 +102,14 @@
    "i don't strut (i arrive)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094540863653232914",
+  "tag": "$MfT"
+ },
+ {
+  "name": "One Dollar (What The Hell)",
+  "triggers": [
+   "one dollar (what the hell)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094762257334833247",
   "tag": "$MfT"
  }
 ]

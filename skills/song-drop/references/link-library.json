@@ -5679,19 +5679,6 @@
     "caption": "\"Feathers Down\" — Miss Strut\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2089578101038583911",
-    "translation": "One Dollar (What The Hell)",
-    "name": "One Dollar (What The Hell)",
-    "triggers": [
-      "one dollar (what the hell)"
-    ],
-    "band": "Strut",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2089578101038583911",
-    "caption": "\"One Dollar (What The Hell)\" — Miss Strut\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2089598227209158662",
     "translation": "Plant It Loud",
     "name": "Plant It Loud",
@@ -11865,5 +11852,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2094747119118610916",
     "caption": "\"Grove Report — Jun 18, 2026\" — Elves of Ballinmoore\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2094762257334833247",
+    "translation": "One Dollar (What The Hell)",
+    "name": "One Dollar (What The Hell)",
+    "triggers": [
+      "one dollar (what the hell)"
+    ],
+    "band": "Strut",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2094762257334833247",
+    "caption": "\"One Dollar (What The Hell)\" — Miss Strut\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

@@ -3531,14 +3531,6 @@
  },
  {
   "band": "Strut",
-  "name": "One Dollar (What The Hell)",
-  "triggers": [
-   "one dollar (what the hell)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089578101038583911"
- },
- {
-  "band": "Strut",
   "name": "Plant It Loud",
   "triggers": [
    "plant it loud"
@@ -7336,5 +7328,13 @@
    "grove report — jun 18, 2026"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094747119118610916"
+ },
+ {
+  "band": "Strut",
+  "name": "One Dollar (What The Hell)",
+  "triggers": [
+   "one dollar (what the hell)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094762257334833247"
  }
 ]
