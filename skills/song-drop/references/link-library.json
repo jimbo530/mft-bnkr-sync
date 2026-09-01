@@ -2744,19 +2744,6 @@
     "caption": "\"Everybody In the Circle\" — Moon Rasta\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2088269428945305855",
-    "translation": "Eight Banners Moving",
-    "name": "Eight Banners Moving",
-    "triggers": [
-      "eight banners moving"
-    ],
-    "band": "EBM",
-    "tag": "$MfT",
-    "ca": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d",
-    "xPost": "https://x.com/MemeForTrees/status/2088269428945305855",
-    "caption": "\"Eight Banners Moving\" — Elves of Ballinmoore\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2088289700238811177",
     "translation": "Bring the Water",
     "name": "Bring the Water",
@@ -11865,5 +11852,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2094862922778288172",
     "caption": "\"The Good Road\" — Rish\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2094867912548847733",
+    "translation": "Eight Banners Moving",
+    "name": "Eight Banners Moving",
+    "triggers": [
+      "eight banners moving"
+    ],
+    "band": "EBM",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2094867912548847733",
+    "caption": "\"Eight Banners Moving\" — Elves of Ballinmoore\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

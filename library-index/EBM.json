@@ -177,14 +177,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Eight Banners Moving",
-  "triggers": [
-   "eight banners moving"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088269428945305855",
-  "tag": "$MfT"
- },
- {
   "name": "The Good Word",
   "triggers": [
    "the good word"
@@ -839,6 +831,14 @@
    "the patient ones"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094767256194388463",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Eight Banners Moving",
+  "triggers": [
+   "eight banners moving"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094867912548847733",
   "tag": "$MfT"
  }
 ]

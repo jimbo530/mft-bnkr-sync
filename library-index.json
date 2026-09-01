@@ -1715,14 +1715,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088264400952037452"
  },
  {
-  "band": "EBM",
-  "name": "Eight Banners Moving",
-  "triggers": [
-   "eight banners moving"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088269428945305855"
- },
- {
   "band": "CB",
   "name": "Bring the Water",
   "triggers": [
@@ -7336,5 +7328,13 @@
    "the good road"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094862922778288172"
+ },
+ {
+  "band": "EBM",
+  "name": "Eight Banners Moving",
+  "triggers": [
+   "eight banners moving"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094867912548847733"
  }
 ]
