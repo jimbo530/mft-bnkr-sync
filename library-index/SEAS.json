@@ -33,14 +33,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Empire's Cut",
-  "triggers": [
-   "the empire's cut"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089396913862840527",
-  "tag": "$MfT"
- },
- {
   "name": "A Captain, Not A King",
   "triggers": [
    "a captain, not a king"
@@ -78,6 +70,14 @@
    "the bells of port royal"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094495429014458557",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Empire's Cut",
+  "triggers": [
+   "the empire's cut"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094923318470045822",
   "tag": "$MfT"
  }
 ]

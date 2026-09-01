@@ -3306,14 +3306,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2089356611366117392"
  },
  {
-  "band": "SEAS",
-  "name": "The Empire's Cut",
-  "triggers": [
-   "the empire's cut"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089396913862840527"
- },
- {
   "band": "Bongo",
   "name": "What Is Happening (Welcome, Friend)",
   "triggers": [
@@ -7336,5 +7328,13 @@
    "name it once"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094908213929861134"
+ },
+ {
+  "band": "SEAS",
+  "name": "The Empire's Cut",
+  "triggers": [
+   "the empire's cut"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094923318470045822"
  }
 ]
