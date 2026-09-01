@@ -16,14 +16,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Join the Raid",
-  "triggers": [
-   "join the raid"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085581698045985108",
-  "tag": "$MfT"
- },
- {
   "name": "Post Laugh Plant Repeat",
   "triggers": [
    "post laugh plant repeat"
@@ -486,6 +478,14 @@
    "press the button"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094545980788019315",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Join the Raid",
+  "triggers": [
+   "join the raid"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094782389692108801",
   "tag": "$MfT"
  }
 ]

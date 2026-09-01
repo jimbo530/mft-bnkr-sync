@@ -779,14 +779,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2085576713723871280"
  },
  {
-  "band": "CB",
-  "name": "Join the Raid",
-  "triggers": [
-   "join the raid"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085581698045985108"
- },
- {
   "band": "Bongo",
   "name": "Both Fires",
   "triggers": [
@@ -7336,5 +7328,13 @@
    "the patient ones"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094767256194388463"
+ },
+ {
+  "band": "CB",
+  "name": "Join the Raid",
+  "triggers": [
+   "join the raid"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094782389692108801"
  }
 ]
