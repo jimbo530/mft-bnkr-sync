@@ -883,14 +883,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2085798182257140160"
  },
  {
-  "band": "EBM",
-  "name": "The Patient Ones",
-  "triggers": [
-   "the patient ones"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085818305206472978"
- },
- {
   "band": "MR",
   "name": "Love Does the Growing",
   "triggers": [
@@ -7336,5 +7328,13 @@
    "one dollar (what the hell)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094762257334833247"
+ },
+ {
+  "band": "EBM",
+  "name": "The Patient Ones",
+  "triggers": [
+   "the patient ones"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094767256194388463"
  }
 ]

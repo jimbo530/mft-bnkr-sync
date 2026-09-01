@@ -1392,19 +1392,6 @@
     "caption": "\"Tally at the Muster\" — Jony Sings\nlisten, like, and share to fund forests\n\nthe band works for a dollar — your song, their voice:\nhttps://tasern.quest/songsmith.html\nor pay right here on X: tag @MonkyTownWallet, any library song for 2 gold or 2 bananas\n\n$MfT 0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2085818305206472978",
-    "translation": "The Patient Ones",
-    "name": "The Patient Ones",
-    "triggers": [
-      "the patient ones"
-    ],
-    "band": "EBM",
-    "tag": "$MfT",
-    "ca": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d",
-    "xPost": "https://x.com/MemeForTrees/status/2085818305206472978",
-    "caption": "\"The Patient Ones\" — Elves of Ballinmoore\nlisten, like, and share to fund forests\n\nMonkey Town runs an Impact Token Launcher — critters like Green Bull and Shrooms trade so real trees get planted 🌱\n\n$MfT 0xF113fe2A0E1181A21fA97B1F52ff232140B7692d"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2085843458757976396",
     "translation": "Love Does the Growing",
     "name": "Love Does the Growing",
@@ -11865,5 +11852,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2094762257334833247",
     "caption": "\"One Dollar (What The Hell)\" — Miss Strut\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2094767256194388463",
+    "translation": "The Patient Ones",
+    "name": "The Patient Ones",
+    "triggers": [
+      "the patient ones"
+    ],
+    "band": "EBM",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2094767256194388463",
+    "caption": "\"The Patient Ones\" — Elves of Ballinmoore\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

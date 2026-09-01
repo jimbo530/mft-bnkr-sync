@@ -89,14 +89,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Patient Ones",
-  "triggers": [
-   "the patient ones"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085818305206472978",
-  "tag": "$MfT"
- },
- {
   "name": "No Hands",
   "triggers": [
    "no hands"
@@ -839,6 +831,14 @@
    "grove report — jun 18, 2026"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094747119118610916",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Patient Ones",
+  "triggers": [
+   "the patient ones"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094767256194388463",
   "tag": "$MfT"
  }
 ]
