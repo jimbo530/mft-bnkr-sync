@@ -2891,14 +2891,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086648821832962156"
  },
  {
-  "band": "DD",
-  "name": "Hands That Lift The Maker",
-  "triggers": [
-   "hands that lift the maker"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088808034319413412"
- },
- {
   "band": "Myco",
   "name": "Spark In The Soil",
   "triggers": [
@@ -7336,5 +7328,13 @@
    "bring the water"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094883013196689483"
+ },
+ {
+  "band": "DD",
+  "name": "Hands That Lift The Maker",
+  "triggers": [
+   "hands that lift the maker"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094888089504080380"
  }
 ]

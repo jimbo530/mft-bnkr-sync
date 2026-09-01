@@ -207,14 +207,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Hands That Lift The Maker",
-  "triggers": [
-   "hands that lift the maker"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088808034319413412",
-  "tag": "$MfT"
- },
- {
   "name": "Roots That Hold Forever",
   "triggers": [
    "roots that hold forever"
@@ -461,6 +453,14 @@
    "dancefloor grows a forest"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094455172210577465",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Hands That Lift The Maker",
+  "triggers": [
+   "hands that lift the maker"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094888089504080380",
   "tag": "$MfT"
  }
 ]
