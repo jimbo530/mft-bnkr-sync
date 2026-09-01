@@ -1339,14 +1339,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086970919851860164"
  },
  {
-  "band": "Bongo",
-  "name": "The Agent Does It",
-  "triggers": [
-   "the agent does it"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086985980804804685"
- },
- {
   "band": "CB",
   "name": "Revolution Has Begun",
   "triggers": [
@@ -7336,5 +7328,13 @@
    "something real beneath our feet"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094787433522962735"
+ },
+ {
+  "band": "Bongo",
+  "name": "The Agent Does It",
+  "triggers": [
+   "the agent does it"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094802483059020054"
  }
 ]

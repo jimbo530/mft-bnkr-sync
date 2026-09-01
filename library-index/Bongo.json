@@ -89,14 +89,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Agent Does It",
-  "triggers": [
-   "the agent does it"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086985980804804685",
-  "tag": "$MfT"
- },
- {
   "name": "The Beat Votes Tomorrow",
   "triggers": [
    "the beat votes tomorrow"
@@ -335,6 +327,14 @@
    "the coconut takes requests"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094530661839192445",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Agent Does It",
+  "triggers": [
+   "the agent does it"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094802483059020054",
   "tag": "$MfT"
  }
 ]
