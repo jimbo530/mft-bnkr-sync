@@ -1867,14 +1867,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088697261026844820"
  },
  {
-  "band": "MR",
-  "name": "Feed the Village",
-  "triggers": [
-   "feed the village"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088722416574910557"
- },
- {
   "band": "Rish",
   "name": "Bread and Water",
   "triggers": [
@@ -7336,5 +7328,13 @@
    "hands that lift the maker"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094888089504080380"
+ },
+ {
+  "band": "MR",
+  "name": "Feed the Village",
+  "triggers": [
+   "feed the village"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094903140373934309"
  }
 ]

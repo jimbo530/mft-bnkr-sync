@@ -2991,19 +2991,6 @@
     "caption": "\"Cheap Tricks Expensive Forests\" — Natilie Nightclub\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2088722416574910557",
-    "translation": "Feed the Village",
-    "name": "Feed the Village",
-    "triggers": [
-      "feed the village"
-    ],
-    "band": "MR",
-    "tag": "$MfT",
-    "ca": "0x8d669b539C7801c1271BC484Bdd8a6084b7788e7",
-    "xPost": "https://x.com/MemeForTrees/status/2088722416574910557",
-    "caption": "\"Feed the Village\" — Moon Rasta\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2088757653321273832",
     "translation": "Bread and Water",
     "name": "Bread and Water",
@@ -11865,5 +11852,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2094888089504080380",
     "caption": "\"Hands That Lift The Maker\" — Digerie Dude\ndance to defend the earth\n\nThank you @artizen for including our Crypto Endowment Network in Season 7 💚 the bands sing their gratitude better than we can say it 🌱"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2094903140373934309",
+    "translation": "Feed the Village",
+    "name": "Feed the Village",
+    "triggers": [
+      "feed the village"
+    ],
+    "band": "MR",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2094903140373934309",
+    "caption": "\"Feed the Village\" — Moon Rasta\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
