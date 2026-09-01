@@ -257,14 +257,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Grove Report — Jun 18, 2026",
-  "triggers": [
-   "grove report — jun 18, 2026"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085355258100732399",
-  "tag": "$MfT"
- },
- {
   "name": "Grove Report — Jun 19, 2026",
   "triggers": [
    "grove report — jun 19, 2026"
@@ -839,6 +831,14 @@
    "they came to us"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094742125447426247",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Grove Report — Jun 18, 2026",
+  "triggers": [
+   "grove report — jun 18, 2026"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094747119118610916",
   "tag": "$MfT"
  }
 ]

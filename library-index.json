@@ -2195,14 +2195,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2082018252113244268"
  },
  {
-  "band": "EBM",
-  "name": "Grove Report — Jun 18, 2026",
-  "triggers": [
-   "grove report — jun 18, 2026"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085355258100732399"
- },
- {
   "band": "MV",
   "name": "Thousand Year Plan",
   "triggers": [
@@ -7336,5 +7328,13 @@
    "they came to us"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094742125447426247"
+ },
+ {
+  "band": "EBM",
+  "name": "Grove Report — Jun 18, 2026",
+  "triggers": [
+   "grove report — jun 18, 2026"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094747119118610916"
  }
 ]
