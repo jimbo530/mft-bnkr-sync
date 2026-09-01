@@ -2666,19 +2666,6 @@
     "caption": "\"Let the Agent Handle It\" — Natilie Nightclub\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2088143643584401432",
-    "translation": "Underground Choir",
-    "name": "Underground Choir",
-    "triggers": [
-      "underground choir"
-    ],
-    "band": "Myco",
-    "tag": "$MfT",
-    "ca": "0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3",
-    "xPost": "https://x.com/MemeForTrees/status/2088143643584401432",
-    "caption": "\"- Underground Choir\" — Myco\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2088204034142273828",
     "translation": "One River",
     "name": "One River",
@@ -11865,5 +11852,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2094923318470045822",
     "caption": "\"The Empire's Cut\" — Seize the Seas\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2094928352826007857",
+    "translation": "Underground Choir",
+    "name": "Underground Choir",
+    "triggers": [
+      "underground choir"
+    ],
+    "band": "Myco",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2094928352826007857",
+    "caption": "\"- Underground Choir\" — Myco\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

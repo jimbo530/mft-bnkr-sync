@@ -1667,14 +1667,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088108402891231556"
  },
  {
-  "band": "Myco",
-  "name": "Underground Choir",
-  "triggers": [
-   "underground choir"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088143643584401432"
- },
- {
   "band": "DD",
   "name": "One River",
   "triggers": [
@@ -7336,5 +7328,13 @@
    "the empire's cut"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094923318470045822"
+ },
+ {
+  "band": "Myco",
+  "name": "Underground Choir",
+  "triggers": [
+   "underground choir"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094928352826007857"
  }
 ]
