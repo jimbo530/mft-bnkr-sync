@@ -1716,14 +1716,6 @@
  },
  {
   "band": "CB",
-  "name": "Bring the Water",
-  "triggers": [
-   "bring the water"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088289700238811177"
- },
- {
-  "band": "CB",
   "name": "Plant It Loud",
   "triggers": [
    "plant it loud"
@@ -7336,5 +7328,13 @@
    "eight banners moving"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094867912548847733"
+ },
+ {
+  "band": "CB",
+  "name": "Bring the Water",
+  "triggers": [
+   "bring the water"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094883013196689483"
  }
 ]
