@@ -3123,14 +3123,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2089029514684674155"
  },
  {
-  "band": "MR",
-  "name": "Something Real Beneath Our Feet",
-  "triggers": [
-   "something real beneath our feet"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089034489867407739"
- },
- {
   "band": "JS",
   "name": "Penny By Penny",
   "triggers": [
@@ -7336,5 +7328,13 @@
    "join the raid"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094782389692108801"
+ },
+ {
+  "band": "MR",
+  "name": "Something Real Beneath Our Feet",
+  "triggers": [
+   "something real beneath our feet"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094787433522962735"
  }
 ]

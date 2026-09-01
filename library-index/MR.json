@@ -198,14 +198,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Something Real Beneath Our Feet",
-  "triggers": [
-   "something real beneath our feet"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089034489867407739",
-  "tag": "$MfT"
- },
- {
   "name": "Share It Like Bread",
   "triggers": [
    "share it like bread"
@@ -388,6 +380,14 @@
    "set a table"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094389736668299532",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Something Real Beneath Our Feet",
+  "triggers": [
+   "something real beneath our feet"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094787433522962735",
   "tag": "$MfT"
  }
 ]
