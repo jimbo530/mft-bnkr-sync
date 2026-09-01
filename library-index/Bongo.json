@@ -73,14 +73,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Both Fires",
-  "triggers": [
-   "both fires"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085601830973649192",
-  "tag": "$MfT"
- },
- {
   "name": "All You Have To Do Is Dance",
   "triggers": [
    "all you have to do is dance"
@@ -335,6 +327,14 @@
    "the agent does it"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094802483059020054",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Both Fires",
+  "triggers": [
+   "both fires"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094847777012355299",
   "tag": "$MfT"
  }
 ]

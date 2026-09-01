@@ -771,14 +771,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2085556580674675164"
  },
  {
-  "band": "Bongo",
-  "name": "Both Fires",
-  "triggers": [
-   "both fires"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085601830973649192"
- },
- {
   "band": "Rish",
   "name": "The Kindest Well",
   "triggers": [
@@ -7336,5 +7328,13 @@
    "darling that s the magic"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094842786608480309"
+ },
+ {
+  "band": "Bongo",
+  "name": "Both Fires",
+  "triggers": [
+   "both fires"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094847777012355299"
  }
 ]
