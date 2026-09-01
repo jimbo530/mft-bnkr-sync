@@ -16,14 +16,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Out of the Trees",
-  "triggers": [
-   "out of the trees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085979345235902622",
-  "tag": "$MfT"
- },
- {
   "name": "The Roots Hold It Up",
   "triggers": [
    "the roots hold it up"
@@ -86,6 +78,14 @@
    "out of the treeline"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093604619196797226",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Out of the Trees",
+  "triggers": [
+   "out of the trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094822609934221369",
   "tag": "$MfT"
  }
 ]

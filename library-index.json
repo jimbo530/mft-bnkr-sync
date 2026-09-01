@@ -939,14 +939,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2085964217077604738"
  },
  {
-  "band": "Biggins",
-  "name": "Out of the Trees",
-  "triggers": [
-   "out of the trees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085979345235902622"
- },
- {
   "band": "Myco",
   "name": "The Vault That Feeds",
   "triggers": [
@@ -7336,5 +7328,13 @@
    "the trust that can't be repossessed"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094807585333326124"
+ },
+ {
+  "band": "Biggins",
+  "name": "Out of the Trees",
+  "triggers": [
+   "out of the trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094822609934221369"
  }
 ]
