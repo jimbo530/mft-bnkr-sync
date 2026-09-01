@@ -2331,14 +2331,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088586540343542188"
  },
  {
-  "band": "NN",
-  "name": "Darling That s the Magic",
-  "triggers": [
-   "darling that s the magic"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086814926765498554"
- },
- {
   "band": "MV",
   "name": "Jony Sings - Living it Up",
   "triggers": [
@@ -7336,5 +7328,13 @@
    "plant it back"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094827693913043425"
+ },
+ {
+  "band": "NN",
+  "name": "Darling That s the Magic",
+  "triggers": [
+   "darling that s the magic"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094842786608480309"
  }
 ]

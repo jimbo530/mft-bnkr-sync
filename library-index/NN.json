@@ -176,14 +176,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Darling That s the Magic",
-  "triggers": [
-   "darling that s the magic"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086814926765498554",
-  "tag": "$MfT"
- },
- {
   "name": "The Judge s Table",
   "triggers": [
    "the judge s table"
@@ -366,6 +358,14 @@
    "little meme little tree"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094309212184625416",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Darling That s the Magic",
+  "triggers": [
+   "darling that s the magic"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094842786608480309",
   "tag": "$MfT"
  }
 ]
