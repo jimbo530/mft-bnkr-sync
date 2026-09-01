@@ -30,14 +30,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Plant It Back",
-  "triggers": [
-   "plant it back"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085576713723871280",
-  "tag": "$MfT"
- },
- {
   "name": "The Kindest Well",
   "triggers": [
    "the kindest well"
@@ -332,6 +324,14 @@
    "the long weather"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094475356111536163",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Plant It Back",
+  "triggers": [
+   "plant it back"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094827693913043425",
   "tag": "$MfT"
  }
 ]
