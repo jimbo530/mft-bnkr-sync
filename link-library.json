@@ -4109,19 +4109,6 @@
     "caption": "🎵 \"Slow Trees, Fast Drums\" — Bongo\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2088148671158222983",
-    "translation": "The Good Road",
-    "name": "The Good Road",
-    "triggers": [
-      "the good road"
-    ],
-    "band": "Rish",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2088148671158222983",
-    "caption": "🎵 \"The Good Road\" — Rish\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2088445590526898461",
     "translation": "The Planter's Rounds",
     "name": "The Planter's Rounds",
@@ -11865,5 +11852,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2094847777012355299",
     "caption": "\"Both Fires\" — Bongo\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2094862922778288172",
+    "translation": "The Good Road",
+    "name": "The Good Road",
+    "triggers": [
+      "the good road"
+    ],
+    "band": "Rish",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2094862922778288172",
+    "caption": "\"The Good Road\" — Rish\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

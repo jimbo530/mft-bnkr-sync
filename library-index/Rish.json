@@ -134,14 +134,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Good Road",
-  "triggers": [
-   "the good road"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088148671158222983",
-  "tag": "$MfT"
- },
- {
   "name": "The Planter's Rounds",
   "triggers": [
    "the planter's rounds"
@@ -332,6 +324,14 @@
    "plant it back"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094827693913043425",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Good Road",
+  "triggers": [
+   "the good road"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094862922778288172",
   "tag": "$MfT"
  }
 ]

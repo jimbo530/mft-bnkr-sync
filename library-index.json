@@ -2556,14 +2556,6 @@
  },
  {
   "band": "Rish",
-  "name": "The Good Road",
-  "triggers": [
-   "the good road"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088148671158222983"
- },
- {
-  "band": "Rish",
   "name": "The Planter's Rounds",
   "triggers": [
    "the planter's rounds"
@@ -7336,5 +7328,13 @@
    "both fires"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094847777012355299"
+ },
+ {
+  "band": "Rish",
+  "name": "The Good Road",
+  "triggers": [
+   "the good road"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094862922778288172"
  }
 ]
