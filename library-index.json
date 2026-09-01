@@ -3458,14 +3458,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2089482503237107874"
  },
  {
-  "band": "DGT",
-  "name": "The Trust That Can't Be Repossessed",
-  "triggers": [
-   "the trust that can't be repossessed"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089497593533301098"
- },
- {
   "band": "CB",
   "name": "Proof of Function",
   "triggers": [
@@ -7336,5 +7328,13 @@
    "the agent does it"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094802483059020054"
+ },
+ {
+  "band": "DGT",
+  "name": "The Trust That Can't Be Repossessed",
+  "triggers": [
+   "the trust that can't be repossessed"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094807585333326124"
  }
 ]

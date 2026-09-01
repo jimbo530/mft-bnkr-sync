@@ -156,14 +156,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Trust That Can't Be Repossessed",
-  "triggers": [
-   "the trust that can't be repossessed"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089497593533301098",
-  "tag": "$MfT"
- },
- {
   "name": "The Benevolent Racket",
   "triggers": [
    "the benevolent racket"
@@ -209,6 +201,14 @@
    "requests at last call"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094047514940854367",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Trust That Can't Be Repossessed",
+  "triggers": [
+   "the trust that can't be repossessed"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094807585333326124",
   "tag": "$MfT"
  }
 ]

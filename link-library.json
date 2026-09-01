@@ -5562,19 +5562,6 @@
     "caption": "\"The Money Never Leaves The Party\" — Natilie Nightclub\npress play, plant trees\n\nThank you @artizen for including our Crypto Endowment Network in Season 7 💚 the bands sing their gratitude better than we can say it 🌱"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2089497593533301098",
-    "translation": "The Trust That Can't Be Repossessed",
-    "name": "The Trust That Can't Be Repossessed",
-    "triggers": [
-      "the trust that can't be repossessed"
-    ],
-    "band": "DGT",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2089497593533301098",
-    "caption": "\"The Trust That Can't Be Repossessed\" — Damned Good Time Orchestra\ndance to defend the earth\n\nThank you @artizen for including our Crypto Endowment Network in Season 7 💚 the bands sing their gratitude better than we can say it 🌱"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2089517676129292434",
     "translation": "Proof of Function",
     "name": "Proof of Function",
@@ -11865,5 +11852,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2094802483059020054",
     "caption": "\"The Agent Does It\" — Bongo\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2094807585333326124",
+    "translation": "The Trust That Can't Be Repossessed",
+    "name": "The Trust That Can't Be Repossessed",
+    "triggers": [
+      "the trust that can't be repossessed"
+    ],
+    "band": "DGT",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2094807585333326124",
+    "caption": "\"The Trust That Can't Be Repossessed\" — Damned Good Time Orchestra\ndance to defend the earth\n\nThank you @artizen for including our Crypto Endowment Network in Season 7 💚 the bands sing their gratitude better than we can say it 🌱"
   }
 ]
