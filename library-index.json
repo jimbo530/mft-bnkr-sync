@@ -2803,14 +2803,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2085460913730073037"
  },
  {
-  "band": "Biggins",
-  "name": "Name It Once",
-  "triggers": [
-   "name it once"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088737515628892336"
- },
- {
   "band": "DD",
   "name": "The Town That Grew A Monkey",
   "triggers": [
@@ -7336,5 +7328,13 @@
    "feed the village"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094903140373934309"
+ },
+ {
+  "band": "Biggins",
+  "name": "Name It Once",
+  "triggers": [
+   "name it once"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094908213929861134"
  }
 ]

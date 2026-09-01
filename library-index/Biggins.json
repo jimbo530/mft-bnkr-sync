@@ -32,14 +32,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Name It Once",
-  "triggers": [
-   "name it once"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088737515628892336",
-  "tag": "$MfT"
- },
- {
   "name": "Start The Thing",
   "triggers": [
    "start the thing"
@@ -86,6 +78,14 @@
    "out of the trees"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094822609934221369",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Name It Once",
+  "triggers": [
+   "name it once"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094908213929861134",
   "tag": "$MfT"
  }
 ]

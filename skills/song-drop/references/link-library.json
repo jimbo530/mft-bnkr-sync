@@ -4512,19 +4512,6 @@
     "caption": "🎵 \"Welcome To Monkey Town (Name Him Once!)\" — Bongo\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2088737515628892336",
-    "translation": "Name It Once",
-    "name": "Name It Once",
-    "triggers": [
-      "name it once"
-    ],
-    "band": "Biggins",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2088737515628892336",
-    "caption": "🎵 \"Name It Once\" — Biggins Mcjammin\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2087902030442496256",
     "translation": "The Town That Grew A Monkey",
     "name": "The Town That Grew A Monkey",
@@ -11865,5 +11852,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2094903140373934309",
     "caption": "\"Feed the Village\" — Moon Rasta\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2094908213929861134",
+    "translation": "Name It Once",
+    "name": "Name It Once",
+    "triggers": [
+      "name it once"
+    ],
+    "band": "Biggins",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2094908213929861134",
+    "caption": "\"Name It Once\" — Biggins Mcjammin\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
