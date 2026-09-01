@@ -2926,19 +2926,6 @@
     "caption": "\"Fast as the Forge-Fire\" — War Machine\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2088425487076823452",
-    "translation": "They Came to Us",
-    "name": "They Came to Us",
-    "triggers": [
-      "they came to us"
-    ],
-    "band": "EBM",
-    "tag": "$MfT",
-    "ca": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d",
-    "xPost": "https://x.com/MemeForTrees/status/2088425487076823452",
-    "caption": "\"They Came to Us\" — Elves of Ballinmoore\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2088450619426152685",
     "translation": "Green Candle Anthem",
     "name": "Green Candle Anthem",
@@ -11865,5 +11852,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2094566025387814963",
     "caption": "\"Quick Off the Line\" — Ricky Bobbie\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2094742125447426247",
+    "translation": "They Came to Us",
+    "name": "They Came to Us",
+    "triggers": [
+      "they came to us"
+    ],
+    "band": "EBM",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2094742125447426247",
+    "caption": "\"They Came to Us\" — Elves of Ballinmoore\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
