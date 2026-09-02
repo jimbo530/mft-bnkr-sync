@@ -1235,14 +1235,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086774719714365922"
  },
  {
-  "band": "DD",
-  "name": "Down the Trade Routes",
-  "triggers": [
-   "down the trade routes"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086789794604921221"
- },
- {
   "band": "Myco",
   "name": "What Had To Rot",
   "triggers": [
@@ -7336,5 +7328,13 @@
    "one long breath"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094963554822529044"
+ },
+ {
+  "band": "DD",
+  "name": "Down the Trade Routes",
+  "triggers": [
+   "down the trade routes"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094968617859252308"
  }
 ]
