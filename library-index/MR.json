@@ -134,14 +134,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Everybody in the Circle",
-  "triggers": [
-   "everybody in the circle"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088264400952037452",
-  "tag": "$MfT"
- },
- {
   "name": "Work Now Dance Later",
   "triggers": [
    "work now dance later"
@@ -388,6 +380,14 @@
    "feed the column"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095029011365634503",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Everybody in the Circle",
+  "triggers": [
+   "everybody in the circle"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095190072865817013",
   "tag": "$MfT"
  }
 ]

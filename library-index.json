@@ -1619,14 +1619,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088249330968727871"
  },
  {
-  "band": "MR",
-  "name": "Everybody in the Circle",
-  "triggers": [
-   "everybody in the circle"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088264400952037452"
- },
- {
   "band": "CB",
   "name": "Plant It Loud",
   "triggers": [
@@ -7344,5 +7336,13 @@
    "it came with its own"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095184995543290164"
+ },
+ {
+  "band": "MR",
+  "name": "Everybody in the Circle",
+  "triggers": [
+   "everybody in the circle"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095190072865817013"
  }
 ]
