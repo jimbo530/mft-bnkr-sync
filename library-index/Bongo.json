@@ -336,5 +336,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095003812004036731",
   "tag": "$MfT"
+ },
+ {
+  "name": "Burgers From the Sky",
+  "triggers": [
+   "burgers from the sky"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095250484961448080",
+  "tag": "$MfT"
  }
 ]
