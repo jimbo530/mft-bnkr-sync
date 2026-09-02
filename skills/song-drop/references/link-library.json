@@ -507,20 +507,6 @@
     "boothCommission": "sg_mrtgtm17dm"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2079252656258797778",
-    "translation": "Setups in Disguise",
-    "name": "Setups in Disguise",
-    "triggers": [
-      "setups in disguise"
-    ],
-    "band": "Rish",
-    "tag": "",
-    "ca": "",
-    "xPost": "https://x.com/MemeForTrees/status/2079252656258797778",
-    "caption": "\"Setups in Disguise\" — Rish",
-    "boothCommission": "sg_mrth6n3cav"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2079303270204383633",
     "translation": "The Grind Holds",
     "name": "The Grind Holds",
@@ -11878,5 +11864,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2095164943326658675",
     "caption": "\"- Char in the Soil\" — Myco\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2095169896405496159",
+    "translation": "Setups in Disguise",
+    "name": "Setups in Disguise",
+    "triggers": [
+      "setups in disguise"
+    ],
+    "band": "Rish",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2095169896405496159",
+    "caption": "\"Setups in Disguise\" — Rish\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

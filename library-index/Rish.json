@@ -1,12 +1,5 @@
 [
  {
-  "name": "Setups in Disguise",
-  "triggers": [
-   "setups in disguise"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079252656258797778"
- },
- {
   "name": "The Town of the Cats",
   "triggers": [
    "the town of the cats"
@@ -332,6 +325,14 @@
    "spread the spark"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095129634853560830",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Setups in Disguise",
+  "triggers": [
+   "setups in disguise"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095169896405496159",
   "tag": "$MfT"
  }
 ]

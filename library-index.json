@@ -337,14 +337,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079250875076296731"
  },
  {
-  "band": "Rish",
-  "name": "Setups in Disguise",
-  "triggers": [
-   "setups in disguise"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079252656258797778"
- },
- {
   "band": "HammerTone",
   "name": "The Grind Holds",
   "triggers": [
@@ -7344,5 +7336,13 @@
    "char in the soil"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095164943326658675"
+ },
+ {
+  "band": "Rish",
+  "name": "Setups in Disguise",
+  "triggers": [
+   "setups in disguise"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095169896405496159"
  }
 ]
