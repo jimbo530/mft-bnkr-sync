@@ -3290,14 +3290,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2089356611366117392"
  },
  {
-  "band": "Bongo",
-  "name": "What Is Happening (Welcome, Friend)",
-  "triggers": [
-   "what is happening (welcome, friend)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089401909983506886"
- },
- {
   "band": "EBM",
   "name": "Side Effect",
   "triggers": [
@@ -7336,5 +7328,13 @@
    "ten years deep"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094943409861480478"
+ },
+ {
+  "band": "Bongo",
+  "name": "What Is Happening (Welcome, Friend)",
+  "triggers": [
+   "what is happening (welcome, friend)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094948437472973073"
  }
 ]
