@@ -1675,14 +1675,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088329825601589371"
  },
  {
-  "band": "DGT",
-  "name": "Pull Up a Chair",
-  "triggers": [
-   "pull up a chair"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088365113673720112"
- },
- {
   "band": "WarMachine",
   "name": "Fast as the Forge-Fire",
   "triggers": [
@@ -7344,5 +7336,13 @@
    "the whole bar onchain"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095104504840540520"
+ },
+ {
+  "band": "DGT",
+  "name": "Pull Up a Chair",
+  "triggers": [
+   "pull up a chair"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095109552135975047"
  }
 ]
