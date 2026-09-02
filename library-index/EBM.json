@@ -129,14 +129,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Ten Years Deep",
-  "triggers": [
-   "ten years deep"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086925585226354787",
-  "tag": "$MfT"
- },
- {
   "name": "Countless",
   "triggers": [
    "countless"
@@ -839,6 +831,14 @@
    "eight banners moving"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094867912548847733",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Ten Years Deep",
+  "triggers": [
+   "ten years deep"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094943409861480478",
   "tag": "$MfT"
  }
 ]

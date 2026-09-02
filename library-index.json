@@ -1299,14 +1299,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086910479545340367"
  },
  {
-  "band": "EBM",
-  "name": "Ten Years Deep",
-  "triggers": [
-   "ten years deep"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086925585226354787"
- },
- {
   "band": "CB",
   "name": "STILL HERE FORWARD",
   "triggers": [
@@ -7336,5 +7328,13 @@
    "underground choir"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094928352826007857"
+ },
+ {
+  "band": "EBM",
+  "name": "Ten Years Deep",
+  "triggers": [
+   "ten years deep"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094943409861480478"
  }
 ]
