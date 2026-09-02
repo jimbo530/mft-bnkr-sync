@@ -1707,14 +1707,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088365113673720112"
  },
  {
-  "band": "MR",
-  "name": "Feed the Column",
-  "triggers": [
-   "feed the column"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088385229102764190"
- },
- {
   "band": "WarMachine",
   "name": "Fast as the Forge-Fire",
   "triggers": [
@@ -7336,5 +7328,13 @@
    "the well that never runs dry"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095023933506437577"
+ },
+ {
+  "band": "MR",
+  "name": "Feed the Column",
+  "triggers": [
+   "feed the column"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095029011365634503"
  }
 ]
