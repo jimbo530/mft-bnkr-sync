@@ -3322,14 +3322,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2089678798765670785"
  },
  {
-  "band": "EBM",
-  "name": "The Lord We Was Looking For",
-  "triggers": [
-   "the lord we was looking for"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089683793468629417"
- },
- {
   "band": "DD",
   "name": "Every Land Knows A Tyrant",
   "triggers": [
@@ -7344,5 +7336,13 @@
    "spread the spark"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095129634853560830"
+ },
+ {
+  "band": "EBM",
+  "name": "The Lord We Was Looking For",
+  "triggers": [
+   "the lord we was looking for"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095144764249198932"
  }
 ]
