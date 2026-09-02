@@ -1196,19 +1196,6 @@
     "caption": "\"The Kindest Well\" — Rish\ngood tunes, real forests\n\n$MfT 0x31c600871603bab5d855463E03c6d0a9eB661D26"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2085642097760096491",
-    "translation": "Frens in the Field",
-    "name": "Frens in the Field",
-    "triggers": [
-      "frens in the field"
-    ],
-    "band": "JS",
-    "tag": "$MfT",
-    "ca": "0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65",
-    "xPost": "https://x.com/MemeForTrees/status/2085642097760096491",
-    "caption": "\"Frens in the Field\" — Jony Sings\nlisten, like, and share to fund forests\n\nMonkey Town runs an Impact Token Launcher — critters like Green Bull and Shrooms trade so real trees get planted 🌱\n\n$MfT 0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2085677369050767741",
     "translation": "It Does It for You",
     "name": "It Does It for You",
@@ -11917,5 +11904,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2095205162998517818",
     "caption": "\"- The Cost of the Canopy\" — Myco\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2095210213016010908",
+    "translation": "Frens in the Field",
+    "name": "Frens in the Field",
+    "triggers": [
+      "frens in the field"
+    ],
+    "band": "JS",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2095210213016010908",
+    "caption": "\"Frens in the Field\" — Jony Sings\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

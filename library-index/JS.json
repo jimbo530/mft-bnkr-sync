@@ -38,14 +38,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Frens in the Field",
-  "triggers": [
-   "frens in the field"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085642097760096491",
-  "tag": "$MfT"
- },
- {
   "name": "Concrete to Canopy",
   "triggers": [
    "concrete to canopy"
@@ -740,6 +732,14 @@
    "i poured it tea"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094369601727402136",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Frens in the Field",
+  "triggers": [
+   "frens in the field"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095210213016010908",
   "tag": "$MfT"
  }
 ]

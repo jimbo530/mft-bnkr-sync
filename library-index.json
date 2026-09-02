@@ -763,14 +763,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2085616930602225721"
  },
  {
-  "band": "JS",
-  "name": "Frens in the Field",
-  "triggers": [
-   "frens in the field"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085642097760096491"
- },
- {
   "band": "NN",
   "name": "It Does It for You",
   "triggers": [
@@ -7352,5 +7344,13 @@
    "- the cost of the canopy"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095205162998517818"
+ },
+ {
+  "band": "JS",
+  "name": "Frens in the Field",
+  "triggers": [
+   "frens in the field"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095210213016010908"
  }
 ]
