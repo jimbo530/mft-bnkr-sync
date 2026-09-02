@@ -102,14 +102,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Whole Bar Onchain",
-  "triggers": [
-   "the whole bar onchain"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087962403233243479",
-  "tag": "$MfT"
- },
- {
   "name": "The Club Throws the Door",
   "triggers": [
    "the club throws the door"
@@ -332,6 +324,14 @@
    "just say it, wee one"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095069235336589511",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Whole Bar Onchain",
+  "triggers": [
+   "the whole bar onchain"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095104504840540520",
   "tag": "$MfT"
  }
 ]

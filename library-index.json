@@ -1563,14 +1563,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2087942274197963117"
  },
  {
-  "band": "Rish",
-  "name": "The Whole Bar Onchain",
-  "triggers": [
-   "the whole bar onchain"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087962403233243479"
- },
- {
   "band": "MR",
   "name": "The Roar Plants the Grove",
   "triggers": [
@@ -7344,5 +7336,13 @@
    "she keeps herself flying"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095089419514450031"
+ },
+ {
+  "band": "Rish",
+  "name": "The Whole Bar Onchain",
+  "triggers": [
+   "the whole bar onchain"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095104504840540520"
  }
 ]
