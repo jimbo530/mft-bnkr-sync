@@ -16,14 +16,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Roots Hold It Up",
-  "triggers": [
-   "the roots hold it up"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088209021597601797",
-  "tag": "$MfT"
- },
- {
   "name": "It Brought Its Own Pack",
   "triggers": [
    "it brought its own pack"
@@ -86,6 +78,14 @@
    "name it once"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094908213929861134",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Roots Hold It Up",
+  "triggers": [
+   "the roots hold it up"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095049140325450210",
   "tag": "$MfT"
  }
 ]

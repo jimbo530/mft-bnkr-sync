@@ -1635,14 +1635,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088204034142273828"
  },
  {
-  "band": "Biggins",
-  "name": "The Roots Hold It Up",
-  "triggers": [
-   "the roots hold it up"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088209021597601797"
- },
- {
   "band": "CB",
   "name": "Everyone Onchain By Friday",
   "triggers": [
@@ -7336,5 +7328,13 @@
    "countless"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095044106980347934"
+ },
+ {
+  "band": "Biggins",
+  "name": "The Roots Hold It Up",
+  "triggers": [
+   "the roots hold it up"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095049140325450210"
  }
 ]
