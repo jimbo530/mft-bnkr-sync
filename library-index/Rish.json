@@ -191,14 +191,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Laughing Lord",
-  "triggers": [
-   "the laughing lord"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089839828925899068",
-  "tag": "$MfT"
- },
- {
   "name": "That's How We Grow",
   "triggers": [
    "that's how we grow"
@@ -332,6 +324,14 @@
    "the whole bar onchain"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095104504840540520",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Laughing Lord",
+  "triggers": [
+   "the laughing lord"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095124636774154728",
   "tag": "$MfT"
  }
 ]

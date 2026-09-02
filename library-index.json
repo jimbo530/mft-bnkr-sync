@@ -3426,14 +3426,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2089834748675768620"
  },
  {
-  "band": "Rish",
-  "name": "The Laughing Lord",
-  "triggers": [
-   "the laughing lord"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089839828925899068"
- },
- {
   "band": "SEAS",
   "name": "A Captain, Not A King",
   "triggers": [
@@ -7344,5 +7336,13 @@
    "pull up a chair"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095109552135975047"
+ },
+ {
+  "band": "Rish",
+  "name": "The Laughing Lord",
+  "triggers": [
+   "the laughing lord"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095124636774154728"
  }
 ]
