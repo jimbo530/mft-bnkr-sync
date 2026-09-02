@@ -48,14 +48,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Plain Words, Open Road",
-  "triggers": [
-   "plain words, open road"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086749487528071171",
-  "tag": "$MfT"
- },
- {
   "name": "A Banana a Day (Monkey Town)",
   "triggers": [
    "a banana a day (monkey town)"
@@ -110,6 +102,14 @@
    "shade i'll never sit in"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094213582082764858",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Plain Words, Open Road",
+  "triggers": [
+   "plain words, open road"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094983674236215422",
   "tag": "$MfT"
  }
 ]

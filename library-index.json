@@ -2667,14 +2667,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079974827260104771"
  },
  {
-  "band": "Jasmine",
-  "name": "Plain Words, Open Road",
-  "triggers": [
-   "plain words, open road"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086749487528071171"
- },
- {
   "band": "DD",
   "name": "Two Roads, One Traveler",
   "triggers": [
@@ -7336,5 +7328,13 @@
    "down the trade routes"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094968617859252308"
+ },
+ {
+  "band": "Jasmine",
+  "name": "Plain Words, Open Road",
+  "triggers": [
+   "plain words, open road"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094983674236215422"
  }
 ]

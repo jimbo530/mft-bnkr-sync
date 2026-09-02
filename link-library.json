@@ -4291,19 +4291,6 @@
     "caption": "🎵 \"A Hundred Skills, No Keeper\" — Jasmine the Tiger\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2086749487528071171",
-    "translation": "Plain Words, Open Road",
-    "name": "Plain Words, Open Road",
-    "triggers": [
-      "plain words, open road"
-    ],
-    "band": "Jasmine",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2086749487528071171",
-    "caption": "🎵 \"Plain Words, Open Road\" — Jasmine the Tiger\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2080176117193867420",
     "translation": "Two Roads, One Traveler",
     "name": "Two Roads, One Traveler",
@@ -11865,5 +11852,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2094968617859252308",
     "caption": "\"Down the Trade Routes\" — Digerie Dude\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2094983674236215422",
+    "translation": "Plain Words, Open Road",
+    "name": "Plain Words, Open Road",
+    "triggers": [
+      "plain words, open road"
+    ],
+    "band": "Jasmine",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2094983674236215422",
+    "caption": "\"Plain Words, Open Road\" — Jasmine\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
