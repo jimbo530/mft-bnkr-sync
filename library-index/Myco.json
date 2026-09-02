@@ -127,14 +127,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Char in the Soil",
-  "triggers": [
-   "char in the soil"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087026294726783487",
-  "tag": "$MfT"
- },
- {
   "name": "Roots That Hold",
   "triggers": [
    "roots that hold"
@@ -765,6 +757,14 @@
    "- every day above the dark"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095064261940711662",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Char in the Soil",
+  "triggers": [
+   "char in the soil"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095164943326658675",
   "tag": "$MfT"
  }
 ]
