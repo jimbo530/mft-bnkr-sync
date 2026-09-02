@@ -367,5 +367,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095184995543290164",
   "tag": "$MfT"
+ },
+ {
+  "name": "An Airdrop a Day",
+  "triggers": [
+   "an airdrop a day"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095275646146449453",
+  "tag": "$MfT"
  }
 ]
