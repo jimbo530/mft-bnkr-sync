@@ -741,5 +741,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095210213016010908",
   "tag": "$MfT"
+ },
+ {
+  "name": "The Daily Dose",
+  "triggers": [
+   "the daily dose"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095280677767815322",
+  "tag": "$MfT"
  }
 ]

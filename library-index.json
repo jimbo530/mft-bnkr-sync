@@ -7392,5 +7392,13 @@
    "an airdrop a day"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095275646146449453"
+ },
+ {
+  "band": "JS",
+  "name": "The Daily Dose",
+  "triggers": [
+   "the daily dose"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095280677767815322"
  }
 ]
