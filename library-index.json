@@ -2755,14 +2755,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086150482192486421"
  },
  {
-  "band": "Gurdy",
-  "name": "Crank The Wheel (Monkey Town)",
-  "triggers": [
-   "crank the wheel (monkey town)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088224170937090423"
- },
- {
   "band": "DGT",
   "name": "Open The Gates (Monkey Town Tonight)",
   "triggers": [
@@ -7344,5 +7336,13 @@
    "just say it, wee one"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095069235336589511"
+ },
+ {
+  "band": "Gurdy",
+  "name": "Crank The Wheel (Monkey Town)",
+  "triggers": [
+   "crank the wheel (monkey town)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095084373255102679"
  }
 ]

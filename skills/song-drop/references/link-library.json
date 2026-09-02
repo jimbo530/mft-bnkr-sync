@@ -4434,19 +4434,6 @@
     "caption": "🎵 \"Name Him Once\" — Jony Sings\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2088224170937090423",
-    "translation": "Crank The Wheel (Monkey Town)",
-    "name": "Crank The Wheel (Monkey Town)",
-    "triggers": [
-      "crank the wheel (monkey town)"
-    ],
-    "band": "Gurdy",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2088224170937090423",
-    "caption": "🎵 \"Crank The Wheel (Monkey Town)\" — Gurdy\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2088123547302371469",
     "translation": "Open The Gates (Monkey Town Tonight)",
     "name": "Open The Gates (Monkey Town Tonight)",
@@ -11878,5 +11865,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2095069235336589511",
     "caption": "\"Just Say It, Wee One\" — Rish\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2095084373255102679",
+    "translation": "Crank The Wheel (Monkey Town)",
+    "name": "Crank The Wheel (Monkey Town)",
+    "triggers": [
+      "crank the wheel (monkey town)"
+    ],
+    "band": "Gurdy",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2095084373255102679",
+    "caption": "\"Crank The Wheel (Monkey Town)\" — Gurdy\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

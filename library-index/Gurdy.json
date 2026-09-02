@@ -27,14 +27,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Crank The Wheel (Monkey Town)",
-  "triggers": [
-   "crank the wheel (monkey town)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088224170937090423",
-  "tag": "$MfT"
- },
- {
   "name": "Someone Bet on Me",
   "triggers": [
    "someone bet on me"
@@ -73,6 +65,14 @@
    "something real to hold"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094535720232767691",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Crank The Wheel (Monkey Town)",
+  "triggers": [
+   "crank the wheel (monkey town)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095084373255102679",
   "tag": "$MfT"
  }
 ]
