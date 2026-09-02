@@ -1811,14 +1811,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088757653321273832"
  },
  {
-  "band": "RickyBobbie",
-  "name": "She Keeps Herself Flying",
-  "triggers": [
-   "she keeps herself flying"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088777827189444629"
- },
- {
   "band": "DD",
   "name": "Your Name Arrives Before You",
   "triggers": [
@@ -7344,5 +7336,13 @@
    "crank the wheel (monkey town)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095084373255102679"
+ },
+ {
+  "band": "RickyBobbie",
+  "name": "She Keeps Herself Flying",
+  "triggers": [
+   "she keeps herself flying"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095089419514450031"
  }
 ]

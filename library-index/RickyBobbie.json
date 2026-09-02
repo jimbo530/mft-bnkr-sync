@@ -31,14 +31,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "She Keeps Herself Flying",
-  "triggers": [
-   "she keeps herself flying"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088777827189444629",
-  "tag": "$MfT"
- },
- {
   "name": "Wind In Your Sails",
   "triggers": [
    "wind in your sails"
@@ -101,6 +93,14 @@
    "the well that never runs dry"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095023933506437577",
+  "tag": "$MfT"
+ },
+ {
+  "name": "She Keeps Herself Flying",
+  "triggers": [
+   "she keeps herself flying"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095089419514450031",
   "tag": "$MfT"
  }
 ]
