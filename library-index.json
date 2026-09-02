@@ -2852,14 +2852,6 @@
  },
  {
   "band": "Rish",
-  "name": "Spread the Spark",
-  "triggers": [
-   "spread the spark"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088948964875792856"
- },
- {
-  "band": "Rish",
   "name": "Wind Beneath The Spark",
   "triggers": [
    "wind beneath the spark"
@@ -7344,5 +7336,13 @@
    "the laughing lord"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095124636774154728"
+ },
+ {
+  "band": "Rish",
+  "name": "Spread the Spark",
+  "triggers": [
+   "spread the spark"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095129634853560830"
  }
 ]
