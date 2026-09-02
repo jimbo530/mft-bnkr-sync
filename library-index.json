@@ -1388,14 +1388,6 @@
  },
  {
   "band": "EBM",
-  "name": "Countless",
-  "triggers": [
-   "countless"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087579931089732005"
- },
- {
-  "band": "EBM",
   "name": "Clean the Block",
   "triggers": [
    "clean the block"
@@ -7336,5 +7328,13 @@
    "feed the column"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095029011365634503"
+ },
+ {
+  "band": "EBM",
+  "name": "Countless",
+  "triggers": [
+   "countless"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095044106980347934"
  }
 ]
