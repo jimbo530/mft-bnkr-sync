@@ -389,5 +389,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095190072865817013",
   "tag": "$MfT"
+ },
+ {
+  "name": "Stand in the Rain",
+  "triggers": [
+   "stand in the rain"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095225269669789784",
+  "tag": "$MfT"
  }
 ]
