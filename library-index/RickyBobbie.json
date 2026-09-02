@@ -7,14 +7,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079604628786708673"
  },
  {
-  "name": "She Carries Her Own",
-  "triggers": [
-   "she carries her own"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085476005095915719",
-  "tag": "$MfT"
- },
- {
   "name": "Fastest Word in the Sky",
   "triggers": [
    "fastest word in the sky"
@@ -101,6 +93,14 @@
    "quick off the line"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094566025387814963",
+  "tag": "$MfT"
+ },
+ {
+  "name": "She Carries Her Own",
+  "triggers": [
+   "she carries her own"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095008838692802564",
   "tag": "$MfT"
  }
 ]

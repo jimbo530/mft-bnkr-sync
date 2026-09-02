@@ -1145,19 +1145,6 @@
     "caption": "\"They Paid Me To Play The Forest\" — Bongo\nturn it up for the trees\n\nthe band works for a dollar — your song, their voice:\nhttps://tasern.quest/songsmith.html\nor pay right here on X: tag @MonkyTownWallet, any library song for 2 gold or 2 bananas\n\n$MfT 0x85Dd5183D203CcE70b88234D31f075774AcCC453"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2085476005095915719",
-    "translation": "She Carries Her Own",
-    "name": "She Carries Her Own",
-    "triggers": [
-      "she carries her own"
-    ],
-    "band": "RickyBobbie",
-    "tag": "$MfT",
-    "ca": "0x95286F2cce3C2de48EB75bB4E2Ec004429F18E53",
-    "xPost": "https://x.com/MemeForTrees/status/2085476005095915719",
-    "caption": "\"She Carries Her Own\" — Ricky Bobbie\nevery listen grows the jungle\n\n$MfT 0x95286F2cce3C2de48EB75bB4E2Ec004429F18E53"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2085501222077767769",
     "translation": "Will Ye Come to Shillwood",
     "name": "Will Ye Come to Shillwood",
@@ -11865,5 +11852,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2095003812004036731",
     "caption": "\"Bet On The Dreamer\" — Bongo\nturn it up for the trees\n\nThank you @artizen for including our Crypto Endowment Network in Season 7 💚 the bands sing their gratitude better than we can say it 🌱"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2095008838692802564",
+    "translation": "She Carries Her Own",
+    "name": "She Carries Her Own",
+    "triggers": [
+      "she carries her own"
+    ],
+    "band": "RickyBobbie",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2095008838692802564",
+    "caption": "\"She Carries Her Own\" — Ricky Bobbie\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

@@ -731,14 +731,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2085455916380385668"
  },
  {
-  "band": "RickyBobbie",
-  "name": "She Carries Her Own",
-  "triggers": [
-   "she carries her own"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085476005095915719"
- },
- {
   "band": "Rish",
   "name": "Will Ye Come to Shillwood",
   "triggers": [
@@ -7336,5 +7328,13 @@
    "bet on the dreamer"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095003812004036731"
+ },
+ {
+  "band": "RickyBobbie",
+  "name": "She Carries Her Own",
+  "triggers": [
+   "she carries her own"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095008838692802564"
  }
 ]
