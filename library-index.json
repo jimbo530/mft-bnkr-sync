@@ -5514,14 +5514,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2092467155920965944"
  },
  {
-  "band": "DD",
-  "name": "One Long Breath",
-  "triggers": [
-   "one long breath"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092482233147736334"
- },
- {
   "band": "Myco",
   "name": "- Spores Don't Read The Chart",
   "triggers": [
@@ -7336,5 +7328,13 @@
    "what is happening (welcome, friend)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094948437472973073"
+ },
+ {
+  "band": "DD",
+  "name": "One Long Breath",
+  "triggers": [
+   "one long breath"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2094963554822529044"
  }
 ]
