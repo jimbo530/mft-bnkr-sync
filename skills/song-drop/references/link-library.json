@@ -2002,19 +2002,6 @@
     "caption": "\"Will Ye Prompt It\" — Rish\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2086885315193540931",
-    "translation": "It Came With Its Own",
-    "name": "It Came With Its Own",
-    "triggers": [
-      "it came with its own"
-    ],
-    "band": "NN",
-    "tag": "$MfT",
-    "ca": "0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc",
-    "xPost": "https://x.com/MemeForTrees/status/2086885315193540931",
-    "caption": "\"It Came With Its Own\" — Natilie Nightclub\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2086910479545340367",
     "translation": "First Everybody Builds",
     "name": "First Everybody Builds",
@@ -11877,5 +11864,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2095169896405496159",
     "caption": "\"Setups in Disguise\" — Rish\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2095184995543290164",
+    "translation": "It Came With Its Own",
+    "name": "It Came With Its Own",
+    "triggers": [
+      "it came with its own"
+    ],
+    "band": "NN",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2095184995543290164",
+    "caption": "\"It Came With Its Own\" — Natilie Nightclub\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

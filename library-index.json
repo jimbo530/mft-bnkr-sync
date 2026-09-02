@@ -1259,14 +1259,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086865229879615493"
  },
  {
-  "band": "NN",
-  "name": "It Came With Its Own",
-  "triggers": [
-   "it came with its own"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086885315193540931"
- },
- {
   "band": "MR",
   "name": "First Everybody Builds",
   "triggers": [
@@ -7344,5 +7336,13 @@
    "setups in disguise"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095169896405496159"
+ },
+ {
+  "band": "NN",
+  "name": "It Came With Its Own",
+  "triggers": [
+   "it came with its own"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095184995543290164"
  }
 ]
