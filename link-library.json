@@ -11877,5 +11877,45 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2095190072865817013",
     "caption": "\"Everybody In the Circle\" — Moon Rasta\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "mft-holder-airdrop",
+    "translation": "MfT holder airdrop eligibility",
+    "name": "mft holder airdrop",
+    "triggers": [
+      "mft airdrop",
+      "mft airdrops",
+      "mft drops",
+      "mft drop",
+      "mft rain",
+      "mft rains",
+      "hold mft",
+      "holding mft",
+      "mft holder airdrop",
+      "10 mil mft",
+      "10m mft",
+      "10 million mft",
+      "mft eligible",
+      "stand in the rain"
+    ],
+    "band": null,
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": null,
+    "caption": "hold 10,000,000 $MfT or more on Base and you're eligible for holder airdrops.\n\nlive now: BURGERS, raining from the MfT/BURGERS pool's real trading fees — no schedule, no promises, it rains what it earns. GOLD and the game-world coins are staged to rain next.\n\nkeep holding between snapshots (selling sits you out a round). pro-rata by MfT held, on-chain, cranked daily.\n\n0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "special": true
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2095205162998517818",
+    "translation": "- The Cost of the Canopy",
+    "name": "- The Cost of the Canopy",
+    "triggers": [
+      "- the cost of the canopy"
+    ],
+    "band": "Myco",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2095205162998517818",
+    "caption": "\"- The Cost of the Canopy\" — Myco\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

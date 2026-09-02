@@ -766,5 +766,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095164943326658675",
   "tag": "$MfT"
+ },
+ {
+  "name": "- The Cost of the Canopy",
+  "triggers": [
+   "- the cost of the canopy"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095205162998517818",
+  "tag": "$MfT"
  }
 ]
