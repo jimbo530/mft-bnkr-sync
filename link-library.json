@@ -2887,19 +2887,6 @@
     "caption": "\"Your Name Arrives Before You\" — Digerie Dude\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2088797996662047166",
-    "translation": "Just Got Out",
-    "name": "Just Got Out",
-    "triggers": [
-      "just got out"
-    ],
-    "band": "DGT",
-    "tag": "$MfT",
-    "ca": "0x52414B7cD2FA723E1c8f9295EB29F16d15aA7BB9",
-    "xPost": "https://x.com/MemeForTrees/status/2088797996662047166",
-    "caption": "\"Just Got Out\" — Damned Good Time Orchestra\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2053354383186755742",
     "translation": "“zFROM MEMES TO MANGROVES”",
     "name": "“zFROM MEMES TO MANGROVES”",
@@ -11878,5 +11865,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2095144764249198932",
     "caption": "\"The Lord We Was Looking For\" — Elves of Ballinmoore\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2095149846554423658",
+    "translation": "Just Got Out",
+    "name": "Just Got Out",
+    "triggers": [
+      "just got out"
+    ],
+    "band": "DGT",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2095149846554423658",
+    "caption": "\"Just Got Out\" — Damned Good Time Orchestra\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

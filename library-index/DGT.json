@@ -99,14 +99,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Just Got Out",
-  "triggers": [
-   "just got out"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088797996662047166",
-  "tag": "$MfT"
- },
- {
   "name": "Plant 'Em Where the Ledger Can't Reach",
   "triggers": [
    "plant 'em where the ledger can't reach"
@@ -209,6 +201,14 @@
    "pull up a chair"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095109552135975047",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Just Got Out",
+  "triggers": [
+   "just got out"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095149846554423658",
   "tag": "$MfT"
  }
 ]

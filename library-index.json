@@ -1803,14 +1803,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088782822920090094"
  },
  {
-  "band": "DGT",
-  "name": "Just Got Out",
-  "triggers": [
-   "just got out"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088797996662047166"
- },
- {
   "band": "EBM",
   "name": "“zFROM MEMES TO MANGROVES”",
   "triggers": [
@@ -7344,5 +7336,13 @@
    "the lord we was looking for"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095144764249198932"
+ },
+ {
+  "band": "DGT",
+  "name": "Just Got Out",
+  "triggers": [
+   "just got out"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095149846554423658"
  }
 ]
