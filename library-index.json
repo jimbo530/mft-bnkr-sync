@@ -3003,14 +3003,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2089064763934281783"
  },
  {
-  "band": "RickyBobbie",
-  "name": "The Well That Never Runs Dry",
-  "triggers": [
-   "the well that never runs dry"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089079816590967123"
- },
- {
   "band": "HammerTone",
   "name": "The Vault Sealed by Oath",
   "triggers": [
@@ -7336,5 +7328,13 @@
    "she carries her own"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095008838692802564"
+ },
+ {
+  "band": "RickyBobbie",
+  "name": "The Well That Never Runs Dry",
+  "triggers": [
+   "the well that never runs dry"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095023933506437577"
  }
 ]
