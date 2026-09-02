@@ -4642,19 +4642,6 @@
     "caption": "🎵 \"Somebody Bet On You\" — Damned Good Time Orchestra\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2088888568697511962",
-    "translation": "Bet On The Dreamer",
-    "name": "Bet On The Dreamer",
-    "triggers": [
-      "bet on the dreamer"
-    ],
-    "band": "Bongo",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2088888568697511962",
-    "caption": "🎵 \"Bet On The Dreamer\" — Bongo\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2088893553002885471",
     "translation": "Wind In Your Sails",
     "name": "Wind In Your Sails",
@@ -11865,5 +11852,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2094988699775721752",
     "caption": "\"The Whole Block Came\" — Elves of Ballinmoore\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2095003812004036731",
+    "translation": "Bet On The Dreamer",
+    "name": "Bet On The Dreamer",
+    "triggers": [
+      "bet on the dreamer"
+    ],
+    "band": "Bongo",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2095003812004036731",
+    "caption": "\"Bet On The Dreamer\" — Bongo\nturn it up for the trees\n\nThank you @artizen for including our Crypto Endowment Network in Season 7 💚 the bands sing their gratitude better than we can say it 🌱"
   }
 ]

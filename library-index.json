@@ -2883,14 +2883,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088873496122155331"
  },
  {
-  "band": "Bongo",
-  "name": "Bet On The Dreamer",
-  "triggers": [
-   "bet on the dreamer"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088888568697511962"
- },
- {
   "band": "RickyBobbie",
   "name": "Wind In Your Sails",
   "triggers": [
@@ -7336,5 +7328,13 @@
    "the whole block came"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094988699775721752"
+ },
+ {
+  "band": "Bongo",
+  "name": "Bet On The Dreamer",
+  "triggers": [
+   "bet on the dreamer"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095003812004036731"
  }
 ]
