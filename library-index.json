@@ -2644,14 +2644,6 @@
  },
  {
   "band": "Rish",
-  "name": "Just Say It, Wee One",
-  "triggers": [
-   "just say it, wee one"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086271303464489108"
- },
- {
-  "band": "Rish",
   "name": "Two Shores, One Agent",
   "triggers": [
    "two shores, one agent"
@@ -7344,5 +7336,13 @@
    "- every day above the dark"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095064261940711662"
+ },
+ {
+  "band": "Rish",
+  "name": "Just Say It, Wee One",
+  "triggers": [
+   "just say it, wee one"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095069235336589511"
  }
 ]

@@ -4252,19 +4252,6 @@
     "caption": "🎵 \"Two Currents, One Flow\" — Myco\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2086271303464489108",
-    "translation": "Just Say It, Wee One",
-    "name": "Just Say It, Wee One",
-    "triggers": [
-      "just say it, wee one"
-    ],
-    "band": "Rish",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2086271303464489108",
-    "caption": "🎵 \"Just Say It, Wee One\" — Rish\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2086845094863216813",
     "translation": "Two Shores, One Agent",
     "name": "Two Shores, One Agent",
@@ -11878,5 +11865,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2095064261940711662",
     "caption": "\"- Every Day Above the Dark\" — Myco\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2095069235336589511",
+    "translation": "Just Say It, Wee One",
+    "name": "Just Say It, Wee One",
+    "triggers": [
+      "just say it, wee one"
+    ],
+    "band": "Rish",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2095069235336589511",
+    "caption": "\"Just Say It, Wee One\" — Rish\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
