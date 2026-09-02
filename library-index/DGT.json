@@ -210,5 +210,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095149846554423658",
   "tag": "$MfT"
+ },
+ {
+  "name": "The Diamond Hand Swing",
+  "triggers": [
+   "the diamond hand swing"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095255566775976339",
+  "tag": "$MfT"
  }
 ]
