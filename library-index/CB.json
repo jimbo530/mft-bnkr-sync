@@ -24,14 +24,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Eight Inbound",
-  "triggers": [
-   "eight inbound"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086351807110909988",
-  "tag": "$MfT"
- },
- {
   "name": "It Keeps Itself Alive",
   "triggers": [
    "it keeps itself alive"
@@ -494,6 +486,14 @@
    "room for a forest"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095401474146631870",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Eight Inbound",
+  "triggers": [
+   "eight inbound"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095431673374487015",
   "tag": "$MfT"
  }
 ]

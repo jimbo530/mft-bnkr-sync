@@ -1003,14 +1003,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086311576202526767"
  },
  {
-  "band": "CB",
-  "name": "Eight Inbound",
-  "triggers": [
-   "eight inbound"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086351807110909988"
- },
- {
   "band": "JS",
   "name": "Money That Feeds",
   "triggers": [
@@ -7480,5 +7472,13 @@
    "three weeks in a minute"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095426631443550630"
+ },
+ {
+  "band": "CB",
+  "name": "Eight Inbound",
+  "triggers": [
+   "eight inbound"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095431673374487015"
  }
 ]
