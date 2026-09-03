@@ -1467,14 +1467,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2087942274197963117"
  },
  {
-  "band": "MR",
-  "name": "The Roar Plants the Grove",
-  "triggers": [
-   "the roar plants the grove"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087967434598691175"
- },
- {
   "band": "DD",
   "name": "Water to the Village",
   "triggers": [
@@ -7496,5 +7488,13 @@
    "the heaviest end"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095638036281172103"
+ },
+ {
+  "band": "MR",
+  "name": "The Roar Plants the Grove",
+  "triggers": [
+   "the roar plants the grove"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095658123243458922"
  }
 ]
