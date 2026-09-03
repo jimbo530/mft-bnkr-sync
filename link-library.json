@@ -1026,19 +1026,6 @@
     "caption": "\"Onchain Forest\" — CB\nlisten, like, and share to fund forests\n\nMonkey Town runs an Impact Token Launcher — critters like Green Bull and Shrooms trade so real trees get planted 🌱\n\nno keeper, no gatekeeper — just plant\n\n$MfT"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2085274744354414612",
-    "translation": "New Address",
-    "name": "New Address",
-    "triggers": [
-      "new address"
-    ],
-    "band": "NN",
-    "tag": "$MfT",
-    "ca": "0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc",
-    "xPost": "https://x.com/MemeForTrees/status/2085274744354414612",
-    "caption": "\"New Address\" — Natilie Nightclub\npress play, plant trees\n\ngrab a monkey, name him forever, feed him a banana a day — a Monkey Town wallet takes just an email:\nhttps://tasern.quest/monkeytown\n\n$MfT 0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2085279758657396915",
     "translation": "Tavern at the Tide",
     "name": "Tavern at the Tide",
@@ -12124,5 +12111,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2095431673374487015",
     "caption": "\"Eight Inbound\" — CB\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2095456844135141713",
+    "translation": "New Address",
+    "name": "New Address",
+    "triggers": [
+      "new address"
+    ],
+    "band": "NN",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2095456844135141713",
+    "caption": "\"New Address\" — Natilie Nightclub\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

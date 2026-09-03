@@ -48,14 +48,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079545861537771528"
  },
  {
-  "name": "New Address",
-  "triggers": [
-   "new address"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085274744354414612",
-  "tag": "$MfT"
- },
- {
   "name": "Tavern at the Tide",
   "triggers": [
    "tavern at the tide"
@@ -382,6 +374,14 @@
    "the greenest thing in the room"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095376317789200837",
+  "tag": "$MfT"
+ },
+ {
+  "name": "New Address",
+  "triggers": [
+   "new address"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095456844135141713",
   "tag": "$MfT"
  }
 ]

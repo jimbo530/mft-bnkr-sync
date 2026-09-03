@@ -660,14 +660,6 @@
  },
  {
   "band": "NN",
-  "name": "New Address",
-  "triggers": [
-   "new address"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085274744354414612"
- },
- {
-  "band": "NN",
   "name": "Tavern at the Tide",
   "triggers": [
    "tavern at the tide"
@@ -7480,5 +7472,13 @@
    "eight inbound"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095431673374487015"
+ },
+ {
+  "band": "NN",
+  "name": "New Address",
+  "triggers": [
+   "new address"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095456844135141713"
  }
 ]
