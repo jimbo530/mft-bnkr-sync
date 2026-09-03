@@ -7464,5 +7464,13 @@
    "nobody s tree"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095381295140413513"
+ },
+ {
+  "band": "CB",
+  "name": "Room For A Forest",
+  "triggers": [
+   "room for a forest"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095401474146631870"
  }
 ]

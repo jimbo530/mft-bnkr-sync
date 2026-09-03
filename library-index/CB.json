@@ -487,5 +487,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094883013196689483",
   "tag": "$MfT"
+ },
+ {
+  "name": "Room For A Forest",
+  "triggers": [
+   "room for a forest"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095401474146631870",
+  "tag": "$MfT"
  }
 ]
