@@ -790,5 +790,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095351155933032499",
   "tag": "$MfT"
+ },
+ {
+  "name": "- Sky People (Good Vibes Make Forests)",
+  "triggers": [
+   "- sky people (good vibes make forests)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095507160897655182",
+  "tag": "$MfT"
  }
 ]
