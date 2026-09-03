@@ -218,5 +218,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095255566775976339",
   "tag": "$MfT"
+ },
+ {
+  "name": "One More Grove Tonight",
+  "triggers": [
+   "one more grove tonight"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095406557756379311",
+  "tag": "$MfT"
  }
 ]
