@@ -891,14 +891,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086019572541300968"
  },
  {
-  "band": "MR",
-  "name": "The Heaviest End",
-  "triggers": [
-   "the heaviest end"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086090123641258117"
- },
- {
   "band": "EBM",
   "name": "New Banner in the Races",
   "triggers": [
@@ -7496,5 +7488,13 @@
    "ship it loud"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095632959399137664"
+ },
+ {
+  "band": "MR",
+  "name": "The Heaviest End",
+  "triggers": [
+   "the heaviest end"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095638036281172103"
  }
 ]
