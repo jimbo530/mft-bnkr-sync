@@ -7456,5 +7456,13 @@
    "the greenest thing in the room"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095376317789200837"
+ },
+ {
+  "band": "JS",
+  "name": "Nobody s Tree",
+  "triggers": [
+   "nobody s tree"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095381295140413513"
  }
 ]

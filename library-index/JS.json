@@ -749,5 +749,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095280677767815322",
   "tag": "$MfT"
+ },
+ {
+  "name": "Nobody s Tree",
+  "triggers": [
+   "nobody s tree"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095381295140413513",
+  "tag": "$MfT"
  }
 ]
