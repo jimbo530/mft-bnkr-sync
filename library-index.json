@@ -7448,5 +7448,13 @@
    "nobody told the tree to grow"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095356135343624347"
+ },
+ {
+  "band": "NN",
+  "name": "The Greenest Thing In The Room",
+  "triggers": [
+   "the greenest thing in the room"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095376317789200837"
  }
 ]

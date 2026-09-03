@@ -375,5 +375,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095275646146449453",
   "tag": "$MfT"
+ },
+ {
+  "name": "The Greenest Thing In The Room",
+  "triggers": [
+   "the greenest thing in the room"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095376317789200837",
+  "tag": "$MfT"
  }
 ]
