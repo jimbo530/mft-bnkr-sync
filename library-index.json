@@ -5243,14 +5243,6 @@
  },
  {
   "band": "WarMachine",
-  "name": "Morale (Da Sad Ork Shanty)",
-  "triggers": [
-   "morale (da sad ork shanty)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092462058084122752"
- },
- {
-  "band": "WarMachine",
   "name": "Smash Da Ants",
   "triggers": [
    "smash da ants"
@@ -7488,5 +7480,13 @@
    "glad you're here"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095547525444866442"
+ },
+ {
+  "band": "WarMachine",
+  "name": "Morale (Da Sad Ork Shanty)",
+  "triggers": [
+   "morale (da sad ork shanty)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095552568361468405"
  }
 ]

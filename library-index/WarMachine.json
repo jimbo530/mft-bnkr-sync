@@ -80,14 +80,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Morale (Da Sad Ork Shanty)",
-  "triggers": [
-   "morale (da sad ork shanty)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092462058084122752",
-  "tag": "$MfT"
- },
- {
   "name": "Smash Da Ants",
   "triggers": [
    "smash da ants"
@@ -141,6 +133,14 @@
    "earn it"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094409912155578449",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Morale (Da Sad Ork Shanty)",
+  "triggers": [
+   "morale (da sad ork shanty)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095552568361468405",
   "tag": "$MfT"
  }
 ]
