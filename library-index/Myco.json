@@ -782,5 +782,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095300829112602861",
   "tag": "$MfT"
+ },
+ {
+  "name": "- What Is Upstream",
+  "triggers": [
+   "- what is upstream"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095351155933032499",
+  "tag": "$MfT"
  }
 ]
