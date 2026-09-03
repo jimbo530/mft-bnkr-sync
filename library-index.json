@@ -923,14 +923,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086165571616358760"
  },
  {
-  "band": "DGT",
-  "name": "Exact Change",
-  "triggers": [
-   "exact change"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086170683407556618"
- },
- {
   "band": "Myco",
   "name": "Everything Came Up",
   "triggers": [
@@ -7488,5 +7480,13 @@
    "morale (da sad ork shanty)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095552568361468405"
+ },
+ {
+  "band": "DGT",
+  "name": "Exact Change",
+  "triggers": [
+   "exact change"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095572826099003559"
  }
 ]
