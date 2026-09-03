@@ -150,14 +150,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Name Him Once",
-  "triggers": [
-   "name him once"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086150482192486421",
-  "tag": "$MfT"
- },
- {
   "name": "Back The Beginning",
   "triggers": [
    "back the beginning"
@@ -756,6 +748,14 @@
    "nobody s tree"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095381295140413513",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Name Him Once",
+  "triggers": [
+   "name him once"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095476969571795118",
   "tag": "$MfT"
  }
 ]

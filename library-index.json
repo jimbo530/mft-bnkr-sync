@@ -2651,14 +2651,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2085596809204801724"
  },
  {
-  "band": "JS",
-  "name": "Name Him Once",
-  "triggers": [
-   "name him once"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086150482192486421"
- },
- {
   "band": "DGT",
   "name": "Open The Gates (Monkey Town Tonight)",
   "triggers": [
@@ -7480,5 +7472,13 @@
    "new address"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095456844135141713"
+ },
+ {
+  "band": "JS",
+  "name": "Name Him Once",
+  "triggers": [
+   "name him once"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095476969571795118"
  }
 ]
