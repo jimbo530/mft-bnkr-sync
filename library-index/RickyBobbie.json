@@ -1,12 +1,5 @@
 [
  {
-  "name": "Three Weeks in a Minute",
-  "triggers": [
-   "three weeks in a minute"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079604628786708673"
- },
- {
   "name": "Fastest Word in the Sky",
   "triggers": [
    "fastest word in the sky"
@@ -101,6 +94,14 @@
    "she keeps herself flying"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095089419514450031",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Three Weeks in a Minute",
+  "triggers": [
+   "three weeks in a minute"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095426631443550630",
   "tag": "$MfT"
  }
 ]
