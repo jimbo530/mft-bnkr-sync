@@ -344,5 +344,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095250484961448080",
   "tag": "$MfT"
+ },
+ {
+  "name": "Nobody Told The Tree To Grow",
+  "triggers": [
+   "nobody told the tree to grow"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095356135343624347",
+  "tag": "$MfT"
  }
 ]

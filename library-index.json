@@ -7440,5 +7440,13 @@
    "- what is upstream"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095351155933032499"
+ },
+ {
+  "band": "Bongo",
+  "name": "Nobody Told The Tree To Grow",
+  "triggers": [
+   "nobody told the tree to grow"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095356135343624347"
  }
 ]
