@@ -577,20 +577,6 @@
     "boothCommission": "sg_mrtz0nndrk"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2079380308168679648",
-    "translation": "No Crying in the Casino",
-    "name": "No Crying in the Casino",
-    "triggers": [
-      "no crying in the casino"
-    ],
-    "band": "Bongo",
-    "tag": "",
-    "ca": "",
-    "xPost": "https://x.com/MemeForTrees/status/2079380308168679648",
-    "caption": "\"No Crying in the Casino\" — Bongo",
-    "boothCommission": "sg_mrtz8s551r"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2079388587297038636",
     "translation": "The Cost of the Canopy",
     "name": "The Cost of the Canopy",
@@ -12137,5 +12123,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2095597866366439617",
     "caption": "\"Tunnels of Darkness\" — Jasmine\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2095602851045122289",
+    "translation": "No Crying in the Casino",
+    "name": "No Crying in the Casino",
+    "triggers": [
+      "no crying in the casino"
+    ],
+    "band": "Bongo",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2095602851045122289",
+    "caption": "\"No Crying in the Casino\" — Bongo\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

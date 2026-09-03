@@ -377,14 +377,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079378601695166716"
  },
  {
-  "band": "Bongo",
-  "name": "No Crying in the Casino",
-  "triggers": [
-   "no crying in the casino"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079380308168679648"
- },
- {
   "band": "Myco",
   "name": "The Cost of the Canopy",
   "triggers": [
@@ -7488,5 +7480,13 @@
    "tunnels of darkness"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095597866366439617"
+ },
+ {
+  "band": "Bongo",
+  "name": "No Crying in the Casino",
+  "triggers": [
+   "no crying in the casino"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095602851045122289"
  }
 ]

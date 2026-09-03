@@ -31,13 +31,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079224666451808414"
  },
  {
-  "name": "No Crying in the Casino",
-  "triggers": [
-   "no crying in the casino"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079380308168679648"
- },
- {
   "name": "Pay the Bills (Then We Play)",
   "triggers": [
    "pay the bills (then we play)"
@@ -351,6 +344,14 @@
    "nobody told the tree to grow"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095356135343624347",
+  "tag": "$MfT"
+ },
+ {
+  "name": "No Crying in the Casino",
+  "triggers": [
+   "no crying in the casino"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095602851045122289",
   "tag": "$MfT"
  }
 ]
