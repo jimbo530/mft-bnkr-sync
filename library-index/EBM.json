@@ -266,14 +266,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Side Effect",
-  "triggers": [
-   "side effect"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089417037177119028",
-  "tag": "$MfT"
- },
- {
   "name": "Receipts",
   "triggers": [
    "receipts"
@@ -847,6 +839,14 @@
    "one road, eyes open"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095502143356579975",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Side Effect",
+  "triggers": [
+   "side effect"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095577696130498718",
   "tag": "$MfT"
  }
 ]
