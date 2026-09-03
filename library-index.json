@@ -659,14 +659,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2085259584222920939"
  },
  {
-  "band": "NN",
-  "name": "Tavern at the Tide",
-  "triggers": [
-   "tavern at the tide"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085279758657396915"
- },
- {
   "band": "EBM",
   "name": "Oldest Magic",
   "triggers": [
@@ -7488,5 +7480,13 @@
    "- sky people (good vibes make forests)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095507160897655182"
+ },
+ {
+  "band": "NN",
+  "name": "Tavern at the Tide",
+  "triggers": [
+   "tavern at the tide"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095527264100253737"
  }
 ]

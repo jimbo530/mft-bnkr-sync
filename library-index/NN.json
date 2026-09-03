@@ -48,14 +48,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079545861537771528"
  },
  {
-  "name": "Tavern at the Tide",
-  "triggers": [
-   "tavern at the tide"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085279758657396915",
-  "tag": "$MfT"
- },
- {
   "name": "It Does It for You",
   "triggers": [
    "it does it for you"
@@ -382,6 +374,14 @@
    "the house keeps its word"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095482000161292655",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Tavern at the Tide",
+  "triggers": [
+   "tavern at the tide"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095527264100253737",
   "tag": "$MfT"
  }
 ]
