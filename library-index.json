@@ -3122,14 +3122,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2089517676129292434"
  },
  {
-  "band": "Jasmine",
-  "name": "Glad You're Here",
-  "triggers": [
-   "glad you're here"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089522698103742885"
- },
- {
   "band": "Strut",
   "name": "Clown Around Town",
   "triggers": [
@@ -7488,5 +7480,13 @@
    "the club throws the door"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095532284610842653"
+ },
+ {
+  "band": "Jasmine",
+  "name": "Glad You're Here",
+  "triggers": [
+   "glad you're here"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095547525444866442"
  }
 ]
