@@ -397,5 +397,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095225269669789784",
   "tag": "$MfT"
+ },
+ {
+  "name": "Shade I Won t Sit In",
+  "triggers": [
+   "shade i won t sit in"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095331017770852527",
+  "tag": "$MfT"
  }
 ]
