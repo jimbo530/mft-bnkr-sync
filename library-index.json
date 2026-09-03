@@ -2163,14 +2163,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2084403969258827928"
  },
  {
-  "band": "EBM",
-  "name": "One Road, Eyes Open",
-  "triggers": [
-   "one road, eyes open"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088022842168226049"
- },
- {
   "band": "MV",
   "name": "Jony Sings, dance until morning",
   "triggers": [
@@ -7480,5 +7472,13 @@
    "the house keeps its word"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095482000161292655"
+ },
+ {
+  "band": "EBM",
+  "name": "One Road, Eyes Open",
+  "triggers": [
+   "one road, eyes open"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095502143356579975"
  }
 ]
