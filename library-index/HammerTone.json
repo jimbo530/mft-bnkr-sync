@@ -102,5 +102,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094510589326315530",
   "tag": "$MfT"
+ },
+ {
+  "name": "Nail It Down",
+  "triggers": [
+   "nail it down"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095325932785447109",
+  "tag": "$MfT"
  }
 ]
