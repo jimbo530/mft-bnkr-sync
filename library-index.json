@@ -2835,14 +2835,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2089049626078781868"
  },
  {
-  "band": "NN",
-  "name": "The House Keeps Its Word",
-  "triggers": [
-   "the house keeps its word"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089054657700085939"
- },
- {
   "band": "DGT",
   "name": "The Vault That Keeps Its Word",
   "triggers": [
@@ -7480,5 +7472,13 @@
    "name him once"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095476969571795118"
+ },
+ {
+  "band": "NN",
+  "name": "The House Keeps Its Word",
+  "triggers": [
+   "the house keeps its word"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095482000161292655"
  }
 ]
