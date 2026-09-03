@@ -3147,14 +3147,6 @@
  },
  {
   "band": "PW",
-  "name": "Ship It Loud",
-  "triggers": [
-   "ship it loud"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089658589476532283"
- },
- {
-  "band": "PW",
   "name": "The Public Works March",
   "triggers": [
    "the public works march"
@@ -7496,5 +7488,13 @@
    "ebm - meme war"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095628012980961311"
+ },
+ {
+  "band": "PW",
+  "name": "Ship It Loud",
+  "triggers": [
+   "ship it loud"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095632959399137664"
  }
 ]
