@@ -7408,5 +7408,13 @@
    "- spore report"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095300829112602861"
+ },
+ {
+  "band": "Strut",
+  "name": "FUD Off the Runway",
+  "triggers": [
+   "fud off the runway"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095305803162857641"
  }
 ]

@@ -111,5 +111,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094762257334833247",
   "tag": "$MfT"
+ },
+ {
+  "name": "FUD Off the Runway",
+  "triggers": [
+   "fud off the runway"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095305803162857641",
+  "tag": "$MfT"
  }
 ]
