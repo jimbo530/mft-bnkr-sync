@@ -1539,14 +1539,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088068122439819360"
  },
  {
-  "band": "Rish",
-  "name": "The Club Throws the Door",
-  "triggers": [
-   "the club throws the door"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088103327598862609"
- },
- {
   "band": "NN",
   "name": "Let the Agent Handle It",
   "triggers": [
@@ -7488,5 +7480,13 @@
    "tavern at the tide"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095527264100253737"
+ },
+ {
+  "band": "Rish",
+  "name": "The Club Throws the Door",
+  "triggers": [
+   "the club throws the door"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095532284610842653"
  }
 ]

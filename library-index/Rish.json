@@ -95,14 +95,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Club Throws the Door",
-  "triggers": [
-   "the club throws the door"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088103327598862609",
-  "tag": "$MfT"
- },
- {
   "name": "A Little Kid Said Thank You",
   "triggers": [
    "a little kid said thank you"
@@ -333,6 +325,14 @@
    "setups in disguise"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095169896405496159",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Club Throws the Door",
+  "triggers": [
+   "the club throws the door"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095532284610842653",
   "tag": "$MfT"
  }
 ]
