@@ -80,14 +80,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Smash Da Ants",
-  "triggers": [
-   "smash da ants"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092467155920965944",
-  "tag": "$MfT"
- },
- {
   "name": "Kneel To No One",
   "triggers": [
    "kneel to no one"
@@ -141,6 +133,14 @@
    "morale (da sad ork shanty)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095552568361468405",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Smash Da Ants",
+  "triggers": [
+   "smash da ants"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095623012301029761",
   "tag": "$MfT"
  }
 ]
