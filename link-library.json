@@ -515,20 +515,6 @@
     "boothCommission": "sg_mrtujosro1"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2079370388090302718",
-    "translation": "Where I Can",
-    "name": "Where I Can",
-    "triggers": [
-      "where i can"
-    ],
-    "band": "MR",
-    "tag": "",
-    "ca": "",
-    "xPost": "https://x.com/MemeForTrees/status/2079370388090302718",
-    "caption": "\"Where I Can\" — MR",
-    "boothCommission": "sg_mrtxvzhbbx"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2079371832369577998",
     "translation": "A Hopping Good Time",
     "name": "A Hopping Good Time",
@@ -12140,5 +12126,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2095763828755538195",
     "caption": "\"Number Go Up, Number Go Down (Always Fun In Monkey Town)\" — Bongo\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2095783988841357340",
+    "translation": "Where I Can",
+    "name": "Where I Can",
+    "triggers": [
+      "where i can"
+    ],
+    "band": "MR",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2095783988841357340",
+    "caption": "\"Where I Can\" — Moon Rasta\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

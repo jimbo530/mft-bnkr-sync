@@ -339,14 +339,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079347245405679828"
  },
  {
-  "band": "MR",
-  "name": "Where I Can",
-  "triggers": [
-   "where i can"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079370388090302718"
- },
- {
   "band": "ALAN",
   "name": "A Hopping Good Time",
   "triggers": [
@@ -7488,5 +7480,13 @@
    "number go up, number go down (always fun in monkey town)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095763828755538195"
+ },
+ {
+  "band": "MR",
+  "name": "Where I Can",
+  "triggers": [
+   "where i can"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095783988841357340"
  }
 ]
