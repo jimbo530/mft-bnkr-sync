@@ -1275,14 +1275,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2087841608624410944"
  },
  {
-  "band": "Bongo",
-  "name": "What's Over There On Base",
-  "triggers": [
-   "what's over there on base"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087846683631649230"
- },
- {
   "band": "DD",
   "name": "The Orchard That Was a Fence",
   "triggers": [
@@ -7488,5 +7480,13 @@
    "friday on the green"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095990317266731389"
+ },
+ {
+  "band": "Bongo",
+  "name": "What's Over There On Base",
+  "triggers": [
+   "what's over there on base"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096010492359619064"
  }
 ]
