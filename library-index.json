@@ -1548,14 +1548,6 @@
  },
  {
   "band": "DGT",
-  "name": "One Night Ahead",
-  "triggers": [
-   "one night ahead"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088546321321873718"
- },
- {
-  "band": "DGT",
   "name": "We Built the Furnace Ourselves",
   "triggers": [
    "we built the furnace ourselves"
@@ -7488,5 +7480,13 @@
    "where i can"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095783988841357340"
+ },
+ {
+  "band": "DGT",
+  "name": "One Night Ahead",
+  "triggers": [
+   "one night ahead"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095789102620618765"
  }
 ]
