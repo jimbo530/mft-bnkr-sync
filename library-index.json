@@ -1379,14 +1379,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2087942274197963117"
  },
  {
-  "band": "DD",
-  "name": "Water to the Village",
-  "triggers": [
-   "water to the village"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088002672456610093"
- },
- {
   "band": "NN",
   "name": "Toast to Tomorrow",
   "triggers": [
@@ -7488,5 +7480,13 @@
    "better than we found it"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095824232743617016"
+ },
+ {
+  "band": "DD",
+  "name": "Water to the Village",
+  "triggers": [
+   "water to the village"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095844355869200863"
  }
 ]

@@ -119,14 +119,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Water to the Village",
-  "triggers": [
-   "water to the village"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088002672456610093",
-  "tag": "$MfT"
- },
- {
   "name": "One River",
   "triggers": [
    "one river"
@@ -461,6 +453,14 @@
    "down the trade routes"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094968617859252308",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Water to the Village",
+  "triggers": [
+   "water to the village"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095844355869200863",
   "tag": "$MfT"
  }
 ]
