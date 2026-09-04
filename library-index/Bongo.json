@@ -66,14 +66,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "All You Have To Do Is Dance",
-  "triggers": [
-   "all you have to do is dance"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085923987574358019",
-  "tag": "$MfT"
- },
- {
   "name": "The Beat Votes Tomorrow",
   "triggers": [
    "the beat votes tomorrow"
@@ -352,6 +344,14 @@
    "no crying in the casino"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095602851045122289",
+  "tag": "$MfT"
+ },
+ {
+  "name": "All You Have To Do Is Dance",
+  "triggers": [
+   "all you have to do is dance"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095733620811952621",
   "tag": "$MfT"
  }
 ]

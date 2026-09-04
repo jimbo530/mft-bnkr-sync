@@ -835,14 +835,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2085903858455159228"
  },
  {
-  "band": "Bongo",
-  "name": "All You Have To Do Is Dance",
-  "triggers": [
-   "all you have to do is dance"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085923987574358019"
- },
- {
   "band": "WarMachine",
   "name": "Two War-Grounds",
   "triggers": [
@@ -7496,5 +7488,13 @@
    "two shores, one agent"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095713494477725779"
+ },
+ {
+  "band": "Bongo",
+  "name": "All You Have To Do Is Dance",
+  "triggers": [
+   "all you have to do is dance"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095733620811952621"
  }
 ]
