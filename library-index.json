@@ -192,20 +192,6 @@
  },
  {
   "band": "NN",
-  "name": "The Path to Personal Shows",
-  "triggers": [
-   "the path to personal shows"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079182617488888165",
-  "topics": [
-   "shows",
-   "performing",
-   "career",
-   "grind"
-  ]
- },
- {
-  "band": "NN",
   "name": "Grow Something Great",
   "triggers": [
    "grow something great"
@@ -7496,5 +7482,13 @@
    "all you have to do is dance"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095733620811952621"
+ },
+ {
+  "band": "NN",
+  "name": "The Path to Personal Shows",
+  "triggers": [
+   "the path to personal shows"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095738652831666569"
  }
 ]

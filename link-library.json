@@ -290,26 +290,6 @@
     ]
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2079182617488888165",
-    "translation": "The Path to Personal Shows",
-    "name": "The Path to Personal Shows",
-    "triggers": [
-      "the path to personal shows"
-    ],
-    "band": "NN",
-    "tag": "",
-    "ca": "",
-    "xPost": "https://x.com/MemeForTrees/status/2079182617488888165",
-    "caption": "\"The Path to Personal Shows\" — NN",
-    "boothCommission": "sg_mrt77l5q9n",
-    "topics": [
-      "shows",
-      "performing",
-      "career",
-      "grind"
-    ]
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2079186043362812034",
     "translation": "Grow Something Great",
     "name": "Grow Something Great",
@@ -12149,5 +12129,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2095733620811952621",
     "caption": "\"All You Have To Do Is Dance\" — Bongo\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2095738652831666569",
+    "translation": "The Path to Personal Shows",
+    "name": "The Path to Personal Shows",
+    "triggers": [
+      "the path to personal shows"
+    ],
+    "band": "NN",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2095738652831666569",
+    "caption": "\"The Path to Personal Shows\" — Natilie Nightclub\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
