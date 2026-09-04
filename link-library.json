@@ -1870,19 +1870,6 @@
     "caption": "\"Stands On Its Own\" — Jony Sings\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2086865229879615493",
-    "translation": "Will Ye Prompt It",
-    "name": "Will Ye Prompt It",
-    "triggers": [
-      "will ye prompt it"
-    ],
-    "band": "Rish",
-    "tag": "$MfT",
-    "ca": "0x31c600871603bab5d855463E03c6d0a9eB661D26",
-    "xPost": "https://x.com/MemeForTrees/status/2086865229879615493",
-    "caption": "\"Will Ye Prompt It\" — Rish\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2086910479545340367",
     "translation": "First Everybody Builds",
     "name": "First Everybody Builds",
@@ -12149,5 +12136,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2095688326955049239",
     "caption": "\"Pull for the Horizon\" — Seize the Seas\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2095708455185101218",
+    "translation": "Will Ye Prompt It",
+    "name": "Will Ye Prompt It",
+    "triggers": [
+      "will ye prompt it"
+    ],
+    "band": "Rish",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2095708455185101218",
+    "caption": "\"Will Ye Prompt It\" — Rish\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

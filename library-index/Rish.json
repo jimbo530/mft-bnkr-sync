@@ -79,14 +79,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Will Ye Prompt It",
-  "triggers": [
-   "will ye prompt it"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086865229879615493",
-  "tag": "$MfT"
- },
- {
   "name": "Will Ye March",
   "triggers": [
    "will ye march"
@@ -333,6 +325,14 @@
    "the club throws the door"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095532284610842653",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Will Ye Prompt It",
+  "triggers": [
+   "will ye prompt it"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095708455185101218",
   "tag": "$MfT"
  }
 ]
