@@ -1002,19 +1002,6 @@
     "caption": "\"Coast to the Cabinet\" — Moon Rasta\nturn it up for the trees\n\nthe band works for a dollar — your song, their voice:\nhttps://tasern.quest/songsmith.html\nor pay right here on X: tag @MonkyTownWallet, any library song for 2 gold or 2 bananas\n\n$MfT 0x8d669b539C7801c1271BC484Bdd8a6084b7788e7"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2085455916380385668",
-    "translation": "They Paid Me To Play The Forest",
-    "name": "They Paid Me To Play The Forest",
-    "triggers": [
-      "they paid me to play the forest"
-    ],
-    "band": "Bongo",
-    "tag": "$MfT",
-    "ca": "0x85Dd5183D203CcE70b88234D31f075774AcCC453",
-    "xPost": "https://x.com/MemeForTrees/status/2085455916380385668",
-    "caption": "\"They Paid Me To Play The Forest\" — Bongo\nturn it up for the trees\n\nthe band works for a dollar — your song, their voice:\nhttps://tasern.quest/songsmith.html\nor pay right here on X: tag @MonkyTownWallet, any library song for 2 gold or 2 bananas\n\n$MfT 0x85Dd5183D203CcE70b88234D31f075774AcCC453"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2085501222077767769",
     "translation": "Will Ye Come to Shillwood",
     "name": "Will Ye Come to Shillwood",
@@ -12139,5 +12126,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2095869589770891592",
     "caption": "\"- The Deep Foundation\" — Myco\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2095874602639495640",
+    "translation": "They Paid Me To Play The Forest",
+    "name": "They Paid Me To Play The Forest",
+    "triggers": [
+      "they paid me to play the forest"
+    ],
+    "band": "Bongo",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2095874602639495640",
+    "caption": "\"They Paid Me To Play The Forest\" — Bongo\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
