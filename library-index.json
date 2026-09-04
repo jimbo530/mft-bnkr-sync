@@ -2946,14 +2946,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2089698941361107207"
  },
  {
-  "band": "Myco",
-  "name": "- Crownless",
-  "triggers": [
-   "- crownless"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089703980091801679"
- },
- {
   "band": "MR",
   "name": "No Chains In The Garden",
   "triggers": [
@@ -7488,5 +7480,13 @@
    "the soil remembers"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095975287183876244"
+ },
+ {
+  "band": "Myco",
+  "name": "- Crownless",
+  "triggers": [
+   "- crownless"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095985339512811831"
  }
 ]
