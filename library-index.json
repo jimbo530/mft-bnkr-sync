@@ -891,14 +891,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086387024022351872"
  },
  {
-  "band": "Myco",
-  "name": "The Soil Remembers",
-  "triggers": [
-   "the soil remembers"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086392111352451285"
- },
- {
   "band": "Rish",
   "name": "The Mending",
   "triggers": [
@@ -7488,5 +7480,13 @@
    "two chains, one forward"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095970253385637962"
+ },
+ {
+  "band": "Myco",
+  "name": "The Soil Remembers",
+  "triggers": [
+   "the soil remembers"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095975287183876244"
  }
 ]
