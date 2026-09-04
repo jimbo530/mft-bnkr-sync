@@ -2314,19 +2314,6 @@
     "caption": "\"We Built the Furnace Ourselves\" — Damned Good Time Orchestra\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2088606683740160315",
-    "translation": "Friday on the Green",
-    "name": "Friday on the Green",
-    "triggers": [
-      "friday on the green"
-    ],
-    "band": "JS",
-    "tag": "$MfT",
-    "ca": "0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65",
-    "xPost": "https://x.com/MemeForTrees/status/2088606683740160315",
-    "caption": "\"Friday on the Green\" — Jony Sings\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2088611705857163410",
     "translation": "It Brought Its Own Pack",
     "name": "It Brought Its Own Pack",
@@ -12138,5 +12125,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2095985339512811831",
     "caption": "\"- Crownless\" — Myco\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2095990317266731389",
+    "translation": "Friday on the Green",
+    "name": "Friday on the Green",
+    "triggers": [
+      "friday on the green"
+    ],
+    "band": "JS",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2095990317266731389",
+    "caption": "\"Friday on the Green\" — Jony Sings\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

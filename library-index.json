@@ -1451,14 +1451,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088571483702362472"
  },
  {
-  "band": "JS",
-  "name": "Friday on the Green",
-  "triggers": [
-   "friday on the green"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088606683740160315"
- },
- {
   "band": "Biggins",
   "name": "It Brought Its Own Pack",
   "triggers": [
@@ -7488,5 +7480,13 @@
    "- crownless"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095985339512811831"
+ },
+ {
+  "band": "JS",
+  "name": "Friday on the Green",
+  "triggers": [
+   "friday on the green"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095990317266731389"
  }
 ]

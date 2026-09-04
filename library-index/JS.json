@@ -118,14 +118,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Friday on the Green",
-  "triggers": [
-   "friday on the green"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088606683740160315",
-  "tag": "$MfT"
- },
- {
   "name": "Every Day Is An Opportunity",
   "triggers": [
    "every day is an opportunity"
@@ -756,6 +748,14 @@
    "better than we found it"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095824232743617016",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Friday on the Green",
+  "triggers": [
+   "friday on the green"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095990317266731389",
   "tag": "$MfT"
  }
 ]
