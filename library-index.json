@@ -627,14 +627,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2085335080713461969"
  },
  {
-  "band": "JS",
-  "name": "Better Than We Found It",
-  "triggers": [
-   "better than we found it"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085415608183632269"
- },
- {
   "band": "WarMachine",
   "name": "It Moves When We Roar",
   "triggers": [
@@ -7488,5 +7480,13 @@
    "connect the good"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095819206633607393"
+ },
+ {
+  "band": "JS",
+  "name": "Better Than We Found It",
+  "triggers": [
+   "better than we found it"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095824232743617016"
  }
 ]

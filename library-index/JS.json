@@ -30,14 +30,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079968651311010115"
  },
  {
-  "name": "Better Than We Found It",
-  "triggers": [
-   "better than we found it"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085415608183632269",
-  "tag": "$MfT"
- },
- {
   "name": "Concrete to Canopy",
   "triggers": [
    "concrete to canopy"
@@ -756,6 +748,14 @@
    "name him once"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095476969571795118",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Better Than We Found It",
+  "triggers": [
+   "better than we found it"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095824232743617016",
   "tag": "$MfT"
  }
 ]
