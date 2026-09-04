@@ -49,14 +49,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "No Kings (Just This Guy)",
-  "triggers": [
-   "no kings (just this guy)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089809579450184181",
-  "tag": "$MfT"
- },
- {
   "name": "Out of the Treeline",
   "triggers": [
    "out of the treeline"
@@ -86,6 +78,14 @@
    "the roots hold it up"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095049140325450210",
+  "tag": "$MfT"
+ },
+ {
+  "name": "No Kings (Just This Guy)",
+  "triggers": [
+   "no kings (just this guy)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095683291370193274",
   "tag": "$MfT"
  }
 ]

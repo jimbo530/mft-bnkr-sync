@@ -3210,14 +3210,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2089784498124734503"
  },
  {
-  "band": "Biggins",
-  "name": "No Kings (Just This Guy)",
-  "triggers": [
-   "no kings (just this guy)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089809579450184181"
- },
- {
   "band": "Jasmine",
   "name": "The Neighborly Lord",
   "triggers": [
@@ -7496,5 +7488,13 @@
    "one clean drop"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095663197495685294"
+ },
+ {
+  "band": "Biggins",
+  "name": "No Kings (Just This Guy)",
+  "triggers": [
+   "no kings (just this guy)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095683291370193274"
  }
 ]
