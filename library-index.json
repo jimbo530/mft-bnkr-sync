@@ -1451,14 +1451,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088506015079702679"
  },
  {
-  "band": "CB",
-  "name": "Live in Seconds",
-  "triggers": [
-   "live in seconds"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088511050664583243"
- },
- {
   "band": "DGT",
   "name": "One More Night at Shillwood",
   "triggers": [
@@ -7488,5 +7480,13 @@
    "đi tiếp (one more mile)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095919862522560977"
+ },
+ {
+  "band": "CB",
+  "name": "Live in Seconds",
+  "triggers": [
+   "live in seconds"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095924886476624162"
  }
 ]
