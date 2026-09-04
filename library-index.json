@@ -1011,14 +1011,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086548201193037956"
  },
  {
-  "band": "MR",
-  "name": "The Ground We Stand On",
-  "triggers": [
-   "the ground we stand on"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086553192196674001"
- },
- {
   "band": "NN",
   "name": "Neighbors Now",
   "triggers": [
@@ -7488,5 +7480,13 @@
    "water to the village"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095844355869200863"
+ },
+ {
+  "band": "MR",
+  "name": "The Ground We Stand On",
+  "triggers": [
+   "the ground we stand on"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095849424656150968"
  }
 ]

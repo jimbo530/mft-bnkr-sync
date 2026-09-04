@@ -63,14 +63,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Ground We Stand On",
-  "triggers": [
-   "the ground we stand on"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086553192196674001",
-  "tag": "$MfT"
- },
- {
   "name": "First Everybody Builds",
   "triggers": [
    "first everybody builds"
@@ -405,6 +397,14 @@
    "seize the seas"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095809119714206032",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Ground We Stand On",
+  "triggers": [
+   "the ground we stand on"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095849424656150968",
   "tag": "$MfT"
  }
 ]
