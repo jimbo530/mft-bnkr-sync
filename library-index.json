@@ -2355,14 +2355,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088370091461153000"
  },
  {
-  "band": "CB",
-  "name": "Two Chains, One Forward",
-  "triggers": [
-   "two chains, one forward"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087982586408640908"
- },
- {
   "band": "WarMachine",
   "name": "Muster",
   "triggers": [
@@ -7488,5 +7480,13 @@
    "two war-grounds"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095950050882924835"
+ },
+ {
+  "band": "CB",
+  "name": "Two Chains, One Forward",
+  "triggers": [
+   "two chains, one forward"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095970253385637962"
  }
 ]
