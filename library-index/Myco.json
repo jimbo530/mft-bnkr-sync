@@ -47,14 +47,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Follow the Signal Up",
-  "triggers": [
-   "follow the signal up"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085556580674675164",
-  "tag": "$MfT"
- },
- {
   "name": "Already Connected",
   "triggers": [
    "already connected"
@@ -797,6 +789,14 @@
    "- sky people (good vibes make forests)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095507160897655182",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Follow the Signal Up",
+  "triggers": [
+   "follow the signal up"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095814199393845448",
   "tag": "$MfT"
  }
 ]

@@ -683,14 +683,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2085536476754829515"
  },
  {
-  "band": "Myco",
-  "name": "Follow the Signal Up",
-  "triggers": [
-   "follow the signal up"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085556580674675164"
- },
- {
   "band": "Rish",
   "name": "The Kindest Well",
   "triggers": [
@@ -7488,5 +7480,13 @@
    "seize the seas"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095809119714206032"
+ },
+ {
+  "band": "Myco",
+  "name": "Follow the Signal Up",
+  "triggers": [
+   "follow the signal up"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095814199393845448"
  }
 ]

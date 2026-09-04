@@ -1067,19 +1067,6 @@
     "caption": "\"A Damned Good Time\" — Damned Good Time Orchestra\nevery listen grows the jungle\n\n$MfT 0x52414B7cD2FA723E1c8f9295EB29F16d15aA7BB9"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2085556580674675164",
-    "translation": "Follow the Signal Up",
-    "name": "Follow the Signal Up",
-    "triggers": [
-      "follow the signal up"
-    ],
-    "band": "Myco",
-    "tag": "$MfT",
-    "ca": "0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3",
-    "xPost": "https://x.com/MemeForTrees/status/2085556580674675164",
-    "caption": "\"- Follow the Signal Up\" — Myco\nevery listen grows the jungle\n\n$MfT 0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2085616930602225721",
     "translation": "The Kindest Well",
     "name": "The Kindest Well",
@@ -12139,5 +12126,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2095809119714206032",
     "caption": "\"Seize the Seas\" — Moon Rasta\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2095814199393845448",
+    "translation": "Follow the Signal Up",
+    "name": "Follow the Signal Up",
+    "triggers": [
+      "follow the signal up"
+    ],
+    "band": "Myco",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2095814199393845448",
+    "caption": "\"- Follow the Signal Up\" — Myco\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
