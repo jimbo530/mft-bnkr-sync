@@ -571,20 +571,6 @@
     "boothCommission": "sg_mrumt0zumx"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2079568304016900141",
-    "translation": "Đi Tiếp (One More Mile)",
-    "name": "Đi Tiếp (One More Mile)",
-    "triggers": [
-      "đi tiếp (one more mile)"
-    ],
-    "band": "DD",
-    "tag": "",
-    "ca": "",
-    "xPost": "https://x.com/MemeForTrees/status/2079568304016900141",
-    "caption": "\"Đi Tiếp (One More Mile)\" — DD",
-    "boothCommission": "sg_mrupv1yu6s"
-  },
-  {
     "file": "https://x.com/RWIrobinhood/status/2079346822674272594",
     "translation": "whats new with RWI",
     "name": "whats new with RWI",
@@ -12139,5 +12125,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2095899760351695246",
     "caption": "\"Meme For Trees\" — Bongo\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2095919862522560977",
+    "translation": "Đi Tiếp (One More Mile)",
+    "name": "Đi Tiếp (One More Mile)",
+    "triggers": [
+      "đi tiếp (one more mile)"
+    ],
+    "band": "DD",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2095919862522560977",
+    "caption": "\"Đi Tiếp (One More Mile)\" — Digerie Dude\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

@@ -371,14 +371,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079545861537771528"
  },
  {
-  "band": "DD",
-  "name": "Đi Tiếp (One More Mile)",
-  "triggers": [
-   "đi tiếp (one more mile)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079568304016900141"
- },
- {
   "band": null,
   "name": "whats new with RWI",
   "triggers": [
@@ -7488,5 +7480,13 @@
    "meme for trees"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095899760351695246"
+ },
+ {
+  "band": "DD",
+  "name": "Đi Tiếp (One More Mile)",
+  "triggers": [
+   "đi tiếp (one more mile)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095919862522560977"
  }
 ]
