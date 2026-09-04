@@ -3002,14 +3002,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2089341606528795002"
  },
  {
-  "band": "SEAS",
-  "name": "Pull for the Horizon",
-  "triggers": [
-   "pull for the horizon"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089356611366117392"
- },
- {
   "band": "Myco",
   "name": "- The Beats Hit Different (When They Fund Forests)",
   "triggers": [
@@ -7496,5 +7488,13 @@
    "no kings (just this guy)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095683291370193274"
+ },
+ {
+  "band": "SEAS",
+  "name": "Pull for the Horizon",
+  "triggers": [
+   "pull for the horizon"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095688326955049239"
  }
 ]

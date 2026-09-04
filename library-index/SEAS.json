@@ -25,14 +25,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Pull for the Horizon",
-  "triggers": [
-   "pull for the horizon"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089356611366117392",
-  "tag": "$MfT"
- },
- {
   "name": "A Captain, Not A King",
   "triggers": [
    "a captain, not a king"
@@ -78,6 +70,14 @@
    "the empire's cut"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2094923318470045822",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Pull for the Horizon",
+  "triggers": [
+   "pull for the horizon"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095688326955049239",
   "tag": "$MfT"
  }
 ]

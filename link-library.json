@@ -4818,19 +4818,6 @@
     "caption": "\"Launch Her Off The Slip\" — Seize the Seas\nlisten, like, and share to fund forests\n\nThank you @artizen for including our Crypto Endowment Network in Season 7 💚 the bands sing their gratitude better than we can say it 🌱"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2089356611366117392",
-    "translation": "Pull for the Horizon",
-    "name": "Pull for the Horizon",
-    "triggers": [
-      "pull for the horizon"
-    ],
-    "band": "SEAS",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2089356611366117392",
-    "caption": "\"Pull for the Horizon\" — Seize the Seas\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2089437179986457002",
     "translation": "- The Beats Hit Different (When They Fund Forests)",
     "name": "- The Beats Hit Different (When They Fund Forests)",
@@ -12149,5 +12136,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2095683291370193274",
     "caption": "\"No Kings (Just This Guy)\" — Biggins Mcjammin\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2095688326955049239",
+    "translation": "Pull for the Horizon",
+    "name": "Pull for the Horizon",
+    "triggers": [
+      "pull for the horizon"
+    ],
+    "band": "SEAS",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2095688326955049239",
+    "caption": "\"Pull for the Horizon\" — Seize the Seas\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
