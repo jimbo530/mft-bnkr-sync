@@ -23,14 +23,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "It Does Our Bidding",
-  "triggers": [
-   "it does our bidding"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087620196919865591",
-  "tag": "$MfT"
- },
- {
   "name": "Fast as the Forge-Fire",
   "triggers": [
    "fast as the forge-fire"
@@ -141,6 +133,14 @@
    "smash da ants"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095623012301029761",
+  "tag": "$MfT"
+ },
+ {
+  "name": "It Does Our Bidding",
+  "triggers": [
+   "it does our bidding"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095894728692678770",
   "tag": "$MfT"
  }
 ]

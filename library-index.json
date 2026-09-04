@@ -1211,14 +1211,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2087605053733392656"
  },
  {
-  "band": "WarMachine",
-  "name": "It Does Our Bidding",
-  "triggers": [
-   "it does our bidding"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087620196919865591"
- },
- {
   "band": "DD",
   "name": "Dig a Little Deeper",
   "triggers": [
@@ -7488,5 +7480,13 @@
    "they paid me to play the forest"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095874602639495640"
+ },
+ {
+  "band": "WarMachine",
+  "name": "It Does Our Bidding",
+  "triggers": [
+   "it does our bidding"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095894728692678770"
  }
 ]
