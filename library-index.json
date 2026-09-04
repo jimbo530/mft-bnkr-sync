@@ -947,14 +947,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086422342184366274"
  },
  {
-  "band": "Myco",
-  "name": "The Deep Foundation",
-  "triggers": [
-   "the deep foundation"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086442516652380589"
- },
- {
   "band": "MR",
   "name": "Five Hundred Homes",
   "triggers": [
@@ -7488,5 +7480,13 @@
    "the ground we stand on"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095849424656150968"
+ },
+ {
+  "band": "Myco",
+  "name": "The Deep Foundation",
+  "triggers": [
+   "the deep foundation"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095869589770891592"
  }
 ]

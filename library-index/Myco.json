@@ -95,14 +95,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Deep Foundation",
-  "triggers": [
-   "the deep foundation"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086442516652380589",
-  "tag": "$MfT"
- },
- {
   "name": "The Chorus Is a Network",
   "triggers": [
    "the chorus is a network"
@@ -797,6 +789,14 @@
    "connect the good"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095819206633607393",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Deep Foundation",
+  "triggers": [
+   "the deep foundation"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095869589770891592",
   "tag": "$MfT"
  }
 ]
