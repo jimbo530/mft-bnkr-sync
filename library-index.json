@@ -2140,14 +2140,6 @@
  },
  {
   "band": "Bongo",
-  "name": "Meme For Trees",
-  "triggers": [
-   "meme for trees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085662227206447176"
- },
- {
-  "band": "Bongo",
   "name": "One Reason (Trees)",
   "triggers": [
    "one reason (trees)"
@@ -7488,5 +7480,13 @@
    "it does our bidding"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095894728692678770"
+ },
+ {
+  "band": "Bongo",
+  "name": "Meme For Trees",
+  "triggers": [
+   "meme for trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095899760351695246"
  }
 ]
