@@ -920,21 +920,6 @@
     "caption": "\"Bet On Yourself\" — Rish\n\n$MfT 0x31c600871603bab5d855463E03c6d0a9eB661D26"
   },
   {
-    "file": "https://x.com/MonkyTownWallet/status/2083553685313835323",
-    "translation": "Number Go Up, Number Go Down (Always Fun In Monkey Town)",
-    "name": "Number Go Up, Number Go Down (Always Fun In Monkey Town)",
-    "triggers": [
-      "number go up",
-      "number go down",
-      "always fun in monkey town"
-    ],
-    "band": "Bongo",
-    "tag": "$MfT",
-    "ca": "0x85Dd5183D203CcE70b88234D31f075774AcCC453",
-    "xPost": "https://x.com/MonkyTownWallet/status/2083553685313835323",
-    "caption": "\"Number Go Up, Number Go Down (Always Fun In Monkey Town)\" — Bongo\n\n$MfT 0x85Dd5183D203CcE70b88234D31f075774AcCC453"
-  },
-  {
     "file": "https://x.com/MonkyTownWallet/status/2083555121103777966",
     "translation": "The Machine Broke Down (The Band Did Not)",
     "name": "The Machine Broke Down (The Band Did Not)",
@@ -12142,5 +12127,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2095758778574442978",
     "caption": "\"Steady As Di Riddim\" — Moon Rasta\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2095763828755538195",
+    "translation": "Number Go Up, Number Go Down (Always Fun In Monkey Town)",
+    "name": "Number Go Up, Number Go Down (Always Fun In Monkey Town)",
+    "triggers": [
+      "number go up, number go down (always fun in monkey town)"
+    ],
+    "band": "Bongo",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2095763828755538195",
+    "caption": "\"Number Go Up, Number Go Down (Always Fun In Monkey Town)\" — Bongo\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

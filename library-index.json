@@ -590,16 +590,6 @@
   "xPost": "https://x.com/MonkyTownWallet/status/2083339351753109931"
  },
  {
-  "band": "Bongo",
-  "name": "Number Go Up, Number Go Down (Always Fun In Monkey Town)",
-  "triggers": [
-   "number go up",
-   "number go down",
-   "always fun in monkey town"
-  ],
-  "xPost": "https://x.com/MonkyTownWallet/status/2083553685313835323"
- },
- {
   "band": "DGT",
   "name": "The Machine Broke Down (The Band Did Not)",
   "triggers": [
@@ -7490,5 +7480,13 @@
    "steady as di riddim"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095758778574442978"
+ },
+ {
+  "band": "Bongo",
+  "name": "Number Go Up, Number Go Down (Always Fun In Monkey Town)",
+  "triggers": [
+   "number go up, number go down (always fun in monkey town)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095763828755538195"
  }
 ]

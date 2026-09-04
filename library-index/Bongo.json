@@ -38,16 +38,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079622844602888196"
  },
  {
-  "name": "Number Go Up, Number Go Down (Always Fun In Monkey Town)",
-  "triggers": [
-   "number go up",
-   "number go down",
-   "always fun in monkey town"
-  ],
-  "xPost": "https://x.com/MonkyTownWallet/status/2083553685313835323",
-  "tag": "$MfT"
- },
- {
   "name": "Always GM on Robinhood Chain",
   "triggers": [
    "always gm on robinhood chain",
@@ -352,6 +342,14 @@
    "all you have to do is dance"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095733620811952621",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Number Go Up, Number Go Down (Always Fun In Monkey Town)",
+  "triggers": [
+   "number go up, number go down (always fun in monkey town)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095763828755538195",
   "tag": "$MfT"
  }
 ]
