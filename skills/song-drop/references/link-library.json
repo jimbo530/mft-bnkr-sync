@@ -1805,19 +1805,6 @@
     "caption": "\"- The Chorus Is a Network\" — Myco\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2086754514808234049",
-    "translation": "One Clean Drop",
-    "name": "One Clean Drop",
-    "triggers": [
-      "one clean drop"
-    ],
-    "band": "NN",
-    "tag": "$MfT",
-    "ca": "0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc",
-    "xPost": "https://x.com/MemeForTrees/status/2086754514808234049",
-    "caption": "\"One Clean Drop\" — Natilie Nightclub\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2086774719714365922",
     "translation": "Gone in a Second",
     "name": "Gone in a Second",
@@ -12149,5 +12136,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2095658123243458922",
     "caption": "\"The Roar Plants the Grove\" — Moon Rasta\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2095663197495685294",
+    "translation": "One Clean Drop",
+    "name": "One Clean Drop",
+    "triggers": [
+      "one clean drop"
+    ],
+    "band": "NN",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2095663197495685294",
+    "caption": "\"One Clean Drop\" — Natilie Nightclub\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

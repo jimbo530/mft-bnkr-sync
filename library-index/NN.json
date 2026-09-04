@@ -96,14 +96,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "One Clean Drop",
-  "triggers": [
-   "one clean drop"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086754514808234049",
-  "tag": "$MfT"
- },
- {
   "name": "The Lady Keeps the Leaves",
   "triggers": [
    "the lady keeps the leaves"
@@ -382,6 +374,14 @@
    "tavern at the tide"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095527264100253737",
+  "tag": "$MfT"
+ },
+ {
+  "name": "One Clean Drop",
+  "triggers": [
+   "one clean drop"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095663197495685294",
   "tag": "$MfT"
  }
 ]

@@ -1139,14 +1139,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086729394228277570"
  },
  {
-  "band": "NN",
-  "name": "One Clean Drop",
-  "triggers": [
-   "one clean drop"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086754514808234049"
- },
- {
   "band": "DGT",
   "name": "Gone in a Second",
   "triggers": [
@@ -7496,5 +7488,13 @@
    "the roar plants the grove"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095658123243458922"
+ },
+ {
+  "band": "NN",
+  "name": "One Clean Drop",
+  "triggers": [
+   "one clean drop"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095663197495685294"
  }
 ]
