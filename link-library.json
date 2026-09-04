@@ -1209,19 +1209,6 @@
     "caption": "\"- New Soil\" — Myco\nevery listen grows the jungle\n\n$MfT 0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2085939087924498538",
-    "translation": "Two War-Grounds",
-    "name": "Two War-Grounds",
-    "triggers": [
-      "two war-grounds"
-    ],
-    "band": "WarMachine",
-    "tag": "$MfT",
-    "ca": "0x6f45F5cE7027745b1Ab11D5493F187960D00FCfc",
-    "xPost": "https://x.com/MemeForTrees/status/2085939087924498538",
-    "caption": "\"Two War-Grounds\" — War Machine\nturn it up for the trees\n\nsoon you’ll launch your own critter with a tweet 🌱 Monkey Town is warming up\n\n$MfT 0x6f45F5cE7027745b1Ab11D5493F187960D00FCfc"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2085944124369248617",
     "translation": "Round Up the Good Ones",
     "name": "Round Up the Good Ones",
@@ -12138,5 +12125,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2095945016036196493",
     "caption": "\"Catch the Song, Pass the Song\" — Bongo\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2095950050882924835",
+    "translation": "Two War-Grounds",
+    "name": "Two War-Grounds",
+    "triggers": [
+      "two war-grounds"
+    ],
+    "band": "WarMachine",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2095950050882924835",
+    "caption": "\"Two War-Grounds\" — War Machine\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

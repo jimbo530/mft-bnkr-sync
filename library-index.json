@@ -771,14 +771,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2085903858455159228"
  },
  {
-  "band": "WarMachine",
-  "name": "Two War-Grounds",
-  "triggers": [
-   "two war-grounds"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085939087924498538"
- },
- {
   "band": "Rish",
   "name": "Round Up the Good Ones",
   "triggers": [
@@ -7488,5 +7480,13 @@
    "catch the song, pass the song"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095945016036196493"
+ },
+ {
+  "band": "WarMachine",
+  "name": "Two War-Grounds",
+  "triggers": [
+   "two war-grounds"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095950050882924835"
  }
 ]

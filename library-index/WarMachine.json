@@ -15,14 +15,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Two War-Grounds",
-  "triggers": [
-   "two war-grounds"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085939087924498538",
-  "tag": "$MfT"
- },
- {
   "name": "Fast as the Forge-Fire",
   "triggers": [
    "fast as the forge-fire"
@@ -141,6 +133,14 @@
    "it does our bidding"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095894728692678770",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Two War-Grounds",
+  "triggers": [
+   "two war-grounds"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095950050882924835",
   "tag": "$MfT"
  }
 ]
