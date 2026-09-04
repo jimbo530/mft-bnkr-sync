@@ -5132,14 +5132,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2092487238479151181"
  },
  {
-  "band": "MR",
-  "name": "Steady As Di Riddim",
-  "triggers": [
-   "steady as di riddim"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092502330805555400"
- },
- {
   "band": "Myco",
   "name": "Tunes For Trees",
   "triggers": [
@@ -7490,5 +7482,13 @@
    "the path to personal shows"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095738652831666569"
+ },
+ {
+  "band": "MR",
+  "name": "Steady As Di Riddim",
+  "triggers": [
+   "steady as di riddim"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095758778574442978"
  }
 ]
