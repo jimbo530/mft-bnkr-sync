@@ -1307,14 +1307,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2087761088024641612"
  },
  {
-  "band": "Myco",
-  "name": "Connect the Good",
-  "triggers": [
-   "connect the good"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087766173479801133"
- },
- {
   "band": "RickyBobbie",
   "name": "Sign On",
   "triggers": [
@@ -7488,5 +7480,13 @@
    "follow the signal up"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095814199393845448"
+ },
+ {
+  "band": "Myco",
+  "name": "Connect the Good",
+  "triggers": [
+   "connect the good"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095819206633607393"
  }
 ]

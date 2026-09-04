@@ -2081,19 +2081,6 @@
     "caption": "\"Name It and It's Made\" — Hammer Tone\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2087766173479801133",
-    "translation": "Connect the Good",
-    "name": "Connect the Good",
-    "triggers": [
-      "connect the good"
-    ],
-    "band": "Myco",
-    "tag": "$MfT",
-    "ca": "0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3",
-    "xPost": "https://x.com/MemeForTrees/status/2087766173479801133",
-    "caption": "\"- Connect the Good\" — Myco\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2087781249129533720",
     "translation": "Sign On",
     "name": "Sign On",
@@ -12139,5 +12126,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2095814199393845448",
     "caption": "\"- Follow the Signal Up\" — Myco\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2095819206633607393",
+    "translation": "Connect the Good",
+    "name": "Connect the Good",
+    "triggers": [
+      "connect the good"
+    ],
+    "band": "Myco",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2095819206633607393",
+    "caption": "\"- Connect the Good\" — Myco\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
