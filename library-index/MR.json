@@ -79,14 +79,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Before the Drums Wake",
-  "triggers": [
-   "before the drums wake"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087826552738251039",
-  "tag": "$MfT"
- },
- {
   "name": "Third of the Harvest",
   "triggers": [
    "third of the harvest"
@@ -405,6 +397,14 @@
    "the ground we stand on"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095849424656150968",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Before the Drums Wake",
+  "triggers": [
+   "before the drums wake"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096015483032015040",
   "tag": "$MfT"
  }
 ]

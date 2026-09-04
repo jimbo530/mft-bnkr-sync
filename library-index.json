@@ -1259,14 +1259,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2087801382673773019"
  },
  {
-  "band": "MR",
-  "name": "Before the Drums Wake",
-  "triggers": [
-   "before the drums wake"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087826552738251039"
- },
- {
   "band": "EBM",
   "name": "The First Joke",
   "triggers": [
@@ -7488,5 +7480,13 @@
    "what's over there on base"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096010492359619064"
+ },
+ {
+  "band": "MR",
+  "name": "Before the Drums Wake",
+  "triggers": [
+   "before the drums wake"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096015483032015040"
  }
 ]
