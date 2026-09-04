@@ -87,14 +87,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Seize the Seas",
-  "triggers": [
-   "seize the seas"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087821517555929336",
-  "tag": "$MfT"
- },
- {
   "name": "Before the Drums Wake",
   "triggers": [
    "before the drums wake"
@@ -405,6 +397,14 @@
    "where i can"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095783988841357340",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Seize the Seas",
+  "triggers": [
+   "seize the seas"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095809119714206032",
   "tag": "$MfT"
  }
 ]

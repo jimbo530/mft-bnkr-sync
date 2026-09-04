@@ -2133,19 +2133,6 @@
     "caption": "\"The Long Rain Feeds\" — Moon Rasta\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2087821517555929336",
-    "translation": "Seize the Seas",
-    "name": "Seize the Seas",
-    "triggers": [
-      "seize the seas"
-    ],
-    "band": "MR",
-    "tag": "$MfT",
-    "ca": "0x8d669b539C7801c1271BC484Bdd8a6084b7788e7",
-    "xPost": "https://x.com/MemeForTrees/status/2087821517555929336",
-    "caption": "\"Seize the Seas\" — Moon Rasta\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2087826552738251039",
     "translation": "Before the Drums Wake",
     "name": "Before the Drums Wake",
@@ -12139,5 +12126,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2095789102620618765",
     "caption": "\"One Night Ahead\" — Damned Good Time Orchestra\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2095809119714206032",
+    "translation": "Seize the Seas",
+    "name": "Seize the Seas",
+    "triggers": [
+      "seize the seas"
+    ],
+    "band": "MR",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2095809119714206032",
+    "caption": "\"Seize the Seas\" — Moon Rasta\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

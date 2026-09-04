@@ -1340,14 +1340,6 @@
  },
  {
   "band": "MR",
-  "name": "Seize the Seas",
-  "triggers": [
-   "seize the seas"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087821517555929336"
- },
- {
-  "band": "MR",
   "name": "Before the Drums Wake",
   "triggers": [
    "before the drums wake"
@@ -7488,5 +7480,13 @@
    "one night ahead"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095789102620618765"
+ },
+ {
+  "band": "MR",
+  "name": "Seize the Seas",
+  "triggers": [
+   "seize the seas"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2095809119714206032"
  }
 ]
