@@ -2003,14 +2003,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2087720861318938687"
  },
  {
-  "band": "CB",
-  "name": "Attention Tree Appreciators",
-  "triggers": [
-   "attention tree appreciators"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088531182770077795"
- },
- {
   "band": "MV",
   "name": "Mcjamin - Math isn't Mathing",
   "triggers": [
@@ -7480,5 +7472,13 @@
    "the neighborly lord"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096287333695770999"
+ },
+ {
+  "band": "CB",
+  "name": "Attention Tree Appreciators",
+  "triggers": [
+   "attention tree appreciators"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096292321687945612"
  }
 ]
