@@ -64,14 +64,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Sing Ye for a Coin",
-  "triggers": [
-   "sing ye for a coin"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086809920934912276",
-  "tag": "$MfT"
- },
- {
   "name": "Will Ye March",
   "triggers": [
    "will ye march"
@@ -334,6 +326,14 @@
    "the town of the cats"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096161440092528841",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Sing Ye for a Coin",
+  "triggers": [
+   "sing ye for a coin"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096191699944944087",
   "tag": "$MfT"
  }
 ]

@@ -1027,14 +1027,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086794828172386665"
  },
  {
-  "band": "Rish",
-  "name": "Sing Ye for a Coin",
-  "triggers": [
-   "sing ye for a coin"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086809920934912276"
- },
- {
   "band": "NN",
   "name": "The Lady Keeps the Leaves",
   "triggers": [
@@ -7488,5 +7480,13 @@
    "- the beats hit different (when they fund forests)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096186662875173315"
+ },
+ {
+  "band": "Rish",
+  "name": "Sing Ye for a Coin",
+  "triggers": [
+   "sing ye for a coin"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096191699944944087"
  }
 ]
