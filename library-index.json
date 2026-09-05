@@ -2714,14 +2714,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2089341606528795002"
  },
  {
-  "band": "Myco",
-  "name": "- The Beats Hit Different (When They Fund Forests)",
-  "triggers": [
-   "- the beats hit different (when they fund forests)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089437179986457002"
- },
- {
   "band": "EBM",
   "name": "Receipts",
   "triggers": [
@@ -7488,5 +7480,13 @@
    "building for the bulls"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096166468861731098"
+ },
+ {
+  "band": "Myco",
+  "name": "- The Beats Hit Different (When They Fund Forests)",
+  "triggers": [
+   "- the beats hit different (when they fund forests)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096186662875173315"
  }
 ]

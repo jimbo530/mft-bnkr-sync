@@ -240,14 +240,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "- The Beats Hit Different (When They Fund Forests)",
-  "triggers": [
-   "- the beats hit different (when they fund forests)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089437179986457002",
-  "tag": "$MfT"
- },
- {
   "name": "Forever Locked",
   "triggers": [
    "forever locked"
@@ -797,6 +789,14 @@
    "- crownless"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095985339512811831",
+  "tag": "$MfT"
+ },
+ {
+  "name": "- The Beats Hit Different (When They Fund Forests)",
+  "triggers": [
+   "- the beats hit different (when they fund forests)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096186662875173315",
   "tag": "$MfT"
  }
 ]
