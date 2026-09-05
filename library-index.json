@@ -4914,14 +4914,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2092381601581727872"
  },
  {
-  "band": "NN",
-  "name": "Can t Doomscroll And Dance",
-  "triggers": [
-   "can t doomscroll and dance"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092401666515497235"
- },
- {
   "band": "DGT",
   "name": "Second-Line For Your Fear",
   "triggers": [
@@ -7488,5 +7480,13 @@
    "before the drums wake"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096015483032015040"
+ },
+ {
+  "band": "NN",
+  "name": "Can t Doomscroll And Dance",
+  "triggers": [
+   "can t doomscroll and dance"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096035616957825479"
  }
 ]

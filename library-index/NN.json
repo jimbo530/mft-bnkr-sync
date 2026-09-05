@@ -228,14 +228,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Can t Doomscroll And Dance",
-  "triggers": [
-   "can t doomscroll and dance"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092401666515497235",
-  "tag": "$MfT"
- },
- {
   "name": "Golden On The Base Line",
   "triggers": [
    "golden on the base line"
@@ -377,6 +369,14 @@
    "the path to personal shows"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095738652831666569",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Can t Doomscroll And Dance",
+  "triggers": [
+   "can t doomscroll and dance"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096035616957825479",
   "tag": "$MfT"
  }
 ]
