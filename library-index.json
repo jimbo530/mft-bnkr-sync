@@ -2970,14 +2970,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2089834748675768620"
  },
  {
-  "band": "SEAS",
-  "name": "A Captain, Not A King",
-  "triggers": [
-   "a captain, not a king"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089854922191757416"
- },
- {
   "band": "Strut",
   "name": "Bow To Nobody (Dance With Everybody)",
   "triggers": [
@@ -7488,5 +7480,13 @@
    "fast as the forge-fire"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096060784417661368"
+ },
+ {
+  "band": "SEAS",
+  "name": "A Captain, Not A King",
+  "triggers": [
+   "a captain, not a king"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096065857470251437"
  }
 ]

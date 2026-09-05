@@ -25,14 +25,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "A Captain, Not A King",
-  "triggers": [
-   "a captain, not a king"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089854922191757416",
-  "tag": "$MfT"
- },
- {
   "name": "Feed Your Crew",
   "triggers": [
    "feed your crew"
@@ -78,6 +70,14 @@
    "pull for the horizon"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095688326955049239",
+  "tag": "$MfT"
+ },
+ {
+  "name": "A Captain, Not A King",
+  "triggers": [
+   "a captain, not a king"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096065857470251437",
   "tag": "$MfT"
  }
 ]

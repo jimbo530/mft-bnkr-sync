@@ -4768,19 +4768,6 @@
     "caption": "\"The Neighborly Lord\" — Jasmine\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2089854922191757416",
-    "translation": "A Captain, Not A King",
-    "name": "A Captain, Not A King",
-    "triggers": [
-      "a captain, not a king"
-    ],
-    "band": "SEAS",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2089854922191757416",
-    "caption": "\"A Captain, Not A King\" — Seize the Seas\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2089880049721733245",
     "translation": "Bow To Nobody (Dance With Everybody)",
     "name": "Bow To Nobody (Dance With Everybody)",
@@ -12138,5 +12125,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2096060784417661368",
     "caption": "\"Fast as the Forge-Fire\" — War Machine\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2096065857470251437",
+    "translation": "A Captain, Not A King",
+    "name": "A Captain, Not A King",
+    "triggers": [
+      "a captain, not a king"
+    ],
+    "band": "SEAS",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2096065857470251437",
+    "caption": "\"A Captain, Not A King\" — Seize the Seas\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
