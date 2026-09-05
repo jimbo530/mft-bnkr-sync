@@ -406,14 +406,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079771002322514242"
  },
  {
-  "band": "Rish",
-  "name": "The Town of the Cats",
-  "triggers": [
-   "the town of the cats"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079953621907554522"
- },
- {
   "band": null,
   "name": "show me the love",
   "triggers": [
@@ -7488,5 +7480,13 @@
    "the planter's rounds"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096141352845066254"
+ },
+ {
+  "band": "Rish",
+  "name": "The Town of the Cats",
+  "triggers": [
+   "the town of the cats"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096161440092528841"
  }
 ]

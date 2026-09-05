@@ -1,12 +1,5 @@
 [
  {
-  "name": "The Town of the Cats",
-  "triggers": [
-   "the town of the cats"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079953621907554522"
- },
- {
   "name": "Bet On Yourself",
   "triggers": [
    "bet on yourself"
@@ -333,6 +326,14 @@
    "the planter's rounds"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096141352845066254",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Town of the Cats",
+  "triggers": [
+   "the town of the cats"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096161440092528841",
   "tag": "$MfT"
  }
 ]
