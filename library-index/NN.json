@@ -75,14 +75,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Neighbors Now",
-  "triggers": [
-   "neighbors now"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086573328651747689",
-  "tag": "$MfT"
- },
- {
   "name": "The Lady Keeps the Leaves",
   "triggers": [
    "the lady keeps the leaves"
@@ -377,6 +369,14 @@
    "can t doomscroll and dance"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096035616957825479",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Neighbors Now",
+  "triggers": [
+   "neighbors now"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096262126037872658",
   "tag": "$MfT"
  }
 ]

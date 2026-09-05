@@ -923,14 +923,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086548201193037956"
  },
  {
-  "band": "NN",
-  "name": "Neighbors Now",
-  "triggers": [
-   "neighbors now"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086573328651747689"
- },
- {
   "band": "DD",
   "name": "Meme to a Mangrove",
   "triggers": [
@@ -7480,5 +7472,13 @@
    "hoodies for the people"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096241977536774150"
+ },
+ {
+  "band": "NN",
+  "name": "Neighbors Now",
+  "triggers": [
+   "neighbors now"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096262126037872658"
  }
 ]
