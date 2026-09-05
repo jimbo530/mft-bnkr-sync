@@ -315,14 +315,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079243269200834706"
  },
  {
-  "band": "EBM",
-  "name": "Building for the Bulls",
-  "triggers": [
-   "building for the bulls"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079250875076296731"
- },
- {
   "band": "HammerTone",
   "name": "The Grind Holds",
   "triggers": [
@@ -7488,5 +7480,13 @@
    "the town of the cats"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096161440092528841"
+ },
+ {
+  "band": "EBM",
+  "name": "Building for the Bulls",
+  "triggers": [
+   "building for the bulls"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096166468861731098"
  }
 ]

@@ -50,13 +50,6 @@
   ]
  },
  {
-  "name": "Building for the Bulls",
-  "triggers": [
-   "building for the bulls"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079250875076296731"
- },
- {
   "name": "Oldest Magic",
   "triggers": [
    "oldest magic"
@@ -847,6 +840,14 @@
    "clean the block"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096085948752679424",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Building for the Bulls",
+  "triggers": [
+   "building for the bulls"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096166468861731098",
   "tag": "$MfT"
  }
 ]

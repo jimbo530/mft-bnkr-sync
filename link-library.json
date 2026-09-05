@@ -473,20 +473,6 @@
     "boothCommission": "sg_mrtfs9bukx"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2079250875076296731",
-    "translation": "Building for the Bulls",
-    "name": "Building for the Bulls",
-    "triggers": [
-      "building for the bulls"
-    ],
-    "band": "EBM",
-    "tag": "",
-    "ca": "",
-    "xPost": "https://x.com/MemeForTrees/status/2079250875076296731",
-    "caption": "\"Building for the Bulls\" — EBM",
-    "boothCommission": "sg_mrtgtm17dm"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2079303270204383633",
     "translation": "The Grind Holds",
     "name": "The Grind Holds",
@@ -12136,5 +12122,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2096161440092528841",
     "caption": "\"The Town of the Cats\" — Rish\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2096166468861731098",
+    "translation": "Building for the Bulls",
+    "name": "Building for the Bulls",
+    "triggers": [
+      "building for the bulls"
+    ],
+    "band": "EBM",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2096166468861731098",
+    "caption": "\"Building for the Bulls\" — Elves of Ballinmoore\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
