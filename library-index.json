@@ -360,14 +360,6 @@
   "xPost": "https://x.com/RWIrobinhood/status/2079346822674272594"
  },
  {
-  "band": "JS",
-  "name": "Ko Came Early",
-  "triggers": [
-   "ko came early"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079605077359178222"
- },
- {
   "band": "Bongo",
   "name": "Pay the Bills (Then We Play)",
   "triggers": [
@@ -7480,5 +7472,13 @@
    "the magic s in the crowd"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096317478003425716"
+ },
+ {
+  "band": "JS",
+  "name": "Ko Came Early",
+  "triggers": [
+   "ko came early"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096337600214626385"
  }
 ]

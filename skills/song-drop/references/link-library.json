@@ -554,20 +554,6 @@
     "special": true
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2079605077359178222",
-    "translation": "Ko Came Early",
-    "name": "Ko Came Early",
-    "triggers": [
-      "ko came early"
-    ],
-    "band": "JS",
-    "tag": "",
-    "ca": "",
-    "xPost": "https://x.com/MemeForTrees/status/2079605077359178222",
-    "caption": "\"Ko Came Early\" — JS",
-    "boothCommission": "sg_mruv66i5bn"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2079622844602888196",
     "translation": "Pay the Bills (Then We Play)",
     "name": "Pay the Bills (Then We Play)",
@@ -12126,5 +12112,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2096317478003425716",
     "caption": "\"The Magic s in the Crowd\" — Jony Sings\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2096337600214626385",
+    "translation": "Ko Came Early",
+    "name": "Ko Came Early",
+    "triggers": [
+      "ko came early"
+    ],
+    "band": "JS",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2096337600214626385",
+    "caption": "\"Ko Came Early\" — Jony Sings\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

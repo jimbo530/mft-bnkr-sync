@@ -16,13 +16,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Ko Came Early",
-  "triggers": [
-   "ko came early"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079605077359178222"
- },
- {
   "name": "Concrete to Canopy",
   "triggers": [
    "concrete to canopy"
@@ -757,6 +750,14 @@
    "the magic s in the crowd"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096317478003425716",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Ko Came Early",
+  "triggers": [
+   "ko came early"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096337600214626385",
   "tag": "$MfT"
  }
 ]
