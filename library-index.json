@@ -434,14 +434,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079964634983858188"
  },
  {
-  "band": "JS",
-  "name": "A Buck and an Acorn",
-  "triggers": [
-   "a buck and an acorn"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079968651311010115"
- },
- {
   "band": "Jasmine",
   "name": "A Tool for Every Mile",
   "triggers": [
@@ -7488,5 +7480,13 @@
    "penny by penny"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096116182696784003"
+ },
+ {
+  "band": "JS",
+  "name": "A Buck and an Acorn",
+  "triggers": [
+   "a buck and an acorn"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096136269289910686"
  }
 ]

@@ -676,20 +676,6 @@
     "boothCommission": "sg_mrwa6j0j1d"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2079968651311010115",
-    "translation": "A Buck and an Acorn",
-    "name": "A Buck and an Acorn",
-    "triggers": [
-      "a buck and an acorn"
-    ],
-    "band": "JS",
-    "tag": "",
-    "ca": "",
-    "xPost": "https://x.com/MemeForTrees/status/2079968651311010115",
-    "caption": "\"A Buck and an Acorn\" — JS",
-    "boothCommission": "sg_mrwat6pt5j"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2079979817680724277",
     "translation": "A Tool for Every Mile",
     "name": "A Tool for Every Mile",
@@ -12138,5 +12124,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2096116182696784003",
     "caption": "\"Penny By Penny\" — Jony Sings\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2096136269289910686",
+    "translation": "A Buck and an Acorn",
+    "name": "A Buck and an Acorn",
+    "triggers": [
+      "a buck and an acorn"
+    ],
+    "band": "JS",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2096136269289910686",
+    "caption": "\"A Buck and an Acorn\" — Jony Sings\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

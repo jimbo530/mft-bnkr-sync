@@ -23,13 +23,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079605077359178222"
  },
  {
-  "name": "A Buck and an Acorn",
-  "triggers": [
-   "a buck and an acorn"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079968651311010115"
- },
- {
   "name": "Concrete to Canopy",
   "triggers": [
    "concrete to canopy"
@@ -756,6 +749,14 @@
    "penny by penny"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096116182696784003",
+  "tag": "$MfT"
+ },
+ {
+  "name": "A Buck and an Acorn",
+  "triggers": [
+   "a buck and an acorn"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096136269289910686",
   "tag": "$MfT"
  }
 ]
