@@ -2067,14 +2067,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086568295885418544"
  },
  {
-  "band": "Rish",
-  "name": "The Planter's Rounds",
-  "triggers": [
-   "the planter's rounds"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088445590526898461"
- },
- {
   "band": "Bongo",
   "name": "For No Reason at All (The Coin Song)",
   "triggers": [
@@ -7488,5 +7480,13 @@
    "a buck and an acorn"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096136269289910686"
+ },
+ {
+  "band": "Rish",
+  "name": "The Planter's Rounds",
+  "triggers": [
+   "the planter's rounds"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096141352845066254"
  }
 ]

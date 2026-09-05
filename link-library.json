@@ -3314,19 +3314,6 @@
     "caption": "🎵 \"Slow Trees, Fast Drums\" — Bongo\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2088445590526898461",
-    "translation": "The Planter's Rounds",
-    "name": "The Planter's Rounds",
-    "triggers": [
-      "the planter's rounds"
-    ],
-    "band": "Rish",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2088445590526898461",
-    "caption": "🎵 \"The Planter's Rounds\" — Rish\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2086588479723495735",
     "translation": "For No Reason at All (The Coin Song)",
     "name": "For No Reason at All (The Coin Song)",
@@ -12137,5 +12124,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2096136269289910686",
     "caption": "\"A Buck and an Acorn\" — Jony Sings\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2096141352845066254",
+    "translation": "The Planter's Rounds",
+    "name": "The Planter's Rounds",
+    "triggers": [
+      "the planter's rounds"
+    ],
+    "band": "Rish",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2096141352845066254",
+    "caption": "\"The Planter's Rounds\" — Rish\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

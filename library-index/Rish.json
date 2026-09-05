@@ -103,14 +103,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Planter's Rounds",
-  "triggers": [
-   "the planter's rounds"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088445590526898461",
-  "tag": "$MfT"
- },
- {
   "name": "Will Ye Join the Crew",
   "triggers": [
    "will ye join the crew"
@@ -333,6 +325,14 @@
    "two shores, one agent"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095713494477725779",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Planter's Rounds",
+  "triggers": [
+   "the planter's rounds"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096141352845066254",
   "tag": "$MfT"
  }
 ]
