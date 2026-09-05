@@ -4030,19 +4030,6 @@
     "caption": "🎵 \"Mycelium Never Empties\" — Myco\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2089049626078781868",
-    "translation": "Penny By Penny",
-    "name": "Penny By Penny",
-    "triggers": [
-      "penny by penny"
-    ],
-    "band": "JS",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2089049626078781868",
-    "caption": "🎵 \"Penny By Penny\" — Jony Sings\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2089064763934281783",
     "translation": "The Vault That Keeps Its Word",
     "name": "The Vault That Keeps Its Word",
@@ -12138,5 +12125,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2096111125674737962",
     "caption": "\"Proof of Function\" — CB\npress play, plant trees\n\nThank you @artizen for including our Crypto Endowment Network in Season 7 💚 the bands sing their gratitude better than we can say it 🌱"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2096116182696784003",
+    "translation": "Penny By Penny",
+    "name": "Penny By Penny",
+    "triggers": [
+      "penny by penny"
+    ],
+    "band": "JS",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2096116182696784003",
+    "caption": "\"Penny By Penny\" — Jony Sings\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

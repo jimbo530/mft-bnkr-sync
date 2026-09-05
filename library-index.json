@@ -2507,14 +2507,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2089029514684674155"
  },
  {
-  "band": "JS",
-  "name": "Penny By Penny",
-  "triggers": [
-   "penny by penny"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089049626078781868"
- },
- {
   "band": "DGT",
   "name": "The Vault That Keeps Its Word",
   "triggers": [
@@ -7488,5 +7480,13 @@
    "proof of function"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096111125674737962"
+ },
+ {
+  "band": "JS",
+  "name": "Penny By Penny",
+  "triggers": [
+   "penny by penny"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096116182696784003"
  }
 ]

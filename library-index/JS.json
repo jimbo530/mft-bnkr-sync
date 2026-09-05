@@ -142,14 +142,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Penny By Penny",
-  "triggers": [
-   "penny by penny"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089049626078781868",
-  "tag": "$MfT"
- },
- {
   "name": "Repost For The Forest",
   "triggers": [
    "repost for the forest"
@@ -756,6 +748,14 @@
    "friday on the green"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095990317266731389",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Penny By Penny",
+  "triggers": [
+   "penny by penny"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096116182696784003",
   "tag": "$MfT"
  }
 ]
