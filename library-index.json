@@ -2018,14 +2018,6 @@
  },
  {
   "band": "Bongo",
-  "name": "Slow Trees, Fast Drums",
-  "triggers": [
-   "slow trees, fast drums"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086568295885418544"
- },
- {
-  "band": "Bongo",
   "name": "For No Reason at All (The Coin Song)",
   "triggers": [
    "for no reason at all (the coin song)"
@@ -7486,5 +7478,13 @@
    "first everybody builds"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096216861629141241"
+ },
+ {
+  "band": "Bongo",
+  "name": "Slow Trees, Fast Drums",
+  "triggers": [
+   "slow trees, fast drums"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096236992899985464"
  }
 ]
