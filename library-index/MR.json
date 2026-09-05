@@ -63,14 +63,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "First Everybody Builds",
-  "triggers": [
-   "first everybody builds"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086910479545340367",
-  "tag": "$MfT"
- },
- {
   "name": "The Long Rain Feeds",
   "triggers": [
    "the long rain feeds"
@@ -405,6 +397,14 @@
    "before the drums wake"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096015483032015040",
+  "tag": "$MfT"
+ },
+ {
+  "name": "First Everybody Builds",
+  "triggers": [
+   "first everybody builds"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096216861629141241",
   "tag": "$MfT"
  }
 ]
