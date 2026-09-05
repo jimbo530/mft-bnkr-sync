@@ -1067,14 +1067,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2087519564498079893"
  },
  {
-  "band": "DD",
-  "name": "The Sun Comes Back",
-  "triggers": [
-   "the sun comes back"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087524629686436080"
- },
- {
   "band": "Jasmine",
   "name": "Come and Stay Free",
   "triggers": [
@@ -7480,5 +7472,13 @@
    "the town that grew a monkey"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096342701050335705"
+ },
+ {
+  "band": "DD",
+  "name": "The Sun Comes Back",
+  "triggers": [
+   "the sun comes back"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096362823316132023"
  }
 ]
