@@ -1771,14 +1771,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2083704336857653278"
  },
  {
-  "band": "JS",
-  "name": "The Magic s in the Crowd",
-  "triggers": [
-   "the magic s in the crowd"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088586540343542188"
- },
- {
   "band": "MV",
   "name": "Jony Sings - Living it Up",
   "triggers": [
@@ -7480,5 +7472,13 @@
    "the party needs no king"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096312499381363119"
+ },
+ {
+  "band": "JS",
+  "name": "The Magic s in the Crowd",
+  "triggers": [
+   "the magic s in the crowd"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096317478003425716"
  }
 ]
