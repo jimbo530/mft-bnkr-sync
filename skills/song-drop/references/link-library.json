@@ -1872,19 +1872,6 @@
     "caption": "\"She Just Said It\" — Jony Sings\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2087625196467339268",
-    "translation": "Dig a Little Deeper",
-    "name": "Dig a Little Deeper",
-    "triggers": [
-      "dig a little deeper"
-    ],
-    "band": "DD",
-    "tag": "$MfT",
-    "ca": "0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3",
-    "xPost": "https://x.com/MemeForTrees/status/2087625196467339268",
-    "caption": "\"Dig a Little Deeper\" — Digerie Dude\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2087640355285909890",
     "translation": "Love Is the Light",
     "name": "Love Is the Light",
@@ -12138,5 +12125,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2096085948752679424",
     "caption": "\"Clean the Block\" — Elves of Ballinmoore\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2096091023743001075",
+    "translation": "Dig a Little Deeper",
+    "name": "Dig a Little Deeper",
+    "triggers": [
+      "dig a little deeper"
+    ],
+    "band": "DD",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2096091023743001075",
+    "caption": "\"Dig a Little Deeper\" — Digerie Dude\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
