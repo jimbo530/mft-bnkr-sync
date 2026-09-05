@@ -2187,14 +2187,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2085460913730073037"
  },
  {
-  "band": "DD",
-  "name": "The Town That Grew A Monkey",
-  "triggers": [
-   "the town that grew a monkey"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087902030442496256"
- },
- {
   "band": "Myco",
   "name": "Name It Once (Monkey Town)",
   "triggers": [
@@ -7480,5 +7472,13 @@
    "ko came early"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096337600214626385"
+ },
+ {
+  "band": "DD",
+  "name": "The Town That Grew A Monkey",
+  "triggers": [
+   "the town that grew a monkey"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096342701050335705"
  }
 ]
