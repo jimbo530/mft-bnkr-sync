@@ -1,15 +1,5 @@
 [
  {
-  "name": "Raise the Cracks",
-  "triggers": [
-   "raise the cracks",
-   "gurdy raise the cracks",
-   "the cracks song"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2067210695083528216",
-  "tag": "$MfT"
- },
- {
   "name": "No Saints, Just Us",
   "triggers": [
    "no saints just us",
@@ -73,6 +63,14 @@
    "crank the wheel (monkey town)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095084373255102679",
+  "tag": "$MfT"
+ },
+ {
+  "name": "RAISE THE CRACKS",
+  "triggers": [
+   "raise the cracks"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096211797334261827",
   "tag": "$MfT"
  }
 ]

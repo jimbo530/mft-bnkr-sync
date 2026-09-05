@@ -449,16 +449,6 @@
  },
  {
   "band": "Gurdy",
-  "name": "Raise the Cracks",
-  "triggers": [
-   "raise the cracks",
-   "gurdy raise the cracks",
-   "the cracks song"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2067210695083528216"
- },
- {
-  "band": "Gurdy",
   "name": "No Saints, Just Us",
   "triggers": [
    "no saints just us",
@@ -7488,5 +7478,13 @@
    "sing ye for a coin"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096191699944944087"
+ },
+ {
+  "band": "Gurdy",
+  "name": "RAISE THE CRACKS",
+  "triggers": [
+   "raise the cracks"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096211797334261827"
  }
 ]
