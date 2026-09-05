@@ -43,14 +43,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "A Damned Good Time",
-  "triggers": [
-   "a damned good time"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085536476754829515",
-  "tag": "$MfT"
- },
- {
   "name": "Gone in a Second",
   "triggers": [
    "gone in a second"
@@ -225,6 +217,14 @@
    "one more night at shillwood"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096040733740253616",
+  "tag": "$MfT"
+ },
+ {
+  "name": "A Damned Good Time",
+  "triggers": [
+   "a damned good time"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096267244518945096",
   "tag": "$MfT"
  }
 ]

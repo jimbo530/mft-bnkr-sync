@@ -937,19 +937,6 @@
     "caption": "\"It Feeds Its Own Fire\" — Moon Rasta\ndance to defend the earth\n\n$MfT 0x8d669b539C7801c1271BC484Bdd8a6084b7788e7"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2085536476754829515",
-    "translation": "A Damned Good Time",
-    "name": "A Damned Good Time",
-    "triggers": [
-      "a damned good time"
-    ],
-    "band": "DGT",
-    "tag": "$MfT",
-    "ca": "0x52414B7cD2FA723E1c8f9295EB29F16d15aA7BB9",
-    "xPost": "https://x.com/MemeForTrees/status/2085536476754829515",
-    "caption": "\"A Damned Good Time\" — Damned Good Time Orchestra\nevery listen grows the jungle\n\n$MfT 0x52414B7cD2FA723E1c8f9295EB29F16d15aA7BB9"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2085616930602225721",
     "translation": "The Kindest Well",
     "name": "The Kindest Well",
@@ -12126,5 +12113,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2096262126037872658",
     "caption": "\"Neighbors Now\" — Natilie Nightclub\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2096267244518945096",
+    "translation": "A Damned Good Time",
+    "name": "A Damned Good Time",
+    "triggers": [
+      "a damned good time"
+    ],
+    "band": "DGT",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2096267244518945096",
+    "caption": "\"A Damned Good Time\" — Damned Good Time Orchestra\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

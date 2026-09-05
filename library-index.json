@@ -603,14 +603,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2085516292136571122"
  },
  {
-  "band": "DGT",
-  "name": "A Damned Good Time",
-  "triggers": [
-   "a damned good time"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085536476754829515"
- },
- {
   "band": "Rish",
   "name": "The Kindest Well",
   "triggers": [
@@ -7480,5 +7472,13 @@
    "neighbors now"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096262126037872658"
+ },
+ {
+  "band": "DGT",
+  "name": "A Damned Good Time",
+  "triggers": [
+   "a damned good time"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096267244518945096"
  }
 ]
