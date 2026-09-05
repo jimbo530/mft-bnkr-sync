@@ -1420,14 +1420,6 @@
  },
  {
   "band": "DGT",
-  "name": "One More Night at Shillwood",
-  "triggers": [
-   "one more night at shillwood"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088526131699884391"
- },
- {
-  "band": "DGT",
   "name": "We Built the Furnace Ourselves",
   "triggers": [
    "we built the furnace ourselves"
@@ -7488,5 +7480,13 @@
    "can t doomscroll and dance"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096035616957825479"
+ },
+ {
+  "band": "DGT",
+  "name": "One More Night at Shillwood",
+  "triggers": [
+   "one more night at shillwood"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096040733740253616"
  }
 ]
