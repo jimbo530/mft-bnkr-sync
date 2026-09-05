@@ -285,20 +285,6 @@
   "promote": true
  },
  {
-  "band": "EBM",
-  "name": "Hoodies for the People",
-  "triggers": [
-   "hoodies for the people"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079217700354625599",
-  "topics": [
-   "hoodies",
-   "merch",
-   "warm",
-   "people"
-  ]
- },
- {
   "band": "Bongo",
   "name": "1,312 Jpegs",
   "triggers": [
@@ -7486,5 +7472,13 @@
    "slow trees, fast drums"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096236992899985464"
+ },
+ {
+  "band": "EBM",
+  "name": "Hoodies for the People",
+  "triggers": [
+   "hoodies for the people"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096241977536774150"
  }
 ]

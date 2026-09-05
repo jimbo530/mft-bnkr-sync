@@ -425,26 +425,6 @@
     "promote": true
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2079217700354625599",
-    "translation": "Hoodies for the People",
-    "name": "Hoodies for the People",
-    "triggers": [
-      "hoodies for the people"
-    ],
-    "band": "EBM",
-    "tag": "",
-    "ca": "",
-    "xPost": "https://x.com/MemeForTrees/status/2079217700354625599",
-    "caption": "\"Hoodies for the People\" — EBM",
-    "boothCommission": "sg_mrtc9j1z1a",
-    "topics": [
-      "hoodies",
-      "merch",
-      "warm",
-      "people"
-    ]
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2079224666451808414",
     "translation": "1,312 Jpegs",
     "name": "1,312 Jpegs",
@@ -12133,5 +12113,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2096236992899985464",
     "caption": "\"Slow Trees, Fast Drums\" — Bongo\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2096241977536774150",
+    "translation": "Hoodies for the People",
+    "name": "Hoodies for the People",
+    "triggers": [
+      "hoodies for the people"
+    ],
+    "band": "EBM",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2096241977536774150",
+    "caption": "\"Hoodies for the People\" — Elves of Ballinmoore\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
