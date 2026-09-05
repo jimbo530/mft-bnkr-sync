@@ -2802,14 +2802,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2089482503237107874"
  },
  {
-  "band": "CB",
-  "name": "Proof of Function",
-  "triggers": [
-   "proof of function"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089517676129292434"
- },
- {
   "band": "Strut",
   "name": "Clown Around Town",
   "triggers": [
@@ -7488,5 +7480,13 @@
    "dig a little deeper"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096091023743001075"
+ },
+ {
+  "band": "CB",
+  "name": "Proof of Function",
+  "triggers": [
+   "proof of function"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096111125674737962"
  }
 ]

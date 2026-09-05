@@ -201,14 +201,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Proof of Function",
-  "triggers": [
-   "proof of function"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089517676129292434",
-  "tag": "$MfT"
- },
- {
   "name": "The Based Lord",
   "triggers": [
    "the based lord"
@@ -502,6 +494,14 @@
    "two chains, one forward"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095970253385637962",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Proof of Function",
+  "triggers": [
+   "proof of function"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096111125674737962",
   "tag": "$MfT"
  }
 ]
