@@ -2826,14 +2826,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2089784498124734503"
  },
  {
-  "band": "Jasmine",
-  "name": "The Neighborly Lord",
-  "triggers": [
-   "the neighborly lord"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089834748675768620"
- },
- {
   "band": "Strut",
   "name": "Bow To Nobody (Dance With Everybody)",
   "triggers": [
@@ -7480,5 +7472,13 @@
    "a damned good time"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096267244518945096"
+ },
+ {
+  "band": "Jasmine",
+  "name": "The Neighborly Lord",
+  "triggers": [
+   "the neighborly lord"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096287333695770999"
  }
 ]
