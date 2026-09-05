@@ -129,14 +129,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Party Needs No King",
-  "triggers": [
-   "the party needs no king"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089759339485569089",
-  "tag": "$MfT"
- },
- {
   "name": "Blessed. Again.",
   "triggers": [
    "blessed. again."
@@ -350,6 +342,14 @@
    "slow trees, fast drums"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096236992899985464",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Party Needs No King",
+  "triggers": [
+   "the party needs no king"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096312499381363119",
   "tag": "$MfT"
  }
 ]

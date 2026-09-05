@@ -2786,14 +2786,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2089744256797667542"
  },
  {
-  "band": "Bongo",
-  "name": "The Party Needs No King",
-  "triggers": [
-   "the party needs no king"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089759339485569089"
- },
- {
   "band": "ALAN",
   "name": "The Lord Who Rules Nobody",
   "triggers": [
@@ -7480,5 +7472,13 @@
    "attention tree appreciators"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096292321687945612"
+ },
+ {
+  "band": "Bongo",
+  "name": "The Party Needs No King",
+  "triggers": [
+   "the party needs no king"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096312499381363119"
  }
 ]
