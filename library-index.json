@@ -5788,14 +5788,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094173392618266891"
  },
  {
-  "band": "EBM",
-  "name": "Mutiny",
-  "triggers": [
-   "mutiny"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094188454171050102"
- },
- {
   "band": "Rish",
   "name": "The Love You Give",
   "triggers": [
@@ -7482,5 +7474,13 @@
    "money that feeds"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096710095287591380"
+ },
+ {
+  "band": "EBM",
+  "name": "Mutiny",
+  "triggers": [
+   "mutiny"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096735255688303075"
  }
 ]
