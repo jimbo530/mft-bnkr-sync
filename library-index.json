@@ -1061,14 +1061,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2087927214616547518"
  },
  {
-  "band": "EBM",
-  "name": "The Bulletin",
-  "triggers": [
-   "the bulletin"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087942274197963117"
- },
- {
   "band": "NN",
   "name": "Toast to Tomorrow",
   "triggers": [
@@ -7482,5 +7474,13 @@
    "- mycelium never empties"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096619562003272092"
+ },
+ {
+  "band": "EBM",
+  "name": "The Bulletin",
+  "triggers": [
+   "the bulletin"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096634562218483896"
  }
 ]

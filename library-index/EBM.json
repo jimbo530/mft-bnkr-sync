@@ -93,14 +93,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Bulletin",
-  "triggers": [
-   "the bulletin"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087942274197963117",
-  "tag": "$MfT"
- },
- {
   "name": "The Good Word",
   "triggers": [
    "the good word"
@@ -843,6 +835,14 @@
    "the first joke"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096543965226906022",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Bulletin",
+  "triggers": [
+   "the bulletin"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096634562218483896",
   "tag": "$MfT"
  }
 ]
