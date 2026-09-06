@@ -15,13 +15,6 @@
   "promote": true
  },
  {
-  "name": "Bad for Business",
-  "triggers": [
-   "bad for business"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079545861537771528"
- },
- {
   "name": "It Does It for You",
   "triggers": [
    "it does it for you"
@@ -372,6 +365,14 @@
    "hoodies keep me warm"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096387938871341397",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Bad for Business",
+  "triggers": [
+   "bad for business"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096443314396389388",
   "tag": "$MfT"
  }
 ]

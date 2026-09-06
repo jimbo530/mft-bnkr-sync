@@ -327,14 +327,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079388587297038636"
  },
  {
-  "band": "NN",
-  "name": "Bad for Business",
-  "triggers": [
-   "bad for business"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079545861537771528"
- },
- {
   "band": null,
   "name": "whats new with RWI",
   "triggers": [
@@ -7474,5 +7466,13 @@
    "revolution of money"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096438310704947433"
+ },
+ {
+  "band": "NN",
+  "name": "Bad for Business",
+  "triggers": [
+   "bad for business"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096443314396389388"
  }
 ]
