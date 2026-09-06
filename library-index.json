@@ -2293,14 +2293,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088969108108767470"
  },
  {
-  "band": "WarMachine",
-  "name": "An Army Behind You",
-  "triggers": [
-   "an army behind you"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088989207297503654"
- },
- {
   "band": "Biggins",
   "name": "Built To Outlast",
   "triggers": [
@@ -7474,5 +7466,13 @@
    "everyone onchain by friday"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096413116879737251"
+ },
+ {
+  "band": "WarMachine",
+  "name": "An Army Behind You",
+  "triggers": [
+   "an army behind you"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096418182328135724"
  }
 ]
