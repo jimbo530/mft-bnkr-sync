@@ -23,14 +23,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "It Feeds Its Own Fire",
-  "triggers": [
-   "it feeds its own fire"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085516292136571122",
-  "tag": "$MfT"
- },
- {
   "name": "Love Does the Growing",
   "triggers": [
    "love does the growing"
@@ -405,6 +397,14 @@
    "five hundred homes"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096659722896118233",
+  "tag": "$MfT"
+ },
+ {
+  "name": "It Feeds Its Own Fire",
+  "triggers": [
+   "it feeds its own fire"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096664801615163803",
   "tag": "$MfT"
  }
 ]

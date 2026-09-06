@@ -841,19 +841,6 @@
     "caption": "\"Will Ye Come to Shillwood\" — Rish\npress play, plant trees\n\ngrab a monkey, name him forever, feed him a banana a day — a Monkey Town wallet takes just an email:\nhttps://tasern.quest/monkeytown\n\n$MfT 0x31c600871603bab5d855463E03c6d0a9eB661D26"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2085516292136571122",
-    "translation": "It Feeds Its Own Fire",
-    "name": "It Feeds Its Own Fire",
-    "triggers": [
-      "it feeds its own fire"
-    ],
-    "band": "MR",
-    "tag": "$MfT",
-    "ca": "0x8d669b539C7801c1271BC484Bdd8a6084b7788e7",
-    "xPost": "https://x.com/MemeForTrees/status/2085516292136571122",
-    "caption": "\"It Feeds Its Own Fire\" — Moon Rasta\ndance to defend the earth\n\n$MfT 0x8d669b539C7801c1271BC484Bdd8a6084b7788e7"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2085616930602225721",
     "translation": "The Kindest Well",
     "name": "The Kindest Well",
@@ -12134,5 +12121,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2096659722896118233",
     "caption": "\"Five Hundred Homes\" — Moon Rasta\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2096664801615163803",
+    "translation": "It Feeds Its Own Fire",
+    "name": "It Feeds Its Own Fire",
+    "triggers": [
+      "it feeds its own fire"
+    ],
+    "band": "MR",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2096664801615163803",
+    "caption": "\"It Feeds Its Own Fire\" — Moon Rasta\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
