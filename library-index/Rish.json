@@ -1,13 +1,5 @@
 [
  {
-  "name": "Bet On Yourself",
-  "triggers": [
-   "bet on yourself"
-  ],
-  "xPost": "https://x.com/MonkyTownWallet/status/2083339351753109931",
-  "tag": "$MfT"
- },
- {
   "name": "Will Ye Come to Shillwood",
   "triggers": [
    "will ye come to shillwood"
@@ -334,6 +326,14 @@
    "sing ye for a coin"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096191699944944087",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Bet On Yourself",
+  "triggers": [
+   "bet on yourself"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096589323353088097",
   "tag": "$MfT"
  }
 ]
