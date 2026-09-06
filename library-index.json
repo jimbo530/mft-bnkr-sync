@@ -2301,14 +2301,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2089029514684674155"
  },
  {
-  "band": "DGT",
-  "name": "The Vault That Keeps Its Word",
-  "triggers": [
-   "the vault that keeps its word"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089064763934281783"
- },
- {
   "band": "HammerTone",
   "name": "The Vault Sealed by Oath",
   "triggers": [
@@ -7482,5 +7474,13 @@
    "back the beginning"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096468473039798561"
+ },
+ {
+  "band": "DGT",
+  "name": "The Vault That Keeps Its Word",
+  "triggers": [
+   "the vault that keeps its word"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096488735126819262"
  }
 ]
