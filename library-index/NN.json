@@ -15,19 +15,6 @@
   "promote": true
  },
  {
-  "name": "Hoodies Keep Me Warm",
-  "triggers": [
-   "hoodies keep me warm"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079210547178836131",
-  "topics": [
-   "hoodies",
-   "merch",
-   "cozy",
-   "warm"
-  ]
- },
- {
   "name": "Bad for Business",
   "triggers": [
    "bad for business"
@@ -377,6 +364,14 @@
    "neighbors now"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096262126037872658",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Hoodies Keep Me Warm",
+  "triggers": [
+   "hoodies keep me warm"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096387938871341397",
   "tag": "$MfT"
  }
 ]

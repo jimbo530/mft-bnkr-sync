@@ -215,20 +215,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079194675387244947"
  },
  {
-  "band": "NN",
-  "name": "Hoodies Keep Me Warm",
-  "triggers": [
-   "hoodies keep me warm"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079210547178836131",
-  "topics": [
-   "hoodies",
-   "merch",
-   "cozy",
-   "warm"
-  ]
- },
- {
   "band": null,
   "name": "the meme that feeds people",
   "triggers": [
@@ -7480,5 +7466,13 @@
    "rain is the reason"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096367860310331840"
+ },
+ {
+  "band": "NN",
+  "name": "Hoodies Keep Me Warm",
+  "triggers": [
+   "hoodies keep me warm"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096387938871341397"
  }
 ]
