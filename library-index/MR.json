@@ -39,14 +39,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Five Hundred Homes",
-  "triggers": [
-   "five hundred homes"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086457563877437482",
-  "tag": "$MfT"
- },
- {
   "name": "The Morning Wind Provides",
   "triggers": [
    "the morning wind provides"
@@ -405,6 +397,14 @@
    "first everybody builds"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096216861629141241",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Five Hundred Homes",
+  "triggers": [
+   "five hundred homes"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096659722896118233",
   "tag": "$MfT"
  }
 ]
