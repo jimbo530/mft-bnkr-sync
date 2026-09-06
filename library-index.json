@@ -613,14 +613,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2085898779476082757"
  },
  {
-  "band": "Myco",
-  "name": "New Soil",
-  "triggers": [
-   "new soil"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085903858455159228"
- },
- {
   "band": "Rish",
   "name": "Round Up the Good Ones",
   "triggers": [
@@ -7482,5 +7474,13 @@
    "no chains in the garden"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096674862609596841"
+ },
+ {
+  "band": "Myco",
+  "name": "New Soil",
+  "triggers": [
+   "new soil"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096679910018322693"
  }
 ]
