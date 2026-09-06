@@ -645,14 +645,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2085843458757976396"
  },
  {
-  "band": "EBM",
-  "name": "No Hands",
-  "triggers": [
-   "no hands"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085858566804541628"
- },
- {
   "band": "NN",
   "name": "Keep Your Purse",
   "triggers": [
@@ -7482,5 +7474,13 @@
    "the vault that keeps its word"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096488735126819262"
+ },
+ {
+  "band": "EBM",
+  "name": "No Hands",
+  "triggers": [
+   "no hands"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096493636699509206"
  }
 ]
