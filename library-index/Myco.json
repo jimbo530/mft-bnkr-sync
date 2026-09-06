@@ -806,5 +806,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096564165112459756",
   "tag": "$MfT"
+ },
+ {
+  "name": "- Mycelium Never Empties",
+  "triggers": [
+   "- mycelium never empties"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096619562003272092",
+  "tag": "$MfT"
  }
 ]
