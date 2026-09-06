@@ -1973,14 +1973,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088370091461153000"
  },
  {
-  "band": "Bongo",
-  "name": "Welcome To Monkey Town (Name Him Once!)",
-  "triggers": [
-   "welcome to monkey town (name him once!)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085460913730073037"
- },
- {
   "band": "Myco",
   "name": "Name It Once (Monkey Town)",
   "triggers": [
@@ -7482,5 +7474,13 @@
    "mutiny"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096735255688303075"
+ },
+ {
+  "band": "Bongo",
+  "name": "Welcome To Monkey Town (Name Him Once!)",
+  "triggers": [
+   "welcome to monkey town (name him once!)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096740300542636468"
  }
 ]
