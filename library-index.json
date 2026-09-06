@@ -2189,14 +2189,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088828129259250015"
  },
  {
-  "band": "JS",
-  "name": "Back The Beginning",
-  "triggers": [
-   "back the beginning"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088833200571171002"
- },
- {
   "band": "Gurdy",
   "name": "Someone Bet on Me",
   "triggers": [
@@ -7482,5 +7474,13 @@
    "- two currents, one flow"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096463495776575893"
+ },
+ {
+  "band": "JS",
+  "name": "Back The Beginning",
+  "triggers": [
+   "back the beginning"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096468473039798561"
  }
 ]
