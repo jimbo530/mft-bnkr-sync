@@ -877,14 +877,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086613597921157226"
  },
  {
-  "band": "DD",
-  "name": "Every Road a Grove",
-  "triggers": [
-   "every road a grove"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086653857942168030"
- },
- {
   "band": "Rish",
   "name": "The First Loaf",
   "triggers": [
@@ -7482,5 +7474,13 @@
    "no hands"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096493636699509206"
+ },
+ {
+  "band": "DD",
+  "name": "Every Road a Grove",
+  "triggers": [
+   "every road a grove"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096513770935681211"
  }
 ]

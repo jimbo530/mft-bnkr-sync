@@ -1383,19 +1383,6 @@
     "caption": "\"It Keeps Itself Alive\" — CB\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2086653857942168030",
-    "translation": "Every Road a Grove",
-    "name": "Every Road a Grove",
-    "triggers": [
-      "every road a grove"
-    ],
-    "band": "DD",
-    "tag": "$MfT",
-    "ca": "0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3",
-    "xPost": "https://x.com/MemeForTrees/status/2086653857942168030",
-    "caption": "\"Every Road a Grove\" — Digerie Dude\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2086694161546109383",
     "translation": "The First Loaf",
     "name": "The First Loaf",
@@ -12130,5 +12117,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2096493636699509206",
     "caption": "\"No Hands\" — Elves of Ballinmoore\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2096513770935681211",
+    "translation": "Every Road a Grove",
+    "name": "Every Road a Grove",
+    "triggers": [
+      "every road a grove"
+    ],
+    "band": "DD",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2096513770935681211",
+    "caption": "\"Every Road a Grove\" — Digerie Dude\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

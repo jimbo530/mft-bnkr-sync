@@ -48,14 +48,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Every Road a Grove",
-  "triggers": [
-   "every road a grove"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086653857942168030",
-  "tag": "$MfT"
- },
- {
   "name": "A Pouch That Holds It All",
   "triggers": [
    "a pouch that holds it all"
@@ -462,6 +454,14 @@
    "the sun comes back"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096362823316132023",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Every Road a Grove",
+  "triggers": [
+   "every road a grove"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096513770935681211",
   "tag": "$MfT"
  }
 ]
