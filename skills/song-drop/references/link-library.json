@@ -1426,19 +1426,6 @@
     "caption": "\"The Lady Keeps the Leaves\" — Natilie Nightclub\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2086850090027700725",
-    "translation": "Stands On Its Own",
-    "name": "Stands On Its Own",
-    "triggers": [
-      "stands on its own"
-    ],
-    "band": "JS",
-    "tag": "$MfT",
-    "ca": "0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65",
-    "xPost": "https://x.com/MemeForTrees/status/2086850090027700725",
-    "caption": "\"Stands On Its Own\" — Jony Sings\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2086970919851860164",
     "translation": "STILL HERE FORWARD",
     "name": "STILL HERE FORWARD",
@@ -12121,5 +12108,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2096564165112459756",
     "caption": "\"- Roots That Hold\" — Myco\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2096569178568147367",
+    "translation": "Stands On Its Own",
+    "name": "Stands On Its Own",
+    "triggers": [
+      "stands on its own"
+    ],
+    "band": "JS",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2096569178568147367",
+    "caption": "\"Stands On Its Own\" — Jony Sings\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

@@ -901,14 +901,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086829995075293637"
  },
  {
-  "band": "JS",
-  "name": "Stands On Its Own",
-  "triggers": [
-   "stands on its own"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086850090027700725"
- },
- {
   "band": "CB",
   "name": "STILL HERE FORWARD",
   "triggers": [
@@ -7474,5 +7466,13 @@
    "roots that hold"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096564165112459756"
+ },
+ {
+  "band": "JS",
+  "name": "Stands On Its Own",
+  "triggers": [
+   "stands on its own"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096569178568147367"
  }
 ]
