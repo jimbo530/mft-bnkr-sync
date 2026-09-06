@@ -1,20 +1,5 @@
 [
  {
-  "name": "Grow Something Great",
-  "triggers": [
-   "grow something great"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079186043362812034",
-  "topics": [
-   "unity",
-   "global",
-   "japanese",
-   "world",
-   "together"
-  ],
-  "promote": true
- },
- {
   "name": "It Does It for You",
   "triggers": [
    "it does it for you"
@@ -373,6 +358,14 @@
    "bad for business"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096443314396389388",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Grow Something Great",
+  "triggers": [
+   "grow something great"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096518806390595622",
   "tag": "$MfT"
  }
 ]

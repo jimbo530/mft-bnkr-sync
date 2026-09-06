@@ -191,22 +191,6 @@
   ]
  },
  {
-  "band": "NN",
-  "name": "Grow Something Great",
-  "triggers": [
-   "grow something great"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079186043362812034",
-  "topics": [
-   "unity",
-   "global",
-   "japanese",
-   "world",
-   "together"
-  ],
-  "promote": true
- },
- {
   "band": "EBM",
   "name": "Street Mint",
   "triggers": [
@@ -7482,5 +7466,13 @@
    "every road a grove"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096513770935681211"
+ },
+ {
+  "band": "NN",
+  "name": "Grow Something Great",
+  "triggers": [
+   "grow something great"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096518806390595622"
  }
 ]
