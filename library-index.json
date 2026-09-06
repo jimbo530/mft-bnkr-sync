@@ -653,14 +653,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2085783064102281655"
  },
  {
-  "band": "JS",
-  "name": "Tally at the Muster",
-  "triggers": [
-   "tally at the muster"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085798182257140160"
- },
- {
   "band": "MR",
   "name": "Love Does the Growing",
   "triggers": [
@@ -7474,5 +7466,13 @@
    "hoodies keep me warm"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096387938871341397"
+ },
+ {
+  "band": "JS",
+  "name": "Tally at the Muster",
+  "triggers": [
+   "tally at the muster"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096393029049303128"
  }
 ]

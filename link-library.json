@@ -1020,19 +1020,6 @@
     "caption": "\"The Grove Remembers Who Showed Up\" — Elves of Ballinmoore\npress play, plant trees\n\nHelp EBM win the tree funding race — deposits welcome, withdraw anytime, the trees stay:\nhttps://tasern.quest/ebm-vault.html\n\ngrab a monkey, name him forever, feed him a banana a day — a Monkey Town wallet takes just an email:\nhttps://tasern.quest/monkeytown\n\n$MfT 0xF113fe2A0E1181A21fA97B1F52ff232140B7692d"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2085798182257140160",
-    "translation": "Tally at the Muster",
-    "name": "Tally at the Muster",
-    "triggers": [
-      "tally at the muster"
-    ],
-    "band": "JS",
-    "tag": "$MfT",
-    "ca": "0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65",
-    "xPost": "https://x.com/MemeForTrees/status/2085798182257140160",
-    "caption": "\"Tally at the Muster\" — Jony Sings\nlisten, like, and share to fund forests\n\nthe band works for a dollar — your song, their voice:\nhttps://tasern.quest/songsmith.html\nor pay right here on X: tag @MonkyTownWallet, any library song for 2 gold or 2 bananas\n\n$MfT 0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2085843458757976396",
     "translation": "Love Does the Growing",
     "name": "Love Does the Growing",
@@ -12118,5 +12105,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2096387938871341397",
     "caption": "\"Hoodies Keep Me Warm\" — Natilie Nightclub\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2096393029049303128",
+    "translation": "Tally at the Muster",
+    "name": "Tally at the Muster",
+    "triggers": [
+      "tally at the muster"
+    ],
+    "band": "JS",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2096393029049303128",
+    "caption": "\"Tally at the Muster\" — Jony Sings\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
