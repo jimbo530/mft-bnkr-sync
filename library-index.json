@@ -717,14 +717,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086311576202526767"
  },
  {
-  "band": "JS",
-  "name": "Money That Feeds",
-  "triggers": [
-   "money that feeds"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086387024022351872"
- },
- {
   "band": "Rish",
   "name": "The Mending",
   "triggers": [
@@ -7482,5 +7474,13 @@
    "put on a show"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096705020011962371"
+ },
+ {
+  "band": "JS",
+  "name": "Money That Feeds",
+  "triggers": [
+   "money that feeds"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096710095287591380"
  }
 ]

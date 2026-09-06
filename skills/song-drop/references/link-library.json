@@ -1127,19 +1127,6 @@
     "caption": "\"Welcome to the Race (HOLM's Reel)\" — Rish\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2086387024022351872",
-    "translation": "Money That Feeds",
-    "name": "Money That Feeds",
-    "triggers": [
-      "money that feeds"
-    ],
-    "band": "JS",
-    "tag": "$MfT",
-    "ca": "0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65",
-    "xPost": "https://x.com/MemeForTrees/status/2086387024022351872",
-    "caption": "\"Money That Feeds\" — Jony Sings\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2086407161844810032",
     "translation": "The Mending",
     "name": "The Mending",
@@ -12134,5 +12121,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2096705020011962371",
     "caption": "\"Put On A Show\" — Miss Strut\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2096710095287591380",
+    "translation": "Money That Feeds",
+    "name": "Money That Feeds",
+    "triggers": [
+      "money that feeds"
+    ],
+    "band": "JS",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2096710095287591380",
+    "caption": "\"Money That Feeds\" — Jony Sings\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
