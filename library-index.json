@@ -821,14 +821,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086548201193037956"
  },
  {
-  "band": "DD",
-  "name": "Meme to a Mangrove",
-  "triggers": [
-   "meme to a mangrove"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086593465773633550"
- },
- {
   "band": "JS",
   "name": "Pull Up a Stoop",
   "triggers": [
@@ -7474,5 +7466,13 @@
    "bet on yourself"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096589323353088097"
+ },
+ {
+  "band": "DD",
+  "name": "Meme to a Mangrove",
+  "triggers": [
+   "meme to a mangrove"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096594342316024156"
  }
 ]

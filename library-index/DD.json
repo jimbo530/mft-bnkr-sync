@@ -40,14 +40,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Meme to a Mangrove",
-  "triggers": [
-   "meme to a mangrove"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086593465773633550",
-  "tag": "$MfT"
- },
- {
   "name": "A Pouch That Holds It All",
   "triggers": [
    "a pouch that holds it all"
@@ -462,6 +454,14 @@
    "every road a grove"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096513770935681211",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Meme to a Mangrove",
+  "triggers": [
+   "meme to a mangrove"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096594342316024156",
   "tag": "$MfT"
  }
 ]
