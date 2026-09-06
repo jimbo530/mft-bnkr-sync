@@ -47,14 +47,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Stone Beneath",
-  "triggers": [
-   "the stone beneath"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088626799261483014",
-  "tag": "$MfT"
- },
- {
   "name": "A Name That Holds",
   "triggers": [
    "a name that holds"
@@ -109,6 +101,14 @@
    "nail it down"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095325932785447109",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Stone Beneath",
+  "triggers": [
+   "the stone beneath"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096614440518955075",
   "tag": "$MfT"
  }
 ]
