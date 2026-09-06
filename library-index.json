@@ -581,14 +581,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2085737751152926726"
  },
  {
-  "band": "JS",
-  "name": "Concrete to Canopy",
-  "triggers": [
-   "concrete to canopy"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085742755108503680"
- },
- {
   "band": "Myco",
   "name": "Already Connected",
   "triggers": [
@@ -7482,5 +7474,13 @@
    "the bulletin"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096634562218483896"
+ },
+ {
+  "band": "JS",
+  "name": "Concrete to Canopy",
+  "triggers": [
+   "concrete to canopy"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096639589846802831"
  }
 ]

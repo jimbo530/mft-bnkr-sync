@@ -906,19 +906,6 @@
     "caption": "\"Post Laugh Plant Repeat\" — CB\npress play, plant trees\n\ngrab a monkey, name him forever, feed him a banana a day — a Monkey Town wallet takes just an email:\nhttps://tasern.quest/monkeytown\n\nevery laugh grows the forest\n\n$MfT"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2085742755108503680",
-    "translation": "Concrete to Canopy",
-    "name": "Concrete to Canopy",
-    "triggers": [
-      "concrete to canopy"
-    ],
-    "band": "JS",
-    "tag": "$MfT",
-    "ca": "0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65",
-    "xPost": "https://x.com/MemeForTrees/status/2085742755108503680",
-    "caption": "\"Concrete to Canopy\" — Jony Sings\ndance to defend the earth\n\n$MfT 0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2085762925747228851",
     "translation": "Already Connected",
     "name": "Already Connected",
@@ -12134,5 +12121,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2096634562218483896",
     "caption": "\"The Bulletin\" — Elves of Ballinmoore\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2096639589846802831",
+    "translation": "Concrete to Canopy",
+    "name": "Concrete to Canopy",
+    "triggers": [
+      "concrete to canopy"
+    ],
+    "band": "JS",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2096639589846802831",
+    "caption": "\"Concrete to Canopy\" — Jony Sings\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
