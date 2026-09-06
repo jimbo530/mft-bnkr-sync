@@ -1205,14 +1205,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088204034142273828"
  },
  {
-  "band": "CB",
-  "name": "Everyone Onchain By Friday",
-  "triggers": [
-   "everyone onchain by friday"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088229199018426731"
- },
- {
   "band": "DD",
   "name": "Gather the Good Road",
   "triggers": [
@@ -7474,5 +7466,13 @@
    "tally at the muster"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096393029049303128"
+ },
+ {
+  "band": "CB",
+  "name": "Everyone Onchain By Friday",
+  "triggers": [
+   "everyone onchain by friday"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096413116879737251"
  }
 ]

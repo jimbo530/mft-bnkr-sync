@@ -48,14 +48,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Everyone Onchain By Friday",
-  "triggers": [
-   "everyone onchain by friday"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088229199018426731",
-  "tag": "$MfT"
- },
- {
   "name": "Plant It Loud",
   "triggers": [
    "plant it loud"
@@ -502,6 +494,14 @@
    "attention tree appreciators"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096292321687945612",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Everyone Onchain By Friday",
+  "triggers": [
+   "everyone onchain by friday"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096413116879737251",
   "tag": "$MfT"
  }
 ]
