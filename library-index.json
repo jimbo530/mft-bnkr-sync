@@ -2524,14 +2524,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2089698941361107207"
  },
  {
-  "band": "MR",
-  "name": "No Chains In The Garden",
-  "triggers": [
-   "no chains in the garden"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089719075089891741"
- },
- {
   "band": "NN",
   "name": "A Lord With Manners",
   "triggers": [
@@ -7482,5 +7474,13 @@
    "muster"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096669790148432151"
+ },
+ {
+  "band": "MR",
+  "name": "No Chains In The Garden",
+  "triggers": [
+   "no chains in the garden"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096674862609596841"
  }
 ]
