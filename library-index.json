@@ -789,14 +789,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086457563877437482"
  },
  {
-  "band": "NN",
-  "name": "Last Call Is a Lie",
-  "triggers": [
-   "last call is a lie"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086467685735420358"
- },
- {
   "band": "MR",
   "name": "The Morning Wind Provides",
   "triggers": [
@@ -7474,5 +7466,13 @@
    "grow something great"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096518806390595622"
+ },
+ {
+  "band": "NN",
+  "name": "Last Call Is a Lie",
+  "triggers": [
+   "last call is a lie"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096538981349429714"
  }
 ]

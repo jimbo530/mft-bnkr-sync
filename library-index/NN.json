@@ -32,14 +32,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Last Call Is a Lie",
-  "triggers": [
-   "last call is a lie"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086467685735420358",
-  "tag": "$MfT"
- },
- {
   "name": "The Lady Keeps the Leaves",
   "triggers": [
    "the lady keeps the leaves"
@@ -366,6 +358,14 @@
    "grow something great"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096518806390595622",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Last Call Is a Lie",
+  "triggers": [
+   "last call is a lie"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096538981349429714",
   "tag": "$MfT"
  }
 ]
