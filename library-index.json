@@ -1061,14 +1061,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2087801382673773019"
  },
  {
-  "band": "EBM",
-  "name": "The First Joke",
-  "triggers": [
-   "the first joke"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087841608624410944"
- },
- {
   "band": "DD",
   "name": "The Orchard That Was a Fence",
   "triggers": [
@@ -7474,5 +7466,13 @@
    "last call is a lie"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096538981349429714"
+ },
+ {
+  "band": "EBM",
+  "name": "The First Joke",
+  "triggers": [
+   "the first joke"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096543965226906022"
  }
 ]
