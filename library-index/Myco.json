@@ -95,14 +95,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Roots That Hold",
-  "triggers": [
-   "roots that hold"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087051458659209379",
-  "tag": "$MfT"
- },
- {
   "name": "The Catalog of Tools",
   "triggers": [
    "the catalog of tools"
@@ -805,6 +797,14 @@
    "- two currents, one flow"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096463495776575893",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Roots That Hold",
+  "triggers": [
+   "roots that hold"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096564165112459756",
   "tag": "$MfT"
  }
 ]

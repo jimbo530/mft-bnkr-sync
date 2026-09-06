@@ -933,14 +933,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2087031319565914148"
  },
  {
-  "band": "Myco",
-  "name": "Roots That Hold",
-  "triggers": [
-   "roots that hold"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087051458659209379"
- },
- {
   "band": "JS",
   "name": "Nix at the Front",
   "triggers": [
@@ -7474,5 +7466,13 @@
    "the first joke"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096543965226906022"
+ },
+ {
+  "band": "Myco",
+  "name": "Roots That Hold",
+  "triggers": [
+   "roots that hold"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096564165112459756"
  }
 ]
