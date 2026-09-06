@@ -1989,14 +1989,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088370091461153000"
  },
  {
-  "band": "WarMachine",
-  "name": "Muster",
-  "triggers": [
-   "muster"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087539625325707760"
- },
- {
   "band": "Bongo",
   "name": "Welcome To Monkey Town (Name Him Once!)",
   "triggers": [
@@ -7482,5 +7474,13 @@
    "it feeds its own fire"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096664801615163803"
+ },
+ {
+  "band": "WarMachine",
+  "name": "Muster",
+  "triggers": [
+   "muster"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096669790148432151"
  }
 ]
