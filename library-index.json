@@ -2532,14 +2532,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2089784498124734503"
  },
  {
-  "band": "Strut",
-  "name": "Bow To Nobody (Dance With Everybody)",
-  "triggers": [
-   "bow to nobody (dance with everybody)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089880049721733245"
- },
- {
   "band": "PW",
   "name": "March Of The Crownless",
   "triggers": [
@@ -7482,5 +7474,13 @@
    "welcome to monkey town (name him once!)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096740300542636468"
+ },
+ {
+  "band": "Strut",
+  "name": "Bow To Nobody (Dance With Everybody)",
+  "triggers": [
+   "bow to nobody (dance with everybody)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096765418346066295"
  }
 ]

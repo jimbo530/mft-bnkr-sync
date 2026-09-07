@@ -57,14 +57,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Bow To Nobody (Dance With Everybody)",
-  "triggers": [
-   "bow to nobody (dance with everybody)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089880049721733245",
-  "tag": "$MfT"
- },
- {
   "name": "Pennies Into Thunder",
   "triggers": [
    "pennies into thunder"
@@ -118,6 +110,14 @@
    "put on a show"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096705020011962371",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Bow To Nobody (Dance With Everybody)",
+  "triggers": [
+   "bow to nobody (dance with everybody)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096765418346066295",
   "tag": "$MfT"
  }
 ]
