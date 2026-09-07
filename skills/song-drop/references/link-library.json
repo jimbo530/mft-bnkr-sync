@@ -383,20 +383,6 @@
     "promote": true
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2079224666451808414",
-    "translation": "1,312 Jpegs",
-    "name": "1,312 Jpegs",
-    "triggers": [
-      "1,312 jpegs"
-    ],
-    "band": "Bongo",
-    "tag": "",
-    "ca": "",
-    "xPost": "https://x.com/MemeForTrees/status/2079224666451808414",
-    "caption": "\"1,312 Jpegs\" — Bongo",
-    "boothCommission": "sg_mrtd14ys4a"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2079243269200834706",
     "translation": "It Does Not Go Unseen",
     "name": "It Does Not Go Unseen",
@@ -12124,5 +12110,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2097027148032647676",
     "caption": "\"For No Reason At All\" — Bongo\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2097032185928687770",
+    "translation": "1,312 Jpegs",
+    "name": "1,312 Jpegs",
+    "triggers": [
+      "1,312 jpegs"
+    ],
+    "band": "Bongo",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2097032185928687770",
+    "caption": "\"1,312 Jpegs\" — Bongo\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

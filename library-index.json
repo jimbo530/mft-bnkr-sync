@@ -255,14 +255,6 @@
   "promote": true
  },
  {
-  "band": "Bongo",
-  "name": "1,312 Jpegs",
-  "triggers": [
-   "1,312 jpegs"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079224666451808414"
- },
- {
   "band": "Myco",
   "name": "It Does Not Go Unseen",
   "triggers": [
@@ -7473,5 +7465,13 @@
    "for no reason at all"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097027148032647676"
+ },
+ {
+  "band": "Bongo",
+  "name": "1,312 Jpegs",
+  "triggers": [
+   "1,312 jpegs"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097032185928687770"
  }
 ]
