@@ -2029,14 +2029,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088868446930931849"
  },
  {
-  "band": "DGT",
-  "name": "Somebody Bet On You",
-  "triggers": [
-   "somebody bet on you"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088873496122155331"
- },
- {
   "band": "RickyBobbie",
   "name": "Wind In Your Sails",
   "triggers": [
@@ -7482,5 +7474,13 @@
    "a banana a day"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096825814280962120"
+ },
+ {
+  "band": "DGT",
+  "name": "Somebody Bet On You",
+  "triggers": [
+   "somebody bet on you"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096830946968264836"
  }
 ]

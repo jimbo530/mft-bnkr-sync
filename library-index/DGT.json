@@ -83,14 +83,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Somebody Bet On You",
-  "triggers": [
-   "somebody bet on you"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088873496122155331",
-  "tag": "$MfT"
- },
- {
   "name": "Put It On The Wire",
   "triggers": [
    "put it on the wire"
@@ -225,6 +217,14 @@
    "the vault that keeps its word"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096488735126819262",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Somebody Bet On You",
+  "triggers": [
+   "somebody bet on you"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096830946968264836",
   "tag": "$MfT"
  }
 ]
