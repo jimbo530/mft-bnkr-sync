@@ -581,14 +581,6 @@
  },
  {
   "band": "JS",
-  "name": "Plate on the Table",
-  "triggers": [
-   "plate on the table"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085999486963163371"
- },
- {
-  "band": "JS",
   "name": "Pull Up to the Space",
   "triggers": [
    "pull up to the space"
@@ -7473,5 +7465,13 @@
    "the judge s table"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097062420237672811"
+ },
+ {
+  "band": "JS",
+  "name": "Plate on the Table",
+  "triggers": [
+   "plate on the table"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097087580709798261"
  }
 ]
