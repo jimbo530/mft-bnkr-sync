@@ -1917,14 +1917,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2087806424160043062"
  },
  {
-  "band": "MR",
-  "name": "Everybody s Welcome",
-  "triggers": [
-   "everybody s welcome"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088591539777790074"
- },
- {
   "band": "Rish",
   "name": "Will Ye Join the Crew",
   "triggers": [
@@ -7482,5 +7474,13 @@
    "somebody bet on you"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096830946968264836"
+ },
+ {
+  "band": "MR",
+  "name": "Everybody s Welcome",
+  "triggers": [
+   "everybody s welcome"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096856049449861628"
  }
 ]

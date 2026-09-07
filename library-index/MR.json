@@ -79,14 +79,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Everybody s Welcome",
-  "triggers": [
-   "everybody s welcome"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088591539777790074",
-  "tag": "$MfT"
- },
- {
   "name": "Name It Once",
   "triggers": [
    "name it once"
@@ -405,6 +397,14 @@
    "no chains in the garden"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096674862609596841",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Everybody s Welcome",
+  "triggers": [
+   "everybody s welcome"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096856049449861628",
   "tag": "$MfT"
  }
 ]
