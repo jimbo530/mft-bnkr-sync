@@ -708,14 +708,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086507947761271242"
  },
  {
-  "band": "MR",
-  "name": "Give It Back Green",
-  "triggers": [
-   "give it back green"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086533101841170942"
- },
- {
   "band": "EBM",
   "name": "Costs You Nothing",
   "triggers": [
@@ -7473,5 +7465,13 @@
    "1,312 jpegs"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097032185928687770"
+ },
+ {
+  "band": "MR",
+  "name": "Give It Back Green",
+  "triggers": [
+   "give it back green"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097057392412213417"
  }
 ]
