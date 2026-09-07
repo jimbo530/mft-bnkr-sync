@@ -1860,14 +1860,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2087806424160043062"
  },
  {
-  "band": "Rish",
-  "name": "Will Ye Join the Crew",
-  "triggers": [
-   "will ye join the crew"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088742588207493328"
- },
- {
   "band": "CB",
   "name": "Forward",
   "triggers": [
@@ -7473,5 +7465,13 @@
    "set sail (seize the seas)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096946649507516707"
+ },
+ {
+  "band": "Rish",
+  "name": "Will Ye Join the Crew",
+  "triggers": [
+   "will ye join the crew"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096951638615339292"
  }
 ]
