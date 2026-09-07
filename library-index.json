@@ -1693,14 +1693,6 @@
  },
  {
   "band": "Bongo",
-  "name": "Set Sail (Seize the Seas)",
-  "triggers": [
-   "set sail (seize the seas)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087645319735509311"
- },
- {
-  "band": "Bongo",
   "name": "For No Reason at All (The Coin Song)",
   "triggers": [
    "for no reason at all (the coin song)"
@@ -7473,5 +7465,13 @@
    "no saints, just us"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096921450623959359"
+ },
+ {
+  "band": "Bongo",
+  "name": "Set Sail (Seize the Seas)",
+  "triggers": [
+   "set sail (seize the seas)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096946649507516707"
  }
 ]

@@ -72,14 +72,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Set Sail (Seize the Seas)",
-  "triggers": [
-   "set sail (seize the seas)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087645319735509311",
-  "tag": "$MfT"
- },
- {
   "name": "For No Reason at All (The Coin Song)",
   "triggers": [
    "for no reason at all (the coin song)"
@@ -350,6 +342,14 @@
    "welcome to monkey town (name him once!)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096740300542636468",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Set Sail (Seize the Seas)",
+  "triggers": [
+   "set sail (seize the seas)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096946649507516707",
   "tag": "$MfT"
  }
 ]

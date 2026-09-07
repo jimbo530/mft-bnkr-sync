@@ -2716,19 +2716,6 @@
     "caption": "🎵 \"One Reason (Trees)\" — Bongo\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2087645319735509311",
-    "translation": "Set Sail (Seize the Seas)",
-    "name": "Set Sail (Seize the Seas)",
-    "triggers": [
-      "set sail (seize the seas)"
-    ],
-    "band": "Bongo",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2087645319735509311",
-    "caption": "🎵 \"Set Sail (Seize the Seas)\" — Bongo\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2086588479723495735",
     "translation": "For No Reason at All (The Coin Song)",
     "name": "For No Reason at All (The Coin Song)",
@@ -12124,5 +12111,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2096921450623959359",
     "caption": "\"No Saints, Just Us\" — Gurdy\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2096946649507516707",
+    "translation": "Set Sail (Seize the Seas)",
+    "name": "Set Sail (Seize the Seas)",
+    "triggers": [
+      "set sail (seize the seas)"
+    ],
+    "band": "Bongo",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2096946649507516707",
+    "caption": "\"Set Sail (Seize the Seas)\" — Bongo\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
