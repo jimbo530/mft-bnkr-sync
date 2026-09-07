@@ -1,12 +1,5 @@
 [
  {
-  "name": "The Hordes Keep Coming",
-  "triggers": [
-   "the hordes keep coming"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079347245405679828"
- },
- {
   "name": "It Moves When We Roar",
   "triggers": [
    "it moves when we roar"
@@ -141,6 +134,14 @@
    "muster"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096669790148432151",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Hordes Keep Coming",
+  "triggers": [
+   "the hordes keep coming"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096800696439918982",
   "tag": "$MfT"
  }
 ]

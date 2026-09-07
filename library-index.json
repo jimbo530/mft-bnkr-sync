@@ -279,14 +279,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079303270204383633"
  },
  {
-  "band": "WarMachine",
-  "name": "The Hordes Keep Coming",
-  "triggers": [
-   "the hordes keep coming"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079347245405679828"
- },
- {
   "band": "ALAN",
   "name": "A Hopping Good Time",
   "triggers": [
@@ -7482,5 +7474,13 @@
    "welcome to the race (holm's reel)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096795663212200430"
+ },
+ {
+  "band": "WarMachine",
+  "name": "The Hordes Keep Coming",
+  "triggers": [
+   "the hordes keep coming"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096800696439918982"
  }
 ]
