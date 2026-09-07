@@ -24,14 +24,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Welcome to the Race (HOLM's Reel)",
-  "triggers": [
-   "welcome to the race (holm's reel)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086311576202526767",
-  "tag": "$MfT"
- },
- {
   "name": "The Mending",
   "triggers": [
    "the mending"
@@ -334,6 +326,14 @@
    "bet on yourself"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096589323353088097",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Welcome to the Race (HOLM's Reel)",
+  "triggers": [
+   "welcome to the race (holm's reel)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096795663212200430",
   "tag": "$MfT"
  }
 ]
