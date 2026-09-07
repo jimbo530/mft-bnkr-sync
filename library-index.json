@@ -765,14 +765,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086548201193037956"
  },
  {
-  "band": "JS",
-  "name": "Pull Up a Stoop",
-  "triggers": [
-   "pull up a stoop"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086608592606482478"
- },
- {
   "band": "CB",
   "name": "It Keeps Itself Alive",
   "triggers": [
@@ -7482,5 +7474,13 @@
    "hold the deck"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096886314163404860"
+ },
+ {
+  "band": "JS",
+  "name": "Pull Up a Stoop",
+  "triggers": [
+   "pull up a stoop"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096891278252220647"
  }
 ]
