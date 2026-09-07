@@ -1053,14 +1053,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088304703079686490"
  },
  {
-  "band": "Myco",
-  "name": "Hold the Deck",
-  "triggers": [
-   "hold the deck"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088324837210992919"
- },
- {
   "band": "Rish",
   "name": "A Little Kid Said Thank You",
   "triggers": [
@@ -7482,5 +7474,13 @@
    "sign on"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096861049987174539"
+ },
+ {
+  "band": "Myco",
+  "name": "Hold the Deck",
+  "triggers": [
+   "hold the deck"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096886314163404860"
  }
 ]
