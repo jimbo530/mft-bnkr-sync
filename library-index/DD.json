@@ -120,14 +120,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Digerie Dude - Believe in SomeETHing (1)",
-  "triggers": [
-   "digerie dude - believe in someething (1)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086835039707292025",
-  "tag": "$MfT"
- },
- {
   "name": "Two Roads, One Traveler",
   "triggers": [
    "two roads, one traveler"
@@ -462,6 +454,14 @@
    "meme to a mangrove"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096594342316024156",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Digerie Dude - Believe in SomeETHing (1)",
+  "triggers": [
+   "digerie dude - believe in someething (1)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096971839591305501",
   "tag": "$MfT"
  }
 ]

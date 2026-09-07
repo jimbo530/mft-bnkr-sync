@@ -1772,14 +1772,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2081811906235441322"
  },
  {
-  "band": "DD",
-  "name": "Digerie Dude - Believe in SomeETHing (1)",
-  "triggers": [
-   "digerie dude - believe in someething (1)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086835039707292025"
- },
- {
   "band": "Myco",
   "name": "Agent Army",
   "triggers": [
@@ -7473,5 +7465,13 @@
    "the vault that feeds"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096966812793466963"
+ },
+ {
+  "band": "DD",
+  "name": "Digerie Dude - Believe in SomeETHing (1)",
+  "triggers": [
+   "digerie dude - believe in someething (1)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096971839591305501"
  }
 ]
