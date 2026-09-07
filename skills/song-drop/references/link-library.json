@@ -935,19 +935,6 @@
     "caption": "\"Round Up the Good Ones\" — Rish\nturn it up for the trees\n\nthe band works for a dollar — your song, their voice:\nhttps://tasern.quest/songsmith.html\nor pay right here on X: tag @MonkyTownWallet, any library song for 2 gold or 2 bananas\n\n$MfT 0x31c600871603bab5d855463E03c6d0a9eB661D26"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2085984398021710065",
-    "translation": "The Vault That Feeds",
-    "name": "The Vault That Feeds",
-    "triggers": [
-      "the vault that feeds"
-    ],
-    "band": "Myco",
-    "tag": "$MfT",
-    "ca": "0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3",
-    "xPost": "https://x.com/MemeForTrees/status/2085984398021710065",
-    "caption": "\"- The Vault That Feeds\" — Myco\ndance to defend the earth\n\n$MfT 0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2085999486963163371",
     "translation": "Plate on the Table",
     "name": "Plate on the Table",
@@ -12124,5 +12111,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2096951638615339292",
     "caption": "\"Will Ye Join the Crew\" — Rish\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2096966812793466963",
+    "translation": "The Vault That Feeds",
+    "name": "The Vault That Feeds",
+    "triggers": [
+      "the vault that feeds"
+    ],
+    "band": "Myco",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2096966812793466963",
+    "caption": "\"- The Vault That Feeds\" — Myco\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

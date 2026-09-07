@@ -596,14 +596,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2085944124369248617"
  },
  {
-  "band": "Myco",
-  "name": "The Vault That Feeds",
-  "triggers": [
-   "the vault that feeds"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085984398021710065"
- },
- {
   "band": "JS",
   "name": "Plate on the Table",
   "triggers": [
@@ -7473,5 +7465,13 @@
    "will ye join the crew"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096951638615339292"
+ },
+ {
+  "band": "Myco",
+  "name": "The Vault That Feeds",
+  "triggers": [
+   "the vault that feeds"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096966812793466963"
  }
 ]
