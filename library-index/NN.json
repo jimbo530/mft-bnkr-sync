@@ -1,13 +1,5 @@
 [
  {
-  "name": "It Does It for You",
-  "triggers": [
-   "it does it for you"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085677369050767741",
-  "tag": "$MfT"
- },
- {
   "name": "Keep Your Purse",
   "triggers": [
    "keep your purse"
@@ -366,6 +358,14 @@
    "the judge s table"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097062420237672811",
+  "tag": "$MfT"
+ },
+ {
+  "name": "It Does It for You",
+  "triggers": [
+   "it does it for you"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097092619704660052",
   "tag": "$MfT"
  }
 ]
