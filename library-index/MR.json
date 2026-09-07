@@ -15,14 +15,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079378601695166716"
  },
  {
-  "name": "Coast to the Cabinet",
-  "triggers": [
-   "coast to the cabinet"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085435783746289672",
-  "tag": "$MfT"
- },
- {
   "name": "Love Does the Growing",
   "triggers": [
    "love does the growing"
@@ -405,6 +397,14 @@
    "everybody s welcome"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096856049449861628",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Coast to the Cabinet",
+  "triggers": [
+   "coast to the cabinet"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097001982485475430",
   "tag": "$MfT"
  }
 ]

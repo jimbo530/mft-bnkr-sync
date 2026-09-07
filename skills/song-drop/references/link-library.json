@@ -779,19 +779,6 @@
     "caption": "\"It Moves When We Roar\" — War Machine\npress play, plant trees\n\nthe band works for a dollar — your song, their voice:\nhttps://tasern.quest/songsmith.html\nor pay right here on X: tag @MonkyTownWallet, any library song for 2 gold or 2 bananas\n\n$MfT 0x6f45F5cE7027745b1Ab11D5493F187960D00FCfc"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2085435783746289672",
-    "translation": "Coast to the Cabinet",
-    "name": "Coast to the Cabinet",
-    "triggers": [
-      "coast to the cabinet"
-    ],
-    "band": "MR",
-    "tag": "$MfT",
-    "ca": "0x8d669b539C7801c1271BC484Bdd8a6084b7788e7",
-    "xPost": "https://x.com/MemeForTrees/status/2085435783746289672",
-    "caption": "\"Coast to the Cabinet\" — Moon Rasta\nturn it up for the trees\n\nthe band works for a dollar — your song, their voice:\nhttps://tasern.quest/songsmith.html\nor pay right here on X: tag @MonkyTownWallet, any library song for 2 gold or 2 bananas\n\n$MfT 0x8d669b539C7801c1271BC484Bdd8a6084b7788e7"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2085501222077767769",
     "translation": "Will Ye Come to Shillwood",
     "name": "Will Ye Come to Shillwood",
@@ -12124,5 +12111,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2096996995244171664",
     "caption": "\"The Wall That Never Falls\" — War Machine\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2097001982485475430",
+    "translation": "Coast to the Cabinet",
+    "name": "Coast to the Cabinet",
+    "triggers": [
+      "coast to the cabinet"
+    ],
+    "band": "MR",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2097001982485475430",
+    "caption": "\"Coast to the Cabinet\" — Moon Rasta\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

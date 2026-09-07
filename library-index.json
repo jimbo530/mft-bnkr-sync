@@ -500,14 +500,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2085420650974380336"
  },
  {
-  "band": "MR",
-  "name": "Coast to the Cabinet",
-  "triggers": [
-   "coast to the cabinet"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085435783746289672"
- },
- {
   "band": "Rish",
   "name": "Will Ye Come to Shillwood",
   "triggers": [
@@ -7473,5 +7465,13 @@
    "the wall that never falls"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096996995244171664"
+ },
+ {
+  "band": "MR",
+  "name": "Coast to the Cabinet",
+  "triggers": [
+   "coast to the cabinet"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097001982485475430"
  }
 ]
