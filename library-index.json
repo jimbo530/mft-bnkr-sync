@@ -1133,14 +1133,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088611705857163410"
  },
  {
-  "band": "EBM",
-  "name": "Plain Language Door",
-  "triggers": [
-   "plain language door"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088641886810485014"
- },
- {
   "band": "DD",
   "name": "The Long Walk's Done",
   "triggers": [
@@ -7482,5 +7474,13 @@
    "bow to nobody (dance with everybody)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096765418346066295"
+ },
+ {
+  "band": "EBM",
+  "name": "Plain Language Door",
+  "triggers": [
+   "plain language door"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096770485908279787"
  }
 ]
