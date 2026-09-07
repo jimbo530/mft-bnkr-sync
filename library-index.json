@@ -1684,14 +1684,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2081816935029760153"
  },
  {
-  "band": "NN",
-  "name": "The Judge s Table",
-  "triggers": [
-   "the judge s table"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086870259332415672"
- },
- {
   "band": "DGT",
   "name": "Plant 'Em Where the Ledger Can't Reach",
   "triggers": [
@@ -7473,5 +7465,13 @@
    "give it back green"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097057392412213417"
+ },
+ {
+  "band": "NN",
+  "name": "The Judge s Table",
+  "triggers": [
+   "the judge s table"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097062420237672811"
  }
 ]
