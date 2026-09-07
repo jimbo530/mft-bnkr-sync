@@ -957,14 +957,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2087761088024641612"
  },
  {
-  "band": "RickyBobbie",
-  "name": "Sign On",
-  "triggers": [
-   "sign on"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087781249129533720"
- },
- {
   "band": "MR",
   "name": "The Long Rain Feeds",
   "triggers": [
@@ -7482,5 +7474,13 @@
    "everybody s welcome"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096856049449861628"
+ },
+ {
+  "band": "RickyBobbie",
+  "name": "Sign On",
+  "triggers": [
+   "sign on"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096861049987174539"
  }
 ]

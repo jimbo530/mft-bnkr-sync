@@ -8,14 +8,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Sign On",
-  "triggers": [
-   "sign on"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087781249129533720",
-  "tag": "$MfT"
- },
- {
   "name": "No Value But Songs We Sing",
   "triggers": [
    "no value but songs we sing"
@@ -102,6 +94,14 @@
    "three weeks in a minute"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095426631443550630",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Sign On",
+  "triggers": [
+   "sign on"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096861049987174539",
   "tag": "$MfT"
  }
 ]
