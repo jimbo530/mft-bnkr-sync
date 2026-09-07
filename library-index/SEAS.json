@@ -1,13 +1,5 @@
 [
  {
-  "name": "A Banana A Day",
-  "triggers": [
-   "a banana a day"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089125070664880480",
-  "tag": "$MfT"
- },
- {
   "name": "Haul The Memes Aboard",
   "triggers": [
    "haul the memes aboard"
@@ -78,6 +70,14 @@
    "a captain, not a king"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096065857470251437",
+  "tag": "$MfT"
+ },
+ {
+  "name": "A Banana A Day",
+  "triggers": [
+   "a banana a day"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096825814280962120",
   "tag": "$MfT"
  }
 ]

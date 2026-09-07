@@ -2149,14 +2149,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2089120081775104100"
  },
  {
-  "band": "SEAS",
-  "name": "A Banana A Day",
-  "triggers": [
-   "a banana a day"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089125070664880480"
- },
- {
   "band": "ALAN",
   "name": "Pass The Meme Along",
   "triggers": [
@@ -7482,5 +7474,13 @@
    "the hordes keep coming"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096800696439918982"
+ },
+ {
+  "band": "SEAS",
+  "name": "A Banana A Day",
+  "triggers": [
+   "a banana a day"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096825814280962120"
  }
 ]
