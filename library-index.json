@@ -2036,14 +2036,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2089084825667789139"
  },
  {
-  "band": "WarMachine",
-  "name": "The Wall That Never Falls",
-  "triggers": [
-   "the wall that never falls"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089099967142953236"
- },
- {
   "band": "Rish",
   "name": "Keeper Of The Flame",
   "triggers": [
@@ -7473,5 +7465,13 @@
    "digerie dude - believe in someething (1)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096971839591305501"
+ },
+ {
+  "band": "WarMachine",
+  "name": "The Wall That Never Falls",
+  "triggers": [
+   "the wall that never falls"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096996995244171664"
  }
 ]

@@ -16,14 +16,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Wall That Never Falls",
-  "triggers": [
-   "the wall that never falls"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089099967142953236",
-  "tag": "$MfT"
- },
- {
   "name": "March The Memes",
   "triggers": [
    "march the memes"
@@ -142,6 +134,14 @@
    "the hordes keep coming"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096800696439918982",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Wall That Never Falls",
+  "triggers": [
+   "the wall that never falls"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096996995244171664",
   "tag": "$MfT"
  }
 ]
