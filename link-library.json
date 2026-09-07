@@ -589,28 +589,6 @@
     "caption": "\"Nobody Owns the Prompt\" — Jasmine\n\n$MfT"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2080247089016033446",
-    "translation": "No Saints, Just Us",
-    "name": "No Saints, Just Us",
-    "triggers": [
-      "no saints just us",
-      "no saints",
-      "just us",
-      "gurdy no saints"
-    ],
-    "band": "Gurdy",
-    "tag": "$MfT",
-    "ca": null,
-    "xPost": "https://x.com/MemeForTrees/status/2080247089016033446",
-    "topics": [
-      "ordinary people",
-      "change",
-      "no heroes",
-      "community"
-    ],
-    "caption": "\"No Saints, Just Us\" — Gurdy\n\nno heroes coming. just us — regular people making the change real.\n\n$MfT"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2080377444276543674",
     "translation": "Both Chains at Once",
     "name": "Both Chains at Once",
@@ -12133,5 +12111,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2096916408625971564",
     "caption": "\"Ask Me Why I Stay\" — Natilie Nightclub\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2096921450623959359",
+    "translation": "No Saints, Just Us",
+    "name": "No Saints, Just Us",
+    "triggers": [
+      "no saints, just us"
+    ],
+    "band": "Gurdy",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2096921450623959359",
+    "caption": "\"No Saints, Just Us\" — Gurdy\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

@@ -380,23 +380,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2080004982401622163"
  },
  {
-  "band": "Gurdy",
-  "name": "No Saints, Just Us",
-  "triggers": [
-   "no saints just us",
-   "no saints",
-   "just us",
-   "gurdy no saints"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080247089016033446",
-  "topics": [
-   "ordinary people",
-   "change",
-   "no heroes",
-   "community"
-  ]
- },
- {
   "band": "CB",
   "name": "Both Chains at Once",
   "triggers": [
@@ -7482,5 +7465,13 @@
    "ask me why i stay"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096916408625971564"
+ },
+ {
+  "band": "Gurdy",
+  "name": "No Saints, Just Us",
+  "triggers": [
+   "no saints, just us"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096921450623959359"
  }
 ]

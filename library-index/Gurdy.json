@@ -1,22 +1,5 @@
 [
  {
-  "name": "No Saints, Just Us",
-  "triggers": [
-   "no saints just us",
-   "no saints",
-   "just us",
-   "gurdy no saints"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2080247089016033446",
-  "topics": [
-   "ordinary people",
-   "change",
-   "no heroes",
-   "community"
-  ],
-  "tag": "$MfT"
- },
- {
   "name": "Someone Bet on Me",
   "triggers": [
    "someone bet on me"
@@ -71,6 +54,14 @@
    "raise the cracks"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096211797334261827",
+  "tag": "$MfT"
+ },
+ {
+  "name": "No Saints, Just Us",
+  "triggers": [
+   "no saints, just us"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096921450623959359",
   "tag": "$MfT"
  }
 ]
