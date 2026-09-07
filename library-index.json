@@ -1006,14 +1006,6 @@
  },
  {
   "band": "NN",
-  "name": "Ask Me Why I Stay",
-  "triggers": [
-   "ask me why i stay"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088068122439819360"
- },
- {
-  "band": "NN",
   "name": "Let the Agent Handle It",
   "triggers": [
    "let the agent handle it"
@@ -7482,5 +7474,13 @@
    "pull up a stoop"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096891278252220647"
+ },
+ {
+  "band": "NN",
+  "name": "Ask Me Why I Stay",
+  "triggers": [
+   "ask me why i stay"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2096916408625971564"
  }
 ]
