@@ -588,14 +588,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086110205322973554"
  },
  {
-  "band": "JS",
-  "name": "Everybody Plants",
-  "triggers": [
-   "everybody plants"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086165571616358760"
- },
- {
   "band": "Myco",
   "name": "Everything Came Up",
   "triggers": [
@@ -7473,5 +7465,13 @@
    "toast to tomorrow"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097117787822932291"
+ },
+ {
+  "band": "JS",
+  "name": "Everybody Plants",
+  "triggers": [
+   "everybody plants"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097122811525447799"
  }
 ]
