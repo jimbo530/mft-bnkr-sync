@@ -1876,14 +1876,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088868446930931849"
  },
  {
-  "band": "RickyBobbie",
-  "name": "Wind In Your Sails",
-  "triggers": [
-   "wind in your sails"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088893553002885471"
- },
- {
   "band": "HammerTone",
   "name": "The Guild That Raises You",
   "triggers": [
@@ -7473,5 +7465,13 @@
    "launch her off the slip"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097147978007838926"
+ },
+ {
+  "band": "RickyBobbie",
+  "name": "Wind In Your Sails",
+  "triggers": [
+   "wind in your sails"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097153016575000669"
  }
 ]

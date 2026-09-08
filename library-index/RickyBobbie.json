@@ -16,14 +16,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Wind In Your Sails",
-  "triggers": [
-   "wind in your sails"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088893553002885471",
-  "tag": "$MfT"
- },
- {
   "name": "Signal In The Sails",
   "triggers": [
    "signal in the sails"
@@ -102,6 +94,14 @@
    "sign on"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096861049987174539",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Wind In Your Sails",
+  "triggers": [
+   "wind in your sails"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097153016575000669",
   "tag": "$MfT"
  }
 ]
