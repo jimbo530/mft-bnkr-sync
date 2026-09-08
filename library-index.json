@@ -972,14 +972,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088571483702362472"
  },
  {
-  "band": "Biggins",
-  "name": "It Brought Its Own Pack",
-  "triggers": [
-   "it brought its own pack"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088611705857163410"
- },
- {
   "band": "DD",
   "name": "The Long Walk's Done",
   "triggers": [
@@ -7473,5 +7465,13 @@
    "the rite of the floor"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097213437054963931"
+ },
+ {
+  "band": "Biggins",
+  "name": "It Brought Its Own Pack",
+  "triggers": [
+   "it brought its own pack"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097238635233861852"
  }
 ]
