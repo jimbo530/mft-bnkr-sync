@@ -837,14 +837,6 @@
  },
  {
   "band": "HammerTone",
-  "name": "The Door in the Halls",
-  "triggers": [
-   "the door in the halls"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087745980116443610"
- },
- {
-  "band": "HammerTone",
   "name": "Name It and It's Made",
   "triggers": [
    "name it and it's made"
@@ -7473,5 +7465,13 @@
    "clown around town"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097243607786733763"
+ },
+ {
+  "band": "HammerTone",
+  "name": "The Door in the Halls",
+  "triggers": [
+   "the door in the halls"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097268766472057091"
  }
 ]
