@@ -2171,14 +2171,6 @@
   "promote": true
  },
  {
-  "band": "SEAS",
-  "name": "Launch Her Off The Slip",
-  "triggers": [
-   "launch her off the slip"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089341606528795002"
- },
- {
   "band": "EBM",
   "name": "Receipts",
   "triggers": [
@@ -7473,5 +7465,13 @@
    "everybody plants"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097122811525447799"
+ },
+ {
+  "band": "SEAS",
+  "name": "Launch Her Off The Slip",
+  "triggers": [
+   "launch her off the slip"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097147978007838926"
  }
 ]
