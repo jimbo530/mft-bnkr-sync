@@ -1779,14 +1779,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088908666418155810"
  },
  {
-  "band": "WarMachine",
-  "name": "March to the Time War",
-  "triggers": [
-   "march to the time war"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088913696907026718"
- },
- {
   "band": "Biggins",
   "name": "Start The Thing",
   "triggers": [
@@ -7448,5 +7440,13 @@
    "march of the crownless"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097384507334676615"
+ },
+ {
+  "band": "WarMachine",
+  "name": "March to the Time War",
+  "triggers": [
+   "march to the time war"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097389606484205765"
  }
 ]
