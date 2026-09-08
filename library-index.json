@@ -483,14 +483,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2085616930602225721"
  },
  {
-  "band": "DD",
-  "name": "The Well at the Bend",
-  "triggers": [
-   "the well at the bend"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085702546337767667"
- },
- {
   "band": "CB",
   "name": "Post Laugh Plant Repeat",
   "triggers": [
@@ -7448,5 +7440,13 @@
    "that's how we grow"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097414755119948084"
+ },
+ {
+  "band": "DD",
+  "name": "The Well at the Bend",
+  "triggers": [
+   "the well at the bend"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097419767892119819"
  }
 ]

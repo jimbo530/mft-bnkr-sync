@@ -16,14 +16,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Well at the Bend",
-  "triggers": [
-   "the well at the bend"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085702546337767667",
-  "tag": "$MfT"
- },
- {
   "name": "The Giving Floor",
   "triggers": [
    "the giving floor"
@@ -462,6 +454,14 @@
    "every language sings a tree"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097273769018425475",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Well at the Bend",
+  "triggers": [
+   "the well at the bend"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097419767892119819",
   "tag": "$MfT"
  }
 ]
