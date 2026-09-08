@@ -907,14 +907,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088490876653736021"
  },
  {
-  "band": "NN",
-  "name": "We Saved You a Seat",
-  "triggers": [
-   "we saved you a seat"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088506015079702679"
- },
- {
   "band": "DGT",
   "name": "We Built the Furnace Ourselves",
   "triggers": [
@@ -7448,5 +7440,13 @@
    "feathers down"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097324102293856529"
+ },
+ {
+  "band": "NN",
+  "name": "We Saved You a Seat",
+  "triggers": [
+   "we saved you a seat"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097329192144666636"
  }
 ]
