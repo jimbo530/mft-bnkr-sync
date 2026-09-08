@@ -2172,14 +2172,6 @@
  },
  {
   "band": "Strut",
-  "name": "Clown Around Town",
-  "triggers": [
-   "clown around town"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089537830334705989"
- },
- {
-  "band": "Strut",
   "name": "Feathers Down",
   "triggers": [
    "feathers down"
@@ -7473,5 +7465,13 @@
    "it brought its own pack"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097238635233861852"
+ },
+ {
+  "band": "Strut",
+  "name": "Clown Around Town",
+  "triggers": [
+   "clown around town"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097243607786733763"
  }
 ]

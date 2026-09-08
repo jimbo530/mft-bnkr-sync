@@ -3479,19 +3479,6 @@
     "caption": "\"The Money Never Leaves The Party\" — Natilie Nightclub\npress play, plant trees\n\nThank you @artizen for including our Crypto Endowment Network in Season 7 💚 the bands sing their gratitude better than we can say it 🌱"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2089537830334705989",
-    "translation": "Clown Around Town",
-    "name": "Clown Around Town",
-    "triggers": [
-      "clown around town"
-    ],
-    "band": "Strut",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2089537830334705989",
-    "caption": "\"Clown Around Town\" — Miss Strut\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2089542838472048975",
     "translation": "Feathers Down",
     "name": "Feathers Down",
@@ -12123,5 +12110,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2097238635233861852",
     "caption": "\"It Brought Its Own Pack\" — Biggins Mcjammin\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2097243607786733763",
+    "translation": "Clown Around Town",
+    "name": "Clown Around Town",
+    "triggers": [
+      "clown around town"
+    ],
+    "band": "Strut",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2097243607786733763",
+    "caption": "\"Clown Around Town\" — Miss Strut\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

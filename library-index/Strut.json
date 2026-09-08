@@ -9,14 +9,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Clown Around Town",
-  "triggers": [
-   "clown around town"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089537830334705989",
-  "tag": "$MfT"
- },
- {
   "name": "Feathers Down",
   "triggers": [
    "feathers down"
@@ -118,6 +110,14 @@
    "we make things work"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097208371392745540",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Clown Around Town",
+  "triggers": [
+   "clown around town"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097243607786733763",
   "tag": "$MfT"
  }
 ]
