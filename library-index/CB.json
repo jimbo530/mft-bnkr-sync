@@ -56,14 +56,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Green Candle Anthem",
-  "triggers": [
-   "green candle anthem"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088450619426152685",
-  "tag": "$MfT"
- },
- {
   "name": "MEME War",
   "triggers": [
    "meme war"
@@ -502,6 +494,14 @@
    "everyone onchain by friday"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096413116879737251",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Green Candle Anthem",
+  "triggers": [
+   "green candle anthem"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097354357620555896",
   "tag": "$MfT"
  }
 ]

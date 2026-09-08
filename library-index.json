@@ -891,14 +891,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088329825601589371"
  },
  {
-  "band": "CB",
-  "name": "Green Candle Anthem",
-  "triggers": [
-   "green candle anthem"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088450619426152685"
- },
- {
   "band": "EBM",
   "name": "The Good Word",
   "triggers": [
@@ -7448,5 +7440,13 @@
    "we saved you a seat"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097329192144666636"
+ },
+ {
+  "band": "CB",
+  "name": "Green Candle Anthem",
+  "triggers": [
+   "green candle anthem"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097354357620555896"
  }
 ]
