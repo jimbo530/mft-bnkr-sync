@@ -17,19 +17,19 @@
   "tag": "$MfT"
  },
  {
-  "name": "March Of The Crownless",
-  "triggers": [
-   "march of the crownless"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089895150918983733",
-  "tag": "$MfT"
- },
- {
   "name": "Ship It Loud",
   "triggers": [
    "ship it loud"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2095632959399137664",
+  "tag": "$MfT"
+ },
+ {
+  "name": "March Of The Crownless",
+  "triggers": [
+   "march of the crownless"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097384507334676615",
   "tag": "$MfT"
  }
 ]
