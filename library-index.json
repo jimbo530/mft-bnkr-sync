@@ -683,14 +683,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086774719714365922"
  },
  {
-  "band": "Myco",
-  "name": "What Had To Rot",
-  "triggers": [
-   "what had to rot"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086794828172386665"
- },
- {
   "band": "NN",
   "name": "The Lady Keeps the Leaves",
   "triggers": [
@@ -7448,5 +7440,13 @@
    "the well at the bend"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097419767892119819"
+ },
+ {
+  "band": "Myco",
+  "name": "What Had To Rot",
+  "triggers": [
+   "what had to rot"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097444955371229394"
  }
 ]
