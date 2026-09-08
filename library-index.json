@@ -2220,14 +2220,6 @@
  },
  {
   "band": "Strut",
-  "name": "We Make Things Work",
-  "triggers": [
-   "we make things work"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089638492145885495"
- },
- {
-  "band": "Strut",
   "name": "You're The Show",
   "triggers": [
    "you're the show"
@@ -7473,5 +7465,13 @@
    "will ye march"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097183230268997696"
+ },
+ {
+  "band": "Strut",
+  "name": "We Make Things Work",
+  "triggers": [
+   "we make things work"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097208371392745540"
  }
 ]

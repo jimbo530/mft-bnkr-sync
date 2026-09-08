@@ -3557,19 +3557,6 @@
     "caption": "\"The First Yes\" — Miss Strut\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2089638492145885495",
-    "translation": "We Make Things Work",
-    "name": "We Make Things Work",
-    "triggers": [
-      "we make things work"
-    ],
-    "band": "Strut",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2089638492145885495",
-    "caption": "\"We Make Things Work\" — Miss Strut\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2089643487343824992",
     "translation": "You're The Show",
     "name": "You're The Show",
@@ -12123,5 +12110,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2097183230268997696",
     "caption": "\"Will Ye March\" — Rish\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2097208371392745540",
+    "translation": "We Make Things Work",
+    "name": "We Make Things Work",
+    "triggers": [
+      "we make things work"
+    ],
+    "band": "Strut",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2097208371392745540",
+    "caption": "\"We Make Things Work\" — Miss Strut\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

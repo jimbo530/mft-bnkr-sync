@@ -41,14 +41,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "We Make Things Work",
-  "triggers": [
-   "we make things work"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089638492145885495",
-  "tag": "$MfT"
- },
- {
   "name": "You're The Show",
   "triggers": [
    "you're the show"
@@ -118,6 +110,14 @@
    "bow to nobody (dance with everybody)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096765418346066295",
+  "tag": "$MfT"
+ },
+ {
+  "name": "We Make Things Work",
+  "triggers": [
+   "we make things work"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097208371392745540",
   "tag": "$MfT"
  }
 ]
