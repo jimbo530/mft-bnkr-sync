@@ -803,14 +803,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2087761088024641612"
  },
  {
-  "band": "MR",
-  "name": "The Long Rain Feeds",
-  "triggers": [
-   "the long rain feeds"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087801382673773019"
- },
- {
   "band": "DD",
   "name": "The Orchard That Was a Fence",
   "triggers": [
@@ -7448,5 +7440,13 @@
    "green candle anthem"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097354357620555896"
+ },
+ {
+  "band": "MR",
+  "name": "The Long Rain Feeds",
+  "triggers": [
+   "the long rain feeds"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097359350536757618"
  }
 ]
