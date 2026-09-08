@@ -32,14 +32,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Toast to Tomorrow",
-  "triggers": [
-   "toast to tomorrow"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088042977490772217",
-  "tag": "$MfT"
- },
- {
   "name": "Let the Agent Handle It",
   "triggers": [
    "let the agent handle it"
@@ -366,6 +358,14 @@
    "it does it for you"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097092619704660052",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Toast to Tomorrow",
+  "triggers": [
+   "toast to tomorrow"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097117787822932291",
   "tag": "$MfT"
  }
 ]

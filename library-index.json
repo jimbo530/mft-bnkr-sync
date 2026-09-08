@@ -924,14 +924,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2087927214616547518"
  },
  {
-  "band": "NN",
-  "name": "Toast to Tomorrow",
-  "triggers": [
-   "toast to tomorrow"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088042977490772217"
- },
- {
   "band": "MR",
   "name": "Third of the Harvest",
   "triggers": [
@@ -7473,5 +7465,13 @@
    "it does it for you"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097092619704660052"
+ },
+ {
+  "band": "NN",
+  "name": "Toast to Tomorrow",
+  "triggers": [
+   "toast to tomorrow"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097117787822932291"
  }
 ]
