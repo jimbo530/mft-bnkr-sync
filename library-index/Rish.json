@@ -48,14 +48,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Will Ye March",
-  "triggers": [
-   "will ye march"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087725853933256898",
-  "tag": "$MfT"
- },
- {
   "name": "A Little Kid Said Thank You",
   "triggers": [
    "a little kid said thank you"
@@ -334,6 +326,14 @@
    "will ye join the crew"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096951638615339292",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Will Ye March",
+  "triggers": [
+   "will ye march"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097183230268997696",
   "tag": "$MfT"
  }
 ]
