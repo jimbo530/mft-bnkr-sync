@@ -652,14 +652,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086422342184366274"
  },
  {
-  "band": "MR",
-  "name": "The Morning Wind Provides",
-  "triggers": [
-   "the morning wind provides"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086472720150122601"
- },
- {
   "band": "DD",
   "name": "Walk With the Eight",
   "triggers": [
@@ -7473,5 +7465,13 @@
    "the lord who rules nobody"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097298930388124113"
+ },
+ {
+  "band": "MR",
+  "name": "The Morning Wind Provides",
+  "triggers": [
+   "the morning wind provides"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097304016019407011"
  }
 ]
