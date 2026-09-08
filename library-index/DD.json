@@ -48,14 +48,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Every Language Sings a Tree",
-  "triggers": [
-   "every language sings a tree"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087031319565914148",
-  "tag": "$MfT"
- },
- {
   "name": "Where the Maps Run Out",
   "triggers": [
    "where the maps run out"
@@ -462,6 +454,14 @@
    "digerie dude - believe in someething (1)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096971839591305501",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Every Language Sings a Tree",
+  "triggers": [
+   "every language sings a tree"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097273769018425475",
   "tag": "$MfT"
  }
 ]

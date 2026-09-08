@@ -756,14 +756,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2087011192577397181"
  },
  {
-  "band": "DD",
-  "name": "Every Language Sings a Tree",
-  "triggers": [
-   "every language sings a tree"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087031319565914148"
- },
- {
   "band": "JS",
   "name": "Nix at the Front",
   "triggers": [
@@ -7473,5 +7465,13 @@
    "the door in the halls"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097268766472057091"
+ },
+ {
+  "band": "DD",
+  "name": "Every Language Sings a Tree",
+  "triggers": [
+   "every language sings a tree"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097273769018425475"
  }
 ]
