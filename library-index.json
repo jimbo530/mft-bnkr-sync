@@ -675,14 +675,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086729394228277570"
  },
  {
-  "band": "DGT",
-  "name": "Gone in a Second",
-  "triggers": [
-   "gone in a second"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086774719714365922"
- },
- {
   "band": "NN",
   "name": "The Lady Keeps the Leaves",
   "triggers": [
@@ -7448,5 +7440,13 @@
    "what had to rot"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097444955371229394"
+ },
+ {
+  "band": "DGT",
+  "name": "Gone in a Second",
+  "triggers": [
+   "gone in a second"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097449995758711171"
  }
 ]
