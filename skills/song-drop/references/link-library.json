@@ -453,23 +453,6 @@
     "boothCommission": "sg_mru0f0xf2"
   },
   {
-    "file": "https://x.com/RWIrobinhood/status/2079346822674272594",
-    "translation": "whats new with RWI",
-    "name": "whats new with RWI",
-    "triggers": [
-      "whats new with rwi",
-      "what's new with rwi",
-      "rwi news",
-      "rwi update"
-    ],
-    "band": null,
-    "tag": "$MfT",
-    "ca": "0x2286397228be256529be1ae9ed8d7d16549e9c6a",
-    "xPost": "https://x.com/RWIrobinhood/status/2079346822674272594",
-    "caption": "🌍 what's new with $MfT\n\nRWIhood.org got a makeover — mobile rebuilt, and a new \"The Founder\" section. No faceless dev here: built for fun and real-world difference.\n\nfriends of the family — their charity vault and Impact Reactor run on our rails.",
-    "special": true
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2079622844602888196",
     "translation": "Pay the Bills (Then We Play)",
     "name": "Pay the Bills (Then We Play)",
@@ -541,25 +524,6 @@
     "ca": "0x3a952eFa41501c0463Cf8Af9f821f8F549f47Edf",
     "xPost": "https://x.com/MemeForTrees/status/2079979817680724277",
     "caption": "\"A Tool for Every Mile\" — Jasmine\n\n$MfT"
-  },
-  {
-    "name": "RWI Endowments",
-    "triggers": [
-      "tell me about rwi endowments",
-      "rwi endowments",
-      "rwi endowment",
-      "the rwi endowments",
-      "real world impact endowments",
-      "crypto endowments",
-      "the endowments"
-    ],
-    "file": "https://x.com/MemeForTrees/status/2079995495733158370",
-    "translation": "RWI Endowments",
-    "band": null,
-    "tag": null,
-    "ca": null,
-    "xPost": "https://x.com/MemeForTrees/status/2079995495733158370",
-    "caption": "The first real crypto endowments — give once, give forever. 🌱🌳🍲🌊📚"
   },
   {
     "file": "https://x.com/MemeForTrees/status/2080004982401622163",
@@ -3438,19 +3402,6 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2089482503237107874",
     "caption": "\"The Money Never Leaves The Party\" — Natilie Nightclub\npress play, plant trees\n\nThank you @artizen for including our Crypto Endowment Network in Season 7 💚 the bands sing their gratitude better than we can say it 🌱"
-  },
-  {
-    "file": "https://x.com/MemeForTrees/status/2089542838472048975",
-    "translation": "Feathers Down",
-    "name": "Feathers Down",
-    "triggers": [
-      "feathers down"
-    ],
-    "band": "Strut",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2089542838472048975",
-    "caption": "\"Feathers Down\" — Miss Strut\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
     "file": "https://x.com/MemeForTrees/status/2089598227209158662",
@@ -12123,5 +12074,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2097304016019407011",
     "caption": "\"The Morning Wind Provides\" — Moon Rasta\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2097324102293856529",
+    "translation": "Feathers Down",
+    "name": "Feathers Down",
+    "triggers": [
+      "feathers down"
+    ],
+    "band": "Strut",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2097324102293856529",
+    "caption": "\"Feathers Down\" — Miss Strut\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

@@ -295,17 +295,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079388587297038636"
  },
  {
-  "band": null,
-  "name": "whats new with RWI",
-  "triggers": [
-   "whats new with rwi",
-   "what's new with rwi",
-   "rwi news",
-   "rwi update"
-  ],
-  "xPost": "https://x.com/RWIrobinhood/status/2079346822674272594"
- },
- {
   "band": "Bongo",
   "name": "Pay the Bills (Then We Play)",
   "triggers": [
@@ -348,20 +337,6 @@
    "a tool for every mile"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2079979817680724277"
- },
- {
-  "band": null,
-  "name": "RWI Endowments",
-  "triggers": [
-   "tell me about rwi endowments",
-   "rwi endowments",
-   "rwi endowment",
-   "the rwi endowments",
-   "real world impact endowments",
-   "crypto endowments",
-   "the endowments"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079995495733158370"
  },
  {
   "band": "Jasmine",
@@ -2145,14 +2120,6 @@
    "the money never leaves the party"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2089482503237107874"
- },
- {
-  "band": "Strut",
-  "name": "Feathers Down",
-  "triggers": [
-   "feathers down"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089542838472048975"
  },
  {
   "band": "Strut",
@@ -7473,5 +7440,13 @@
    "the morning wind provides"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097304016019407011"
+ },
+ {
+  "band": "Strut",
+  "name": "Feathers Down",
+  "triggers": [
+   "feathers down"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097324102293856529"
  }
 ]

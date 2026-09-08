@@ -102,14 +102,6 @@ get some
 0xf796e42ea375bcd592c892fe64968ba06188bba3
 LINK: https://x.com/MemeForTrees/status/2079211285946733004
 
-### triggers: whats new with rwi / what's new with rwi / rwi news / rwi update
-🌍 what's new with $MfT
-
-RWIhood.org got a makeover — mobile rebuilt, and a new "The Founder" section. No faceless dev here: built for fun and real-world difference.
-
-friends of the family — their charity vault and Impact Reactor run on our rails.
-LINK: https://x.com/RWIrobinhood/status/2079346822674272594
-
 ### triggers: show me the love / show the love / spread the love / love token / the love drop
 💕 $MfT is live on Robinhood chain — bridged 1:1 from Base the proper way (LayerZero OFT), source-verified, real deepened liquidity.
 
@@ -126,11 +118,11 @@ keep holding between snapshots (selling sits you out a round). pro-rata by MfT h
 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3
 LINK: mft-holder-airdrop
 
-## SONG LIBRARY — 922 songs, served LIVE by the song-drop skill (NOT listed here)
+## SONG LIBRARY — 920 songs, served LIVE by the song-drop skill (NOT listed here)
 ⚠️ The full song list is NO LONGER in this memory file — it grew too big and truncated your reader, dropping the newest songs. To serve or list songs, READ LIVE from the repo jimbo530/mft-bnkr-sync, branch main:
 - `library-index/_bands.json` → { "<BAND>": ["title", ...] } — the name→band map + menu source (tiny, always fits). Use it to find which band a title is in, or to list a band's songs.
 - `library-index/<BAND>.json` → that band's full entries (name, triggers, xPost, topics). Read ONLY the band you need — each file is a few KB and always fits. This has the exact xPost link to post.
-Never read the flat library-index.json or link-library.json for matching — they truncate. Band keys: MV (161) · EBM (105) · Myco (102) · JS (95) · CB (63) · DD (58) · MR (51) · NN (46) · Bongo (44) · Rish (42) · DGT (28) · WarMachine (18) · Strut (15) · HammerTone (14) · Jasmine (14) · RickyBobbie (13) · ALAN (12) · Biggins (11) · SEAS (10) · Other (8) · Gurdy (8) · PW (4).
+Never read the flat library-index.json or link-library.json for matching — they truncate. Band keys: MV (161) · EBM (105) · Myco (102) · JS (95) · CB (63) · DD (58) · MR (51) · NN (46) · Bongo (44) · Rish (42) · DGT (28) · WarMachine (18) · Strut (15) · HammerTone (14) · Jasmine (14) · RickyBobbie (13) · ALAN (12) · Biggins (11) · SEAS (10) · Gurdy (8) · Other (6) · PW (4).
 Newest songs are always in their band file the moment the poster adds them — no re-install, no waiting.
 
 ## ⭐ PROMOTED songs (surface these first on topic/menu requests)
