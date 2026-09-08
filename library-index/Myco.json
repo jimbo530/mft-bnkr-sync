@@ -95,14 +95,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Rite of the Floor",
-  "triggers": [
-   "the rite of the floor"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087685644956860810",
-  "tag": "$MfT"
- },
- {
   "name": "\udfa7 “Listen Close, Let It Grow”",
   "triggers": [
    "\udfa7 “listen close, let it grow”"
@@ -813,6 +805,14 @@
    "the vault that feeds"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096966812793466963",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Rite of the Floor",
+  "triggers": [
+   "the rite of the floor"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097213437054963931",
   "tag": "$MfT"
  }
 ]
