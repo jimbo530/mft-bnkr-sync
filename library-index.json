@@ -628,14 +628,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086291409603047652"
  },
  {
-  "band": "NN",
-  "name": "Just Ask Darling",
-  "triggers": [
-   "just ask darling"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086306495541444916"
- },
- {
   "band": "Rish",
   "name": "The Mending",
   "triggers": [
@@ -7473,5 +7465,13 @@
    "wind in your sails"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097153016575000669"
+ },
+ {
+  "band": "NN",
+  "name": "Just Ask Darling",
+  "triggers": [
+   "just ask darling"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097178133237522835"
  }
 ]
