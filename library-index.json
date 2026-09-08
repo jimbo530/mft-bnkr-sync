@@ -2170,14 +2170,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2089784498124734503"
  },
  {
-  "band": "Rish",
-  "name": "That's How We Grow",
-  "triggers": [
-   "that's how we grow"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089900183567859933"
- },
- {
   "band": "MV",
   "name": "Blue Marble Rock",
   "triggers": [
@@ -7448,5 +7440,13 @@
    "march to the time war"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097389606484205765"
+ },
+ {
+  "band": "Rish",
+  "name": "That's How We Grow",
+  "triggers": [
+   "that's how we grow"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097414755119948084"
  }
 ]
