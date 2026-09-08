@@ -115,14 +115,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Lord Who Rules Nobody",
-  "triggers": [
-   "the lord who rules nobody"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089764327540597200",
-  "tag": "$MfT"
- },
- {
   "name": "For the Tree and the Bees",
   "triggers": [
    "for the tree and the bees"
@@ -136,6 +128,14 @@
    "still building after dark"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2093705249097654754",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Lord Who Rules Nobody",
+  "triggers": [
+   "the lord who rules nobody"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097298930388124113",
   "tag": "$MfT"
  }
 ]

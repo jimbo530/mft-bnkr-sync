@@ -2227,14 +2227,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2089744256797667542"
  },
  {
-  "band": "ALAN",
-  "name": "The Lord Who Rules Nobody",
-  "triggers": [
-   "the lord who rules nobody"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089764327540597200"
- },
- {
   "band": "DGT",
   "name": "The Benevolent Racket",
   "triggers": [
@@ -7473,5 +7465,13 @@
    "every language sings a tree"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097273769018425475"
+ },
+ {
+  "band": "ALAN",
+  "name": "The Lord Who Rules Nobody",
+  "triggers": [
+   "the lord who rules nobody"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097298930388124113"
  }
 ]
