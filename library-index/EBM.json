@@ -181,14 +181,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Vault That Don't Run Dry",
-  "triggers": [
-   "vault that don't run dry"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089009317521289601",
-  "tag": "$MfT"
- },
- {
   "name": "Drop What You Love",
   "triggers": [
    "drop what you love"
@@ -843,6 +835,14 @@
    "plain language door"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096770485908279787",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Vault That Don't Run Dry",
+  "triggers": [
+   "vault that don't run dry"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097671464887484583",
   "tag": "$MfT"
  }
 ]

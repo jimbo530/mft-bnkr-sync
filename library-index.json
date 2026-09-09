@@ -1704,14 +1704,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088969108108767470"
  },
  {
-  "band": "EBM",
-  "name": "Vault That Don't Run Dry",
-  "triggers": [
-   "vault that don't run dry"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089009317521289601"
- },
- {
   "band": "DD",
   "name": "Roots That Hold Forever",
   "triggers": [
@@ -7453,5 +7445,13 @@
    "still here (forward)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097646228506845313"
+ },
+ {
+  "band": "EBM",
+  "name": "Vault That Don't Run Dry",
+  "triggers": [
+   "vault that don't run dry"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097671464887484583"
  }
 ]

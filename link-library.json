@@ -2741,19 +2741,6 @@
     "caption": "🎵 \"Never Runs Dry\" — CB\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2089009317521289601",
-    "translation": "Vault That Don't Run Dry",
-    "name": "Vault That Don't Run Dry",
-    "triggers": [
-      "vault that don't run dry"
-    ],
-    "band": "EBM",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2089009317521289601",
-    "caption": "🎵 \"Vault That Don't Run Dry\" — Elves of Ballinmoore\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2089014353332752742",
     "translation": "Roots That Hold Forever",
     "name": "Roots That Hold Forever",
@@ -12097,5 +12084,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2097646228506845313",
     "caption": "\"STILL HERE (FORWARD)\" — CB\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2097671464887484583",
+    "translation": "Vault That Don't Run Dry",
+    "name": "Vault That Don't Run Dry",
+    "triggers": [
+      "vault that don't run dry"
+    ],
+    "band": "EBM",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2097671464887484583",
+    "caption": "\"Vault That Don't Run Dry\" — Elves of Ballinmoore\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
