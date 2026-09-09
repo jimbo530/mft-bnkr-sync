@@ -414,17 +414,6 @@
   "xPost": "https://x.com/MonkyTownWallet/status/2083249368035987512"
  },
  {
-  "band": "DGT",
-  "name": "The Machine Broke Down (The Band Did Not)",
-  "triggers": [
-   "the machine broke down",
-   "machine broke down",
-   "breakdown anthem",
-   "intermission"
-  ],
-  "xPost": "https://x.com/MonkyTownWallet/status/2083555121103777966"
- },
- {
   "band": "Bongo",
   "name": "Always GM on Robinhood Chain",
   "triggers": [
@@ -7448,5 +7437,13 @@
    "blessed. again."
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097520394848596365"
+ },
+ {
+  "band": "DGT",
+  "name": "The Machine Broke Down (The Band Did Not)",
+  "triggers": [
+   "the machine broke down (the band did not)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097525559290925159"
  }
 ]
