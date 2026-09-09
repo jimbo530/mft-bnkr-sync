@@ -1696,14 +1696,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088953999064015176"
  },
  {
-  "band": "CB",
-  "name": "Never Runs Dry",
-  "triggers": [
-   "never runs dry"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088969108108767470"
- },
- {
   "band": "DD",
   "name": "Roots That Hold Forever",
   "triggers": [
@@ -7453,5 +7445,13 @@
    "vault that don't run dry"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097671464887484583"
+ },
+ {
+  "band": "CB",
+  "name": "Never Runs Dry",
+  "triggers": [
+   "never runs dry"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097676479265939556"
  }
 ]
