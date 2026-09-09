@@ -48,14 +48,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Wide Path",
-  "triggers": [
-   "the wide path"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087700698121060529",
-  "tag": "$MfT"
- },
- {
   "name": "The Orchard That Was a Fence",
   "triggers": [
    "the orchard that was a fence"
@@ -462,6 +454,14 @@
    "your name arrives before you"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097585881880125471",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Wide Path",
+  "triggers": [
+   "the wide path"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097701640794972279",
   "tag": "$MfT"
  }
 ]
