@@ -1760,14 +1760,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2089029514684674155"
  },
  {
-  "band": "HammerTone",
-  "name": "The Vault Sealed by Oath",
-  "triggers": [
-   "the vault sealed by oath"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089084825667789139"
- },
- {
   "band": "Rish",
   "name": "Keeper Of The Flame",
   "triggers": [
@@ -7445,5 +7437,13 @@
    "the chorus is a network"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097555634694594619"
+ },
+ {
+  "band": "HammerTone",
+  "name": "The Vault Sealed by Oath",
+  "triggers": [
+   "the vault sealed by oath"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097580837180936238"
  }
 ]

@@ -47,14 +47,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Vault Sealed by Oath",
-  "triggers": [
-   "the vault sealed by oath"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089084825667789139",
-  "tag": "$MfT"
- },
- {
   "name": "The Smith Shares His Fire",
   "triggers": [
    "the smith shares his fire"
@@ -109,6 +101,14 @@
    "name it and it's made"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097505298973868244",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Vault Sealed by Oath",
+  "triggers": [
+   "the vault sealed by oath"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097580837180936238",
   "tag": "$MfT"
  }
 ]
