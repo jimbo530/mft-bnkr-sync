@@ -6404,19 +6404,6 @@
     "caption": "\"Lighter than before\"\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2092663379714302401",
-    "translation": "The Canopy Owes Nobody",
-    "name": "The Canopy Owes Nobody",
-    "triggers": [
-      "the canopy owes nobody"
-    ],
-    "band": "EBM",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2092663379714302401",
-    "caption": "\"The Canopy Owes Nobody\" — Elves of Ballinmoore\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2092668470252957919",
     "translation": "Digerie Dude - Crown of Silence",
     "name": "Digerie Dude - Crown of Silence",
@@ -12097,5 +12084,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2097822532405461299",
     "caption": "\"Open The Gates (Monkey Town Tonight)\" — Damned Good Time Orchestra\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2097827412574691521",
+    "translation": "The Canopy Owes Nobody",
+    "name": "The Canopy Owes Nobody",
+    "triggers": [
+      "the canopy owes nobody"
+    ],
+    "band": "EBM",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2097827412574691521",
+    "caption": "\"The Canopy Owes Nobody\" — Elves of Ballinmoore\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
