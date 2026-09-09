@@ -72,14 +72,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Built To Outlive Me",
-  "triggers": [
-   "built to outlive me"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089462340865380688",
-  "tag": "$MfT"
- },
- {
   "name": "Love Is The Power",
   "triggers": [
    "love is the power"
@@ -405,6 +397,14 @@
    "the long rain feeds"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097359350536757618",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Built To Outlive Me",
+  "triggers": [
+   "built to outlive me"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097475168524218707",
   "tag": "$MfT"
  }
 ]

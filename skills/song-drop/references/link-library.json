@@ -3274,19 +3274,6 @@
     "caption": "\"Every Land Pays In\" — Digerie Dude\npress play, plant trees\n\nThank you @artizen for including our Crypto Endowment Network in Season 7 💚 the bands sing their gratitude better than we can say it 🌱"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2089462340865380688",
-    "translation": "Built To Outlive Me",
-    "name": "Built To Outlive Me",
-    "triggers": [
-      "built to outlive me"
-    ],
-    "band": "MR",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2089462340865380688",
-    "caption": "\"Built To Outlive Me\" — Moon Rasta\ngood tunes, real forests\n\nThank you @artizen for including our Crypto Endowment Network in Season 7 💚 the bands sing their gratitude better than we can say it 🌱"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2089477434584314028",
     "translation": "The Kid The Vault Fed",
     "name": "The Kid The Vault Fed",
@@ -12087,5 +12074,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2097449995758711171",
     "caption": "\"Gone in a Second\" — Damned Good Time Orchestra\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2097475168524218707",
+    "translation": "Built To Outlive Me",
+    "name": "Built To Outlive Me",
+    "triggers": [
+      "built to outlive me"
+    ],
+    "band": "MR",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2097475168524218707",
+    "caption": "\"Built To Outlive Me\" — Moon Rasta\ngood tunes, real forests\n\nThank you @artizen for including our Crypto Endowment Network in Season 7 💚 the bands sing their gratitude better than we can say it 🌱"
   }
 ]

@@ -2042,14 +2042,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2089457326373613817"
  },
  {
-  "band": "MR",
-  "name": "Built To Outlive Me",
-  "triggers": [
-   "built to outlive me"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089462340865380688"
- },
- {
   "band": "JS",
   "name": "The Kid The Vault Fed",
   "triggers": [
@@ -7448,5 +7440,13 @@
    "gone in a second"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097449995758711171"
+ },
+ {
+  "band": "MR",
+  "name": "Built To Outlive Me",
+  "triggers": [
+   "built to outlive me"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097475168524218707"
  }
 ]
