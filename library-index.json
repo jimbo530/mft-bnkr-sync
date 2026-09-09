@@ -648,14 +648,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086709263250940247"
  },
  {
-  "band": "NN",
-  "name": "The Lady Keeps the Leaves",
-  "triggers": [
-   "the lady keeps the leaves"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086829995075293637"
- },
- {
   "band": "CB",
   "name": "STILL HERE FORWARD",
   "triggers": [
@@ -7453,5 +7445,13 @@
    "- the sky people came to party"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097611072299540779"
+ },
+ {
+  "band": "NN",
+  "name": "The Lady Keeps the Leaves",
+  "triggers": [
+   "the lady keeps the leaves"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097616024967213328"
  }
 ]
