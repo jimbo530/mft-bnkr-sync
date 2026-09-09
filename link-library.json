@@ -1350,19 +1350,6 @@
     "caption": "\"Cheap Tricks Expensive Forests\" — Natilie Nightclub\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2088782822920090094",
-    "translation": "Your Name Arrives Before You",
-    "name": "Your Name Arrives Before You",
-    "triggers": [
-      "your name arrives before you"
-    ],
-    "band": "DD",
-    "tag": "$MfT",
-    "ca": "0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3",
-    "xPost": "https://x.com/MemeForTrees/status/2088782822920090094",
-    "caption": "\"Your Name Arrives Before You\" — Digerie Dude\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2053354383186755742",
     "translation": "“zFROM MEMES TO MANGROVES”",
     "name": "“zFROM MEMES TO MANGROVES”",
@@ -12084,5 +12071,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2097580837180936238",
     "caption": "\"The Vault Sealed by Oath\" — Hammer Tone\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2097585881880125471",
+    "translation": "Your Name Arrives Before You",
+    "name": "Your Name Arrives Before You",
+    "triggers": [
+      "your name arrives before you"
+    ],
+    "band": "DD",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2097585881880125471",
+    "caption": "\"Your Name Arrives Before You\" — Digerie Dude\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

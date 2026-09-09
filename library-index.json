@@ -848,14 +848,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088697261026844820"
  },
  {
-  "band": "DD",
-  "name": "Your Name Arrives Before You",
-  "triggers": [
-   "your name arrives before you"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088782822920090094"
- },
- {
   "band": "EBM",
   "name": "“zFROM MEMES TO MANGROVES”",
   "triggers": [
@@ -7445,5 +7437,13 @@
    "the vault sealed by oath"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097580837180936238"
+ },
+ {
+  "band": "DD",
+  "name": "Your Name Arrives Before You",
+  "triggers": [
+   "your name arrives before you"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097585881880125471"
  }
 ]
