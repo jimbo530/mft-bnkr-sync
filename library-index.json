@@ -835,14 +835,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088204034142273828"
  },
  {
-  "band": "DD",
-  "name": "Gather the Good Road",
-  "triggers": [
-   "gather the good road"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088249330968727871"
- },
- {
   "band": "CB",
   "name": "Plant It Loud",
   "triggers": [
@@ -7448,5 +7440,13 @@
    "built to outlast"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097480127319789955"
+ },
+ {
+  "band": "DD",
+  "name": "Gather the Good Road",
+  "triggers": [
+   "gather the good road"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097495278735516105"
  }
 ]

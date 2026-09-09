@@ -1327,19 +1327,6 @@
     "caption": "\"One River\" — Digerie Dude\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2088249330968727871",
-    "translation": "Gather the Good Road",
-    "name": "Gather the Good Road",
-    "triggers": [
-      "gather the good road"
-    ],
-    "band": "DD",
-    "tag": "$MfT",
-    "ca": "0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3",
-    "xPost": "https://x.com/MemeForTrees/status/2088249330968727871",
-    "caption": "\"Gather the Good Road\" — Digerie Dude\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2088304703079686490",
     "translation": "Plant It Loud",
     "name": "Plant It Loud",
@@ -12087,5 +12074,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2097480127319789955",
     "caption": "\"Built To Outlast\" — Biggins Mcjammin\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2097495278735516105",
+    "translation": "Gather the Good Road",
+    "name": "Gather the Good Road",
+    "triggers": [
+      "gather the good road"
+    ],
+    "band": "DD",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2097495278735516105",
+    "caption": "\"Gather the Good Road\" — Digerie Dude\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
