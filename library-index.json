@@ -4010,14 +4010,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2092406740713189736"
  },
  {
-  "band": "Bongo",
-  "name": "Blessed. Again.",
-  "triggers": [
-   "blessed. again."
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092421835744801143"
- },
- {
   "band": "Myco",
   "name": "- Spores Don't Read The Chart",
   "triggers": [
@@ -7448,5 +7440,13 @@
    "name it and it's made"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097505298973868244"
+ },
+ {
+  "band": "Bongo",
+  "name": "Blessed. Again.",
+  "triggers": [
+   "blessed. again."
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097520394848596365"
  }
 ]

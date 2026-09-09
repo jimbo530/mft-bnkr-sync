@@ -106,14 +106,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Blessed. Again.",
-  "triggers": [
-   "blessed. again."
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092421835744801143",
-  "tag": "$MfT"
- },
- {
   "name": "CHARGE! (The Ballad of Bold Nobi)",
   "triggers": [
    "charge! (the ballad of bold nobi)"
@@ -351,6 +343,14 @@
    "1,312 jpegs"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097032185928687770",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Blessed. Again.",
+  "triggers": [
+   "blessed. again."
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097520394848596365",
   "tag": "$MfT"
  }
 ]
