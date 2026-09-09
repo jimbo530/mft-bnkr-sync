@@ -640,14 +640,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086970919851860164"
  },
  {
-  "band": "JS",
-  "name": "Nix at the Front",
-  "triggers": [
-   "nix at the front"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087071539380330869"
- },
- {
   "band": "Bongo",
   "name": "The Beat Votes Tomorrow",
   "triggers": [
@@ -7453,5 +7445,13 @@
    "light the spark"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097792233449591288"
+ },
+ {
+  "band": "JS",
+  "name": "Nix at the Front",
+  "triggers": [
+   "nix at the front"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097797259567993330"
  }
 ]

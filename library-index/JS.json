@@ -24,14 +24,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Nix at the Front",
-  "triggers": [
-   "nix at the front"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087071539380330869",
-  "tag": "$MfT"
- },
- {
   "name": "She Just Said It",
   "triggers": [
    "she just said it"
@@ -758,6 +750,14 @@
    "everybody plants"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097122811525447799",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Nix at the Front",
+  "triggers": [
+   "nix at the front"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097797259567993330",
   "tag": "$MfT"
  }
 ]
