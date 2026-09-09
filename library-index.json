@@ -648,14 +648,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086709263250940247"
  },
  {
-  "band": "Myco",
-  "name": "The Chorus Is a Network",
-  "triggers": [
-   "the chorus is a network"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086729394228277570"
- },
- {
   "band": "NN",
   "name": "The Lady Keeps the Leaves",
   "triggers": [
@@ -7445,5 +7437,13 @@
    "bread and water"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097550638129295763"
+ },
+ {
+  "band": "Myco",
+  "name": "The Chorus Is a Network",
+  "triggers": [
+   "the chorus is a network"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097555634694594619"
  }
 ]

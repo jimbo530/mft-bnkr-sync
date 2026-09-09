@@ -1025,19 +1025,6 @@
     "caption": "\"A Pouch That Holds It All\" — Digerie Dude\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2086729394228277570",
-    "translation": "The Chorus Is a Network",
-    "name": "The Chorus Is a Network",
-    "triggers": [
-      "the chorus is a network"
-    ],
-    "band": "Myco",
-    "tag": "$MfT",
-    "ca": "0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3",
-    "xPost": "https://x.com/MemeForTrees/status/2086729394228277570",
-    "caption": "\"- The Chorus Is a Network\" — Myco\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2086829995075293637",
     "translation": "The Lady Keeps the Leaves",
     "name": "The Lady Keeps the Leaves",
@@ -12084,5 +12071,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2097550638129295763",
     "caption": "\"Bread and Water\" — Rish\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2097555634694594619",
+    "translation": "The Chorus Is a Network",
+    "name": "The Chorus Is a Network",
+    "triggers": [
+      "the chorus is a network"
+    ],
+    "band": "Myco",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2097555634694594619",
+    "caption": "\"- The Chorus Is a Network\" — Myco\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
