@@ -784,14 +784,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088304703079686490"
  },
  {
-  "band": "Rish",
-  "name": "A Little Kid Said Thank You",
-  "triggers": [
-   "a little kid said thank you"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088329825601589371"
- },
- {
   "band": "EBM",
   "name": "The Good Word",
   "triggers": [
@@ -7453,5 +7445,13 @@
    "the wide path"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097701640794972279"
+ },
+ {
+  "band": "Rish",
+  "name": "A Little Kid Said Thank You",
+  "triggers": [
+   "a little kid said thank you"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097706671728431238"
  }
 ]

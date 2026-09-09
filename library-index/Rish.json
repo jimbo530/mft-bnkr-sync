@@ -40,14 +40,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "A Little Kid Said Thank You",
-  "triggers": [
-   "a little kid said thank you"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088329825601589371",
-  "tag": "$MfT"
- },
- {
   "name": "Name Yer Monkey",
   "triggers": [
    "name yer monkey"
@@ -334,6 +326,14 @@
    "the first loaf"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097641236987367748",
+  "tag": "$MfT"
+ },
+ {
+  "name": "A Little Kid Said Thank You",
+  "triggers": [
+   "a little kid said thank you"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097706671728431238",
   "tag": "$MfT"
  }
 ]
