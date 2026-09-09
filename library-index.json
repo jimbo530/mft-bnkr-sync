@@ -640,14 +640,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086970919851860164"
  },
  {
-  "band": "CB",
-  "name": "Revolution Has Begun",
-  "triggers": [
-   "revolution has begun"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087011192577397181"
- },
- {
   "band": "JS",
   "name": "Nix at the Front",
   "triggers": [
@@ -7453,5 +7445,13 @@
    "the catalog of tools"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097762054010532170"
+ },
+ {
+  "band": "CB",
+  "name": "Revolution Has Begun",
+  "triggers": [
+   "revolution has begun"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097767027846877416"
  }
 ]
