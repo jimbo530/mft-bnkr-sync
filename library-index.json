@@ -763,14 +763,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2087700698121060529"
  },
  {
-  "band": "HammerTone",
-  "name": "Name It and It's Made",
-  "triggers": [
-   "name it and it's made"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087761088024641612"
- },
- {
   "band": "DD",
   "name": "The Orchard That Was a Fence",
   "triggers": [
@@ -7448,5 +7440,13 @@
    "warmth of the dwarven hearth"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097500274101252578"
+ },
+ {
+  "band": "HammerTone",
+  "name": "Name It and It's Made",
+  "triggers": [
+   "name it and it's made"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097505298973868244"
  }
 ]

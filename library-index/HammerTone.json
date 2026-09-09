@@ -31,14 +31,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Name It and It's Made",
-  "triggers": [
-   "name it and it's made"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087761088024641612",
-  "tag": "$MfT"
- },
- {
   "name": "A Name That Holds",
   "triggers": [
    "a name that holds"
@@ -109,6 +101,14 @@
    "the door in the halls"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097268766472057091",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Name It and It's Made",
+  "triggers": [
+   "name it and it's made"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097505298973868244",
   "tag": "$MfT"
  }
 ]
