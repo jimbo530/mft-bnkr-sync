@@ -24,14 +24,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Built To Outlast",
-  "triggers": [
-   "built to outlast"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088994220019245269",
-  "tag": "$MfT"
- },
- {
   "name": "Hit Share",
   "triggers": [
    "hit share"
@@ -86,6 +78,14 @@
    "it brought its own pack"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097238635233861852",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Built To Outlast",
+  "triggers": [
+   "built to outlast"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097480127319789955",
   "tag": "$MfT"
  }
 ]

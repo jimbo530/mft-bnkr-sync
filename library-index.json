@@ -1787,14 +1787,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088969108108767470"
  },
  {
-  "band": "Biggins",
-  "name": "Built To Outlast",
-  "triggers": [
-   "built to outlast"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088994220019245269"
- },
- {
   "band": "EBM",
   "name": "Vault That Don't Run Dry",
   "triggers": [
@@ -7448,5 +7440,13 @@
    "built to outlive me"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097475168524218707"
+ },
+ {
+  "band": "Biggins",
+  "name": "Built To Outlast",
+  "triggers": [
+   "built to outlast"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097480127319789955"
  }
 ]

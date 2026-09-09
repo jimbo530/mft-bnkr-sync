@@ -2874,19 +2874,6 @@
     "caption": "🎵 \"Never Runs Dry\" — CB\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2088994220019245269",
-    "translation": "Built To Outlast",
-    "name": "Built To Outlast",
-    "triggers": [
-      "built to outlast"
-    ],
-    "band": "Biggins",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2088994220019245269",
-    "caption": "🎵 \"Built To Outlast\" — Biggins Mcjammin\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2089009317521289601",
     "translation": "Vault That Don't Run Dry",
     "name": "Vault That Don't Run Dry",
@@ -12087,5 +12074,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2097475168524218707",
     "caption": "\"Built To Outlive Me\" — Moon Rasta\ngood tunes, real forests\n\nThank you @artizen for including our Crypto Endowment Network in Season 7 💚 the bands sing their gratitude better than we can say it 🌱"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2097480127319789955",
+    "translation": "Built To Outlast",
+    "name": "Built To Outlast",
+    "triggers": [
+      "built to outlast"
+    ],
+    "band": "Biggins",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2097480127319789955",
+    "caption": "\"Built To Outlast\" — Biggins Mcjammin\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
