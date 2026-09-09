@@ -1432,14 +1432,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086588479723495735"
  },
  {
-  "band": "CB",
-  "name": "STILL HERE (FORWARD)",
-  "triggers": [
-   "still here (forward)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087720861318938687"
- },
- {
   "band": "MV",
   "name": "Mcjamin - Math isn't Mathing",
   "triggers": [
@@ -7453,5 +7445,13 @@
    "the first loaf"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097641236987367748"
+ },
+ {
+  "band": "CB",
+  "name": "STILL HERE (FORWARD)",
+  "triggers": [
+   "still here (forward)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097646228506845313"
  }
 ]
