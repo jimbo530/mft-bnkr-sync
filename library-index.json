@@ -472,14 +472,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2085616930602225721"
  },
  {
-  "band": "CB",
-  "name": "Post Laugh Plant Repeat",
-  "triggers": [
-   "post laugh plant repeat"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085737751152926726"
- },
- {
   "band": "Myco",
   "name": "Already Connected",
   "triggers": [
@@ -7453,5 +7445,13 @@
    "plant 'em where the ledger can't reach"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097731957698232545"
+ },
+ {
+  "band": "CB",
+  "name": "Post Laugh Plant Repeat",
+  "triggers": [
+   "post laugh plant repeat"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097736880229933387"
  }
 ]
