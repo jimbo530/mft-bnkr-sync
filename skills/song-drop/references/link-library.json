@@ -2481,19 +2481,6 @@
     "caption": "🎵 \"Name It Once\" — Moon Rasta\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2088123547302371469",
-    "translation": "Open The Gates (Monkey Town Tonight)",
-    "name": "Open The Gates (Monkey Town Tonight)",
-    "triggers": [
-      "open the gates (monkey town tonight)"
-    ],
-    "band": "DGT",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2088123547302371469",
-    "caption": "🎵 \"Open The Gates (Monkey Town Tonight)\" — Damned Good Time Orchestra\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2086115247291564063",
     "translation": "A Name That Holds",
     "name": "A Name That Holds",
@@ -12097,5 +12084,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2097797259567993330",
     "caption": "\"Nix at the Front\" — Jony Sings\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2097822532405461299",
+    "translation": "Open The Gates (Monkey Town Tonight)",
+    "name": "Open The Gates (Monkey Town Tonight)",
+    "triggers": [
+      "open the gates (monkey town tonight)"
+    ],
+    "band": "DGT",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2097822532405461299",
+    "caption": "\"Open The Gates (Monkey Town Tonight)\" — Damned Good Time Orchestra\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

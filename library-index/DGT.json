@@ -48,14 +48,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Open The Gates (Monkey Town Tonight)",
-  "triggers": [
-   "open the gates (monkey town tonight)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088123547302371469",
-  "tag": "$MfT"
- },
- {
   "name": "Put It On The Wire",
   "triggers": [
    "put it on the wire"
@@ -222,6 +214,14 @@
    "plant 'em where the ledger can't reach"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097731957698232545",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Open The Gates (Monkey Town Tonight)",
+  "triggers": [
+   "open the gates (monkey town tonight)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097822532405461299",
   "tag": "$MfT"
  }
 ]

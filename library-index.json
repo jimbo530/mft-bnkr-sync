@@ -1544,14 +1544,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2085596809204801724"
  },
  {
-  "band": "DGT",
-  "name": "Open The Gates (Monkey Town Tonight)",
-  "triggers": [
-   "open the gates (monkey town tonight)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088123547302371469"
- },
- {
   "band": "HammerTone",
   "name": "A Name That Holds",
   "triggers": [
@@ -7453,5 +7445,13 @@
    "nix at the front"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097797259567993330"
+ },
+ {
+  "band": "DGT",
+  "name": "Open The Gates (Monkey Town Tonight)",
+  "triggers": [
+   "open the gates (monkey town tonight)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097822532405461299"
  }
 ]
