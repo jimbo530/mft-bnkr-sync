@@ -16,14 +16,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Warmth of the Dwarven Hearth",
-  "triggers": [
-   "warmth of the dwarven hearth"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086507947761271242",
-  "tag": "$MfT"
- },
- {
   "name": "Come and Stay Free",
   "triggers": [
    "come and stay free"
@@ -110,6 +102,14 @@
    "the neighborly lord"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096287333695770999",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Warmth of the Dwarven Hearth",
+  "triggers": [
+   "warmth of the dwarven hearth"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097500274101252578",
   "tag": "$MfT"
  }
 ]

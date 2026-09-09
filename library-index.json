@@ -627,14 +627,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086487811343933589"
  },
  {
-  "band": "Jasmine",
-  "name": "Warmth of the Dwarven Hearth",
-  "triggers": [
-   "warmth of the dwarven hearth"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086507947761271242"
- },
- {
   "band": "EBM",
   "name": "Costs You Nothing",
   "triggers": [
@@ -7448,5 +7440,13 @@
    "gather the good road"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097495278735516105"
+ },
+ {
+  "band": "Jasmine",
+  "name": "Warmth of the Dwarven Hearth",
+  "triggers": [
+   "warmth of the dwarven hearth"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097500274101252578"
  }
 ]
