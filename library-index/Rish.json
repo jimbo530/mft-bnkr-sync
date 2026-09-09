@@ -40,14 +40,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The First Loaf",
-  "triggers": [
-   "the first loaf"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086694161546109383",
-  "tag": "$MfT"
- },
- {
   "name": "A Little Kid Said Thank You",
   "triggers": [
    "a little kid said thank you"
@@ -334,6 +326,14 @@
    "bread and water"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097550638129295763",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The First Loaf",
+  "triggers": [
+   "the first loaf"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097641236987367748",
   "tag": "$MfT"
  }
 ]

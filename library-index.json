@@ -632,14 +632,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086613597921157226"
  },
  {
-  "band": "Rish",
-  "name": "The First Loaf",
-  "triggers": [
-   "the first loaf"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086694161546109383"
- },
- {
   "band": "DD",
   "name": "A Pouch That Holds It All",
   "triggers": [
@@ -7453,5 +7445,13 @@
    "the lady keeps the leaves"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097616024967213328"
+ },
+ {
+  "band": "Rish",
+  "name": "The First Loaf",
+  "triggers": [
+   "the first loaf"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097641236987367748"
  }
 ]
