@@ -48,14 +48,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Plant 'Em Where the Ledger Can't Reach",
-  "triggers": [
-   "plant 'em where the ledger can't reach"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086085131391889756",
-  "tag": "$MfT"
- },
- {
   "name": "Open The Gates (Monkey Town Tonight)",
   "triggers": [
    "open the gates (monkey town tonight)"
@@ -222,6 +214,14 @@
    "the machine broke down (the band did not)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097525559290925159",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Plant 'Em Where the Ledger Can't Reach",
+  "triggers": [
+   "plant 'em where the ledger can't reach"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097731957698232545",
   "tag": "$MfT"
  }
 ]
