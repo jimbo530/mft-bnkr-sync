@@ -1608,14 +1608,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088853331846303784"
  },
  {
-  "band": "CB",
-  "name": "Light The Spark",
-  "triggers": [
-   "light the spark"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088868446930931849"
- },
- {
   "band": "HammerTone",
   "name": "The Guild That Raises You",
   "triggers": [
@@ -7453,5 +7445,13 @@
    "revolution has begun"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097767027846877416"
+ },
+ {
+  "band": "CB",
+  "name": "Light The Spark",
+  "triggers": [
+   "light the spark"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097792233449591288"
  }
 ]

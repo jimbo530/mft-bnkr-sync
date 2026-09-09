@@ -2585,19 +2585,6 @@
     "caption": "🎵 \"Someone Bet on Me\" — Gurdy\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2088868446930931849",
-    "translation": "Light The Spark",
-    "name": "Light The Spark",
-    "triggers": [
-      "light the spark"
-    ],
-    "band": "CB",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2088868446930931849",
-    "caption": "🎵 \"Light The Spark\" — CB\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2088908666418155810",
     "translation": "The Guild That Raises You",
     "name": "The Guild That Raises You",
@@ -12097,5 +12084,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2097767027846877416",
     "caption": "\"Revolution Has Begun\" — CB\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2097792233449591288",
+    "translation": "Light The Spark",
+    "name": "Light The Spark",
+    "triggers": [
+      "light the spark"
+    ],
+    "band": "CB",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2097792233449591288",
+    "caption": "\"Light The Spark\" — CB\ngood tunes, real forests\n\nThank you @artizen for including our Crypto Endowment Network in Season 7 💚 the bands sing their gratitude better than we can say it 🌱"
   }
 ]
