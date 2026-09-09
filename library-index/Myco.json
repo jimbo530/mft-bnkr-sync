@@ -814,5 +814,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097555634694594619",
   "tag": "$MfT"
+ },
+ {
+  "name": "- The Sky People Came To Party",
+  "triggers": [
+   "- the sky people came to party"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097611072299540779",
+  "tag": "$MfT"
  }
 ]
