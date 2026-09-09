@@ -63,14 +63,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Catalog of Tools",
-  "triggers": [
-   "the catalog of tools"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087519564498079893",
-  "tag": "$MfT"
- },
- {
   "name": "Love Is the Light",
   "triggers": [
    "love is the light"
@@ -821,6 +813,14 @@
    "- the sky people came to party"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097611072299540779",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Catalog of Tools",
+  "triggers": [
+   "the catalog of tools"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097762054010532170",
   "tag": "$MfT"
  }
 ]
