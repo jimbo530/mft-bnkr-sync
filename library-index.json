@@ -624,14 +624,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2087106779758964890"
  },
  {
-  "band": "DGT",
-  "name": "Party While You're Here",
-  "triggers": [
-   "party while you're here"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087111890753249480"
- },
- {
   "band": "DD",
   "name": "Where the Maps Run Out",
   "triggers": [
@@ -7453,5 +7445,13 @@
    "every ovation a tree"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097948244282118530"
+ },
+ {
+  "band": "DGT",
+  "name": "Party While You're Here",
+  "triggers": [
+   "party while you're here"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097973497418875033"
  }
 ]
