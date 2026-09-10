@@ -1502,14 +1502,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088853331846303784"
  },
  {
-  "band": "HammerTone",
-  "name": "The Guild That Raises You",
-  "triggers": [
-   "the guild that raises you"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088908666418155810"
- },
- {
   "band": "Biggins",
   "name": "Start The Thing",
   "triggers": [
@@ -7451,5 +7443,13 @@
    "they paid me to feed you"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098038845241487380"
+ },
+ {
+  "band": "HammerTone",
+  "name": "The Guild That Raises You",
+  "triggers": [
+   "the guild that raises you"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098063973497073978"
  }
 ]

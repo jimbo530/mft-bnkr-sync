@@ -2414,19 +2414,6 @@
     "caption": "🎵 \"Someone Bet on Me\" — Gurdy\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2088908666418155810",
-    "translation": "The Guild That Raises You",
-    "name": "The Guild That Raises You",
-    "triggers": [
-      "the guild that raises you"
-    ],
-    "band": "HammerTone",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2088908666418155810",
-    "caption": "🎵 \"The Guild That Raises You\" — Hammer Tone\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2088928827661553679",
     "translation": "Start The Thing",
     "name": "Start The Thing",
@@ -12095,5 +12082,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2098038845241487380",
     "caption": "\"They Paid Me To Feed You\" — Bongo\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2098063973497073978",
+    "translation": "The Guild That Raises You",
+    "name": "The Guild That Raises You",
+    "triggers": [
+      "the guild that raises you"
+    ],
+    "band": "HammerTone",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2098063973497073978",
+    "caption": "\"The Guild That Raises You\" — Hammer Tone\nturn it up for the trees\n\nThank you @artizen for including our Crypto Endowment Network in Season 7 💚 the bands sing their gratitude better than we can say it 🌱"
   }
 ]
