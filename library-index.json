@@ -1454,14 +1454,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086991063709888514"
  },
  {
-  "band": "MR",
-  "name": "Name It Once",
-  "triggers": [
-   "name it once"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085596809204801724"
- },
- {
   "band": "HammerTone",
   "name": "A Name That Holds",
   "triggers": [
@@ -7451,5 +7443,13 @@
    "the guild that raises you"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098063973497073978"
+ },
+ {
+  "band": "MR",
+  "name": "Name It Once",
+  "triggers": [
+   "name it once"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098069052199403686"
  }
 ]

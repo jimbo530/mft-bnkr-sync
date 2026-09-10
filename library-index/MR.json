@@ -47,14 +47,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Name It Once",
-  "triggers": [
-   "name it once"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085596809204801724",
-  "tag": "$MfT"
- },
- {
   "name": "Someone Bet On The Seed",
   "triggers": [
    "someone bet on the seed"
@@ -405,6 +397,14 @@
    "built to outlive me"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097475168524218707",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Name It Once",
+  "triggers": [
+   "name it once"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098069052199403686",
   "tag": "$MfT"
  }
 ]
