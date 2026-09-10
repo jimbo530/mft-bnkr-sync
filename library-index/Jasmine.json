@@ -16,14 +16,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Come and Stay Free",
-  "triggers": [
-   "come and stay free"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087544667365593366",
-  "tag": "$MfT"
- },
- {
   "name": "A Hundred Skills, No Keeper",
   "triggers": [
    "a hundred skills, no keeper"
@@ -110,6 +102,14 @@
    "a banana a day (monkey town)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097857657428226137",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Come and Stay Free",
+  "triggers": [
+   "come and stay free"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098124400528638120",
   "tag": "$MfT"
  }
 ]
