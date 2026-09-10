@@ -3670,14 +3670,6 @@
  },
  {
   "band": "Myco",
-  "name": "- Spores Don't Read The Chart",
-  "triggers": [
-   "- spores don't read the chart"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092487238479151181"
- },
- {
-  "band": "Myco",
   "name": "Tunes For Trees",
   "triggers": [
    "tunes for trees"
@@ -7451,5 +7443,13 @@
    "the orchard that was a fence"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098169727411462289"
+ },
+ {
+  "band": "Myco",
+  "name": "- Spores Don't Read The Chart",
+  "triggers": [
+   "- spores don't read the chart"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098194893092909499"
  }
 ]

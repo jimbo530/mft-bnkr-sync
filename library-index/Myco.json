@@ -456,14 +456,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "- Spores Don't Read The Chart",
-  "triggers": [
-   "- spores don't read the chart"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092487238479151181",
-  "tag": "$MfT"
- },
- {
   "name": "Tunes For Trees",
   "triggers": [
    "tunes for trees"
@@ -821,6 +813,14 @@
    "everything came up"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098134458507334062",
+  "tag": "$MfT"
+ },
+ {
+  "name": "- Spores Don't Read The Chart",
+  "triggers": [
+   "- spores don't read the chart"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098194893092909499",
   "tag": "$MfT"
  }
 ]
