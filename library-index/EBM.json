@@ -550,14 +550,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Witness In The Timber",
-  "triggers": [
-   "witness in the timber"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093388155726463139",
-  "tag": "$MfT"
- },
- {
   "name": "ELVES OF BALLINMOORE — “DOUBT CAN’T TOUC",
   "triggers": [
    "elves of ballinmoore — “doubt can’t touc"
@@ -843,6 +835,14 @@
    "chorus like an army"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097978438569074735",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Witness In The Timber",
+  "triggers": [
+   "witness in the timber"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098129390664052829",
   "tag": "$MfT"
  }
 ]

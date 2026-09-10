@@ -4373,14 +4373,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093383188231970996"
  },
  {
-  "band": "EBM",
-  "name": "Witness In The Timber",
-  "triggers": [
-   "witness in the timber"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093388155726463139"
- },
- {
   "band": "MV",
   "name": "EBM - Char to the Root",
   "triggers": [
@@ -7451,5 +7443,13 @@
    "come and stay free"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098124400528638120"
+ },
+ {
+  "band": "EBM",
+  "name": "Witness In The Timber",
+  "triggers": [
+   "witness in the timber"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098129390664052829"
  }
 ]
