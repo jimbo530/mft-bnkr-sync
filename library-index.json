@@ -439,14 +439,6 @@
  },
  {
   "band": "Rish",
-  "name": "Will Ye Come to Shillwood",
-  "triggers": [
-   "will ye come to shillwood"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085501222077767769"
- },
- {
-  "band": "Rish",
   "name": "The Kindest Well",
   "triggers": [
    "the kindest well"
@@ -7451,5 +7443,13 @@
    "name it once"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098069052199403686"
+ },
+ {
+  "band": "Rish",
+  "name": "Will Ye Come to Shillwood",
+  "triggers": [
+   "will ye come to shillwood"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098094287829274706"
  }
 ]

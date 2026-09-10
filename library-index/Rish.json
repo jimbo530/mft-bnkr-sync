@@ -1,13 +1,5 @@
 [
  {
-  "name": "Will Ye Come to Shillwood",
-  "triggers": [
-   "will ye come to shillwood"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085501222077767769",
-  "tag": "$MfT"
- },
- {
   "name": "The Kindest Well",
   "triggers": [
    "the kindest well"
@@ -334,6 +326,14 @@
    "a little kid said thank you"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097706671728431238",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Will Ye Come to Shillwood",
+  "triggers": [
+   "will ye come to shillwood"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098094287829274706",
   "tag": "$MfT"
  }
 ]
