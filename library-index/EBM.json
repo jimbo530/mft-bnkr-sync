@@ -61,14 +61,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Garden Watch",
-  "triggers": [
-   "the garden watch"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086246100336292347",
-  "tag": "$MfT"
- },
- {
   "name": "Raid for the Children",
   "triggers": [
    "raid for the children"
@@ -843,6 +835,14 @@
    "witness in the timber"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098129390664052829",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Garden Watch",
+  "triggers": [
+   "the garden watch"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098164690249535604",
   "tag": "$MfT"
  }
 ]

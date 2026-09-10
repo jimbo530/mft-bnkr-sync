@@ -789,19 +789,6 @@
     "caption": "\"Fastest Word In the Sky\" — Ricky Bobbie\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2086246100336292347",
-    "translation": "The Garden Watch",
-    "name": "The Garden Watch",
-    "triggers": [
-      "the garden watch"
-    ],
-    "band": "EBM",
-    "tag": "$MfT",
-    "ca": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d",
-    "xPost": "https://x.com/MemeForTrees/status/2086246100336292347",
-    "caption": "\"The Garden Watch\" — Elves of Ballinmoore\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2086266270228377664",
     "translation": "Raid for the Children",
     "name": "Raid for the Children",
@@ -12095,5 +12082,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2098139552737009796",
     "caption": "\"Every Land Pays In\" — Digerie Dude\npress play, plant trees\n\nThank you @artizen for including our Crypto Endowment Network in Season 7 💚 the bands sing their gratitude better than we can say it 🌱"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2098164690249535604",
+    "translation": "The Garden Watch",
+    "name": "The Garden Watch",
+    "triggers": [
+      "the garden watch"
+    ],
+    "band": "EBM",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2098164690249535604",
+    "caption": "\"The Garden Watch\" — Elves of Ballinmoore\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

@@ -503,14 +503,6 @@
  },
  {
   "band": "EBM",
-  "name": "The Garden Watch",
-  "triggers": [
-   "the garden watch"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086246100336292347"
- },
- {
-  "band": "EBM",
   "name": "Raid for the Children",
   "triggers": [
    "raid for the children"
@@ -7451,5 +7443,13 @@
    "every land pays in"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098139552737009796"
+ },
+ {
+  "band": "EBM",
+  "name": "The Garden Watch",
+  "triggers": [
+   "the garden watch"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098164690249535604"
  }
 ]
