@@ -576,14 +576,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086407161844810032"
  },
  {
-  "band": "NN",
-  "name": "Every Ovation a Tree",
-  "triggers": [
-   "every ovation a tree"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086417340279804317"
- },
- {
   "band": "Rish",
   "name": "The Bringing-In",
   "triggers": [
@@ -7453,5 +7445,13 @@
    "the public works march"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097943198555332690"
+ },
+ {
+  "band": "NN",
+  "name": "Every Ovation a Tree",
+  "triggers": [
+   "every ovation a tree"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097948244282118530"
  }
 ]
