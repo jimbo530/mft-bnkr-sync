@@ -688,14 +688,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2087866788780331185"
  },
  {
-  "band": "RickyBobbie",
-  "name": "No Value But Songs We Sing",
-  "triggers": [
-   "no value but songs we sing"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087881878271385748"
- },
- {
   "band": "JS",
   "name": "Nobody At the Back",
   "triggers": [
@@ -7453,5 +7445,13 @@
    "already connected"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097882787923612039"
+ },
+ {
+  "band": "RickyBobbie",
+  "name": "No Value But Songs We Sing",
+  "triggers": [
+   "no value but songs we sing"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097887812477493688"
  }
 ]

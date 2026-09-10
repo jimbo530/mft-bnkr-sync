@@ -8,14 +8,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "No Value But Songs We Sing",
-  "triggers": [
-   "no value but songs we sing"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087881878271385748",
-  "tag": "$MfT"
- },
- {
   "name": "Signal In The Sails",
   "triggers": [
    "signal in the sails"
@@ -102,6 +94,14 @@
    "wind in your sails"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097153016575000669",
+  "tag": "$MfT"
+ },
+ {
+  "name": "No Value But Songs We Sing",
+  "triggers": [
+   "no value but songs we sing"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097887812477493688",
   "tag": "$MfT"
  }
 ]
