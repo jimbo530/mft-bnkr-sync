@@ -2494,19 +2494,6 @@
     "caption": "🎵 \"A Name That Holds\" — Hammer Tone\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2086231043326030056",
-    "translation": "A Banana a Day (Monkey Town)",
-    "name": "A Banana a Day (Monkey Town)",
-    "triggers": [
-      "a banana a day (monkey town)"
-    ],
-    "band": "Jasmine",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2086231043326030056",
-    "caption": "🎵 \"A Banana a Day (Monkey Town)\" — Jasmine the Tiger\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2086648821832962156",
     "translation": "Name Yer Monkey",
     "name": "Name Yer Monkey",
@@ -12097,5 +12084,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2097852632752652343",
     "caption": "\"Back A Friend's Dream\" — Jasmine\nturn it up for the trees\n\nThank you @artizen for including our Crypto Endowment Network in Season 7 💚 the bands sing their gratitude better than we can say it 🌱"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2097857657428226137",
+    "translation": "A Banana a Day (Monkey Town)",
+    "name": "A Banana a Day (Monkey Town)",
+    "triggers": [
+      "a banana a day (monkey town)"
+    ],
+    "band": "Jasmine",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2097857657428226137",
+    "caption": "\"A Banana a Day (Monkey Town)\" — Jasmine\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
