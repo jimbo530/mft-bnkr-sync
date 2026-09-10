@@ -646,21 +646,6 @@
     "caption": "\"The Sky People Came To Party\" — Myco\n\n$MfT 0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3"
   },
   {
-    "file": "https://x.com/MonkyTownWallet/status/2084310631088332858",
-    "translation": "Always GM on Robinhood Chain",
-    "name": "Always GM on Robinhood Chain",
-    "triggers": [
-      "always gm on robinhood chain",
-      "always gm",
-      "gm on robinhood chain"
-    ],
-    "band": "Bongo",
-    "tag": "$MfT",
-    "ca": "",
-    "xPost": "https://x.com/MonkyTownWallet/status/2084310631088332858",
-    "caption": "\"Always GM on Robinhood Chain\" — Bongo"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2085239458304049353",
     "translation": "Carry the Water",
     "name": "Carry the Water",
@@ -12097,5 +12082,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2097978438569074735",
     "caption": "\"Chorus Like an Army\" — Elves of Ballinmoore\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2098003628015460682",
+    "translation": "Always GM on Robinhood Chain",
+    "name": "Always GM on Robinhood Chain",
+    "triggers": [
+      "always gm on robinhood chain"
+    ],
+    "band": "Bongo",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2098003628015460682",
+    "caption": "\"Always GM on Robinhood Chain\" — Bongo\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

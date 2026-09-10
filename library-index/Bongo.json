@@ -31,16 +31,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079622844602888196"
  },
  {
-  "name": "Always GM on Robinhood Chain",
-  "triggers": [
-   "always gm on robinhood chain",
-   "always gm",
-   "gm on robinhood chain"
-  ],
-  "xPost": "https://x.com/MonkyTownWallet/status/2084310631088332858",
-  "tag": "$MfT"
- },
- {
   "name": "The Beat Votes Tomorrow",
   "triggers": [
    "the beat votes tomorrow"
@@ -351,6 +341,14 @@
    "one reason (trees)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097918047121973379",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Always GM on Robinhood Chain",
+  "triggers": [
+   "always gm on robinhood chain"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098003628015460682",
   "tag": "$MfT"
  }
 ]

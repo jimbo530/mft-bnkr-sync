@@ -414,16 +414,6 @@
   "xPost": "https://x.com/MonkyTownWallet/status/2083249368035987512"
  },
  {
-  "band": "Bongo",
-  "name": "Always GM on Robinhood Chain",
-  "triggers": [
-   "always gm on robinhood chain",
-   "always gm",
-   "gm on robinhood chain"
-  ],
-  "xPost": "https://x.com/MonkyTownWallet/status/2084310631088332858"
- },
- {
   "band": "DD",
   "name": "Carry the Water",
   "triggers": [
@@ -7453,5 +7443,13 @@
    "chorus like an army"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097978438569074735"
+ },
+ {
+  "band": "Bongo",
+  "name": "Always GM on Robinhood Chain",
+  "triggers": [
+   "always gm on robinhood chain"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098003628015460682"
  }
 ]
