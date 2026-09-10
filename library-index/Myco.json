@@ -47,14 +47,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Already Connected",
-  "triggers": [
-   "already connected"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085762925747228851",
-  "tag": "$MfT"
- },
- {
   "name": "Everything Came Up",
   "triggers": [
    "everything came up"
@@ -821,6 +813,14 @@
    "the catalog of tools"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097762054010532170",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Already Connected",
+  "triggers": [
+   "already connected"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097882787923612039",
   "tag": "$MfT"
  }
 ]

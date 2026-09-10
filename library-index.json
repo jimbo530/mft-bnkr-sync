@@ -472,14 +472,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2085616930602225721"
  },
  {
-  "band": "Myco",
-  "name": "Already Connected",
-  "triggers": [
-   "already connected"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085762925747228851"
- },
- {
   "band": "EBM",
   "name": "Chorus Like an Army",
   "triggers": [
@@ -7453,5 +7445,13 @@
    "a banana a day (monkey town)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097857657428226137"
+ },
+ {
+  "band": "Myco",
+  "name": "Already Connected",
+  "triggers": [
+   "already connected"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097882787923612039"
  }
 ]
