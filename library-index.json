@@ -1847,14 +1847,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2089643487343824992"
  },
  {
-  "band": "PW",
-  "name": "The Public Works March",
-  "triggers": [
-   "the public works march"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089663651208630375"
- },
- {
   "band": "ALAN",
   "name": "Thanks For Listening",
   "triggers": [
@@ -7453,5 +7445,13 @@
    "one reason (trees)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097918047121973379"
+ },
+ {
+  "band": "PW",
+  "name": "The Public Works March",
+  "triggers": [
+   "the public works march"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097943198555332690"
  }
 ]
