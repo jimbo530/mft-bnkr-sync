@@ -473,14 +473,6 @@
  },
  {
   "band": "EBM",
-  "name": "Chorus Like an Army",
-  "triggers": [
-   "chorus like an army"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085778042295611566"
- },
- {
-  "band": "EBM",
   "name": "The Grove Remembers Who Showed Up",
   "triggers": [
    "the grove remembers who showed up"
@@ -7453,5 +7445,13 @@
    "party while you're here"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097973497418875033"
+ },
+ {
+  "band": "EBM",
+  "name": "Chorus Like an Army",
+  "triggers": [
+   "chorus like an army"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097978438569074735"
  }
 ]
