@@ -16,14 +16,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "It Keeps Itself Alive",
-  "triggers": [
-   "it keeps itself alive"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086613597921157226",
-  "tag": "$MfT"
- },
- {
   "name": "STILL HERE FORWARD",
   "triggers": [
    "still here forward"
@@ -502,6 +494,14 @@
    "light the spark"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097792233449591288",
+  "tag": "$MfT"
+ },
+ {
+  "name": "It Keeps Itself Alive",
+  "triggers": [
+   "it keeps itself alive"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097913026414338501",
   "tag": "$MfT"
  }
 ]

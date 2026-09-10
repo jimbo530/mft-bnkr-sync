@@ -608,14 +608,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086548201193037956"
  },
  {
-  "band": "CB",
-  "name": "It Keeps Itself Alive",
-  "triggers": [
-   "it keeps itself alive"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086613597921157226"
- },
- {
   "band": "DD",
   "name": "A Pouch That Holds It All",
   "triggers": [
@@ -7453,5 +7445,13 @@
    "no value but songs we sing"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097887812477493688"
+ },
+ {
+  "band": "CB",
+  "name": "It Keeps Itself Alive",
+  "triggers": [
+   "it keeps itself alive"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2097913026414338501"
  }
 ]
