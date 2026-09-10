@@ -1813,14 +1813,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2089643487343824992"
  },
  {
-  "band": "ALAN",
-  "name": "Thanks For Listening",
-  "triggers": [
-   "thanks for listening"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089678798765670785"
- },
- {
   "band": "DD",
   "name": "Every Land Knows A Tyrant",
   "triggers": [
@@ -7451,5 +7443,13 @@
    "always gm on robinhood chain"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098003628015460682"
+ },
+ {
+  "band": "ALAN",
+  "name": "Thanks For Listening",
+  "triggers": [
+   "thanks for listening"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098008640581996797"
  }
 ]

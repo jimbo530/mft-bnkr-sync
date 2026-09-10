@@ -107,14 +107,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Thanks For Listening",
-  "triggers": [
-   "thanks for listening"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089678798765670785",
-  "tag": "$MfT"
- },
- {
   "name": "For the Tree and the Bees",
   "triggers": [
    "for the tree and the bees"
@@ -136,6 +128,14 @@
    "the lord who rules nobody"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097298930388124113",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Thanks For Listening",
+  "triggers": [
+   "thanks for listening"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098008640581996797",
   "tag": "$MfT"
  }
 ]
