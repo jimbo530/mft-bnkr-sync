@@ -646,14 +646,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2087907080871035174"
  },
  {
-  "band": "Bongo",
-  "name": "They Paid Me To Feed You",
-  "triggers": [
-   "they paid me to feed you"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087927214616547518"
- },
- {
   "band": "MR",
   "name": "Third of the Harvest",
   "triggers": [
@@ -7451,5 +7443,13 @@
    "carry the water"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098033828430266861"
+ },
+ {
+  "band": "Bongo",
+  "name": "They Paid Me To Feed You",
+  "triggers": [
+   "they paid me to feed you"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098038845241487380"
  }
 ]

@@ -39,14 +39,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "They Paid Me To Feed You",
-  "triggers": [
-   "they paid me to feed you"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087927214616547518",
-  "tag": "$MfT"
- },
- {
   "name": "For No Reason at All (The Coin Song)",
   "triggers": [
    "for no reason at all (the coin song)"
@@ -349,6 +341,14 @@
    "always gm on robinhood chain"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098003628015460682",
+  "tag": "$MfT"
+ },
+ {
+  "name": "They Paid Me To Feed You",
+  "triggers": [
+   "they paid me to feed you"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098038845241487380",
   "tag": "$MfT"
  }
 ]
