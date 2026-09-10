@@ -414,14 +414,6 @@
   "xPost": "https://x.com/MonkyTownWallet/status/2083249368035987512"
  },
  {
-  "band": "DD",
-  "name": "Carry the Water",
-  "triggers": [
-   "carry the water"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085239458304049353"
- },
- {
   "band": "CB",
   "name": "Onchain Forest",
   "triggers": [
@@ -7451,5 +7443,13 @@
    "thanks for listening"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098008640581996797"
+ },
+ {
+  "band": "DD",
+  "name": "Carry the Water",
+  "triggers": [
+   "carry the water"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098033828430266861"
  }
 ]

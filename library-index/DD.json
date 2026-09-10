@@ -8,14 +8,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Carry the Water",
-  "triggers": [
-   "carry the water"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085239458304049353",
-  "tag": "$MfT"
- },
- {
   "name": "The Giving Floor",
   "triggers": [
    "the giving floor"
@@ -462,6 +454,14 @@
    "the wide path"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097701640794972279",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Carry the Water",
+  "triggers": [
+   "carry the water"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098033828430266861",
   "tag": "$MfT"
  }
 ]
