@@ -1701,14 +1701,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2089442203294728361"
  },
  {
-  "band": "DD",
-  "name": "Every Land Pays In",
-  "triggers": [
-   "every land pays in"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089457326373613817"
- },
- {
   "band": "JS",
   "name": "The Kid The Vault Fed",
   "triggers": [
@@ -7451,5 +7443,13 @@
    "everything came up"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098134458507334062"
+ },
+ {
+  "band": "DD",
+  "name": "Every Land Pays In",
+  "triggers": [
+   "every land pays in"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098139552737009796"
  }
 ]

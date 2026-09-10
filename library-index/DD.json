@@ -105,14 +105,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Every Land Pays In",
-  "triggers": [
-   "every land pays in"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089457326373613817",
-  "tag": "$MfT"
- },
- {
   "name": "Every Land Knows A Tyrant",
   "triggers": [
    "every land knows a tyrant"
@@ -462,6 +454,14 @@
    "carry the water"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098033828430266861",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Every Land Pays In",
+  "triggers": [
+   "every land pays in"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098139552737009796",
   "tag": "$MfT"
  }
 ]
