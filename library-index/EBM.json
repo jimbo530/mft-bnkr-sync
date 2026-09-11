@@ -77,14 +77,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Good Word",
-  "triggers": [
-   "the good word"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088490876653736021",
-  "tag": "$MfT"
- },
- {
   "name": "“zFROM MEMES TO MANGROVES”",
   "triggers": [
    "“zfrom memes to mangroves”"
@@ -843,6 +835,14 @@
    "the garden watch"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098164690249535604",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Good Word",
+  "triggers": [
+   "the good word"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098285443854868765",
   "tag": "$MfT"
  }
 ]

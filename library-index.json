@@ -606,14 +606,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088304703079686490"
  },
  {
-  "band": "EBM",
-  "name": "The Good Word",
-  "triggers": [
-   "the good word"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088490876653736021"
- },
- {
   "band": "DGT",
   "name": "We Built the Furnace Ourselves",
   "triggers": [
@@ -7451,5 +7443,13 @@
    "the bringing-in"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098260275711311943"
+ },
+ {
+  "band": "EBM",
+  "name": "The Good Word",
+  "triggers": [
+   "the good word"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098285443854868765"
  }
 ]
