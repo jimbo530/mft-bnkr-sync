@@ -518,14 +518,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086407161844810032"
  },
  {
-  "band": "Rish",
-  "name": "The Bringing-In",
-  "triggers": [
-   "the bringing-in"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086422342184366274"
- },
- {
   "band": "DD",
   "name": "Walk With the Eight",
   "triggers": [
@@ -7451,5 +7443,13 @@
    "one river"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098255281222279436"
+ },
+ {
+  "band": "Rish",
+  "name": "The Bringing-In",
+  "triggers": [
+   "the bringing-in"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098260275711311943"
  }
 ]
