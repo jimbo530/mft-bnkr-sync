@@ -1677,14 +1677,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2089739213927313889"
  },
  {
-  "band": "CB",
-  "name": "The Based Lord",
-  "triggers": [
-   "the based lord"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089744256797667542"
- },
- {
   "band": "DGT",
   "name": "The Benevolent Racket",
   "triggers": [
@@ -7451,5 +7443,13 @@
    "the long walk's done"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098315683603906785"
+ },
+ {
+  "band": "CB",
+  "name": "The Based Lord",
+  "triggers": [
+   "the based lord"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098320719637627236"
  }
 ]

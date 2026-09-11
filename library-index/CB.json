@@ -129,14 +129,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Based Lord",
-  "triggers": [
-   "the based lord"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089744256797667542",
-  "tag": "$MfT"
- },
- {
   "name": "Signal in the silence",
   "triggers": [
    "signal in the silence"
@@ -502,6 +494,14 @@
    "it keeps itself alive"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097913026414338501",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Based Lord",
+  "triggers": [
+   "the based lord"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098320719637627236",
   "tag": "$MfT"
  }
 ]
