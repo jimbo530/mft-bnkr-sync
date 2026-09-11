@@ -454,14 +454,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086266270228377664"
  },
  {
-  "band": "DD",
-  "name": "The Giving Floor",
-  "triggers": [
-   "the giving floor"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086291409603047652"
- },
- {
   "band": "Rish",
   "name": "The Mending",
   "triggers": [
@@ -7459,5 +7451,13 @@
    "fastest word in the sky"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098491850432635087"
+ },
+ {
+  "band": "DD",
+  "name": "The Giving Floor",
+  "triggers": [
+   "the giving floor"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098522042672849152"
  }
 ]
