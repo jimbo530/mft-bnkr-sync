@@ -710,19 +710,6 @@
     "caption": "\"Keep Your Purse\" — Natilie Nightclub\nlisten, like, and share to fund forests\n\nMonkey Town runs an Impact Token Launcher — critters like Green Bull and Shrooms trade so real trees get planted 🌱\n\n$MfT 0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2085944124369248617",
-    "translation": "Round Up the Good Ones",
-    "name": "Round Up the Good Ones",
-    "triggers": [
-      "round up the good ones"
-    ],
-    "band": "Rish",
-    "tag": "$MfT",
-    "ca": "0x31c600871603bab5d855463E03c6d0a9eB661D26",
-    "xPost": "https://x.com/MemeForTrees/status/2085944124369248617",
-    "caption": "\"Round Up the Good Ones\" — Rish\nturn it up for the trees\n\nthe band works for a dollar — your song, their voice:\nhttps://tasern.quest/songsmith.html\nor pay right here on X: tag @MonkyTownWallet, any library song for 2 gold or 2 bananas\n\n$MfT 0x31c600871603bab5d855463E03c6d0a9eB661D26"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2086019572541300968",
     "translation": "Pull Up to the Space",
     "name": "Pull Up to the Space",
@@ -12094,5 +12081,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2098396172788421042",
     "caption": "\"New Banner in the Races\" — Elves of Ballinmoore\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2098401256427356260",
+    "translation": "Round Up the Good Ones",
+    "name": "Round Up the Good Ones",
+    "triggers": [
+      "round up the good ones"
+    ],
+    "band": "Rish",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2098401256427356260",
+    "caption": "\"Round Up the Good Ones\" — Rish\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

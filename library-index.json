@@ -454,14 +454,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2085898779476082757"
  },
  {
-  "band": "Rish",
-  "name": "Round Up the Good Ones",
-  "triggers": [
-   "round up the good ones"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085944124369248617"
- },
- {
   "band": "JS",
   "name": "Pull Up to the Space",
   "triggers": [
@@ -7451,5 +7443,13 @@
    "new banner in the races"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098396172788421042"
+ },
+ {
+  "band": "Rish",
+  "name": "Round Up the Good Ones",
+  "triggers": [
+   "round up the good ones"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098401256427356260"
  }
 ]

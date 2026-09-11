@@ -8,14 +8,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Round Up the Good Ones",
-  "triggers": [
-   "round up the good ones"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085944124369248617",
-  "tag": "$MfT"
- },
- {
   "name": "The Mending",
   "triggers": [
    "the mending"
@@ -334,6 +326,14 @@
    "the bringing-in"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098260275711311943",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Round Up the Good Ones",
+  "triggers": [
+   "round up the good ones"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098401256427356260",
   "tag": "$MfT"
  }
 ]
