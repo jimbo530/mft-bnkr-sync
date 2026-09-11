@@ -406,14 +406,6 @@
   "xPost": "https://x.com/MonkyTownWallet/status/2083249368035987512"
  },
  {
-  "band": "CB",
-  "name": "Onchain Forest",
-  "triggers": [
-   "onchain forest"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085259584222920939"
- },
- {
   "band": "EBM",
   "name": "Oldest Magic",
   "triggers": [
@@ -7451,5 +7443,13 @@
    "the based lord"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098320719637627236"
+ },
+ {
+  "band": "CB",
+  "name": "Onchain Forest",
+  "triggers": [
+   "onchain forest"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098345832881827953"
  }
 ]
