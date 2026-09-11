@@ -39,14 +39,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Someone Bet On The Seed",
-  "triggers": [
-   "someone bet on the seed"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088828129259250015",
-  "tag": "$MfT"
- },
- {
   "name": "Share It Like Bread",
   "triggers": [
    "share it like bread"
@@ -405,6 +397,14 @@
    "third of the harvest"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098099241226752249",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Someone Bet On The Seed",
+  "triggers": [
+   "someone bet on the seed"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098199920582791349",
   "tag": "$MfT"
  }
 ]
