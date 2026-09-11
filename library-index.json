@@ -526,14 +526,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2087499369612206497"
  },
  {
-  "band": "JS",
-  "name": "She Just Said It",
-  "triggers": [
-   "she just said it"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087564793058144555"
- },
- {
   "band": "Myco",
   "name": "Love Is the Light",
   "triggers": [
@@ -7459,5 +7451,13 @@
    "oldest magic"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098461648650428510"
+ },
+ {
+  "band": "JS",
+  "name": "She Just Said It",
+  "triggers": [
+   "she just said it"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098486804173160603"
  }
 ]
