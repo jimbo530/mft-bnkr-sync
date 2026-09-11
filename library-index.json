@@ -1685,14 +1685,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2089477434584314028"
  },
  {
-  "band": "NN",
-  "name": "The Money Never Leaves The Party",
-  "triggers": [
-   "the money never leaves the party"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089482503237107874"
- },
- {
   "band": "Strut",
   "name": "Plant It Loud",
   "triggers": [
@@ -7451,5 +7443,13 @@
    "someone bet on the seed"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098199920582791349"
+ },
+ {
+  "band": "NN",
+  "name": "The Money Never Leaves The Party",
+  "triggers": [
+   "the money never leaves the party"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098225040168820900"
  }
 ]
