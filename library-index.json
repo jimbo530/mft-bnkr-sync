@@ -606,14 +606,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088108402891231556"
  },
  {
-  "band": "DD",
-  "name": "One River",
-  "triggers": [
-   "one river"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088204034142273828"
- },
- {
   "band": "CB",
   "name": "Plant It Loud",
   "triggers": [
@@ -7451,5 +7443,13 @@
    "pay the bills (then we play)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098230118946619843"
+ },
+ {
+  "band": "DD",
+  "name": "One River",
+  "triggers": [
+   "one river"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098255281222279436"
  }
 ]
