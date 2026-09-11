@@ -25,14 +25,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "You're The Show",
-  "triggers": [
-   "you're the show"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089643487343824992",
-  "tag": "$MfT"
- },
- {
   "name": "Pennies Into Thunder",
   "triggers": [
    "pennies into thunder"
@@ -118,6 +110,14 @@
    "feathers down"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097324102293856529",
+  "tag": "$MfT"
+ },
+ {
+  "name": "You're The Show",
+  "triggers": [
+   "you're the show"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098290511408779481",
   "tag": "$MfT"
  }
 ]
