@@ -470,14 +470,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086019572541300968"
  },
  {
-  "band": "EBM",
-  "name": "New Banner in the Races",
-  "triggers": [
-   "new banner in the races"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086110205322973554"
- },
- {
   "band": "RickyBobbie",
   "name": "Fastest Word in the Sky",
   "triggers": [
@@ -7451,5 +7443,13 @@
    "let the agent handle it"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098371043903558108"
+ },
+ {
+  "band": "EBM",
+  "name": "New Banner in the Races",
+  "triggers": [
+   "new banner in the races"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098396172788421042"
  }
 ]

@@ -736,19 +736,6 @@
     "caption": "\"Pull Up to the Space\" — Jony Sings\ngood tunes, real forests\n\n$MfT 0x16Ba11AeDA2Da0eb2C64Ff7d0e74884033Ef2C65"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2086110205322973554",
-    "translation": "New Banner in the Races",
-    "name": "New Banner in the Races",
-    "triggers": [
-      "new banner in the races"
-    ],
-    "band": "EBM",
-    "tag": "$MfT",
-    "ca": "0xF113fe2A0E1181A21fA97B1F52ff232140B7692d",
-    "xPost": "https://x.com/MemeForTrees/status/2086110205322973554",
-    "caption": "\"New Banner in the Races\" — Elves of Ballinmoore\ngood tunes, real forests\n\n$MfT 0xF113fe2A0E1181A21fA97B1F52ff232140B7692d"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2086225976095019262",
     "translation": "Fastest Word in the Sky",
     "name": "Fastest Word in the Sky",
@@ -12094,5 +12081,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2098371043903558108",
     "caption": "\"Let the Agent Handle It\" — Natilie Nightclub\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2098396172788421042",
+    "translation": "New Banner in the Races",
+    "name": "New Banner in the Races",
+    "triggers": [
+      "new banner in the races"
+    ],
+    "band": "EBM",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2098396172788421042",
+    "caption": "\"New Banner in the Races\" — Elves of Ballinmoore\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
