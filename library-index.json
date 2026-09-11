@@ -582,14 +582,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088571483702362472"
  },
  {
-  "band": "NN",
-  "name": "Cheap Tricks Expensive Forests",
-  "triggers": [
-   "cheap tricks expensive forests"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088697261026844820"
- },
- {
   "band": "EBM",
   "name": "“zFROM MEMES TO MANGROVES”",
   "triggers": [
@@ -7459,5 +7451,13 @@
    "- it does not go unseen"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098426456988647456"
+ },
+ {
+  "band": "NN",
+  "name": "Cheap Tricks Expensive Forests",
+  "triggers": [
+   "cheap tricks expensive forests"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098431445362463232"
  }
 ]
