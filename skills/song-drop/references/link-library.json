@@ -970,19 +970,6 @@
     "caption": "\"We Built the Furnace Ourselves\" — Damned Good Time Orchestra\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2088677162903580805",
-    "translation": "The Long Walk's Done",
-    "name": "The Long Walk's Done",
-    "triggers": [
-      "the long walk's done"
-    ],
-    "band": "DD",
-    "tag": "$MfT",
-    "ca": "0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3",
-    "xPost": "https://x.com/MemeForTrees/status/2088677162903580805",
-    "caption": "\"The Long Walk's Done\" — Digerie Dude\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2088697261026844820",
     "translation": "Cheap Tricks Expensive Forests",
     "name": "Cheap Tricks Expensive Forests",
@@ -12094,5 +12081,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2098290511408779481",
     "caption": "\"You're The Show\" — Miss Strut\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2098315683603906785",
+    "translation": "The Long Walk's Done",
+    "name": "The Long Walk's Done",
+    "triggers": [
+      "the long walk's done"
+    ],
+    "band": "DD",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2098315683603906785",
+    "caption": "\"The Long Walk's Done\" — Digerie Dude\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

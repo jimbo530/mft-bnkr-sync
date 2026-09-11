@@ -40,14 +40,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Long Walk's Done",
-  "triggers": [
-   "the long walk's done"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088677162903580805",
-  "tag": "$MfT"
- },
- {
   "name": "Title “Scared Money Can’t Win”",
   "triggers": [
    "title “scared money can’t win”"
@@ -462,6 +454,14 @@
    "one river"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098255281222279436",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Long Walk's Done",
+  "triggers": [
+   "the long walk's done"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098315683603906785",
   "tag": "$MfT"
  }
 ]

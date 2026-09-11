@@ -614,14 +614,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088571483702362472"
  },
  {
-  "band": "DD",
-  "name": "The Long Walk's Done",
-  "triggers": [
-   "the long walk's done"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088677162903580805"
- },
- {
   "band": "NN",
   "name": "Cheap Tricks Expensive Forests",
   "triggers": [
@@ -7451,5 +7443,13 @@
    "you're the show"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098290511408779481"
+ },
+ {
+  "band": "DD",
+  "name": "The Long Walk's Done",
+  "triggers": [
+   "the long walk's done"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098315683603906785"
  }
 ]
