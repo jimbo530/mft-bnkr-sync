@@ -398,14 +398,6 @@
   "xPost": "https://x.com/MonkyTownWallet/status/2083249368035987512"
  },
  {
-  "band": "EBM",
-  "name": "Oldest Magic",
-  "triggers": [
-   "oldest magic"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085335080713461969"
- },
- {
   "band": "WarMachine",
   "name": "It Moves When We Roar",
   "triggers": [
@@ -7459,5 +7451,13 @@
    "how you made them feel"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098456582992359492"
+ },
+ {
+  "band": "EBM",
+  "name": "Oldest Magic",
+  "triggers": [
+   "oldest magic"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098461648650428510"
  }
 ]

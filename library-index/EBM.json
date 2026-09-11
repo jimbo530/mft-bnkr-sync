@@ -37,14 +37,6 @@
   ]
  },
  {
-  "name": "Oldest Magic",
-  "triggers": [
-   "oldest magic"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085335080713461969",
-  "tag": "$MfT"
- },
- {
   "name": "The Grove Remembers Who Showed Up",
   "triggers": [
    "the grove remembers who showed up"
@@ -843,6 +835,14 @@
    "new banner in the races"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098396172788421042",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Oldest Magic",
+  "triggers": [
+   "oldest magic"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098461648650428510",
   "tag": "$MfT"
  }
 ]
