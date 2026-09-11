@@ -295,14 +295,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079388587297038636"
  },
  {
-  "band": "Bongo",
-  "name": "Pay the Bills (Then We Play)",
-  "triggers": [
-   "pay the bills (then we play)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079622844602888196"
- },
- {
   "band": "Myco",
   "name": "Every Day Above the Dark",
   "triggers": [
@@ -7451,5 +7443,13 @@
    "the money never leaves the party"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098225040168820900"
+ },
+ {
+  "band": "Bongo",
+  "name": "Pay the Bills (Then We Play)",
+  "triggers": [
+   "pay the bills (then we play)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098230118946619843"
  }
 ]

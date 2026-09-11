@@ -453,20 +453,6 @@
     "boothCommission": "sg_mru0f0xf2"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2079622844602888196",
-    "translation": "Pay the Bills (Then We Play)",
-    "name": "Pay the Bills (Then We Play)",
-    "triggers": [
-      "pay the bills (then we play)"
-    ],
-    "band": "Bongo",
-    "tag": "",
-    "ca": "",
-    "xPost": "https://x.com/MemeForTrees/status/2079622844602888196",
-    "caption": "\"Pay the Bills (Then We Play)\" — Bongo",
-    "boothCommission": "sg_mruxqhswbi"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2079771002322514242",
     "translation": "Every Day Above the Dark",
     "name": "Every Day Above the Dark",
@@ -12095,5 +12081,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2098225040168820900",
     "caption": "\"The Money Never Leaves The Party\" — Natilie Nightclub\npress play, plant trees\n\nThank you @artizen for including our Crypto Endowment Network in Season 7 💚 the bands sing their gratitude better than we can say it 🌱"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2098230118946619843",
+    "translation": "Pay the Bills (Then We Play)",
+    "name": "Pay the Bills (Then We Play)",
+    "triggers": [
+      "pay the bills (then we play)"
+    ],
+    "band": "Bongo",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2098230118946619843",
+    "caption": "\"Pay the Bills (Then We Play)\" — Bongo\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

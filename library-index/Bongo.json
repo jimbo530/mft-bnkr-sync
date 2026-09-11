@@ -24,13 +24,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Pay the Bills (Then We Play)",
-  "triggers": [
-   "pay the bills (then we play)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079622844602888196"
- },
- {
   "name": "The Beat Votes Tomorrow",
   "triggers": [
    "the beat votes tomorrow"
@@ -349,6 +342,14 @@
    "they paid me to feed you"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098038845241487380",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Pay the Bills (Then We Play)",
+  "triggers": [
+   "pay the bills (then we play)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098230118946619843",
   "tag": "$MfT"
  }
 ]
