@@ -1638,14 +1638,6 @@
  },
  {
   "band": "Strut",
-  "name": "Plant It Loud",
-  "triggers": [
-   "plant it loud"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089598227209158662"
- },
- {
-  "band": "Strut",
   "name": "The First Yes",
   "triggers": [
    "the first yes"
@@ -7451,5 +7443,13 @@
    "the benevolent racket"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098350959415972012"
+ },
+ {
+  "band": "Strut",
+  "name": "Plant It Loud",
+  "triggers": [
+   "plant it loud"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098366011523162322"
  }
 ]
