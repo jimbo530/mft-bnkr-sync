@@ -1,13 +1,5 @@
 [
  {
-  "name": "Fastest Word in the Sky",
-  "triggers": [
-   "fastest word in the sky"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086225976095019262",
-  "tag": "$MfT"
- },
- {
   "name": "Signal In The Sails",
   "triggers": [
    "signal in the sails"
@@ -102,6 +94,14 @@
    "no value but songs we sing"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097887812477493688",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Fastest Word in the Sky",
+  "triggers": [
+   "fastest word in the sky"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098491850432635087",
   "tag": "$MfT"
  }
 ]

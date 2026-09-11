@@ -446,14 +446,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086019572541300968"
  },
  {
-  "band": "RickyBobbie",
-  "name": "Fastest Word in the Sky",
-  "triggers": [
-   "fastest word in the sky"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086225976095019262"
- },
- {
   "band": "EBM",
   "name": "Raid for the Children",
   "triggers": [
@@ -7459,5 +7451,13 @@
    "she just said it"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098486804173160603"
+ },
+ {
+  "band": "RickyBobbie",
+  "name": "Fastest Word in the Sky",
+  "triggers": [
+   "fastest word in the sky"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098491850432635087"
  }
 ]
