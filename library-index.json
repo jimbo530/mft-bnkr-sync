@@ -1669,14 +1669,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2089739213927313889"
  },
  {
-  "band": "DGT",
-  "name": "The Benevolent Racket",
-  "triggers": [
-   "the benevolent racket"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089779519515173164"
- },
- {
   "band": "RickyBobbie",
   "name": "Sail With The Crownless",
   "triggers": [
@@ -7451,5 +7443,13 @@
    "onchain forest"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098345832881827953"
+ },
+ {
+  "band": "DGT",
+  "name": "The Benevolent Racket",
+  "triggers": [
+   "the benevolent racket"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098350959415972012"
  }
 ]
