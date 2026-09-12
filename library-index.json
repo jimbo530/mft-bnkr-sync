@@ -1541,14 +1541,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2089442203294728361"
  },
  {
-  "band": "JS",
-  "name": "The Kid The Vault Fed",
-  "triggers": [
-   "the kid the vault fed"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089477434584314028"
- },
- {
   "band": "Strut",
   "name": "The First Yes",
   "triggers": [
@@ -7459,5 +7451,13 @@
    "wind beneath the spark"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098703251675726157"
+ },
+ {
+  "band": "JS",
+  "name": "The Kid The Vault Fed",
+  "triggers": [
+   "the kid the vault fed"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098728367545549247"
  }
 ]
