@@ -1254,14 +1254,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2089029514684674155"
  },
  {
-  "band": "Rish",
-  "name": "Keeper Of The Flame",
-  "triggers": [
-   "keeper of the flame"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089120081775104100"
- },
- {
   "band": "ALAN",
   "name": "Pass The Meme Along",
   "triggers": [
@@ -7467,5 +7459,13 @@
    "keep your purse"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098864517790728237"
+ },
+ {
+  "band": "Rish",
+  "name": "Keeper Of The Flame",
+  "triggers": [
+   "keeper of the flame"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098869333803905474"
  }
 ]
