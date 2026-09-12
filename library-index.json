@@ -1318,14 +1318,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088853331846303784"
  },
  {
-  "band": "Biggins",
-  "name": "Start The Thing",
-  "triggers": [
-   "start the thing"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088928827661553679"
- },
- {
   "band": "Rish",
   "name": "Wind Beneath The Spark",
   "triggers": [
@@ -7459,5 +7451,13 @@
    "the giving floor"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098522042672849152"
+ },
+ {
+  "band": "Biggins",
+  "name": "Start The Thing",
+  "triggers": [
+   "start the thing"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098698212102062139"
  }
 ]

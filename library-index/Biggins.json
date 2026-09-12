@@ -16,14 +16,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Start The Thing",
-  "triggers": [
-   "start the thing"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088928827661553679",
-  "tag": "$MfT"
- },
- {
   "name": "Hit Share",
   "triggers": [
    "hit share"
@@ -86,6 +78,14 @@
    "built to outlast"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097480127319789955",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Start The Thing",
+  "triggers": [
+   "start the thing"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098698212102062139",
   "tag": "$MfT"
  }
 ]
