@@ -478,14 +478,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088304703079686490"
  },
  {
-  "band": "DGT",
-  "name": "We Built the Furnace Ourselves",
-  "triggers": [
-   "we built the furnace ourselves"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088571483702362472"
- },
- {
   "band": "EBM",
   "name": "“zFROM MEMES TO MANGROVES”",
   "triggers": [
@@ -7467,5 +7459,13 @@
    "the grove remembers who showed up"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098834091005051178"
+ },
+ {
+  "band": "DGT",
+  "name": "We Built the Furnace Ourselves",
+  "triggers": [
+   "we built the furnace ourselves"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098839197553455483"
  }
 ]
