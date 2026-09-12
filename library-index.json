@@ -478,14 +478,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086548201193037956"
  },
  {
-  "band": "DD",
-  "name": "A Pouch That Holds It All",
-  "triggers": [
-   "a pouch that holds it all"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086709263250940247"
- },
- {
   "band": "CB",
   "name": "STILL HERE FORWARD",
   "triggers": [
@@ -7459,5 +7451,13 @@
    "the kid the vault fed"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098728367545549247"
+ },
+ {
+  "band": "DD",
+  "name": "A Pouch That Holds It All",
+  "triggers": [
+   "a pouch that holds it all"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098733450169577912"
  }
 ]
