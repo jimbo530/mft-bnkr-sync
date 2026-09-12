@@ -430,14 +430,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086019572541300968"
  },
  {
-  "band": "EBM",
-  "name": "Raid for the Children",
-  "triggers": [
-   "raid for the children"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086266270228377664"
- },
- {
   "band": "Rish",
   "name": "The Mending",
   "triggers": [
@@ -7459,5 +7451,13 @@
    "love does the growing"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098773657258512763"
+ },
+ {
+  "band": "EBM",
+  "name": "Raid for the Children",
+  "triggers": [
+   "raid for the children"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098778723017191782"
  }
 ]
