@@ -406,14 +406,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2085420650974380336"
  },
  {
-  "band": "NN",
-  "name": "Keep Your Purse",
-  "triggers": [
-   "keep your purse"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085898779476082757"
- },
- {
   "band": "JS",
   "name": "Pull Up to the Space",
   "triggers": [
@@ -7467,5 +7459,13 @@
    "we built the furnace ourselves"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098839197553455483"
+ },
+ {
+  "band": "NN",
+  "name": "Keep Your Purse",
+  "triggers": [
+   "keep your purse"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098864517790728237"
  }
 ]

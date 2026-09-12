@@ -631,19 +631,6 @@
     "caption": "\"It Moves When We Roar\" — War Machine\npress play, plant trees\n\nthe band works for a dollar — your song, their voice:\nhttps://tasern.quest/songsmith.html\nor pay right here on X: tag @MonkyTownWallet, any library song for 2 gold or 2 bananas\n\n$MfT 0x6f45F5cE7027745b1Ab11D5493F187960D00FCfc"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2085898779476082757",
-    "translation": "Keep Your Purse",
-    "name": "Keep Your Purse",
-    "triggers": [
-      "keep your purse"
-    ],
-    "band": "NN",
-    "tag": "$MfT",
-    "ca": "0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc",
-    "xPost": "https://x.com/MemeForTrees/status/2085898779476082757",
-    "caption": "\"Keep Your Purse\" — Natilie Nightclub\nlisten, like, and share to fund forests\n\nMonkey Town runs an Impact Token Launcher — critters like Green Bull and Shrooms trade so real trees get planted 🌱\n\n$MfT 0x2beBaBdF57597F3ce75BDC75FAD3C40C4A9Fc8cc"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2086019572541300968",
     "translation": "Pull Up to the Space",
     "name": "Pull Up to the Space",
@@ -12119,5 +12106,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2098839197553455483",
     "caption": "\"We Built the Furnace Ourselves\" — Damned Good Time Orchestra\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2098864517790728237",
+    "translation": "Keep Your Purse",
+    "name": "Keep Your Purse",
+    "triggers": [
+      "keep your purse"
+    ],
+    "band": "NN",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2098864517790728237",
+    "caption": "\"Keep Your Purse\" — Natilie Nightclub\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

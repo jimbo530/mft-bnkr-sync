@@ -1,13 +1,5 @@
 [
  {
-  "name": "Keep Your Purse",
-  "triggers": [
-   "keep your purse"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085898779476082757",
-  "tag": "$MfT"
- },
- {
   "name": "Darling Just Share",
   "triggers": [
    "darling just share"
@@ -366,6 +358,14 @@
    "cheap tricks expensive forests"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098431445362463232",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Keep Your Purse",
+  "triggers": [
+   "keep your purse"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098864517790728237",
   "tag": "$MfT"
  }
 ]
