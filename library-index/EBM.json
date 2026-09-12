@@ -37,14 +37,6 @@
   ]
  },
  {
-  "name": "The Grove Remembers Who Showed Up",
-  "triggers": [
-   "the grove remembers who showed up"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085783064102281655",
-  "tag": "$MfT"
- },
- {
   "name": "“zFROM MEMES TO MANGROVES”",
   "triggers": [
    "“zfrom memes to mangroves”"
@@ -843,6 +835,14 @@
    "costs you nothing"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098788790861013297",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Grove Remembers Who Showed Up",
+  "triggers": [
+   "the grove remembers who showed up"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098834091005051178",
   "tag": "$MfT"
  }
 ]

@@ -406,14 +406,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2085420650974380336"
  },
  {
-  "band": "EBM",
-  "name": "The Grove Remembers Who Showed Up",
-  "triggers": [
-   "the grove remembers who showed up"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085783064102281655"
- },
- {
   "band": "NN",
   "name": "Keep Your Purse",
   "triggers": [
@@ -7467,5 +7459,13 @@
    "- spark in the soil"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098808955434565758"
+ },
+ {
+  "band": "EBM",
+  "name": "The Grove Remembers Who Showed Up",
+  "triggers": [
+   "the grove remembers who showed up"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098834091005051178"
  }
 ]
