@@ -24,14 +24,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Wind Beneath The Spark",
-  "triggers": [
-   "wind beneath the spark"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088953999064015176",
-  "tag": "$MfT"
- },
- {
   "name": "Keeper Of The Flame",
   "triggers": [
    "keeper of the flame"
@@ -334,6 +326,14 @@
    "round up the good ones"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098401256427356260",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Wind Beneath The Spark",
+  "triggers": [
+   "wind beneath the spark"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098703251675726157",
   "tag": "$MfT"
  }
 ]

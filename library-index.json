@@ -1318,14 +1318,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088853331846303784"
  },
  {
-  "band": "Rish",
-  "name": "Wind Beneath The Spark",
-  "triggers": [
-   "wind beneath the spark"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088953999064015176"
- },
- {
   "band": "DD",
   "name": "Roots That Hold Forever",
   "triggers": [
@@ -7459,5 +7451,13 @@
    "start the thing"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098698212102062139"
+ },
+ {
+  "band": "Rish",
+  "name": "Wind Beneath The Spark",
+  "triggers": [
+   "wind beneath the spark"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098703251675726157"
  }
 ]
