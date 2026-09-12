@@ -1270,14 +1270,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088853331846303784"
  },
  {
-  "band": "DD",
-  "name": "Roots That Hold Forever",
-  "triggers": [
-   "roots that hold forever"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089014353332752742"
- },
- {
   "band": "Myco",
   "name": "Mycelium Never Empties",
   "triggers": [
@@ -7459,5 +7451,13 @@
    "costs you nothing"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098788790861013297"
+ },
+ {
+  "band": "DD",
+  "name": "Roots That Hold Forever",
+  "triggers": [
+   "roots that hold forever"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098793841054585008"
  }
 ]
