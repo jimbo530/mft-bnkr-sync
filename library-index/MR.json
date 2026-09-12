@@ -8,14 +8,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Love Does the Growing",
-  "triggers": [
-   "love does the growing"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085843458757976396",
-  "tag": "$MfT"
- },
- {
   "name": "Work Now Dance Later",
   "triggers": [
    "work now dance later"
@@ -406,6 +398,14 @@
    "how you made them feel"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098456582992359492",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Love Does the Growing",
+  "triggers": [
+   "love does the growing"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098773657258512763",
   "tag": "$MfT"
  }
 ]

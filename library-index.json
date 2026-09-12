@@ -414,14 +414,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2085783064102281655"
  },
  {
-  "band": "MR",
-  "name": "Love Does the Growing",
-  "triggers": [
-   "love does the growing"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085843458757976396"
- },
- {
   "band": "NN",
   "name": "Keep Your Purse",
   "triggers": [
@@ -7459,5 +7451,13 @@
    "walk with the eight"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098763663024763296"
+ },
+ {
+  "band": "MR",
+  "name": "Love Does the Growing",
+  "triggers": [
+   "love does the growing"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098773657258512763"
  }
 ]

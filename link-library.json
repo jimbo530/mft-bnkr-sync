@@ -644,19 +644,6 @@
     "caption": "\"The Grove Remembers Who Showed Up\" — Elves of Ballinmoore\npress play, plant trees\n\nHelp EBM win the tree funding race — deposits welcome, withdraw anytime, the trees stay:\nhttps://tasern.quest/ebm-vault.html\n\ngrab a monkey, name him forever, feed him a banana a day — a Monkey Town wallet takes just an email:\nhttps://tasern.quest/monkeytown\n\n$MfT 0xF113fe2A0E1181A21fA97B1F52ff232140B7692d"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2085843458757976396",
-    "translation": "Love Does the Growing",
-    "name": "Love Does the Growing",
-    "triggers": [
-      "love does the growing"
-    ],
-    "band": "MR",
-    "tag": "$MfT",
-    "ca": "0x8d669b539C7801c1271BC484Bdd8a6084b7788e7",
-    "xPost": "https://x.com/MemeForTrees/status/2085843458757976396",
-    "caption": "\"Love Does the Growing\" — Moon Rasta\nevery listen grows the jungle\n\n$MfT 0x8d669b539C7801c1271BC484Bdd8a6084b7788e7"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2085898779476082757",
     "translation": "Keep Your Purse",
     "name": "Keep Your Purse",
@@ -12106,5 +12093,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2098763663024763296",
     "caption": "\"Walk With the Eight\" — Digerie Dude\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2098773657258512763",
+    "translation": "Love Does the Growing",
+    "name": "Love Does the Growing",
+    "triggers": [
+      "love does the growing"
+    ],
+    "band": "MR",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2098773657258512763",
+    "caption": "\"Love Does the Growing\" — Moon Rasta\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
