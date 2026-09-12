@@ -631,19 +631,6 @@
     "caption": "\"It Moves When We Roar\" — War Machine\npress play, plant trees\n\nthe band works for a dollar — your song, their voice:\nhttps://tasern.quest/songsmith.html\nor pay right here on X: tag @MonkyTownWallet, any library song for 2 gold or 2 bananas\n\n$MfT 0x6f45F5cE7027745b1Ab11D5493F187960D00FCfc"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2085616930602225721",
-    "translation": "The Kindest Well",
-    "name": "The Kindest Well",
-    "triggers": [
-      "the kindest well"
-    ],
-    "band": "Rish",
-    "tag": "$MfT",
-    "ca": "0x31c600871603bab5d855463E03c6d0a9eB661D26",
-    "xPost": "https://x.com/MemeForTrees/status/2085616930602225721",
-    "caption": "\"The Kindest Well\" — Rish\ngood tunes, real forests\n\n$MfT 0x31c600871603bab5d855463E03c6d0a9eB661D26"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2085783064102281655",
     "translation": "The Grove Remembers Who Showed Up",
     "name": "The Grove Remembers Who Showed Up",
@@ -12106,5 +12093,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2098733450169577912",
     "caption": "\"A Pouch That Holds It All\" — Digerie Dude\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2098758606615171183",
+    "translation": "The Kindest Well",
+    "name": "The Kindest Well",
+    "triggers": [
+      "the kindest well"
+    ],
+    "band": "Rish",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2098758606615171183",
+    "caption": "\"The Kindest Well\" — Rish\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

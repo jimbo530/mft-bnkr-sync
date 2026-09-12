@@ -1,13 +1,5 @@
 [
  {
-  "name": "The Kindest Well",
-  "triggers": [
-   "the kindest well"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085616930602225721",
-  "tag": "$MfT"
- },
- {
   "name": "The Mending",
   "triggers": [
    "the mending"
@@ -334,6 +326,14 @@
    "wind beneath the spark"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098703251675726157",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Kindest Well",
+  "triggers": [
+   "the kindest well"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098758606615171183",
   "tag": "$MfT"
  }
 ]
