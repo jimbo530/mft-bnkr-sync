@@ -830,5 +830,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098426456988647456",
   "tag": "$MfT"
+ },
+ {
+  "name": "- Spark In The Soil",
+  "triggers": [
+   "- spark in the soil"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098808955434565758",
+  "tag": "$MfT"
  }
 ]
