@@ -422,14 +422,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086407161844810032"
  },
  {
-  "band": "CB",
-  "name": "STILL HERE FORWARD",
-  "triggers": [
-   "still here forward"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086970919851860164"
- },
- {
   "band": "Bongo",
   "name": "The Beat Votes Tomorrow",
   "triggers": [
@@ -7467,5 +7459,13 @@
    "sail with the crownless"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098894484381602128"
+ },
+ {
+  "band": "CB",
+  "name": "STILL HERE FORWARD",
+  "triggers": [
+   "still here forward"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098899489595539871"
  }
 ]

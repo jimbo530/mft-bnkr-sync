@@ -8,14 +8,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "STILL HERE FORWARD",
-  "triggers": [
-   "still here forward"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086970919851860164",
-  "tag": "$MfT"
- },
- {
   "name": "Plant It Loud",
   "triggers": [
    "plant it loud"
@@ -502,6 +494,14 @@
    "onchain forest"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098345832881827953",
+  "tag": "$MfT"
+ },
+ {
+  "name": "STILL HERE FORWARD",
+  "triggers": [
+   "still here forward"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098899489595539871",
   "tag": "$MfT"
  }
 ]
