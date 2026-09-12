@@ -438,14 +438,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086407161844810032"
  },
  {
-  "band": "EBM",
-  "name": "Costs You Nothing",
-  "triggers": [
-   "costs you nothing"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086548201193037956"
- },
- {
   "band": "CB",
   "name": "STILL HERE FORWARD",
   "triggers": [
@@ -7459,5 +7451,13 @@
    "raid for the children"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098778723017191782"
+ },
+ {
+  "band": "EBM",
+  "name": "Costs You Nothing",
+  "triggers": [
+   "costs you nothing"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098788790861013297"
  }
 ]

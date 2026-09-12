@@ -45,14 +45,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Costs You Nothing",
-  "triggers": [
-   "costs you nothing"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086548201193037956",
-  "tag": "$MfT"
- },
- {
   "name": "“zFROM MEMES TO MANGROVES”",
   "triggers": [
    "“zfrom memes to mangroves”"
@@ -843,6 +835,14 @@
    "raid for the children"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098778723017191782",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Costs You Nothing",
+  "triggers": [
+   "costs you nothing"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098788790861013297",
   "tag": "$MfT"
  }
 ]
