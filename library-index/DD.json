@@ -8,14 +8,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Walk With the Eight",
-  "triggers": [
-   "walk with the eight"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086487811343933589",
-  "tag": "$MfT"
- },
- {
   "name": "Where the Maps Run Out",
   "triggers": [
    "where the maps run out"
@@ -462,6 +454,14 @@
    "a pouch that holds it all"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098733450169577912",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Walk With the Eight",
+  "triggers": [
+   "walk with the eight"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098763663024763296",
   "tag": "$MfT"
  }
 ]

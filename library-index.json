@@ -454,14 +454,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086407161844810032"
  },
  {
-  "band": "DD",
-  "name": "Walk With the Eight",
-  "triggers": [
-   "walk with the eight"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086487811343933589"
- },
- {
   "band": "EBM",
   "name": "Costs You Nothing",
   "triggers": [
@@ -7459,5 +7451,13 @@
    "the kindest well"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098758606615171183"
+ },
+ {
+  "band": "DD",
+  "name": "Walk With the Eight",
+  "triggers": [
+   "walk with the eight"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098763663024763296"
  }
 ]

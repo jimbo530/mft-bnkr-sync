@@ -709,19 +709,6 @@
     "caption": "\"The Mending\" — Rish\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2086487811343933589",
-    "translation": "Walk With the Eight",
-    "name": "Walk With the Eight",
-    "triggers": [
-      "walk with the eight"
-    ],
-    "band": "DD",
-    "tag": "$MfT",
-    "ca": "0xa77D43A33AD5C50E27fCf27101c9E6aEfE066CE3",
-    "xPost": "https://x.com/MemeForTrees/status/2086487811343933589",
-    "caption": "\"Walk With the Eight\" — Digerie Dude\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2086548201193037956",
     "translation": "Costs You Nothing",
     "name": "Costs You Nothing",
@@ -12106,5 +12093,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2098758606615171183",
     "caption": "\"The Kindest Well\" — Rish\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2098763663024763296",
+    "translation": "Walk With the Eight",
+    "name": "Walk With the Eight",
+    "triggers": [
+      "walk with the eight"
+    ],
+    "band": "DD",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2098763663024763296",
+    "caption": "\"Walk With the Eight\" — Digerie Dude\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
