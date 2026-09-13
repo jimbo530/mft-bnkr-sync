@@ -41,14 +41,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Second-Line For Your Fear",
-  "triggers": [
-   "second-line for your fear"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092406740713189736",
-  "tag": "$MfT"
- },
- {
   "name": "One More Plate Before Dawn",
   "triggers": [
    "one more plate before dawn"
@@ -222,6 +214,14 @@
    "we built the furnace ourselves"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098839197553455483",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Second-Line For Your Fear",
+  "triggers": [
+   "second-line for your fear"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099015274687045818",
   "tag": "$MfT"
  }
 ]

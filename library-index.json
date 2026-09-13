@@ -3317,14 +3317,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2092381601581727872"
  },
  {
-  "band": "DGT",
-  "name": "Second-Line For Your Fear",
-  "triggers": [
-   "second-line for your fear"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092406740713189736"
- },
- {
   "band": "Myco",
   "name": "Tunes For Trees",
   "triggers": [
@@ -7467,5 +7459,13 @@
    "where the maps run out"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098990120426696800"
+ },
+ {
+  "band": "DGT",
+  "name": "Second-Line For Your Fear",
+  "triggers": [
+   "second-line for your fear"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099015274687045818"
  }
 ]
