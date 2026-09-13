@@ -430,14 +430,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2087907080871035174"
  },
  {
-  "band": "CB",
-  "name": "Plant It Loud",
-  "triggers": [
-   "plant it loud"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088304703079686490"
- },
- {
   "band": "EBM",
   "name": "“zFROM MEMES TO MANGROVES”",
   "triggers": [
@@ -7467,5 +7459,13 @@
    "pull up to the space"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099020271575245107"
+ },
+ {
+  "band": "CB",
+  "name": "Plant It Loud",
+  "triggers": [
+   "plant it loud"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099045482894930156"
  }
 ]
