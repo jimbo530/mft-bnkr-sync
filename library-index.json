@@ -1381,14 +1381,6 @@
   "promote": true
  },
  {
-  "band": "EBM",
-  "name": "Receipts",
-  "triggers": [
-   "receipts"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089442203294728361"
- },
- {
   "band": "MV",
   "name": "Blue Marble Rock",
   "triggers": [
@@ -7475,5 +7467,13 @@
    "- counted and kept"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099080736959602816"
+ },
+ {
+  "band": "EBM",
+  "name": "Receipts",
+  "triggers": [
+   "receipts"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099105870076359078"
  }
 ]

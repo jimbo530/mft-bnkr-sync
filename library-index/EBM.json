@@ -126,14 +126,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Receipts",
-  "triggers": [
-   "receipts"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089442203294728361",
-  "tag": "$MfT"
- },
- {
   "name": "ELVES OF BALLINMOORE — “ANOTHER DAY OF M",
   "triggers": [
    "elves of ballinmoore — “another day of m"
@@ -843,6 +835,14 @@
    "the grove remembers who showed up"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098834091005051178",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Receipts",
+  "triggers": [
+   "receipts"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099105870076359078",
   "tag": "$MfT"
  }
 ]
