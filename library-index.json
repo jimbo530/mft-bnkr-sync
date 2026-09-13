@@ -1445,14 +1445,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2089442203294728361"
  },
  {
-  "band": "DD",
-  "name": "Every Land Knows A Tyrant",
-  "triggers": [
-   "every land knows a tyrant"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089698941361107207"
- },
- {
   "band": "NN",
   "name": "A Lord With Manners",
   "triggers": [
@@ -7467,5 +7459,13 @@
    "the first yes"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098924648096309390"
+ },
+ {
+  "band": "DD",
+  "name": "Every Land Knows A Tyrant",
+  "triggers": [
+   "every land knows a tyrant"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098929680183070771"
  }
 ]
