@@ -47,14 +47,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Love Is the Light",
-  "triggers": [
-   "love is the light"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087640355285909890",
-  "tag": "$MfT"
- },
- {
   "name": "\udfa7 “Listen Close, Let It Grow”",
   "triggers": [
    "\udfa7 “listen close, let it grow”"
@@ -853,6 +845,14 @@
    "- name it once (monkey town)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099110934769746279",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Love Is the Light",
+  "triggers": [
+   "love is the light"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099186429003763898",
   "tag": "$MfT"
  }
 ]

@@ -617,19 +617,6 @@
     "caption": "\"It Moves When We Roar\" — War Machine\npress play, plant trees\n\nthe band works for a dollar — your song, their voice:\nhttps://tasern.quest/songsmith.html\nor pay right here on X: tag @MonkyTownWallet, any library song for 2 gold or 2 bananas\n\n$MfT 0x6f45F5cE7027745b1Ab11D5493F187960D00FCfc"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2087640355285909890",
-    "translation": "Love Is the Light",
-    "name": "Love Is the Light",
-    "triggers": [
-      "love is the light"
-    ],
-    "band": "Myco",
-    "tag": "$MfT",
-    "ca": "0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3",
-    "xPost": "https://x.com/MemeForTrees/status/2087640355285909890",
-    "caption": "\"- Love Is the Light\" — Myco\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2053354383186755742",
     "translation": "“zFROM MEMES TO MANGROVES”",
     "name": "“zFROM MEMES TO MANGROVES”",
@@ -12144,5 +12131,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2099181388830228585",
     "caption": "\"For No Reason at All (The Coin Song)\" — Bongo\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2099186429003763898",
+    "translation": "Love Is the Light",
+    "name": "Love Is the Light",
+    "triggers": [
+      "love is the light"
+    ],
+    "band": "Myco",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2099186429003763898",
+    "caption": "\"- Love Is the Light\" — Myco\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

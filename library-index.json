@@ -398,14 +398,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2085420650974380336"
  },
  {
-  "band": "Myco",
-  "name": "Love Is the Light",
-  "triggers": [
-   "love is the light"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087640355285909890"
- },
- {
   "band": "EBM",
   "name": "“zFROM MEMES TO MANGROVES”",
   "triggers": [
@@ -7483,5 +7475,13 @@
    "for no reason at all"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099181388830228585"
+ },
+ {
+  "band": "Myco",
+  "name": "Love Is the Light",
+  "triggers": [
+   "love is the light"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099186429003763898"
  }
 ]
