@@ -471,5 +471,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099216633474494506",
   "tag": "$MfT"
+ },
+ {
+  "name": "Noon Over The New Grove",
+  "triggers": [
+   "noon over the new grove"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099221661815910815",
+  "tag": "$MfT"
  }
 ]
