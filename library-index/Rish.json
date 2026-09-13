@@ -1,13 +1,5 @@
 [
  {
-  "name": "Name Yer Monkey",
-  "triggers": [
-   "name yer monkey"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086648821832962156",
-  "tag": "$MfT"
- },
- {
   "name": "Sing It Forward",
   "triggers": [
    "sing it forward"
@@ -334,6 +326,14 @@
    "the mending"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099075679060947332",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Name Yer Monkey",
+  "triggers": [
+   "name yer monkey"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099156174977315162",
   "tag": "$MfT"
  }
 ]

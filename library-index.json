@@ -1150,14 +1150,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086991063709888514"
  },
  {
-  "band": "Rish",
-  "name": "Name Yer Monkey",
-  "triggers": [
-   "name yer monkey"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086648821832962156"
- },
- {
   "band": "Myco",
   "name": "Spark In The Soil",
   "triggers": [
@@ -7483,5 +7475,13 @@
    "nobody at the back"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099131059887538233"
+ },
+ {
+  "band": "Rish",
+  "name": "Name Yer Monkey",
+  "triggers": [
+   "name yer monkey"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099156174977315162"
  }
 ]
