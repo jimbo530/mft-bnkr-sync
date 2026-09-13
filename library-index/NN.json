@@ -265,14 +265,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Ask Me Why I Stay",
-  "triggers": [
-   "ask me why i stay"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096916408625971564",
-  "tag": "$MfT"
- },
- {
   "name": "The Judge s Table",
   "triggers": [
    "the judge s table"
@@ -366,6 +358,14 @@
    "a lord with manners"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098959876688839072",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Ask Me Why I Stay",
+  "triggers": [
+   "ask me why i stay"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099282049811075548",
   "tag": "$MfT"
  }
 ]

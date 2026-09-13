@@ -6309,14 +6309,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096891278252220647"
  },
  {
-  "band": "NN",
-  "name": "Ask Me Why I Stay",
-  "triggers": [
-   "ask me why i stay"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096916408625971564"
- },
- {
   "band": "Gurdy",
   "name": "No Saints, Just Us",
   "triggers": [
@@ -7531,5 +7523,13 @@
    "once you have seen"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099276979165974619"
+ },
+ {
+  "band": "NN",
+  "name": "Ask Me Why I Stay",
+  "triggers": [
+   "ask me why i stay"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099282049811075548"
  }
 ]
