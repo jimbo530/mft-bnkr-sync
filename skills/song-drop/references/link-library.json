@@ -2292,19 +2292,6 @@
     "caption": "\"Receipts\" — Elves of Ballinmoore\nlisten, like, and share to fund forests\n\nThank you @artizen for including our Crypto Endowment Network in Season 7 💚 the bands sing their gratitude better than we can say it 🌱"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2089739213927313889",
-    "translation": "A Lord With Manners",
-    "name": "A Lord With Manners",
-    "triggers": [
-      "a lord with manners"
-    ],
-    "band": "NN",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2089739213927313889",
-    "caption": "\"A Lord With Manners\" — Natilie Nightclub\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2089920321130226026",
     "translation": "Blue Marble Rock",
     "name": "Blue Marble Rock",
@@ -12119,5 +12106,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2098954895915159789",
     "caption": "\"A Name That Holds\" — Hammer Tone\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2098959876688839072",
+    "translation": "A Lord With Manners",
+    "name": "A Lord With Manners",
+    "triggers": [
+      "a lord with manners"
+    ],
+    "band": "NN",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2098959876688839072",
+    "caption": "\"A Lord With Manners\" — Natilie Nightclub\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

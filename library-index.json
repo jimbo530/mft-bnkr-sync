@@ -1437,14 +1437,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2089442203294728361"
  },
  {
-  "band": "NN",
-  "name": "A Lord With Manners",
-  "triggers": [
-   "a lord with manners"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089739213927313889"
- },
- {
   "band": "MV",
   "name": "Blue Marble Rock",
   "triggers": [
@@ -7467,5 +7459,13 @@
    "a name that holds"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098954895915159789"
+ },
+ {
+  "band": "NN",
+  "name": "A Lord With Manners",
+  "triggers": [
+   "a lord with manners"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098959876688839072"
  }
 ]

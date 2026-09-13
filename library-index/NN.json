@@ -9,14 +9,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "A Lord With Manners",
-  "triggers": [
-   "a lord with manners"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089739213927313889",
-  "tag": "$MfT"
- },
- {
   "name": "Learn To Earn",
   "triggers": [
    "learn to earn"
@@ -366,6 +358,14 @@
    "keep your purse"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098864517790728237",
+  "tag": "$MfT"
+ },
+ {
+  "name": "A Lord With Manners",
+  "triggers": [
+   "a lord with manners"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098959876688839072",
   "tag": "$MfT"
  }
 ]
