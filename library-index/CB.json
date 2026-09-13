@@ -88,14 +88,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Sing It, Plant It",
-  "triggers": [
-   "sing it, plant it"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088370091461153000",
-  "tag": "$MfT"
- },
- {
   "name": "Signal Boost",
   "triggers": [
    "signal boost"
@@ -502,6 +494,14 @@
    "plant it loud"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099045482894930156",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Sing It, Plant It",
+  "triggers": [
+   "sing it, plant it"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099050516542067078",
   "tag": "$MfT"
  }
 ]

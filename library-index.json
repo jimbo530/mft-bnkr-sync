@@ -1158,14 +1158,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086970919851860164"
  },
  {
-  "band": "CB",
-  "name": "Sing It, Plant It",
-  "triggers": [
-   "sing it, plant it"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088370091461153000"
- },
- {
   "band": "Myco",
   "name": "Name It Once (Monkey Town)",
   "triggers": [
@@ -7467,5 +7459,13 @@
    "plant it loud"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099045482894930156"
+ },
+ {
+  "band": "CB",
+  "name": "Sing It, Plant It",
+  "triggers": [
+   "sing it, plant it"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099050516542067078"
  }
 ]
