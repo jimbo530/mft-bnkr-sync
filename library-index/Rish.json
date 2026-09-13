@@ -335,5 +335,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099156174977315162",
   "tag": "$MfT"
+ },
+ {
+  "name": "Plant It, Ye Giants",
+  "triggers": [
+   "plant it, ye giants"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099206542725726491",
+  "tag": "$MfT"
  }
 ]
