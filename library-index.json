@@ -406,14 +406,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2085420650974380336"
  },
  {
-  "band": "JS",
-  "name": "Pull Up to the Space",
-  "triggers": [
-   "pull up to the space"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086019572541300968"
- },
- {
   "band": "Rish",
   "name": "The Mending",
   "triggers": [
@@ -7467,5 +7459,13 @@
    "second-line for your fear"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099015274687045818"
+ },
+ {
+  "band": "JS",
+  "name": "Pull Up to the Space",
+  "triggers": [
+   "pull up to the space"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099020271575245107"
  }
 ]
