@@ -846,5 +846,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099080736959602816",
   "tag": "$MfT"
+ },
+ {
+  "name": "- Name It Once (Monkey Town)",
+  "triggers": [
+   "- name it once (monkey town)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099110934769746279",
+  "tag": "$MfT"
  }
 ]
