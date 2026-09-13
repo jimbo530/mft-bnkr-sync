@@ -1,13 +1,5 @@
 [
  {
-  "name": "The Mending",
-  "triggers": [
-   "the mending"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086407161844810032",
-  "tag": "$MfT"
- },
- {
   "name": "Name Yer Monkey",
   "triggers": [
    "name yer monkey"
@@ -334,6 +326,14 @@
    "keeper of the flame"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098869333803905474",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Mending",
+  "triggers": [
+   "the mending"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099075679060947332",
   "tag": "$MfT"
  }
 ]

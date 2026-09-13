@@ -406,14 +406,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2085420650974380336"
  },
  {
-  "band": "Rish",
-  "name": "The Mending",
-  "triggers": [
-   "the mending"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086407161844810032"
- },
- {
   "band": "Myco",
   "name": "Love Is the Light",
   "triggers": [
@@ -7467,5 +7459,13 @@
    "sing it, plant it"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099050516542067078"
+ },
+ {
+  "band": "Rish",
+  "name": "The Mending",
+  "triggers": [
+   "the mending"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099075679060947332"
  }
 ]
