@@ -12196,5 +12196,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2099221661815910815",
     "caption": "\"Noon Over The New Grove\" — Digerie Dude\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2099266958201954329",
+    "translation": "First The Forest Eats",
+    "name": "First The Forest Eats",
+    "triggers": [
+      "first the forest eats"
+    ],
+    "band": "MR",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2099266958201954329",
+    "caption": "\"First The Forest Eats\" — Moon Rasta\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

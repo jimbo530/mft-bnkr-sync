@@ -407,5 +407,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098773657258512763",
   "tag": "$MfT"
+ },
+ {
+  "name": "First The Forest Eats",
+  "triggers": [
+   "first the forest eats"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099266958201954329",
+  "tag": "$MfT"
  }
 ]
