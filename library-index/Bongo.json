@@ -24,14 +24,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Beat Votes Tomorrow",
-  "triggers": [
-   "the beat votes tomorrow"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087106779758964890",
-  "tag": "$MfT"
- },
- {
   "name": "For No Reason at All (The Coin Song)",
   "triggers": [
    "for no reason at all (the coin song)"
@@ -350,6 +342,14 @@
    "pay the bills (then we play)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098230118946619843",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Beat Votes Tomorrow",
+  "triggers": [
+   "the beat votes tomorrow"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098985050737901976",
   "tag": "$MfT"
  }
 ]

@@ -422,14 +422,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086407161844810032"
  },
  {
-  "band": "Bongo",
-  "name": "The Beat Votes Tomorrow",
-  "triggers": [
-   "the beat votes tomorrow"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087106779758964890"
- },
- {
   "band": "DD",
   "name": "Where the Maps Run Out",
   "triggers": [
@@ -7467,5 +7459,13 @@
    "a lord with manners"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098959876688839072"
+ },
+ {
+  "band": "Bongo",
+  "name": "The Beat Votes Tomorrow",
+  "triggers": [
+   "the beat votes tomorrow"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098985050737901976"
  }
 ]
