@@ -415,5 +415,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099266958201954329",
   "tag": "$MfT"
+ },
+ {
+  "name": "Once You Have Seen",
+  "triggers": [
+   "once you have seen"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099276979165974619",
+  "tag": "$MfT"
  }
 ]
