@@ -1,12 +1,5 @@
 [
  {
-  "name": "The Grind Holds",
-  "triggers": [
-   "the grind holds"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079303270204383633"
- },
- {
   "name": "A Hall of Tools",
   "triggers": [
    "a hall of tools"
@@ -109,6 +102,14 @@
    "a name that holds"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098954895915159789",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Grind Holds",
+  "triggers": [
+   "the grind holds"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099161251712557213",
   "tag": "$MfT"
  }
 ]

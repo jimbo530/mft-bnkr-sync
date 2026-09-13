@@ -397,20 +397,6 @@
     "boothCommission": "sg_mrtfs9bukx"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2079303270204383633",
-    "translation": "The Grind Holds",
-    "name": "The Grind Holds",
-    "triggers": [
-      "the grind holds"
-    ],
-    "band": "HammerTone",
-    "tag": "",
-    "ca": "",
-    "xPost": "https://x.com/MemeForTrees/status/2079303270204383633",
-    "caption": "\"The Grind Holds\" — HammerTone",
-    "boothCommission": "sg_mrtoa1m2a"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2079371832369577998",
     "translation": "A Hopping Good Time",
     "name": "A Hopping Good Time",
@@ -12145,5 +12131,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2099156174977315162",
     "caption": "\"Name Yer Monkey\" — Rish\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2099161251712557213",
+    "translation": "The Grind Holds",
+    "name": "The Grind Holds",
+    "triggers": [
+      "the grind holds"
+    ],
+    "band": "HammerTone",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2099161251712557213",
+    "caption": "\"The Grind Holds\" — Hammer Tone\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

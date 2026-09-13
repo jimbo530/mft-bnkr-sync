@@ -263,14 +263,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079243269200834706"
  },
  {
-  "band": "HammerTone",
-  "name": "The Grind Holds",
-  "triggers": [
-   "the grind holds"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079303270204383633"
- },
- {
   "band": "ALAN",
   "name": "A Hopping Good Time",
   "triggers": [
@@ -7483,5 +7475,13 @@
    "name yer monkey"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099156174977315162"
+ },
+ {
+  "band": "HammerTone",
+  "name": "The Grind Holds",
+  "triggers": [
+   "the grind holds"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099161251712557213"
  }
 ]
