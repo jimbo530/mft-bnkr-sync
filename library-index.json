@@ -422,14 +422,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086407161844810032"
  },
  {
-  "band": "DD",
-  "name": "Where the Maps Run Out",
-  "triggers": [
-   "where the maps run out"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2087499369612206497"
- },
- {
   "band": "Myco",
   "name": "Love Is the Light",
   "triggers": [
@@ -7467,5 +7459,13 @@
    "the beat votes tomorrow"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098985050737901976"
+ },
+ {
+  "band": "DD",
+  "name": "Where the Maps Run Out",
+  "triggers": [
+   "where the maps run out"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098990120426696800"
  }
 ]
