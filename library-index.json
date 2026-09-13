@@ -1206,14 +1206,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2086991063709888514"
  },
  {
-  "band": "HammerTone",
-  "name": "A Name That Holds",
-  "triggers": [
-   "a name that holds"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2086115247291564063"
- },
- {
   "band": "Rish",
   "name": "Name Yer Monkey",
   "triggers": [
@@ -7467,5 +7459,13 @@
    "every land knows a tyrant"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098929680183070771"
+ },
+ {
+  "band": "HammerTone",
+  "name": "A Name That Holds",
+  "triggers": [
+   "a name that holds"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098954895915159789"
  }
 ]
