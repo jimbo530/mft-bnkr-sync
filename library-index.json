@@ -1445,14 +1445,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2089442203294728361"
  },
  {
-  "band": "Strut",
-  "name": "The First Yes",
-  "triggers": [
-   "the first yes"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089623355011796996"
- },
- {
   "band": "DD",
   "name": "Every Land Knows A Tyrant",
   "triggers": [
@@ -7467,5 +7459,13 @@
    "still here forward"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098899489595539871"
+ },
+ {
+  "band": "Strut",
+  "name": "The First Yes",
+  "triggers": [
+   "the first yes"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2098924648096309390"
  }
 ]
