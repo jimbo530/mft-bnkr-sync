@@ -463,5 +463,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098990120426696800",
   "tag": "$MfT"
+ },
+ {
+  "name": "The Seed In My Pack",
+  "triggers": [
+   "the seed in my pack"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099216633474494506",
+  "tag": "$MfT"
  }
 ]
