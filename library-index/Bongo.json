@@ -351,5 +351,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099181388830228585",
   "tag": "$MfT"
+ },
+ {
+  "name": "I Live Here Now (By the Wall)",
+  "triggers": [
+   "i live here now (by the wall)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099307169204019316",
+  "tag": "$MfT"
  }
 ]

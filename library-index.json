@@ -7539,5 +7539,13 @@
    "the backwards paywall"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099302190317817897"
+ },
+ {
+  "band": "Bongo",
+  "name": "I Live Here Now (By the Wall)",
+  "triggers": [
+   "i live here now (by the wall)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099307169204019316"
  }
 ]
