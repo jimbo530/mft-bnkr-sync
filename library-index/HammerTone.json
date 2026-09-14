@@ -119,5 +119,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099327302010015847",
   "tag": "$MfT"
+ },
+ {
+  "name": "Raise the Hall",
+  "triggers": [
+   "raise the hall"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099432994310107487",
+  "tag": "$MfT"
  }
 ]
