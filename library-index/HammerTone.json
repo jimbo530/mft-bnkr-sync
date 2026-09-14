@@ -127,5 +127,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099432994310107487",
   "tag": "$MfT"
+ },
+ {
+  "name": "The Hall That Wouldn't Fall",
+  "triggers": [
+   "the hall that wouldn't fall"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099553789346824245",
+  "tag": "$MfT"
  }
 ]
