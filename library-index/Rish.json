@@ -351,5 +351,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099211584652374162",
   "tag": "$MfT"
+ },
+ {
+  "name": "The Céilí House",
+  "triggers": [
+   "the céilí house"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099508536510238985",
+  "tag": "$MfT"
  }
 ]
