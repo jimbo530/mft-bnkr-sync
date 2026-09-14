@@ -31,5 +31,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097943198555332690",
   "tag": "$MfT"
+ },
+ {
+  "name": "The Meme Lord's Fanfare",
+  "triggers": [
+   "the meme lord's fanfare"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099578959511933353",
+  "tag": "$MfT"
  }
 ]
