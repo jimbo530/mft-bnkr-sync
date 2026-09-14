@@ -7603,5 +7603,13 @@
    "doors locked open"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099402796340551886"
+ },
+ {
+  "band": "DGT",
+  "name": "The Long Parade",
+  "triggers": [
+   "the long parade"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099407889785905154"
  }
 ]

@@ -231,5 +231,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099302190317817897",
   "tag": "$MfT"
+ },
+ {
+  "name": "The Long Parade",
+  "triggers": [
+   "the long parade"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099407889785905154",
+  "tag": "$MfT"
  }
 ]
