@@ -119,5 +119,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098924648096309390",
   "tag": "$MfT"
+ },
+ {
+  "name": "We Throw The Party",
+  "triggers": [
+   "we throw the party"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099558861099208955",
+  "tag": "$MfT"
  }
 ]
