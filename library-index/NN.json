@@ -367,5 +367,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099282049811075548",
   "tag": "$MfT"
+ },
+ {
+  "name": "Doors Locked Open",
+  "triggers": [
+   "doors locked open"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099402796340551886",
+  "tag": "$MfT"
  }
 ]
