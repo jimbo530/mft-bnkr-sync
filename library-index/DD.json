@@ -487,5 +487,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099352511144489236",
   "tag": "$MfT"
+ },
+ {
+  "name": "Quite Revolution of Love",
+  "triggers": [
+   "quite revolution of love"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099644432748290491",
+  "tag": "$MfT"
  }
 ]
