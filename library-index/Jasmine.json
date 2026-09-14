@@ -111,5 +111,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098124400528638120",
   "tag": "$MfT"
+ },
+ {
+  "name": "One Family At A Time",
+  "triggers": [
+   "one family at a time"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099503504750510509",
+  "tag": "$MfT"
  }
 ]
