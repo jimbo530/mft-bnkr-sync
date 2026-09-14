@@ -143,5 +143,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2097389606484205765",
   "tag": "$MfT"
+ },
+ {
+  "name": "Da Long Road",
+  "triggers": [
+   "da long road"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099453133747282031",
+  "tag": "$MfT"
  }
 ]
