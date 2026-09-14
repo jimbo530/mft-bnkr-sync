@@ -7587,5 +7587,13 @@
    "lift dem up"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099377674468622529"
+ },
+ {
+  "band": "JS",
+  "name": "First Seat",
+  "triggers": [
+   "first seat"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099382667997303120"
  }
 ]

@@ -759,5 +759,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099131059887538233",
   "tag": "$MfT"
+ },
+ {
+  "name": "First Seat",
+  "triggers": [
+   "first seat"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099382667997303120",
+  "tag": "$MfT"
  }
 ]
