@@ -12248,5 +12248,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2099307169204019316",
     "caption": "\"I Live Here Now (By the Wall)\" — Bongo\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2099327302010015847",
+    "translation": "The Wall That Pays",
+    "name": "The Wall That Pays",
+    "triggers": [
+      "the wall that pays"
+    ],
+    "band": "HammerTone",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2099327302010015847",
+    "caption": "\"The Wall That Pays\" — Hammer Tone\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

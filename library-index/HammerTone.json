@@ -111,5 +111,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099161251712557213",
   "tag": "$MfT"
+ },
+ {
+  "name": "The Wall That Pays",
+  "triggers": [
+   "the wall that pays"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099327302010015847",
+  "tag": "$MfT"
  }
 ]
