@@ -854,5 +854,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099186429003763898",
   "tag": "$MfT"
+ },
+ {
+  "name": "- Fruiting Bodies",
+  "triggers": [
+   "- fruiting bodies"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099357501460205850",
+  "tag": "$MfT"
  }
 ]
