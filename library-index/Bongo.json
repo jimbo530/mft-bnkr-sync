@@ -359,5 +359,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099307169204019316",
   "tag": "$MfT"
+ },
+ {
+  "name": "One Brick",
+  "triggers": [
+   "one brick"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099427960709173302",
+  "tag": "$MfT"
  }
 ]

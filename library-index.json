@@ -7611,5 +7611,13 @@
    "the long parade"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099407889785905154"
+ },
+ {
+  "band": "Bongo",
+  "name": "One Brick",
+  "triggers": [
+   "one brick"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099427960709173302"
  }
 ]
