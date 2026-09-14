@@ -3357,14 +3357,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2092688563351498861"
  },
  {
-  "band": "CB",
-  "name": "Need More Base",
-  "triggers": [
-   "need more base"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092703699747389507"
- },
- {
   "band": "Myco",
   "name": "We All Are One",
   "triggers": [
@@ -7707,5 +7699,13 @@
    "crypto spring"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099629345367019788"
+ },
+ {
+  "band": "CB",
+  "name": "Need More Base",
+  "triggers": [
+   "need more base"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099634392800866639"
  }
 ]

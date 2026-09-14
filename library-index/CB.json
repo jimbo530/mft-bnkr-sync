@@ -233,14 +233,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Need More Base",
-  "triggers": [
-   "need more base"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092703699747389507",
-  "tag": "$MfT"
- },
- {
   "name": "Signal through the noise",
   "triggers": [
    "signal through the noise"
@@ -502,6 +494,14 @@
    "sing it, plant it"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099050516542067078",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Need More Base",
+  "triggers": [
+   "need more base"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099634392800866639",
   "tag": "$MfT"
  }
 ]
