@@ -1717,14 +1717,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090388443155030255"
  },
  {
-  "band": "Myco",
-  "name": "Crypto Spring",
-  "triggers": [
-   "crypto spring"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090403537490448801"
- },
- {
   "band": "DD",
   "name": "Zoom out",
   "triggers": [
@@ -7707,5 +7699,13 @@
    "pass it on"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099609228138656027"
+ },
+ {
+  "band": "Myco",
+  "name": "Crypto Spring",
+  "triggers": [
+   "crypto spring"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099629345367019788"
  }
 ]

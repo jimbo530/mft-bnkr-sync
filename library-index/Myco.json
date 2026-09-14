@@ -208,14 +208,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Crypto Spring",
-  "triggers": [
-   "crypto spring"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090403537490448801",
-  "tag": "$MfT"
- },
- {
   "name": "Self-Funding Revolution",
   "triggers": [
    "self-funding revolution"
@@ -861,6 +853,14 @@
    "drop the beats to fund the forest"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099584074088145397",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Crypto Spring",
+  "triggers": [
+   "crypto spring"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099629345367019788",
   "tag": "$MfT"
  }
 ]
