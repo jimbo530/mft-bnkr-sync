@@ -479,5 +479,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099221661815910815",
   "tag": "$MfT"
+ },
+ {
+  "name": "Older Than The Wire",
+  "triggers": [
+   "older than the wire"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099352511144489236",
+  "tag": "$MfT"
  }
 ]
