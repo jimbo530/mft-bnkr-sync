@@ -423,5 +423,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099276979165974619",
   "tag": "$MfT"
+ },
+ {
+  "name": "Lift Dem Up",
+  "triggers": [
+   "lift dem up"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099377674468622529",
+  "tag": "$MfT"
  }
 ]

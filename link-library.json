@@ -12300,5 +12300,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2099357501460205850",
     "caption": "\"- Fruiting Bodies\" — Myco\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2099377674468622529",
+    "translation": "Lift Dem Up",
+    "name": "Lift Dem Up",
+    "triggers": [
+      "lift dem up"
+    ],
+    "band": "MR",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2099377674468622529",
+    "caption": "\"Lift Dem Up\" — Moon Rasta\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
