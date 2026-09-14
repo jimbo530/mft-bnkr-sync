@@ -528,14 +528,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Drop The Beats To Fund The Forest",
-  "triggers": [
-   "drop the beats to fund the forest"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093005676851212517",
-  "tag": "$MfT"
- },
- {
   "name": "After the Winter Comes",
   "triggers": [
    "after the winter comes"
@@ -861,6 +853,14 @@
    "- fruiting bodies"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099357501460205850",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Drop The Beats To Fund The Forest",
+  "triggers": [
+   "drop the beats to fund the forest"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099584074088145397",
   "tag": "$MfT"
  }
 ]

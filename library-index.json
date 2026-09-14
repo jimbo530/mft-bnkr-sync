@@ -3613,14 +3613,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2092990548051165681"
  },
  {
-  "band": "Myco",
-  "name": "Drop The Beats To Fund The Forest",
-  "triggers": [
-   "drop the beats to fund the forest"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093005676851212517"
- },
- {
   "band": "MV",
   "name": "EBM - Code Not Coal",
   "triggers": [
@@ -7707,5 +7699,13 @@
    "the meme lord's fanfare"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099578959511933353"
+ },
+ {
+  "band": "Myco",
+  "name": "Drop The Beats To Fund The Forest",
+  "triggers": [
+   "drop the beats to fund the forest"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099584074088145397"
  }
 ]
