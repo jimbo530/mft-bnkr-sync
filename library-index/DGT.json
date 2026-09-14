@@ -239,5 +239,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099407889785905154",
   "tag": "$MfT"
+ },
+ {
+  "name": "They Buried It (It Danced)",
+  "triggers": [
+   "they buried it (it danced)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099528693404016905",
+  "tag": "$MfT"
  }
 ]
