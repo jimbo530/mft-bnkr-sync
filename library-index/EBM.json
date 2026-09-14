@@ -844,5 +844,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099105870076359078",
   "tag": "$MfT"
+ },
+ {
+  "name": "Halls Outlive Kingdoms",
+  "triggers": [
+   "halls outlive kingdoms"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099332367374528743",
+  "tag": "$MfT"
  }
 ]
