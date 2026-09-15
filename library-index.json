@@ -2157,14 +2157,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090952102348460160"
  },
  {
-  "band": "DD",
-  "name": "Creator Economy",
-  "triggers": [
-   "creator economy"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090967207647891958"
- },
- {
   "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “POUND BY POUND”",
   "triggers": [
@@ -7731,5 +7723,13 @@
    "ebm- internet magic"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099699810026545556"
+ },
+ {
+  "band": "DD",
+  "name": "Creator Economy",
+  "triggers": [
+   "creator economy"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099719937891631431"
  }
 ]
