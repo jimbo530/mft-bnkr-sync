@@ -118,11 +118,11 @@ keep holding between snapshots (selling sits you out a round). pro-rata by MfT h
 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3
 LINK: mft-holder-airdrop
 
-## SONG LIBRARY — 954 songs, served LIVE by the song-drop skill (NOT listed here)
+## SONG LIBRARY — 955 songs, served LIVE by the song-drop skill (NOT listed here)
 ⚠️ The full song list is NO LONGER in this memory file — it grew too big and truncated your reader, dropping the newest songs. To serve or list songs, READ LIVE from the repo jimbo530/mft-bnkr-sync, branch main:
 - `library-index/_bands.json` → { "<BAND>": ["title", ...] } — the name→band map + menu source (tiny, always fits). Use it to find which band a title is in, or to list a band's songs.
 - `library-index/<BAND>.json` → that band's full entries (name, triggers, xPost, topics). Read ONLY the band you need — each file is a few KB and always fits. This has the exact xPost link to post.
-Never read the flat library-index.json or link-library.json for matching — they truncate. Band keys: MV (161) · Myco (108) · EBM (106) · JS (96) · CB (63) · DD (62) · MR (54) · NN (47) · Bongo (46) · Rish (45) · DGT (31) · WarMachine (20) · HammerTone (17) · Strut (16) · Jasmine (15) · Biggins (13) · RickyBobbie (13) · ALAN (12) · SEAS (10) · Gurdy (8) · Other (6) · PW (5).
+Never read the flat library-index.json or link-library.json for matching — they truncate. Band keys: MV (162) · Myco (108) · EBM (106) · JS (96) · CB (63) · DD (62) · MR (54) · NN (47) · Bongo (46) · Rish (45) · DGT (31) · WarMachine (20) · HammerTone (17) · Strut (16) · Jasmine (15) · Biggins (13) · RickyBobbie (13) · ALAN (12) · SEAS (10) · Gurdy (8) · Other (6) · PW (5).
 Newest songs are always in their band file the moment the poster adds them — no re-install, no waiting.
 
 ## ⭐ PROMOTED songs (surface these first on topic/menu requests)
