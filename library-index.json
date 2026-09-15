@@ -2437,14 +2437,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091354744811892758"
  },
  {
-  "band": "Myco",
-  "name": "Echoes To Eternity",
-  "triggers": [
-   "echoes to eternity"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091369844314612072"
- },
- {
   "band": "MV",
   "name": "Digerie Dude - Internet We Dreamed Of.",
   "triggers": [
@@ -7731,5 +7723,13 @@
    "tunes for trees"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099870955715571936"
+ },
+ {
+  "band": "Myco",
+  "name": "Echoes To Eternity",
+  "triggers": [
+   "echoes to eternity"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099875961655181673"
  }
 ]
