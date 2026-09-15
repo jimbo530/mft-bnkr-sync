@@ -3469,14 +3469,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093010683143090659"
  },
  {
-  "band": "MV",
-  "name": "nattily grow greatness",
-  "triggers": [
-   "nattily grow greatness"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093025819723542866"
- },
- {
   "band": "EBM",
   "name": "You Make The Magic Happen",
   "triggers": [
@@ -7731,5 +7723,13 @@
    "digerie dude base is for everyone"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099921267302212052"
+ },
+ {
+  "band": "MV",
+  "name": "nattily grow greatness",
+  "triggers": [
+   "nattily grow greatness"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099926298944561193"
  }
 ]
