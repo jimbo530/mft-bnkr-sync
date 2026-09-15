@@ -4332,19 +4332,6 @@
     "caption": "\"Circulate Good\" — Jony Sings\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2091656775065817273",
-    "translation": "Digerie Dude- Carry the light",
-    "name": "Digerie Dude- Carry the light",
-    "triggers": [
-      "digerie dude- carry the light"
-    ],
-    "band": "MV",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2091656775065817273",
-    "caption": "\"Digerie Dude- Carry the light\"\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2091671872396025901",
     "translation": "Play For Impact",
     "name": "Play For Impact",
@@ -12547,5 +12534,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2099719937891631431",
     "caption": "\"Creator Economy\" — Digerie Dude\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2099724974516789552",
+    "translation": "Digerie Dude- Carry the light",
+    "name": "Digerie Dude- Carry the light",
+    "triggers": [
+      "digerie dude- carry the light"
+    ],
+    "band": "MV",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2099724974516789552",
+    "caption": "\"Digerie Dude- Carry the light\"\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

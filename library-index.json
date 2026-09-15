@@ -2693,14 +2693,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091651708338266474"
  },
  {
-  "band": "MV",
-  "name": "Digerie Dude- Carry the light",
-  "triggers": [
-   "digerie dude- carry the light"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091656775065817273"
- },
- {
   "band": "Myco",
   "name": "Play For Impact",
   "triggers": [
@@ -7731,5 +7723,13 @@
    "creator economy"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099719937891631431"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude- Carry the light",
+  "triggers": [
+   "digerie dude- carry the light"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099724974516789552"
  }
 ]
