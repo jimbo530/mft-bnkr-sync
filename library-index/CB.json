@@ -177,14 +177,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Natilie - Base is for you",
-  "triggers": [
-   "natilie - base is for you"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091611463215411424",
-  "tag": "$MfT"
- },
- {
   "name": "Chain Reaction Diplomacy",
   "triggers": [
    "chain reaction diplomacy"
@@ -502,6 +494,14 @@
    "need more base"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099634392800866639",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Natilie - Base is for you",
+  "triggers": [
+   "natilie - base is for you"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099750081738027125",
   "tag": "$MfT"
  }
 ]

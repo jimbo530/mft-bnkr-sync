@@ -2653,14 +2653,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091596372768063616"
  },
  {
-  "band": "CB",
-  "name": "Natilie - Base is for you",
-  "triggers": [
-   "natilie - base is for you"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091611463215411424"
- },
- {
   "band": "Myco",
   "name": "Mean Green Meme Machine",
   "triggers": [
@@ -7731,5 +7723,13 @@
    "un rugables"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099745059864236402"
+ },
+ {
+  "band": "CB",
+  "name": "Natilie - Base is for you",
+  "triggers": [
+   "natilie - base is for you"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099750081738027125"
  }
 ]
