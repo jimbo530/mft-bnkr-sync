@@ -8,14 +8,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Work Now Dance Later",
-  "triggers": [
-   "work now dance later"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085380380987703780",
-  "tag": "$MfT"
- },
- {
   "name": "Opportunity To Be Great",
   "triggers": [
    "opportunity to be great"
@@ -430,6 +422,14 @@
    "lift dem up"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099377674468622529",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Work Now Dance Later",
+  "triggers": [
+   "work now dance later"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099795398726500706",
   "tag": "$MfT"
  }
 ]

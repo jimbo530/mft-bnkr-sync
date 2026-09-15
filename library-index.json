@@ -463,14 +463,6 @@
  },
  {
   "band": "MR",
-  "name": "Work Now Dance Later",
-  "triggers": [
-   "work now dance later"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085380380987703780"
- },
- {
-  "band": "MR",
   "name": "Opportunity To Be Great",
   "triggers": [
    "opportunity to be great"
@@ -7731,5 +7723,13 @@
    "a hopping good time"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099775285612699847"
+ },
+ {
+  "band": "MR",
+  "name": "Work Now Dance Later",
+  "triggers": [
+   "work now dance later"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099795398726500706"
  }
 ]
