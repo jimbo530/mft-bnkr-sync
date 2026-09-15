@@ -1589,14 +1589,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090247520567865731"
  },
  {
-  "band": "MV",
-  "name": "Digerie Dude- Weather the storm",
-  "triggers": [
-   "digerie dude- weather the storm"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090262581143364060"
- },
- {
   "band": "CB",
   "name": "Open the Gates",
   "triggers": [
@@ -7731,5 +7723,13 @@
    "digerie dude - pulse of the forest"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099825700559581220"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude- Weather the storm",
+  "triggers": [
+   "digerie dude- weather the storm"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099845761798217750"
  }
 ]

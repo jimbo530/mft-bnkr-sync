@@ -2537,19 +2537,6 @@
     "caption": "\"GROWalition Rising\" — Jony Sings\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2090262581143364060",
-    "translation": "Digerie Dude- Weather the storm",
-    "name": "Digerie Dude- Weather the storm",
-    "triggers": [
-      "digerie dude- weather the storm"
-    ],
-    "band": "MV",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2090262581143364060",
-    "caption": "\"Digerie Dude- Weather the storm\"\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2090267615193124887",
     "translation": "Open the Gates",
     "name": "Open the Gates",
@@ -12546,5 +12533,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2099825700559581220",
     "caption": "\"Digerie Dude - Pulse of the Forest\"\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2099845761798217750",
+    "translation": "Digerie Dude- Weather the storm",
+    "name": "Digerie Dude- Weather the storm",
+    "triggers": [
+      "digerie dude- weather the storm"
+    ],
+    "band": "MV",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2099845761798217750",
+    "caption": "\"Digerie Dude- Weather the storm\"\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
