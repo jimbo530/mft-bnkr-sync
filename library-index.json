@@ -2342,14 +2342,6 @@
  },
  {
   "band": "MV",
-  "name": "growalition",
-  "triggers": [
-   "growalition"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091289324822102107"
- },
- {
-  "band": "MV",
   "name": "carry the light, G.O.A.T.",
   "triggers": [
    "carry the light, g.o.a.t."
@@ -7731,5 +7723,13 @@
    "alliance"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099976620714901688"
+ },
+ {
+  "band": "MV",
+  "name": "growalition",
+  "triggers": [
+   "growalition"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099996763494986068"
  }
 ]
