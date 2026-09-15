@@ -2045,14 +2045,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090871570143064206"
  },
  {
-  "band": "MV",
-  "name": "Digerie Dude- We grow As one",
-  "triggers": [
-   "digerie dude- we grow as one"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090886674825781713"
- },
- {
   "band": "MR",
   "name": "Joy in the Ground",
   "triggers": [
@@ -7731,5 +7723,13 @@
    "guardians on the floor"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099946466991079565"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude- We grow As one",
+  "triggers": [
+   "digerie dude- we grow as one"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099951418832527364"
  }
 ]

@@ -3278,19 +3278,6 @@
     "caption": "\"1000 Futures\" — Natilie Nightclub\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2090886674825781713",
-    "translation": "Digerie Dude- We grow As one",
-    "name": "Digerie Dude- We grow As one",
-    "triggers": [
-      "digerie dude- we grow as one"
-    ],
-    "band": "MV",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2090886674825781713",
-    "caption": "\"Digerie Dude- We grow As one\"\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2090891699945865533",
     "translation": "Joy in the Ground",
     "name": "Joy in the Ground",
@@ -12546,5 +12533,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2099946466991079565",
     "caption": "\"Guardians On The Floor\" — Myco\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2099951418832527364",
+    "translation": "Digerie Dude- We grow As one",
+    "name": "Digerie Dude- We grow As one",
+    "triggers": [
+      "digerie dude- we grow as one"
+    ],
+    "band": "MV",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2099951418832527364",
+    "caption": "\"Digerie Dude- We grow As one\"\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

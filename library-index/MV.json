@@ -640,14 +640,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Digerie Dude- We grow As one",
-  "triggers": [
-   "digerie dude- we grow as one"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090886674825781713",
-  "tag": "$MfT"
- },
- {
   "name": "Joy that stays",
   "triggers": [
    "joy that stays"
@@ -1301,6 +1293,14 @@
    "nattily grow greatness"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099926298944561193",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Digerie Dude- We grow As one",
+  "triggers": [
+   "digerie dude- we grow as one"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099951418832527364",
   "tag": "$MfT"
  }
 ]
