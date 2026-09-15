@@ -2958,14 +2958,6 @@
  },
  {
   "band": "MV",
-  "name": "Digerie Dude - Still Learning Still Loving",
-  "triggers": [
-   "digerie dude - still learning still loving"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092014080500392217"
- },
- {
-  "band": "MV",
   "name": "Digerie Dude - Stand Through the Storm",
   "triggers": [
    "digerie dude - stand through the storm"
@@ -7723,5 +7715,13 @@
    "forest on fire   rock (v2)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099669600078123088"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Still Learning Still Loving",
+  "triggers": [
+   "digerie dude - still learning still loving"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099674642017391057"
  }
 ]
