@@ -1373,14 +1373,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2089960576399126755"
  },
  {
-  "band": "JS",
-  "name": "Devil Wants My Song",
-  "triggers": [
-   "devil wants my song"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089975724153204988"
- },
- {
   "band": "Myco",
   "name": "Every Day We Grow",
   "triggers": [
@@ -7731,5 +7723,13 @@
    "digerie dude- weather the storm"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099845761798217750"
+ },
+ {
+  "band": "JS",
+  "name": "Devil Wants My Song",
+  "triggers": [
+   "devil wants my song"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099850795487310238"
  }
 ]
