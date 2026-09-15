@@ -1918,14 +1918,6 @@
  },
  {
   "band": "Myco",
-  "name": "Guardians On The Floor",
-  "triggers": [
-   "guardians on the floor"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090710563034718530"
- },
- {
-  "band": "Myco",
   "name": "Circular Didgeridoo",
   "triggers": [
    "circular didgeridoo"
@@ -7731,5 +7723,13 @@
    "nattily grow greatness"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099926298944561193"
+ },
+ {
+  "band": "Myco",
+  "name": "Guardians On The Floor",
+  "triggers": [
+   "guardians on the floor"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099946466991079565"
  }
 ]
