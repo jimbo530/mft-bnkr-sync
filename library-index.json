@@ -2277,14 +2277,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091193695903068615"
  },
  {
-  "band": "MV",
-  "name": "Digerie Dude - Working in the night",
-  "triggers": [
-   "digerie dude - working in the night"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091208790926410219"
- },
- {
   "band": "JS",
   "name": "You Can Keep The Crowns",
   "triggers": [
@@ -7731,5 +7723,13 @@
    "growalition"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099996763494986068"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Working in the night",
+  "triggers": [
+   "digerie dude - working in the night"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100001752766410936"
  }
 ]
