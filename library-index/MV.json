@@ -984,14 +984,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Digerie Dude - Pulse of the Forest",
-  "triggers": [
-   "digerie dude - pulse of the forest"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092366508798132713",
-  "tag": "$MfT"
- },
- {
   "name": "Myko - Your Lane",
   "triggers": [
    "myko - your lane"
@@ -1301,6 +1293,14 @@
    "ebm- more love"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099820567180230684",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Digerie Dude - Pulse of the Forest",
+  "triggers": [
+   "digerie dude - pulse of the forest"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099825700559581220",
   "tag": "$MfT"
  }
 ]
