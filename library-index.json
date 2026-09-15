@@ -2845,14 +2845,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091978853900009630"
  },
  {
-  "band": "JS",
-  "name": "Alliance",
-  "triggers": [
-   "alliance"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091993986017738812"
- },
- {
   "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “ALLIANCE FIRE”",
   "triggers": [
@@ -7731,5 +7723,13 @@
    "digerie dude- we grow as one"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099951418832527364"
+ },
+ {
+  "band": "JS",
+  "name": "Alliance",
+  "triggers": [
+   "alliance"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099976620714901688"
  }
 ]
