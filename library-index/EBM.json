@@ -414,14 +414,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Un Rugables",
-  "triggers": [
-   "un rugables"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092688563351498861",
-  "tag": "$MfT"
- },
- {
   "name": "Drop ’Em If You Got ’Em",
   "triggers": [
    "drop ’em if you got ’em"
@@ -851,6 +843,14 @@
    "halls outlive kingdoms"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099332367374528743",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Un Rugables",
+  "triggers": [
+   "un rugables"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099694739008204888",
   "tag": "$MfT"
  }
 ]

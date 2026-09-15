@@ -3341,14 +3341,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2092683569923514842"
  },
  {
-  "band": "EBM",
-  "name": "Un Rugables",
-  "triggers": [
-   "un rugables"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092688563351498861"
- },
- {
   "band": "Myco",
   "name": "We All Are One",
   "triggers": [
@@ -7723,5 +7715,13 @@
    "digerie dude - still learning still loving"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099674642017391057"
+ },
+ {
+  "band": "EBM",
+  "name": "Un Rugables",
+  "triggers": [
+   "un rugables"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099694739008204888"
  }
 ]
