@@ -1136,14 +1136,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "EBM- more love",
-  "triggers": [
-   "ebm- more love"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093050956699058572",
-  "tag": "$MfT"
- },
- {
   "name": "Digerie Dude - Quite Revolution of Love",
   "triggers": [
    "digerie dude - quite revolution of love"
@@ -1301,6 +1293,14 @@
    "together we rise -g.o.a.t."
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099800428279927030",
+  "tag": "$MfT"
+ },
+ {
+  "name": "EBM- more love",
+  "triggers": [
+   "ebm- more love"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099820567180230684",
   "tag": "$MfT"
  }
 ]
