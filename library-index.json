@@ -1789,14 +1789,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090529373921165500"
  },
  {
-  "band": "MV",
-  "name": "Digerie Dude Base is for Everyone",
-  "triggers": [
-   "digerie dude base is for everyone"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090544476372586730"
- },
- {
   "band": "NN",
   "name": "Learn To Earn",
   "triggers": [
@@ -7731,5 +7723,13 @@
    "elves of ballinmoore — “pound by pound”"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099901091538202978"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude Base is for Everyone",
+  "triggers": [
+   "digerie dude base is for everyone"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099921267302212052"
  }
 ]

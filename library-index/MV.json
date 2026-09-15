@@ -576,14 +576,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Digerie Dude Base is for Everyone",
-  "triggers": [
-   "digerie dude base is for everyone"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090544476372586730",
-  "tag": "$MfT"
- },
- {
   "name": "Digerie Dude - Permanent",
   "triggers": [
    "digerie dude - permanent"
@@ -1301,6 +1293,14 @@
    "digerie dude- weather the storm"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099845761798217750",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Digerie Dude Base is for Everyone",
+  "triggers": [
+   "digerie dude base is for everyone"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099921267302212052",
   "tag": "$MfT"
  }
 ]
