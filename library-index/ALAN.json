@@ -90,14 +90,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "A Hopping Good Time",
-  "triggers": [
-   "a hopping good time"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079371832369577998",
-  "tag": "$MfT"
- },
- {
   "name": "Pass The Meme Along",
   "triggers": [
    "pass the meme along"
@@ -136,6 +128,14 @@
    "thanks for listening"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098008640581996797",
+  "tag": "$MfT"
+ },
+ {
+  "name": "A Hopping Good Time",
+  "triggers": [
+   "a hopping good time"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099775285612699847",
   "tag": "$MfT"
  }
 ]

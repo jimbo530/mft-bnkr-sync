@@ -263,14 +263,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079243269200834706"
  },
  {
-  "band": "ALAN",
-  "name": "A Hopping Good Time",
-  "triggers": [
-   "a hopping good time"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079371832369577998"
- },
- {
   "band": "Myco",
   "name": "The Cost of the Canopy",
   "triggers": [
@@ -7731,5 +7723,13 @@
    "forest on fire   rock"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099770270001119654"
+ },
+ {
+  "band": "ALAN",
+  "name": "A Hopping Good Time",
+  "triggers": [
+   "a hopping good time"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099775285612699847"
  }
 ]

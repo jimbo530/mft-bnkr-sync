@@ -397,20 +397,6 @@
     "boothCommission": "sg_mrtfs9bukx"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2079371832369577998",
-    "translation": "A Hopping Good Time",
-    "name": "A Hopping Good Time",
-    "triggers": [
-      "a hopping good time"
-    ],
-    "band": "ALAN",
-    "tag": "$MfT",
-    "ca": "0x5e35b494f4941cf6f47d407d93fee66a366daba3",
-    "xPost": "https://x.com/MemeForTrees/status/2079371832369577998",
-    "caption": "\"A Hopping Good Time\" — Alan-a-Dale\n\n$MfT",
-    "boothCommission": "sg_mrty0c007q"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2079388587297038636",
     "translation": "The Cost of the Canopy",
     "name": "The Cost of the Canopy",
@@ -12547,5 +12533,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2099770270001119654",
     "caption": "\"Forest on Fire   rock\"\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2099775285612699847",
+    "translation": "A Hopping Good Time",
+    "name": "A Hopping Good Time",
+    "triggers": [
+      "a hopping good time"
+    ],
+    "band": "ALAN",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2099775285612699847",
+    "caption": "\"A Hopping Good Time\" — ALAN\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
