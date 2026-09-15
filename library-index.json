@@ -3149,14 +3149,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2092381601581727872"
  },
  {
-  "band": "Myco",
-  "name": "Tunes For Trees",
-  "triggers": [
-   "tunes for trees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092527539151352105"
- },
- {
   "band": "CB",
   "name": "Started, Made, Done",
   "triggers": [
@@ -7731,5 +7723,13 @@
    "devil wants my song"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099850795487310238"
+ },
+ {
+  "band": "Myco",
+  "name": "Tunes For Trees",
+  "triggers": [
+   "tunes for trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099870955715571936"
  }
 ]

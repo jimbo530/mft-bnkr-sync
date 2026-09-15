@@ -440,14 +440,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Tunes For Trees",
-  "triggers": [
-   "tunes for trees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092527539151352105",
-  "tag": "$MfT"
- },
- {
   "name": "Go Do Something Nice",
   "triggers": [
    "go do something nice"
@@ -861,6 +853,14 @@
    "crypto spring"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099629345367019788",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Tunes For Trees",
+  "triggers": [
+   "tunes for trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099870955715571936",
   "tag": "$MfT"
  }
 ]
