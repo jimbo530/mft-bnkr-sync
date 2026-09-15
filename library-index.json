@@ -3150,14 +3150,6 @@
  },
  {
   "band": "JS",
-  "name": "Un Rugables",
-  "triggers": [
-   "un rugables"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092321130065408287"
- },
- {
-  "band": "JS",
   "name": "Regen Rising",
   "triggers": [
    "regen rising"
@@ -7731,5 +7723,13 @@
    "digerie dude- carry the light"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099724974516789552"
+ },
+ {
+  "band": "JS",
+  "name": "Un Rugables",
+  "triggers": [
+   "un rugables"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2099745059864236402"
  }
 ]
