@@ -226,20 +226,6 @@
  },
  {
   "band": "ALAN",
-  "name": "The Sounds of the Barn Yard",
-  "triggers": [
-   "the sounds of the barn yard"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079213718303391820",
-  "topics": [
-   "barnyard",
-   "animals",
-   "farm",
-   "funny"
-  ]
- },
- {
-  "band": "ALAN",
   "name": "Burgers Feed the People",
   "triggers": [
    "burgers feed the people"
@@ -7731,5 +7717,13 @@
    "every listen plants a tree"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100097423657873679"
+ },
+ {
+  "band": "ALAN",
+  "name": "The Sounds of the Barn Yard",
+  "triggers": [
+   "the sounds of the barn yard"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100102438090940645"
  }
 ]
