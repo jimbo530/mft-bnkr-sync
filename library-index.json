@@ -3567,14 +3567,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093322731466965273"
  },
  {
-  "band": "JS",
-  "name": "Blockchain Boogie",
-  "triggers": [
-   "blockchain boogie"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093327815911358787"
- },
- {
   "band": "EBM",
   "name": "Day To Build The Dream",
   "triggers": [
@@ -7725,5 +7717,13 @@
    "the sounds of the barn yard"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100102438090940645"
+ },
+ {
+  "band": "JS",
+  "name": "Blockchain Boogie",
+  "triggers": [
+   "blockchain boogie"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100122542040133634"
  }
 ]
