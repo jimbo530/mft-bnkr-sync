@@ -3168,14 +3168,6 @@
  },
  {
   "band": "JS",
-  "name": "Alive",
-  "triggers": [
-   "alive"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092910069012680808"
- },
- {
-  "band": "JS",
   "name": "Streets to Roots",
   "triggers": [
    "streets to roots"
@@ -7725,5 +7717,13 @@
    "welcome to the show"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100339010308550896"
+ },
+ {
+  "band": "JS",
+  "name": "Alive",
+  "triggers": [
+   "alive"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100344005775024460"
  }
 ]
