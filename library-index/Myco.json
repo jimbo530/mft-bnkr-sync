@@ -248,14 +248,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Circular Didgeridoo",
-  "triggers": [
-   "circular didgeridoo"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090725693285965916",
-  "tag": "$MfT"
- },
- {
   "name": "Seeds To Save Humanity",
   "triggers": [
    "seeds to save humanity"
@@ -861,6 +853,14 @@
    "every listen plants a tree"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100097423657873679",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Circular Didgeridoo",
+  "triggers": [
+   "circular didgeridoo"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100177973127078048",
   "tag": "$MfT"
  }
 ]

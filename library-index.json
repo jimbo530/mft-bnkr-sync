@@ -1879,14 +1879,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090705485712302130"
  },
  {
-  "band": "Myco",
-  "name": "Circular Didgeridoo",
-  "triggers": [
-   "circular didgeridoo"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090725693285965916"
- },
- {
   "band": "EBM",
   "name": "Drop The Memes",
   "triggers": [
@@ -7725,5 +7717,13 @@
    "natilie - it will change your life."
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100172881778884680"
+ },
+ {
+  "band": "Myco",
+  "name": "Circular Didgeridoo",
+  "triggers": [
+   "circular didgeridoo"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100177973127078048"
  }
 ]
