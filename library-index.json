@@ -2421,14 +2421,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091450423626342659"
  },
  {
-  "band": "Myco",
-  "name": "Every Listen Plants a Tree",
-  "triggers": [
-   "every listen plants a tree"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091455450470350913"
- },
- {
   "band": "MV",
   "name": "J&N you dont know",
   "triggers": [
@@ -7731,5 +7723,13 @@
    "forests for the future"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100077239513534856"
+ },
+ {
+  "band": "Myco",
+  "name": "Every Listen Plants a Tree",
+  "triggers": [
+   "every listen plants a tree"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100097423657873679"
  }
 ]

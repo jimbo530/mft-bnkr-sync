@@ -320,14 +320,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Every Listen Plants a Tree",
-  "triggers": [
-   "every listen plants a tree"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091455450470350913",
-  "tag": "$MfT"
- },
- {
   "name": "Diamond Roots",
   "triggers": [
    "diamond roots"
@@ -861,6 +853,14 @@
    "bull market festival"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100047090223079539",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Every Listen Plants a Tree",
+  "triggers": [
+   "every listen plants a tree"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100097423657873679",
   "tag": "$MfT"
  }
 ]
