@@ -3399,14 +3399,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093247286243394015"
  },
  {
-  "band": "JS",
-  "name": "Party God",
-  "triggers": [
-   "party god"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093262380553646411"
- },
- {
   "band": "EBM",
   "name": "“EVERY SIGNAL PLANTS TREES”",
   "triggers": [
@@ -7725,5 +7717,13 @@
    "emerald signal 22726"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100293723317821861"
+ },
+ {
+  "band": "JS",
+  "name": "Party God",
+  "triggers": [
+   "party god"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100313812339511450"
  }
 ]
