@@ -318,14 +318,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "ELVES OF BALLINMOORE — “ALLIANCE FIRE”",
-  "triggers": [
-   "elves of ballinmoore — “alliance fire”"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091999029655662610",
-  "tag": "$MfT"
- },
- {
   "name": "Locked Forever",
   "triggers": [
    "locked forever"
@@ -851,6 +843,14 @@
    "elves of ballinmoore — “pound by pound”"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099901091538202978",
+  "tag": "$MfT"
+ },
+ {
+  "name": "ELVES OF BALLINMOORE — “ALLIANCE FIRE”",
+  "triggers": [
+   "elves of ballinmoore — “alliance fire”"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100263525503414448",
   "tag": "$MfT"
  }
 ]

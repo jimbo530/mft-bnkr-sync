@@ -2735,14 +2735,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091978853900009630"
  },
  {
-  "band": "EBM",
-  "name": "ELVES OF BALLINMOORE — “ALLIANCE FIRE”",
-  "triggers": [
-   "elves of ballinmoore — “alliance fire”"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091999029655662610"
- },
- {
   "band": "MV",
   "name": "Digerie Dude - Stand Through the Storm",
   "triggers": [
@@ -7725,5 +7717,13 @@
    "self-funding revolution"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100243393792131506"
+ },
+ {
+  "band": "EBM",
+  "name": "ELVES OF BALLINMOORE — “ALLIANCE FIRE”",
+  "triggers": [
+   "elves of ballinmoore — “alliance fire”"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100263525503414448"
  }
 ]
