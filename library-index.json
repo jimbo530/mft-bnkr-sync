@@ -1637,14 +1637,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090328053230563496"
  },
  {
-  "band": "MV",
-  "name": "My own Name, - Jasmine",
-  "triggers": [
-   "my own name, - jasmine"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090343113734639685"
- },
- {
   "band": "CB",
   "name": "EBM - Global Village",
   "triggers": [
@@ -7731,5 +7723,13 @@
    "bull market festival"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100047090223079539"
+ },
+ {
+  "band": "MV",
+  "name": "My own Name, - Jasmine",
+  "triggers": [
+   "my own name, - jasmine"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100052122003796150"
  }
 ]
