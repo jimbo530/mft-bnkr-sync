@@ -2920,14 +2920,6 @@
  },
  {
   "band": "JS",
-  "name": "Welcome To The Show",
-  "triggers": [
-   "welcome to the show"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092341319851033024"
- },
- {
-  "band": "JS",
   "name": "Cellars Sewers And Spells",
   "triggers": [
    "cellars sewers and spells"
@@ -7725,5 +7717,13 @@
    "ebm - tgn alliance"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100318850776547545"
+ },
+ {
+  "band": "JS",
+  "name": "Welcome To The Show",
+  "triggers": [
+   "welcome to the show"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100339010308550896"
  }
 ]
