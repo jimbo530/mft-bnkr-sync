@@ -3104,14 +3104,6 @@
  },
  {
   "band": "MV",
-  "name": "EBM - TGN Alliance",
-  "triggers": [
-   "ebm - tgn alliance"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092784191205228746"
- },
- {
-  "band": "MV",
   "name": "Digeri Dude - Rabbit Hole",
   "triggers": [
    "digeri dude - rabbit hole"
@@ -7725,5 +7717,13 @@
    "party god"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100313812339511450"
+ },
+ {
+  "band": "MV",
+  "name": "EBM - TGN Alliance",
+  "triggers": [
+   "ebm - tgn alliance"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100318850776547545"
  }
 ]
