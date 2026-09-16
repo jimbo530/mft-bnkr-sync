@@ -5442,19 +5442,6 @@
     "caption": "\"Velvet And Valor\" — Natilie Nightclub\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2093146592333140103",
-    "translation": "Natali Learn to Earn",
-    "name": "Natali Learn to Earn",
-    "triggers": [
-      "natali learn to earn"
-    ],
-    "band": "MV",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2093146592333140103",
-    "caption": "\"Natali Learn to Earn\"\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2093161682302382253",
     "translation": "Thanks for being here",
     "name": "Thanks for being here",
@@ -12539,5 +12526,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2100218211039895866",
     "caption": "\"The more love you give - Biggins Mcjamin\"\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2100238323709018444",
+    "translation": "Natali Learn to Earn",
+    "name": "Natali Learn to Earn",
+    "triggers": [
+      "natali learn to earn"
+    ],
+    "band": "MV",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2100238323709018444",
+    "caption": "\"Natali Learn to Earn\"\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
