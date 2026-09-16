@@ -2173,14 +2173,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091087992781668448"
  },
  {
-  "band": "MV",
-  "name": "Forests For The Future",
-  "triggers": [
-   "forests for the future"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091093068124406170"
- },
- {
   "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “INTERNET ROOTS",
   "triggers": [
@@ -7731,5 +7723,13 @@
    "base is for builders"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100072250221216113"
+ },
+ {
+  "band": "MV",
+  "name": "Forests For The Future",
+  "triggers": [
+   "forests for the future"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100077239513534856"
  }
 ]
