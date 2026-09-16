@@ -1656,14 +1656,6 @@
  },
  {
   "band": "Myco",
-  "name": "Self-Funding Revolution",
-  "triggers": [
-   "self-funding revolution"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090423631444627803"
- },
- {
-  "band": "Myco",
   "name": "Altcoin Blossoms",
   "triggers": [
    "altcoin blossoms"
@@ -7725,5 +7717,13 @@
    "natali learn to earn"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100238323709018444"
+ },
+ {
+  "band": "Myco",
+  "name": "Self-Funding Revolution",
+  "triggers": [
+   "self-funding revolution"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100243393792131506"
  }
 ]

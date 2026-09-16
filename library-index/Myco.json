@@ -208,14 +208,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Self-Funding Revolution",
-  "triggers": [
-   "self-funding revolution"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090423631444627803",
-  "tag": "$MfT"
- },
- {
   "name": "Altcoin Blossoms",
   "triggers": [
    "altcoin blossoms"
@@ -861,6 +853,14 @@
    "mushroom web"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100188030254404054",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Self-Funding Revolution",
+  "triggers": [
+   "self-funding revolution"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100243393792131506",
   "tag": "$MfT"
  }
 ]
