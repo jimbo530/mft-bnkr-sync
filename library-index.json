@@ -2229,14 +2229,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091133301331214842"
  },
  {
-  "band": "DD",
-  "name": "Digeri Dude - I endure",
-  "triggers": [
-   "digeri dude - i endure"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091148429443387416"
- },
- {
   "band": "Myco",
   "name": "Hero For Being Here",
   "triggers": [
@@ -7731,5 +7723,13 @@
    "digerie dude - working in the night"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100001752766410936"
+ },
+ {
+  "band": "DD",
+  "name": "Digeri Dude - I endure",
+  "triggers": [
+   "digeri dude - i endure"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100021878471491930"
  }
 ]
