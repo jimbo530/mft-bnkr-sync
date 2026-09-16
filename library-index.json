@@ -3056,14 +3056,6 @@
  },
  {
   "band": "MV",
-  "name": "EBM - No Turning back.",
-  "triggers": [
-   "ebm - no turning back."
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092582917440426124"
- },
- {
-  "band": "MV",
   "name": "Each one matters",
   "triggers": [
    "each one matters"
@@ -7725,5 +7717,13 @@
    "blockchain boogie"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100122542040133634"
+ },
+ {
+  "band": "MV",
+  "name": "EBM - No Turning back.",
+  "triggers": [
+   "ebm - no turning back."
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100127579575398834"
  }
 ]
