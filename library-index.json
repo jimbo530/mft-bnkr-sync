@@ -1655,14 +1655,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090408565236175136"
  },
  {
-  "band": "Myco",
-  "name": "Altcoin Blossoms",
-  "triggers": [
-   "altcoin blossoms"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090428713502453850"
- },
- {
   "band": "MV",
   "name": "Biggins Mcjamin - Math isn't Mathing",
   "triggers": [
@@ -7725,5 +7717,13 @@
    "each one matters"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100268556122292536"
+ },
+ {
+  "band": "Myco",
+  "name": "Altcoin Blossoms",
+  "triggers": [
+   "altcoin blossoms"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100288699028095298"
  }
 ]
