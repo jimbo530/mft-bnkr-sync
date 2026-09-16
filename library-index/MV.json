@@ -936,14 +936,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Each one matters",
-  "triggers": [
-   "each one matters"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092587904040116362",
-  "tag": "$MfT"
- },
- {
   "name": "Lighter than before",
   "triggers": [
    "lighter than before"
@@ -1301,6 +1293,14 @@
    "natali learn to earn"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100238323709018444",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Each one matters",
+  "triggers": [
+   "each one matters"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100268556122292536",
   "tag": "$MfT"
  }
 ]
