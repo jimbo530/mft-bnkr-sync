@@ -408,14 +408,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "One Act At A Time",
-  "triggers": [
-   "one act at a time"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092094654825034186",
-  "tag": "$MfT"
- },
- {
   "name": "Real Proof",
   "triggers": [
    "real proof"
@@ -861,6 +853,14 @@
    "guardians on the floor"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099946466991079565",
+  "tag": "$MfT"
+ },
+ {
+  "name": "One Act At A Time",
+  "triggers": [
+   "one act at a time"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100026965038108945",
   "tag": "$MfT"
  }
 ]

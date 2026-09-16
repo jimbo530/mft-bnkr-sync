@@ -2885,14 +2885,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2092079553724252545"
  },
  {
-  "band": "Myco",
-  "name": "One Act At A Time",
-  "triggers": [
-   "one act at a time"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092094654825034186"
- },
- {
   "band": "MV",
   "name": "Opp to be awesome - Biggins Mcjamin",
   "triggers": [
@@ -7731,5 +7723,13 @@
    "digeri dude - i endure"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100021878471491930"
+ },
+ {
+  "band": "Myco",
+  "name": "One Act At A Time",
+  "triggers": [
+   "one act at a time"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100026965038108945"
  }
 ]
