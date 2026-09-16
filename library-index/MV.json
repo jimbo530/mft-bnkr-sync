@@ -1056,14 +1056,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The more love you give - Biggins Mcjamin",
-  "triggers": [
-   "the more love you give - biggins mcjamin"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093071114121457954",
-  "tag": "$MfT"
- },
- {
   "name": "Natali Learn to Earn",
   "triggers": [
    "natali learn to earn"
@@ -1301,6 +1293,14 @@
    "natilie - it will change your life."
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100172881778884680",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The more love you give - Biggins Mcjamin",
+  "triggers": [
+   "the more love you give - biggins mcjamin"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100218211039895866",
   "tag": "$MfT"
  }
 ]
