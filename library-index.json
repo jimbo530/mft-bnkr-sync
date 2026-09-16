@@ -2551,14 +2551,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091671872396025901"
  },
  {
-  "band": "JS",
-  "name": "Jony Sings Alliance",
-  "triggers": [
-   "jony sings alliance"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091676908291317920"
- },
- {
   "band": "EBM",
   "name": "Ballinmoore Elves",
   "triggers": [
@@ -7725,5 +7717,13 @@
    "ebm - no turning back."
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100127579575398834"
+ },
+ {
+  "band": "JS",
+  "name": "Jony Sings Alliance",
+  "triggers": [
+   "jony sings alliance"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100147747961655802"
  }
 ]
