@@ -510,14 +510,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088168803364384793"
  },
  {
-  "band": "CB",
-  "name": "BASE is for Builders",
-  "triggers": [
-   "base is for builders"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085294870806004084"
- },
- {
   "band": "MV",
   "name": "jony sings blockchain boogie",
   "triggers": [
@@ -7731,5 +7723,13 @@
    "my own name, - jasmine"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100052122003796150"
+ },
+ {
+  "band": "CB",
+  "name": "BASE is for Builders",
+  "triggers": [
+   "base is for builders"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100072250221216113"
  }
 ]
