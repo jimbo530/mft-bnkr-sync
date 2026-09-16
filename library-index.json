@@ -2199,14 +2199,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091173600522875079"
  },
  {
-  "band": "DD",
-  "name": "CARRY THE LIGHT",
-  "triggers": [
-   "carry the light"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091188695109968273"
- },
- {
   "band": "MV",
   "name": "If it was easy",
   "triggers": [
@@ -7725,5 +7717,13 @@
    "mushroom web"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100188030254404054"
+ },
+ {
+  "band": "DD",
+  "name": "CARRY THE LIGHT",
+  "triggers": [
+   "carry the light"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100213205175812200"
  }
 ]
