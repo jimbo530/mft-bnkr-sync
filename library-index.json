@@ -3286,14 +3286,6 @@
  },
  {
   "band": "Myco",
-  "name": "Bull Market Festival",
-  "triggers": [
-   "bull market festival"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092849668673741224"
- },
- {
-  "band": "Myco",
   "name": "Mushroom Web",
   "triggers": [
    "mushroom web"
@@ -7731,5 +7723,13 @@
    "one act at a time"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100026965038108945"
+ },
+ {
+  "band": "Myco",
+  "name": "Bull Market Festival",
+  "triggers": [
+   "bull market festival"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100047090223079539"
  }
 ]
