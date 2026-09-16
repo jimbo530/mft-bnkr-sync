@@ -2879,14 +2879,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2092260709602087120"
  },
  {
-  "band": "EBM",
-  "name": "emerald signal 22726",
-  "triggers": [
-   "emerald signal 22726"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092275850850742321"
- },
- {
   "band": "MV",
   "name": "Digerie Dude - Believe in SomeETHing",
   "triggers": [
@@ -7725,5 +7717,13 @@
    "altcoin blossoms"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100288699028095298"
+ },
+ {
+  "band": "EBM",
+  "name": "emerald signal 22726",
+  "triggers": [
+   "emerald signal 22726"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100293723317821861"
  }
 ]
