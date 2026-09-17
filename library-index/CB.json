@@ -105,14 +105,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Open the Gates",
-  "triggers": [
-   "open the gates"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090267615193124887",
-  "tag": "$MfT"
- },
- {
   "name": "EBM - Global Village",
   "triggers": [
    "ebm - global village"
@@ -502,6 +494,14 @@
    "ebm - fighting temeraire"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100439663055974766",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Open the Gates",
+  "triggers": [
+   "open the gates"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100646042681090123",
   "tag": "$MfT"
  }
 ]

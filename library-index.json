@@ -1543,14 +1543,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090247520567865731"
  },
  {
-  "band": "CB",
-  "name": "Open the Gates",
-  "triggers": [
-   "open the gates"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090267615193124887"
- },
- {
   "band": "MR",
   "name": "Roots In The Rhythm",
   "triggers": [
@@ -7725,5 +7717,13 @@
    "polyraiders"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100641000515404016"
+ },
+ {
+  "band": "CB",
+  "name": "Open the Gates",
+  "triggers": [
+   "open the gates"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100646042681090123"
  }
 ]
