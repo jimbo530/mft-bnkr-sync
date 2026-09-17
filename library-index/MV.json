@@ -1064,14 +1064,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Digerie Dude - Small Voices Big Waves",
-  "triggers": [
-   "digerie dude - small voices big waves"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093463715840487439",
-  "tag": "$MfT"
- },
- {
   "name": "Dance to Defend The Earth",
   "triggers": [
    "dance to defend the earth"
@@ -1301,6 +1293,14 @@
    "ebm - every signal plants trees"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100520209861800133",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Digerie Dude - Small Voices Big Waves",
+  "triggers": [
+   "digerie dude - small voices big waves"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100540335822688690",
   "tag": "$MfT"
  }
 ]
