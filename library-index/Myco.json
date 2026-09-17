@@ -200,14 +200,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Proof of Good",
-  "triggers": [
-   "proof of good"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090529373921165500",
-  "tag": "$MfT"
- },
- {
   "name": "Liquidity Rain",
   "triggers": [
    "liquidity rain"
@@ -861,6 +853,14 @@
    "ai band empire"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100389351284736166",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Proof of Good",
+  "triggers": [
+   "proof of good"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100444707503390999",
   "tag": "$MfT"
  }
 ]
