@@ -134,14 +134,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Meme For Trees",
-  "triggers": [
-   "meme for trees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090322966747721958",
-  "tag": "$MfT"
- },
- {
   "name": "ELVES OF BALLINMOORE — “YUCKY DUCKS x TR",
   "triggers": [
    "elves of ballinmoore — “yucky ducks x tr"
@@ -851,6 +843,14 @@
    "emerald signal 22726"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100293723317821861",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Meme For Trees",
+  "triggers": [
+   "meme for trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100419497018503458",
   "tag": "$MfT"
  }
 ]

@@ -1591,14 +1591,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090307921745752300"
  },
  {
-  "band": "EBM",
-  "name": "Meme For Trees",
-  "triggers": [
-   "meme for trees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090322966747721958"
- },
- {
   "band": "MV",
   "name": "EBM - Decentraland Chainport",
   "triggers": [
@@ -7725,5 +7717,13 @@
    "streets to roots"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100414498842509338"
+ },
+ {
+  "band": "EBM",
+  "name": "Meme For Trees",
+  "triggers": [
+   "meme for trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100419497018503458"
  }
 ]
