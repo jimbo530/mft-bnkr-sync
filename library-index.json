@@ -2143,14 +2143,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091213858044043408"
  },
  {
-  "band": "DD",
-  "name": "(ROOTS THAT HOLD US)",
-  "triggers": [
-   "(roots that hold us)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091228915880632643"
- },
- {
   "band": "MV",
   "name": "treegens do what you please for the trees",
   "triggers": [
@@ -7725,5 +7717,13 @@
    "take your shot"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100565494939918843"
+ },
+ {
+  "band": "DD",
+  "name": "(ROOTS THAT HOLD US)",
+  "triggers": [
+   "(roots that hold us)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100570524761919494"
  }
 ]
