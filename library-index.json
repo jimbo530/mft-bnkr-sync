@@ -1871,14 +1871,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090765895496781911"
  },
  {
-  "band": "MV",
-  "name": "Ricky Bobbie - Freedoms Faster than Fear",
-  "triggers": [
-   "ricky bobbie - freedoms faster than fear"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090770957589717121"
- },
- {
   "band": "Myco",
   "name": "Impact Flywheel",
   "triggers": [
@@ -7725,5 +7717,13 @@
    "forest and sun   jasmine"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100490016782713298"
+ },
+ {
+  "band": "MV",
+  "name": "Ricky Bobbie - Freedoms Faster than Fear",
+  "triggers": [
+   "ricky bobbie - freedoms faster than fear"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100494998240211258"
  }
 ]
