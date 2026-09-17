@@ -353,14 +353,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Streets to Roots",
-  "triggers": [
-   "streets to roots"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092925103315013713",
-  "tag": "$MfT"
- },
- {
   "name": "Jony Sings, Party god",
   "triggers": [
    "jony sings, party god"
@@ -766,6 +758,14 @@
    "regen rising"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100394371367457184",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Streets to Roots",
+  "triggers": [
+   "streets to roots"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100414498842509338",
   "tag": "$MfT"
  }
 ]

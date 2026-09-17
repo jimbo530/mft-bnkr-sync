@@ -3135,14 +3135,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2092904979270873569"
  },
  {
-  "band": "JS",
-  "name": "Streets to Roots",
-  "triggers": [
-   "streets to roots"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092925103315013713"
- },
- {
   "band": "Myco",
   "name": "Forge the Future",
   "triggers": [
@@ -7725,5 +7717,13 @@
    "regen rising"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100394371367457184"
+ },
+ {
+  "band": "JS",
+  "name": "Streets to Roots",
+  "triggers": [
+   "streets to roots"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100414498842509338"
  }
 ]
