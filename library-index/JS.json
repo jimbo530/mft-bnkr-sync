@@ -217,14 +217,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Proof Of Life vid",
-  "triggers": [
-   "proof of life vid"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091551082728026135",
-  "tag": "$MfT"
- },
- {
   "name": "Move Like Magic",
   "triggers": [
    "move like magic"
@@ -766,6 +758,14 @@
    "jony lessons in the ledger"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100464848328925361",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Proof Of Life vid",
+  "triggers": [
+   "proof of life vid"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100515168945873175",
   "tag": "$MfT"
  }
 ]

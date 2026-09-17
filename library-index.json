@@ -2367,14 +2367,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091535943245152606"
  },
  {
-  "band": "JS",
-  "name": "Proof Of Life vid",
-  "triggers": [
-   "proof of life vid"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091551082728026135"
- },
- {
   "band": "Myco",
   "name": "Show Me What You Got",
   "triggers": [
@@ -7725,5 +7717,13 @@
    "ricky bobbie - freedoms faster than fear"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100494998240211258"
+ },
+ {
+  "band": "JS",
+  "name": "Proof Of Life vid",
+  "triggers": [
+   "proof of life vid"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100515168945873175"
  }
 ]
