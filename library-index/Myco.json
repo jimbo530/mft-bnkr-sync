@@ -168,14 +168,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Return of the Bulls",
-  "triggers": [
-   "the return of the bulls"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090041156952342954",
-  "tag": "$MfT"
- },
- {
   "name": "Til We’re Done",
   "triggers": [
    "til we’re done"
@@ -861,6 +853,14 @@
    "proof of good"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100444707503390999",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Return of the Bulls",
+  "triggers": [
+   "the return of the bulls"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100595705647653336",
   "tag": "$MfT"
  }
 ]

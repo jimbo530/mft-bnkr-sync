@@ -1391,14 +1391,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090036130917835129"
  },
  {
-  "band": "Myco",
-  "name": "The Return of the Bulls",
-  "triggers": [
-   "the return of the bulls"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090041156952342954"
- },
- {
   "band": "DD",
   "name": "(TENDER RESILIENCE)",
   "triggers": [
@@ -7725,5 +7717,13 @@
    "green hearts strong feet"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100590659413389364"
+ },
+ {
+  "band": "Myco",
+  "name": "The Return of the Bulls",
+  "triggers": [
+   "the return of the bulls"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100595705647653336"
  }
 ]

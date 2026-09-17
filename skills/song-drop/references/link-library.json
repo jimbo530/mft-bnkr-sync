@@ -2218,19 +2218,6 @@
     "caption": "\"Myko - Keep Moving\"\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2090041156952342954",
-    "translation": "The Return of the Bulls",
-    "name": "The Return of the Bulls",
-    "triggers": [
-      "the return of the bulls"
-    ],
-    "band": "Myco",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2090041156952342954",
-    "caption": "\"The Return of the Bulls\" — Myco\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2090056250515996978",
     "translation": "(TENDER RESILIENCE)",
     "name": "(TENDER RESILIENCE)",
@@ -12539,5 +12526,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2100590659413389364",
     "caption": "\"Green Hearts Strong Feet\" — Moon Rasta\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2100595705647653336",
+    "translation": "The Return of the Bulls",
+    "name": "The Return of the Bulls",
+    "triggers": [
+      "the return of the bulls"
+    ],
+    "band": "Myco",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2100595705647653336",
+    "caption": "\"The Return of the Bulls\" — Myco\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
