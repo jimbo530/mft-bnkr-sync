@@ -257,14 +257,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Polyraiders",
-  "triggers": [
-   "polyraiders"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092059417797628071",
-  "tag": "$MfT"
- },
- {
   "name": "jony sings Polyraiders",
   "triggers": [
    "jony sings polyraiders"
@@ -766,6 +758,14 @@
    "mangrove"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100545327719674195",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Polyraiders",
+  "triggers": [
+   "polyraiders"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100641000515404016",
   "tag": "$MfT"
  }
 ]

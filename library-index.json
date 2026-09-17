@@ -2639,14 +2639,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2092054387858231445"
  },
  {
-  "band": "JS",
-  "name": "Polyraiders",
-  "triggers": [
-   "polyraiders"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092059417797628071"
- },
- {
   "band": "MR",
   "name": "I Love Being Alive",
   "triggers": [
@@ -7725,5 +7717,13 @@
    "elves of ballinmoore"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100615811614310730"
+ },
+ {
+  "band": "JS",
+  "name": "Polyraiders",
+  "triggers": [
+   "polyraiders"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100641000515404016"
  }
 ]
