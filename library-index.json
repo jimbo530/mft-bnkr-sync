@@ -3023,14 +3023,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2092884847496667205"
  },
  {
-  "band": "MR",
-  "name": "Green Hearts Strong Feet",
-  "triggers": [
-   "green hearts strong feet"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092889872050602131"
- },
- {
   "band": "DD",
   "name": "Open Mic Internet",
   "triggers": [
@@ -7725,5 +7717,13 @@
    "(roots that hold us)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100570524761919494"
+ },
+ {
+  "band": "MR",
+  "name": "Green Hearts Strong Feet",
+  "triggers": [
+   "green hearts strong feet"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100590659413389364"
  }
 ]
