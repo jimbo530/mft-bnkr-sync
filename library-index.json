@@ -3007,14 +3007,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2092930195292356868"
  },
  {
-  "band": "JS",
-  "name": "Jony Sings, Party god",
-  "triggers": [
-   "jony sings, party god"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092945289346678807"
- },
- {
   "band": "MV",
   "name": "EBM - Thousand Year Plan",
   "triggers": [
@@ -7725,5 +7717,13 @@
    "open the gates"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100646042681090123"
+ },
+ {
+  "band": "JS",
+  "name": "Jony Sings, Party god",
+  "triggers": [
+   "jony sings, party god"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100666127953113486"
  }
 ]
