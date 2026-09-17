@@ -2575,14 +2575,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091837964393361526"
  },
  {
-  "band": "JS",
-  "name": "Jony Lessons in the ledger",
-  "triggers": [
-   "jony lessons in the ledger"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091853021357445432"
- },
- {
   "band": "MV",
   "name": "dungeon games",
   "triggers": [
@@ -7725,5 +7717,13 @@
    "proof of good"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100444707503390999"
+ },
+ {
+  "band": "JS",
+  "name": "Jony Lessons in the ledger",
+  "triggers": [
+   "jony lessons in the ledger"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100464848328925361"
  }
 ]
