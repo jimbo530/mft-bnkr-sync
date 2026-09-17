@@ -1952,14 +1952,6 @@
  },
  {
   "band": "JS",
-  "name": "Mangrove",
-  "triggers": [
-   "mangrove"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090911841396437488"
- },
- {
-  "band": "JS",
   "name": "Jony it carries 2",
   "triggers": [
    "jony it carries 2"
@@ -7725,5 +7717,13 @@
    "digerie dude - small voices big waves"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100540335822688690"
+ },
+ {
+  "band": "JS",
+  "name": "Mangrove",
+  "triggers": [
+   "mangrove"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100545327719674195"
  }
 ]

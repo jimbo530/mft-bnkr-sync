@@ -169,14 +169,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Mangrove",
-  "triggers": [
-   "mangrove"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090911841396437488",
-  "tag": "$MfT"
- },
- {
   "name": "Jony it carries 2",
   "triggers": [
    "jony it carries 2"
@@ -766,6 +758,14 @@
    "proof of life vid"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100515168945873175",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Mangrove",
+  "triggers": [
+   "mangrove"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100545327719674195",
   "tag": "$MfT"
  }
 ]
