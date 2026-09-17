@@ -2896,14 +2896,6 @@
  },
  {
   "band": "JS",
-  "name": "Regen Rising",
-  "triggers": [
-   "regen rising"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092336240842403854"
- },
- {
-  "band": "JS",
   "name": "Cellars Sewers And Spells",
   "triggers": [
    "cellars sewers and spells"
@@ -7725,5 +7717,13 @@
    "ai band empire"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100389351284736166"
+ },
+ {
+  "band": "JS",
+  "name": "Regen Rising",
+  "triggers": [
+   "regen rising"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100394371367457184"
  }
 ]
