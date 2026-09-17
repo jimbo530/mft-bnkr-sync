@@ -2391,14 +2391,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091631606565839048"
  },
  {
-  "band": "EBM",
-  "name": "Elves of Ballinmoore",
-  "triggers": [
-   "elves of ballinmoore"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091636594742583780"
- },
- {
   "band": "JS",
   "name": "Circulate Good",
   "triggers": [
@@ -7725,5 +7717,13 @@
    "the return of the bulls"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100595705647653336"
+ },
+ {
+  "band": "EBM",
+  "name": "Elves of Ballinmoore",
+  "triggers": [
+   "elves of ballinmoore"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100615811614310730"
  }
 ]

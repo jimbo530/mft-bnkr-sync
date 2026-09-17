@@ -238,14 +238,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Elves of Ballinmoore",
-  "triggers": [
-   "elves of ballinmoore"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091636594742583780",
-  "tag": "$MfT"
- },
- {
   "name": "Ballinmoore Elves",
   "triggers": [
    "ballinmoore elves"
@@ -851,6 +843,14 @@
    "meme for trees"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100419497018503458",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Elves of Ballinmoore",
+  "triggers": [
+   "elves of ballinmoore"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100615811614310730",
   "tag": "$MfT"
  }
 ]
