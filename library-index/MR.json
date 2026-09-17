@@ -89,14 +89,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Take Your Shot",
-  "triggers": [
-   "take your shot"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091938575096950800",
-  "tag": "$MfT"
- },
- {
   "name": "I Love Being Alive",
   "triggers": [
    "i love being alive"
@@ -430,6 +422,14 @@
    "work now dance later"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099795398726500706",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Take Your Shot",
+  "triggers": [
+   "take your shot"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100565494939918843",
   "tag": "$MfT"
  }
 ]

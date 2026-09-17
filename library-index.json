@@ -2599,14 +2599,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091933612337692922"
  },
  {
-  "band": "MR",
-  "name": "Take Your Shot",
-  "triggers": [
-   "take your shot"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091938575096950800"
- },
- {
   "band": "MV",
   "name": "Digerie Dude - Creators Economy",
   "triggers": [
@@ -7725,5 +7717,13 @@
    "mangrove"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100545327719674195"
+ },
+ {
+  "band": "MR",
+  "name": "Take Your Shot",
+  "triggers": [
+   "take your shot"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100565494939918843"
  }
 ]
