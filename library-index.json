@@ -2239,14 +2239,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091309485801222527"
  },
  {
-  "band": "CB",
-  "name": "EBM - Fighting TEMERAIRE",
-  "triggers": [
-   "ebm - fighting temeraire"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091314513811247586"
- },
- {
   "band": "EBM",
   "name": "Eternal Harvest",
   "triggers": [
@@ -7725,5 +7717,13 @@
    "meme for trees"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100419497018503458"
+ },
+ {
+  "band": "CB",
+  "name": "EBM - Fighting TEMERAIRE",
+  "triggers": [
+   "ebm - fighting temeraire"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100439663055974766"
  }
 ]

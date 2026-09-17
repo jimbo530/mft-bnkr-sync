@@ -161,14 +161,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "EBM - Fighting TEMERAIRE",
-  "triggers": [
-   "ebm - fighting temeraire"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091314513811247586",
-  "tag": "$MfT"
- },
- {
   "name": "Chain Reaction Diplomacy",
   "triggers": [
    "chain reaction diplomacy"
@@ -502,6 +494,14 @@
    "embodied network"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100369225411862737",
+  "tag": "$MfT"
+ },
+ {
+  "name": "EBM - Fighting TEMERAIRE",
+  "triggers": [
+   "ebm - fighting temeraire"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100439663055974766",
   "tag": "$MfT"
  }
 ]
