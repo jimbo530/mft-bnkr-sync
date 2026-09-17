@@ -2535,14 +2535,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091913425265803705"
  },
  {
-  "band": "EBM",
-  "name": "A Billion Strong",
-  "triggers": [
-   "a billion strong"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091918485223887280"
- },
- {
   "band": "Myco",
   "name": "(🎧 “Thanks for Being Here”) (1)",
   "triggers": [
@@ -7725,5 +7717,13 @@
    "jony it carries 2"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100691336064126985"
+ },
+ {
+  "band": "EBM",
+  "name": "A Billion Strong",
+  "triggers": [
+   "a billion strong"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100716486104842352"
  }
 ]
