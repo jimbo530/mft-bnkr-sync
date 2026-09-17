@@ -1479,14 +1479,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090146947457827160"
  },
  {
-  "band": "Myco",
-  "name": "AI Band Empire",
-  "triggers": [
-   "ai band empire"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090161917490864409"
- },
- {
   "band": "JS",
   "name": "Jony Sings - For the Builders",
   "triggers": [
@@ -7725,5 +7717,13 @@
    "embodied network"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100369225411862737"
+ },
+ {
+  "band": "Myco",
+  "name": "AI Band Empire",
+  "triggers": [
+   "ai band empire"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100389351284736166"
  }
 ]
