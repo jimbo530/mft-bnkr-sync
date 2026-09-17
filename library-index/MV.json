@@ -536,14 +536,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "EBM - Every Signal Plants Trees",
-  "triggers": [
-   "ebm - every signal plants trees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090489072552644746",
-  "tag": "$MfT"
- },
- {
   "name": "Work now, dance later - Moon Rasta",
   "triggers": [
    "work now, dance later - moon rasta"
@@ -1301,6 +1293,14 @@
    "ricky bobbie - freedoms faster than fear"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100494998240211258",
+  "tag": "$MfT"
+ },
+ {
+  "name": "EBM - Every Signal Plants Trees",
+  "triggers": [
+   "ebm - every signal plants trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100520209861800133",
   "tag": "$MfT"
  }
 ]

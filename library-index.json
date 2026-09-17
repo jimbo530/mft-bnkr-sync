@@ -1680,14 +1680,6 @@
  },
  {
   "band": "MV",
-  "name": "EBM - Every Signal Plants Trees",
-  "triggers": [
-   "ebm - every signal plants trees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090489072552644746"
- },
- {
-  "band": "MV",
   "name": "Work now, dance later - Moon Rasta",
   "triggers": [
    "work now, dance later - moon rasta"
@@ -7725,5 +7717,13 @@
    "proof of life vid"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100515168945873175"
+ },
+ {
+  "band": "MV",
+  "name": "EBM - Every Signal Plants Trees",
+  "triggers": [
+   "ebm - every signal plants trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100520209861800133"
  }
 ]
