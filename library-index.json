@@ -1760,14 +1760,6 @@
  },
  {
   "band": "MV",
-  "name": "Saltwater crown - Jasmine",
-  "triggers": [
-   "saltwater crown - jasmine"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090645136308879410"
- },
- {
-  "band": "MV",
   "name": "J&N make today count",
   "triggers": [
    "j&n make today count"
@@ -7725,5 +7717,13 @@
    "a billion strong"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100716486104842352"
+ },
+ {
+  "band": "MV",
+  "name": "Saltwater crown - Jasmine",
+  "triggers": [
+   "saltwater crown - jasmine"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100721534620864551"
  }
 ]
