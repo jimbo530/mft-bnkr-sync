@@ -2447,14 +2447,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091752485492809769"
  },
  {
-  "band": "MV",
-  "name": "You matter here -G.O.A.T.",
-  "triggers": [
-   "you matter here -g.o.a.t."
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091757434364633268"
- },
- {
   "band": "Myco",
   "name": "Move Your Feet, Fund The Forest",
   "triggers": [
@@ -7725,5 +7717,13 @@
    "jony sings, party god"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100666127953113486"
+ },
+ {
+  "band": "MV",
+  "name": "You matter here -G.O.A.T.",
+  "triggers": [
+   "you matter here -g.o.a.t."
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100671201156747388"
  }
 ]
