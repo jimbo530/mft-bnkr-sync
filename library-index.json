@@ -1935,14 +1935,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090906807594094658"
  },
  {
-  "band": "JS",
-  "name": "Jony it carries 2",
-  "triggers": [
-   "jony it carries 2"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090926940739735590"
- },
- {
   "band": "Myco",
   "name": "Every Morning, Mic Hot",
   "triggers": [
@@ -7725,5 +7717,13 @@
    "you matter here -g.o.a.t."
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100671201156747388"
+ },
+ {
+  "band": "JS",
+  "name": "Jony it carries 2",
+  "triggers": [
+   "jony it carries 2"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100691336064126985"
  }
 ]
