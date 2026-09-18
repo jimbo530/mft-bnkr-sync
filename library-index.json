@@ -1935,14 +1935,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091007472811016302"
  },
  {
-  "band": "CB",
-  "name": "Misunderstood",
-  "triggers": [
-   "misunderstood"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091012500649091483"
- },
- {
   "band": "JS",
   "name": "Living It Up",
   "triggers": [
@@ -7725,5 +7717,13 @@
    "future is here"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100942990470455779"
+ },
+ {
+  "band": "CB",
+  "name": "Misunderstood",
+  "triggers": [
+   "misunderstood"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100968163613589506"
  }
 ]

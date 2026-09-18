@@ -137,14 +137,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Misunderstood",
-  "triggers": [
-   "misunderstood"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091012500649091483",
-  "tag": "$MfT"
- },
- {
   "name": "Chain Reaction Diplomacy",
   "triggers": [
    "chain reaction diplomacy"
@@ -502,6 +494,14 @@
    "future is here"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100942990470455779",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Misunderstood",
+  "triggers": [
+   "misunderstood"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100968163613589506",
   "tag": "$MfT"
  }
 ]
