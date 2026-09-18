@@ -2367,14 +2367,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091812760392737260"
  },
  {
-  "band": "MV",
-  "name": "elven gold (1)",
-  "triggers": [
-   "elven gold (1)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091817784577593597"
- },
- {
   "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “GOLD TO GREEN (O",
   "triggers": [
@@ -7725,5 +7717,13 @@
    "we all are one"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101023511678468338"
+ },
+ {
+  "band": "MV",
+  "name": "elven gold (1)",
+  "triggers": [
+   "elven gold (1)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101043597369848073"
  }
 ]

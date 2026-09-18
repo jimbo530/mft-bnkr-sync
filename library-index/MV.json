@@ -752,14 +752,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "elven gold (1)",
-  "triggers": [
-   "elven gold (1)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091817784577593597",
-  "tag": "$MfT"
- },
- {
   "name": "dungeon games",
   "triggers": [
    "dungeon games"
@@ -1301,6 +1293,14 @@
    "opp to be awesome - biggins mcjamin"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100998306516123706",
+  "tag": "$MfT"
+ },
+ {
+  "name": "elven gold (1)",
+  "triggers": [
+   "elven gold (1)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101043597369848073",
   "tag": "$MfT"
  }
 ]
