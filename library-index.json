@@ -592,14 +592,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2082637320113520983"
  },
  {
-  "band": "CB",
-  "name": "Future is Here",
-  "triggers": [
-   "future is here"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085254605932265775"
- },
- {
   "band": "EBM",
   "name": "Grove Report — Jun 19, 2026",
   "triggers": [
@@ -7725,5 +7717,13 @@
    "“every signal plants trees”"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100917832158490907"
+ },
+ {
+  "band": "CB",
+  "name": "Future is Here",
+  "triggers": [
+   "future is here"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100942990470455779"
  }
 ]
