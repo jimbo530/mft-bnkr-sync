@@ -852,5 +852,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100917832158490907",
   "tag": "$MfT"
+ },
+ {
+  "name": "Never Miss a Day",
+  "triggers": [
+   "never miss a day"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101068806064091247",
+  "tag": "$MfT"
  }
 ]
