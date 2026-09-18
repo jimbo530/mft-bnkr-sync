@@ -2247,14 +2247,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091430246696223178"
  },
  {
-  "band": "NN",
-  "name": "Grow Greatness",
-  "triggers": [
-   "grow greatness"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091435263788527997"
- },
- {
   "band": "EBM",
   "name": "Mean Green Meme Team",
   "triggers": [
@@ -7725,5 +7717,13 @@
    "saltwater crown - jasmine"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100721534620864551"
+ },
+ {
+  "band": "NN",
+  "name": "Grow Greatness",
+  "triggers": [
+   "grow greatness"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100741605871271966"
  }
 ]
