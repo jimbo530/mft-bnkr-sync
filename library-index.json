@@ -2016,14 +2016,6 @@
  },
  {
   "band": "NN",
-  "name": "Greatness Grows",
-  "triggers": [
-   "greatness grows"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091072893375373614"
- },
- {
-  "band": "NN",
   "name": "Toast to the Trees",
   "triggers": [
    "toast to the trees"
@@ -7725,5 +7717,13 @@
    "(quiet revolution of love)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100746687643840567"
+ },
+ {
+  "band": "NN",
+  "name": "Greatness Grows",
+  "triggers": [
+   "greatness grows"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100766783862952431"
  }
 ]

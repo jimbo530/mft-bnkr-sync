@@ -33,14 +33,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Greatness Grows",
-  "triggers": [
-   "greatness grows"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091072893375373614",
-  "tag": "$MfT"
- },
- {
   "name": "Toast to the Trees",
   "triggers": [
    "toast to the trees"
@@ -374,6 +366,14 @@
    "grow greatness"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100741605871271966",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Greatness Grows",
+  "triggers": [
+   "greatness grows"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100766783862952431",
   "tag": "$MfT"
  }
 ]
