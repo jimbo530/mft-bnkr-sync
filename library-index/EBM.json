@@ -166,14 +166,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Diamond Hands Endure",
-  "triggers": [
-   "diamond hands endure"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091168563105067282",
-  "tag": "$MfT"
- },
- {
   "name": "ELVES OF BALLINMOORE — “TREES UP, BAGS U",
   "triggers": [
    "elves of ballinmoore — “trees up, bags u"
@@ -851,6 +843,14 @@
    "a billion strong"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100716486104842352",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Diamond Hands Endure",
+  "triggers": [
+   "diamond hands endure"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100872477115117657",
   "tag": "$MfT"
  }
 ]

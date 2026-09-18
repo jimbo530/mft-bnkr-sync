@@ -2039,14 +2039,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091153470401192316"
  },
  {
-  "band": "EBM",
-  "name": "Diamond Hands Endure",
-  "triggers": [
-   "diamond hands endure"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091168563105067282"
- },
- {
   "band": "Myco",
   "name": "Dancing On The Line",
   "triggers": [
@@ -7725,5 +7717,13 @@
    "ebm- community of communities"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100867497406669134"
+ },
+ {
+  "band": "EBM",
+  "name": "Diamond Hands Endure",
+  "triggers": [
+   "diamond hands endure"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100872477115117657"
  }
 ]
