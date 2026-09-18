@@ -2783,14 +2783,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2092668470252957919"
  },
  {
-  "band": "NN",
-  "name": "Golden On The Base Line",
-  "triggers": [
-   "golden on the base line"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092683569923514842"
- },
- {
   "band": "Myco",
   "name": "We All Are One",
   "triggers": [
@@ -7725,5 +7717,13 @@
    "proof of life jony-natilie"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100842328063685072"
+ },
+ {
+  "band": "NN",
+  "name": "Golden On The Base Line",
+  "triggers": [
+   "golden on the base line"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100847351472464114"
  }
 ]
