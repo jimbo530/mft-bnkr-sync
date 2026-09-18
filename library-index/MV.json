@@ -584,14 +584,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Fund The Forest",
-  "triggers": [
-   "fund the forest"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090866539213791657",
-  "tag": "$MfT"
- },
- {
   "name": "Joy that stays",
   "triggers": [
    "joy that stays"
@@ -1301,6 +1293,14 @@
    "pass it on"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100797035767038239",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Fund The Forest",
+  "triggers": [
+   "fund the forest"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100822142694654256",
   "tag": "$MfT"
  }
 ]

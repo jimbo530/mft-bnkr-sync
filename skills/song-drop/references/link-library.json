@@ -3024,19 +3024,6 @@
     "caption": "\"Magic Today\" — Myco\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2090866539213791657",
-    "translation": "Fund The Forest",
-    "name": "Fund The Forest",
-    "triggers": [
-      "fund the forest"
-    ],
-    "band": "MV",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2090866539213791657",
-    "caption": "\"Fund The Forest\"\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2090871570143064206",
     "translation": "1000 Futures",
     "name": "1000 Futures",
@@ -12539,5 +12526,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2100817177200701897",
     "caption": "\"Mean Green Meme Machine\" — Myco\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2100822142694654256",
+    "translation": "Fund The Forest",
+    "name": "Fund The Forest",
+    "triggers": [
+      "fund the forest"
+    ],
+    "band": "MV",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2100822142694654256",
+    "caption": "\"Fund The Forest\"\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

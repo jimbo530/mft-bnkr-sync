@@ -1887,14 +1887,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090851490357211636"
  },
  {
-  "band": "MV",
-  "name": "Fund The Forest",
-  "triggers": [
-   "fund the forest"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090866539213791657"
- },
- {
   "band": "NN",
   "name": "1000 Futures",
   "triggers": [
@@ -7725,5 +7717,13 @@
    "mean green meme machine"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100817177200701897"
+ },
+ {
+  "band": "MV",
+  "name": "Fund The Forest",
+  "triggers": [
+   "fund the forest"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100822142694654256"
  }
 ]
