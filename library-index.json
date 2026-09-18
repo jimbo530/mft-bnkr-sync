@@ -3216,14 +3216,6 @@
  },
  {
   "band": "MV",
-  "name": "Pass it on",
-  "triggers": [
-   "pass it on"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093408346636173686"
- },
- {
-  "band": "MV",
   "name": "Garden spinning green",
   "triggers": [
    "garden spinning green"
@@ -7725,5 +7717,13 @@
    "make the change you want to see"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100791994083602755"
+ },
+ {
+  "band": "MV",
+  "name": "Pass it on",
+  "triggers": [
+   "pass it on"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100797035767038239"
  }
 ]

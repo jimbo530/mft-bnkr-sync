@@ -1024,14 +1024,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Pass it on",
-  "triggers": [
-   "pass it on"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093408346636173686",
-  "tag": "$MfT"
- },
- {
   "name": "Garden spinning green",
   "triggers": [
    "garden spinning green"
@@ -1301,6 +1293,14 @@
    "biggins mcjamin - math isn't mathing"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100771863798452473",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Pass it on",
+  "triggers": [
+   "pass it on"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100797035767038239",
   "tag": "$MfT"
  }
 ]
