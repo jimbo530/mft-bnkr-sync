@@ -3127,14 +3127,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093428430872211890"
  },
  {
-  "band": "DD",
-  "name": "Small Voices, Big Waves",
-  "triggers": [
-   "small voices, big waves"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093443526784672106"
- },
- {
   "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “DOUBT CAN’T TOUC",
   "triggers": [
@@ -7725,5 +7717,13 @@
    "opp to be awesome - biggins mcjamin"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100998306516123706"
+ },
+ {
+  "band": "DD",
+  "name": "Small Voices, Big Waves",
+  "triggers": [
+   "small voices, big waves"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101018491805438305"
  }
 ]
