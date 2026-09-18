@@ -105,14 +105,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "(QUIET REVOLUTION OF LOVE)",
-  "triggers": [
-   "(quiet revolution of love)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090952102348460160",
-  "tag": "$MfT"
- },
- {
   "name": "Carry the Seed",
   "triggers": [
    "carry the seed"
@@ -494,6 +486,14 @@
    "(roots that hold us)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100570524761919494",
+  "tag": "$MfT"
+ },
+ {
+  "name": "(QUIET REVOLUTION OF LOVE)",
+  "triggers": [
+   "(quiet revolution of love)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100746687643840567",
   "tag": "$MfT"
  }
 ]

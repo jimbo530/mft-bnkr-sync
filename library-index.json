@@ -1943,14 +1943,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090947074544079304"
  },
  {
-  "band": "DD",
-  "name": "(QUIET REVOLUTION OF LOVE)",
-  "triggers": [
-   "(quiet revolution of love)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090952102348460160"
- },
- {
   "band": "MV",
   "name": "Natalie 1000 futures",
   "triggers": [
@@ -7725,5 +7717,13 @@
    "grow greatness"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100741605871271966"
+ },
+ {
+  "band": "DD",
+  "name": "(QUIET REVOLUTION OF LOVE)",
+  "triggers": [
+   "(quiet revolution of love)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100746687643840567"
  }
 ]
