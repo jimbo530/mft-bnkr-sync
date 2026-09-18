@@ -2791,14 +2791,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2092623138995511725"
  },
  {
-  "band": "Myco",
-  "name": "Make The Change You Want To See",
-  "triggers": [
-   "make the change you want to see"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092643305439789157"
- },
- {
   "band": "MV",
   "name": "Lighter than before",
   "triggers": [
@@ -7725,5 +7717,13 @@
    "biggins mcjamin - math isn't mathing"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100771863798452473"
+ },
+ {
+  "band": "Myco",
+  "name": "Make The Change You Want To See",
+  "triggers": [
+   "make the change you want to see"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100791994083602755"
  }
 ]
