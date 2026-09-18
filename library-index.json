@@ -2383,14 +2383,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091858072209678811"
  },
  {
-  "band": "CB",
-  "name": "EBM - Code Not Coal",
-  "triggers": [
-   "ebm - code not coal"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091873145196007817"
- },
- {
   "band": "EBM",
   "name": "All-Time High",
   "triggers": [
@@ -7725,5 +7717,13 @@
    "elven gold (1)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101043597369848073"
+ },
+ {
+  "band": "CB",
+  "name": "EBM - Code Not Coal",
+  "triggers": [
+   "ebm - code not coal"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101048669566845243"
  }
 ]
