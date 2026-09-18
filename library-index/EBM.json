@@ -390,14 +390,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "“EVERY SIGNAL PLANTS TREES”",
-  "triggers": [
-   "“every signal plants trees”"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093267390196854936",
-  "tag": "$MfT"
- },
- {
   "name": "ELVES OF BALLINMOORE — “WE ARE BASED”",
   "triggers": [
    "elves of ballinmoore — “we are based”"
@@ -851,6 +843,14 @@
    "forever is longer than you know"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100897648001552727",
+  "tag": "$MfT"
+ },
+ {
+  "name": "“EVERY SIGNAL PLANTS TREES”",
+  "triggers": [
+   "“every signal plants trees”"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100917832158490907",
   "tag": "$MfT"
  }
 ]

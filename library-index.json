@@ -3063,14 +3063,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093247286243394015"
  },
  {
-  "band": "EBM",
-  "name": "“EVERY SIGNAL PLANTS TREES”",
-  "triggers": [
-   "“every signal plants trees”"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093267390196854936"
- },
- {
   "band": "MV",
   "name": "Digerie Dude - I endure",
   "triggers": [
@@ -7725,5 +7717,13 @@
    "forever is longer than you know"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100897648001552727"
+ },
+ {
+  "band": "EBM",
+  "name": "“EVERY SIGNAL PLANTS TREES”",
+  "triggers": [
+   "“every signal plants trees”"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100917832158490907"
  }
 ]
