@@ -359,5 +359,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099508536510238985",
   "tag": "$MfT"
+ },
+ {
+  "name": "One Piece at a Time",
+  "triggers": [
+   "one piece at a time"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101093969090482425",
+  "tag": "$MfT"
  }
 ]
