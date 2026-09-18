@@ -512,14 +512,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Biggins Mcjamin - Math isn't Mathing",
-  "triggers": [
-   "biggins mcjamin - math isn't mathing"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090443809679081500",
-  "tag": "$MfT"
- },
- {
   "name": "MC - Scratch the Earth",
   "triggers": [
    "mc - scratch the earth"
@@ -1301,6 +1293,14 @@
    "saltwater crown - jasmine"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100721534620864551",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Biggins Mcjamin - Math isn't Mathing",
+  "triggers": [
+   "biggins mcjamin - math isn't mathing"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100771863798452473",
   "tag": "$MfT"
  }
 ]

@@ -1624,14 +1624,6 @@
  },
  {
   "band": "MV",
-  "name": "Biggins Mcjamin - Math isn't Mathing",
-  "triggers": [
-   "biggins mcjamin - math isn't mathing"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090443809679081500"
- },
- {
-  "band": "MV",
   "name": "MC - Scratch the Earth",
   "triggers": [
    "mc - scratch the earth"
@@ -7725,5 +7717,13 @@
    "greatness grows"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100766783862952431"
+ },
+ {
+  "band": "MV",
+  "name": "Biggins Mcjamin - Math isn't Mathing",
+  "triggers": [
+   "biggins mcjamin - math isn't mathing"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100771863798452473"
  }
 ]
