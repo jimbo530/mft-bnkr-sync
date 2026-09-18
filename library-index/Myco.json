@@ -288,14 +288,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Mean Green Meme Machine",
-  "triggers": [
-   "mean green meme machine"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091616509382570062",
-  "tag": "$MfT"
- },
- {
   "name": "Play For Impact",
   "triggers": [
    "play for impact"
@@ -861,6 +853,14 @@
    "make the change you want to see"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100791994083602755",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Mean Green Meme Machine",
+  "triggers": [
+   "mean green meme machine"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100817177200701897",
   "tag": "$MfT"
  }
 ]
