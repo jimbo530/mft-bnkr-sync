@@ -1904,14 +1904,6 @@
  },
  {
   "band": "MV",
-  "name": "Joy that stays",
-  "triggers": [
-   "joy that stays"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090947074544079304"
- },
- {
-  "band": "MV",
   "name": "Natalie 1000 futures",
   "triggers": [
    "natalie 1000 futures"
@@ -7725,5 +7717,13 @@
    "diamond roots"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100973179925647864"
+ },
+ {
+  "band": "MV",
+  "name": "Joy that stays",
+  "triggers": [
+   "joy that stays"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100993328233746714"
  }
 ]

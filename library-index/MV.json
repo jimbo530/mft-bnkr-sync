@@ -576,14 +576,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Joy that stays",
-  "triggers": [
-   "joy that stays"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090947074544079304",
-  "tag": "$MfT"
- },
- {
   "name": "Natalie 1000 futures",
   "triggers": [
    "natalie 1000 futures"
@@ -1301,6 +1293,14 @@
    "ebm- community of communities"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100867497406669134",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Joy that stays",
+  "triggers": [
+   "joy that stays"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100993328233746714",
   "tag": "$MfT"
  }
 ]
