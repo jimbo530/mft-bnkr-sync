@@ -2199,14 +2199,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091475556944535623"
  },
  {
-  "band": "Myco",
-  "name": "Diamond Roots",
-  "triggers": [
-   "diamond roots"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091495715444797917"
- },
- {
   "band": "MR",
   "name": "We Water Each Other",
   "triggers": [
@@ -7725,5 +7717,13 @@
    "misunderstood"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100968163613589506"
+ },
+ {
+  "band": "Myco",
+  "name": "Diamond Roots",
+  "triggers": [
+   "diamond roots"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2100973179925647864"
  }
 ]
