@@ -431,5 +431,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100590659413389364",
   "tag": "$MfT"
+ },
+ {
+  "name": "Pennies With Receipts",
+  "triggers": [
+   "pennies with receipts"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101073844123607125",
+  "tag": "$MfT"
  }
 ]
