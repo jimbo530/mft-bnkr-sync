@@ -2719,14 +2719,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2092668470252957919"
  },
  {
-  "band": "Myco",
-  "name": "We All Are One",
-  "triggers": [
-   "we all are one"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092708735776968993"
- },
- {
   "band": "JS",
   "name": "Gotta Get Paid",
   "triggers": [
@@ -7725,5 +7717,13 @@
    "small voices, big waves"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101018491805438305"
+ },
+ {
+  "band": "Myco",
+  "name": "We All Are One",
+  "triggers": [
+   "we all are one"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101023511678468338"
  }
 ]
