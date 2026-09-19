@@ -312,14 +312,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "(🎧 “Thanks for Being Here”) (1)",
-  "triggers": [
-   "(🎧 “thanks for being here”) (1)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091933612337692922",
-  "tag": "$MfT"
- },
- {
   "name": "More Than Whole",
   "triggers": [
    "more than whole"
@@ -861,6 +853,14 @@
    "we all are one"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101023511678468338",
+  "tag": "$MfT"
+ },
+ {
+  "name": "(🎧 “Thanks for Being Here”) (1)",
+  "triggers": [
+   "(🎧 “thanks for being here”) (1)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101119154434572442",
   "tag": "$MfT"
  }
 ]

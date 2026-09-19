@@ -2407,14 +2407,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091913425265803705"
  },
  {
-  "band": "Myco",
-  "name": "(🎧 “Thanks for Being Here”) (1)",
-  "triggers": [
-   "(🎧 “thanks for being here”) (1)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091933612337692922"
- },
- {
   "band": "MV",
   "name": "Digerie Dude - Creators Economy",
   "triggers": [
@@ -7749,5 +7741,13 @@
    "ebm - together we grow cb"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101098998832722127"
+ },
+ {
+  "band": "Myco",
+  "name": "(🎧 “Thanks for Being Here”) (1)",
+  "triggers": [
+   "(🎧 “thanks for being here”) (1)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101119154434572442"
  }
 ]
