@@ -2207,14 +2207,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091535943245152606"
  },
  {
-  "band": "Myco",
-  "name": "Show Me What You Got",
-  "triggers": [
-   "show me what you got"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091556115850920218"
- },
- {
   "band": "EBM",
   "name": "FROM MEMES TO MANGROVES v2",
   "triggers": [
@@ -7749,5 +7741,13 @@
    "growalition rising"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101144266017821102"
+ },
+ {
+  "band": "Myco",
+  "name": "Show Me What You Got",
+  "triggers": [
+   "show me what you got"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101149337090744533"
  }
 ]

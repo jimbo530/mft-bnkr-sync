@@ -3544,19 +3544,6 @@
     "caption": "\"Digerie Dude The Choice\"\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2091556115850920218",
-    "translation": "Show Me What You Got",
-    "name": "Show Me What You Got",
-    "triggers": [
-      "show me what you got"
-    ],
-    "band": "Myco",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2091556115850920218",
-    "caption": "\"Show Me What You Got\" — Myco\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2091571179639197930",
     "translation": "FROM MEMES TO MANGROVES v2",
     "name": "FROM MEMES TO MANGROVES v2",
@@ -12578,5 +12565,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2101144266017821102",
     "caption": "\"GROWalition Rising\" — Jony Sings\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2101149337090744533",
+    "translation": "Show Me What You Got",
+    "name": "Show Me What You Got",
+    "triggers": [
+      "show me what you got"
+    ],
+    "band": "Myco",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2101149337090744533",
+    "caption": "\"Show Me What You Got\" — Myco\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
