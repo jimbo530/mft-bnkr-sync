@@ -600,14 +600,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Natalie greatness grows",
-  "triggers": [
-   "natalie greatness grows"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091067908239597969",
-  "tag": "$MfT"
- },
- {
   "name": "Digerie Dude - Community",
   "triggers": [
    "digerie dude - community"
@@ -1301,6 +1293,14 @@
    "horse of a thousand names"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101194612031299713",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Natalie greatness grows",
+  "triggers": [
+   "natalie greatness grows"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101219812735115402",
   "tag": "$MfT"
  }
 ]
