@@ -1967,14 +1967,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091269229584482676"
  },
  {
-  "band": "EBM",
-  "name": "ELVES OF BALLINMOORE — “LIGHT LOAD, LIVI",
-  "triggers": [
-   "elves of ballinmoore — “light load, livi"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091274268348711412"
- },
- {
   "band": "MV",
   "name": "carry the light, G.O.A.T.",
   "triggers": [
@@ -7765,5 +7757,13 @@
    "the chest that never empties"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101400987034362134"
+ },
+ {
+  "band": "EBM",
+  "name": "ELVES OF BALLINMOORE — “LIGHT LOAD, LIVI",
+  "triggers": [
+   "elves of ballinmoore — “light load, livi"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101426121103331674"
  }
 ]

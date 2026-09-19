@@ -166,14 +166,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "ELVES OF BALLINMOORE — “LIGHT LOAD, LIVI",
-  "triggers": [
-   "elves of ballinmoore — “light load, livi"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091274268348711412",
-  "tag": "$MfT"
- },
- {
   "name": "Eternal Harvest",
   "triggers": [
    "eternal harvest"
@@ -859,6 +851,14 @@
    "elves of ballinmoore — “another day of m"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101320427138113613",
+  "tag": "$MfT"
+ },
+ {
+  "name": "ELVES OF BALLINMOORE — “LIGHT LOAD, LIVI",
+  "triggers": [
+   "elves of ballinmoore — “light load, livi"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101426121103331674",
   "tag": "$MfT"
  }
 ]
