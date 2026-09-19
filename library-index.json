@@ -2943,14 +2943,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093186885568917761"
  },
  {
-  "band": "DD",
-  "name": "Open Roads",
-  "triggers": [
-   "open roads"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093201983574331792"
- },
- {
   "band": "JS",
   "name": "Proof Of Life",
   "triggers": [
@@ -7749,5 +7741,13 @@
    "(🎧 “thanks for being here”) (1)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101119154434572442"
+ },
+ {
+  "band": "DD",
+  "name": "Open Roads",
+  "triggers": [
+   "open roads"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101124169819713618"
  }
 ]
