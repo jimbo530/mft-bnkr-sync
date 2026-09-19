@@ -2887,14 +2887,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093186885568917761"
  },
  {
-  "band": "JS",
-  "name": "Proof Of Life",
-  "triggers": [
-   "proof of life"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093206974989013490"
- },
- {
   "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “NO TURNING BACK”",
   "triggers": [
@@ -7749,5 +7741,13 @@
    "natalie greatness grows"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101219812735115402"
+ },
+ {
+  "band": "JS",
+  "name": "Proof Of Life",
+  "triggers": [
+   "proof of life"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101224832419438957"
  }
 ]
