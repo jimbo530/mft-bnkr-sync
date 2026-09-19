@@ -126,14 +126,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "ELVES OF BALLINMOORE — “ANOTHER DAY OF M",
-  "triggers": [
-   "elves of ballinmoore — “another day of m"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090126741670887549",
-  "tag": "$MfT"
- },
- {
   "name": "ELVES OF BALLINMOORE — “YUCKY DUCKS x TR",
   "triggers": [
    "elves of ballinmoore — “yucky ducks x tr"
@@ -859,6 +851,14 @@
    "share the memes, fund the trees"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101174511294992519",
+  "tag": "$MfT"
+ },
+ {
+  "name": "ELVES OF BALLINMOORE — “ANOTHER DAY OF M",
+  "triggers": [
+   "elves of ballinmoore — “another day of m"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101320427138113613",
   "tag": "$MfT"
  }
 ]

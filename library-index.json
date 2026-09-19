@@ -1423,14 +1423,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090121659160166519"
  },
  {
-  "band": "EBM",
-  "name": "ELVES OF BALLINMOORE — “ANOTHER DAY OF M",
-  "triggers": [
-   "elves of ballinmoore — “another day of m"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090126741670887549"
- },
- {
   "band": "MR",
   "name": "Un-Rug-Able Family",
   "triggers": [
@@ -7757,5 +7749,13 @@
    "love being alive vid"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101300285268250835"
+ },
+ {
+  "band": "EBM",
+  "name": "ELVES OF BALLINMOORE — “ANOTHER DAY OF M",
+  "triggers": [
+   "elves of ballinmoore — “another day of m"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101320427138113613"
  }
 ]
