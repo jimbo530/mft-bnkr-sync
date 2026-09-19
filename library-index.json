@@ -1799,14 +1799,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090811210258067589"
  },
  {
-  "band": "NN",
-  "name": "Power Of A Meme",
-  "triggers": [
-   "power of a meme"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090826282783080927"
- },
- {
   "band": "JS",
   "name": "Roots And Rhythm",
   "triggers": [
@@ -7757,5 +7749,13 @@
    "lessons in the ledger"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101270129799573848"
+ },
+ {
+  "band": "NN",
+  "name": "Power Of A Meme",
+  "triggers": [
+   "power of a meme"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101275173110297030"
  }
 ]

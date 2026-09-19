@@ -17,14 +17,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Power Of A Meme",
-  "triggers": [
-   "power of a meme"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090826282783080927",
-  "tag": "$MfT"
- },
- {
   "name": "1000 Futures",
   "triggers": [
    "1000 futures"
@@ -374,6 +366,14 @@
    "golden on the base line"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2100847351472464114",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Power Of A Meme",
+  "triggers": [
+   "power of a meme"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101275173110297030",
   "tag": "$MfT"
  }
 ]
