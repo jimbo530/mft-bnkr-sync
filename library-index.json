@@ -776,14 +776,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2083236311800877194"
  },
  {
-  "band": "MV",
-  "name": "Horse of a thousand names",
-  "triggers": [
-   "horse of a thousand names"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085219401645593054"
- },
- {
   "band": "CB",
   "name": "Digerie Dude - Believe in SomeETHing (1)",
   "triggers": [
@@ -7749,5 +7741,13 @@
    "share the memes, fund the trees"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101174511294992519"
+ },
+ {
+  "band": "MV",
+  "name": "Horse of a thousand names",
+  "triggers": [
+   "horse of a thousand names"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101194612031299713"
  }
 ]
