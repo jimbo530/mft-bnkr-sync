@@ -1743,14 +1743,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090690431688319118"
  },
  {
-  "band": "JS",
-  "name": "Lessons In The Ledger",
-  "triggers": [
-   "lessons in the ledger"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090705485712302130"
- },
- {
   "band": "EBM",
   "name": "Drop The Memes",
   "triggers": [
@@ -7757,5 +7749,13 @@
    "crawls back singing"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101249984674820473"
+ },
+ {
+  "band": "JS",
+  "name": "Lessons In The Ledger",
+  "triggers": [
+   "lessons in the ledger"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101270129799573848"
  }
 ]
