@@ -2183,14 +2183,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091515855850852490"
  },
  {
-  "band": "EBM",
-  "name": "Share The Memes, Fund The Trees",
-  "triggers": [
-   "share the memes, fund the trees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091530911435071871"
- },
- {
   "band": "MV",
   "name": "Digerie Dude The Choice",
   "triggers": [
@@ -7749,5 +7741,13 @@
    "wide open world"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101169440033226953"
+ },
+ {
+  "band": "EBM",
+  "name": "Share The Memes, Fund The Trees",
+  "triggers": [
+   "share the memes, fund the trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101174511294992519"
  }
 ]
