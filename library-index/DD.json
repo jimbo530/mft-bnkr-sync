@@ -89,14 +89,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Communities",
-  "triggers": [
-   "communities"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090791089015800299",
-  "tag": "$MfT"
- },
- {
   "name": "Carry the Seed",
   "triggers": [
    "carry the seed"
@@ -494,6 +486,14 @@
    "permanent"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101295298937082168",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Communities",
+  "triggers": [
+   "communities"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101370802650141014",
   "tag": "$MfT"
  }
 ]

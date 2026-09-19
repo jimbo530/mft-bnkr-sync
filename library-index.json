@@ -1767,14 +1767,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090786023902978384"
  },
  {
-  "band": "DD",
-  "name": "Communities",
-  "triggers": [
-   "communities"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090791089015800299"
- },
- {
   "band": "JS",
   "name": "Dance Until Morning",
   "triggers": [
@@ -7757,5 +7749,13 @@
    "base base base"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101350670548848726"
+ },
+ {
+  "band": "DD",
+  "name": "Communities",
+  "triggers": [
+   "communities"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101370802650141014"
  }
 ]
