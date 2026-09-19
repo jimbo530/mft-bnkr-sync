@@ -2863,14 +2863,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093111373454536848"
  },
  {
-  "band": "MR",
-  "name": "We Water Each Other vid",
-  "triggers": [
-   "we water each other vid"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093131500879245399"
- },
- {
   "band": "NN",
   "name": "Velvet And Valor",
   "triggers": [
@@ -7749,5 +7741,13 @@
    "horse of a thousand names"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101194612031299713"
+ },
+ {
+  "band": "MR",
+  "name": "We Water Each Other vid",
+  "triggers": [
+   "we water each other vid"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101199662900277516"
  }
 ]
