@@ -2359,14 +2359,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2092119815800381944"
  },
  {
-  "band": "EBM",
-  "name": "ELVES OF BALLINMOORE — “MORE LOVE, MORE",
-  "triggers": [
-   "elves of ballinmoore — “more love, more"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092134919321382970"
- },
- {
   "band": "CB",
   "name": "Proof of Freedom",
   "triggers": [
@@ -7765,5 +7757,13 @@
    "elves of ballinmoore — “light load, livi"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101426121103331674"
+ },
+ {
+  "band": "EBM",
+  "name": "ELVES OF BALLINMOORE — “MORE LOVE, MORE",
+  "triggers": [
+   "elves of ballinmoore — “more love, more"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101446253577937358"
  }
 ]
