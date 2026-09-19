@@ -553,14 +553,6 @@
  },
  {
   "band": "MV",
-  "name": "Wide Open World",
-  "triggers": [
-   "wide open world"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085315007898652872"
- },
- {
-  "band": "MV",
   "name": "Jony Sings gotta get paid",
   "triggers": [
    "jony sings gotta get paid"
@@ -7749,5 +7741,13 @@
    "show me what you got"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101149337090744533"
+ },
+ {
+  "band": "MV",
+  "name": "Wide Open World",
+  "triggers": [
+   "wide open world"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101169440033226953"
  }
 ]
