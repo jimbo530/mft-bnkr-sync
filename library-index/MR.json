@@ -8,14 +8,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Opportunity To Be Great",
-  "triggers": [
-   "opportunity to be great"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085319985509847245",
-  "tag": "$MfT"
- },
- {
   "name": "Share It Like Bread",
   "triggers": [
    "share it like bread"
@@ -438,6 +430,14 @@
    "love being alive vid"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101300285268250835",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Opportunity To Be Great",
+  "triggers": [
+   "opportunity to be great"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101375819364884896",
   "tag": "$MfT"
  }
 ]

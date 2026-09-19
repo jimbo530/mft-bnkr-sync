@@ -448,14 +448,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2081298549107552461"
  },
  {
-  "band": "MR",
-  "name": "Opportunity To Be Great",
-  "triggers": [
-   "opportunity to be great"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085319985509847245"
- },
- {
   "band": "EBM",
   "name": "FROM MEMES TO MANGROVES",
   "triggers": [
@@ -7757,5 +7749,13 @@
    "communities"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101370802650141014"
+ },
+ {
+  "band": "MR",
+  "name": "Opportunity To Be Great",
+  "triggers": [
+   "opportunity to be great"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101375819364884896"
  }
 ]
