@@ -1527,14 +1527,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090242488892051494"
  },
  {
-  "band": "JS",
-  "name": "GROWalition Rising",
-  "triggers": [
-   "growalition rising"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090247520567865731"
- },
- {
   "band": "MR",
   "name": "Roots In The Rhythm",
   "triggers": [
@@ -7749,5 +7741,13 @@
    "open roads"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101124169819713618"
+ },
+ {
+  "band": "JS",
+  "name": "GROWalition Rising",
+  "triggers": [
+   "growalition rising"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101144266017821102"
  }
 ]
