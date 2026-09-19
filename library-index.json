@@ -2095,14 +2095,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091410153727746301"
  },
  {
-  "band": "MR",
-  "name": "Love Being Alive vid",
-  "triggers": [
-   "love being alive vid"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091415140931375224"
- },
- {
   "band": "NN",
   "name": "It Will Change Your Life",
   "triggers": [
@@ -7757,5 +7749,13 @@
    "permanent"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101295298937082168"
+ },
+ {
+  "band": "MR",
+  "name": "Love Being Alive vid",
+  "triggers": [
+   "love being alive vid"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101300285268250835"
  }
 ]

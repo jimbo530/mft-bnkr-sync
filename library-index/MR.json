@@ -73,14 +73,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Love Being Alive vid",
-  "triggers": [
-   "love being alive vid"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091415140931375224",
-  "tag": "$MfT"
- },
- {
   "name": "We Water Each Other",
   "triggers": [
    "we water each other"
@@ -438,6 +430,14 @@
    "we water each other vid"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101199662900277516",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Love Being Alive vid",
+  "triggers": [
+   "love being alive vid"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101300285268250835",
   "tag": "$MfT"
  }
 ]
