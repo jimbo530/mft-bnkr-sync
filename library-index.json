@@ -1711,14 +1711,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090665225401819456"
  },
  {
-  "band": "CB",
-  "name": "BASE BASE BASE",
-  "triggers": [
-   "base base base"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090670296613167130"
- },
- {
   "band": "JS",
   "name": "Jony Sings, devil wants my song",
   "triggers": [
@@ -7757,5 +7749,13 @@
    "forward"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101325498387173445"
+ },
+ {
+  "band": "CB",
+  "name": "BASE BASE BASE",
+  "triggers": [
+   "base base base"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101350670548848726"
  }
 ]
