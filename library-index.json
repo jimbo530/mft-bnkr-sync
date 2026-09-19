@@ -1847,14 +1847,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090826282783080927"
  },
  {
-  "band": "CB",
-  "name": "EBM - Together we grow CB",
-  "triggers": [
-   "ebm - together we grow cb"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090831329738842589"
- },
- {
   "band": "JS",
   "name": "Roots And Rhythm",
   "triggers": [
@@ -7749,5 +7741,13 @@
    "one piece at a time"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101093969090482425"
+ },
+ {
+  "band": "CB",
+  "name": "EBM - Together we grow CB",
+  "triggers": [
+   "ebm - together we grow cb"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101098998832722127"
  }
 ]

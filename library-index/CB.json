@@ -129,14 +129,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "EBM - Together we grow CB",
-  "triggers": [
-   "ebm - together we grow cb"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090831329738842589",
-  "tag": "$MfT"
- },
- {
   "name": "Chain Reaction Diplomacy",
   "triggers": [
    "chain reaction diplomacy"
@@ -502,6 +494,14 @@
    "ebm - code not coal"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101048669566845243",
+  "tag": "$MfT"
+ },
+ {
+  "name": "EBM - Together we grow CB",
+  "triggers": [
+   "ebm - together we grow cb"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101098998832722127",
   "tag": "$MfT"
  }
 ]
