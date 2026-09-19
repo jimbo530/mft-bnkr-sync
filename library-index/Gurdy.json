@@ -63,5 +63,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2096921450623959359",
   "tag": "$MfT"
+ },
+ {
+  "name": "Crawls Back Singing",
+  "triggers": [
+   "crawls back singing"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101249984674820473",
+  "tag": "$MfT"
  }
 ]
