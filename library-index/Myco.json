@@ -256,14 +256,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Forward",
-  "triggers": [
-   "forward"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091254128315957276",
-  "tag": "$MfT"
- },
- {
   "name": "Grow With Every Play",
   "triggers": [
    "grow with every play"
@@ -861,6 +853,14 @@
    "show me what you got"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101149337090744533",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Forward",
+  "triggers": [
+   "forward"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101325498387173445",
   "tag": "$MfT"
  }
 ]

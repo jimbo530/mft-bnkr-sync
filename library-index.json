@@ -1983,14 +1983,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091249055166759350"
  },
  {
-  "band": "Myco",
-  "name": "Forward",
-  "triggers": [
-   "forward"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091254128315957276"
- },
- {
   "band": "MV",
   "name": "EBM- Trees up Bags Up.",
   "triggers": [
@@ -7757,5 +7749,13 @@
    "elves of ballinmoore — “another day of m"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101320427138113613"
+ },
+ {
+  "band": "Myco",
+  "name": "Forward",
+  "triggers": [
+   "forward"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101325498387173445"
  }
 ]
