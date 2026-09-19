@@ -728,14 +728,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "dungeon games",
-  "triggers": [
-   "dungeon games"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091858072209678811",
-  "tag": "$MfT"
- },
- {
   "name": "Digerie Dude - Creators Economy",
   "triggers": [
    "digerie dude - creators economy"
@@ -1301,6 +1293,14 @@
    "natalie greatness grows"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101219812735115402",
+  "tag": "$MfT"
+ },
+ {
+  "name": "dungeon games",
+  "triggers": [
+   "dungeon games"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101395965236183197",
   "tag": "$MfT"
  }
 ]

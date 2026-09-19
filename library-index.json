@@ -2247,14 +2247,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091837964393361526"
  },
  {
-  "band": "MV",
-  "name": "dungeon games",
-  "triggers": [
-   "dungeon games"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091858072209678811"
- },
- {
   "band": "EBM",
   "name": "All-Time High",
   "triggers": [
@@ -7757,5 +7749,13 @@
    "opportunity to be great"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101375819364884896"
+ },
+ {
+  "band": "MV",
+  "name": "dungeon games",
+  "triggers": [
+   "dungeon games"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101395965236183197"
  }
 ]
