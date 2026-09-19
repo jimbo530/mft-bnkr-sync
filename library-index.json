@@ -2959,14 +2959,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093368043086680316"
  },
  {
-  "band": "DD",
-  "name": "Permanent",
-  "triggers": [
-   "permanent"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093383188231970996"
- },
- {
   "band": "MV",
   "name": "EBM - Char to the Root",
   "triggers": [
@@ -7757,5 +7749,13 @@
    "power of a meme"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101275173110297030"
+ },
+ {
+  "band": "DD",
+  "name": "Permanent",
+  "triggers": [
+   "permanent"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101295298937082168"
  }
 ]

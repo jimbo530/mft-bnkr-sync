@@ -121,14 +121,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Permanent",
-  "triggers": [
-   "permanent"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093383188231970996",
-  "tag": "$MfT"
- },
- {
   "name": "Kind Folk (In the Strangest Places)",
   "triggers": [
    "kind folk (in the strangest places)"
@@ -494,6 +486,14 @@
    "title  “scared money can’t win”"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101244919360671957",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Permanent",
+  "triggers": [
+   "permanent"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101295298937082168",
   "tag": "$MfT"
  }
 ]
