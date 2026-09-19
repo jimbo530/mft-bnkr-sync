@@ -2351,14 +2351,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2092079553724252545"
  },
  {
-  "band": "EBM",
-  "name": "ELVES OF BALLINMOORE — “COMMUNITY OF COM",
-  "triggers": [
-   "elves of ballinmoore — “community of com"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092119815800381944"
- },
- {
   "band": "CB",
   "name": "Proof of Freedom",
   "triggers": [
@@ -7765,5 +7757,13 @@
    "elves of ballinmoore — “more love, more"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101446253577937358"
+ },
+ {
+  "band": "EBM",
+  "name": "ELVES OF BALLINMOORE — “COMMUNITY OF COM",
+  "triggers": [
+   "elves of ballinmoore — “community of com"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101451330615148703"
  }
 ]
