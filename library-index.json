@@ -1463,14 +1463,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090282750318104794"
  },
  {
-  "band": "JS",
-  "name": "Capital for Humanity",
-  "triggers": [
-   "capital for humanity"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090287741594451969"
- },
- {
   "band": "MR",
   "name": "Work Now Dance Later vid",
   "triggers": [
@@ -7765,5 +7757,13 @@
    "regen rise"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101703005431005460"
+ },
+ {
+  "band": "JS",
+  "name": "Capital for Humanity",
+  "triggers": [
+   "capital for humanity"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101723149880471791"
  }
 ]
