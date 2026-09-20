@@ -984,14 +984,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2085481141058900147"
  },
  {
-  "band": "Myco",
-  "name": "Green Candle Sunrise",
-  "triggers": [
-   "green candle sunrise"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085395529714851937"
- },
- {
   "band": "EBM",
   "name": "Un Rug Able",
   "triggers": [
@@ -7765,5 +7757,13 @@
    "give it away"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101471475714650426"
+ },
+ {
+  "band": "Myco",
+  "name": "Green Candle Sunrise",
+  "triggers": [
+   "green candle sunrise"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101476488637800678"
  }
 ]

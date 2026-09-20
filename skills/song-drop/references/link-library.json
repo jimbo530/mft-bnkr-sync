@@ -1571,19 +1571,6 @@
     "caption": "🎵 \"Agent Army\" — Myco\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2085395529714851937",
-    "translation": "Green Candle Sunrise",
-    "name": "Green Candle Sunrise",
-    "triggers": [
-      "green candle sunrise"
-    ],
-    "band": "Myco",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2085395529714851937",
-    "caption": "🎵 \"Green Candle Sunrise\" — Myco\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2081756585919951279",
     "translation": "Un Rug Able",
     "name": "Un Rug Able",
@@ -12604,5 +12591,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2101471475714650426",
     "caption": "\"Give It Away\" — Myco\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2101476488637800678",
+    "translation": "Green Candle Sunrise",
+    "name": "Green Candle Sunrise",
+    "triggers": [
+      "green candle sunrise"
+    ],
+    "band": "Myco",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2101476488637800678",
+    "caption": "\"Green Candle Sunrise\" — Myco\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
