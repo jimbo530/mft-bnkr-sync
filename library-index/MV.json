@@ -464,14 +464,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Digerie Dude - Photosynthesis of the Heart",
-  "triggers": [
-   "digerie dude - photosynthesis of the heart"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090242488892051494",
-  "tag": "$MfT"
- },
- {
   "name": "Myko - Listen Close",
   "triggers": [
    "myko - listen close"
@@ -1301,6 +1293,14 @@
    "digerie dude - long way home"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101501664427438486",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Digerie Dude - Photosynthesis of the Heart",
+  "triggers": [
+   "digerie dude - photosynthesis of the heart"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101546949027488052",
   "tag": "$MfT"
  }
 ]
