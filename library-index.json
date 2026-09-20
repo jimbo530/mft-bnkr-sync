@@ -1783,14 +1783,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091047734065123600"
  },
  {
-  "band": "JS",
-  "name": "Money With a Soul",
-  "triggers": [
-   "money with a soul"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091052774179872792"
- },
- {
   "band": "NN",
   "name": "Toast to the Trees",
   "triggers": [
@@ -7765,5 +7757,13 @@
    "roots and rhythm"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101728166075101288"
+ },
+ {
+  "band": "JS",
+  "name": "Money With a Soul",
+  "triggers": [
+   "money with a soul"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101748314114871771"
  }
 ]
