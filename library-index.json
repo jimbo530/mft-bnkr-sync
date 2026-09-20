@@ -1703,14 +1703,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090730649783005549"
  },
  {
-  "band": "Myco",
-  "name": "Seeds To Save Humanity",
-  "triggers": [
-   "seeds to save humanity"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090745802507383220"
- },
- {
   "band": "JS",
   "name": "jony sings blockchain boogie",
   "triggers": [
@@ -7765,5 +7757,13 @@
    "digerie dude - photosynthesis of the heart"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101546949027488052"
+ },
+ {
+  "band": "Myco",
+  "name": "Seeds To Save Humanity",
+  "triggers": [
+   "seeds to save humanity"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101552024592449683"
  }
 ]
