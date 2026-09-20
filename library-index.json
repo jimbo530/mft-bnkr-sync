@@ -2231,14 +2231,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2092019115439321565"
  },
  {
-  "band": "MV",
-  "name": "Digerie Dude - Open Mic",
-  "triggers": [
-   "digerie dude - open mic"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092034253567447416"
- },
- {
   "band": "EBM",
   "name": "Locked Forever",
   "triggers": [
@@ -7765,5 +7757,13 @@
    "elves of ballinmoore — “diamond hand the"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101652641335885899"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Open Mic",
+  "triggers": [
+   "digerie dude - open mic"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101672805016170509"
  }
 ]
