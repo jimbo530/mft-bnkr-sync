@@ -2351,14 +2351,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2092195292795768946"
  },
  {
-  "band": "JS",
-  "name": "Songs For The Builders",
-  "triggers": [
-   "songs for the builders"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092215397864870120"
- },
- {
   "band": "EBM",
   "name": "Invite A Friend",
   "triggers": [
@@ -7765,5 +7757,13 @@
    "build it anyway"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101521790820307341"
+ },
+ {
+  "band": "JS",
+  "name": "Songs For The Builders",
+  "triggers": [
+   "songs for the builders"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101526813918781535"
  }
 ]

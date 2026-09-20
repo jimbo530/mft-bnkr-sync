@@ -241,14 +241,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Songs For The Builders",
-  "triggers": [
-   "songs for the builders"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092215397864870120",
-  "tag": "$MfT"
- },
- {
   "name": "Cellars Sewers And Spells",
   "triggers": [
    "cellars sewers and spells"
@@ -766,6 +758,14 @@
    "lessons in the ledger"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101270129799573848",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Songs For The Builders",
+  "triggers": [
+   "songs for the builders"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101526813918781535",
   "tag": "$MfT"
  }
 ]
