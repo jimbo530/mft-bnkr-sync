@@ -1992,14 +1992,6 @@
  },
  {
   "band": "MV",
-  "name": "regen rise",
-  "triggers": [
-   "regen rise"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091515855850852490"
- },
- {
-  "band": "MV",
   "name": "Digerie Dude The Choice",
   "triggers": [
    "digerie dude the choice"
@@ -7765,5 +7757,13 @@
    "ebm- trees up bags up."
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101697932592390263"
+ },
+ {
+  "band": "MV",
+  "name": "regen rise",
+  "triggers": [
+   "regen rise"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101703005431005460"
  }
 ]
