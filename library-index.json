@@ -1343,14 +1343,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090021025387888937"
  },
  {
-  "band": "MV",
-  "name": "Myko - Keep Moving",
-  "triggers": [
-   "myko - keep moving"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090036130917835129"
- },
- {
   "band": "DD",
   "name": "(TENDER RESILIENCE)",
   "triggers": [
@@ -7765,5 +7757,13 @@
    "magic today"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101602315706741138"
+ },
+ {
+  "band": "MV",
+  "name": "Myko - Keep Moving",
+  "triggers": [
+   "myko - keep moving"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101622449888457155"
  }
 ]
