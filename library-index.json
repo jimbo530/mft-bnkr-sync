@@ -1735,14 +1735,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090846449130950754"
  },
  {
-  "band": "Myco",
-  "name": "Magic Today",
-  "triggers": [
-   "magic today"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090851490357211636"
- },
- {
   "band": "NN",
   "name": "1000 Futures",
   "triggers": [
@@ -7765,5 +7757,13 @@
    "elves of ballinmoore — “we are based”"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101597246881988884"
+ },
+ {
+  "band": "Myco",
+  "name": "Magic Today",
+  "triggers": [
+   "magic today"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101602315706741138"
  }
 ]
