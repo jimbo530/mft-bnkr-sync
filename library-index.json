@@ -1944,14 +1944,6 @@
  },
  {
   "band": "MV",
-  "name": "Digerie Dude - Touch Grass Revolution",
-  "triggers": [
-   "digerie dude - touch grass revolution"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091354744811892758"
- },
- {
-  "band": "MV",
   "name": "Digerie Dude - Internet We Dreamed Of.",
   "triggers": [
    "digerie dude - internet we dreamed of."
@@ -7765,5 +7757,13 @@
    "myko - keep moving"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101622449888457155"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Touch Grass Revolution",
+  "triggers": [
+   "digerie dude - touch grass revolution"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101627478351470910"
  }
 ]
