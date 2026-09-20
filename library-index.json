@@ -2599,14 +2599,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093161682302382253"
  },
  {
-  "band": "EBM",
-  "name": "Interest In The Infinite",
-  "triggers": [
-   "interest in the infinite"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093181831298400316"
- },
- {
   "band": "MV",
   "name": "Digerie Dude- sound of Growth",
   "triggers": [
@@ -7765,5 +7757,13 @@
    "money with a soul"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101748314114871771"
+ },
+ {
+  "band": "EBM",
+  "name": "Interest In The Infinite",
+  "triggers": [
+   "interest in the infinite"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101753350576288167"
  }
 ]
