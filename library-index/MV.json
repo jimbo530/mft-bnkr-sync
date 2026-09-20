@@ -576,14 +576,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "EBM - Meme to Green",
-  "triggers": [
-   "ebm - meme to green"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091007472811016302",
-  "tag": "$MfT"
- },
- {
   "name": "Digerie Dude - Pulse of the Forest (1)",
   "triggers": [
    "digerie dude - pulse of the forest (1)"
@@ -1301,6 +1293,14 @@
    "dungeon games"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101395965236183197",
+  "tag": "$MfT"
+ },
+ {
+  "name": "EBM - Meme to Green",
+  "triggers": [
+   "ebm - meme to green"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101496628519502001",
   "tag": "$MfT"
  }
 ]
