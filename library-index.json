@@ -1663,14 +1663,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090630024139288655"
  },
  {
-  "band": "MV",
-  "name": "J&N make today count",
-  "triggers": [
-   "j&n make today count"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090650178441064451"
- },
- {
   "band": "Myco",
   "name": "Liquidity Rain",
   "triggers": [
@@ -7765,5 +7757,13 @@
    "seeds to save humanity"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101552024592449683"
+ },
+ {
+  "band": "MV",
+  "name": "J&N make today count",
+  "triggers": [
+   "j&n make today count"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101572119721038152"
  }
 ]
