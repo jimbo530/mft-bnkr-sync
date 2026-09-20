@@ -2199,14 +2199,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2092039295913660900"
  },
  {
-  "band": "JS",
-  "name": "It Carries Two",
-  "triggers": [
-   "it carries two"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092054387858231445"
- },
- {
   "band": "MR",
   "name": "I Love Being Alive",
   "triggers": [
@@ -7765,5 +7757,13 @@
    "interest in the infinite"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101753350576288167"
+ },
+ {
+  "band": "JS",
+  "name": "It Carries Two",
+  "triggers": [
+   "it carries two"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101773464092684786"
  }
 ]
