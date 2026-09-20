@@ -1439,14 +1439,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090182061298491699"
  },
  {
-  "band": "DD",
-  "name": "Build It Anyway",
-  "triggers": [
-   "build it anyway"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090187117389344874"
- },
- {
   "band": "Myco",
   "name": "Bloom on the Blockchain",
   "triggers": [
@@ -7765,5 +7757,13 @@
    "digerie dude - long way home"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101501664427438486"
+ },
+ {
+  "band": "DD",
+  "name": "Build It Anyway",
+  "triggers": [
+   "build it anyway"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101521790820307341"
  }
 ]

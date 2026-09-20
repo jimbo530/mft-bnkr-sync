@@ -57,14 +57,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Build It Anyway",
-  "triggers": [
-   "build it anyway"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090187117389344874",
-  "tag": "$MfT"
- },
- {
   "name": "Zoom out",
   "triggers": [
    "zoom out"
@@ -494,6 +486,14 @@
    "communities"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101370802650141014",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Build It Anyway",
+  "triggers": [
+   "build it anyway"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101521790820307341",
   "tag": "$MfT"
  }
 ]
