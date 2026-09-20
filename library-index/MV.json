@@ -592,14 +592,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "EBM- Trees up Bags Up.",
-  "triggers": [
-   "ebm- trees up bags up."
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091269229584482676",
-  "tag": "$MfT"
- },
- {
   "name": "carry the light, G.O.A.T.",
   "triggers": [
    "carry the light, g.o.a.t."
@@ -1301,6 +1293,14 @@
    "digerie dude - open mic"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101672805016170509",
+  "tag": "$MfT"
+ },
+ {
+  "name": "EBM- Trees up Bags Up.",
+  "triggers": [
+   "ebm- trees up bags up."
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101697932592390263",
   "tag": "$MfT"
  }
 ]

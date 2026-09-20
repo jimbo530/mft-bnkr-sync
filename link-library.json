@@ -3024,19 +3024,6 @@
     "caption": "\"ELVES OF BALLINMOORE — “TREES UP, BAGS U\" — Elves of Ballinmoore\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2091269229584482676",
-    "translation": "EBM- Trees up Bags Up.",
-    "name": "EBM- Trees up Bags Up.",
-    "triggers": [
-      "ebm- trees up bags up."
-    ],
-    "band": "MV",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2091269229584482676",
-    "caption": "\"EBM- Trees up Bags Up.\"\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2091294392510259616",
     "translation": "carry the light, G.O.A.T.",
     "name": "carry the light, G.O.A.T.",
@@ -12604,5 +12591,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2101677805989736910",
     "caption": "\"Drop ’Em If You Got ’Em\" — Elves of Ballinmoore\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2101697932592390263",
+    "translation": "EBM- Trees up Bags Up.",
+    "name": "EBM- Trees up Bags Up.",
+    "triggers": [
+      "ebm- trees up bags up."
+    ],
+    "band": "MV",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2101697932592390263",
+    "caption": "\"EBM- Trees up Bags Up.\"\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

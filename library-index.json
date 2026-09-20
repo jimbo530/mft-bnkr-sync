@@ -1888,14 +1888,6 @@
  },
  {
   "band": "MV",
-  "name": "EBM- Trees up Bags Up.",
-  "triggers": [
-   "ebm- trees up bags up."
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091269229584482676"
- },
- {
-  "band": "MV",
   "name": "carry the light, G.O.A.T.",
   "triggers": [
    "carry the light, g.o.a.t."
@@ -7765,5 +7757,13 @@
    "drop ’em if you got ’em"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101677805989736910"
+ },
+ {
+  "band": "MV",
+  "name": "EBM- Trees up Bags Up.",
+  "triggers": [
+   "ebm- trees up bags up."
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101697932592390263"
  }
 ]
