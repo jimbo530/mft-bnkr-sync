@@ -281,14 +281,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Jaguars",
-  "triggers": [
-   "jaguars"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093111373454536848",
-  "tag": "$MfT"
- },
- {
   "name": "Make Today Count",
   "triggers": [
    "make today count"
@@ -766,6 +758,14 @@
    "songs for the builders"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101526813918781535",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Jaguars",
+  "triggers": [
+   "jaguars"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101577108719804571",
   "tag": "$MfT"
  }
 ]

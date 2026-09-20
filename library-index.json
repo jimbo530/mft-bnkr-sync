@@ -2671,14 +2671,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093106342521082115"
  },
  {
-  "band": "JS",
-  "name": "Jaguars",
-  "triggers": [
-   "jaguars"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093111373454536848"
- },
- {
   "band": "NN",
   "name": "Velvet And Valor",
   "triggers": [
@@ -7765,5 +7757,13 @@
    "j&n make today count"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101572119721038152"
+ },
+ {
+  "band": "JS",
+  "name": "Jaguars",
+  "triggers": [
+   "jaguars"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101577108719804571"
  }
 ]
