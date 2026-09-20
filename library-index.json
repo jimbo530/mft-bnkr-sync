@@ -1791,14 +1791,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091113155480932413"
  },
  {
-  "band": "MV",
-  "name": "Digerie Dude - Community",
-  "triggers": [
-   "digerie dude - community"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091133301331214842"
- },
- {
   "band": "Myco",
   "name": "Hero For Being Here",
   "triggers": [
@@ -7757,5 +7749,13 @@
    "like, comment, share"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101798601013821786"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Community",
+  "triggers": [
+   "digerie dude - community"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101803663555465431"
  }
 ]

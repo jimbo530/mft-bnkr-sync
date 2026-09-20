@@ -568,14 +568,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Digerie Dude - Community",
-  "triggers": [
-   "digerie dude - community"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091133301331214842",
-  "tag": "$MfT"
- },
- {
   "name": "If it was easy",
   "triggers": [
    "if it was easy"
@@ -1301,6 +1293,14 @@
    "regen rise"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101703005431005460",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Digerie Dude - Community",
+  "triggers": [
+   "digerie dude - community"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101803663555465431",
   "tag": "$MfT"
  }
 ]
