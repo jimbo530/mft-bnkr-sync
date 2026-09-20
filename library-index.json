@@ -2591,14 +2591,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2092789263217680397"
  },
  {
-  "band": "Myco",
-  "name": "Give It Away",
-  "triggers": [
-   "give it away"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092809398804509144"
- },
- {
   "band": "JS",
   "name": "You Dont Know",
   "triggers": [
@@ -7765,5 +7757,13 @@
    "elves of ballinmoore — “community of com"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101451330615148703"
+ },
+ {
+  "band": "Myco",
+  "name": "Give It Away",
+  "triggers": [
+   "give it away"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101471475714650426"
  }
 ]
