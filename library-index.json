@@ -2735,14 +2735,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093282513993023965"
  },
  {
-  "band": "EBM",
-  "name": "ELVES OF BALLINMOORE — “WE ARE BASED”",
-  "triggers": [
-   "elves of ballinmoore — “we are based”"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093287557073096981"
- },
- {
   "band": "MV",
   "name": "nothing without you - Biggins Mcjamin",
   "triggers": [
@@ -7765,5 +7757,13 @@
    "jaguars"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101577108719804571"
+ },
+ {
+  "band": "EBM",
+  "name": "ELVES OF BALLINMOORE — “WE ARE BASED”",
+  "triggers": [
+   "elves of ballinmoore — “we are based”"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101597246881988884"
  }
 ]
