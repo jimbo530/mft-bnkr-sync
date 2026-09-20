@@ -161,22 +161,6 @@
  },
  {
   "band": "ALAN",
-  "name": "Banker Season",
-  "triggers": [
-   "banker season"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079160599540347253",
-  "topics": [
-   "bankr",
-   "bnkr",
-   "banker",
-   "robots",
-   "trading season"
-  ],
-  "promote": true
- },
- {
-  "band": "ALAN",
   "name": "Here Building Anyway",
   "triggers": [
    "here building anyway"
@@ -7765,5 +7749,13 @@
    "it carries two"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101773464092684786"
+ },
+ {
+  "band": "ALAN",
+  "name": "Banker Season",
+  "triggers": [
+   "banker season"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101778463875022867"
  }
 ]

@@ -247,28 +247,6 @@
     ]
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2079160599540347253",
-    "translation": "Banker Season",
-    "name": "Banker Season",
-    "triggers": [
-      "banker season"
-    ],
-    "band": "ALAN",
-    "tag": "$MfT",
-    "ca": "0x5e35b494f4941cf6f47d407d93fee66a366daba3",
-    "xPost": "https://x.com/MemeForTrees/status/2079160599540347253",
-    "caption": "\"Banker Season\" — Alan-a-Dale\n\n$MfT",
-    "boothCommission": "sg_mrt284h18a",
-    "topics": [
-      "bankr",
-      "bnkr",
-      "banker",
-      "robots",
-      "trading season"
-    ],
-    "promote": true
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2079174697539739889",
     "translation": "Here Building Anyway",
     "name": "Here Building Anyway",
@@ -12604,5 +12582,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2101773464092684786",
     "caption": "\"It Carries Two\" — Jony Sings\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2101778463875022867",
+    "translation": "Banker Season",
+    "name": "Banker Season",
+    "triggers": [
+      "banker season"
+    ],
+    "band": "ALAN",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2101778463875022867",
+    "caption": "\"Banker Season\" — ALAN\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

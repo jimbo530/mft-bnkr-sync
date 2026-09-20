@@ -29,22 +29,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Banker Season",
-  "triggers": [
-   "banker season"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079160599540347253",
-  "topics": [
-   "bankr",
-   "bnkr",
-   "banker",
-   "robots",
-   "trading season"
-  ],
-  "promote": true,
-  "tag": "$MfT"
- },
- {
   "name": "Here Building Anyway",
   "triggers": [
    "here building anyway"
@@ -138,6 +122,14 @@
    "the chest that never empties"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101400987034362134",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Banker Season",
+  "triggers": [
+   "banker season"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101778463875022867",
   "tag": "$MfT"
  }
 ]
