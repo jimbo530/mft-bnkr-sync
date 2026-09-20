@@ -1711,14 +1711,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090811210258067589"
  },
  {
-  "band": "JS",
-  "name": "Roots And Rhythm",
-  "triggers": [
-   "roots and rhythm"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090846449130950754"
- },
- {
   "band": "NN",
   "name": "1000 Futures",
   "triggers": [
@@ -7765,5 +7757,13 @@
    "capital for humanity"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101723149880471791"
+ },
+ {
+  "band": "JS",
+  "name": "Roots And Rhythm",
+  "triggers": [
+   "roots and rhythm"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101728166075101288"
  }
 ]
