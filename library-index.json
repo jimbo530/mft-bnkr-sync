@@ -2327,14 +2327,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2092562785536196958"
  },
  {
-  "band": "EBM",
-  "name": "Like, Comment, Share",
-  "triggers": [
-   "like, comment, share"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092567775109603418"
- },
- {
   "band": "Myco",
   "name": "Go Do Something Nice",
   "triggers": [
@@ -7757,5 +7749,13 @@
    "banker season"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101778463875022867"
+ },
+ {
+  "band": "EBM",
+  "name": "Like, Comment, Share",
+  "triggers": [
+   "like, comment, share"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101798601013821786"
  }
 ]
