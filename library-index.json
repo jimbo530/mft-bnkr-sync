@@ -2505,14 +2505,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093091196310561247"
  },
  {
-  "band": "Myco",
-  "name": "After the Winter Comes",
-  "triggers": [
-   "after the winter comes"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093106342521082115"
- },
- {
   "band": "MV",
   "name": "Thanks for being here",
   "triggers": [
@@ -7751,5 +7743,13 @@
    "velvet and valor"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101853991940284507"
+ },
+ {
+  "band": "Myco",
+  "name": "After the Winter Comes",
+  "triggers": [
+   "after the winter comes"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101874136096113097"
  }
 ]
