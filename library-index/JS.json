@@ -145,14 +145,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Move Like Magic",
-  "triggers": [
-   "move like magic"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091591303381340232",
-  "tag": "$MfT"
- },
- {
   "name": "Circulate Good",
   "triggers": [
    "circulate good"
@@ -766,6 +758,14 @@
    "keep dancing"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102100614213726547",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Move Like Magic",
+  "triggers": [
+   "move like magic"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102130811939995784",
   "tag": "$MfT"
  }
 ]

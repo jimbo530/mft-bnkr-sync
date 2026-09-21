@@ -1857,14 +1857,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091576203710746720"
  },
  {
-  "band": "JS",
-  "name": "Move Like Magic",
-  "triggers": [
-   "move like magic"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091591303381340232"
- },
- {
   "band": "EBM",
   "name": "Help The Homies",
   "triggers": [
@@ -7759,5 +7751,13 @@
    "every morning, mic hot"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102125806591803485"
+ },
+ {
+  "band": "JS",
+  "name": "Move Like Magic",
+  "triggers": [
+   "move like magic"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102130811939995784"
  }
 ]
