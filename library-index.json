@@ -1649,14 +1649,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090765895496781911"
  },
  {
-  "band": "Myco",
-  "name": "Impact Flywheel",
-  "triggers": [
-   "impact flywheel"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090786023902978384"
- },
- {
   "band": "JS",
   "name": "Dance Until Morning",
   "triggers": [
@@ -7751,5 +7743,13 @@
    "every day we grow"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101899292118044854"
+ },
+ {
+  "band": "Myco",
+  "name": "Impact Flywheel",
+  "triggers": [
+   "impact flywheel"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101904327690301872"
  }
 ]
