@@ -656,14 +656,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Digerie Dude - Open Roads (1)",
-  "triggers": [
-   "digerie dude - open roads (1)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091797658935365837",
-  "tag": "$MfT"
- },
- {
   "name": "Digerie Dude - Creators Economy",
   "triggers": [
    "digerie dude - creators economy"
@@ -1301,6 +1293,14 @@
    "digerie dude - community"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101803663555465431",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Digerie Dude - Open Roads (1)",
+  "triggers": [
+   "digerie dude - open roads (1)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101949627578605840",
   "tag": "$MfT"
  }
 ]

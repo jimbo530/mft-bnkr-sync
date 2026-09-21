@@ -2025,14 +2025,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091777611177378138"
  },
  {
-  "band": "MV",
-  "name": "Digerie Dude - Open Roads (1)",
-  "triggers": [
-   "digerie dude - open roads (1)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091797658935365837"
- },
- {
   "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “LISTEN, LIKE, AN",
   "triggers": [
@@ -7759,5 +7751,13 @@
    "forge the future"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101929499453485382"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Open Roads (1)",
+  "triggers": [
+   "digerie dude - open roads (1)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101949627578605840"
  }
 ]
