@@ -1929,14 +1929,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091697035212640744"
  },
  {
-  "band": "JS",
-  "name": "Each One Carries Two",
-  "triggers": [
-   "each one carries two"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091712130282037250"
- },
- {
   "band": "MV",
   "name": "ballinmorre elves forestkids",
   "triggers": [
@@ -7759,5 +7751,13 @@
    "the internet we dreamed of"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102055334281986274"
+ },
+ {
+  "band": "JS",
+  "name": "Each One Carries Two",
+  "triggers": [
+   "each one carries two"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102075453632590144"
  }
 ]

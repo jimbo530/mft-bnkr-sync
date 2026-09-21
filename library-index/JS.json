@@ -169,14 +169,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Each One Carries Two",
-  "triggers": [
-   "each one carries two"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091712130282037250",
-  "tag": "$MfT"
- },
- {
   "name": "Jony Sings, keep dancing",
   "triggers": [
    "jony sings, keep dancing"
@@ -766,6 +758,14 @@
    "the rainmakers daughter"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101848959425597441",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Each One Carries Two",
+  "triggers": [
+   "each one carries two"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102075453632590144",
   "tag": "$MfT"
  }
 ]
