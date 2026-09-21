@@ -2401,14 +2401,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2092904979270873569"
  },
  {
-  "band": "Myco",
-  "name": "Forge the Future",
-  "triggers": [
-   "forge the future"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092930195292356868"
- },
- {
   "band": "MV",
   "name": "EBM - Thousand Year Plan",
   "triggers": [
@@ -7759,5 +7751,13 @@
    "for bankrbot — gg3p"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101924403265052691"
+ },
+ {
+  "band": "Myco",
+  "name": "Forge the Future",
+  "triggers": [
+   "forge the future"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101929499453485382"
  }
 ]

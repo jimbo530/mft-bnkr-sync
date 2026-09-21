@@ -296,14 +296,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Forge the Future",
-  "triggers": [
-   "forge the future"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092930195292356868",
-  "tag": "$MfT"
- },
- {
   "name": "Much Love, Friends",
   "triggers": [
    "much love, friends"
@@ -861,6 +853,14 @@
    "impact flywheel"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101904327690301872",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Forge the Future",
+  "triggers": [
+   "forge the future"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101929499453485382",
   "tag": "$MfT"
  }
 ]
