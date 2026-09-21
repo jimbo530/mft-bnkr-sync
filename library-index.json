@@ -1641,14 +1641,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090906807594094658"
  },
  {
-  "band": "Myco",
-  "name": "Every Morning, Mic Hot",
-  "triggers": [
-   "every morning, mic hot"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090931971744485559"
- },
- {
   "band": "MV",
   "name": "Natalie 1000 futures",
   "triggers": [
@@ -7759,5 +7751,13 @@
    "ebm - thousand year plan"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102105746141757661"
+ },
+ {
+  "band": "Myco",
+  "name": "Every Morning, Mic Hot",
+  "triggers": [
+   "every morning, mic hot"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102125806591803485"
  }
 ]
