@@ -632,14 +632,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "ballinmorre elves forestkids",
-  "triggers": [
-   "ballinmorre elves forestkids"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091717129208824158",
-  "tag": "$MfT"
- },
- {
   "name": "Digerie Dude - Signal in the Noise",
   "triggers": [
    "digerie dude - signal in the noise"
@@ -1301,6 +1293,14 @@
    "ebm - thousand year plan"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102105746141757661",
+  "tag": "$MfT"
+ },
+ {
+  "name": "ballinmorre elves forestkids",
+  "triggers": [
+   "ballinmorre elves forestkids"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102150906032644517",
   "tag": "$MfT"
  }
 ]

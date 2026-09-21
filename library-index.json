@@ -1897,14 +1897,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091697035212640744"
  },
  {
-  "band": "MV",
-  "name": "ballinmorre elves forestkids",
-  "triggers": [
-   "ballinmorre elves forestkids"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091717129208824158"
- },
- {
   "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “THOUSAND YEAR PL",
   "triggers": [
@@ -7759,5 +7751,13 @@
    "move like magic"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102130811939995784"
+ },
+ {
+  "band": "MV",
+  "name": "ballinmorre elves forestkids",
+  "triggers": [
+   "ballinmorre elves forestkids"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102150906032644517"
  }
 ]
