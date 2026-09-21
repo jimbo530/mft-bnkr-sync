@@ -49,14 +49,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Velvet And Valor",
-  "triggers": [
-   "velvet and valor"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093141588415332845",
-  "tag": "$MfT"
- },
- {
   "name": "The Velvet Ledger",
   "triggers": [
    "the velvet ledger"
@@ -374,6 +366,14 @@
    "power of a meme"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101275173110297030",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Velvet And Valor",
+  "triggers": [
+   "velvet and valor"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101853991940284507",
   "tag": "$MfT"
  }
 ]

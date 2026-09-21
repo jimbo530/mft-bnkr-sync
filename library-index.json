@@ -2513,14 +2513,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093106342521082115"
  },
  {
-  "band": "NN",
-  "name": "Velvet And Valor",
-  "triggers": [
-   "velvet and valor"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093141588415332845"
- },
- {
   "band": "MV",
   "name": "Thanks for being here",
   "triggers": [
@@ -7751,5 +7743,13 @@
    "the rainmakers daughter"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101848959425597441"
+ },
+ {
+  "band": "NN",
+  "name": "Velvet And Valor",
+  "triggers": [
+   "velvet and valor"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101853991940284507"
  }
 ]
