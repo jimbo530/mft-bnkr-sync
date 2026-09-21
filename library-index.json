@@ -1345,14 +1345,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090081411168448995"
  },
  {
-  "band": "JS",
-  "name": "The Rainmakers Daughter",
-  "triggers": [
-   "the rainmakers daughter"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090101525502734600"
- },
- {
   "band": "DD",
   "name": "Nations as One",
   "triggers": [
@@ -7751,5 +7743,13 @@
    "the rules are the rules"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101828823234888086"
+ },
+ {
+  "band": "JS",
+  "name": "The Rainmakers Daughter",
+  "triggers": [
+   "the rainmakers daughter"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101848959425597441"
  }
 ]
