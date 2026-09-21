@@ -2449,19 +2449,6 @@
     "caption": "\"Isle of 1,000 kingdoms Jasmine\"\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2090549498787385703",
-    "translation": "Learn To Earn",
-    "name": "Learn To Earn",
-    "triggers": [
-      "learn to earn"
-    ],
-    "band": "NN",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2090549498787385703",
-    "caption": "\"Learn To Earn\" — Natilie Nightclub\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2090564602656383288",
     "translation": "Build The World Together",
     "name": "Build The World Together",
@@ -12601,5 +12588,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2102075453632590144",
     "caption": "\"Each One Carries Two\" — Jony Sings\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2102080486424051969",
+    "translation": "Learn To Earn",
+    "name": "Learn To Earn",
+    "triggers": [
+      "learn to earn"
+    ],
+    "band": "NN",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2102080486424051969",
+    "caption": "\"Learn To Earn\" — Natilie Nightclub\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

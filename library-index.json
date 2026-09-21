@@ -1529,14 +1529,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090524295608819752"
  },
  {
-  "band": "NN",
-  "name": "Learn To Earn",
-  "triggers": [
-   "learn to earn"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090549498787385703"
- },
- {
   "band": "JS",
   "name": "Build The World Together",
   "triggers": [
@@ -7759,5 +7751,13 @@
    "each one carries two"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102075453632590144"
+ },
+ {
+  "band": "NN",
+  "name": "Learn To Earn",
+  "triggers": [
+   "learn to earn"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102080486424051969"
  }
 ]
