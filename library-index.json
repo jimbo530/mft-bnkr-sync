@@ -2074,14 +2074,6 @@
  },
  {
   "band": "MV",
-  "name": "Digerie Dude - Creators Economy",
-  "triggers": [
-   "digerie dude - creators economy"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091953722377076754"
- },
- {
-  "band": "MV",
   "name": "Digerie Dude - Signal in the Noise",
   "triggers": [
    "digerie dude - signal in the noise"
@@ -7759,5 +7751,13 @@
    "digerie dude - open roads (1)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101949627578605840"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Creators Economy",
+  "triggers": [
+   "digerie dude - creators economy"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101954660495966514"
  }
 ]
