@@ -1337,14 +1337,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090081411168448995"
  },
  {
-  "band": "DD",
-  "name": "Nations as One",
-  "triggers": [
-   "nations as one"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090106560953397280"
- },
- {
   "band": "CB",
   "name": "Signal in the silence",
   "triggers": [
@@ -7759,5 +7751,13 @@
    "love being alive - moon rasta"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102176113480905197"
+ },
+ {
+  "band": "DD",
+  "name": "Nations as One",
+  "triggers": [
+   "nations as one"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102181160335908993"
  }
 ]
