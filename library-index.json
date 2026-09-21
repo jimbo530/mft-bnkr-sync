@@ -1393,14 +1393,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090207217685283051"
  },
  {
-  "band": "JS",
-  "name": "Keep Dancing",
-  "triggers": [
-   "keep dancing"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090227382384833018"
- },
- {
   "band": "MR",
   "name": "Roots In The Rhythm",
   "triggers": [
@@ -7759,5 +7751,13 @@
    "learn to earn"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102080486424051969"
+ },
+ {
+  "band": "JS",
+  "name": "Keep Dancing",
+  "triggers": [
+   "keep dancing"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102100614213726547"
  }
 ]
