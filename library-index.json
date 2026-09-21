@@ -1802,14 +1802,6 @@
  },
  {
   "band": "MV",
-  "name": "Digerie Dude - Internet We Dreamed Of.",
-  "triggers": [
-   "digerie dude - internet we dreamed of."
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091374934320713954"
- },
- {
-  "band": "MV",
   "name": "Digerie Dude - Early and Right",
   "triggers": [
    "digerie dude - early and right"
@@ -7759,5 +7751,13 @@
    "un-rug-able family"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102030145951256684"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Internet We Dreamed Of.",
+  "triggers": [
+   "digerie dude - internet we dreamed of."
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102050288735596710"
  }
 ]

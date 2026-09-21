@@ -592,14 +592,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Digerie Dude - Internet We Dreamed Of.",
-  "triggers": [
-   "digerie dude - internet we dreamed of."
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091374934320713954",
-  "tag": "$MfT"
- },
- {
   "name": "Digerie Dude - Early and Right",
   "triggers": [
    "digerie dude - early and right"
@@ -1301,6 +1293,14 @@
    "j&n every day is an opportunity."
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102004954332274850",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Digerie Dude - Internet We Dreamed Of.",
+  "triggers": [
+   "digerie dude - internet we dreamed of."
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102050288735596710",
   "tag": "$MfT"
  }
 ]
