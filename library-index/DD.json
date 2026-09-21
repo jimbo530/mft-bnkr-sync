@@ -81,14 +81,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Internet We Dreamed Of",
-  "triggers": [
-   "the internet we dreamed of"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092608079355433287",
-  "tag": "$MfT"
- },
- {
   "name": "Open Mic Internet",
   "triggers": [
    "open mic internet"
@@ -494,6 +486,14 @@
    "(peace in your hands)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101974784321994865",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Internet We Dreamed Of",
+  "triggers": [
+   "the internet we dreamed of"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102055334281986274",
   "tag": "$MfT"
  }
 ]
