@@ -1353,14 +1353,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090121659160166519"
  },
  {
-  "band": "MR",
-  "name": "Un-Rug-Able Family",
-  "triggers": [
-   "un-rug-able family"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090141835922493720"
- },
- {
   "band": "CB",
   "name": "Building for the Bulls",
   "triggers": [
@@ -7759,5 +7751,13 @@
    "shade for tomorrow"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102025112430031049"
+ },
+ {
+  "band": "MR",
+  "name": "Un-Rug-Able Family",
+  "triggers": [
+   "un-rug-able family"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102030145951256684"
  }
 ]

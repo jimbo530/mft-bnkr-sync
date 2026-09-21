@@ -25,14 +25,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Un-Rug-Able Family",
-  "triggers": [
-   "un-rug-able family"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090141835922493720",
-  "tag": "$MfT"
- },
- {
   "name": "Roots In The Rhythm",
   "triggers": [
    "roots in the rhythm"
@@ -438,6 +430,14 @@
    "shade for tomorrow"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102025112430031049",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Un-Rug-Able Family",
+  "triggers": [
+   "un-rug-able family"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102030145951256684",
   "tag": "$MfT"
  }
 ]
