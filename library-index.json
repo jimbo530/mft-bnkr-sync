@@ -1785,14 +1785,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091294392510259616"
  },
  {
-  "band": "MR",
-  "name": "Shade For Tomorrow",
-  "triggers": [
-   "shade for tomorrow"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091309485801222527"
- },
- {
   "band": "EBM",
   "name": "Eternal Harvest",
   "triggers": [
@@ -7759,5 +7751,13 @@
    "j&n every day is an opportunity."
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102004954332274850"
+ },
+ {
+  "band": "MR",
+  "name": "Shade For Tomorrow",
+  "triggers": [
+   "shade for tomorrow"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102025112430031049"
  }
 ]

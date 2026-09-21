@@ -57,14 +57,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Shade For Tomorrow",
-  "triggers": [
-   "shade for tomorrow"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091309485801222527",
-  "tag": "$MfT"
- },
- {
   "name": "We Water Each Other",
   "triggers": [
    "we water each other"
@@ -438,6 +430,14 @@
    "opportunity to be great"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101375819364884896",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Shade For Tomorrow",
+  "triggers": [
+   "shade for tomorrow"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102025112430031049",
   "tag": "$MfT"
  }
 ]
