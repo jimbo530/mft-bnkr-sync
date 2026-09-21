@@ -17,14 +17,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "1000 Futures",
-  "triggers": [
-   "1000 futures"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090871570143064206",
-  "tag": "$MfT"
- },
- {
   "name": "Toast to the Trees",
   "triggers": [
    "toast to the trees"
@@ -374,6 +366,14 @@
    "velvet and valor"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101853991940284507",
+  "tag": "$MfT"
+ },
+ {
+  "name": "1000 Futures",
+  "triggers": [
+   "1000 futures"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101999903375245795",
   "tag": "$MfT"
  }
 ]

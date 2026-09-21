@@ -1649,14 +1649,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090811210258067589"
  },
  {
-  "band": "NN",
-  "name": "1000 Futures",
-  "triggers": [
-   "1000 futures"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090871570143064206"
- },
- {
   "band": "MR",
   "name": "Joy in the Ground",
   "triggers": [
@@ -7759,5 +7751,13 @@
    "dance to defend the earth"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101979777515106363"
+ },
+ {
+  "band": "NN",
+  "name": "1000 Futures",
+  "triggers": [
+   "1000 futures"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101999903375245795"
  }
 ]
