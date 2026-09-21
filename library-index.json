@@ -1610,14 +1610,6 @@
  },
  {
   "band": "JS",
-  "name": "jony sings decentralize",
-  "triggers": [
-   "jony sings decentralize"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090765895496781911"
- },
- {
-  "band": "JS",
   "name": "Dance Until Morning",
   "triggers": [
    "dance until morning"
@@ -7759,5 +7751,13 @@
    "ballinmorre elves forestkids"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102150906032644517"
+ },
+ {
+  "band": "JS",
+  "name": "jony sings decentralize",
+  "triggers": [
+   "jony sings decentralize"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102155939570761948"
  }
 ]

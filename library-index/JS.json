@@ -97,14 +97,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "jony sings decentralize",
-  "triggers": [
-   "jony sings decentralize"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090765895496781911",
-  "tag": "$MfT"
- },
- {
   "name": "Dance Until Morning",
   "triggers": [
    "dance until morning"
@@ -766,6 +758,14 @@
    "move like magic"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102130811939995784",
+  "tag": "$MfT"
+ },
+ {
+  "name": "jony sings decentralize",
+  "triggers": [
+   "jony sings decentralize"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102155939570761948",
   "tag": "$MfT"
  }
 ]
