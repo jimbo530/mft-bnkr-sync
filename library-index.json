@@ -147,20 +147,6 @@
  },
  {
   "band": "ALAN",
-  "name": "The Rules Are the Rules",
-  "triggers": [
-   "the rules are the rules"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079159997607416101",
-  "topics": [
-   "rules",
-   "account safety",
-   "moderation",
-   "x rules"
-  ]
- },
- {
-  "band": "ALAN",
   "name": "Here Building Anyway",
   "triggers": [
    "here building anyway"
@@ -7757,5 +7743,13 @@
    "play for impact"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101823794629300550"
+ },
+ {
+  "band": "ALAN",
+  "name": "The Rules Are the Rules",
+  "triggers": [
+   "the rules are the rules"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101828823234888086"
  }
 ]

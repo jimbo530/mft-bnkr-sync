@@ -15,20 +15,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Rules Are the Rules",
-  "triggers": [
-   "the rules are the rules"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079159997607416101",
-  "topics": [
-   "rules",
-   "account safety",
-   "moderation",
-   "x rules"
-  ],
-  "tag": "$MfT"
- },
- {
   "name": "Here Building Anyway",
   "triggers": [
    "here building anyway"
@@ -130,6 +116,14 @@
    "banker season"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101778463875022867",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Rules Are the Rules",
+  "triggers": [
+   "the rules are the rules"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101828823234888086",
   "tag": "$MfT"
  }
 ]

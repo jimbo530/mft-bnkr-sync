@@ -227,26 +227,6 @@
     "caption": "\"They Gave Me a Link\" — Bongo\n\n$MfT 0x85Dd5183D203CcE70b88234D31f075774AcCC453"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2079159997607416101",
-    "translation": "The Rules Are the Rules",
-    "name": "The Rules Are the Rules",
-    "triggers": [
-      "the rules are the rules"
-    ],
-    "band": "ALAN",
-    "tag": "$MfT",
-    "ca": "0x5e35b494f4941cf6f47d407d93fee66a366daba3",
-    "xPost": "https://x.com/MemeForTrees/status/2079159997607416101",
-    "caption": "\"The Rules Are the Rules\" — Alan-a-Dale\n\n$MfT",
-    "boothCommission": "sg_mrt39nynn0",
-    "topics": [
-      "rules",
-      "account safety",
-      "moderation",
-      "x rules"
-    ]
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2079174697539739889",
     "translation": "Here Building Anyway",
     "name": "Here Building Anyway",
@@ -12595,5 +12575,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2101823794629300550",
     "caption": "\"Play For Impact\" — Myco\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2101828823234888086",
+    "translation": "The Rules Are the Rules",
+    "name": "The Rules Are the Rules",
+    "triggers": [
+      "the rules are the rules"
+    ],
+    "band": "ALAN",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2101828823234888086",
+    "caption": "\"The Rules Are the Rules\" — ALAN\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
