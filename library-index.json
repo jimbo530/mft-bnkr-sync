@@ -1281,14 +1281,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2089960576399126755"
  },
  {
-  "band": "Myco",
-  "name": "Every Day We Grow",
-  "triggers": [
-   "every day we grow"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089980764288868424"
- },
- {
   "band": "MV",
   "name": "Digerie Dude- Bridges not walls",
   "triggers": [
@@ -7751,5 +7743,13 @@
    "elves of ballinmoore — “no turning back”"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101879167407010197"
+ },
+ {
+  "band": "Myco",
+  "name": "Every Day We Grow",
+  "triggers": [
+   "every day we grow"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101899292118044854"
  }
 ]
