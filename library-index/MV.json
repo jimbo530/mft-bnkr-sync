@@ -752,14 +752,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "EBM - Thousand Year Plan",
-  "triggers": [
-   "ebm - thousand year plan"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092950334423400849",
-  "tag": "$MfT"
- },
- {
   "name": "ddd trade route open",
   "triggers": [
    "ddd trade route open"
@@ -1301,6 +1293,14 @@
    "digerie dude - internet we dreamed of."
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102050288735596710",
+  "tag": "$MfT"
+ },
+ {
+  "name": "EBM - Thousand Year Plan",
+  "triggers": [
+   "ebm - thousand year plan"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102105746141757661",
   "tag": "$MfT"
  }
 ]
