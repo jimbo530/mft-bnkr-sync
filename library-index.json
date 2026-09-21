@@ -1593,14 +1593,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090624969528987847"
  },
  {
-  "band": "DD",
-  "name": "(PEACE IN YOUR HANDS)",
-  "triggers": [
-   "(peace in your hands)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090630024139288655"
- },
- {
   "band": "Myco",
   "name": "Liquidity Rain",
   "triggers": [
@@ -7759,5 +7751,13 @@
    "digerie dude - creators economy"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101954660495966514"
+ },
+ {
+  "band": "DD",
+  "name": "(PEACE IN YOUR HANDS)",
+  "triggers": [
+   "(peace in your hands)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101974784321994865"
  }
 ]
