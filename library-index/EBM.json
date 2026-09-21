@@ -310,14 +310,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "ELVES OF BALLINMOORE — “NO TURNING BACK”",
-  "triggers": [
-   "elves of ballinmoore — “no turning back”"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093227117018227194",
-  "tag": "$MfT"
- },
- {
   "name": "Day To Build The Dream",
   "triggers": [
    "day to build the dream"
@@ -859,6 +851,14 @@
    "like, comment, share"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101798601013821786",
+  "tag": "$MfT"
+ },
+ {
+  "name": "ELVES OF BALLINMOORE — “NO TURNING BACK”",
+  "triggers": [
+   "elves of ballinmoore — “no turning back”"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101879167407010197",
   "tag": "$MfT"
  }
 ]

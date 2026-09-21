@@ -2521,14 +2521,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093186885568917761"
  },
  {
-  "band": "EBM",
-  "name": "ELVES OF BALLINMOORE — “NO TURNING BACK”",
-  "triggers": [
-   "elves of ballinmoore — “no turning back”"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093227117018227194"
- },
- {
   "band": "JS",
   "name": "Make Today Count",
   "triggers": [
@@ -7751,5 +7743,13 @@
    "after the winter comes"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101874136096113097"
+ },
+ {
+  "band": "EBM",
+  "name": "ELVES OF BALLINMOORE — “NO TURNING BACK”",
+  "triggers": [
+   "elves of ballinmoore — “no turning back”"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101879167407010197"
  }
 ]
