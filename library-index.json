@@ -1999,14 +1999,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091651708338266474"
  },
  {
-  "band": "Myco",
-  "name": "Play For Impact",
-  "triggers": [
-   "play for impact"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091671872396025901"
- },
- {
   "band": "EBM",
   "name": "Ballinmoore Elves",
   "triggers": [
@@ -7757,5 +7749,13 @@
    "digerie dude - community"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101803663555465431"
+ },
+ {
+  "band": "Myco",
+  "name": "Play For Impact",
+  "triggers": [
+   "play for impact"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101823794629300550"
  }
 ]

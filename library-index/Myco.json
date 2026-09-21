@@ -240,14 +240,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Play For Impact",
-  "triggers": [
-   "play for impact"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091671872396025901",
-  "tag": "$MfT"
- },
- {
   "name": "Move Your Feet, Fund The Forest",
   "triggers": [
    "move your feet, fund the forest"
@@ -861,6 +853,14 @@
    "magic today"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101602315706741138",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Play For Impact",
+  "triggers": [
+   "play for impact"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101823794629300550",
   "tag": "$MfT"
  }
 ]
