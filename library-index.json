@@ -2585,14 +2585,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093448598859960669"
  },
  {
-  "band": "MV",
-  "name": "Dance to Defend The Earth",
-  "triggers": [
-   "dance to defend the earth"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093468740620779893"
- },
- {
   "band": "MR",
   "name": "Water Is Life",
   "triggers": [
@@ -7759,5 +7751,13 @@
    "(peace in your hands)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101974784321994865"
+ },
+ {
+  "band": "MV",
+  "name": "Dance to Defend The Earth",
+  "triggers": [
+   "dance to defend the earth"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2101979777515106363"
  }
 ]
