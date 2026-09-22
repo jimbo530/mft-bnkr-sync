@@ -2033,14 +2033,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2092316115657519182"
  },
  {
-  "band": "JS",
-  "name": "Cellars Sewers And Spells",
-  "triggers": [
-   "cellars sewers and spells"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092346349912027607"
- },
- {
   "band": "MV",
   "name": "Myko - Your Lane",
   "triggers": [
@@ -7759,5 +7751,13 @@
    "love is the power"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102281803318829237"
+ },
+ {
+  "band": "JS",
+  "name": "Cellars Sewers And Spells",
+  "triggers": [
+   "cellars sewers and spells"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102301898627809523"
  }
 ]
