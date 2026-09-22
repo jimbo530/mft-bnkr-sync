@@ -272,14 +272,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Seen when it matters",
-  "triggers": [
-   "seen when it matters"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085440836985073676",
-  "tag": "$MfT"
- },
- {
   "name": "Jony Sings, devil wants my song",
   "triggers": [
    "jony sings, devil wants my song"
@@ -1301,6 +1293,14 @@
    "digerie dude - early and right"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102327108378796362",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Seen when it matters",
+  "triggers": [
+   "seen when it matters"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102332146954162420",
   "tag": "$MfT"
  }
 ]
