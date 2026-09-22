@@ -1993,14 +1993,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2092295978866835666"
  },
  {
-  "band": "MV",
-  "name": "herbs and rimes",
-  "triggers": [
-   "herbs and rimes"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092300968373223534"
- },
- {
   "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “BASE BASE BASE”",
   "triggers": [
@@ -7759,5 +7751,13 @@
    "seen when it matters"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102332146954162420"
+ },
+ {
+  "band": "MV",
+  "name": "herbs and rimes",
+  "triggers": [
+   "herbs and rimes"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102352271300293086"
  }
 ]

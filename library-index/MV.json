@@ -616,14 +616,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "herbs and rimes",
-  "triggers": [
-   "herbs and rimes"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092300968373223534",
-  "tag": "$MfT"
- },
- {
   "name": "Myko - Your Lane",
   "triggers": [
    "myko - your lane"
@@ -1301,6 +1293,14 @@
    "seen when it matters"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102332146954162420",
+  "tag": "$MfT"
+ },
+ {
+  "name": "herbs and rimes",
+  "triggers": [
+   "herbs and rimes"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102352271300293086",
   "tag": "$MfT"
  }
 ]
