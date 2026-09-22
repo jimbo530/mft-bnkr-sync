@@ -1314,14 +1314,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090182061298491699"
  },
  {
-  "band": "Myco",
-  "name": "Bloom on the Blockchain",
-  "triggers": [
-   "bloom on the blockchain"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090202233941991652"
- },
- {
   "band": "MR",
   "name": "Roots In The Rhythm",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "grow with every play"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102483130003198418"
+ },
+ {
+  "band": "Myco",
+  "name": "Bloom on the Blockchain",
+  "triggers": [
+   "bloom on the blockchain"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102503288335708377"
  }
 ]
