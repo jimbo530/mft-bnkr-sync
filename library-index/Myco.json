@@ -79,14 +79,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Agent Army",
-  "triggers": [
-   "agent army"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085481141058900147",
-  "tag": "$MfT"
- },
- {
   "name": "Two Currents, One Flow",
   "triggers": [
    "two currents, one flow"
@@ -861,6 +853,14 @@
    "til we’re done"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102276770657349708",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Agent Army",
+  "triggers": [
+   "agent army"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102357312434323879",
   "tag": "$MfT"
  }
 ]

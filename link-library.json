@@ -1503,19 +1503,6 @@
     "caption": "🎵 \"We Are BASED\"\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2085481141058900147",
-    "translation": "Agent Army",
-    "name": "Agent Army",
-    "triggers": [
-      "agent army"
-    ],
-    "band": "Myco",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2085481141058900147",
-    "caption": "🎵 \"Agent Army\" — Myco\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2081756585919951279",
     "translation": "Un Rug Able",
     "name": "Un Rug Able",
@@ -12601,5 +12588,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2102352271300293086",
     "caption": "\"herbs and rimes\"\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2102357312434323879",
+    "translation": "Agent Army",
+    "name": "Agent Army",
+    "triggers": [
+      "agent army"
+    ],
+    "band": "Myco",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2102357312434323879",
+    "caption": "\"Agent Army\" — Myco\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

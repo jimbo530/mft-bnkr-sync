@@ -938,14 +938,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2081811906235441322"
  },
  {
-  "band": "Myco",
-  "name": "Agent Army",
-  "triggers": [
-   "agent army"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085481141058900147"
- },
- {
   "band": "EBM",
   "name": "Un Rug Able",
   "triggers": [
@@ -7759,5 +7751,13 @@
    "herbs and rimes"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102352271300293086"
+ },
+ {
+  "band": "Myco",
+  "name": "Agent Army",
+  "triggers": [
+   "agent army"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102357312434323879"
  }
 ]
