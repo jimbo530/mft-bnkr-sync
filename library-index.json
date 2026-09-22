@@ -1482,14 +1482,6 @@
  },
  {
   "band": "MV",
-  "name": "Work now, dance later - Moon Rasta",
-  "triggers": [
-   "work now, dance later - moon rasta"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090504201784672495"
- },
- {
-  "band": "MV",
   "name": "Isle of 1,000 kingdoms Jasmine",
   "triggers": [
    "isle of 1,000 kingdoms jasmine"
@@ -7759,5 +7751,13 @@
    "you can keep the crowns"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102231430977744914"
+ },
+ {
+  "band": "MV",
+  "name": "Work now, dance later - Moon Rasta",
+  "triggers": [
+   "work now, dance later - moon rasta"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102251605122777130"
  }
 ]
