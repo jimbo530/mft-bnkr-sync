@@ -496,14 +496,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Natalie 1000 futures",
-  "triggers": [
-   "natalie 1000 futures"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090987336498618500",
-  "tag": "$MfT"
- },
- {
   "name": "Digerie Dude-  Tender Resilience.",
   "triggers": [
    "digerie dude-  tender resilience."
@@ -1301,6 +1293,14 @@
    "spin that planet round"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102478063531344340",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Natalie 1000 futures",
+  "triggers": [
+   "natalie 1000 futures"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102533462490046770",
   "tag": "$MfT"
  }
 ]
