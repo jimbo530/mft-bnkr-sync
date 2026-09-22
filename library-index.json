@@ -1322,14 +1322,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090202233941991652"
  },
  {
-  "band": "MV",
-  "name": "Spin that planet round",
-  "triggers": [
-   "spin that planet round"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090207217685283051"
- },
- {
   "band": "MR",
   "name": "Roots In The Rhythm",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "elves of ballinmoore — “gold to green (o"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102452935481319826"
+ },
+ {
+  "band": "MV",
+  "name": "Spin that planet round",
+  "triggers": [
+   "spin that planet round"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102478063531344340"
  }
 ]
