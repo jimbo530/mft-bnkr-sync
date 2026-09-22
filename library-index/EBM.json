@@ -238,14 +238,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "ELVES OF BALLINMOORE — “GOLD TO GREEN (O",
-  "triggers": [
-   "elves of ballinmoore — “gold to green (o"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091837964393361526",
-  "tag": "$MfT"
- },
- {
   "name": "All-Time High",
   "triggers": [
    "all-time high"
@@ -859,6 +851,14 @@
    "you make the magic happen"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102402610477052197",
+  "tag": "$MfT"
+ },
+ {
+  "name": "ELVES OF BALLINMOORE — “GOLD TO GREEN (O",
+  "triggers": [
+   "elves of ballinmoore — “gold to green (o"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102452935481319826",
   "tag": "$MfT"
  }
 ]

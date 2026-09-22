@@ -1787,14 +1787,6 @@
  },
  {
   "band": "EBM",
-  "name": "ELVES OF BALLINMOORE — “GOLD TO GREEN (O",
-  "triggers": [
-   "elves of ballinmoore — “gold to green (o"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091837964393361526"
- },
- {
-  "band": "EBM",
   "name": "All-Time High",
   "triggers": [
    "all-time high"
@@ -7752,5 +7744,13 @@
    "we water each other"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102427761059025030"
+ },
+ {
+  "band": "EBM",
+  "name": "ELVES OF BALLINMOORE — “GOLD TO GREEN (O",
+  "triggers": [
+   "elves of ballinmoore — “gold to green (o"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102452935481319826"
  }
 ]
