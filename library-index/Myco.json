@@ -152,14 +152,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Til We’re Done",
-  "triggers": [
-   "til we’re done"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090076349721465211",
-  "tag": "$MfT"
- },
- {
   "name": "Bloom on the Blockchain",
   "triggers": [
    "bloom on the blockchain"
@@ -861,6 +853,14 @@
    "every morning, mic hot"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102125806591803485",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Til We’re Done",
+  "triggers": [
+   "til we’re done"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102276770657349708",
   "tag": "$MfT"
  }
 ]

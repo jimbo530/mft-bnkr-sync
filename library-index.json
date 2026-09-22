@@ -1321,14 +1321,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090061253381169293"
  },
  {
-  "band": "Myco",
-  "name": "Til We’re Done",
-  "triggers": [
-   "til we’re done"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090076349721465211"
- },
- {
   "band": "MV",
   "name": "Natalie power of a meme",
   "triggers": [
@@ -7759,5 +7751,13 @@
    "jony sings - for the builders"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102256644109349334"
+ },
+ {
+  "band": "Myco",
+  "name": "Til We’re Done",
+  "triggers": [
+   "til we’re done"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102276770657349708"
  }
 ]
