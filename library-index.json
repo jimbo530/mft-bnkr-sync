@@ -1474,14 +1474,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090690431688319118"
  },
  {
-  "band": "EBM",
-  "name": "Drop The Memes",
-  "triggers": [
-   "drop the memes"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090730649783005549"
- },
- {
   "band": "JS",
   "name": "jony sings blockchain boogie",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "bloom on the blockchain"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102503288335708377"
+ },
+ {
+  "band": "EBM",
+  "name": "Drop The Memes",
+  "triggers": [
+   "drop the memes"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102528428264030684"
  }
 ]

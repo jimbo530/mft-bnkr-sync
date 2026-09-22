@@ -134,14 +134,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Drop The Memes",
-  "triggers": [
-   "drop the memes"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090730649783005549",
-  "tag": "$MfT"
- },
- {
   "name": "ELVES OF BALLINMOORE — “INTERNET ROOTS",
   "triggers": [
    "elves of ballinmoore — “internet roots"
@@ -859,6 +851,14 @@
    "elves of ballinmoore — “gold to green (o"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102452935481319826",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Drop The Memes",
+  "triggers": [
+   "drop the memes"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102528428264030684",
   "tag": "$MfT"
  }
 ]
