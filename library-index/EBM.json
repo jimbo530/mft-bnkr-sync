@@ -302,14 +302,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "You Make The Magic Happen",
-  "triggers": [
-   "you make the magic happen"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093030816582361384",
-  "tag": "$MfT"
- },
- {
   "name": "Day To Build The Dream",
   "triggers": [
    "day to build the dream"
@@ -859,6 +851,14 @@
    "elves of ballinmoore — “no turning back”"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101879167407010197",
+  "tag": "$MfT"
+ },
+ {
+  "name": "You Make The Magic Happen",
+  "triggers": [
+   "you make the magic happen"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102402610477052197",
   "tag": "$MfT"
  }
 ]

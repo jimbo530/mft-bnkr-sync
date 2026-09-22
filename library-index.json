@@ -2154,14 +2154,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093010683143090659"
  },
  {
-  "band": "EBM",
-  "name": "You Make The Magic Happen",
-  "triggers": [
-   "you make the magic happen"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093030816582361384"
- },
- {
   "band": "MV",
   "name": "EBM - We Are BASED",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "here building anyway"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102382463418880420"
+ },
+ {
+  "band": "EBM",
+  "name": "You Make The Magic Happen",
+  "triggers": [
+   "you make the magic happen"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102402610477052197"
  }
 ]
