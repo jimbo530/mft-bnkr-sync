@@ -15,21 +15,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Here Building Anyway",
-  "triggers": [
-   "here building anyway"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079174697539739889",
-  "topics": [
-   "building",
-   "builders",
-   "late",
-   "og",
-   "shipping"
-  ],
-  "tag": "$MfT"
- },
- {
   "name": "Burgers Feed the People",
   "triggers": [
    "burgers feed the people"
@@ -132,6 +117,14 @@
    "for bankrbot — gg3p"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101924403265052691",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Here Building Anyway",
+  "triggers": [
+   "here building anyway"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102382463418880420",
   "tag": "$MfT"
  }
 ]

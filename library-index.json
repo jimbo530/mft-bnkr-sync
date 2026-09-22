@@ -146,21 +146,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2079134240814359004"
  },
  {
-  "band": "ALAN",
-  "name": "Here Building Anyway",
-  "triggers": [
-   "here building anyway"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079174697539739889",
-  "topics": [
-   "building",
-   "builders",
-   "late",
-   "og",
-   "shipping"
-  ]
- },
- {
   "band": "EBM",
   "name": "Street Mint",
   "triggers": [
@@ -7759,5 +7744,13 @@
    "digerie dude - build it anyway"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102377439674446175"
+ },
+ {
+  "band": "ALAN",
+  "name": "Here Building Anyway",
+  "triggers": [
+   "here building anyway"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102382463418880420"
  }
 ]
