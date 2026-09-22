@@ -1994,19 +1994,6 @@
     "caption": "\"Blue Marble Rock\"\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2089935413418864786",
-    "translation": "Love Is The Power",
-    "name": "Love Is The Power",
-    "triggers": [
-      "love is the power"
-    ],
-    "band": "MR",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2089935413418864786",
-    "caption": "\"Love Is The Power\" — Moon Rasta\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2089940455345590649",
     "translation": "For The Builders",
     "name": "For The Builders",
@@ -12601,5 +12588,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2102276770657349708",
     "caption": "\"Til We’re Done\" — Myco\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2102281803318829237",
+    "translation": "Love Is The Power",
+    "name": "Love Is The Power",
+    "triggers": [
+      "love is the power"
+    ],
+    "band": "MR",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2102281803318829237",
+    "caption": "\"Love Is The Power\" — Moon Rasta\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

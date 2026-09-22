@@ -1249,14 +1249,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2089920321130226026"
  },
  {
-  "band": "MR",
-  "name": "Love Is The Power",
-  "triggers": [
-   "love is the power"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089935413418864786"
- },
- {
   "band": "JS",
   "name": "For The Builders",
   "triggers": [
@@ -7759,5 +7751,13 @@
    "til we’re done"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102276770657349708"
+ },
+ {
+  "band": "MR",
+  "name": "Love Is The Power",
+  "triggers": [
+   "love is the power"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102281803318829237"
  }
 ]
