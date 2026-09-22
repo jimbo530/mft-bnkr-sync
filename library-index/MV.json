@@ -552,14 +552,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "treegens do what you please for the trees",
-  "triggers": [
-   "treegens do what you please for the trees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091233973464625212",
-  "tag": "$MfT"
- },
- {
   "name": "carry the light, G.O.A.T.",
   "triggers": [
    "carry the light, g.o.a.t."
@@ -1301,6 +1293,14 @@
    "digerie dude - plastic in the tide"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102206308506026483",
+  "tag": "$MfT"
+ },
+ {
+  "name": "treegens do what you please for the trees",
+  "triggers": [
+   "treegens do what you please for the trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102226480159711395",
   "tag": "$MfT"
  }
 ]

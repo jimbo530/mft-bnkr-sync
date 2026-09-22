@@ -1697,14 +1697,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091213858044043408"
  },
  {
-  "band": "MV",
-  "name": "treegens do what you please for the trees",
-  "triggers": [
-   "treegens do what you please for the trees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091233973464625212"
- },
- {
   "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “TREES UP, BAGS U",
   "triggers": [
@@ -7759,5 +7751,13 @@
    "digerie dude - plastic in the tide"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102206308506026483"
+ },
+ {
+  "band": "MV",
+  "name": "treegens do what you please for the trees",
+  "triggers": [
+   "treegens do what you please for the trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102226480159711395"
  }
 ]
