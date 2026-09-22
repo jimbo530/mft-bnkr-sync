@@ -41,14 +41,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "We Water Each Other",
-  "triggers": [
-   "we water each other"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091510764875989429",
-  "tag": "$MfT"
- },
- {
   "name": "I Love Being Alive",
   "triggers": [
    "i love being alive"
@@ -438,6 +430,14 @@
    "love is the power"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102281803318829237",
+  "tag": "$MfT"
+ },
+ {
+  "name": "We Water Each Other",
+  "triggers": [
+   "we water each other"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102427761059025030",
   "tag": "$MfT"
  }
 ]
