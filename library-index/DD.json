@@ -49,14 +49,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Zoom out",
-  "triggers": [
-   "zoom out"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090408565236175136",
-  "tag": "$MfT"
- },
- {
   "name": "Signal in the Noise",
   "triggers": [
    "signal in the noise"
@@ -494,6 +486,14 @@
    "nations as one"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102181160335908993",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Zoom out",
+  "triggers": [
+   "zoom out"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102306924418977860",
   "tag": "$MfT"
  }
 ]

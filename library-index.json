@@ -1425,14 +1425,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090388443155030255"
  },
  {
-  "band": "DD",
-  "name": "Zoom out",
-  "triggers": [
-   "zoom out"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090408565236175136"
- },
- {
   "band": "MV",
   "name": "MC - Scratch the Earth",
   "triggers": [
@@ -7759,5 +7751,13 @@
    "cellars sewers and spells"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102301898627809523"
+ },
+ {
+  "band": "DD",
+  "name": "Zoom out",
+  "triggers": [
+   "zoom out"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102306924418977860"
  }
 ]
