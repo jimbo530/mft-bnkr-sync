@@ -1386,14 +1386,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090383382437900510"
  },
  {
-  "band": "Myco",
-  "name": "Money For Trees",
-  "triggers": [
-   "money for trees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090388443155030255"
- },
- {
   "band": "MV",
   "name": "MC - Scratch the Earth",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "you make the magic happen"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102402610477052197"
+ },
+ {
+  "band": "Myco",
+  "name": "Money For Trees",
+  "triggers": [
+   "money for trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102407659219517620"
  }
 ]
