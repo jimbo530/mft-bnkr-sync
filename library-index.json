@@ -1689,14 +1689,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091193695903068615"
  },
  {
-  "band": "JS",
-  "name": "You Can Keep The Crowns",
-  "triggers": [
-   "you can keep the crowns"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091213858044043408"
- },
- {
   "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “TREES UP, BAGS U",
   "triggers": [
@@ -7759,5 +7751,13 @@
    "treegens do what you please for the trees"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102226480159711395"
+ },
+ {
+  "band": "JS",
+  "name": "You Can Keep The Crowns",
+  "triggers": [
+   "you can keep the crowns"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102231430977744914"
  }
 ]
