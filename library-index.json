@@ -1353,14 +1353,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090146947457827160"
  },
  {
-  "band": "JS",
-  "name": "Jony Sings - For the Builders",
-  "triggers": [
-   "jony sings - for the builders"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090166996847431973"
- },
- {
   "band": "MV",
   "name": "EBM- DOUBT CANT TOUCH US.",
   "triggers": [
@@ -7759,5 +7751,13 @@
    "work now, dance later - moon rasta"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102251605122777130"
+ },
+ {
+  "band": "JS",
+  "name": "Jony Sings - For the Builders",
+  "triggers": [
+   "jony sings - for the builders"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102256644109349334"
  }
 ]
