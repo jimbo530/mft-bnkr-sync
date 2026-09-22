@@ -1650,14 +1650,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091395026106392942"
  },
  {
-  "band": "Myco",
-  "name": "Grow With Every Play",
-  "triggers": [
-   "grow with every play"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091410153727746301"
- },
- {
   "band": "NN",
   "name": "It Will Change Your Life",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "spin that planet round"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102478063531344340"
+ },
+ {
+  "band": "Myco",
+  "name": "Grow With Every Play",
+  "triggers": [
+   "grow with every play"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102483130003198418"
  }
 ]
