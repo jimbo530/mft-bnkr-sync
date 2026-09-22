@@ -496,14 +496,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Digerie Dude - Plastic in the tide",
-  "triggers": [
-   "digerie dude - plastic in the tide"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090509249738592600",
-  "tag": "$MfT"
- },
- {
   "name": "Isle of 1,000 kingdoms Jasmine",
   "triggers": [
    "isle of 1,000 kingdoms jasmine"
@@ -1301,6 +1293,14 @@
    "pass it on natilie"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102201283276873811",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Digerie Dude - Plastic in the tide",
+  "triggers": [
+   "digerie dude - plastic in the tide"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102206308506026483",
   "tag": "$MfT"
  }
 ]
