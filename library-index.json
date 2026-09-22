@@ -1753,14 +1753,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091596372768063616"
  },
  {
-  "band": "MV",
-  "name": "Digerie Dude - Build it Anyway",
-  "triggers": [
-   "digerie dude - build it anyway"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091631606565839048"
- },
- {
   "band": "JS",
   "name": "Circulate Good",
   "triggers": [
@@ -7759,5 +7751,13 @@
    "agent army"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102357312434323879"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Build it Anyway",
+  "triggers": [
+   "digerie dude - build it anyway"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102377439674446175"
  }
 ]

@@ -576,14 +576,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Digerie Dude - Build it Anyway",
-  "triggers": [
-   "digerie dude - build it anyway"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091631606565839048",
-  "tag": "$MfT"
- },
- {
   "name": "Digerie Dude - Signal in the Noise",
   "triggers": [
    "digerie dude - signal in the noise"
@@ -1301,6 +1293,14 @@
    "herbs and rimes"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102352271300293086",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Digerie Dude - Build it Anyway",
+  "triggers": [
+   "digerie dude - build it anyway"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102377439674446175",
   "tag": "$MfT"
  }
 ]
