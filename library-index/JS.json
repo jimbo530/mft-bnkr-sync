@@ -97,14 +97,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Jony Sings, Mangrove",
-  "triggers": [
-   "jony sings, mangrove"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090906807594094658",
-  "tag": "$MfT"
- },
- {
   "name": "jony sings roots and rythm",
   "triggers": [
    "jony sings roots and rythm"
@@ -766,6 +758,14 @@
    "make today count"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102880749858763254",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Jony Sings, Mangrove",
+  "triggers": [
+   "jony sings, mangrove"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102905877527155065",
   "tag": "$MfT"
  }
 ]
