@@ -1970,14 +1970,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093242225496887411"
  },
  {
-  "band": "JS",
-  "name": "Jony Sings move like magic",
-  "triggers": [
-   "jony sings move like magic"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093247286243394015"
- },
- {
   "band": "MV",
   "name": "Digerie Dude - I endure",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "natalie power of a meme"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102835466647081146"
+ },
+ {
+  "band": "JS",
+  "name": "Jony Sings move like magic",
+  "triggers": [
+   "jony sings move like magic"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102855580217946375"
  }
 ]
