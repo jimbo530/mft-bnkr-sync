@@ -1362,14 +1362,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090363231835484523"
  },
  {
-  "band": "CB",
-  "name": "Born on Chain",
-  "triggers": [
-   "born on chain"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090383382437900510"
- },
- {
   "band": "MV",
   "name": "MC - Scratch the Earth",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "open mic internet"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102704580299575797"
+ },
+ {
+  "band": "CB",
+  "name": "Born on Chain",
+  "triggers": [
+   "born on chain"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102709626638639357"
  }
 ]
