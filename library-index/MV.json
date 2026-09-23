@@ -480,14 +480,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Digerie Dude- We Grow",
-  "triggers": [
-   "digerie dude- we grow"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090624969528987847",
-  "tag": "$MfT"
- },
- {
   "name": "Digerie Dude-  Tender Resilience.",
   "triggers": [
    "digerie dude-  tender resilience."
@@ -1301,6 +1293,14 @@
    "digerie dude - quite revolution of love"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102558587943854290",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Digerie Dude- We Grow",
+  "triggers": [
+   "digerie dude- we grow"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102583789037785514",
   "tag": "$MfT"
  }
 ]

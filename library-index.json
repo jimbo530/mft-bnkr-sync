@@ -1434,14 +1434,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090604818574291346"
  },
  {
-  "band": "MV",
-  "name": "Digerie Dude- We Grow",
-  "triggers": [
-   "digerie dude- we grow"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090624969528987847"
- },
- {
   "band": "Myco",
   "name": "Liquidity Rain",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "make some magic"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102578757785571623"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude- We Grow",
+  "triggers": [
+   "digerie dude- we grow"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102583789037785514"
  }
 ]
