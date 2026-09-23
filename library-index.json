@@ -1570,14 +1570,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091249055166759350"
  },
  {
-  "band": "MV",
-  "name": "carry the light, G.O.A.T.",
-  "triggers": [
-   "carry the light, g.o.a.t."
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091294392510259616"
- },
- {
   "band": "EBM",
   "name": "Eternal Harvest",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "digerie dude- we grow"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102583789037785514"
+ },
+ {
+  "band": "MV",
+  "name": "carry the light, G.O.A.T.",
+  "triggers": [
+   "carry the light, g.o.a.t."
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102603923441729836"
  }
 ]

@@ -2519,19 +2519,6 @@
     "caption": "\"ELVES OF BALLINMOORE — “TREES UP, BAGS U\" — Elves of Ballinmoore\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2091294392510259616",
-    "translation": "carry the light, G.O.A.T.",
-    "name": "carry the light, G.O.A.T.",
-    "triggers": [
-      "carry the light, g.o.a.t."
-    ],
-    "band": "MV",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2091294392510259616",
-    "caption": "\"carry the light, G.O.A.T.\"\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2091329621690105870",
     "translation": "Eternal Harvest",
     "name": "Eternal Harvest",
@@ -12593,5 +12580,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2102583789037785514",
     "caption": "\"Digerie Dude- We Grow\"\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2102603923441729836",
+    "translation": "carry the light, G.O.A.T.",
+    "name": "carry the light, G.O.A.T.",
+    "triggers": [
+      "carry the light, g.o.a.t."
+    ],
+    "band": "MV",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2102603923441729836",
+    "caption": "\"carry the light, G.O.A.T.\"\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
