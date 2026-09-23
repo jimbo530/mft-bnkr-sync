@@ -2090,14 +2090,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093045953070575889"
  },
  {
-  "band": "MV",
-  "name": "Digerie Dude - Quite Revolution of Love",
-  "triggers": [
-   "digerie dude - quite revolution of love"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093066038447382709"
- },
- {
   "band": "CB",
   "name": "Digerie Dude - Zoom Out",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "digerie dude - permanent"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102553597670002827"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Quite Revolution of Love",
+  "triggers": [
+   "digerie dude - quite revolution of love"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102558587943854290"
  }
 ]

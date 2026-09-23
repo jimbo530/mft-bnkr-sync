@@ -672,14 +672,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Digerie Dude - Quite Revolution of Love",
-  "triggers": [
-   "digerie dude - quite revolution of love"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093066038447382709",
-  "tag": "$MfT"
- },
- {
   "name": "Thanks for being here",
   "triggers": [
    "thanks for being here"
@@ -1301,6 +1293,14 @@
    "digerie dude - permanent"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102553597670002827",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Digerie Dude - Quite Revolution of Love",
+  "triggers": [
+   "digerie dude - quite revolution of love"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102558587943854290",
   "tag": "$MfT"
  }
 ]
