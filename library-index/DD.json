@@ -65,14 +65,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Open Mic Internet",
-  "triggers": [
-   "open mic internet"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092904979270873569",
-  "tag": "$MfT"
- },
- {
   "name": "Kind Folk (In the Strangest Places)",
   "triggers": [
    "kind folk (in the strangest places)"
@@ -494,6 +486,14 @@
    "zoom out"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102306924418977860",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Open Mic Internet",
+  "triggers": [
+   "open mic internet"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102704580299575797",
   "tag": "$MfT"
  }
 ]

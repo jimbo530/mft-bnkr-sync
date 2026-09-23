@@ -1970,14 +1970,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2092884847496667205"
  },
  {
-  "band": "DD",
-  "name": "Open Mic Internet",
-  "triggers": [
-   "open mic internet"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092904979270873569"
- },
- {
   "band": "MV",
   "name": "ddd trade route open",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "go do something nice"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102684453180965121"
+ },
+ {
+  "band": "DD",
+  "name": "Open Mic Internet",
+  "triggers": [
+   "open mic internet"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102704580299575797"
  }
 ]
