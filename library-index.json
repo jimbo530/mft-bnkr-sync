@@ -1531,14 +1531,6 @@
  },
  {
   "band": "EBM",
-  "name": "ELVES OF BALLINMOORE — “TREES UP, BAGS U",
-  "triggers": [
-   "elves of ballinmoore — “trees up, bags u"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091249055166759350"
- },
- {
-  "band": "EBM",
   "name": "Eternal Harvest",
   "triggers": [
    "eternal harvest"
@@ -7752,5 +7744,13 @@
    "someone bet on me"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102805241569648769"
+ },
+ {
+  "band": "EBM",
+  "name": "ELVES OF BALLINMOORE — “TREES UP, BAGS U",
+  "triggers": [
+   "elves of ballinmoore — “trees up, bags u"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102810249761530239"
  }
 ]
