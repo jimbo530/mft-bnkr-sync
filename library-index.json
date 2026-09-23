@@ -1322,14 +1322,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090282750318104794"
  },
  {
-  "band": "MR",
-  "name": "Work Now Dance Later vid",
-  "triggers": [
-   "work now dance later vid"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090302873049456947"
- },
- {
   "band": "MV",
   "name": "Myko - Listen Close",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "jony sings, dance until morning"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102759948505522582"
+ },
+ {
+  "band": "MR",
+  "name": "Work Now Dance Later vid",
+  "triggers": [
+   "work now dance later vid"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102780074080530494"
  }
 ]

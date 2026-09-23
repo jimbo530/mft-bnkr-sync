@@ -25,14 +25,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Work Now Dance Later vid",
-  "triggers": [
-   "work now dance later vid"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090302873049456947",
-  "tag": "$MfT"
- },
- {
   "name": "Joy in the Ground",
   "triggers": [
    "joy in the ground"
@@ -438,6 +430,14 @@
    "we water each other"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102427761059025030",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Work Now Dance Later vid",
+  "triggers": [
+   "work now dance later vid"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102780074080530494",
   "tag": "$MfT"
  }
 ]
