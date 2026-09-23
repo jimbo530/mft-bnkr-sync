@@ -2272,19 +2272,6 @@
     "caption": "\"ELVES OF BALLINMOORE — “YUCKY DUCKS x TR\" — Elves of Ballinmoore\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2090584738679365933",
-    "translation": "Digerie Dude - Permanent",
-    "name": "Digerie Dude - Permanent",
-    "triggers": [
-      "digerie dude - permanent"
-    ],
-    "band": "MV",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2090584738679365933",
-    "caption": "\"Digerie Dude - Permanent\"\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2090589729821434160",
     "translation": "They Follow US",
     "name": "They Follow US",
@@ -12593,5 +12580,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2102533462490046770",
     "caption": "\"Natalie 1000 futures\"\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2102553597670002827",
+    "translation": "Digerie Dude - Permanent",
+    "name": "Digerie Dude - Permanent",
+    "triggers": [
+      "digerie dude - permanent"
+    ],
+    "band": "MV",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2102553597670002827",
+    "caption": "\"Digerie Dude - Permanent\"\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

@@ -1418,14 +1418,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090569601453105413"
  },
  {
-  "band": "MV",
-  "name": "Digerie Dude - Permanent",
-  "triggers": [
-   "digerie dude - permanent"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090584738679365933"
- },
- {
   "band": "CB",
   "name": "They Follow US",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "natalie 1000 futures"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102533462490046770"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Permanent",
+  "triggers": [
+   "digerie dude - permanent"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102553597670002827"
  }
 ]
