@@ -1915,14 +1915,6 @@
  },
  {
   "band": "MV",
-  "name": "Lighter than before",
-  "triggers": [
-   "lighter than before"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092648342744449430"
- },
- {
-  "band": "MV",
   "name": "Digerie Dude - Crown of Silence",
   "triggers": [
    "digerie dude - crown of silence"
@@ -7752,5 +7744,13 @@
    "move your feet, fund the forest"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102608970024145086"
+ },
+ {
+  "band": "MV",
+  "name": "Lighter than before",
+  "triggers": [
+   "lighter than before"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102629092554154483"
  }
 ]

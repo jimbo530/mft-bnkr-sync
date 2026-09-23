@@ -584,14 +584,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Lighter than before",
-  "triggers": [
-   "lighter than before"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092648342744449430",
-  "tag": "$MfT"
- },
- {
   "name": "Digerie Dude - Crown of Silence",
   "triggers": [
    "digerie dude - crown of silence"
@@ -1301,6 +1293,14 @@
    "carry the light, g.o.a.t."
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102603923441729836",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Lighter than before",
+  "triggers": [
+   "lighter than before"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102629092554154483",
   "tag": "$MfT"
  }
 ]
