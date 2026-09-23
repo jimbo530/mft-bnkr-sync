@@ -1954,14 +1954,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093186885568917761"
  },
  {
-  "band": "JS",
-  "name": "Make Today Count",
-  "triggers": [
-   "make today count"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093242225496887411"
- },
- {
   "band": "MV",
   "name": "Digerie Dude - I endure",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "ddd trade route open"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102860555153261024"
+ },
+ {
+  "band": "JS",
+  "name": "Make Today Count",
+  "triggers": [
+   "make today count"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102880749858763254"
  }
 ]
