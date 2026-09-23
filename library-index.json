@@ -1274,14 +1274,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090061253381169293"
  },
  {
-  "band": "MV",
-  "name": "Natalie power of a meme",
-  "triggers": [
-   "natalie power of a meme"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090081411168448995"
- },
- {
   "band": "CB",
   "name": "Signal in the silence",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "elves of ballinmoore — “base base base”"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102830375894434178"
+ },
+ {
+  "band": "MV",
+  "name": "Natalie power of a meme",
+  "triggers": [
+   "natalie power of a meme"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102835466647081146"
  }
 ]
