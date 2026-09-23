@@ -2162,14 +2162,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093423401167728775"
  },
  {
-  "band": "Myco",
-  "name": "Much Love, Friends",
-  "triggers": [
-   "much love, friends"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093428430872211890"
- },
- {
   "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “DOUBT CAN’T TOUC",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "living it up"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102654251277132020"
+ },
+ {
+  "band": "Myco",
+  "name": "Much Love, Friends",
+  "triggers": [
+   "much love, friends"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102659286597829036"
  }
 ]
