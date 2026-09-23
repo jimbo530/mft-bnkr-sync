@@ -1,13 +1,5 @@
 [
  {
-  "name": "Someone Bet on Me",
-  "triggers": [
-   "someone bet on me"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088853331846303784",
-  "tag": "$MfT"
- },
- {
   "name": "Turn The Wheel",
   "triggers": [
    "turn the wheel"
@@ -70,6 +62,14 @@
    "crawls back singing"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101249984674820473",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Someone Bet on Me",
+  "triggers": [
+   "someone bet on me"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102805241569648769",
   "tag": "$MfT"
  }
 ]

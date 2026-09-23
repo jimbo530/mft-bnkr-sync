@@ -1003,14 +1003,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2088813077474996349"
  },
  {
-  "band": "Gurdy",
-  "name": "Someone Bet on Me",
-  "triggers": [
-   "someone bet on me"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2088853331846303784"
- },
- {
   "band": "Myco",
   "name": "Mycelium Never Empties",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "digerie dude - resilient rain plant a tree"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102785117546594731"
+ },
+ {
+  "band": "Gurdy",
+  "name": "Someone Bet on Me",
+  "triggers": [
+   "someone bet on me"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102805241569648769"
  }
 ]
