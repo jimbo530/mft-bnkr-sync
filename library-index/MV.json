@@ -600,14 +600,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Digerie Dude - Resilient Rain Plant a Tree",
-  "triggers": [
-   "digerie dude - resilient rain plant a tree"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092829527483318460",
-  "tag": "$MfT"
- },
- {
   "name": "Water Each Other - Moon Rasta",
   "triggers": [
    "water each other - moon rasta"
@@ -1301,6 +1293,14 @@
    "lighter than before"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102629092554154483",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Digerie Dude - Resilient Rain Plant a Tree",
+  "triggers": [
+   "digerie dude - resilient rain plant a tree"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102785117546594731",
   "tag": "$MfT"
  }
 ]
