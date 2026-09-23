@@ -1874,14 +1874,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2092562785536196958"
  },
  {
-  "band": "Myco",
-  "name": "Go Do Something Nice",
-  "triggers": [
-   "go do something nice"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092603040498872434"
- },
- {
   "band": "JS",
   "name": "Jony Sings, Jaguars",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "mean green meme team"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102679425405907161"
+ },
+ {
+  "band": "Myco",
+  "name": "Go Do Something Nice",
+  "triggers": [
+   "go do something nice"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102684453180965121"
  }
 ]

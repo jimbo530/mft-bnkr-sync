@@ -3013,19 +3013,6 @@
     "caption": "\"Guardians of the Gate   Jasmine\"\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2092603040498872434",
-    "translation": "Go Do Something Nice",
-    "name": "Go Do Something Nice",
-    "triggers": [
-      "go do something nice"
-    ],
-    "band": "Myco",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2092603040498872434",
-    "caption": "\"Go Do Something Nice\" — Myco\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2092623138995511725",
     "translation": "Jony Sings, Jaguars",
     "name": "Jony Sings, Jaguars",
@@ -12593,5 +12580,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2102679425405907161",
     "caption": "\"Mean Green Meme Team\" — Elves of Ballinmoore\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2102684453180965121",
+    "translation": "Go Do Something Nice",
+    "name": "Go Do Something Nice",
+    "triggers": [
+      "go do something nice"
+    ],
+    "band": "Myco",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2102684453180965121",
+    "caption": "\"Go Do Something Nice\" — Myco\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
