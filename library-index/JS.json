@@ -105,14 +105,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Living It Up",
-  "triggers": [
-   "living it up"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091027647551692896",
-  "tag": "$MfT"
- },
- {
   "name": "jony sings roots and rythm",
   "triggers": [
    "jony sings roots and rythm"
@@ -766,6 +758,14 @@
    "cellars sewers and spells"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102301898627809523",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Living It Up",
+  "triggers": [
+   "living it up"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102654251277132020",
   "tag": "$MfT"
  }
 ]
