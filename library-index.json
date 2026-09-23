@@ -1786,14 +1786,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2092295978866835666"
  },
  {
-  "band": "EBM",
-  "name": "ELVES OF BALLINMOORE — “BASE BASE BASE”",
-  "triggers": [
-   "elves of ballinmoore — “base base base”"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092316115657519182"
- },
- {
   "band": "MV",
   "name": "Myko - Your Lane",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "elves of ballinmoore — “trees up, bags u"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102810249761530239"
+ },
+ {
+  "band": "EBM",
+  "name": "ELVES OF BALLINMOORE — “BASE BASE BASE”",
+  "triggers": [
+   "elves of ballinmoore — “base base base”"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102830375894434178"
  }
 ]
