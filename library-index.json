@@ -1707,14 +1707,6 @@
  },
  {
   "band": "EBM",
-  "name": "ELVES OF BALLINMOORE — “LISTEN, LIKE, AN",
-  "triggers": [
-   "elves of ballinmoore — “listen, like, an"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091812760392737260"
- },
- {
-  "band": "EBM",
   "name": "All-Time High",
   "triggers": [
    "all-time high"
@@ -7752,5 +7744,13 @@
    "lighter than before"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102629092554154483"
+ },
+ {
+  "band": "EBM",
+  "name": "ELVES OF BALLINMOORE — “LISTEN, LIKE, AN",
+  "triggers": [
+   "elves of ballinmoore — “listen, like, an"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102634132786356654"
  }
 ]
