@@ -1602,14 +1602,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091430246696223178"
  },
  {
-  "band": "EBM",
-  "name": "Mean Green Meme Team",
-  "triggers": [
-   "mean green meme team"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091450423626342659"
- },
- {
   "band": "MV",
   "name": "Pass it on hollow hailer",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "much love, friends"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102659286597829036"
+ },
+ {
+  "band": "EBM",
+  "name": "Mean Green Meme Team",
+  "triggers": [
+   "mean green meme team"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102679425405907161"
  }
 ]

@@ -166,14 +166,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Mean Green Meme Team",
-  "triggers": [
-   "mean green meme team"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091450423626342659",
-  "tag": "$MfT"
- },
- {
   "name": "FROM MEMES TO MANGROVES v2",
   "triggers": [
    "from memes to mangroves v2"
@@ -859,6 +851,14 @@
    "elves of ballinmoore — “listen, like, an"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102634132786356654",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Mean Green Meme Team",
+  "triggers": [
+   "mean green meme team"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102679425405907161",
   "tag": "$MfT"
  }
 ]
