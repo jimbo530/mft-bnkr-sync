@@ -1698,14 +1698,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091752485492809769"
  },
  {
-  "band": "Myco",
-  "name": "Move Your Feet, Fund The Forest",
-  "triggers": [
-   "move your feet, fund the forest"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091772546995654940"
- },
- {
   "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “MEMES TURN TO TREES",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "carry the light, g.o.a.t."
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102603923441729836"
+ },
+ {
+  "band": "Myco",
+  "name": "Move Your Feet, Fund The Forest",
+  "triggers": [
+   "move your feet, fund the forest"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102608970024145086"
  }
 ]

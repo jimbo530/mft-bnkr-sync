@@ -176,14 +176,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Move Your Feet, Fund The Forest",
-  "triggers": [
-   "move your feet, fund the forest"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091772546995654940",
-  "tag": "$MfT"
- },
- {
   "name": "Pizza Day Party",
   "triggers": [
    "pizza day party"
@@ -861,6 +853,14 @@
    "make some magic"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102578757785571623",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Move Your Feet, Fund The Forest",
+  "triggers": [
+   "move your feet, fund the forest"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102608970024145086",
   "tag": "$MfT"
  }
 ]
