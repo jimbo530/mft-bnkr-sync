@@ -1522,14 +1522,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091193695903068615"
  },
  {
-  "band": "EBM",
-  "name": "Eternal Harvest",
-  "triggers": [
-   "eternal harvest"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091329621690105870"
- },
- {
   "band": "MV",
   "name": "Bigger than your Box - Biggins",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "make today count"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102880749858763254"
+ },
+ {
+  "band": "EBM",
+  "name": "Eternal Harvest",
+  "triggers": [
+   "eternal harvest"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102885768343556540"
  }
 ]

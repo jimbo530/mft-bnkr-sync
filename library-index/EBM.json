@@ -142,14 +142,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Eternal Harvest",
-  "triggers": [
-   "eternal harvest"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091329621690105870",
-  "tag": "$MfT"
- },
- {
   "name": "ELVES OF BALLINMOORE — “PRESS IT, BLESS",
   "triggers": [
    "elves of ballinmoore — “press it, bless"
@@ -859,6 +851,14 @@
    "elves of ballinmoore — “base base base”"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102830375894434178",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Eternal Harvest",
+  "triggers": [
+   "eternal harvest"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102885768343556540",
   "tag": "$MfT"
  }
 ]
