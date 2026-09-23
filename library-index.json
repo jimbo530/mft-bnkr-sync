@@ -1890,14 +1890,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2092884847496667205"
  },
  {
-  "band": "MV",
-  "name": "ddd trade route open",
-  "triggers": [
-   "ddd trade route open"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092965361998045409"
- },
- {
   "band": "NN",
   "name": "Forest Song 2",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "jony sings move like magic"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102855580217946375"
+ },
+ {
+  "band": "MV",
+  "name": "ddd trade route open",
+  "triggers": [
+   "ddd trade route open"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102860555153261024"
  }
 ]
