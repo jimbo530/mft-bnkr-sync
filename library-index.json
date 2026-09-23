@@ -1818,14 +1818,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2092074466922639707"
  },
  {
-  "band": "Myco",
-  "name": "Make Some Magic",
-  "triggers": [
-   "make some magic"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092079553724252545"
- },
- {
   "band": "CB",
   "name": "Proof of Freedom",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "digerie dude - quite revolution of love"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102558587943854290"
+ },
+ {
+  "band": "Myco",
+  "name": "Make Some Magic",
+  "triggers": [
+   "make some magic"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102578757785571623"
  }
 ]

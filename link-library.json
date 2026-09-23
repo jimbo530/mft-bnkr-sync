@@ -2922,19 +2922,6 @@
     "caption": "\"I Love Being Alive\" — Moon Rasta\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2092079553724252545",
-    "translation": "Make Some Magic",
-    "name": "Make Some Magic",
-    "triggers": [
-      "make some magic"
-    ],
-    "band": "Myco",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2092079553724252545",
-    "caption": "\"Make Some Magic\" — Myco\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2092175191342277003",
     "translation": "Proof of Freedom",
     "name": "Proof of Freedom",
@@ -12593,5 +12580,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2102558587943854290",
     "caption": "\"Digerie Dude - Quite Revolution of Love\"\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2102578757785571623",
+    "translation": "Make Some Magic",
+    "name": "Make Some Magic",
+    "triggers": [
+      "make some magic"
+    ],
+    "band": "Myco",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2102578757785571623",
+    "caption": "\"Make Some Magic\" — Myco\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
