@@ -1859,14 +1859,6 @@
  },
  {
   "band": "CB",
-  "name": "Digerie Dude - Zoom Out",
-  "triggers": [
-   "digerie dude - zoom out"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093086205608923148"
- },
- {
-  "band": "CB",
   "name": "EBM - Getting Based",
   "triggers": [
    "ebm - getting based"
@@ -7752,5 +7744,13 @@
    "myko - listen close"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103006572813201805"
+ },
+ {
+  "band": "CB",
+  "name": "Digerie Dude - Zoom Out",
+  "triggers": [
+   "digerie dude - zoom out"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103011595823505603"
  }
 ]

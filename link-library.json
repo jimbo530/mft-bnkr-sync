@@ -2987,19 +2987,6 @@
     "caption": "\"EBM - We Are BASED\"\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2093086205608923148",
-    "translation": "Digerie Dude - Zoom Out",
-    "name": "Digerie Dude - Zoom Out",
-    "triggers": [
-      "digerie dude - zoom out"
-    ],
-    "band": "CB",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2093086205608923148",
-    "caption": "\"Digerie Dude - Zoom Out\" — CB\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2093091196310561247",
     "translation": "EBM - Getting Based",
     "name": "EBM - Getting Based",
@@ -12593,5 +12580,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2103006572813201805",
     "caption": "\"Myko - Listen Close\"\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2103011595823505603",
+    "translation": "Digerie Dude - Zoom Out",
+    "name": "Digerie Dude - Zoom Out",
+    "triggers": [
+      "digerie dude - zoom out"
+    ],
+    "band": "CB",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2103011595823505603",
+    "caption": "\"Digerie Dude - Zoom Out\" — CB\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

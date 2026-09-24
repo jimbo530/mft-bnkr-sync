@@ -153,14 +153,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Digerie Dude - Zoom Out",
-  "triggers": [
-   "digerie dude - zoom out"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093086205608923148",
-  "tag": "$MfT"
- },
- {
   "name": "EBM - Getting Based",
   "triggers": [
    "ebm - getting based"
@@ -502,6 +494,14 @@
    "unstoppable system"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102931037315604931",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Digerie Dude - Zoom Out",
+  "triggers": [
+   "digerie dude - zoom out"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103011595823505603",
   "tag": "$MfT"
  }
 ]
