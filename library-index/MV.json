@@ -432,14 +432,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Myko - Listen Close",
-  "triggers": [
-   "myko - listen close"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090307921745752300",
-  "tag": "$MfT"
- },
- {
   "name": "EBM - Decentraland Chainport",
   "triggers": [
    "ebm - decentraland chainport"
@@ -1301,6 +1293,14 @@
    "thanks for being here"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102956240993177833",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Myko - Listen Close",
+  "triggers": [
+   "myko - listen close"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103006572813201805",
   "tag": "$MfT"
  }
 ]

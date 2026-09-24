@@ -1291,14 +1291,6 @@
  },
  {
   "band": "MV",
-  "name": "Myko - Listen Close",
-  "triggers": [
-   "myko - listen close"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090307921745752300"
- },
- {
-  "band": "MV",
   "name": "EBM - Decentraland Chainport",
   "triggers": [
    "ebm - decentraland chainport"
@@ -7752,5 +7744,13 @@
    "forever locked"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102986429655630080"
+ },
+ {
+  "band": "MV",
+  "name": "Myko - Listen Close",
+  "triggers": [
+   "myko - listen close"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103006572813201805"
  }
 ]
