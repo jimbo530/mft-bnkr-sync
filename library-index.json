@@ -1602,14 +1602,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2092180214549815693"
  },
  {
-  "band": "EBM",
-  "name": "Invite A Friend",
-  "triggers": [
-   "invite a friend"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092235524555657724"
- },
- {
   "band": "MV",
   "name": "EBM- Ballinmoore extends its love",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "burgers feed the people"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103207882791555524"
+ },
+ {
+  "band": "EBM",
+  "name": "Invite A Friend",
+  "triggers": [
+   "invite a friend"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103212875636478397"
  }
 ]
