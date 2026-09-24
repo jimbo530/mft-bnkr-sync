@@ -16,14 +16,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Every Day Is An Opportunity",
-  "triggers": [
-   "every day is an opportunity"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085340168488169601",
-  "tag": "$MfT"
- },
- {
   "name": "Repost For The Forest",
   "triggers": [
    "repost for the forest"
@@ -766,6 +758,14 @@
    "circulate good"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102936066223218772",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Every Day Is An Opportunity",
+  "triggers": [
+   "every day is an opportunity"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103087102552310255",
   "tag": "$MfT"
  }
 ]

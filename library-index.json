@@ -387,14 +387,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2061764769393119536"
  },
  {
-  "band": "JS",
-  "name": "Every Day Is An Opportunity",
-  "triggers": [
-   "every day is an opportunity"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085340168488169601"
- },
- {
   "band": "Myco",
   "name": "Keep Moving Forward",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "digerie dude - pulse of the forest (1)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103082025427128561"
+ },
+ {
+  "band": "JS",
+  "name": "Every Day Is An Opportunity",
+  "triggers": [
+   "every day is an opportunity"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103087102552310255"
  }
 ]
