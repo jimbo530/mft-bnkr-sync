@@ -177,14 +177,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Unstoppable System",
-  "triggers": [
-   "unstoppable system"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093368043086680316",
-  "tag": "$MfT"
- },
- {
   "name": "A Billion in a Day",
   "triggers": [
    "a billion in a day"
@@ -502,6 +494,14 @@
    "born on chain"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102709626638639357",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Unstoppable System",
+  "triggers": [
+   "unstoppable system"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102931037315604931",
   "tag": "$MfT"
  }
 ]

@@ -1986,14 +1986,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093363018327273906"
  },
  {
-  "band": "CB",
-  "name": "Unstoppable System",
-  "triggers": [
-   "unstoppable system"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093368043086680316"
- },
- {
   "band": "MV",
   "name": "EBM - Char to the Root",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "it will change your life"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102910939666264119"
+ },
+ {
+  "band": "CB",
+  "name": "Unstoppable System",
+  "triggers": [
+   "unstoppable system"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102931037315604931"
  }
 ]
