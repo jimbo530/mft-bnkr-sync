@@ -1690,14 +1690,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2092255681348850065"
  },
  {
-  "band": "EBM",
-  "name": "Forest Got Funded",
-  "triggers": [
-   "forest got funded"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092260709602087120"
- },
- {
   "band": "MV",
   "name": "Digerie Dude - Believe in SomeETHing",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "ebm- alliance"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103036774205301067"
+ },
+ {
+  "band": "EBM",
+  "name": "Forest Got Funded",
+  "triggers": [
+   "forest got funded"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103056909649494383"
  }
 ]
