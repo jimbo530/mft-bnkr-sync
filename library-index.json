@@ -1434,14 +1434,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090992407382745332"
  },
  {
-  "band": "MV",
-  "name": "Digerie Dude - Pulse of the Forest (1)",
-  "triggers": [
-   "digerie dude - pulse of the forest (1)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091032633199239254"
- },
- {
   "band": "NN",
   "name": "Toast to the Trees",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "you can’t stop the meme"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103061887856337146"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Pulse of the Forest (1)",
+  "triggers": [
+   "digerie dude - pulse of the forest (1)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103082025427128561"
  }
 ]
