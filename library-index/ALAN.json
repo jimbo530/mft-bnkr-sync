@@ -15,22 +15,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Burgers Feed the People",
-  "triggers": [
-   "burgers feed the people"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079214617838952609",
-  "topics": [
-   "burgers",
-   "feeding people",
-   "burn",
-   "robinhood",
-   "fees"
-  ],
-  "promote": true,
-  "tag": "$MfT"
- },
- {
   "name": "Pass The Meme Along",
   "triggers": [
    "pass the meme along"
@@ -133,6 +117,14 @@
    "name it once (the ballad of monkey town)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103031723722199515",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Burgers Feed the People",
+  "triggers": [
+   "burgers feed the people"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103207882791555524",
   "tag": "$MfT"
  }
 ]

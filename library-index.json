@@ -180,22 +180,6 @@
   ]
  },
  {
-  "band": "ALAN",
-  "name": "Burgers Feed the People",
-  "triggers": [
-   "burgers feed the people"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2079214617838952609",
-  "topics": [
-   "burgers",
-   "feeding people",
-   "burn",
-   "robinhood",
-   "fees"
-  ],
-  "promote": true
- },
- {
   "band": "Myco",
   "name": "It Does Not Go Unseen",
   "triggers": [
@@ -7760,5 +7744,13 @@
    "from memes to mangroves v2"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103187794789056658"
+ },
+ {
+  "band": "ALAN",
+  "name": "Burgers Feed the People",
+  "triggers": [
+   "burgers feed the people"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103207882791555524"
  }
 ]
