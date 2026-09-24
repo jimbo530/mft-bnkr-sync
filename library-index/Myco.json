@@ -152,14 +152,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Dancing On The Line",
-  "triggers": [
-   "dancing on the line"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091173600522875079",
-  "tag": "$MfT"
- },
- {
   "name": "Pizza Day Party",
   "triggers": [
    "pizza day party"
@@ -861,6 +853,14 @@
    "compost to the canopy"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103162614343680372",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Dancing On The Line",
+  "triggers": [
+   "dancing on the line"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103238104622448927",
   "tag": "$MfT"
  }
 ]
