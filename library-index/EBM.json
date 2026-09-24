@@ -150,14 +150,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "FROM MEMES TO MANGROVES v2",
-  "triggers": [
-   "from memes to mangroves v2"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091571179639197930",
-  "tag": "$MfT"
- },
- {
   "name": "Help The Homies",
   "triggers": [
    "help the homies"
@@ -859,6 +851,14 @@
    "you can’t stop the meme"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103061887856337146",
+  "tag": "$MfT"
+ },
+ {
+  "name": "FROM MEMES TO MANGROVES v2",
+  "triggers": [
+   "from memes to mangroves v2"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103187794789056658",
   "tag": "$MfT"
  }
 ]

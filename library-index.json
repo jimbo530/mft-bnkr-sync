@@ -1490,14 +1490,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091535943245152606"
  },
  {
-  "band": "EBM",
-  "name": "FROM MEMES TO MANGROVES v2",
-  "triggers": [
-   "from memes to mangroves v2"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091571179639197930"
- },
- {
   "band": "MV",
   "name": "rockin regen",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "myko - your lane"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103182735128899849"
+ },
+ {
+  "band": "EBM",
+  "name": "FROM MEMES TO MANGROVES v2",
+  "triggers": [
+   "from memes to mangroves v2"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103187794789056658"
  }
 ]
