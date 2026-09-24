@@ -1562,14 +1562,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2092019115439321565"
  },
  {
-  "band": "EBM",
-  "name": "Locked Forever",
-  "triggers": [
-   "locked forever"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092039295913660900"
- },
- {
   "band": "MR",
   "name": "I Love Being Alive",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "dancing on the line"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103238104622448927"
+ },
+ {
+  "band": "EBM",
+  "name": "Locked Forever",
+  "triggers": [
+   "locked forever"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103258203790196853"
  }
 ]
