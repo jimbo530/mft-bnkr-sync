@@ -1754,14 +1754,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2092769132068425829"
  },
  {
-  "band": "MV",
-  "name": "Digeri Dude - Rabbit Hole",
-  "triggers": [
-   "digeri dude - rabbit hole"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092789263217680397"
- },
- {
   "band": "JS",
   "name": "You Dont Know",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "toast to the trees"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103107229624730087"
+ },
+ {
+  "band": "MV",
+  "name": "Digeri Dude - Rabbit Hole",
+  "triggers": [
+   "digeri dude - rabbit hole"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103112268753879079"
  }
 ]
