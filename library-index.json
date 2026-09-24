@@ -1579,14 +1579,6 @@
  },
  {
   "band": "EBM",
-  "name": "Ballinmoore Elves",
-  "triggers": [
-   "ballinmoore elves"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091691958515200472"
- },
- {
-  "band": "EBM",
   "name": "You Can’t Stop The Meme",
   "triggers": [
    "you can’t stop the meme"
@@ -7752,5 +7744,13 @@
    "thanks for being here"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102956240993177833"
+ },
+ {
+  "band": "EBM",
+  "name": "Ballinmoore Elves",
+  "triggers": [
+   "ballinmoore elves"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102961268864770533"
  }
 ]
