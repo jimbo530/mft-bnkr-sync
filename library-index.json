@@ -1907,14 +1907,6 @@
  },
  {
   "band": "MV",
-  "name": "Thanks for being here",
-  "triggers": [
-   "thanks for being here"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093161682302382253"
- },
- {
-  "band": "MV",
   "name": "Digerie Dude- sound of Growth",
   "triggers": [
    "digerie dude- sound of growth"
@@ -7752,5 +7744,13 @@
    "circulate good"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102936066223218772"
+ },
+ {
+  "band": "MV",
+  "name": "Thanks for being here",
+  "triggers": [
+   "thanks for being here"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102956240993177833"
  }
 ]
