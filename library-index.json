@@ -1418,14 +1418,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090891699945865533"
  },
  {
-  "band": "MV",
-  "name": "Digerie Dude-  Tender Resilience.",
-  "triggers": [
-   "digerie dude-  tender resilience."
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090992407382745332"
- },
- {
   "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “INTERNET ROOTS",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "investors of tomorrow"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103132411320041800"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude-  Tender Resilience.",
+  "triggers": [
+   "digerie dude-  tender resilience."
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103137437161566344"
  }
 ]

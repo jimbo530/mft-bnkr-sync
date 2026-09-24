@@ -464,14 +464,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Digerie Dude-  Tender Resilience.",
-  "triggers": [
-   "digerie dude-  tender resilience."
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090992407382745332",
-  "tag": "$MfT"
- },
- {
   "name": "If it was easy",
   "triggers": [
    "if it was easy"
@@ -1301,6 +1293,14 @@
    "digeri dude - rabbit hole"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103112268753879079",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Digerie Dude-  Tender Resilience.",
+  "triggers": [
+   "digerie dude-  tender resilience."
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103137437161566344",
   "tag": "$MfT"
  }
 ]
