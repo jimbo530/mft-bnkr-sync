@@ -1578,14 +1578,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091596372768063616"
  },
  {
-  "band": "JS",
-  "name": "Circulate Good",
-  "triggers": [
-   "circulate good"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091651708338266474"
- },
- {
   "band": "EBM",
   "name": "Ballinmoore Elves",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "unstoppable system"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102931037315604931"
+ },
+ {
+  "band": "JS",
+  "name": "Circulate Good",
+  "triggers": [
+   "circulate good"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102936066223218772"
  }
 ]

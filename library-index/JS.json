@@ -105,14 +105,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Circulate Good",
-  "triggers": [
-   "circulate good"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091651708338266474",
-  "tag": "$MfT"
- },
- {
   "name": "Jony Sings, keep dancing",
   "triggers": [
    "jony sings, keep dancing"
@@ -766,6 +758,14 @@
    "jony sings, mangrove"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102905877527155065",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Circulate Good",
+  "triggers": [
+   "circulate good"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102936066223218772",
   "tag": "$MfT"
  }
 ]
