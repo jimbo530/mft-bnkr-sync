@@ -128,14 +128,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Compost to the Canopy",
-  "triggers": [
-   "compost to the canopy"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090015958865789386",
-  "tag": "$MfT"
- },
- {
   "name": "Liquidity Rain",
   "triggers": [
    "liquidity rain"
@@ -861,6 +853,14 @@
    "forever locked"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102986429655630080",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Compost to the Canopy",
+  "triggers": [
+   "compost to the canopy"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103162614343680372",
   "tag": "$MfT"
  }
 ]
