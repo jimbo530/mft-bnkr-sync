@@ -137,14 +137,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Investors of Tomorrow",
-  "triggers": [
-   "investors of tomorrow"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093363018327273906",
-  "tag": "$MfT"
- },
- {
   "name": "Finally Found The One",
   "triggers": [
    "finally found the one"
@@ -766,6 +758,14 @@
    "every day is an opportunity"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103087102552310255",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Investors of Tomorrow",
+  "triggers": [
+   "investors of tomorrow"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103132411320041800",
   "tag": "$MfT"
  }
 ]

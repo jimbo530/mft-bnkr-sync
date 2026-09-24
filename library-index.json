@@ -1866,14 +1866,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093347902034731464"
  },
  {
-  "band": "JS",
-  "name": "Investors of Tomorrow",
-  "triggers": [
-   "investors of tomorrow"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093363018327273906"
- },
- {
   "band": "MV",
   "name": "EBM - Char to the Root",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "digeri dude - rabbit hole"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103112268753879079"
+ },
+ {
+  "band": "JS",
+  "name": "Investors of Tomorrow",
+  "triggers": [
+   "investors of tomorrow"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103132411320041800"
  }
 ]
