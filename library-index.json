@@ -1426,14 +1426,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090992407382745332"
  },
  {
-  "band": "NN",
-  "name": "Toast to the Trees",
-  "triggers": [
-   "toast to the trees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091087992781668448"
- },
- {
   "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “INTERNET ROOTS",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "every day is an opportunity"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103087102552310255"
+ },
+ {
+  "band": "NN",
+  "name": "Toast to the Trees",
+  "triggers": [
+   "toast to the trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103107229624730087"
  }
 ]
