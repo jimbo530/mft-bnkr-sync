@@ -126,5 +126,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102382463418880420",
   "tag": "$MfT"
+ },
+ {
+  "name": "Name It Once (The Ballad of Monkey Town)",
+  "triggers": [
+   "name it once (the ballad of monkey town)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103031723722199515",
+  "tag": "$MfT"
  }
 ]
