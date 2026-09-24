@@ -1890,14 +1890,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093302649080692853"
  },
  {
-  "band": "MV",
-  "name": "EBM- Alliance",
-  "triggers": [
-   "ebm- alliance"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093307654466580551"
- },
- {
   "band": "CB",
   "name": "Digerie Dude - Pulse of the Forest",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "name it once (the ballad of monkey town)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103031723722199515"
+ },
+ {
+  "band": "MV",
+  "name": "EBM- Alliance",
+  "triggers": [
+   "ebm- alliance"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103036774205301067"
  }
 ]
