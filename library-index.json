@@ -1538,14 +1538,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091395026106392942"
  },
  {
-  "band": "NN",
-  "name": "It Will Change Your Life",
-  "triggers": [
-   "it will change your life"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091430246696223178"
- },
- {
   "band": "MV",
   "name": "Pass it on hollow hailer",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "jony sings, mangrove"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2102905877527155065"
+ },
+ {
+  "band": "NN",
+  "name": "It Will Change Your Life",
+  "triggers": [
+   "it will change your life"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2102910939666264119"
  }
 ]
