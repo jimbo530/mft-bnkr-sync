@@ -1555,14 +1555,6 @@
  },
  {
   "band": "EBM",
-  "name": "You Can’t Stop The Meme",
-  "triggers": [
-   "you can’t stop the meme"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091697035212640744"
- },
- {
-  "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “THOUSAND YEAR PL",
   "triggers": [
    "elves of ballinmoore — “thousand year pl"
@@ -7760,5 +7752,13 @@
    "forest got funded"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103056909649494383"
+ },
+ {
+  "band": "EBM",
+  "name": "You Can’t Stop The Meme",
+  "triggers": [
+   "you can’t stop the meme"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103061887856337146"
  }
 ]
