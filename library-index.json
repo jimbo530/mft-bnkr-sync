@@ -1658,14 +1658,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2092295978866835666"
  },
  {
-  "band": "MV",
-  "name": "Myko - Your Lane",
-  "triggers": [
-   "myko - your lane"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092381601581727872"
- },
- {
   "band": "CB",
   "name": "Started, Made, Done",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "compost to the canopy"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103162614343680372"
+ },
+ {
+  "band": "MV",
+  "name": "Myko - Your Lane",
+  "triggers": [
+   "myko - your lane"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103182735128899849"
  }
 ]
