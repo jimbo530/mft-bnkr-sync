@@ -1386,14 +1386,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090811210258067589"
  },
  {
-  "band": "MR",
-  "name": "Joy in the Ground",
-  "triggers": [
-   "joy in the ground"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090891699945865533"
- },
- {
   "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “INTERNET ROOTS",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "locked forever"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103258203790196853"
+ },
+ {
+  "band": "MR",
+  "name": "Joy in the Ground",
+  "triggers": [
+   "joy in the ground"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103263212791533773"
  }
 ]
