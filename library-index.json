@@ -1618,14 +1618,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093186885568917761"
  },
  {
-  "band": "CB",
-  "name": "Digerie Dude - Pulse of the Forest",
-  "triggers": [
-   "digerie dude - pulse of the forest"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093322731466965273"
- },
- {
   "band": "MV",
   "name": "EBM - Char to the Root",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "for the builders"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103560211088753048"
+ },
+ {
+  "band": "CB",
+  "name": "Digerie Dude - Pulse of the Forest",
+  "triggers": [
+   "digerie dude - pulse of the forest"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103565235650961657"
  }
 ]
