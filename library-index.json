@@ -1650,14 +1650,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2092985540836495594"
  },
  {
-  "band": "EBM",
-  "name": "ELVES OF BALLINMOORE — “CHAR TO THE ROOT",
-  "triggers": [
-   "elves of ballinmoore — “char to the root"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092990548051165681"
- },
- {
   "band": "MV",
   "name": "EBM - Code Not Coal",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "green hearts vid"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103384004586012724"
+ },
+ {
+  "band": "EBM",
+  "name": "ELVES OF BALLINMOORE — “CHAR TO THE ROOT",
+  "triggers": [
+   "elves of ballinmoore — “char to the root"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103389043933196704"
  }
 ]
