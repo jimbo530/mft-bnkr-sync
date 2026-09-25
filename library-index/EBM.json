@@ -126,14 +126,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "ELVES OF BALLINMOORE — “YUCKY DUCKS x TR",
-  "triggers": [
-   "elves of ballinmoore — “yucky ducks x tr"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090569601453105413",
-  "tag": "$MfT"
- },
- {
   "name": "ELVES OF BALLINMOORE — “INTERNET ROOTS",
   "triggers": [
    "elves of ballinmoore — “internet roots"
@@ -859,6 +851,14 @@
    "day to build the dream"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103514912467173641",
+  "tag": "$MfT"
+ },
+ {
+  "name": "ELVES OF BALLINMOORE — “YUCKY DUCKS x TR",
+  "triggers": [
+   "elves of ballinmoore — “yucky ducks x tr"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103590376565055991",
   "tag": "$MfT"
  }
 ]

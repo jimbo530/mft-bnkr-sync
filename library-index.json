@@ -1274,14 +1274,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090564602656383288"
  },
  {
-  "band": "EBM",
-  "name": "ELVES OF BALLINMOORE — “YUCKY DUCKS x TR",
-  "triggers": [
-   "elves of ballinmoore — “yucky ducks x tr"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090569601453105413"
- },
- {
   "band": "CB",
   "name": "They Follow US",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "i love being alive"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103585367039307930"
+ },
+ {
+  "band": "EBM",
+  "name": "ELVES OF BALLINMOORE — “YUCKY DUCKS x TR",
+  "triggers": [
+   "elves of ballinmoore — “yucky ducks x tr"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103590376565055991"
  }
 ]
