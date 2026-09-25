@@ -1562,14 +1562,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2092728880364691698"
  },
  {
-  "band": "Myco",
-  "name": "Welcome To The Party",
-  "triggers": [
-   "welcome to the party"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092748987971317814"
- },
- {
   "band": "CB",
   "name": "Signal through the noise",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "proof of freedom"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103535064701108499"
+ },
+ {
+  "band": "Myco",
+  "name": "Welcome To The Party",
+  "triggers": [
+   "welcome to the party"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103540068002541867"
  }
 ]

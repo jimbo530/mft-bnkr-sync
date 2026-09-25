@@ -192,14 +192,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Welcome To The Party",
-  "triggers": [
-   "welcome to the party"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092748987971317814",
-  "tag": "$MfT"
- },
- {
   "name": "Party Til Forests Are Funded",
   "triggers": [
    "party til forests are funded"
@@ -861,6 +853,14 @@
    "dancing on the line"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103238104622448927",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Welcome To The Party",
+  "triggers": [
+   "welcome to the party"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103540068002541867",
   "tag": "$MfT"
  }
 ]
