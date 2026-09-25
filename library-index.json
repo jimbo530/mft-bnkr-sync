@@ -1370,14 +1370,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091349720824238443"
  },
  {
-  "band": "EBM",
-  "name": "ELVES OF BALLINMOORE — “PRESS IT, BLESS",
-  "triggers": [
-   "elves of ballinmoore — “press it, bless"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091395026106392942"
- },
- {
   "band": "MV",
   "name": "Pass it on hollow hailer",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "water each other - moon rasta"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103610536730456364"
+ },
+ {
+  "band": "EBM",
+  "name": "ELVES OF BALLINMOORE — “PRESS IT, BLESS",
+  "triggers": [
+   "elves of ballinmoore — “press it, bless"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103615582356554219"
  }
 ]
