@@ -1474,14 +1474,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2092074466922639707"
  },
  {
-  "band": "CB",
-  "name": "Proof of Freedom",
-  "triggers": [
-   "proof of freedom"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092175191342277003"
- },
- {
   "band": "JS",
   "name": "jony sings Polyraiders",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "day to build the dream"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103514912467173641"
+ },
+ {
+  "band": "CB",
+  "name": "Proof of Freedom",
+  "triggers": [
+   "proof of freedom"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103535064701108499"
  }
 ]
