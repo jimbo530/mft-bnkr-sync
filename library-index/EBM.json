@@ -174,14 +174,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Day To Build The Dream",
-  "triggers": [
-   "day to build the dream"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093342914780725269",
-  "tag": "$MfT"
- },
- {
   "name": "LIQUIDITY FOR THE PLANET",
   "triggers": [
    "liquidity for the planet"
@@ -859,6 +851,14 @@
    "elves of ballinmoore — “doubt can’t touc"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103464618941145526",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Day To Build The Dream",
+  "triggers": [
+   "day to build the dream"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103514912467173641",
   "tag": "$MfT"
  }
 ]

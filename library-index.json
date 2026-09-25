@@ -1650,14 +1650,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093322731466965273"
  },
  {
-  "band": "EBM",
-  "name": "Day To Build The Dream",
-  "triggers": [
-   "day to build the dream"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093342914780725269"
- },
- {
   "band": "MV",
   "name": "EBM - Char to the Root",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "pass it on gary strings"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103509880812257461"
+ },
+ {
+  "band": "EBM",
+  "name": "Day To Build The Dream",
+  "triggers": [
+   "day to build the dream"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103514912467173641"
  }
 ]
