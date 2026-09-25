@@ -1459,14 +1459,6 @@
  },
  {
   "band": "EBM",
-  "name": "Help The Homies",
-  "triggers": [
-   "help the homies"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091596372768063616"
- },
- {
-  "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “THOUSAND YEAR PL",
   "triggers": [
    "elves of ballinmoore — “thousand year pl"
@@ -7752,5 +7744,13 @@
    "digerie dude - stand through the storm"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103308570741641443"
+ },
+ {
+  "band": "EBM",
+  "name": "Help The Homies",
+  "triggers": [
+   "help the homies"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103313583337586769"
  }
 ]
