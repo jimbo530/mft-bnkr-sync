@@ -2679,19 +2679,6 @@
     "caption": "\"Digerie Dude- sound of Growth\"\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2093282513993023965",
-    "translation": "Digerie Dude - I endure",
-    "name": "Digerie Dude - I endure",
-    "triggers": [
-      "digerie dude - i endure"
-    ],
-    "band": "MV",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2093282513993023965",
-    "caption": "\"Digerie Dude - I endure\"\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2093322731466965273",
     "translation": "Digerie Dude - Pulse of the Forest",
     "name": "Digerie Dude - Pulse of the Forest",
@@ -12597,5 +12584,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2103414254204289360",
     "caption": "\"Digerie Dude The Choice\"\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2103434378701348883",
+    "translation": "Digerie Dude - I endure",
+    "name": "Digerie Dude - I endure",
+    "triggers": [
+      "digerie dude - i endure"
+    ],
+    "band": "MV",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2103434378701348883",
+    "caption": "\"Digerie Dude - I endure\"\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
