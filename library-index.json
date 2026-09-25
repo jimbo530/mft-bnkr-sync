@@ -1394,14 +1394,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091193695903068615"
  },
  {
-  "band": "MV",
-  "name": "Bigger than your Box - Biggins",
-  "triggers": [
-   "bigger than your box - biggins"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091334616250523972"
- },
- {
   "band": "JS",
   "name": "jony sings roots and rythm",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "digerie dude - i endure"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103434378701348883"
+ },
+ {
+  "band": "MV",
+  "name": "Bigger than your Box - Biggins",
+  "triggers": [
+   "bigger than your box - biggins"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103439373937033554"
  }
 ]
