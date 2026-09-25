@@ -1482,14 +1482,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091898369916457203"
  },
  {
-  "band": "JS",
-  "name": "Jony Sings, keep dancing",
-  "triggers": [
-   "jony sings, keep dancing"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091913425265803705"
- },
- {
   "band": "MV",
   "name": "Digerie Dude - Signal in the Noise",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "elves of ballinmoore — “char to the root"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103389043933196704"
+ },
+ {
+  "band": "JS",
+  "name": "Jony Sings, keep dancing",
+  "triggers": [
+   "jony sings, keep dancing"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103409222985638059"
  }
 ]
