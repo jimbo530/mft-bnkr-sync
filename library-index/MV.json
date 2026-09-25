@@ -504,14 +504,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Digerie Dude - Stand Through the Storm",
-  "triggers": [
-   "digerie dude - stand through the storm"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092019115439321565",
-  "tag": "$MfT"
- },
- {
   "name": "EBM- Ballinmoore extends its love",
   "triggers": [
    "ebm- ballinmoore extends its love"
@@ -1301,6 +1293,14 @@
    "isle of 1,000 kingdoms jasmine"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103288440498409910",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Digerie Dude - Stand Through the Storm",
+  "triggers": [
+   "digerie dude - stand through the storm"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103308570741641443",
   "tag": "$MfT"
  }
 ]

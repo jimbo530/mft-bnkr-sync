@@ -1538,14 +1538,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091973865886916759"
  },
  {
-  "band": "MV",
-  "name": "Digerie Dude - Stand Through the Storm",
-  "triggers": [
-   "digerie dude - stand through the storm"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092019115439321565"
- },
- {
   "band": "MR",
   "name": "I Love Being Alive",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "isle of 1,000 kingdoms jasmine"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103288440498409910"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Stand Through the Storm",
+  "triggers": [
+   "digerie dude - stand through the storm"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103308570741641443"
  }
 ]
