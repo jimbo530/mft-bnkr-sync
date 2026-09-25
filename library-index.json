@@ -1178,14 +1178,6 @@
   "promote": true
  },
  {
-  "band": "JS",
-  "name": "For The Builders",
-  "triggers": [
-   "for the builders"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089940455345590649"
- },
- {
   "band": "MV",
   "name": "Digerie Dude- Bridges not walls",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "welcome to the party"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103540068002541867"
+ },
+ {
+  "band": "JS",
+  "name": "For The Builders",
+  "triggers": [
+   "for the builders"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103560211088753048"
  }
 ]

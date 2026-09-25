@@ -25,14 +25,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "For The Builders",
-  "triggers": [
-   "for the builders"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089940455345590649",
-  "tag": "$MfT"
- },
- {
   "name": "Jony Sings, alive",
   "triggers": [
    "jony sings, alive"
@@ -766,6 +758,14 @@
    "jony sings, keep dancing"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103409222985638059",
+  "tag": "$MfT"
+ },
+ {
+  "name": "For The Builders",
+  "triggers": [
+   "for the builders"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103560211088753048",
   "tag": "$MfT"
  }
 ]
