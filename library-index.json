@@ -1458,14 +1458,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091973865886916759"
  },
  {
-  "band": "MR",
-  "name": "I Love Being Alive",
-  "triggers": [
-   "i love being alive"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092074466922639707"
- },
- {
   "band": "JS",
   "name": "jony sings Polyraiders",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "digerie dude - pulse of the forest"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103565235650961657"
+ },
+ {
+  "band": "MR",
+  "name": "I Love Being Alive",
+  "triggers": [
+   "i love being alive"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103585367039307930"
  }
 ]
