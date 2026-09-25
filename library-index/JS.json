@@ -33,14 +33,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "we will get there",
-  "triggers": [
-   "we will get there"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089955556878348588",
-  "tag": "$MfT"
- },
- {
   "name": "Jony Sings, alive",
   "triggers": [
    "jony sings, alive"
@@ -766,6 +758,14 @@
    "jony sings welcome to the show"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103338713887482277",
+  "tag": "$MfT"
+ },
+ {
+  "name": "we will get there",
+  "triggers": [
+   "we will get there"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103363919943233726",
   "tag": "$MfT"
  }
 ]
