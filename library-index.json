@@ -1202,14 +1202,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090021025387888937"
  },
  {
-  "band": "MV",
-  "name": "Pass it on Gary Strings",
-  "triggers": [
-   "pass it on gary strings"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090061253381169293"
- },
- {
   "band": "CB",
   "name": "Signal in the silence",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "garden spinning green"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103489704008040904"
+ },
+ {
+  "band": "MV",
+  "name": "Pass it on Gary Strings",
+  "triggers": [
+   "pass it on gary strings"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103509880812257461"
  }
 ]

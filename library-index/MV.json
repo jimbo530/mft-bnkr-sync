@@ -408,14 +408,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Pass it on Gary Strings",
-  "triggers": [
-   "pass it on gary strings"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090061253381169293",
-  "tag": "$MfT"
- },
- {
   "name": "EBM- DOUBT CANT TOUCH US.",
   "triggers": [
    "ebm- doubt cant touch us."
@@ -1301,6 +1293,14 @@
    "garden spinning green"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103489704008040904",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Pass it on Gary Strings",
+  "triggers": [
+   "pass it on gary strings"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103509880812257461",
   "tag": "$MfT"
  }
 ]
