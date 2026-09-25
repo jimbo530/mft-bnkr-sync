@@ -1178,14 +1178,6 @@
   "promote": true
  },
  {
-  "band": "MV",
-  "name": "Blue Marble Rock",
-  "triggers": [
-   "blue marble rock"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089920321130226026"
- },
- {
   "band": "JS",
   "name": "For The Builders",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "elves of ballinmoore — “doubt can’t touc"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103464618941145526"
+ },
+ {
+  "band": "MV",
+  "name": "Blue Marble Rock",
+  "triggers": [
+   "blue marble rock"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103484714451410978"
  }
 ]
