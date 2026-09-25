@@ -1306,14 +1306,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090468932456951977"
  },
  {
-  "band": "MV",
-  "name": "Isle of 1,000 kingdoms Jasmine",
-  "triggers": [
-   "isle of 1,000 kingdoms jasmine"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090524295608819752"
- },
- {
   "band": "JS",
   "name": "Build The World Together",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "nothing without you - biggins mcjamin"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103283399834136670"
+ },
+ {
+  "band": "MV",
+  "name": "Isle of 1,000 kingdoms Jasmine",
+  "triggers": [
+   "isle of 1,000 kingdoms jasmine"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103288440498409910"
  }
 ]
