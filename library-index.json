@@ -1458,14 +1458,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091737310190600524"
  },
  {
-  "band": "CB",
-  "name": "Chain Reaction Diplomacy",
-  "triggers": [
-   "chain reaction diplomacy"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091752485492809769"
- },
- {
   "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “MEMES TURN TO TREES",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "jony sings welcome to the show"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103338713887482277"
+ },
+ {
+  "band": "CB",
+  "name": "Chain Reaction Diplomacy",
+  "triggers": [
+   "chain reaction diplomacy"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103358957930561927"
  }
 ]
