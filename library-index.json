@@ -1754,14 +1754,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093282513993023965"
  },
  {
-  "band": "MV",
-  "name": "nothing without you - Biggins Mcjamin",
-  "triggers": [
-   "nothing without you - biggins mcjamin"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093302649080692853"
- },
- {
   "band": "CB",
   "name": "Digerie Dude - Pulse of the Forest",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "joy in the ground"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103263212791533773"
+ },
+ {
+  "band": "MV",
+  "name": "nothing without you - Biggins Mcjamin",
+  "triggers": [
+   "nothing without you - biggins mcjamin"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103283399834136670"
  }
 ]
