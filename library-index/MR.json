@@ -33,14 +33,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Green Hearts vid",
-  "triggers": [
-   "green hearts vid"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093347902034731464",
-  "tag": "$MfT"
- },
- {
   "name": "Water Is Life",
   "triggers": [
    "water is life"
@@ -438,6 +430,14 @@
    "joy in the ground"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103263212791533773",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Green Hearts vid",
+  "triggers": [
+   "green hearts vid"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103384004586012724",
   "tag": "$MfT"
  }
 ]

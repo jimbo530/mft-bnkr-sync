@@ -1714,14 +1714,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093342914780725269"
  },
  {
-  "band": "MR",
-  "name": "Green Hearts vid",
-  "triggers": [
-   "green hearts vid"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093347902034731464"
- },
- {
   "band": "MV",
   "name": "EBM - Char to the Root",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "we will get there"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103363919943233726"
+ },
+ {
+  "band": "MR",
+  "name": "Green Hearts vid",
+  "triggers": [
+   "green hearts vid"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103384004586012724"
  }
 ]
