@@ -1291,14 +1291,6 @@
  },
  {
   "band": "JS",
-  "name": "Jony Sings Welcome to the show",
-  "triggers": [
-   "jony sings welcome to the show"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090463903557837201"
- },
- {
-  "band": "JS",
   "name": "Jony Sings, alive",
   "triggers": [
    "jony sings, alive"
@@ -7752,5 +7744,13 @@
    "green hearts- moon rasta"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103333717426978863"
+ },
+ {
+  "band": "JS",
+  "name": "Jony Sings Welcome to the show",
+  "triggers": [
+   "jony sings welcome to the show"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103338713887482277"
  }
 ]
