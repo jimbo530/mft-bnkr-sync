@@ -1674,14 +1674,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093403319741927739"
  },
  {
-  "band": "MV",
-  "name": "Garden spinning green",
-  "triggers": [
-   "garden spinning green"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093423401167728775"
- },
- {
   "band": "MR",
   "name": "Water Is Life",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "blue marble rock"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103484714451410978"
+ },
+ {
+  "band": "MV",
+  "name": "Garden spinning green",
+  "triggers": [
+   "garden spinning green"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103489704008040904"
  }
 ]

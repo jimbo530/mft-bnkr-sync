@@ -552,14 +552,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Garden spinning green",
-  "triggers": [
-   "garden spinning green"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093423401167728775",
-  "tag": "$MfT"
- },
- {
   "name": "EBM - Marc on base burger boys",
   "triggers": [
    "ebm - marc on base burger boys"
@@ -1301,6 +1293,14 @@
    "blue marble rock"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103484714451410978",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Garden spinning green",
+  "triggers": [
+   "garden spinning green"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103489704008040904",
   "tag": "$MfT"
  }
 ]
