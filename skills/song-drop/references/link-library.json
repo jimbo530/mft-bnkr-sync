@@ -2289,19 +2289,6 @@
     "caption": "\"Pass it on hollow hailer\"\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2091535943245152606",
-    "translation": "Digerie Dude The Choice",
-    "name": "Digerie Dude The Choice",
-    "triggers": [
-      "digerie dude the choice"
-    ],
-    "band": "MV",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2091535943245152606",
-    "caption": "\"Digerie Dude The Choice\"\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2091576203710746720",
     "translation": "rockin regen",
     "name": "rockin regen",
@@ -12597,5 +12584,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2103409222985638059",
     "caption": "\"Jony Sings, keep dancing\" — Jony Sings\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2103414254204289360",
+    "translation": "Digerie Dude The Choice",
+    "name": "Digerie Dude The Choice",
+    "triggers": [
+      "digerie dude the choice"
+    ],
+    "band": "MV",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2103414254204289360",
+    "caption": "\"Digerie Dude The Choice\"\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

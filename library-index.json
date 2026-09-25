@@ -1427,14 +1427,6 @@
  },
  {
   "band": "MV",
-  "name": "Digerie Dude The Choice",
-  "triggers": [
-   "digerie dude the choice"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091535943245152606"
- },
- {
-  "band": "MV",
   "name": "rockin regen",
   "triggers": [
    "rockin regen"
@@ -7752,5 +7744,13 @@
    "jony sings, keep dancing"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103409222985638059"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude The Choice",
+  "triggers": [
+   "digerie dude the choice"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103414254204289360"
  }
 ]
