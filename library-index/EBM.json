@@ -182,14 +182,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "ELVES OF BALLINMOORE — “DOUBT CAN’T TOUC",
-  "triggers": [
-   "elves of ballinmoore — “doubt can’t touc"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093448598859960669",
-  "tag": "$MfT"
- },
- {
   "name": "LIQUIDITY FOR THE PLANET",
   "triggers": [
    "liquidity for the planet"
@@ -859,6 +851,14 @@
    "elves of ballinmoore — “char to the root"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103389043933196704",
+  "tag": "$MfT"
+ },
+ {
+  "name": "ELVES OF BALLINMOORE — “DOUBT CAN’T TOUC",
+  "triggers": [
+   "elves of ballinmoore — “doubt can’t touc"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103464618941145526",
   "tag": "$MfT"
  }
 ]

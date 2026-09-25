@@ -1690,14 +1690,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093423401167728775"
  },
  {
-  "band": "EBM",
-  "name": "ELVES OF BALLINMOORE — “DOUBT CAN’T TOUC",
-  "triggers": [
-   "elves of ballinmoore — “doubt can’t touc"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093448598859960669"
- },
- {
   "band": "MR",
   "name": "Water Is Life",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "bigger than your box - biggins"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103439373937033554"
+ },
+ {
+  "band": "EBM",
+  "name": "ELVES OF BALLINMOORE — “DOUBT CAN’T TOUC",
+  "triggers": [
+   "elves of ballinmoore — “doubt can’t touc"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103464618941145526"
  }
 ]
