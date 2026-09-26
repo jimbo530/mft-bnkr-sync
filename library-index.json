@@ -1458,14 +1458,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2092562785536196958"
  },
  {
-  "band": "JS",
-  "name": "Jony Sings, Jaguars",
-  "triggers": [
-   "jony sings, jaguars"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092623138995511725"
- },
- {
   "band": "MV",
   "name": "Digerie Dude - Crown of Silence",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "carry the seed"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103691073142841644"
+ },
+ {
+  "band": "JS",
+  "name": "Jony Sings, Jaguars",
+  "triggers": [
+   "jony sings, jaguars"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103711161271165064"
  }
 ]
