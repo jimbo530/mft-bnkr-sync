@@ -1362,14 +1362,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2092180214549815693"
  },
  {
-  "band": "MV",
-  "name": "EBM- Ballinmoore extends its love",
-  "triggers": [
-   "ebm- ballinmoore extends its love"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092255681348850065"
- },
- {
   "band": "CB",
   "name": "Started, Made, Done",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "build the world together"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103811859451146676"
+ },
+ {
+  "band": "MV",
+  "name": "EBM- Ballinmoore extends its love",
+  "triggers": [
+   "ebm- ballinmoore extends its love"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103816857539035338"
  }
 ]
