@@ -1314,14 +1314,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090750826495025461"
  },
  {
-  "band": "EBM",
-  "name": "ELVES OF BALLINMOORE — “INTERNET ROOTS",
-  "triggers": [
-   "elves of ballinmoore — “internet roots"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091108129027096861"
- },
- {
   "band": "Myco",
   "name": "Hero For Being Here",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "roots in the rhythm"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103736357805846952"
+ },
+ {
+  "band": "EBM",
+  "name": "ELVES OF BALLINMOORE — “INTERNET ROOTS",
+  "triggers": [
+   "elves of ballinmoore — “internet roots"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103741361681817745"
  }
 ]
