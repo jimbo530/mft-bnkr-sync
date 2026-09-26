@@ -1354,14 +1354,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091973865886916759"
  },
  {
-  "band": "JS",
-  "name": "jony sings Polyraiders",
-  "triggers": [
-   "jony sings polyraiders"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092180214549815693"
- },
- {
   "band": "CB",
   "name": "Started, Made, Done",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "ebm- ballinmoore extends its love"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103816857539035338"
+ },
+ {
+  "band": "JS",
+  "name": "jony sings Polyraiders",
+  "triggers": [
+   "jony sings polyraiders"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103837039477027213"
  }
 ]
