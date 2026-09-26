@@ -5915,14 +5915,6 @@
  },
  {
   "band": "EBM",
-  "name": "Forever Is Longer Than You Know",
-  "triggers": [
-   "forever is longer than you know"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100897648001552727"
- },
- {
-  "band": "EBM",
   "name": "“EVERY SIGNAL PLANTS TREES”",
   "triggers": [
    "“every signal plants trees”"
@@ -7760,5 +7752,13 @@
    "more than whole"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103962855733084394"
+ },
+ {
+  "band": "EBM",
+  "name": "Forever is longer than you Know",
+  "triggers": [
+   "forever is longer than you know"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103967859294585163"
  }
 ]

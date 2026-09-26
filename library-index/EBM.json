@@ -558,14 +558,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Forever Is Longer Than You Know",
-  "triggers": [
-   "forever is longer than you know"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100897648001552727",
-  "tag": "$MfT"
- },
- {
   "name": "“EVERY SIGNAL PLANTS TREES”",
   "triggers": [
    "“every signal plants trees”"
@@ -859,6 +851,14 @@
    "elves of ballinmoore — “memes turn to trees"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103912492367835384",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Forever is longer than you Know",
+  "triggers": [
+   "forever is longer than you know"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103967859294585163",
   "tag": "$MfT"
  }
 ]
