@@ -1402,14 +1402,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2092728880364691698"
  },
  {
-  "band": "CB",
-  "name": "Signal through the noise",
-  "triggers": [
-   "signal through the noise"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092769132068425829"
- },
- {
   "band": "JS",
   "name": "You Dont Know",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "jony sings polyraiders"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103837039477027213"
+ },
+ {
+  "band": "CB",
+  "name": "Signal through the noise",
+  "triggers": [
+   "signal through the noise"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103842081739317378"
  }
 ]
