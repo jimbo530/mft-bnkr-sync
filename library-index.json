@@ -1226,14 +1226,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090363231835484523"
  },
  {
-  "band": "MV",
-  "name": "MC - Scratch the Earth",
-  "triggers": [
-   "mc - scratch the earth"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090448805850161584"
- },
- {
   "band": "JS",
   "name": "Jony Sings, alive",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "forever is longer than you know"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103967859294585163"
+ },
+ {
+  "band": "MV",
+  "name": "MC - Scratch the Earth",
+  "triggers": [
+   "mc - scratch the earth"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103988028821651827"
  }
 ]

@@ -424,14 +424,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "MC - Scratch the Earth",
-  "triggers": [
-   "mc - scratch the earth"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090448805850161584",
-  "tag": "$MfT"
- },
- {
   "name": "Guardians of the Gate   Jasmine",
   "triggers": [
    "guardians of the gate   jasmine"
@@ -1301,6 +1293,14 @@
    "pass it on hollow hailer"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103942727721222191",
+  "tag": "$MfT"
+ },
+ {
+  "name": "MC - Scratch the Earth",
+  "triggers": [
+   "mc - scratch the earth"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103988028821651827",
   "tag": "$MfT"
  }
 ]
