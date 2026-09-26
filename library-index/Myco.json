@@ -160,14 +160,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "On-Chain Garden",
-  "triggers": [
-   "on-chain garden"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091898369916457203",
-  "tag": "$MfT"
- },
- {
   "name": "More Than Whole",
   "triggers": [
    "more than whole"
@@ -861,6 +853,14 @@
    "real proof"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103660880072180152",
+  "tag": "$MfT"
+ },
+ {
+  "name": "On-Chain Garden",
+  "triggers": [
+   "on-chain garden"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103716234957091135",
   "tag": "$MfT"
  }
 ]

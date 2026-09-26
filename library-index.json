@@ -1395,14 +1395,6 @@
  },
  {
   "band": "Myco",
-  "name": "On-Chain Garden",
-  "triggers": [
-   "on-chain garden"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091898369916457203"
- },
- {
-  "band": "Myco",
   "name": "More Than Whole",
   "triggers": [
    "more than whole"
@@ -7752,5 +7744,13 @@
    "jony sings, jaguars"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103711161271165064"
+ },
+ {
+  "band": "Myco",
+  "name": "On-Chain Garden",
+  "triggers": [
+   "on-chain garden"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103716234957091135"
  }
 ]
