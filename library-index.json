@@ -1242,14 +1242,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090468932456951977"
  },
  {
-  "band": "CB",
-  "name": "They Follow US",
-  "triggers": [
-   "they follow us"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090589729821434160"
- },
- {
   "band": "DD",
   "name": "Signal in the Noise",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "bet on the dreamer"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103867216613511329"
+ },
+ {
+  "band": "CB",
+  "name": "They Follow US",
+  "triggers": [
+   "they follow us"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103887367207592283"
  }
 ]
