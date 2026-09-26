@@ -1322,14 +1322,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090750826495025461"
  },
  {
-  "band": "JS",
-  "name": "Dance Until Morning",
-  "triggers": [
-   "dance until morning"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090811210258067589"
- },
- {
   "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “INTERNET ROOTS",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "real proof"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103660880072180152"
+ },
+ {
+  "band": "JS",
+  "name": "Dance Until Morning",
+  "triggers": [
+   "dance until morning"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103685993316471258"
  }
 ]
