@@ -1426,14 +1426,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091898369916457203"
  },
  {
-  "band": "MV",
-  "name": "Digerie Dude - Signal in the Noise",
-  "triggers": [
-   "digerie dude - signal in the noise"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091958759748760016"
- },
- {
   "band": "Myco",
   "name": "More Than Whole",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "elves of ballinmoore — “press it, bless"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103615582356554219"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Signal in the Noise",
+  "triggers": [
+   "digerie dude - signal in the noise"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103635735194571204"
  }
 ]

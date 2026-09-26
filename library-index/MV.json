@@ -464,14 +464,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Digerie Dude - Signal in the Noise",
-  "triggers": [
-   "digerie dude - signal in the noise"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091958759748760016",
-  "tag": "$MfT"
- },
- {
   "name": "EBM- Ballinmoore extends its love",
   "triggers": [
    "ebm- ballinmoore extends its love"
@@ -1301,6 +1293,14 @@
    "water each other - moon rasta"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103610536730456364",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Digerie Dude - Signal in the Noise",
+  "triggers": [
+   "digerie dude - signal in the noise"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103635735194571204",
   "tag": "$MfT"
  }
 ]
