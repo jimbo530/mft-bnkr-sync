@@ -1242,14 +1242,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090468932456951977"
  },
  {
-  "band": "JS",
-  "name": "Build The World Together",
-  "triggers": [
-   "build the world together"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090564602656383288"
- },
- {
   "band": "CB",
   "name": "They Follow US",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "ebm- doubt cant touch us."
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103791691945722233"
+ },
+ {
+  "band": "JS",
+  "name": "Build The World Together",
+  "triggers": [
+   "build the world together"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103811859451146676"
  }
 ]
