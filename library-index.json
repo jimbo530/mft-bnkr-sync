@@ -1378,14 +1378,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091475556944535623"
  },
  {
-  "band": "MV",
-  "name": "rockin regen",
-  "triggers": [
-   "rockin regen"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091576203710746720"
- },
- {
   "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “THOUSAND YEAR PL",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "digerie dude - signal in the noise"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103635735194571204"
+ },
+ {
+  "band": "MV",
+  "name": "rockin regen",
+  "triggers": [
+   "rockin regen"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103640734259630523"
  }
 ]
