@@ -126,14 +126,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "ELVES OF BALLINMOORE — “THOUSAND YEAR PL",
-  "triggers": [
-   "elves of ballinmoore — “thousand year pl"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091737310190600524",
-  "tag": "$MfT"
- },
- {
   "name": "ELVES OF BALLINMOORE — “MEMES TURN TO TREES",
   "triggers": [
    "elves of ballinmoore — “memes turn to trees"
@@ -859,6 +851,14 @@
    "elves of ballinmoore — “internet roots"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103741361681817745",
+  "tag": "$MfT"
+ },
+ {
+  "name": "ELVES OF BALLINMOORE — “THOUSAND YEAR PL",
+  "triggers": [
+   "elves of ballinmoore — “thousand year pl"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103862160791093465",
   "tag": "$MfT"
  }
 ]
