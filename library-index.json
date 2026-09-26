@@ -1299,14 +1299,6 @@
  },
  {
   "band": "EBM",
-  "name": "ELVES OF BALLINMOORE — “MEMES TURN TO TREES",
-  "triggers": [
-   "elves of ballinmoore — “memes turn to trees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091777611177378138"
- },
- {
-  "band": "EBM",
   "name": "All-Time High",
   "triggers": [
    "all-time high"
@@ -7760,5 +7752,13 @@
    "if it was easy"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103892398296142270"
+ },
+ {
+  "band": "EBM",
+  "name": "ELVES OF BALLINMOORE — “MEMES TURN TO TREES",
+  "triggers": [
+   "elves of ballinmoore — “memes turn to trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103912492367835384"
  }
 ]
