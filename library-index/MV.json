@@ -408,14 +408,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "EBM- DOUBT CANT TOUCH US.",
-  "triggers": [
-   "ebm- doubt cant touch us."
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090182061298491699",
-  "tag": "$MfT"
- },
- {
   "name": "EBM - Decentraland Chainport",
   "triggers": [
    "ebm - decentraland chainport"
@@ -1301,6 +1293,14 @@
    "digerie dude - believe in someething"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103786699050340419",
+  "tag": "$MfT"
+ },
+ {
+  "name": "EBM- DOUBT CANT TOUCH US.",
+  "triggers": [
+   "ebm- doubt cant touch us."
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103791691945722233",
   "tag": "$MfT"
  }
 ]
