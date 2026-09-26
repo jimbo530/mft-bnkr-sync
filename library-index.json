@@ -1298,14 +1298,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091893326240686586"
  },
  {
-  "band": "Myco",
-  "name": "More Than Whole",
-  "triggers": [
-   "more than whole"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091973865886916759"
- },
- {
   "band": "CB",
   "name": "Started, Made, Done",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "pass it on hollow hailer"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103942727721222191"
+ },
+ {
+  "band": "Myco",
+  "name": "More Than Whole",
+  "triggers": [
+   "more than whole"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103962855733084394"
  }
 ]
