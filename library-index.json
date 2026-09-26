@@ -1386,14 +1386,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2092255681348850065"
  },
  {
-  "band": "MV",
-  "name": "Digerie Dude - Believe in SomeETHing",
-  "triggers": [
-   "digerie dude - believe in someething"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092280875970896234"
- },
- {
   "band": "CB",
   "name": "Started, Made, Done",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "dance to defend the earth"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103766521218584659"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Believe in SomeETHing",
+  "triggers": [
+   "digerie dude - believe in someething"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103786699050340419"
  }
 ]
