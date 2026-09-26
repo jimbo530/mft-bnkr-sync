@@ -1218,14 +1218,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090182061298491699"
  },
  {
-  "band": "MR",
-  "name": "Roots In The Rhythm",
-  "triggers": [
-   "roots in the rhythm"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090282750318104794"
- },
- {
   "band": "MV",
   "name": "EBM - Decentraland Chainport",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "on-chain garden"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103716234957091135"
+ },
+ {
+  "band": "MR",
+  "name": "Roots In The Rhythm",
+  "triggers": [
+   "roots in the rhythm"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103736357805846952"
  }
 ]
