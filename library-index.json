@@ -1450,14 +1450,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2092280875970896234"
  },
  {
-  "band": "Myco",
-  "name": "Real Proof",
-  "triggers": [
-   "real proof"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092295978866835666"
- },
- {
   "band": "CB",
   "name": "Started, Made, Done",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "rockin regen"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103640734259630523"
+ },
+ {
+  "band": "Myco",
+  "name": "Real Proof",
+  "triggers": [
+   "real proof"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103660880072180152"
  }
 ]

@@ -176,14 +176,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Real Proof",
-  "triggers": [
-   "real proof"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092295978866835666",
-  "tag": "$MfT"
- },
- {
   "name": "Magic Comes From You",
   "triggers": [
    "magic comes from you"
@@ -861,6 +853,14 @@
    "welcome to the party"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103540068002541867",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Real Proof",
+  "triggers": [
+   "real proof"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103660880072180152",
   "tag": "$MfT"
  }
 ]

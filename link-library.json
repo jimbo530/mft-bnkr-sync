@@ -2328,19 +2328,6 @@
     "caption": "\"Digerie Dude - Believe in SomeETHing\"\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2092295978866835666",
-    "translation": "Real Proof",
-    "name": "Real Proof",
-    "triggers": [
-      "real proof"
-    ],
-    "band": "Myco",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2092295978866835666",
-    "caption": "\"Real Proof\" — Myco\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2092542637844668796",
     "translation": "Started, Made, Done",
     "name": "Started, Made, Done",
@@ -12597,5 +12584,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2103640734259630523",
     "caption": "\"rockin regen\"\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2103660880072180152",
+    "translation": "Real Proof",
+    "name": "Real Proof",
+    "triggers": [
+      "real proof"
+    ],
+    "band": "Myco",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2103660880072180152",
+    "caption": "\"Real Proof\" — Myco\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
