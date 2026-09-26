@@ -126,5 +126,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103207882791555524",
   "tag": "$MfT"
+ },
+ {
+  "name": "Bet On The Dreamer",
+  "triggers": [
+   "bet on the dreamer"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103867216613511329",
+  "tag": "$MfT"
  }
 ]
