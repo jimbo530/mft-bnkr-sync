@@ -1290,14 +1290,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090685396900302920"
  },
  {
-  "band": "Myco",
-  "name": "Dance To Defend The Earth",
-  "triggers": [
-   "dance to defend the earth"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090690431688319118"
- },
- {
   "band": "JS",
   "name": "jony sings blockchain boogie",
   "triggers": [
@@ -7752,5 +7744,13 @@
    "signal in the silence"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103761534988013676"
+ },
+ {
+  "band": "Myco",
+  "name": "Dance To Defend The Earth",
+  "triggers": [
+   "dance to defend the earth"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103766521218584659"
  }
 ]
