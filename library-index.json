@@ -1282,14 +1282,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091153470401192316"
  },
  {
-  "band": "MV",
-  "name": "If it was easy",
-  "triggers": [
-   "if it was easy"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091193695903068615"
- },
- {
   "band": "JS",
   "name": "jony sings roots and rythm",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "they follow us"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103887367207592283"
+ },
+ {
+  "band": "MV",
+  "name": "If it was easy",
+  "triggers": [
+   "if it was easy"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103892398296142270"
  }
 ]
