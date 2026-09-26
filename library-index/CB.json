@@ -81,14 +81,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Signal in the silence",
-  "triggers": [
-   "signal in the silence"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090121659160166519",
-  "tag": "$MfT"
- },
- {
   "name": "Building for the Bulls",
   "triggers": [
    "building for the bulls"
@@ -502,6 +494,14 @@
    "digerie dude - pulse of the forest"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103565235650961657",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Signal in the silence",
+  "triggers": [
+   "signal in the silence"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103761534988013676",
   "tag": "$MfT"
  }
 ]

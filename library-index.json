@@ -1195,14 +1195,6 @@
  },
  {
   "band": "CB",
-  "name": "Signal in the silence",
-  "triggers": [
-   "signal in the silence"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090121659160166519"
- },
- {
-  "band": "CB",
   "name": "Building for the Bulls",
   "triggers": [
    "building for the bulls"
@@ -7752,5 +7744,13 @@
    "elves of ballinmoore — “internet roots"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103741361681817745"
+ },
+ {
+  "band": "CB",
+  "name": "Signal in the silence",
+  "triggers": [
+   "signal in the silence"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103761534988013676"
  }
 ]
