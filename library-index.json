@@ -1330,14 +1330,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2092542637844668796"
  },
  {
-  "band": "CB",
-  "name": "Block by Block",
-  "triggers": [
-   "block by block"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092547750655128053"
- },
- {
   "band": "MV",
   "name": "Guardians of the Gate   Jasmine",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "elves of ballinmoore — “memes turn to trees"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103912492367835384"
+ },
+ {
+  "band": "CB",
+  "name": "Block by Block",
+  "triggers": [
+   "block by block"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2103917655958724778"
  }
 ]
