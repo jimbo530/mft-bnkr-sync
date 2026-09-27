@@ -1178,14 +1178,6 @@
   "promote": true
  },
  {
-  "band": "MV",
-  "name": "EBM - Decentraland Chainport",
-  "triggers": [
-   "ebm - decentraland chainport"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090328053230563496"
- },
- {
   "band": "CB",
   "name": "Started, Made, Done",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "liquidity rain"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104295042667999333"
+ },
+ {
+  "band": "MV",
+  "name": "EBM - Decentraland Chainport",
+  "triggers": [
+   "ebm - decentraland chainport"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104315143051972937"
  }
 ]
