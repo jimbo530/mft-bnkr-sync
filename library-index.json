@@ -1186,14 +1186,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2089995856183284221"
  },
  {
-  "band": "MV",
-  "name": "Love is the work - Jasmine",
-  "triggers": [
-   "love is the work - jasmine"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090021025387888937"
- },
- {
   "band": "CB",
   "name": "Building for the Bulls",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "ebm - char to the root"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104043389238776261"
+ },
+ {
+  "band": "MV",
+  "name": "Love is the work - Jasmine",
+  "triggers": [
+   "love is the work - jasmine"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104063517628264683"
  }
 ]
