@@ -1202,14 +1202,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091153470401192316"
  },
  {
-  "band": "EBM",
-  "name": "All-Time High",
-  "triggers": [
-   "all-time high"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091878200129290423"
- },
- {
   "band": "CB",
   "name": "Started, Made, Done",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "you dont know"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104264801488609718"
+ },
+ {
+  "band": "EBM",
+  "name": "All-Time High",
+  "triggers": [
+   "all-time high"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104269887916953770"
  }
 ]
