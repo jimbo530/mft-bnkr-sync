@@ -1354,14 +1354,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093045953070575889"
  },
  {
-  "band": "CB",
-  "name": "EBM - Getting Based",
-  "triggers": [
-   "ebm - getting based"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093091196310561247"
- },
- {
   "band": "MV",
   "name": "Digerie Dude- sound of Growth",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "forest song 2"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103993011508044048"
+ },
+ {
+  "band": "CB",
+  "name": "EBM - Getting Based",
+  "triggers": [
+   "ebm - getting based"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104013178300506481"
  }
 ]
