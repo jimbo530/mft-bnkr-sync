@@ -1186,14 +1186,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090328053230563496"
  },
  {
-  "band": "Myco",
-  "name": "Liquidity Rain",
-  "triggers": [
-   "liquidity rain"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090665225401819456"
- },
- {
   "band": "CB",
   "name": "Started, Made, Done",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "hero for being here"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104290004839080064"
+ },
+ {
+  "band": "Myco",
+  "name": "Liquidity Rain",
+  "triggers": [
+   "liquidity rain"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104295042667999333"
  }
 ]
