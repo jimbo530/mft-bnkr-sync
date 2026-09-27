@@ -1226,14 +1226,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2092728880364691698"
  },
  {
-  "band": "JS",
-  "name": "You Dont Know",
-  "triggers": [
-   "you dont know"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092824497954975959"
- },
- {
   "band": "MV",
   "name": "EBM - We Are BASED",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "ebm - global village"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104239677653794939"
+ },
+ {
+  "band": "JS",
+  "name": "You Dont Know",
+  "triggers": [
+   "you dont know"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104264801488609718"
  }
 ]
