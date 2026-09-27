@@ -1186,14 +1186,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2092542637844668796"
  },
  {
-  "band": "Myco",
-  "name": "Magic Comes From You",
-  "triggers": [
-   "magic comes from you"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092728880364691698"
- },
- {
   "band": "MV",
   "name": "EBM - We Are BASED",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "ebm - decentraland chainport"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104315143051972937"
+ },
+ {
+  "band": "Myco",
+  "name": "Magic Comes From You",
+  "triggers": [
+   "magic comes from you"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104340334427709497"
  }
 ]
