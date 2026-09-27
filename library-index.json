@@ -1178,14 +1178,6 @@
   "promote": true
  },
  {
-  "band": "CB",
-  "name": "Building for the Bulls",
-  "triggers": [
-   "building for the bulls"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090146947457827160"
- },
- {
   "band": "MV",
   "name": "EBM - Decentraland Chainport",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "signal in the noise"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104214504884036040"
+ },
+ {
+  "band": "CB",
+  "name": "Building for the Bulls",
+  "triggers": [
+   "building for the bulls"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104219622580903987"
  }
 ]
