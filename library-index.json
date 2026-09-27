@@ -1178,14 +1178,6 @@
   "promote": true
  },
  {
-  "band": "CB",
-  "name": "Started, Made, Done",
-  "triggers": [
-   "started, made, done"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092542637844668796"
- },
- {
   "band": "MV",
   "name": "EBM - We Are BASED",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "magic comes from you"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104340334427709497"
+ },
+ {
+  "band": "CB",
+  "name": "Started, Made, Done",
+  "triggers": [
+   "started, made, done"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104345327742402764"
  }
 ]
