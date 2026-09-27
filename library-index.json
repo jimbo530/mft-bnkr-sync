@@ -1250,14 +1250,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2092542637844668796"
  },
  {
-  "band": "MV",
-  "name": "Digerie Dude - Crown of Silence",
-  "triggers": [
-   "digerie dude - crown of silence"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092668470252957919"
- },
- {
   "band": "Myco",
   "name": "Magic Comes From You",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "jony sings, alive"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104169169990160716"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Crown of Silence",
+  "triggers": [
+   "digerie dude - crown of silence"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104189351093563753"
  }
 ]
