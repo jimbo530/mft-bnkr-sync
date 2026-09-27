@@ -1899,19 +1899,6 @@
     "caption": "\"EBM - Decentraland Chainport\"\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2090348173923352584",
-    "translation": "EBM - Global Village",
-    "name": "EBM - Global Village",
-    "triggers": [
-      "ebm - global village"
-    ],
-    "band": "CB",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2090348173923352584",
-    "caption": "\"EBM - Global Village\" — CB\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2090665225401819456",
     "translation": "Liquidity Rain",
     "name": "Liquidity Rain",
@@ -12610,5 +12597,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2104219622580903987",
     "caption": "\"Building for the Bulls\" — CB\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2104239677653794939",
+    "translation": "EBM - Global Village",
+    "name": "EBM - Global Village",
+    "triggers": [
+      "ebm - global village"
+    ],
+    "band": "CB",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2104239677653794939",
+    "caption": "\"EBM - Global Village\" — CB\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

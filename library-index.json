@@ -1186,14 +1186,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090328053230563496"
  },
  {
-  "band": "CB",
-  "name": "EBM - Global Village",
-  "triggers": [
-   "ebm - global village"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090348173923352584"
- },
- {
   "band": "Myco",
   "name": "Liquidity Rain",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "building for the bulls"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104219622580903987"
+ },
+ {
+  "band": "CB",
+  "name": "EBM - Global Village",
+  "triggers": [
+   "ebm - global village"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104239677653794939"
  }
 ]
