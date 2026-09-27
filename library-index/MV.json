@@ -424,14 +424,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Digerie Dude- sound of Growth",
-  "triggers": [
-   "digerie dude- sound of growth"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093186885568917761",
-  "tag": "$MfT"
- },
- {
   "name": "EBM - Marc on base burger boys",
   "triggers": [
    "ebm - marc on base burger boys"
@@ -1301,6 +1293,14 @@
    "guardians of the gate   jasmine"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104113856029106500",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Digerie Dude- sound of Growth",
+  "triggers": [
+   "digerie dude- sound of growth"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104164189442846779",
   "tag": "$MfT"
  }
 ]

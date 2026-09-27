@@ -1290,14 +1290,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093045953070575889"
  },
  {
-  "band": "MV",
-  "name": "Digerie Dude- sound of Growth",
-  "triggers": [
-   "digerie dude- sound of growth"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093186885568917761"
- },
- {
   "band": "MR",
   "name": "Water Is Life",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "proof of life"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104144042946699661"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude- sound of Growth",
+  "triggers": [
+   "digerie dude- sound of growth"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104164189442846779"
  }
 ]
