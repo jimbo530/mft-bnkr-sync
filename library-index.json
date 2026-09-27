@@ -1178,14 +1178,6 @@
   "promote": true
  },
  {
-  "band": "MV",
-  "name": "Digerie Dude- Bridges not walls",
-  "triggers": [
-   "digerie dude- bridges not walls"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2089995856183284221"
- },
- {
   "band": "CB",
   "name": "Building for the Bulls",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "love is the work - jasmine"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104063517628264683"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude- Bridges not walls",
+  "triggers": [
+   "digerie dude- bridges not walls"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104068512071246126"
  }
 ]
