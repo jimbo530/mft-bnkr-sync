@@ -136,14 +136,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Hero For Being Here",
-  "triggers": [
-   "hero for being here"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091153470401192316",
-  "tag": "$MfT"
- },
- {
   "name": "Magic Comes From You",
   "triggers": [
    "magic comes from you"
@@ -861,6 +853,14 @@
    "pizza day party"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104088685507477955",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Hero For Being Here",
+  "triggers": [
+   "hero for being here"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104290004839080064",
   "tag": "$MfT"
  }
 ]

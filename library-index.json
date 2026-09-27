@@ -1194,14 +1194,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090665225401819456"
  },
  {
-  "band": "Myco",
-  "name": "Hero For Being Here",
-  "triggers": [
-   "hero for being here"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091153470401192316"
- },
- {
   "band": "CB",
   "name": "Started, Made, Done",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "all-time high"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104269887916953770"
+ },
+ {
+  "band": "Myco",
+  "name": "Hero For Being Here",
+  "triggers": [
+   "hero for being here"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104290004839080064"
  }
 ]
