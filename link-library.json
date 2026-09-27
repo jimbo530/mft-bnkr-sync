@@ -2055,19 +2055,6 @@
     "caption": "\"Digerie Dude - Crown of Silence\"\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2092723834109505981",
-    "translation": "Gotta Get Paid",
-    "name": "Gotta Get Paid",
-    "triggers": [
-      "gotta get paid"
-    ],
-    "band": "JS",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2092723834109505981",
-    "caption": "\"Gotta Get Paid\" — Jony Sings\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2092728880364691698",
     "translation": "Magic Comes From You",
     "name": "Magic Comes From You",
@@ -12610,5 +12597,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2104088685507477955",
     "caption": "\"Pizza Day Party\" — Myco\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2104093716440830341",
+    "translation": "Gotta Get Paid",
+    "name": "Gotta Get Paid",
+    "triggers": [
+      "gotta get paid"
+    ],
+    "band": "JS",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2104093716440830341",
+    "caption": "\"Gotta Get Paid\" — Jony Sings\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

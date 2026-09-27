@@ -1282,14 +1282,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2092668470252957919"
  },
  {
-  "band": "JS",
-  "name": "Gotta Get Paid",
-  "triggers": [
-   "gotta get paid"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2092723834109505981"
- },
- {
   "band": "Myco",
   "name": "Magic Comes From You",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "pizza day party"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104088685507477955"
+ },
+ {
+  "band": "JS",
+  "name": "Gotta Get Paid",
+  "triggers": [
+   "gotta get paid"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104093716440830341"
  }
 ]
