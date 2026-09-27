@@ -456,14 +456,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "EBM - Char to the Root",
-  "triggers": [
-   "ebm - char to the root"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093403319741927739",
-  "tag": "$MfT"
- },
- {
   "name": "EBM - Marc on base burger boys",
   "triggers": [
    "ebm - marc on base burger boys"
@@ -1301,6 +1293,14 @@
    "ebm - code not coal"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104018237759398124",
+  "tag": "$MfT"
+ },
+ {
+  "name": "EBM - Char to the Root",
+  "triggers": [
+   "ebm - char to the root"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104043389238776261",
   "tag": "$MfT"
  }
 ]

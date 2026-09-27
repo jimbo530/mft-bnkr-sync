@@ -1346,14 +1346,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093186885568917761"
  },
  {
-  "band": "MV",
-  "name": "EBM - Char to the Root",
-  "triggers": [
-   "ebm - char to the root"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093403319741927739"
- },
- {
   "band": "MR",
   "name": "Water Is Life",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "jony sings blockchain boogie"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104038353741955165"
+ },
+ {
+  "band": "MV",
+  "name": "EBM - Char to the Root",
+  "triggers": [
+   "ebm - char to the root"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104043389238776261"
  }
 ]
