@@ -1202,14 +1202,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090348173923352584"
  },
  {
-  "band": "MV",
-  "name": "diversity the key",
-  "triggers": [
-   "diversity the key"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090363231835484523"
- },
- {
   "band": "DD",
   "name": "Signal in the Noise",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "digerie dude - crown of silence"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104189351093563753"
+ },
+ {
+  "band": "MV",
+  "name": "diversity the key",
+  "triggers": [
+   "diversity the key"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104194368328327595"
  }
 ]
