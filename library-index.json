@@ -1202,14 +1202,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090348173923352584"
  },
  {
-  "band": "DD",
-  "name": "Signal in the Noise",
-  "triggers": [
-   "signal in the noise"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090604818574291346"
- },
- {
   "band": "Myco",
   "name": "Liquidity Rain",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "diversity the key"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104194368328327595"
+ },
+ {
+  "band": "DD",
+  "name": "Signal in the Noise",
+  "triggers": [
+   "signal in the noise"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104214504884036040"
  }
 ]
