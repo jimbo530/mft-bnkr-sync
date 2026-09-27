@@ -1258,14 +1258,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2091878200129290423"
  },
  {
-  "band": "Myco",
-  "name": "Pizza Day Party",
-  "triggers": [
-   "pizza day party"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2091893326240686586"
- },
- {
   "band": "CB",
   "name": "Started, Made, Done",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "digerie dude- bridges not walls"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104068512071246126"
+ },
+ {
+  "band": "Myco",
+  "name": "Pizza Day Party",
+  "triggers": [
+   "pizza day party"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104088685507477955"
  }
 ]
