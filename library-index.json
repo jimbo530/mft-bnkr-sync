@@ -1258,14 +1258,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090685396900302920"
  },
  {
-  "band": "JS",
-  "name": "jony sings blockchain boogie",
-  "triggers": [
-   "jony sings blockchain boogie"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090750826495025461"
- },
- {
   "band": "Myco",
   "name": "Hero For Being Here",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "ebm - code not coal"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104018237759398124"
+ },
+ {
+  "band": "JS",
+  "name": "jony sings blockchain boogie",
+  "triggers": [
+   "jony sings blockchain boogie"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104038353741955165"
  }
 ]
