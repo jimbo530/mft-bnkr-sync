@@ -6002,14 +6002,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101219812735115402"
  },
  {
-  "band": "JS",
-  "name": "Proof Of Life",
-  "triggers": [
-   "proof of life"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101224832419438957"
- },
- {
   "band": "DD",
   "name": "Title  “Scared Money Can’t Win”",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "jony sings, devil wants my song"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104138972372795715"
+ },
+ {
+  "band": "JS",
+  "name": "Proof Of Life",
+  "triggers": [
+   "proof of life"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104144042946699661"
  }
 ]
