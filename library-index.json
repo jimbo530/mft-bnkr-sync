@@ -1210,14 +1210,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2090363231835484523"
  },
  {
-  "band": "JS",
-  "name": "Jony Sings, alive",
-  "triggers": [
-   "jony sings, alive"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090468932456951977"
- },
- {
   "band": "DD",
   "name": "Signal in the Noise",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "digerie dude- sound of growth"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104164189442846779"
+ },
+ {
+  "band": "JS",
+  "name": "Jony Sings, alive",
+  "triggers": [
+   "jony sings, alive"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104169169990160716"
  }
 ]

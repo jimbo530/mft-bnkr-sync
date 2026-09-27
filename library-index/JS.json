@@ -25,14 +25,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Jony Sings, alive",
-  "triggers": [
-   "jony sings, alive"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2090468932456951977",
-  "tag": "$MfT"
- },
- {
   "name": "You Dont Know",
   "triggers": [
    "you dont know"
@@ -766,6 +758,14 @@
    "proof of life"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104144042946699661",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Jony Sings, alive",
+  "triggers": [
+   "jony sings, alive"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104169169990160716",
   "tag": "$MfT"
  }
 ]
