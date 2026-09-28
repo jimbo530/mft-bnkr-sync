@@ -7234,14 +7234,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2103535064701108499"
  },
  {
-  "band": "Myco",
-  "name": "Welcome To The Party",
-  "triggers": [
-   "welcome to the party"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103540068002541867"
- },
- {
   "band": "JS",
   "name": "For The Builders",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the rite of the floor"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104415834785386666"
+ },
+ {
+  "band": "Myco",
+  "name": "Welcome To The Party",
+  "triggers": [
+   "welcome to the party"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104420856290062646"
  }
 ]
