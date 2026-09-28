@@ -3658,14 +3658,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097268766472057091"
  },
  {
-  "band": "DD",
-  "name": "Every Language Sings a Tree",
-  "triggers": [
-   "every language sings a tree"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097273769018425475"
- },
- {
   "band": "ALAN",
   "name": "The Lord Who Rules Nobody",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "forward"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104571874407497897"
+ },
+ {
+  "band": "DD",
+  "name": "Every Language Sings a Tree",
+  "triggers": [
+   "every language sings a tree"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104591945402114508"
  }
 ]
