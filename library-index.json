@@ -4890,14 +4890,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2099634392800866639"
  },
  {
-  "band": "DD",
-  "name": "Quite Revolution of Love",
-  "triggers": [
-   "quite revolution of love"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099644432748290491"
- },
- {
   "band": "MV",
   "name": "Forest on Fire   rock (v2)",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the plantin' crew"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104541658612224101"
+ },
+ {
+  "band": "DD",
+  "name": "Quite Revolution of Love",
+  "triggers": [
+   "quite revolution of love"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104566790038712525"
  }
 ]
