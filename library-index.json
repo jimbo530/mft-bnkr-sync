@@ -3011,14 +3011,6 @@
  },
  {
   "band": "JS",
-  "name": "Penny By Penny",
-  "triggers": [
-   "penny by penny"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096116182696784003"
- },
- {
-  "band": "JS",
   "name": "A Buck and an Acorn",
   "triggers": [
    "a buck and an acorn"
@@ -7760,5 +7752,13 @@
    "name yer monkey"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104440985262444616"
+ },
+ {
+  "band": "JS",
+  "name": "Penny By Penny",
+  "triggers": [
+   "penny by penny"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104446020394381766"
  }
 ]

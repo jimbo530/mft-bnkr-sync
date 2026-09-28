@@ -161,14 +161,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Penny By Penny",
-  "triggers": [
-   "penny by penny"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096116182696784003",
-  "tag": "$MfT"
- },
- {
   "name": "A Buck and an Acorn",
   "triggers": [
    "a buck and an acorn"
@@ -766,6 +758,14 @@
    "you dont know"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104264801488609718",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Penny By Penny",
+  "triggers": [
+   "penny by penny"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104446020394381766",
   "tag": "$MfT"
  }
 ]
