@@ -2050,14 +2050,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094787433522962735"
  },
  {
-  "band": "Bongo",
-  "name": "The Agent Does It",
-  "triggers": [
-   "the agent does it"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094802483059020054"
- },
- {
   "band": "DGT",
   "name": "The Trust That Can't Be Repossessed",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the bridge that folds"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104667475157700757"
+ },
+ {
+  "band": "Bongo",
+  "name": "The Agent Does It",
+  "triggers": [
+   "the agent does it"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104672467465691204"
  }
 ]
