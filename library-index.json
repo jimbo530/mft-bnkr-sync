@@ -1786,14 +1786,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094274020359159834"
  },
  {
-  "band": "SEAS",
-  "name": "Stores That Never Empty",
-  "triggers": [
-   "stores that never empty"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094289125335601197"
- },
- {
   "band": "EBM",
   "name": "Feed The People",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "we built the furnace ourselves"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104622230978097427"
+ },
+ {
+  "band": "SEAS",
+  "name": "Stores That Never Empty",
+  "triggers": [
+   "stores that never empty"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104642320746320311"
  }
 ]
