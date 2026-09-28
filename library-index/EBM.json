@@ -478,14 +478,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Halls Outlive Kingdoms",
-  "triggers": [
-   "halls outlive kingdoms"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099332367374528743",
-  "tag": "$MfT"
- },
- {
   "name": "Un Rugables",
   "triggers": [
    "un rugables"
@@ -859,6 +851,14 @@
    "all-time high"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104269887916953770",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Halls Outlive Kingdoms",
+  "triggers": [
+   "halls outlive kingdoms"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104466145474470255",
   "tag": "$MfT"
  }
 ]

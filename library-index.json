@@ -4722,14 +4722,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2099327302010015847"
  },
  {
-  "band": "EBM",
-  "name": "Halls Outlive Kingdoms",
-  "triggers": [
-   "halls outlive kingdoms"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099332367374528743"
- },
- {
   "band": "DD",
   "name": "Older Than The Wire",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "penny by penny"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104446020394381766"
+ },
+ {
+  "band": "EBM",
+  "name": "Halls Outlive Kingdoms",
+  "triggers": [
+   "halls outlive kingdoms"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104466145474470255"
  }
 ]
