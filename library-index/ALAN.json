@@ -96,14 +96,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "For bankrbot — gg3p",
-  "triggers": [
-   "for bankrbot — gg3p"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101924403265052691",
-  "tag": "$MfT"
- },
- {
   "name": "Here Building Anyway",
   "triggers": [
    "here building anyway"
@@ -133,6 +125,14 @@
    "bet on the dreamer"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2103867216613511329",
+  "tag": "$MfT"
+ },
+ {
+  "name": "For bankrbot — gg3p",
+  "triggers": [
+   "for bankrbot — gg3p"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104370516538618182",
   "tag": "$MfT"
  }
 ]

@@ -6290,14 +6290,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101904327690301872"
  },
  {
-  "band": "ALAN",
-  "name": "For bankrbot — gg3p",
-  "triggers": [
-   "for bankrbot — gg3p"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101924403265052691"
- },
- {
   "band": "Myco",
   "name": "Forge the Future",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "welcome to the race (holm's reel)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104365496900464652"
+ },
+ {
+  "band": "ALAN",
+  "name": "For bankrbot — gg3p",
+  "triggers": [
+   "for bankrbot — gg3p"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104370516538618182"
  }
 ]
