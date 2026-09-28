@@ -4626,14 +4626,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2099131059887538233"
  },
  {
-  "band": "Rish",
-  "name": "Name Yer Monkey",
-  "triggers": [
-   "name yer monkey"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099156174977315162"
- },
- {
   "band": "HammerTone",
   "name": "The Grind Holds",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "welcome to the party"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104420856290062646"
+ },
+ {
+  "band": "Rish",
+  "name": "Name Yer Monkey",
+  "triggers": [
+   "name yer monkey"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104440985262444616"
  }
 ]

@@ -313,14 +313,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Name Yer Monkey",
-  "triggers": [
-   "name yer monkey"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099156174977315162",
-  "tag": "$MfT"
- },
- {
   "name": "Plant It, Ye Giants",
   "triggers": [
    "plant it, ye giants"
@@ -366,6 +358,14 @@
    "the club throws the door"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104390656126795948",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Name Yer Monkey",
+  "triggers": [
+   "name yer monkey"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104440985262444616",
   "tag": "$MfT"
  }
 ]
