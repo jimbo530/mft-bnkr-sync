@@ -1498,14 +1498,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093886435912786204"
  },
  {
-  "band": "Rish",
-  "name": "The Road to Robinhood",
-  "triggers": [
-   "the road to robinhood"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093891504875946271"
- },
- {
   "band": "DD",
   "name": "The Dinner Drum",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "they paid me nothing (and i love it)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104596973189779667"
+ },
+ {
+  "band": "Rish",
+  "name": "The Road to Robinhood",
+  "triggers": [
+   "the road to robinhood"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104617181891768420"
  }
 ]
