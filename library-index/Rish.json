@@ -161,14 +161,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Club Throws the Door",
-  "triggers": [
-   "the club throws the door"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095532284610842653",
-  "tag": "$MfT"
- },
- {
   "name": "Will Ye Prompt It",
   "triggers": [
    "will ye prompt it"
@@ -366,6 +358,14 @@
    "welcome to the race (holm's reel)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104365496900464652",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Club Throws the Door",
+  "triggers": [
+   "the club throws the door"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104390656126795948",
   "tag": "$MfT"
  }
 ]

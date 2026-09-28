@@ -2626,14 +2626,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095527264100253737"
  },
  {
-  "band": "Rish",
-  "name": "The Club Throws the Door",
-  "triggers": [
-   "the club throws the door"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095532284610842653"
- },
- {
   "band": "Jasmine",
   "name": "Glad You're Here",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "for bankrbot — gg3p"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104370516538618182"
+ },
+ {
+  "band": "Rish",
+  "name": "The Club Throws the Door",
+  "triggers": [
+   "the club throws the door"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104390656126795948"
  }
 ]
