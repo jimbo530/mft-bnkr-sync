@@ -7130,14 +7130,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2103610536730456364"
  },
  {
-  "band": "EBM",
-  "name": "ELVES OF BALLINMOORE — “PRESS IT, BLESS",
-  "triggers": [
-   "elves of ballinmoore — “press it, bless"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103615582356554219"
- },
- {
   "band": "MV",
   "name": "Digerie Dude - Signal in the Noise",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "ebm- ballinmoore extends its love"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104692619041292773"
+ },
+ {
+  "band": "EBM",
+  "name": "ELVES OF BALLINMOORE — “PRESS IT, BLESS",
+  "triggers": [
+   "elves of ballinmoore — “press it, bless"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104697686641262787"
  }
 ]
