@@ -5618,19 +5618,6 @@
     "caption": "\"Plain Language Door\" — Elves of Ballinmoore\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2096795663212200430",
-    "translation": "Welcome to the Race (HOLM's Reel)",
-    "name": "Welcome to the Race (HOLM's Reel)",
-    "triggers": [
-      "welcome to the race (holm's reel)"
-    ],
-    "band": "Rish",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2096795663212200430",
-    "caption": "\"Welcome to the Race (HOLM's Reel)\" — Rish\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2096800696439918982",
     "translation": "The Hordes Keep Coming",
     "name": "The Hordes Keep Coming",
@@ -12610,5 +12597,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2104345327742402764",
     "caption": "\"Started, Made, Done\" — CB\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2104365496900464652",
+    "translation": "Welcome to the Race (HOLM's Reel)",
+    "name": "Welcome to the Race (HOLM's Reel)",
+    "triggers": [
+      "welcome to the race (holm's reel)"
+    ],
+    "band": "Rish",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2104365496900464652",
+    "caption": "\"Welcome to the Race (HOLM's Reel)\" — Rish\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

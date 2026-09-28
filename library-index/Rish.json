@@ -217,14 +217,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Welcome to the Race (HOLM's Reel)",
-  "triggers": [
-   "welcome to the race (holm's reel)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096795663212200430",
-  "tag": "$MfT"
- },
- {
   "name": "Will Ye Join the Crew",
   "triggers": [
    "will ye join the crew"
@@ -366,6 +358,14 @@
    "one piece at a time"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2101093969090482425",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Welcome to the Race (HOLM's Reel)",
+  "triggers": [
+   "welcome to the race (holm's reel)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104365496900464652",
   "tag": "$MfT"
  }
 ]

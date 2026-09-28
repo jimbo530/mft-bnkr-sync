@@ -3458,14 +3458,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096770485908279787"
  },
  {
-  "band": "Rish",
-  "name": "Welcome to the Race (HOLM's Reel)",
-  "triggers": [
-   "welcome to the race (holm's reel)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096795663212200430"
- },
- {
   "band": "WarMachine",
   "name": "The Hordes Keep Coming",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "started, made, done"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104345327742402764"
+ },
+ {
+  "band": "Rish",
+  "name": "Welcome to the Race (HOLM's Reel)",
+  "triggers": [
+   "welcome to the race (holm's reel)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104365496900464652"
  }
 ]
