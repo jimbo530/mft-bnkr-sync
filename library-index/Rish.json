@@ -41,14 +41,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Plantin' Crew",
-  "triggers": [
-   "the plantin' crew"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094027408647094588",
-  "tag": "$MfT"
- },
- {
   "name": "The Good Way (We Grow Every Day)",
   "triggers": [
    "the good way (we grow every day)"
@@ -366,6 +358,14 @@
    "name yer monkey"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104440985262444616",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Plantin' Crew",
+  "triggers": [
+   "the plantin' crew"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104541658612224101",
   "tag": "$MfT"
  }
 ]

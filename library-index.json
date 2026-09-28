@@ -1610,14 +1610,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094012255721406889"
  },
  {
-  "band": "Rish",
-  "name": "The Plantin' Crew",
-  "triggers": [
-   "the plantin' crew"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094027408647094588"
- },
- {
   "band": "Bongo",
   "name": "The Bridge That Folds",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "green hearts- moon rasta"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104521524241736161"
+ },
+ {
+  "band": "Rish",
+  "name": "The Plantin' Crew",
+  "triggers": [
+   "the plantin' crew"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104541658612224101"
  }
 ]
