@@ -6770,14 +6770,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2102830375894434178"
  },
  {
-  "band": "MV",
-  "name": "Natalie power of a meme",
-  "triggers": [
-   "natalie power of a meme"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102835466647081146"
- },
- {
   "band": "JS",
   "name": "Jony Sings move like magic",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "together we rise -g.o.a.t."
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104491324724375800"
+ },
+ {
+  "band": "MV",
+  "name": "Natalie power of a meme",
+  "triggers": [
+   "natalie power of a meme"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104496385617707334"
  }
 ]
