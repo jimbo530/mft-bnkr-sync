@@ -6890,14 +6890,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2103031723722199515"
  },
  {
-  "band": "MV",
-  "name": "EBM- Alliance",
-  "triggers": [
-   "ebm- alliance"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103036774205301067"
- },
- {
   "band": "EBM",
   "name": "Forest Got Funded",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "natalie power of a meme"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104496385617707334"
+ },
+ {
+  "band": "MV",
+  "name": "EBM- Alliance",
+  "triggers": [
+   "ebm- alliance"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104516500065337450"
  }
 ]
