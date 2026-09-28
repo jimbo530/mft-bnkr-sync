@@ -1354,14 +1354,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093685123812119014"
  },
  {
-  "band": "Myco",
-  "name": "Party Til Forests Are Funded",
-  "triggers": [
-   "party til forests are funded"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093690188425822511"
- },
- {
   "band": "ALAN",
   "name": "Still Building After Dark",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the club throws the door"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104390656126795948"
+ },
+ {
+  "band": "Myco",
+  "name": "Party Til Forests Are Funded",
+  "triggers": [
+   "party til forests are funded"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104395696942014879"
  }
 ]
