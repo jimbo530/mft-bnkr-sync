@@ -2250,19 +2250,6 @@
     "caption": "\"Against Da FUD\" — War Machine\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2093765681577611552",
-    "translation": "They Paid Me Nothing (And I Love It)",
-    "name": "They Paid Me Nothing (And I Love It)",
-    "triggers": [
-      "they paid me nothing (and i love it)"
-    ],
-    "band": "Bongo",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2093765681577611552",
-    "caption": "\"They Paid Me Nothing (And I Love It)\" — Bongo\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2093770669716550108",
     "translation": "Canopy Law",
     "name": "Canopy Law",
@@ -12610,5 +12597,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2104591945402114508",
     "caption": "\"Every Language Sings a Tree\" — Digerie Dude\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2104596973189779667",
+    "translation": "They Paid Me Nothing (And I Love It)",
+    "name": "They Paid Me Nothing (And I Love It)",
+    "triggers": [
+      "they paid me nothing (and i love it)"
+    ],
+    "band": "Bongo",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2104596973189779667",
+    "caption": "\"They Paid Me Nothing (And I Love It)\" — Bongo\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

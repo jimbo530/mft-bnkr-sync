@@ -1402,14 +1402,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093750537028022736"
  },
  {
-  "band": "Bongo",
-  "name": "They Paid Me Nothing (And I Love It)",
-  "triggers": [
-   "they paid me nothing (and i love it)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093765681577611552"
- },
- {
   "band": "EBM",
   "name": "Canopy Law",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "every language sings a tree"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104591945402114508"
+ },
+ {
+  "band": "Bongo",
+  "name": "They Paid Me Nothing (And I Love It)",
+  "triggers": [
+   "they paid me nothing (and i love it)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104596973189779667"
  }
 ]
