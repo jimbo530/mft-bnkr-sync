@@ -3650,14 +3650,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097208371392745540"
  },
  {
-  "band": "Myco",
-  "name": "The Rite of the Floor",
-  "triggers": [
-   "the rite of the floor"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097213437054963931"
- },
- {
   "band": "Biggins",
   "name": "It Brought Its Own Pack",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "party til forests are funded"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104395696942014879"
+ },
+ {
+  "band": "Myco",
+  "name": "The Rite of the Floor",
+  "triggers": [
+   "the rite of the floor"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104415834785386666"
  }
 ]
