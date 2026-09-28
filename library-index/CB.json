@@ -369,14 +369,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "EBM - Code Not Coal",
-  "triggers": [
-   "ebm - code not coal"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101048669566845243",
-  "tag": "$MfT"
- },
- {
   "name": "EBM - Together we grow CB",
   "triggers": [
    "ebm - together we grow cb"
@@ -502,6 +494,14 @@
    "started, made, done"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104345327742402764",
+  "tag": "$MfT"
+ },
+ {
+  "name": "EBM - Code Not Coal",
+  "triggers": [
+   "ebm - code not coal"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104471145554596126",
   "tag": "$MfT"
  }
 ]

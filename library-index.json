@@ -5722,14 +5722,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101043597369848073"
  },
  {
-  "band": "CB",
-  "name": "EBM - Code Not Coal",
-  "triggers": [
-   "ebm - code not coal"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101048669566845243"
- },
- {
   "band": "EBM",
   "name": "Never Miss a Day",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "halls outlive kingdoms"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104466145474470255"
+ },
+ {
+  "band": "CB",
+  "name": "EBM - Code Not Coal",
+  "triggers": [
+   "ebm - code not coal"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104471145554596126"
  }
 ]
