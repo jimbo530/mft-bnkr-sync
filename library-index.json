@@ -4426,14 +4426,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2098834091005051178"
  },
  {
-  "band": "DGT",
-  "name": "We Built the Furnace Ourselves",
-  "triggers": [
-   "we built the furnace ourselves"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098839197553455483"
- },
- {
   "band": "NN",
   "name": "Keep Your Purse",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the road to robinhood"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104617181891768420"
+ },
+ {
+  "band": "DGT",
+  "name": "We Built the Furnace Ourselves",
+  "triggers": [
+   "we built the furnace ourselves"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104622230978097427"
  }
 ]
