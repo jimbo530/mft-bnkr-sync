@@ -4995,14 +4995,6 @@
  },
  {
   "band": "MV",
-  "name": "Together we rise -G.O.A.T.",
-  "triggers": [
-   "together we rise -g.o.a.t."
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099800428279927030"
- },
- {
-  "band": "MV",
   "name": "EBM- more love",
   "triggers": [
    "ebm- more love"
@@ -7760,5 +7752,13 @@
    "ebm - code not coal"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104471145554596126"
+ },
+ {
+  "band": "MV",
+  "name": "Together we rise -G.O.A.T.",
+  "triggers": [
+   "together we rise -g.o.a.t."
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104491324724375800"
  }
 ]
