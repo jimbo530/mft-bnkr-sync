@@ -592,14 +592,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Forward",
-  "triggers": [
-   "forward"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101325498387173445",
-  "tag": "$MfT"
- },
- {
   "name": "Give It Away",
   "triggers": [
    "give it away"
@@ -861,6 +853,14 @@
    "welcome to the party"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104420856290062646",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Forward",
+  "triggers": [
+   "forward"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104571874407497897",
   "tag": "$MfT"
  }
 ]

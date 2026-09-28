@@ -5858,14 +5858,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101320427138113613"
  },
  {
-  "band": "Myco",
-  "name": "Forward",
-  "triggers": [
-   "forward"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101325498387173445"
- },
- {
   "band": "CB",
   "name": "BASE BASE BASE",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "quite revolution of love"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104566790038712525"
+ },
+ {
+  "band": "Myco",
+  "name": "Forward",
+  "triggers": [
+   "forward"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104571874407497897"
  }
 ]
