@@ -12144,19 +12144,6 @@
     "caption": "\"Proof Of Life\" — Jony Sings\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2104164189442846779",
-    "translation": "Digerie Dude- sound of Growth",
-    "name": "Digerie Dude- sound of Growth",
-    "triggers": [
-      "digerie dude- sound of growth"
-    ],
-    "band": "MV",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2104164189442846779",
-    "caption": "\"Digerie Dude- sound of Growth\"\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2104169169990160716",
     "translation": "Jony Sings, alive",
     "name": "Jony Sings, alive",
@@ -12610,5 +12597,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2104642320746320311",
     "caption": "\"Stores That Never Empty\" — Seize the Seas\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2104647354708025727",
+    "translation": "Digerie Dude- sound of Growth",
+    "name": "Digerie Dude- sound of Growth",
+    "triggers": [
+      "digerie dude- sound of growth"
+    ],
+    "band": "MV",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2104647354708025727",
+    "caption": "\"Digerie Dude- sound of Growth\"\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

@@ -1240,14 +1240,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Digerie Dude- sound of Growth",
-  "triggers": [
-   "digerie dude- sound of growth"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2104164189442846779",
-  "tag": "$MfT"
- },
- {
   "name": "Digerie Dude - Crown of Silence",
   "triggers": [
    "digerie dude - crown of silence"
@@ -1301,6 +1293,14 @@
    "green hearts- moon rasta"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104521524241736161",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Digerie Dude- sound of Growth",
+  "triggers": [
+   "digerie dude- sound of growth"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104647354708025727",
   "tag": "$MfT"
  }
 ]
