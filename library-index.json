@@ -1594,14 +1594,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094012255721406889"
  },
  {
-  "band": "Bongo",
-  "name": "The Bridge That Folds",
-  "triggers": [
-   "the bridge that folds"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094032432286650787"
- },
- {
   "band": "DGT",
   "name": "Requests at Last Call",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "digerie dude- sound of growth"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104647354708025727"
+ },
+ {
+  "band": "Bongo",
+  "name": "The Bridge That Folds",
+  "triggers": [
+   "the bridge that folds"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104667475157700757"
  }
 ]
