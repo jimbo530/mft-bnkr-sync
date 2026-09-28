@@ -5266,14 +5266,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100369225411862737"
  },
  {
-  "band": "Myco",
-  "name": "AI Band Empire",
-  "triggers": [
-   "ai band empire"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100389351284736166"
- },
- {
   "band": "JS",
   "name": "Regen Rising",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "elves of ballinmoore — “press it, bless"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104697686641262787"
+ },
+ {
+  "band": "Myco",
+  "name": "AI Band Empire",
+  "triggers": [
+   "ai band empire"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104717814430876040"
  }
 ]
