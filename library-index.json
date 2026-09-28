@@ -7250,14 +7250,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2103811859451146676"
  },
  {
-  "band": "MV",
-  "name": "EBM- Ballinmoore extends its love",
-  "triggers": [
-   "ebm- ballinmoore extends its love"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103816857539035338"
- },
- {
   "band": "JS",
   "name": "jony sings Polyraiders",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the agent does it"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104672467465691204"
+ },
+ {
+  "band": "MV",
+  "name": "EBM- Ballinmoore extends its love",
+  "triggers": [
+   "ebm- ballinmoore extends its love"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104692619041292773"
  }
 ]
