@@ -7290,14 +7290,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2103942727721222191"
  },
  {
-  "band": "Myco",
-  "name": "More Than Whole",
-  "triggers": [
-   "more than whole"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103962855733084394"
- },
- {
   "band": "EBM",
   "name": "Forever is longer than you Know",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the tool on my back"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104768142077473178"
+ },
+ {
+  "band": "Myco",
+  "name": "More Than Whole",
+  "triggers": [
+   "more than whole"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104773189058384244"
  }
 ]
