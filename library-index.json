@@ -5746,14 +5746,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101275173110297030"
  },
  {
-  "band": "DD",
-  "name": "Permanent",
-  "triggers": [
-   "permanent"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101295298937082168"
- },
- {
   "band": "MR",
   "name": "Love Being Alive vid",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "it does our bidding"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104798334200254669"
+ },
+ {
+  "band": "DD",
+  "name": "Permanent",
+  "triggers": [
+   "permanent"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104818483779289108"
  }
 ]
