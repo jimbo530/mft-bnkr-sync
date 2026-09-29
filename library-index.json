@@ -6242,14 +6242,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2102256644109349334"
  },
  {
-  "band": "Myco",
-  "name": "Til We’re Done",
-  "triggers": [
-   "til we’re done"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102276770657349708"
- },
- {
   "band": "MR",
   "name": "Love Is The Power",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "let the agent handle it"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104999676344697224"
+ },
+ {
+  "band": "Myco",
+  "name": "Til We’re Done",
+  "triggers": [
+   "til we’re done"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105004761628004645"
  }
 ]
