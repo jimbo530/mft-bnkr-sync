@@ -6650,14 +6650,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2102780074080530494"
  },
  {
-  "band": "MV",
-  "name": "Digerie Dude - Resilient Rain Plant a Tree",
-  "triggers": [
-   "digerie dude - resilient rain plant a tree"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102785117546594731"
- },
- {
   "band": "Gurdy",
   "name": "Someone Bet on Me",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "jony sings, keep dancing"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104722852171616567"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Resilient Rain Plant a Tree",
+  "triggers": [
+   "digerie dude - resilient rain plant a tree"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104742988693869001"
  }
 ]

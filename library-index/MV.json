@@ -992,14 +992,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Digerie Dude - Resilient Rain Plant a Tree",
-  "triggers": [
-   "digerie dude - resilient rain plant a tree"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102785117546594731",
-  "tag": "$MfT"
- },
- {
   "name": "ddd trade route open",
   "triggers": [
    "ddd trade route open"
@@ -1301,6 +1293,14 @@
    "ebm- ballinmoore extends its love"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104692619041292773",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Digerie Dude - Resilient Rain Plant a Tree",
+  "triggers": [
+   "digerie dude - resilient rain plant a tree"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104742988693869001",
   "tag": "$MfT"
  }
 ]

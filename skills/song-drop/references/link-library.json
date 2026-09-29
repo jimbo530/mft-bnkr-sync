@@ -10805,19 +10805,6 @@
     "caption": "\"Work Now Dance Later vid\" — Moon Rasta\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2102785117546594731",
-    "translation": "Digerie Dude - Resilient Rain Plant a Tree",
-    "name": "Digerie Dude - Resilient Rain Plant a Tree",
-    "triggers": [
-      "digerie dude - resilient rain plant a tree"
-    ],
-    "band": "MV",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2102785117546594731",
-    "caption": "\"Digerie Dude - Resilient Rain Plant a Tree\"\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2102805241569648769",
     "translation": "Someone Bet on Me",
     "name": "Someone Bet on Me",
@@ -12610,5 +12597,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2104722852171616567",
     "caption": "\"Jony Sings, keep dancing\" — Jony Sings\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2104742988693869001",
+    "translation": "Digerie Dude - Resilient Rain Plant a Tree",
+    "name": "Digerie Dude - Resilient Rain Plant a Tree",
+    "triggers": [
+      "digerie dude - resilient rain plant a tree"
+    ],
+    "band": "MV",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2104742988693869001",
+    "caption": "\"Digerie Dude - Resilient Rain Plant a Tree\"\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
