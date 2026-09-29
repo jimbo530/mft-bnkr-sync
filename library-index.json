@@ -6178,14 +6178,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2102030145951256684"
  },
  {
-  "band": "MV",
-  "name": "Digerie Dude - Internet We Dreamed Of.",
-  "triggers": [
-   "digerie dude - internet we dreamed of."
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102050288735596710"
- },
- {
   "band": "DD",
   "name": "The Internet We Dreamed Of",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "forest song 2"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104848668599660905"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Internet We Dreamed Of.",
+  "triggers": [
+   "digerie dude - internet we dreamed of."
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104868816081592441"
  }
 ]

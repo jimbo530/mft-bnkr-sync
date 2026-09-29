@@ -840,14 +840,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Digerie Dude - Internet We Dreamed Of.",
-  "triggers": [
-   "digerie dude - internet we dreamed of."
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102050288735596710",
-  "tag": "$MfT"
- },
- {
   "name": "EBM - Thousand Year Plan",
   "triggers": [
    "ebm - thousand year plan"
@@ -1301,6 +1293,14 @@
    "digerie dude - permanent"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104823519288680501",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Digerie Dude - Internet We Dreamed Of.",
+  "triggers": [
+   "digerie dude - internet we dreamed of."
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104868816081592441",
   "tag": "$MfT"
  }
 ]
