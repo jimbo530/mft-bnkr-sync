@@ -5594,14 +5594,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101149337090744533"
  },
  {
-  "band": "MV",
-  "name": "Wide Open World",
-  "triggers": [
-   "wide open world"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101169440033226953"
- },
- {
   "band": "EBM",
   "name": "Share The Memes, Fund The Trees",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "something real to hold"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105029921437262049"
+ },
+ {
+  "band": "MV",
+  "name": "Wide Open World",
+  "triggers": [
+   "wide open world"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105050058244669826"
  }
 ]
