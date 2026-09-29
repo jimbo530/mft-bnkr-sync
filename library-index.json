@@ -5402,14 +5402,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100615811614310730"
  },
  {
-  "band": "JS",
-  "name": "Polyraiders",
-  "triggers": [
-   "polyraiders"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100641000515404016"
- },
- {
   "band": "CB",
   "name": "Open the Gates",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "more than whole"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104773189058384244"
+ },
+ {
+  "band": "JS",
+  "name": "Polyraiders",
+  "triggers": [
+   "polyraiders"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104793318693445996"
  }
 ]

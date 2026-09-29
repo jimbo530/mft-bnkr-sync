@@ -409,14 +409,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Polyraiders",
-  "triggers": [
-   "polyraiders"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100641000515404016",
-  "tag": "$MfT"
- },
- {
   "name": "Jony Sings, Party god",
   "triggers": [
    "jony sings, party god"
@@ -766,6 +758,14 @@
    "gotta get paid"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104748011259658623",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Polyraiders",
+  "triggers": [
+   "polyraiders"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104793318693445996",
   "tag": "$MfT"
  }
 ]
