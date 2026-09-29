@@ -1555,14 +1555,6 @@
  },
  {
   "band": "CB",
-  "name": "A Billion in a Day",
-  "triggers": [
-   "a billion in a day"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093972039040188658"
- },
- {
-  "band": "CB",
   "name": "Green It Up",
   "triggers": [
    "green it up"
@@ -7760,5 +7752,13 @@
    "she just said it"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104873829331845488"
+ },
+ {
+  "band": "CB",
+  "name": "A Billion in a Day",
+  "triggers": [
+   "a billion in a day"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104893967900799358"
  }
 ]
