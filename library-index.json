@@ -6354,14 +6354,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2102402610477052197"
  },
  {
-  "band": "Myco",
-  "name": "Money For Trees",
-  "triggers": [
-   "money for trees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102407659219517620"
- },
- {
   "band": "MR",
   "name": "We Water Each Other",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "horse of a thousand names"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104929279058272329"
+ },
+ {
+  "band": "Myco",
+  "name": "Money For Trees",
+  "triggers": [
+   "money for trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104949397830156344"
  }
 ]

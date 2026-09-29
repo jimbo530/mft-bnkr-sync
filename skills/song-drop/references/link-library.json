@@ -10324,19 +10324,6 @@
     "caption": "\"You Make The Magic Happen\" — Elves of Ballinmoore\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2102407659219517620",
-    "translation": "Money For Trees",
-    "name": "Money For Trees",
-    "triggers": [
-      "money for trees"
-    ],
-    "band": "Myco",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2102407659219517620",
-    "caption": "\"Money For Trees\" — Myco\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2102427761059025030",
     "translation": "We Water Each Other",
     "name": "We Water Each Other",
@@ -12610,5 +12597,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2104929279058272329",
     "caption": "\"Horse of a thousand names\"\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2104949397830156344",
+    "translation": "Money For Trees",
+    "name": "Money For Trees",
+    "triggers": [
+      "money for trees"
+    ],
+    "band": "Myco",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2104949397830156344",
+    "caption": "\"Money For Trees\" — Myco\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
