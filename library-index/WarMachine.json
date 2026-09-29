@@ -81,14 +81,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "It Does Our Bidding",
-  "triggers": [
-   "it does our bidding"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095894728692678770",
-  "tag": "$MfT"
- },
- {
   "name": "Two War-Grounds",
   "triggers": [
    "two war-grounds"
@@ -158,6 +150,14 @@
    "strike up da bands"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099458198625194243",
+  "tag": "$MfT"
+ },
+ {
+  "name": "It Does Our Bidding",
+  "triggers": [
+   "it does our bidding"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104798334200254669",
   "tag": "$MfT"
  }
 ]

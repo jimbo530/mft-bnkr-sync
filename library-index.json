@@ -2802,14 +2802,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095874602639495640"
  },
  {
-  "band": "WarMachine",
-  "name": "It Does Our Bidding",
-  "triggers": [
-   "it does our bidding"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095894728692678770"
- },
- {
   "band": "Bongo",
   "name": "Meme For Trees",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "polyraiders"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104793318693445996"
+ },
+ {
+  "band": "WarMachine",
+  "name": "It Does Our Bidding",
+  "triggers": [
+   "it does our bidding"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104798334200254669"
  }
 ]
