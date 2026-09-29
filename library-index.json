@@ -4266,14 +4266,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2098461648650428510"
  },
  {
-  "band": "JS",
-  "name": "She Just Said It",
-  "triggers": [
-   "she just said it"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098486804173160603"
- },
- {
   "band": "RickyBobbie",
   "name": "Fastest Word in the Sky",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "digerie dude - internet we dreamed of."
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104868816081592441"
+ },
+ {
+  "band": "JS",
+  "name": "She Just Said It",
+  "triggers": [
+   "she just said it"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104873829331845488"
  }
 ]
