@@ -5650,14 +5650,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101174511294992519"
  },
  {
-  "band": "MV",
-  "name": "Horse of a thousand names",
-  "triggers": [
-   "horse of a thousand names"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101194612031299713"
- },
- {
   "band": "MR",
   "name": "We Water Each Other vid",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "never runs dry"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104924262431690816"
+ },
+ {
+  "band": "MV",
+  "name": "Horse of a thousand names",
+  "triggers": [
+   "horse of a thousand names"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104929279058272329"
  }
 ]
