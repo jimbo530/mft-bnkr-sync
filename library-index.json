@@ -4178,14 +4178,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2098366011523162322"
  },
  {
-  "band": "NN",
-  "name": "Let the Agent Handle It",
-  "triggers": [
-   "let the agent handle it"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098371043903558108"
- },
- {
   "band": "EBM",
   "name": "New Banner in the Races",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "proof of life"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104979600946139558"
+ },
+ {
+  "band": "NN",
+  "name": "Let the Agent Handle It",
+  "triggers": [
+   "let the agent handle it"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104999676344697224"
  }
 ]
