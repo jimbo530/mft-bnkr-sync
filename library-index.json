@@ -1666,14 +1666,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094133110505976198"
  },
  {
-  "band": "Myco",
-  "name": "One Mycelium",
-  "triggers": [
-   "one mycelium"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094148202454712390"
- },
- {
   "band": "Rish",
   "name": "The Hearth That Tends Itself",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "sing ye for a coin"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105055072413450750"
+ },
+ {
+  "band": "Myco",
+  "name": "One Mycelium",
+  "triggers": [
+   "one mycelium"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105075175410536899"
  }
 ]
