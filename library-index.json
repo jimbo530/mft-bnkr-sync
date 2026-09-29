@@ -7386,14 +7386,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2104088685507477955"
  },
  {
-  "band": "JS",
-  "name": "Gotta Get Paid",
-  "triggers": [
-   "gotta get paid"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2104093716440830341"
- },
- {
   "band": "MV",
   "name": "Guardians of the Gate   Jasmine",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "digerie dude - resilient rain plant a tree"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104742988693869001"
+ },
+ {
+  "band": "JS",
+  "name": "Gotta Get Paid",
+  "triggers": [
+   "gotta get paid"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104748011259658623"
  }
 ]

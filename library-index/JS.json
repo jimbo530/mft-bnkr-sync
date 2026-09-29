@@ -713,14 +713,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Gotta Get Paid",
-  "triggers": [
-   "gotta get paid"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2104093716440830341",
-  "tag": "$MfT"
- },
- {
   "name": "Jony Sings, devil wants my song",
   "triggers": [
    "jony sings, devil wants my song"
@@ -766,6 +758,14 @@
    "jony sings, keep dancing"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104722852171616567",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Gotta Get Paid",
+  "triggers": [
+   "gotta get paid"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104748011259658623",
   "tag": "$MfT"
  }
 ]
