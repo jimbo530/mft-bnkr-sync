@@ -5466,14 +5466,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100797035767038239"
  },
  {
-  "band": "Myco",
-  "name": "Mean Green Meme Machine",
-  "triggers": [
-   "mean green meme machine"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100817177200701897"
- },
- {
   "band": "MV",
   "name": "Fund The Forest",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "for no reason at all"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104899052697465232"
+ },
+ {
+  "band": "Myco",
+  "name": "Mean Green Meme Machine",
+  "triggers": [
+   "mean green meme machine"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104904100873744735"
  }
 ]
