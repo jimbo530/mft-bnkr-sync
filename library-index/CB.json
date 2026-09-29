@@ -217,14 +217,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Never Runs Dry",
-  "triggers": [
-   "never runs dry"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097676479265939556",
-  "tag": "$MfT"
- },
- {
   "name": "Post Laugh Plant Repeat",
   "triggers": [
    "post laugh plant repeat"
@@ -502,6 +494,14 @@
    "a billion in a day"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104893967900799358",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Never Runs Dry",
+  "triggers": [
+   "never runs dry"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104924262431690816",
   "tag": "$MfT"
  }
 ]

@@ -3818,14 +3818,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097671464887484583"
  },
  {
-  "band": "CB",
-  "name": "Never Runs Dry",
-  "triggers": [
-   "never runs dry"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097676479265939556"
- },
- {
   "band": "DD",
   "name": "The Wide Path",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "mean green meme machine"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104904100873744735"
+ },
+ {
+  "band": "CB",
+  "name": "Never Runs Dry",
+  "triggers": [
+   "never runs dry"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104924262431690816"
  }
 ]
