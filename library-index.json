@@ -7002,14 +7002,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2103389043933196704"
  },
  {
-  "band": "JS",
-  "name": "Jony Sings, keep dancing",
-  "triggers": [
-   "jony sings, keep dancing"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103409222985638059"
- },
- {
   "band": "MV",
   "name": "Digerie Dude The Choice",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "ai band empire"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104717814430876040"
+ },
+ {
+  "band": "JS",
+  "name": "Jony Sings, keep dancing",
+  "triggers": [
+   "jony sings, keep dancing"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104722852171616567"
  }
 ]
