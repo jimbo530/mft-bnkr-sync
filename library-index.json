@@ -2322,14 +2322,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095169896405496159"
  },
  {
-  "band": "NN",
-  "name": "It Came With Its Own",
-  "triggers": [
-   "it came with its own"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095184995543290164"
- },
- {
   "band": "MR",
   "name": "Everybody in the Circle",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "til we’re done"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105004761628004645"
+ },
+ {
+  "band": "NN",
+  "name": "It Came With Its Own",
+  "triggers": [
+   "it came with its own"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105024885009367070"
  }
 ]
