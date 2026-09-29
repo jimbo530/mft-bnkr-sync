@@ -6658,14 +6658,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2102880749858763254"
  },
  {
-  "band": "EBM",
-  "name": "Eternal Harvest",
-  "triggers": [
-   "eternal harvest"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102885768343556540"
- },
- {
   "band": "JS",
   "name": "Jony Sings, Mangrove",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "digerie dude - permanent"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104823519288680501"
+ },
+ {
+  "band": "EBM",
+  "name": "Eternal Harvest",
+  "triggers": [
+   "eternal harvest"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104843592564977666"
  }
 ]
