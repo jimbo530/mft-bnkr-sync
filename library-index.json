@@ -1866,14 +1866,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094409912155578449"
  },
  {
-  "band": "DD",
-  "name": "The Tool On My Back",
-  "triggers": [
-   "the tool on my back"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094414955915178025"
- },
- {
   "band": "Rish",
   "name": "Let's Grow",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "gotta get paid"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104748011259658623"
+ },
+ {
+  "band": "DD",
+  "name": "The Tool On My Back",
+  "triggers": [
+   "the tool on my back"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104768142077473178"
  }
 ]
