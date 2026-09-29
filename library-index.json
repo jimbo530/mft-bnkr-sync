@@ -2946,14 +2946,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096186662875173315"
  },
  {
-  "band": "Rish",
-  "name": "Sing Ye for a Coin",
-  "triggers": [
-   "sing ye for a coin"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096191699944944087"
- },
- {
   "band": "Gurdy",
   "name": "RAISE THE CRACKS",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "wide open world"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105050058244669826"
+ },
+ {
+  "band": "Rish",
+  "name": "Sing Ye for a Coin",
+  "triggers": [
+   "sing ye for a coin"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105055072413450750"
  }
 ]
