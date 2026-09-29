@@ -952,14 +952,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Digerie Dude - Permanent",
-  "triggers": [
-   "digerie dude - permanent"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102553597670002827",
-  "tag": "$MfT"
- },
- {
   "name": "Digerie Dude - Quite Revolution of Love",
   "triggers": [
    "digerie dude - quite revolution of love"
@@ -1301,6 +1293,14 @@
    "digerie dude - resilient rain plant a tree"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104742988693869001",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Digerie Dude - Permanent",
+  "triggers": [
+   "digerie dude - permanent"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104823519288680501",
   "tag": "$MfT"
  }
 ]
