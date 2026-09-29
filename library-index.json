@@ -6066,14 +6066,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2102030145951256684"
  },
  {
-  "band": "DD",
-  "name": "The Internet We Dreamed Of",
-  "triggers": [
-   "the internet we dreamed of"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102055334281986274"
- },
- {
   "band": "JS",
   "name": "Each One Carries Two",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "one mycelium"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105075175410536899"
+ },
+ {
+  "band": "DD",
+  "name": "The Internet We Dreamed Of",
+  "triggers": [
+   "the internet we dreamed of"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105080254150680662"
  }
 ]
