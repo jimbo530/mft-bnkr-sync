@@ -7259,14 +7259,6 @@
  },
  {
   "band": "JS",
-  "name": "Proof Of Life",
-  "triggers": [
-   "proof of life"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2104144042946699661"
- },
- {
-  "band": "JS",
   "name": "Jony Sings, alive",
   "triggers": [
    "jony sings, alive"
@@ -7760,5 +7752,13 @@
    "the guildmaster who asks nothing"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104974597875450069"
+ },
+ {
+  "band": "JS",
+  "name": "Proof Of Life",
+  "triggers": [
+   "proof of life"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2104979600946139558"
  }
 ]
