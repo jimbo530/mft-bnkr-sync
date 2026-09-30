@@ -2090,14 +2090,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094908213929861134"
  },
  {
-  "band": "SEAS",
-  "name": "The Empire's Cut",
-  "triggers": [
-   "the empire's cut"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094923318470045822"
- },
- {
   "band": "Myco",
   "name": "Underground Choir",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "building for the bulls"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105155817569660970"
+ },
+ {
+  "band": "SEAS",
+  "name": "The Empire's Cut",
+  "triggers": [
+   "the empire's cut"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105175870247706824"
  }
 ]
