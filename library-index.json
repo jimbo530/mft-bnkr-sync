@@ -4194,14 +4194,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2098763663024763296"
  },
  {
-  "band": "MR",
-  "name": "Love Does the Growing",
-  "triggers": [
-   "love does the growing"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098773657258512763"
- },
- {
   "band": "EBM",
   "name": "Raid for the Children",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "digerie dude - open mic"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105251377161130241"
+ },
+ {
+  "band": "MR",
+  "name": "Love Does the Growing",
+  "triggers": [
+   "love does the growing"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105256364482204045"
  }
 ]
