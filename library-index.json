@@ -3242,14 +3242,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096664801615163803"
  },
  {
-  "band": "WarMachine",
-  "name": "Muster",
-  "triggers": [
-   "muster"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096669790148432151"
- },
- {
   "band": "MR",
   "name": "No Chains In The Garden",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the internet we dreamed of"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105080254150680662"
+ },
+ {
+  "band": "WarMachine",
+  "name": "Muster",
+  "triggers": [
+   "muster"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105100375338385801"
  }
 ]
