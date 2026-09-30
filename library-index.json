@@ -2770,14 +2770,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095975287183876244"
  },
  {
-  "band": "Myco",
-  "name": "- Crownless",
-  "triggers": [
-   "- crownless"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095985339512811831"
- },
- {
   "band": "JS",
   "name": "Friday on the Green",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "room for a forest"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105291656635314602"
+ },
+ {
+  "band": "Myco",
+  "name": "- Crownless",
+  "triggers": [
+   "- crownless"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105311835188605224"
  }
 ]
