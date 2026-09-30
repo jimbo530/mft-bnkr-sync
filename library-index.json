@@ -1474,14 +1474,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093851236172755021"
  },
  {
-  "band": "Bongo",
-  "name": "Quick as a Drumbeat",
-  "triggers": [
-   "quick as a drumbeat"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093866297603817518"
- },
- {
   "band": "SEAS",
   "name": "Feed Your Crew",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "every listen plants a tree"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105206079978086478"
+ },
+ {
+  "band": "Bongo",
+  "name": "Quick as a Drumbeat",
+  "triggers": [
+   "quick as a drumbeat"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105226202696855773"
  }
 ]
