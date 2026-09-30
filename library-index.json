@@ -2258,14 +2258,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095149846554423658"
  },
  {
-  "band": "Myco",
-  "name": "Char in the Soil",
-  "triggers": [
-   "char in the soil"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095164943326658675"
- },
- {
   "band": "Rish",
   "name": "Setups in Disguise",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "toast to the trees"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105336940727792094"
+ },
+ {
+  "band": "Myco",
+  "name": "Char in the Soil",
+  "triggers": [
+   "char in the soil"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105342014560608465"
  }
 ]
