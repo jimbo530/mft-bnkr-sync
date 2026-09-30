@@ -2498,14 +2498,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095597866366439617"
  },
  {
-  "band": "Bongo",
-  "name": "No Crying in the Casino",
-  "triggers": [
-   "no crying in the casino"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095602851045122289"
- },
- {
   "band": "WarMachine",
   "name": "Smash Da Ants",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "still on the stoop"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105362065422500187"
+ },
+ {
+  "band": "Bongo",
+  "name": "No Crying in the Casino",
+  "triggers": [
+   "no crying in the casino"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105367137384636707"
  }
 ]
