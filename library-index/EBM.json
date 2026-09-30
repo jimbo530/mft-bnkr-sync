@@ -310,14 +310,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Building for the Bulls",
-  "triggers": [
-   "building for the bulls"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096166468861731098",
-  "tag": "$MfT"
- },
- {
   "name": "Hoodies for the People",
   "triggers": [
    "hoodies for the people"
@@ -859,6 +851,14 @@
    "the club with no gate"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105105426106724699",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Building for the Bulls",
+  "triggers": [
+   "building for the bulls"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105155817569660970",
   "tag": "$MfT"
  }
 ]
