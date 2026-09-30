@@ -4218,14 +4218,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2098899489595539871"
  },
  {
-  "band": "Strut",
-  "name": "The First Yes",
-  "triggers": [
-   "the first yes"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098924648096309390"
- },
- {
   "band": "DD",
   "name": "Every Land Knows A Tyrant",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "no crying in the casino"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105367137384636707"
+ },
+ {
+  "band": "Strut",
+  "name": "The First Yes",
+  "triggers": [
+   "the first yes"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105387276289101997"
  }
 ]
