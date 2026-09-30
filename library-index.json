@@ -6666,14 +6666,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2103258203790196853"
  },
  {
-  "band": "MR",
-  "name": "Joy in the Ground",
-  "triggers": [
-   "joy in the ground"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103263212791533773"
- },
- {
   "band": "MV",
   "name": "nothing without you - Biggins Mcjamin",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the empire's cut"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105175870247706824"
+ },
+ {
+  "band": "MR",
+  "name": "Joy in the Ground",
+  "triggers": [
+   "joy in the ground"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105180903530017043"
  }
 ]
