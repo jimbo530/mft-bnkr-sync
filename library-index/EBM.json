@@ -622,14 +622,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "ELVES OF BALLINMOORE — “NO TURNING BACK”",
-  "triggers": [
-   "elves of ballinmoore — “no turning back”"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101879167407010197",
-  "tag": "$MfT"
- },
- {
   "name": "You Make The Magic Happen",
   "triggers": [
    "you make the magic happen"
@@ -859,6 +851,14 @@
    "building for the bulls"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105155817569660970",
+  "tag": "$MfT"
+ },
+ {
+  "name": "ELVES OF BALLINMOORE — “NO TURNING BACK”",
+  "triggers": [
+   "elves of ballinmoore — “no turning back”"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105266489980846526",
   "tag": "$MfT"
  }
 ]
