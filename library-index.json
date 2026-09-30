@@ -4922,14 +4922,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100077239513534856"
  },
  {
-  "band": "Myco",
-  "name": "Every Listen Plants a Tree",
-  "triggers": [
-   "every listen plants a tree"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100097423657873679"
- },
- {
   "band": "ALAN",
   "name": "The Sounds of the Barn Yard",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "embodied network"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105201051041239249"
+ },
+ {
+  "band": "Myco",
+  "name": "Every Listen Plants a Tree",
+  "triggers": [
+   "every listen plants a tree"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105206079978086478"
  }
 ]
