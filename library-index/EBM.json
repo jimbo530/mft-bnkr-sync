@@ -238,14 +238,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Eight Banners Moving",
-  "triggers": [
-   "eight banners moving"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094867912548847733",
-  "tag": "$MfT"
- },
- {
   "name": "Ten Years Deep",
   "triggers": [
    "ten years deep"
@@ -859,6 +851,14 @@
    "elves of ballinmoore — “no turning back”"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105266489980846526",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Eight Banners Moving",
+  "triggers": [
+   "eight banners moving"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105412437574857103",
   "tag": "$MfT"
  }
 ]

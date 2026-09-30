@@ -2026,14 +2026,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094862922778288172"
  },
  {
-  "band": "EBM",
-  "name": "Eight Banners Moving",
-  "triggers": [
-   "eight banners moving"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094867912548847733"
- },
- {
   "band": "CB",
   "name": "Bring the Water",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "myko - your lane"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105392275781996720"
+ },
+ {
+  "band": "EBM",
+  "name": "Eight Banners Moving",
+  "triggers": [
+   "eight banners moving"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105412437574857103"
  }
 ]
