@@ -41,14 +41,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "No Saints, Just Us",
-  "triggers": [
-   "no saints, just us"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096921450623959359",
-  "tag": "$MfT"
- },
- {
   "name": "Crawls Back Singing",
   "triggers": [
    "crawls back singing"
@@ -70,6 +62,14 @@
    "something real to hold"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105029921437262049",
+  "tag": "$MfT"
+ },
+ {
+  "name": "No Saints, Just Us",
+  "triggers": [
+   "no saints, just us"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105125507507335279",
   "tag": "$MfT"
  }
 ]

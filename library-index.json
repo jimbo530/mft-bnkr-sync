@@ -3354,14 +3354,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096891278252220647"
  },
  {
-  "band": "Gurdy",
-  "name": "No Saints, Just Us",
-  "triggers": [
-   "no saints, just us"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096921450623959359"
- },
- {
   "band": "Bongo",
   "name": "Set Sail (Seize the Seas)",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the club with no gate"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105105426106724699"
+ },
+ {
+  "band": "Gurdy",
+  "name": "No Saints, Just Us",
+  "triggers": [
+   "no saints, just us"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105125507507335279"
  }
 ]
