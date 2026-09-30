@@ -4514,14 +4514,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2099382667997303120"
  },
  {
-  "band": "NN",
-  "name": "Doors Locked Open",
-  "triggers": [
-   "doors locked open"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099402796340551886"
- },
- {
   "band": "DGT",
   "name": "The Long Parade",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "love does the growing"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105256364482204045"
+ },
+ {
+  "band": "NN",
+  "name": "Doors Locked Open",
+  "triggers": [
+   "doors locked open"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105261405159002505"
  }
 ]
