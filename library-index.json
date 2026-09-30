@@ -2410,14 +2410,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095381295140413513"
  },
  {
-  "band": "CB",
-  "name": "Room For A Forest",
-  "triggers": [
-   "room for a forest"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095401474146631870"
- },
- {
   "band": "DGT",
   "name": "One More Grove Tonight",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "ricky bobbie - freedoms faster than fear"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105286615299936261"
+ },
+ {
+  "band": "CB",
+  "name": "Room For A Forest",
+  "triggers": [
+   "room for a forest"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105291656635314602"
  }
 ]
