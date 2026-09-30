@@ -2410,14 +2410,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095351155933032499"
  },
  {
-  "band": "Bongo",
-  "name": "Nobody Told The Tree To Grow",
-  "triggers": [
-   "nobody told the tree to grow"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095356135343624347"
- },
- {
   "band": "NN",
   "name": "The Greenest Thing In The Room",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "no saints, just us"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105125507507335279"
+ },
+ {
+  "band": "Bongo",
+  "name": "Nobody Told The Tree To Grow",
+  "triggers": [
+   "nobody told the tree to grow"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105130532765827563"
  }
 ]
