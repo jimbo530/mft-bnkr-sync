@@ -337,14 +337,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Toast to the Trees",
-  "triggers": [
-   "toast to the trees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103107229624730087",
-  "tag": "$MfT"
- },
- {
   "name": "Forest Song 2",
   "triggers": [
    "forest song 2"
@@ -374,6 +366,14 @@
    "doors locked open"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105261405159002505",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Toast to the Trees",
+  "triggers": [
+   "toast to the trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105336940727792094",
   "tag": "$MfT"
  }
 ]
