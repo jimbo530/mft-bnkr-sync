@@ -1643,14 +1643,6 @@
  },
  {
   "band": "EBM",
-  "name": "The Club With No Gate",
-  "triggers": [
-   "the club with no gate"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094112916387619238"
- },
- {
-  "band": "EBM",
   "name": "The Street Takes Requests",
   "triggers": [
    "the street takes requests"
@@ -7760,5 +7752,13 @@
    "muster"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105100375338385801"
+ },
+ {
+  "band": "EBM",
+  "name": "The Club With No Gate",
+  "triggers": [
+   "the club with no gate"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105105426106724699"
  }
 ]
