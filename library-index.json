@@ -2306,14 +2306,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095255566775976339"
  },
  {
-  "band": "NN",
-  "name": "An Airdrop a Day",
-  "triggers": [
-   "an airdrop a day"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095275646146449453"
- },
- {
   "band": "JS",
   "name": "The Daily Dose",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "every day is an opportunity"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105437575112479009"
+ },
+ {
+  "band": "NN",
+  "name": "An Airdrop a Day",
+  "triggers": [
+   "an airdrop a day"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105442635716444302"
  }
 ]
