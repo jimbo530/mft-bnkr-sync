@@ -601,14 +601,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Every Day Is An Opportunity",
-  "triggers": [
-   "every day is an opportunity"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103087102552310255",
-  "tag": "$MfT"
- },
- {
   "name": "Investors of Tomorrow",
   "triggers": [
    "investors of tomorrow"
@@ -766,6 +758,14 @@
    "still on the stoop"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105362065422500187",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Every Day Is An Opportunity",
+  "triggers": [
+   "every day is an opportunity"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105437575112479009",
   "tag": "$MfT"
  }
 ]

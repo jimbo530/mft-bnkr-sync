@@ -6426,14 +6426,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2103082025427128561"
  },
  {
-  "band": "JS",
-  "name": "Every Day Is An Opportunity",
-  "triggers": [
-   "every day is an opportunity"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103087102552310255"
- },
- {
   "band": "MV",
   "name": "Digeri Dude - Rabbit Hole",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "how you made them feel"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105417422991683752"
+ },
+ {
+  "band": "JS",
+  "name": "Every Day Is An Opportunity",
+  "triggers": [
+   "every day is an opportunity"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105437575112479009"
  }
 ]
