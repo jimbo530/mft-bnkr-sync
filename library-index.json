@@ -5746,14 +5746,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101652641335885899"
  },
  {
-  "band": "MV",
-  "name": "Digerie Dude - Open Mic",
-  "triggers": [
-   "digerie dude - open mic"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101672805016170509"
- },
- {
   "band": "EBM",
   "name": "Drop ’Em If You Got ’Em",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "đi tiếp (one more mile)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105231237178634504"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Open Mic",
+  "triggers": [
+   "digerie dude - open mic"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105251377161130241"
  }
 ]
