@@ -1306,14 +1306,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093624716044984794"
  },
  {
-  "band": "Gurdy",
-  "name": "The Quiet Crown",
-  "triggers": [
-   "the quiet crown"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093629791861707134"
- },
- {
   "band": "JS",
   "name": "Everybody Drinks",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "- crownless"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105311835188605224"
+ },
+ {
+  "band": "Gurdy",
+  "name": "The Quiet Crown",
+  "triggers": [
+   "the quiet crown"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105316815760945627"
  }
 ]

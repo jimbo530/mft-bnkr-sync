@@ -9,14 +9,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Quiet Crown",
-  "triggers": [
-   "the quiet crown"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093629791861707134",
-  "tag": "$MfT"
- },
- {
   "name": "Society is a Meme",
   "triggers": [
    "society is a meme"
@@ -70,6 +62,14 @@
    "no saints, just us"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105125507507335279",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Quiet Crown",
+  "triggers": [
+   "the quiet crown"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105316815760945627",
   "tag": "$MfT"
  }
 ]
