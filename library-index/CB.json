@@ -313,14 +313,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Embodied Network",
-  "triggers": [
-   "embodied network"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100369225411862737",
-  "tag": "$MfT"
- },
- {
   "name": "EBM - Fighting TEMERAIRE",
   "triggers": [
    "ebm - fighting temeraire"
@@ -502,6 +494,14 @@
    "never runs dry"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104924262431690816",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Embodied Network",
+  "triggers": [
+   "embodied network"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105201051041239249",
   "tag": "$MfT"
  }
 ]

@@ -5098,14 +5098,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100364182851924249"
  },
  {
-  "band": "CB",
-  "name": "Embodied Network",
-  "triggers": [
-   "embodied network"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100369225411862737"
- },
- {
   "band": "JS",
   "name": "Regen Rising",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "joy in the ground"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105180903530017043"
+ },
+ {
+  "band": "CB",
+  "name": "Embodied Network",
+  "triggers": [
+   "embodied network"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105201051041239249"
  }
 ]
