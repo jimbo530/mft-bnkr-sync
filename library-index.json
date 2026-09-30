@@ -5122,14 +5122,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100490016782713298"
  },
  {
-  "band": "MV",
-  "name": "Ricky Bobbie - Freedoms Faster than Fear",
-  "triggers": [
-   "ricky bobbie - freedoms faster than fear"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100494998240211258"
- },
- {
   "band": "JS",
   "name": "Proof Of Life vid",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "elves of ballinmoore — “no turning back”"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105266489980846526"
+ },
+ {
+  "band": "MV",
+  "name": "Ricky Bobbie - Freedoms Faster than Fear",
+  "triggers": [
+   "ricky bobbie - freedoms faster than fear"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105286615299936261"
  }
 ]
