@@ -6482,14 +6482,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2103162614343680372"
  },
  {
-  "band": "MV",
-  "name": "Myko - Your Lane",
-  "triggers": [
-   "myko - your lane"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103182735128899849"
- },
- {
   "band": "EBM",
   "name": "FROM MEMES TO MANGROVES v2",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the first yes"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105387276289101997"
+ },
+ {
+  "band": "MV",
+  "name": "Myko - Your Lane",
+  "triggers": [
+   "myko - your lane"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105392275781996720"
  }
 ]
