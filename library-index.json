@@ -1450,14 +1450,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093831112866873453"
  },
  {
-  "band": "JS",
-  "name": "Still on the Stoop",
-  "triggers": [
-   "still on the stoop"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093846165519253542"
- },
- {
   "band": "Strut",
   "name": "Play Games, Save The World",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "char in the soil"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105342014560608465"
+ },
+ {
+  "band": "JS",
+  "name": "Still on the Stoop",
+  "triggers": [
+   "still on the stoop"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105362065422500187"
  }
 ]
