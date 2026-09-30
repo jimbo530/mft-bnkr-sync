@@ -2738,14 +2738,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095899760351695246"
  },
  {
-  "band": "DD",
-  "name": "Đi Tiếp (One More Mile)",
-  "triggers": [
-   "đi tiếp (one more mile)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095919862522560977"
- },
- {
   "band": "CB",
   "name": "Live in Seconds",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "quick as a drumbeat"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105226202696855773"
+ },
+ {
+  "band": "DD",
+  "name": "Đi Tiếp (One More Mile)",
+  "triggers": [
+   "đi tiếp (one more mile)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105231237178634504"
  }
 ]
