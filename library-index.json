@@ -1802,14 +1802,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094389736668299532"
  },
  {
-  "band": "Bongo",
-  "name": "Money Grows Trees (They Said It Wrong)",
-  "triggers": [
-   "money grows trees (they said it wrong)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094394772651684230"
- },
- {
   "band": "WarMachine",
   "name": "Earn It",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "concrete to canopy"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105538258549551572"
+ },
+ {
+  "band": "Bongo",
+  "name": "Money Grows Trees (They Said It Wrong)",
+  "triggers": [
+   "money grows trees (they said it wrong)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105543250018783691"
  }
 ]

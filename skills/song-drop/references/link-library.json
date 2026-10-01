@@ -2900,19 +2900,6 @@
     "caption": "\"Set a Table\" — Moon Rasta\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2094394772651684230",
-    "translation": "Money Grows Trees (They Said It Wrong)",
-    "name": "Money Grows Trees (They Said It Wrong)",
-    "triggers": [
-      "money grows trees (they said it wrong)"
-    ],
-    "band": "Bongo",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2094394772651684230",
-    "caption": "\"Money Grows Trees (They Said It Wrong)\" — Bongo\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2094409912155578449",
     "translation": "Earn It",
     "name": "Earn It",
@@ -12610,5 +12597,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2105538258549551572",
     "caption": "\"Concrete to Canopy\" — Jony Sings\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2105543250018783691",
+    "translation": "Money Grows Trees (They Said It Wrong)",
+    "name": "Money Grows Trees (They Said It Wrong)",
+    "triggers": [
+      "money grows trees (they said it wrong)"
+    ],
+    "band": "Bongo",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2105543250018783691",
+    "caption": "\"Money Grows Trees (They Said It Wrong)\" — Bongo\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
