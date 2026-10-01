@@ -201,14 +201,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Concrete to Canopy",
-  "triggers": [
-   "concrete to canopy"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096639589846802831",
-  "tag": "$MfT"
- },
- {
   "name": "Money That Feeds",
   "triggers": [
    "money that feeds"
@@ -766,6 +758,14 @@
    "every day is an opportunity"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105437575112479009",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Concrete to Canopy",
+  "triggers": [
+   "concrete to canopy"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105538258549551572",
   "tag": "$MfT"
  }
 ]

@@ -3090,14 +3090,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096634562218483896"
  },
  {
-  "band": "JS",
-  "name": "Concrete to Canopy",
-  "triggers": [
-   "concrete to canopy"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096639589846802831"
- },
- {
   "band": "MR",
   "name": "Five Hundred Homes",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "un rugables"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105518142810157155"
+ },
+ {
+  "band": "JS",
+  "name": "Concrete to Canopy",
+  "triggers": [
+   "concrete to canopy"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105538258549551572"
  }
 ]
