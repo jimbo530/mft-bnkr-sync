@@ -4290,14 +4290,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2099282049811075548"
  },
  {
-  "band": "DGT",
-  "name": "The Backwards Paywall",
-  "triggers": [
-   "the backwards paywall"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099302190317817897"
- },
- {
   "band": "Bongo",
   "name": "I Live Here Now (By the Wall)",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the rainmakers daughter"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105669140518261011"
+ },
+ {
+  "band": "DGT",
+  "name": "The Backwards Paywall",
+  "triggers": [
+   "the backwards paywall"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105674188040073480"
  }
 ]
