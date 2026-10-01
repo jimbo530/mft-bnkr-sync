@@ -4546,14 +4546,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2099674642017391057"
  },
  {
-  "band": "EBM",
-  "name": "Un Rugables",
-  "triggers": [
-   "un rugables"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099694739008204888"
- },
- {
   "band": "MV",
   "name": "EBM- Internet Magic",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "that's how we grow"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105513096529739881"
+ },
+ {
+  "band": "EBM",
+  "name": "Un Rugables",
+  "triggers": [
+   "un rugables"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105518142810157155"
  }
 ]
