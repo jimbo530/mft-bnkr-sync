@@ -49,14 +49,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Roots Hold It Up",
-  "triggers": [
-   "the roots hold it up"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095049140325450210",
-  "tag": "$MfT"
- },
- {
   "name": "No Kings (Just This Guy)",
   "triggers": [
    "no kings (just this guy)"
@@ -102,6 +94,14 @@
    "let it die (watch me)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099483324825620725",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Roots Hold It Up",
+  "triggers": [
+   "the roots hold it up"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105492924188303752",
   "tag": "$MfT"
  }
 ]
