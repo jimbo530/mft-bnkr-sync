@@ -5234,14 +5234,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100993328233746714"
  },
  {
-  "band": "MV",
-  "name": "Opp to be awesome - Biggins Mcjamin",
-  "triggers": [
-   "opp to be awesome - biggins mcjamin"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100998306516123706"
- },
- {
   "band": "DD",
   "name": "Small Voices, Big Waves",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "money grows trees (they said it wrong)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105543250018783691"
+ },
+ {
+  "band": "MV",
+  "name": "Opp to be awesome - Biggins Mcjamin",
+  "triggers": [
+   "opp to be awesome - biggins mcjamin"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105563400252072422"
  }
 ]
