@@ -736,14 +736,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Liquidity Rain",
-  "triggers": [
-   "liquidity rain"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2104295042667999333",
-  "tag": "$MfT"
- },
- {
   "name": "Magic Comes From You",
   "triggers": [
    "magic comes from you"
@@ -861,6 +853,14 @@
    "follow the signal up"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105467805994750271",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Liquidity Rain",
+  "triggers": [
+   "liquidity rain"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105704383765708828",
   "tag": "$MfT"
  }
 ]

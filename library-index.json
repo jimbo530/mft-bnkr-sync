@@ -6874,14 +6874,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2104290004839080064"
  },
  {
-  "band": "Myco",
-  "name": "Liquidity Rain",
-  "triggers": [
-   "liquidity rain"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2104295042667999333"
- },
- {
   "band": "MV",
   "name": "EBM - Decentraland Chainport",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "greatness grows"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105699293243887995"
+ },
+ {
+  "band": "Myco",
+  "name": "Liquidity Rain",
+  "triggers": [
+   "liquidity rain"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105704383765708828"
  }
 ]
