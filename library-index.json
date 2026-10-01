@@ -3466,14 +3466,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097389606484205765"
  },
  {
-  "band": "Rish",
-  "name": "That's How We Grow",
-  "triggers": [
-   "that's how we grow"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097414755119948084"
- },
- {
   "band": "DD",
   "name": "The Well at the Bend",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the roots hold it up"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105492924188303752"
+ },
+ {
+  "band": "Rish",
+  "name": "That's How We Grow",
+  "triggers": [
+   "that's how we grow"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105513096529739881"
  }
 ]
