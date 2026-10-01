@@ -872,14 +872,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "herbs and rimes",
-  "triggers": [
-   "herbs and rimes"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102352271300293086",
-  "tag": "$MfT"
- },
- {
   "name": "Digerie Dude - Build it Anyway",
   "triggers": [
    "digerie dude - build it anyway"
@@ -1301,6 +1293,14 @@
    "opp to be awesome - biggins mcjamin"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105563400252072422",
+  "tag": "$MfT"
+ },
+ {
+  "name": "herbs and rimes",
+  "triggers": [
+   "herbs and rimes"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105613727080792181",
   "tag": "$MfT"
  }
 ]

@@ -5938,14 +5938,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2102332146954162420"
  },
  {
-  "band": "MV",
-  "name": "herbs and rimes",
-  "triggers": [
-   "herbs and rimes"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102352271300293086"
- },
- {
   "band": "Myco",
   "name": "Agent Army",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the street takes requests"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105593580534309342"
+ },
+ {
+  "band": "MV",
+  "name": "herbs and rimes",
+  "triggers": [
+   "herbs and rimes"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105613727080792181"
  }
 ]
