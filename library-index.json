@@ -1394,14 +1394,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093750537028022736"
  },
  {
-  "band": "EBM",
-  "name": "Canopy Law",
-  "triggers": [
-   "canopy law"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093770669716550108"
- },
- {
   "band": "Rish",
   "name": "The Warden's Round",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the bringing-in"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105618757817172040"
+ },
+ {
+  "band": "EBM",
+  "name": "Canopy Law",
+  "triggers": [
+   "canopy law"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105638926392111217"
  }
 ]
