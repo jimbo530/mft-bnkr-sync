@@ -1794,14 +1794,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094430080294416749"
  },
  {
-  "band": "CB",
-  "name": "Love Builds the Forest",
-  "triggers": [
-   "love builds the forest"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094435044601262502"
- },
- {
   "band": "HammerTone",
   "name": "Proof From the Sky",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "liquidity rain"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105704383765708828"
+ },
+ {
+  "band": "CB",
+  "name": "Love Builds the Forest",
+  "triggers": [
+   "love builds the forest"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105729531126358183"
  }
 ]
