@@ -3635,14 +3635,6 @@
  },
  {
   "band": "CB",
-  "name": "Revolution Has Begun",
-  "triggers": [
-   "revolution has begun"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097767027846877416"
- },
- {
-  "band": "CB",
   "name": "Light The Spark",
   "triggers": [
    "light the spark"
@@ -7760,5 +7752,13 @@
    "opp to be awesome - biggins mcjamin"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105563400252072422"
+ },
+ {
+  "band": "CB",
+  "name": "Revolution Has Begun",
+  "triggers": [
+   "revolution has begun"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105568463674626351"
  }
 ]
