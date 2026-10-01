@@ -2619,14 +2619,6 @@
  },
  {
   "band": "Myco",
-  "name": "Follow the Signal Up",
-  "triggers": [
-   "follow the signal up"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095814199393845448"
- },
- {
-  "band": "Myco",
   "name": "Connect the Good",
   "triggers": [
    "connect the good"
@@ -7760,5 +7752,13 @@
    "the machine broke down (the band did not)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105462811933446234"
+ },
+ {
+  "band": "Myco",
+  "name": "Follow the Signal Up",
+  "triggers": [
+   "follow the signal up"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105467805994750271"
  }
 ]

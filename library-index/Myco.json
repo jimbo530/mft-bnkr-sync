@@ -200,14 +200,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Follow the Signal Up",
-  "triggers": [
-   "follow the signal up"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095814199393845448",
-  "tag": "$MfT"
- },
- {
   "name": "Connect the Good",
   "triggers": [
    "connect the good"
@@ -861,6 +853,14 @@
    "char in the soil"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105342014560608465",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Follow the Signal Up",
+  "triggers": [
+   "follow the signal up"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105467805994750271",
   "tag": "$MfT"
  }
 ]
