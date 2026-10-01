@@ -5074,14 +5074,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100746687643840567"
  },
  {
-  "band": "NN",
-  "name": "Greatness Grows",
-  "triggers": [
-   "greatness grows"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100766783862952431"
- },
- {
   "band": "MV",
   "name": "Biggins Mcjamin - Math isn't Mathing",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the backwards paywall"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105674188040073480"
+ },
+ {
+  "band": "NN",
+  "name": "Greatness Grows",
+  "triggers": [
+   "greatness grows"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105699293243887995"
  }
 ]

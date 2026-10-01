@@ -273,14 +273,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Greatness Grows",
-  "triggers": [
-   "greatness grows"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100766783862952431",
-  "tag": "$MfT"
- },
- {
   "name": "Power Of A Meme",
   "triggers": [
    "power of a meme"
@@ -374,6 +366,14 @@
    "golden on the base line"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105588561135235560",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Greatness Grows",
+  "triggers": [
+   "greatness grows"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105699293243887995",
   "tag": "$MfT"
  }
 ]
