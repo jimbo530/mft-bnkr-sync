@@ -6042,14 +6042,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2102659286597829036"
  },
  {
-  "band": "EBM",
-  "name": "Mean Green Meme Team",
-  "triggers": [
-   "mean green meme team"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102679425405907161"
- },
- {
   "band": "Myco",
   "name": "Go Do Something Nice",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "love builds the forest"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105729531126358183"
+ },
+ {
+  "band": "EBM",
+  "name": "Mean Green Meme Team",
+  "triggers": [
+   "mean green meme team"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105734539108659427"
  }
 ]

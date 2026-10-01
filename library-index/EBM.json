@@ -622,14 +622,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Mean Green Meme Team",
-  "triggers": [
-   "mean green meme team"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102679425405907161",
-  "tag": "$MfT"
- },
- {
   "name": "Ballinmoore Bounce",
   "triggers": [
    "ballinmoore bounce"
@@ -859,6 +851,14 @@
    "canopy law"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105638926392111217",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Mean Green Meme Team",
+  "triggers": [
+   "mean green meme team"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105734539108659427",
   "tag": "$MfT"
  }
 ]
