@@ -281,14 +281,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Golden On The Base Line",
-  "triggers": [
-   "golden on the base line"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100847351472464114",
-  "tag": "$MfT"
- },
- {
   "name": "Power Of A Meme",
   "triggers": [
    "power of a meme"
@@ -374,6 +366,14 @@
    "an airdrop a day"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105442635716444302",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Golden On The Base Line",
+  "triggers": [
+   "golden on the base line"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105588561135235560",
   "tag": "$MfT"
  }
 ]

@@ -5162,14 +5162,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100842328063685072"
  },
  {
-  "band": "NN",
-  "name": "Golden On The Base Line",
-  "triggers": [
-   "golden on the base line"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100847351472464114"
- },
- {
   "band": "MV",
   "name": "EBM- Community of Communities",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "revolution has begun"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105568463674626351"
+ },
+ {
+  "band": "NN",
+  "name": "Golden On The Base Line",
+  "triggers": [
+   "golden on the base line"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105588561135235560"
  }
 ]
