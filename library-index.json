@@ -3562,14 +3562,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097520394848596365"
  },
  {
-  "band": "DGT",
-  "name": "The Machine Broke Down (The Band Did Not)",
-  "triggers": [
-   "the machine broke down (the band did not)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097525559290925159"
- },
- {
   "band": "Rish",
   "name": "Bread and Water",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "an airdrop a day"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105442635716444302"
+ },
+ {
+  "band": "DGT",
+  "name": "The Machine Broke Down (The Band Did Not)",
+  "triggers": [
+   "the machine broke down (the band did not)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105462811933446234"
  }
 ]
