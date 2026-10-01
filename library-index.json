@@ -5634,14 +5634,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101828823234888086"
  },
  {
-  "band": "JS",
-  "name": "The Rainmakers Daughter",
-  "triggers": [
-   "the rainmakers daughter"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101848959425597441"
- },
- {
   "band": "NN",
   "name": "Velvet And Valor",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "for the short lived"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105643975017152587"
+ },
+ {
+  "band": "JS",
+  "name": "The Rainmakers Daughter",
+  "triggers": [
+   "the rainmakers daughter"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105669140518261011"
  }
 ]
