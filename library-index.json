@@ -1618,14 +1618,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094107894006370641"
  },
  {
-  "band": "EBM",
-  "name": "The Street Takes Requests",
-  "triggers": [
-   "the street takes requests"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094128014569148701"
- },
- {
   "band": "CB",
   "name": "Room For Everyone",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "golden on the base line"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105588561135235560"
+ },
+ {
+  "band": "EBM",
+  "name": "The Street Takes Requests",
+  "triggers": [
+   "the street takes requests"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105593580534309342"
  }
 ]

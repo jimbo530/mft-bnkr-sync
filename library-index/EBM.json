@@ -174,14 +174,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Street Takes Requests",
-  "triggers": [
-   "the street takes requests"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094128014569148701",
-  "tag": "$MfT"
- },
- {
   "name": "Compost By The Snow",
   "triggers": [
    "compost by the snow"
@@ -859,6 +851,14 @@
    "un rugables"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105518142810157155",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Street Takes Requests",
+  "triggers": [
+   "the street takes requests"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105593580534309342",
   "tag": "$MfT"
  }
 ]
