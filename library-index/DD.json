@@ -257,14 +257,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Walk With the Eight",
-  "triggers": [
-   "walk with the eight"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098763663024763296",
-  "tag": "$MfT"
- },
- {
   "name": "Roots That Hold Forever",
   "triggers": [
    "roots that hold forever"
@@ -494,6 +486,14 @@
    "đi tiếp (one more mile)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105231237178634504",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Walk With the Eight",
+  "triggers": [
+   "walk with the eight"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105789933084434512",
   "tag": "$MfT"
  }
 ]

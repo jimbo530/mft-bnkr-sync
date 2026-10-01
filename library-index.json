@@ -4010,14 +4010,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2098758606615171183"
  },
  {
-  "band": "DD",
-  "name": "Walk With the Eight",
-  "triggers": [
-   "walk with the eight"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098763663024763296"
- },
- {
   "band": "EBM",
   "name": "Raid for the Children",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "seize the seas"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105759724817752104"
+ },
+ {
+  "band": "DD",
+  "name": "Walk With the Eight",
+  "triggers": [
+   "walk with the eight"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105789933084434512"
  }
 ]
