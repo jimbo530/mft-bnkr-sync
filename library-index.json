@@ -4410,14 +4410,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2099578959511933353"
  },
  {
-  "band": "Myco",
-  "name": "Drop The Beats To Fund The Forest",
-  "triggers": [
-   "drop the beats to fund the forest"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099584074088145397"
- },
- {
   "band": "NN",
   "name": "Pass It On",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "walk with the eight"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105789933084434512"
+ },
+ {
+  "band": "Myco",
+  "name": "Drop The Beats To Fund The Forest",
+  "triggers": [
+   "drop the beats to fund the forest"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105794958351360153"
  }
 ]
