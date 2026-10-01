@@ -6234,14 +6234,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2102759948505522582"
  },
  {
-  "band": "MR",
-  "name": "Work Now Dance Later vid",
-  "triggers": [
-   "work now dance later vid"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102780074080530494"
- },
- {
   "band": "Gurdy",
   "name": "Someone Bet on Me",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "follow the signal up"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105467805994750271"
+ },
+ {
+  "band": "MR",
+  "name": "Work Now Dance Later vid",
+  "triggers": [
+   "work now dance later vid"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105487941900325272"
  }
 ]
