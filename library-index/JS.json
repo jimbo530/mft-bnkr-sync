@@ -89,14 +89,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "For the Short Lived",
-  "triggers": [
-   "for the short lived"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094268945964363960",
-  "tag": "$MfT"
- },
- {
   "name": "I Poured It Tea",
   "triggers": [
    "i poured it tea"
@@ -766,6 +758,14 @@
    "concrete to canopy"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105538258549551572",
+  "tag": "$MfT"
+ },
+ {
+  "name": "For the Short Lived",
+  "triggers": [
+   "for the short lived"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105643975017152587",
   "tag": "$MfT"
  }
 ]

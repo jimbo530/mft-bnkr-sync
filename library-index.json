@@ -1698,14 +1698,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094253836479213836"
  },
  {
-  "band": "JS",
-  "name": "For the Short Lived",
-  "triggers": [
-   "for the short lived"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094268945964363960"
- },
- {
   "band": "SEAS",
   "name": "Set Sail",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "canopy law"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105638926392111217"
+ },
+ {
+  "band": "JS",
+  "name": "For the Short Lived",
+  "triggers": [
+   "for the short lived"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105643975017152587"
  }
 ]
