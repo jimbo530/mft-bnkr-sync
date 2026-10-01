@@ -4682,19 +4682,6 @@
     "caption": "\"Hoodies Keep Me Warm\" — Natilie Nightclub\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2096393029049303128",
-    "translation": "Tally at the Muster",
-    "name": "Tally at the Muster",
-    "triggers": [
-      "tally at the muster"
-    ],
-    "band": "JS",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2096393029049303128",
-    "caption": "\"Tally at the Muster\" — Jony Sings\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2096413116879737251",
     "translation": "Everyone Onchain By Friday",
     "name": "Everyone Onchain By Friday",
@@ -12610,5 +12597,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2105794958351360153",
     "caption": "\"Drop The Beats To Fund The Forest\" — Myco\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2105800002383618506",
+    "translation": "Tally at the Muster",
+    "name": "Tally at the Muster",
+    "triggers": [
+      "tally at the muster"
+    ],
+    "band": "JS",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2105800002383618506",
+    "caption": "\"Tally at the Muster\" — Jony Sings\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

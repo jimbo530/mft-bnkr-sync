@@ -2882,14 +2882,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096387938871341397"
  },
  {
-  "band": "JS",
-  "name": "Tally at the Muster",
-  "triggers": [
-   "tally at the muster"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096393029049303128"
- },
- {
   "band": "CB",
   "name": "Everyone Onchain By Friday",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "drop the beats to fund the forest"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105794958351360153"
+ },
+ {
+  "band": "JS",
+  "name": "Tally at the Muster",
+  "triggers": [
+   "tally at the muster"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105800002383618506"
  }
 ]
