@@ -3890,14 +3890,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2098255281222279436"
  },
  {
-  "band": "Rish",
-  "name": "The Bringing-In",
-  "triggers": [
-   "the bringing-in"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098260275711311943"
- },
- {
   "band": "EBM",
   "name": "The Good Word",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "herbs and rimes"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105613727080792181"
+ },
+ {
+  "band": "Rish",
+  "name": "The Bringing-In",
+  "triggers": [
+   "the bringing-in"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105618757817172040"
  }
 ]
