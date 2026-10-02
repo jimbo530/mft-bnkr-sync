@@ -4074,14 +4074,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2098959876688839072"
  },
  {
-  "band": "Bongo",
-  "name": "The Beat Votes Tomorrow",
-  "triggers": [
-   "the beat votes tomorrow"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098985050737901976"
- },
- {
   "band": "DD",
   "name": "Where the Maps Run Out",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "play games, save the world"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105915706394943759"
+ },
+ {
+  "band": "Bongo",
+  "name": "The Beat Votes Tomorrow",
+  "triggers": [
+   "the beat votes tomorrow"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105920786707984561"
  }
 ]
