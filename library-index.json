@@ -5531,14 +5531,6 @@
  },
  {
   "band": "MV",
-  "name": "Digerie Dude - Open Roads (1)",
-  "triggers": [
-   "digerie dude - open roads (1)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101949627578605840"
- },
- {
-  "band": "MV",
   "name": "Digerie Dude - Creators Economy",
   "triggers": [
    "digerie dude - creators economy"
@@ -7760,5 +7752,13 @@
    "ebm - meme to green"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105981200435229066"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Open Roads (1)",
+  "triggers": [
+   "digerie dude - open roads (1)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106006353525285364"
  }
 ]
