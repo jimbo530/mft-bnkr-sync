@@ -5339,14 +5339,6 @@
  },
  {
   "band": "MV",
-  "name": "Digerie Dude - Photosynthesis of the Heart",
-  "triggers": [
-   "digerie dude - photosynthesis of the heart"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101546949027488052"
- },
- {
-  "band": "MV",
   "name": "J&N make today count",
   "triggers": [
    "j&n make today count"
@@ -7760,5 +7752,13 @@
    "side effect"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105950974984556823"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Photosynthesis of the Heart",
+  "triggers": [
+   "digerie dude - photosynthesis of the heart"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105976158680445368"
  }
 ]
