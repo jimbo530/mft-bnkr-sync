@@ -5778,14 +5778,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2102402610477052197"
  },
  {
-  "band": "MR",
-  "name": "We Water Each Other",
-  "triggers": [
-   "we water each other"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102427761059025030"
- },
- {
   "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “GOLD TO GREEN (O",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "thanks for being here"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106011390070653097"
+ },
+ {
+  "band": "MR",
+  "name": "We Water Each Other",
+  "triggers": [
+   "we water each other"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106036545610293590"
  }
 ]

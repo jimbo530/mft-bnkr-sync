@@ -9388,19 +9388,6 @@
     "caption": "\"You Make The Magic Happen\" — Elves of Ballinmoore\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2102427761059025030",
-    "translation": "We Water Each Other",
-    "name": "We Water Each Other",
-    "triggers": [
-      "we water each other"
-    ],
-    "band": "MR",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2102427761059025030",
-    "caption": "\"We Water Each Other\" — Moon Rasta\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2102452935481319826",
     "translation": "ELVES OF BALLINMOORE — “GOLD TO GREEN (O",
     "name": "ELVES OF BALLINMOORE — “GOLD TO GREEN (O",
@@ -12610,5 +12597,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2106011390070653097",
     "caption": "\"Thanks for being here\"\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2106036545610293590",
+    "translation": "We Water Each Other",
+    "name": "We Water Each Other",
+    "triggers": [
+      "we water each other"
+    ],
+    "band": "MR",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2106036545610293590",
+    "caption": "\"We Water Each Other\" — Moon Rasta\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
