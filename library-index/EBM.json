@@ -246,14 +246,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Lord We Was Looking For",
-  "triggers": [
-   "the lord we was looking for"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095144764249198932",
-  "tag": "$MfT"
- },
- {
   "name": "The Forest Waters Itself",
   "triggers": [
    "the forest waters itself"
@@ -859,6 +851,14 @@
    "diamond hands endure"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106066709962449094",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Lord We Was Looking For",
+  "triggers": [
+   "the lord we was looking for"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106101927733870712",
   "tag": "$MfT"
  }
 ]
