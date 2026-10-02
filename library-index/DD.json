@@ -385,14 +385,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "(PEACE IN YOUR HANDS)",
-  "triggers": [
-   "(peace in your hands)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101974784321994865",
-  "tag": "$MfT"
- },
- {
   "name": "Nations as One",
   "triggers": [
    "nations as one"
@@ -494,6 +486,14 @@
    "walk with the eight"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105789933084434512",
+  "tag": "$MfT"
+ },
+ {
+  "name": "(PEACE IN YOUR HANDS)",
+  "triggers": [
+   "(peace in your hands)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105890583621361954",
   "tag": "$MfT"
  }
 ]

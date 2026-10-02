@@ -9089,19 +9089,6 @@
     "caption": "\"Digerie Dude - Creators Economy\"\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2101974784321994865",
-    "translation": "(PEACE IN YOUR HANDS)",
-    "name": "(PEACE IN YOUR HANDS)",
-    "triggers": [
-      "(peace in your hands)"
-    ],
-    "band": "DD",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2101974784321994865",
-    "caption": "\"(PEACE IN YOUR HANDS)\" — Digerie Dude\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2101979777515106363",
     "translation": "Dance to Defend The Earth",
     "name": "Dance to Defend The Earth",
@@ -12610,5 +12597,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2105885581913854264",
     "caption": "\"Self-Funding Revolution\" — Myco\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2105890583621361954",
+    "translation": "(PEACE IN YOUR HANDS)",
+    "name": "(PEACE IN YOUR HANDS)",
+    "triggers": [
+      "(peace in your hands)"
+    ],
+    "band": "DD",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2105890583621361954",
+    "caption": "\"(PEACE IN YOUR HANDS)\" — Digerie Dude\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

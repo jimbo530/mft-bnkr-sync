@@ -5594,14 +5594,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101954660495966514"
  },
  {
-  "band": "DD",
-  "name": "(PEACE IN YOUR HANDS)",
-  "triggers": [
-   "(peace in your hands)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101974784321994865"
- },
- {
   "band": "MV",
   "name": "Dance to Defend The Earth",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "self-funding revolution"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105885581913854264"
+ },
+ {
+  "band": "DD",
+  "name": "(PEACE IN YOUR HANDS)",
+  "triggers": [
+   "(peace in your hands)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105890583621361954"
  }
 ]
