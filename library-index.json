@@ -4202,14 +4202,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2099276979165974619"
  },
  {
-  "band": "NN",
-  "name": "Ask Me Why I Stay",
-  "triggers": [
-   "ask me why i stay"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099282049811075548"
- },
- {
   "band": "Bongo",
   "name": "I Live Here Now (By the Wall)",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "diamond hands endure"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106066709962449094"
+ },
+ {
+  "band": "NN",
+  "name": "Ask Me Why I Stay",
+  "triggers": [
+   "ask me why i stay"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106071735753658793"
  }
 ]
