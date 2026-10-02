@@ -3042,14 +3042,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096674862609596841"
  },
  {
-  "band": "Myco",
-  "name": "New Soil",
-  "triggers": [
-   "new soil"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096679910018322693"
- },
- {
   "band": "Strut",
   "name": "Put On A Show",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the beat votes tomorrow"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105920786707984561"
+ },
+ {
+  "band": "Myco",
+  "name": "New Soil",
+  "triggers": [
+   "new soil"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105945951307194797"
  }
 ]
