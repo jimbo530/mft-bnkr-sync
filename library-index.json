@@ -4834,14 +4834,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100520209861800133"
  },
  {
-  "band": "MV",
-  "name": "Digerie Dude - Small Voices Big Waves",
-  "triggers": [
-   "digerie dude - small voices big waves"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100540335822688690"
- },
- {
   "band": "JS",
   "name": "Mangrove",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the lord we was looking for"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106101927733870712"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Small Voices Big Waves",
+  "triggers": [
+   "digerie dude - small voices big waves"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106127156065517614"
  }
 ]
