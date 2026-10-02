@@ -270,14 +270,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Side Effect",
-  "triggers": [
-   "side effect"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095577696130498718",
-  "tag": "$MfT"
- },
- {
   "name": "Clean the Block",
   "triggers": [
    "clean the block"
@@ -859,6 +851,14 @@
    "mean green meme team"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105734539108659427",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Side Effect",
+  "triggers": [
+   "side effect"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105950974984556823",
   "tag": "$MfT"
  }
 ]

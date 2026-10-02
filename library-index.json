@@ -2402,14 +2402,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095572826099003559"
  },
  {
-  "band": "EBM",
-  "name": "Side Effect",
-  "triggers": [
-   "side effect"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095577696130498718"
- },
- {
   "band": "Jasmine",
   "name": "Tunnels of Darkness",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "new soil"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105945951307194797"
+ },
+ {
+  "band": "EBM",
+  "name": "Side Effect",
+  "triggers": [
+   "side effect"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105950974984556823"
  }
 ]
