@@ -4922,14 +4922,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100545327719674195"
  },
  {
-  "band": "MR",
-  "name": "Take Your Shot",
-  "triggers": [
-   "take your shot"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100565494939918843"
- },
- {
   "band": "DD",
   "name": "(ROOTS THAT HOLD US)",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "seeds to save humanity"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105830196808941829"
+ },
+ {
+  "band": "MR",
+  "name": "Take Your Shot",
+  "triggers": [
+   "take your shot"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105855366357471280"
  }
 ]
