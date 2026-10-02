@@ -1810,14 +1810,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094455172210577465"
  },
  {
-  "band": "CB",
-  "name": "Name It Once",
-  "triggers": [
-   "name it once"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094470280827593141"
- },
- {
   "band": "Rish",
   "name": "The Long Weather",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "take your shot"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105855366357471280"
+ },
+ {
+  "band": "CB",
+  "name": "Name It Once",
+  "triggers": [
+   "name it once"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105860398935146929"
  }
 ]

@@ -97,14 +97,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Name It Once",
-  "triggers": [
-   "name it once"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094470280827593141",
-  "tag": "$MfT"
- },
- {
   "name": "Press the Button",
   "triggers": [
    "press the button"
@@ -502,6 +494,14 @@
    "love builds the forest"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105729531126358183",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Name It Once",
+  "triggers": [
+   "name it once"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105860398935146929",
   "tag": "$MfT"
  }
 ]
