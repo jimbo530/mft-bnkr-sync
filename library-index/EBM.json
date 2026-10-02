@@ -238,14 +238,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Countless",
-  "triggers": [
-   "countless"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095044106980347934",
-  "tag": "$MfT"
- },
- {
   "name": "The Forest Waters Itself",
   "triggers": [
    "the forest waters itself"
@@ -859,6 +851,14 @@
    "the lord we was looking for"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106101927733870712",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Countless",
+  "triggers": [
+   "countless"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106162339561054713",
   "tag": "$MfT"
  }
 ]
