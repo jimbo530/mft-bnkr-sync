@@ -478,14 +478,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Diamond Hands Endure",
-  "triggers": [
-   "diamond hands endure"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100872477115117657",
-  "tag": "$MfT"
- },
- {
   "name": "Never Miss a Day",
   "triggers": [
    "never miss a day"
@@ -859,6 +851,14 @@
    "“every signal plants trees”"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106041600975532531",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Diamond Hands Endure",
+  "triggers": [
+   "diamond hands endure"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106066709962449094",
   "tag": "$MfT"
  }
 ]

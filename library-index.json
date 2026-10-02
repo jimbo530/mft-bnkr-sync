@@ -5018,14 +5018,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100867497406669134"
  },
  {
-  "band": "EBM",
-  "name": "Diamond Hands Endure",
-  "triggers": [
-   "diamond hands endure"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100872477115117657"
- },
- {
   "band": "CB",
   "name": "Future is Here",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "“every signal plants trees”"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106041600975532531"
+ },
+ {
+  "band": "EBM",
+  "name": "Diamond Hands Endure",
+  "triggers": [
+   "diamond hands endure"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106066709962449094"
  }
 ]
