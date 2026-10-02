@@ -4738,14 +4738,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100238323709018444"
  },
  {
-  "band": "Myco",
-  "name": "Self-Funding Revolution",
-  "triggers": [
-   "self-funding revolution"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100243393792131506"
- },
- {
   "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “ALLIANCE FIRE”",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "name it once"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105860398935146929"
+ },
+ {
+  "band": "Myco",
+  "name": "Self-Funding Revolution",
+  "triggers": [
+   "self-funding revolution"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105885581913854264"
  }
 ]
