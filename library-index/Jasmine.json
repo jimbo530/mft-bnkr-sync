@@ -73,14 +73,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Neighborly Lord",
-  "triggers": [
-   "the neighborly lord"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096287333695770999",
-  "tag": "$MfT"
- },
- {
   "name": "Warmth of the Dwarven Hearth",
   "triggers": [
    "warmth of the dwarven hearth"
@@ -118,6 +110,14 @@
    "one family at a time"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099503504750510509",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Neighborly Lord",
+  "triggers": [
+   "the neighborly lord"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106157298083102733",
   "tag": "$MfT"
  }
 ]

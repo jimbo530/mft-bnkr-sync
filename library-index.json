@@ -2778,14 +2778,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096267244518945096"
  },
  {
-  "band": "Jasmine",
-  "name": "The Neighborly Lord",
-  "triggers": [
-   "the neighborly lord"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096287333695770999"
- },
- {
   "band": "CB",
   "name": "Attention Tree Appreciators",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "digerie dude - small voices big waves"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106127156065517614"
+ },
+ {
+  "band": "Jasmine",
+  "name": "The Neighborly Lord",
+  "triggers": [
+   "the neighborly lord"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106157298083102733"
  }
 ]
