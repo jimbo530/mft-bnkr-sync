@@ -6034,14 +6034,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2102936066223218772"
  },
  {
-  "band": "MV",
-  "name": "Thanks for being here",
-  "triggers": [
-   "thanks for being here"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102956240993177833"
- },
- {
   "band": "EBM",
   "name": "Ballinmoore Elves",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "digerie dude - open roads (1)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106006353525285364"
+ },
+ {
+  "band": "MV",
+  "name": "Thanks for being here",
+  "triggers": [
+   "thanks for being here"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106011390070653097"
  }
 ]

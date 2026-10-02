@@ -912,14 +912,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Thanks for being here",
-  "triggers": [
-   "thanks for being here"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102956240993177833",
-  "tag": "$MfT"
- },
- {
   "name": "Myko - Listen Close",
   "triggers": [
    "myko - listen close"
@@ -1301,6 +1293,14 @@
    "digerie dude - open roads (1)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106006353525285364",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Thanks for being here",
+  "triggers": [
+   "thanks for being here"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106011390070653097",
   "tag": "$MfT"
  }
 ]
