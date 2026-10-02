@@ -17,14 +17,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Play Games, Save The World",
-  "triggers": [
-   "play games, save the world"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093851236172755021",
-  "tag": "$MfT"
- },
- {
   "name": "Learn Out Loud",
   "triggers": [
    "learn out loud"
@@ -126,6 +118,14 @@
    "the first yes"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105387276289101997",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Play Games, Save The World",
+  "triggers": [
+   "play games, save the world"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105915706394943759",
   "tag": "$MfT"
  }
 ]

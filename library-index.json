@@ -1442,14 +1442,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093831112866873453"
  },
  {
-  "band": "Strut",
-  "name": "Play Games, Save The World",
-  "triggers": [
-   "play games, save the world"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093851236172755021"
- },
- {
   "band": "SEAS",
   "name": "Feed Your Crew",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "(peace in your hands)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105890583621361954"
+ },
+ {
+  "band": "Strut",
+  "name": "Play Games, Save The World",
+  "triggers": [
+   "play games, save the world"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105915706394943759"
  }
 ]
