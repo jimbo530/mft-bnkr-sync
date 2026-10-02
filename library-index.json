@@ -5307,14 +5307,6 @@
  },
  {
   "band": "MV",
-  "name": "EBM - Meme to Green",
-  "triggers": [
-   "ebm - meme to green"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101496628519502001"
- },
- {
-  "band": "MV",
   "name": "Digerie Dude - Long Way home",
   "triggers": [
    "digerie dude - long way home"
@@ -7760,5 +7752,13 @@
    "digerie dude - photosynthesis of the heart"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105976158680445368"
+ },
+ {
+  "band": "MV",
+  "name": "EBM - Meme to Green",
+  "triggers": [
+   "ebm - meme to green"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2105981200435229066"
  }
 ]
