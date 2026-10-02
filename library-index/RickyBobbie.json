@@ -73,14 +73,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Wind In Your Sails",
-  "triggers": [
-   "wind in your sails"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097153016575000669",
-  "tag": "$MfT"
- },
- {
   "name": "No Value But Songs We Sing",
   "triggers": [
    "no value but songs we sing"
@@ -102,6 +94,14 @@
    "sail with the crownless"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2098894484381602128",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Wind In Your Sails",
+  "triggers": [
+   "wind in your sails"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106096952257462647",
   "tag": "$MfT"
  }
 ]

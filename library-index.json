@@ -3250,14 +3250,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097147978007838926"
  },
  {
-  "band": "RickyBobbie",
-  "name": "Wind In Your Sails",
-  "triggers": [
-   "wind in your sails"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097153016575000669"
- },
- {
   "band": "NN",
   "name": "Just Ask Darling",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "ask me why i stay"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106071735753658793"
+ },
+ {
+  "band": "RickyBobbie",
+  "name": "Wind In Your Sails",
+  "triggers": [
+   "wind in your sails"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106096952257462647"
  }
 ]
