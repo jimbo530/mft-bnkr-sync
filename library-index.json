@@ -5914,14 +5914,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2102855580217946375"
  },
  {
-  "band": "MV",
-  "name": "ddd trade route open",
-  "triggers": [
-   "ddd trade route open"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102860555153261024"
- },
- {
   "band": "JS",
   "name": "Make Today Count",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "countless"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106162339561054713"
+ },
+ {
+  "band": "MV",
+  "name": "ddd trade route open",
+  "triggers": [
+   "ddd trade route open"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106187489195049158"
  }
 ]
