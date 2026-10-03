@@ -5434,14 +5434,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101904327690301872"
  },
  {
-  "band": "Myco",
-  "name": "Forge the Future",
-  "triggers": [
-   "forge the future"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101929499453485382"
- },
- {
   "band": "MV",
   "name": "Digerie Dude - Creators Economy",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "make the change you want to see"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106222784313479216"
+ },
+ {
+  "band": "Myco",
+  "name": "Forge the Future",
+  "triggers": [
+   "forge the future"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106247949793530061"
  }
 ]
