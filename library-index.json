@@ -4674,14 +4674,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100313812339511450"
  },
  {
-  "band": "MV",
-  "name": "EBM - TGN Alliance",
-  "triggers": [
-   "ebm - tgn alliance"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100318850776547545"
- },
- {
   "band": "JS",
   "name": "Welcome To The Show",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "rockin regen"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106313330524557813"
+ },
+ {
+  "band": "MV",
+  "name": "EBM - TGN Alliance",
+  "triggers": [
+   "ebm - tgn alliance"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106338547510759835"
  }
 ]
