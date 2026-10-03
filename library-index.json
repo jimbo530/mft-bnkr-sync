@@ -6042,14 +6042,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2103338713887482277"
  },
  {
-  "band": "CB",
-  "name": "Chain Reaction Diplomacy",
-  "triggers": [
-   "chain reaction diplomacy"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103358957930561927"
- },
- {
   "band": "JS",
   "name": "we will get there",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "plain words, open road"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106398924638404634"
+ },
+ {
+  "band": "CB",
+  "name": "Chain Reaction Diplomacy",
+  "triggers": [
+   "chain reaction diplomacy"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106404045803909177"
  }
 ]
