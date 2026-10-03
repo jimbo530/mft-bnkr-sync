@@ -6123,14 +6123,6 @@
  },
  {
   "band": "MV",
-  "name": "Garden spinning green",
-  "triggers": [
-   "garden spinning green"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103489704008040904"
- },
- {
-  "band": "MV",
   "name": "Pass it on Gary Strings",
   "triggers": [
    "pass it on gary strings"
@@ -7760,5 +7752,13 @@
    "set a table"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106368726341689525"
+ },
+ {
+  "band": "MV",
+  "name": "Garden spinning green",
+  "triggers": [
+   "garden spinning green"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106373727529181628"
  }
 ]

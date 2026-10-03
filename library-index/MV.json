@@ -968,14 +968,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Garden spinning green",
-  "triggers": [
-   "garden spinning green"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103489704008040904",
-  "tag": "$MfT"
- },
- {
   "name": "Pass it on Gary Strings",
   "triggers": [
    "pass it on gary strings"
@@ -1301,6 +1293,14 @@
    "ebm - tgn alliance"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106338547510759835",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Garden spinning green",
+  "triggers": [
+   "garden spinning green"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106373727529181628",
   "tag": "$MfT"
  }
 ]
