@@ -5315,14 +5315,6 @@
  },
  {
   "band": "Myco",
-  "name": "After the Winter Comes",
-  "triggers": [
-   "after the winter comes"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101874136096113097"
- },
- {
-  "band": "Myco",
   "name": "Every Day We Grow",
   "triggers": [
    "every day we grow"
@@ -7760,5 +7752,13 @@
    "base base base"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106489531524358519"
+ },
+ {
+  "band": "Myco",
+  "name": "After the Winter Comes",
+  "triggers": [
+   "after the winter comes"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106509678175822065"
  }
 ]

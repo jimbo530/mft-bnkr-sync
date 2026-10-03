@@ -536,14 +536,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "After the Winter Comes",
-  "triggers": [
-   "after the winter comes"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101874136096113097",
-  "tag": "$MfT"
- },
- {
   "name": "Every Day We Grow",
   "triggers": [
    "every day we grow"
@@ -861,6 +853,14 @@
    "forge the future"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106247949793530061",
+  "tag": "$MfT"
+ },
+ {
+  "name": "After the Winter Comes",
+  "triggers": [
+   "after the winter comes"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106509678175822065",
   "tag": "$MfT"
  }
 ]
