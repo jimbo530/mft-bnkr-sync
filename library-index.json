@@ -4010,14 +4010,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2098929680183070771"
  },
  {
-  "band": "HammerTone",
-  "name": "A Name That Holds",
-  "triggers": [
-   "a name that holds"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098954895915159789"
- },
- {
   "band": "NN",
   "name": "A Lord With Manners",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "ddd trade route open"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106187489195049158"
+ },
+ {
+  "band": "HammerTone",
+  "name": "A Name That Holds",
+  "triggers": [
+   "a name that holds"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106192533428552033"
  }
 ]

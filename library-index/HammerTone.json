@@ -89,14 +89,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "A Name That Holds",
-  "triggers": [
-   "a name that holds"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098954895915159789",
-  "tag": "$MfT"
- },
- {
   "name": "The Grind Holds",
   "triggers": [
    "the grind holds"
@@ -134,6 +126,14 @@
    "the guildmaster who asks nothing"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2104974597875450069",
+  "tag": "$MfT"
+ },
+ {
+  "name": "A Name That Holds",
+  "triggers": [
+   "a name that holds"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106192533428552033",
   "tag": "$MfT"
  }
 ]
