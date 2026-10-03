@@ -5050,14 +5050,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101320427138113613"
  },
  {
-  "band": "CB",
-  "name": "BASE BASE BASE",
-  "triggers": [
-   "base base base"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101350670548848726"
- },
- {
   "band": "DD",
   "name": "Communities",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "they paid me to play the forest"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106464309555466554"
+ },
+ {
+  "band": "CB",
+  "name": "BASE BASE BASE",
+  "triggers": [
+   "base base base"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106489531524358519"
  }
 ]

@@ -321,14 +321,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "BASE BASE BASE",
-  "triggers": [
-   "base base base"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101350670548848726",
-  "tag": "$MfT"
- },
- {
   "name": "Born on Chain",
   "triggers": [
    "born on chain"
@@ -502,6 +494,14 @@
    "chain reaction diplomacy"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106404045803909177",
+  "tag": "$MfT"
+ },
+ {
+  "name": "BASE BASE BASE",
+  "triggers": [
+   "base base base"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106489531524358519",
   "tag": "$MfT"
  }
 ]
