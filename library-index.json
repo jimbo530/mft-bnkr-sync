@@ -4914,14 +4914,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100771863798452473"
  },
  {
-  "band": "Myco",
-  "name": "Make The Change You Want To See",
-  "triggers": [
-   "make the change you want to see"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100791994083602755"
- },
- {
   "band": "MV",
   "name": "Pass it on",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "blessed. again."
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106217733142548783"
+ },
+ {
+  "band": "Myco",
+  "name": "Make The Change You Want To See",
+  "triggers": [
+   "make the change you want to see"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106222784313479216"
  }
 ]
