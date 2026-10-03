@@ -4370,14 +4370,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2099825700559581220"
  },
  {
-  "band": "MV",
-  "name": "Digerie Dude- Weather the storm",
-  "triggers": [
-   "digerie dude- weather the storm"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099845761798217750"
- },
- {
   "band": "JS",
   "name": "Devil Wants My Song",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the laughing lord"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106429132846313803"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude- Weather the storm",
+  "triggers": [
+   "digerie dude- weather the storm"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106434162164998210"
  }
 ]
