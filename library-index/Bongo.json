@@ -241,14 +241,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Blessed. Again.",
-  "triggers": [
-   "blessed. again."
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097520394848596365",
-  "tag": "$MfT"
- },
- {
   "name": "One Reason (Trees)",
   "triggers": [
    "one reason (trees)"
@@ -366,6 +358,14 @@
    "the beat votes tomorrow"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105920786707984561",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Blessed. Again.",
+  "triggers": [
+   "blessed. again."
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106217733142548783",
   "tag": "$MfT"
  }
 ]

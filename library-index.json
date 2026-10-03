@@ -3402,14 +3402,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097505298973868244"
  },
  {
-  "band": "Bongo",
-  "name": "Blessed. Again.",
-  "triggers": [
-   "blessed. again."
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097520394848596365"
- },
- {
   "band": "Rish",
   "name": "Bread and Water",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "a name that holds"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106192533428552033"
+ },
+ {
+  "band": "Bongo",
+  "name": "Blessed. Again.",
+  "triggers": [
+   "blessed. again."
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106217733142548783"
  }
 ]
