@@ -2515,14 +2515,6 @@
  },
  {
   "band": "Bongo",
-  "name": "They Paid Me To Play The Forest",
-  "triggers": [
-   "they paid me to play the forest"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095874602639495640"
- },
- {
-  "band": "Bongo",
   "name": "Meme For Trees",
   "triggers": [
    "meme for trees"
@@ -7760,5 +7752,13 @@
    "one dollar (what the hell)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106459276881342544"
+ },
+ {
+  "band": "Bongo",
+  "name": "They Paid Me To Play The Forest",
+  "triggers": [
+   "they paid me to play the forest"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106464309555466554"
  }
 ]

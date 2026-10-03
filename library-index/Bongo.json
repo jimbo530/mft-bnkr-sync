@@ -169,14 +169,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "They Paid Me To Play The Forest",
-  "triggers": [
-   "they paid me to play the forest"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095874602639495640",
-  "tag": "$MfT"
- },
- {
   "name": "Meme For Trees",
   "triggers": [
    "meme for trees"
@@ -366,6 +358,14 @@
    "blessed. again."
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106217733142548783",
+  "tag": "$MfT"
+ },
+ {
+  "name": "They Paid Me To Play The Forest",
+  "triggers": [
+   "they paid me to play the forest"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106464309555466554",
   "tag": "$MfT"
  }
 ]
