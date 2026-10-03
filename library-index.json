@@ -1874,14 +1874,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094747119118610916"
  },
  {
-  "band": "Strut",
-  "name": "One Dollar (What The Hell)",
-  "triggers": [
-   "one dollar (what the hell)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094762257334833247"
- },
- {
   "band": "EBM",
   "name": "The Patient Ones",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "digerie dude- weather the storm"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106434162164998210"
+ },
+ {
+  "band": "Strut",
+  "name": "One Dollar (What The Hell)",
+  "triggers": [
+   "one dollar (what the hell)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106459276881342544"
  }
 ]
