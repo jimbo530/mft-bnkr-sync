@@ -2026,14 +2026,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094968617859252308"
  },
  {
-  "band": "Jasmine",
-  "name": "Plain Words, Open Road",
-  "triggers": [
-   "plain words, open road"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094983674236215422"
- },
- {
   "band": "EBM",
   "name": "The Whole Block Came",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "garden spinning green"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106373727529181628"
+ },
+ {
+  "band": "Jasmine",
+  "name": "Plain Words, Open Road",
+  "triggers": [
+   "plain words, open road"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106398924638404634"
  }
 ]

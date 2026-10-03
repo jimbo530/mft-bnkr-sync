@@ -49,14 +49,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Plain Words, Open Road",
-  "triggers": [
-   "plain words, open road"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094983674236215422",
-  "tag": "$MfT"
- },
- {
   "name": "Glad You're Here",
   "triggers": [
    "glad you're here"
@@ -118,6 +110,14 @@
    "the neighborly lord"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106157298083102733",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Plain Words, Open Road",
+  "triggers": [
+   "plain words, open road"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106398924638404634",
   "tag": "$MfT"
  }
 ]
