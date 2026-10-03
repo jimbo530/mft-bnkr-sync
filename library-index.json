@@ -2506,14 +2506,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095763828755538195"
  },
  {
-  "band": "MR",
-  "name": "Where I Can",
-  "triggers": [
-   "where i can"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095783988841357340"
- },
- {
   "band": "DGT",
   "name": "One Night Ahead",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "forge the future"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106247949793530061"
+ },
+ {
+  "band": "MR",
+  "name": "Where I Can",
+  "triggers": [
+   "where i can"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106252967850446973"
  }
 ]

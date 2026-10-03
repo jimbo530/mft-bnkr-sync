@@ -137,14 +137,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Where I Can",
-  "triggers": [
-   "where i can"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095783988841357340",
-  "tag": "$MfT"
- },
- {
   "name": "The Ground We Stand On",
   "triggers": [
    "the ground we stand on"
@@ -438,6 +430,14 @@
    "we water each other"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106036545610293590",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Where I Can",
+  "triggers": [
+   "where i can"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106252967850446973",
   "tag": "$MfT"
  }
 ]
