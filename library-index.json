@@ -4922,14 +4922,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100842328063685072"
  },
  {
-  "band": "MV",
-  "name": "EBM- Community of Communities",
-  "triggers": [
-   "ebm- community of communities"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100867497406669134"
- },
- {
   "band": "CB",
   "name": "Future is Here",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "launch her off the slip"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106283167162229215"
+ },
+ {
+  "band": "MV",
+  "name": "EBM- Community of Communities",
+  "triggers": [
+   "ebm- community of communities"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106308344956768473"
  }
 ]

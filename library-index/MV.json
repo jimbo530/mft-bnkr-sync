@@ -648,14 +648,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "EBM- Community of Communities",
-  "triggers": [
-   "ebm- community of communities"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100867497406669134",
-  "tag": "$MfT"
- },
- {
   "name": "Joy that stays",
   "triggers": [
    "joy that stays"
@@ -1301,6 +1293,14 @@
    "ddd trade route open"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106187489195049158",
+  "tag": "$MfT"
+ },
+ {
+  "name": "EBM- Community of Communities",
+  "triggers": [
+   "ebm- community of communities"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106308344956768473",
   "tag": "$MfT"
  }
 ]
