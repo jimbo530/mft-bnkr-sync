@@ -121,14 +121,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Laughing Lord",
-  "triggers": [
-   "the laughing lord"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095124636774154728",
-  "tag": "$MfT"
- },
- {
   "name": "Spread the Spark",
   "triggers": [
    "spread the spark"
@@ -366,6 +358,14 @@
    "the bringing-in"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105618757817172040",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Laughing Lord",
+  "triggers": [
+   "the laughing lord"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106429132846313803",
   "tag": "$MfT"
  }
 ]

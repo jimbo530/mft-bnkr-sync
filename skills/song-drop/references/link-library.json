@@ -3407,19 +3407,6 @@
     "caption": "\"Pull Up a Chair\" — Damned Good Time Orchestra\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2095124636774154728",
-    "translation": "The Laughing Lord",
-    "name": "The Laughing Lord",
-    "triggers": [
-      "the laughing lord"
-    ],
-    "band": "Rish",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2095124636774154728",
-    "caption": "\"The Laughing Lord\" — Rish\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2095129634853560830",
     "translation": "Spread the Spark",
     "name": "Spread the Spark",
@@ -12610,5 +12597,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2106404045803909177",
     "caption": "\"Chain Reaction Diplomacy\" — CB\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2106429132846313803",
+    "translation": "The Laughing Lord",
+    "name": "The Laughing Lord",
+    "triggers": [
+      "the laughing lord"
+    ],
+    "band": "Rish",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2106429132846313803",
+    "caption": "\"The Laughing Lord\" — Rish\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
