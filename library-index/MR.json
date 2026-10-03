@@ -57,14 +57,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Set a Table",
-  "triggers": [
-   "set a table"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094389736668299532",
-  "tag": "$MfT"
- },
- {
   "name": "Something Real Beneath Our Feet",
   "triggers": [
    "something real beneath our feet"
@@ -438,6 +430,14 @@
    "where i can"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106252967850446973",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Set a Table",
+  "triggers": [
+   "set a table"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106368726341689525",
   "tag": "$MfT"
  }
 ]

@@ -1754,14 +1754,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094369601727402136"
  },
  {
-  "band": "MR",
-  "name": "Set a Table",
-  "triggers": [
-   "set a table"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094389736668299532"
- },
- {
   "band": "WarMachine",
   "name": "Earn It",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "it moves when we roar"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106343526145380369"
+ },
+ {
+  "band": "MR",
+  "name": "Set a Table",
+  "triggers": [
+   "set a table"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106368726341689525"
  }
 ]
