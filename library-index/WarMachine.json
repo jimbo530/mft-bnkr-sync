@@ -1,13 +1,5 @@
 [
  {
-  "name": "It Moves When We Roar",
-  "triggers": [
-   "it moves when we roar"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2085420650974380336",
-  "tag": "$MfT"
- },
- {
   "name": "March The Memes",
   "triggers": [
    "march the memes"
@@ -158,6 +150,14 @@
    "muster"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2105100375338385801",
+  "tag": "$MfT"
+ },
+ {
+  "name": "It Moves When We Roar",
+  "triggers": [
+   "it moves when we roar"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106343526145380369",
   "tag": "$MfT"
  }
 ]

@@ -485,19 +485,6 @@
     "caption": "\"The Sky People Came To Party\" — Myco\n\n$MfT 0x36A01B05cf86a170490E3Ba4981eFd12B559a5a3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2085420650974380336",
-    "translation": "It Moves When We Roar",
-    "name": "It Moves When We Roar",
-    "triggers": [
-      "it moves when we roar"
-    ],
-    "band": "WarMachine",
-    "tag": "$MfT",
-    "ca": "0x6f45F5cE7027745b1Ab11D5493F187960D00FCfc",
-    "xPost": "https://x.com/MemeForTrees/status/2085420650974380336",
-    "caption": "\"It Moves When We Roar\" — War Machine\npress play, plant trees\n\nthe band works for a dollar — your song, their voice:\nhttps://tasern.quest/songsmith.html\nor pay right here on X: tag @MonkyTownWallet, any library song for 2 gold or 2 bananas\n\n$MfT 0x6f45F5cE7027745b1Ab11D5493F187960D00FCfc"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2053354383186755742",
     "translation": "“zFROM MEMES TO MANGROVES”",
     "name": "“zFROM MEMES TO MANGROVES”",
@@ -12610,5 +12597,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2106338547510759835",
     "caption": "\"EBM - TGN Alliance\"\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2106343526145380369",
+    "translation": "It Moves When We Roar",
+    "name": "It Moves When We Roar",
+    "triggers": [
+      "it moves when we roar"
+    ],
+    "band": "WarMachine",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2106343526145380369",
+    "caption": "\"It Moves When We Roar\" — War Machine\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
