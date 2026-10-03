@@ -3794,14 +3794,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2098431445362463232"
  },
  {
-  "band": "EBM",
-  "name": "Oldest Magic",
-  "triggers": [
-   "oldest magic"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098461648650428510"
- },
- {
   "band": "RickyBobbie",
   "name": "Fastest Word in the Sky",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "after the winter comes"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106509678175822065"
+ },
+ {
+  "band": "EBM",
+  "name": "Oldest Magic",
+  "triggers": [
+   "oldest magic"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106514692642419000"
  }
 ]
