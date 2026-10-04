@@ -5618,14 +5618,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2102583789037785514"
  },
  {
-  "band": "MV",
-  "name": "carry the light, G.O.A.T.",
-  "triggers": [
-   "carry the light, g.o.a.t."
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102603923441729836"
- },
- {
   "band": "Myco",
   "name": "Move Your Feet, Fund The Forest",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "carry the light"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106570028246089868"
+ },
+ {
+  "band": "MV",
+  "name": "carry the light, G.O.A.T.",
+  "triggers": [
+   "carry the light, g.o.a.t."
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106575103748166092"
  }
 ]

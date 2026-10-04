@@ -9128,19 +9128,6 @@
     "caption": "\"Digerie Dude- We Grow\"\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2102603923441729836",
-    "translation": "carry the light, G.O.A.T.",
-    "name": "carry the light, G.O.A.T.",
-    "triggers": [
-      "carry the light, g.o.a.t."
-    ],
-    "band": "MV",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2102603923441729836",
-    "caption": "\"carry the light, G.O.A.T.\"\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2102608970024145086",
     "translation": "Move Your Feet, Fund The Forest",
     "name": "Move Your Feet, Fund The Forest",
@@ -12610,5 +12597,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2106570028246089868",
     "caption": "\"CARRY THE LIGHT\" — Digerie Dude\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2106575103748166092",
+    "translation": "carry the light, G.O.A.T.",
+    "name": "carry the light, G.O.A.T.",
+    "triggers": [
+      "carry the light, g.o.a.t."
+    ],
+    "band": "MV",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2106575103748166092",
+    "caption": "\"carry the light, G.O.A.T.\"\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

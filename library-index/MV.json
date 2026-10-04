@@ -856,14 +856,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "carry the light, G.O.A.T.",
-  "triggers": [
-   "carry the light, g.o.a.t."
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102603923441729836",
-  "tag": "$MfT"
- },
- {
   "name": "Lighter than before",
   "triggers": [
    "lighter than before"
@@ -1301,6 +1293,14 @@
    "digerie dude- weather the storm"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106434162164998210",
+  "tag": "$MfT"
+ },
+ {
+  "name": "carry the light, G.O.A.T.",
+  "triggers": [
+   "carry the light, g.o.a.t."
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106575103748166092",
   "tag": "$MfT"
  }
 ]
