@@ -2362,14 +2362,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095623012301029761"
  },
  {
-  "band": "CB",
-  "name": "EBM - MEME War",
-  "triggers": [
-   "ebm - meme war"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095628012980961311"
- },
- {
   "band": "PW",
   "name": "Ship It Loud",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "pass it on natilie"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106630480573485503"
+ },
+ {
+  "band": "CB",
+  "name": "EBM - MEME War",
+  "triggers": [
+   "ebm - meme war"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106635495371383251"
  }
 ]
