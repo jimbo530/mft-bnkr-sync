@@ -3290,14 +3290,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097495278735516105"
  },
  {
-  "band": "Jasmine",
-  "name": "Warmth of the Dwarven Hearth",
-  "triggers": [
-   "warmth of the dwarven hearth"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097500274101252578"
- },
- {
   "band": "HammerTone",
   "name": "Name It and It's Made",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "ebm - meme war"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106635495371383251"
+ },
+ {
+  "band": "Jasmine",
+  "name": "Warmth of the Dwarven Hearth",
+  "triggers": [
+   "warmth of the dwarven hearth"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106660680799490441"
  }
 ]
