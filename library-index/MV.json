@@ -448,14 +448,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "EBM- more love",
-  "triggers": [
-   "ebm- more love"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099820567180230684",
-  "tag": "$MfT"
- },
- {
   "name": "Digerie Dude - Pulse of the Forest",
   "triggers": [
    "digerie dude - pulse of the forest"
@@ -1301,6 +1293,14 @@
    "dance to defend the earth"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106872021422330233",
+  "tag": "$MfT"
+ },
+ {
+  "name": "EBM- more love",
+  "triggers": [
+   "ebm- more love"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106877094701441091",
   "tag": "$MfT"
  }
 ]
