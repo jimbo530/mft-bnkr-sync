@@ -2482,14 +2482,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095819206633607393"
  },
  {
-  "band": "JS",
-  "name": "Better Than We Found It",
-  "triggers": [
-   "better than we found it"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095824232743617016"
- },
- {
   "band": "DD",
   "name": "Water to the Village",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "oldest magic"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106514692642419000"
+ },
+ {
+  "band": "JS",
+  "name": "Better Than We Found It",
+  "triggers": [
+   "better than we found it"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106539866620096712"
  }
 ]
