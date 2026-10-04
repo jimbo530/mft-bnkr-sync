@@ -1418,14 +1418,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093826076216631350"
  },
  {
-  "band": "WarMachine",
-  "name": "Sing To the Machine",
-  "triggers": [
-   "sing to the machine"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093831112866873453"
- },
- {
   "band": "SEAS",
   "name": "Feed Your Crew",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "it keeps itself alive"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106786492420952284"
+ },
+ {
+  "band": "WarMachine",
+  "name": "Sing To the Machine",
+  "triggers": [
+   "sing to the machine"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106811620131319890"
  }
 ]

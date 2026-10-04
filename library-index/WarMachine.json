@@ -25,14 +25,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Sing To the Machine",
-  "triggers": [
-   "sing to the machine"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093831112866873453",
-  "tag": "$MfT"
- },
- {
   "name": "Warband Of One",
   "triggers": [
    "warband of one"
@@ -158,6 +150,14 @@
    "da grot wot whittles"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106695886210290102",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Sing To the Machine",
+  "triggers": [
+   "sing to the machine"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106811620131319890",
   "tag": "$MfT"
  }
 ]
