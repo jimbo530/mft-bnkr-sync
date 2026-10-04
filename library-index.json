@@ -3434,14 +3434,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097887812477493688"
  },
  {
-  "band": "CB",
-  "name": "It Keeps Itself Alive",
-  "triggers": [
-   "it keeps itself alive"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097913026414338501"
- },
- {
   "band": "Bongo",
   "name": "One Reason (Trees)",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the house keeps its word"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106756285106442318"
+ },
+ {
+  "band": "CB",
+  "name": "It Keeps Itself Alive",
+  "triggers": [
+   "it keeps itself alive"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106786492420952284"
  }
 ]
