@@ -5171,14 +5171,6 @@
  },
  {
   "band": "MV",
-  "name": "EBM- Trees up Bags Up.",
-  "triggers": [
-   "ebm- trees up bags up."
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101697932592390263"
- },
- {
-  "band": "MV",
   "name": "regen rise",
   "triggers": [
    "regen rise"
@@ -7760,5 +7752,13 @@
    "give it back green"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106600234839081261"
+ },
+ {
+  "band": "MV",
+  "name": "EBM- Trees up Bags Up.",
+  "triggers": [
+   "ebm- trees up bags up."
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106605312983622048"
  }
 ]
