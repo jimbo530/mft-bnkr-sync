@@ -217,14 +217,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "1,312 Jpegs",
-  "triggers": [
-   "1,312 jpegs"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097032185928687770",
-  "tag": "$MfT"
- },
- {
   "name": "One Reason (Trees)",
   "triggers": [
    "one reason (trees)"
@@ -366,6 +358,14 @@
    "all you have to do is dance"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106665648130535733",
+  "tag": "$MfT"
+ },
+ {
+  "name": "1,312 Jpegs",
+  "triggers": [
+   "1,312 jpegs"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106726091339563414",
   "tag": "$MfT"
  }
 ]

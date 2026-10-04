@@ -3066,14 +3066,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097001982485475430"
  },
  {
-  "band": "Bongo",
-  "name": "1,312 Jpegs",
-  "triggers": [
-   "1,312 jpegs"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097032185928687770"
- },
- {
   "band": "NN",
   "name": "The Judge s Table",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "da grot wot whittles"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106695886210290102"
+ },
+ {
+  "band": "Bongo",
+  "name": "1,312 Jpegs",
+  "triggers": [
+   "1,312 jpegs"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106726091339563414"
  }
 ]
