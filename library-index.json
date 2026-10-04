@@ -4530,14 +4530,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100188030254404054"
  },
  {
-  "band": "DD",
-  "name": "CARRY THE LIGHT",
-  "triggers": [
-   "carry the light"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100213205175812200"
- },
- {
   "band": "MV",
   "name": "The more love you give - Biggins Mcjamin",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "will ye join the crew"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106544895720616113"
+ },
+ {
+  "band": "DD",
+  "name": "CARRY THE LIGHT",
+  "triggers": [
+   "carry the light"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106570028246089868"
  }
 ]
