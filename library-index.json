@@ -5194,14 +5194,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101954660495966514"
  },
  {
-  "band": "MV",
-  "name": "Dance to Defend The Earth",
-  "triggers": [
-   "dance to defend the earth"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101979777515106363"
- },
- {
   "band": "NN",
   "name": "1000 Futures",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "elves of ballinmoore"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106846896400548283"
+ },
+ {
+  "band": "MV",
+  "name": "Dance to Defend The Earth",
+  "triggers": [
+   "dance to defend the earth"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106872021422330233"
  }
 ]

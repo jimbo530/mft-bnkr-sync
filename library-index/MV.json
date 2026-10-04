@@ -720,14 +720,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Dance to Defend The Earth",
-  "triggers": [
-   "dance to defend the earth"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101979777515106363",
-  "tag": "$MfT"
- },
- {
   "name": "J&N every day is an opportunity.",
   "triggers": [
    "j&n every day is an opportunity."
@@ -1301,6 +1293,14 @@
    "pass it on natilie"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106630480573485503",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Dance to Defend The Earth",
+  "triggers": [
+   "dance to defend the earth"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106872021422330233",
   "tag": "$MfT"
  }
 ]
