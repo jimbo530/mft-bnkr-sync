@@ -2263,19 +2263,6 @@
     "caption": "\"The Prompt Heard\" — Elves of Ballinmoore\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2093810971831579132",
-    "translation": "Da Grot Wot Whittles",
-    "name": "Da Grot Wot Whittles",
-    "triggers": [
-      "da grot wot whittles"
-    ],
-    "band": "WarMachine",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2093810971831579132",
-    "caption": "\"Da Grot Wot Whittles\" — War Machine\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2093826076216631350",
     "translation": "I Saw You First",
     "name": "I Saw You First",
@@ -12610,5 +12597,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2106690810666234203",
     "caption": "\"Grow Greatness\" — Natilie Nightclub\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2106695886210290102",
+    "translation": "Da Grot Wot Whittles",
+    "name": "Da Grot Wot Whittles",
+    "triggers": [
+      "da grot wot whittles"
+    ],
+    "band": "WarMachine",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2106695886210290102",
+    "caption": "\"Da Grot Wot Whittles\" — War Machine\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

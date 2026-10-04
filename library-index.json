@@ -1410,14 +1410,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093805938532614152"
  },
  {
-  "band": "WarMachine",
-  "name": "Da Grot Wot Whittles",
-  "triggers": [
-   "da grot wot whittles"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093810971831579132"
- },
- {
   "band": "NN",
   "name": "I Saw You First",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "grow greatness"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106690810666234203"
+ },
+ {
+  "band": "WarMachine",
+  "name": "Da Grot Wot Whittles",
+  "triggers": [
+   "da grot wot whittles"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106695886210290102"
  }
 ]
