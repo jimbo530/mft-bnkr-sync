@@ -4746,14 +4746,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100721534620864551"
  },
  {
-  "band": "NN",
-  "name": "Grow Greatness",
-  "triggers": [
-   "grow greatness"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100741605871271966"
- },
- {
   "band": "DD",
   "name": "(QUIET REVOLUTION OF LOVE)",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "all you have to do is dance"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106665648130535733"
+ },
+ {
+  "band": "NN",
+  "name": "Grow Greatness",
+  "triggers": [
+   "grow greatness"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106690810666234203"
  }
 ]
