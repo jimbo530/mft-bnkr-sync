@@ -3098,14 +3098,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097032185928687770"
  },
  {
-  "band": "MR",
-  "name": "Give It Back Green",
-  "triggers": [
-   "give it back green"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097057392412213417"
- },
- {
   "band": "NN",
   "name": "The Judge s Table",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "carry the light, g.o.a.t."
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106575103748166092"
+ },
+ {
+  "band": "MR",
+  "name": "Give It Back Green",
+  "triggers": [
+   "give it back green"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106600234839081261"
  }
 ]
