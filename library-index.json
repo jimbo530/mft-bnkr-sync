@@ -4634,14 +4634,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100595705647653336"
  },
  {
-  "band": "EBM",
-  "name": "Elves of Ballinmoore",
-  "triggers": [
-   "elves of ballinmoore"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100615811614310730"
- },
- {
   "band": "CB",
   "name": "Open the Gates",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "new banner in the races"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106841842884944346"
+ },
+ {
+  "band": "EBM",
+  "name": "Elves of Ballinmoore",
+  "triggers": [
+   "elves of ballinmoore"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106846896400548283"
  }
 ]
