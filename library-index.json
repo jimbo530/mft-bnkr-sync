@@ -2426,14 +2426,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095713494477725779"
  },
  {
-  "band": "Bongo",
-  "name": "All You Have To Do Is Dance",
-  "triggers": [
-   "all you have to do is dance"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095733620811952621"
- },
- {
   "band": "NN",
   "name": "The Path to Personal Shows",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "warmth of the dwarven hearth"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106660680799490441"
+ },
+ {
+  "band": "Bongo",
+  "name": "All You Have To Do Is Dance",
+  "triggers": [
+   "all you have to do is dance"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106665648130535733"
  }
 ]

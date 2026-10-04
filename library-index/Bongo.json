@@ -153,14 +153,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "All You Have To Do Is Dance",
-  "triggers": [
-   "all you have to do is dance"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095733620811952621",
-  "tag": "$MfT"
- },
- {
   "name": "Number Go Up, Number Go Down (Always Fun In Monkey Town)",
   "triggers": [
    "number go up, number go down (always fun in monkey town)"
@@ -366,6 +358,14 @@
    "they paid me to play the forest"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106464309555466554",
+  "tag": "$MfT"
+ },
+ {
+  "name": "All You Have To Do Is Dance",
+  "triggers": [
+   "all you have to do is dance"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106665648130535733",
   "tag": "$MfT"
  }
 ]
