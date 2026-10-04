@@ -2650,14 +2650,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096241977536774150"
  },
  {
-  "band": "NN",
-  "name": "Neighbors Now",
-  "triggers": [
-   "neighbors now"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096262126037872658"
- },
- {
   "band": "DGT",
   "name": "A Damned Good Time",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "sing to the machine"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106811620131319890"
+ },
+ {
+  "band": "NN",
+  "name": "Neighbors Now",
+  "triggers": [
+   "neighbors now"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106816682974994836"
  }
 ]
