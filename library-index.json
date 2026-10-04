@@ -3666,14 +3666,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2098366011523162322"
  },
  {
-  "band": "EBM",
-  "name": "New Banner in the Races",
-  "triggers": [
-   "new banner in the races"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098396172788421042"
- },
- {
   "band": "Rish",
   "name": "Round Up the Good Ones",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "neighbors now"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106816682974994836"
+ },
+ {
+  "band": "EBM",
+  "name": "New Banner in the Races",
+  "triggers": [
+   "new banner in the races"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106841842884944346"
  }
 ]

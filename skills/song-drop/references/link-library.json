@@ -5956,19 +5956,6 @@
     "caption": "\"Plant It Loud\" — Miss Strut\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2098396172788421042",
-    "translation": "New Banner in the Races",
-    "name": "New Banner in the Races",
-    "triggers": [
-      "new banner in the races"
-    ],
-    "band": "EBM",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2098396172788421042",
-    "caption": "\"New Banner in the Races\" — Elves of Ballinmoore\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2098401256427356260",
     "translation": "Round Up the Good Ones",
     "name": "Round Up the Good Ones",
@@ -12610,5 +12597,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2106816682974994836",
     "caption": "\"Neighbors Now\" — Natilie Nightclub\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2106841842884944346",
+    "translation": "New Banner in the Races",
+    "name": "New Banner in the Races",
+    "triggers": [
+      "new banner in the races"
+    ],
+    "band": "EBM",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2106841842884944346",
+    "caption": "\"New Banner in the Races\" — Elves of Ballinmoore\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
