@@ -3058,14 +3058,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096946649507516707"
  },
  {
-  "band": "Rish",
-  "name": "Will Ye Join the Crew",
-  "triggers": [
-   "will ye join the crew"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096951638615339292"
- },
- {
   "band": "Myco",
   "name": "The Vault That Feeds",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "better than we found it"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106539866620096712"
+ },
+ {
+  "band": "Rish",
+  "name": "Will Ye Join the Crew",
+  "triggers": [
+   "will ye join the crew"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106544895720616113"
  }
 ]

@@ -4968,19 +4968,6 @@
     "caption": "\"Set Sail (Seize the Seas)\" — Bongo\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2096951638615339292",
-    "translation": "Will Ye Join the Crew",
-    "name": "Will Ye Join the Crew",
-    "triggers": [
-      "will ye join the crew"
-    ],
-    "band": "Rish",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2096951638615339292",
-    "caption": "\"Will Ye Join the Crew\" — Rish\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2096966812793466963",
     "translation": "The Vault That Feeds",
     "name": "The Vault That Feeds",
@@ -12610,5 +12597,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2106539866620096712",
     "caption": "\"Better Than We Found It\" — Jony Sings\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2106544895720616113",
+    "translation": "Will Ye Join the Crew",
+    "name": "Will Ye Join the Crew",
+    "triggers": [
+      "will ye join the crew"
+    ],
+    "band": "Rish",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2106544895720616113",
+    "caption": "\"Will Ye Join the Crew\" — Rish\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
