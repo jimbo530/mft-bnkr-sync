@@ -616,14 +616,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Dancing On The Line",
-  "triggers": [
-   "dancing on the line"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103238104622448927",
-  "tag": "$MfT"
- },
- {
   "name": "Real Proof",
   "triggers": [
    "real proof"
@@ -861,6 +853,14 @@
    "much love, friends"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106962650424824044",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Dancing On The Line",
+  "triggers": [
+   "dancing on the line"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107249555032911950",
   "tag": "$MfT"
  }
 ]
