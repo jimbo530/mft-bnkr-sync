@@ -2154,14 +2154,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095250484961448080"
  },
  {
-  "band": "DGT",
-  "name": "The Diamond Hand Swing",
-  "triggers": [
-   "the diamond hand swing"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095255566775976339"
- },
- {
   "band": "JS",
   "name": "The Daily Dose",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "- what is upstream"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106932409870524552"
+ },
+ {
+  "band": "DGT",
+  "name": "The Diamond Hand Swing",
+  "triggers": [
+   "the diamond hand swing"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106937499704578344"
  }
 ]
