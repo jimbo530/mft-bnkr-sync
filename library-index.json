@@ -5098,14 +5098,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2102025112430031049"
  },
  {
-  "band": "MR",
-  "name": "Un-Rug-Able Family",
-  "triggers": [
-   "un-rug-able family"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102030145951256684"
- },
- {
   "band": "JS",
   "name": "Each One Carries Two",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the hordes keep coming"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107148865275097524"
+ },
+ {
+  "band": "MR",
+  "name": "Un-Rug-Able Family",
+  "triggers": [
+   "un-rug-able family"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107174033569489209"
  }
 ]
