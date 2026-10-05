@@ -1234,14 +1234,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093544245512556760"
  },
  {
-  "band": "WarMachine",
-  "name": "Kneel To No One",
-  "triggers": [
-   "kneel to no one"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093549224990310457"
- },
- {
   "band": "Strut",
   "name": "Pennies Into Thunder",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "capital for humanity"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107028087263166824"
+ },
+ {
+  "band": "WarMachine",
+  "name": "Kneel To No One",
+  "triggers": [
+   "kneel to no one"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107053236427399179"
  }
 ]

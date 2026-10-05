@@ -9,14 +9,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Kneel To No One",
-  "triggers": [
-   "kneel to no one"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093549224990310457",
-  "tag": "$MfT"
- },
- {
   "name": "Against Da FUD",
   "triggers": [
    "against da fud"
@@ -158,6 +150,14 @@
    "sing to the machine"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106811620131319890",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Kneel To No One",
+  "triggers": [
+   "kneel to no one"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107053236427399179",
   "tag": "$MfT"
  }
 ]
