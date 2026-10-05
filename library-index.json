@@ -5051,14 +5051,6 @@
  },
  {
   "band": "JS",
-  "name": "Roots And Rhythm",
-  "triggers": [
-   "roots and rhythm"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101728166075101288"
- },
- {
-  "band": "JS",
   "name": "Money With a Soul",
   "triggers": [
    "money with a soul"
@@ -7760,5 +7752,13 @@
    "much love, friends"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106962650424824044"
+ },
+ {
+  "band": "JS",
+  "name": "Roots And Rhythm",
+  "triggers": [
+   "roots and rhythm"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106967695799312465"
  }
 ]

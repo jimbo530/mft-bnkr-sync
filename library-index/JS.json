@@ -417,14 +417,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Roots And Rhythm",
-  "triggers": [
-   "roots and rhythm"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101728166075101288",
-  "tag": "$MfT"
- },
- {
   "name": "Money With a Soul",
   "triggers": [
    "money with a soul"
@@ -766,6 +758,14 @@
    "you dont know"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106751260556681218",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Roots And Rhythm",
+  "triggers": [
+   "roots and rhythm"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106967695799312465",
   "tag": "$MfT"
  }
 ]
