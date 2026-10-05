@@ -2362,14 +2362,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095708455185101218"
  },
  {
-  "band": "Rish",
-  "name": "Two Shores, One Agent",
-  "triggers": [
-   "two shores, one agent"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095713494477725779"
- },
- {
   "band": "NN",
   "name": "The Path to Personal Shows",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "kneel to no one"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107053236427399179"
+ },
+ {
+  "band": "Rish",
+  "name": "Two Shores, One Agent",
+  "triggers": [
+   "two shores, one agent"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107058274050646198"
  }
 ]
