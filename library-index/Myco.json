@@ -592,14 +592,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Much Love, Friends",
-  "triggers": [
-   "much love, friends"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102659286597829036",
-  "tag": "$MfT"
- },
- {
   "name": "Go Do Something Nice",
   "triggers": [
    "go do something nice"
@@ -861,6 +853,14 @@
    "- what is upstream"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106932409870524552",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Much Love, Friends",
+  "triggers": [
+   "much love, friends"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106962650424824044",
   "tag": "$MfT"
  }
 ]

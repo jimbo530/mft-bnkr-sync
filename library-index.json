@@ -5483,14 +5483,6 @@
  },
  {
   "band": "Myco",
-  "name": "Much Love, Friends",
-  "triggers": [
-   "much love, friends"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102659286597829036"
- },
- {
-  "band": "Myco",
   "name": "Go Do Something Nice",
   "triggers": [
    "go do something nice"
@@ -7760,5 +7752,13 @@
    "the diamond hand swing"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106937499704578344"
+ },
+ {
+  "band": "Myco",
+  "name": "Much Love, Friends",
+  "triggers": [
+   "much love, friends"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106962650424824044"
  }
 ]
