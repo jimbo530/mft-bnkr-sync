@@ -1434,14 +1434,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093886435912786204"
  },
  {
-  "band": "DD",
-  "name": "The Dinner Drum",
-  "triggers": [
-   "the dinner drum"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093906609802031431"
- },
- {
   "band": "JS",
   "name": "Build the Grove",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "joy that stays"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106902303068365079"
+ },
+ {
+  "band": "DD",
+  "name": "The Dinner Drum",
+  "triggers": [
+   "the dinner drum"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106907281828856204"
  }
 ]
