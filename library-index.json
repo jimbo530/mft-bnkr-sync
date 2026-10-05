@@ -2539,14 +2539,6 @@
  },
  {
   "band": "Rish",
-  "name": "The Planter's Rounds",
-  "triggers": [
-   "the planter's rounds"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096141352845066254"
- },
- {
-  "band": "Rish",
   "name": "The Town of the Cats",
   "triggers": [
    "the town of the cats"
@@ -7760,5 +7752,13 @@
    "forest and sun   jasmine"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107219364617314649"
+ },
+ {
+  "band": "Rish",
+  "name": "The Planter's Rounds",
+  "triggers": [
+   "the planter's rounds"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107244478893351387"
  }
 ]

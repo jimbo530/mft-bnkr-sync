@@ -4123,19 +4123,6 @@
     "caption": "\"A Buck and an Acorn\" — Jony Sings\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2096141352845066254",
-    "translation": "The Planter's Rounds",
-    "name": "The Planter's Rounds",
-    "triggers": [
-      "the planter's rounds"
-    ],
-    "band": "Rish",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2096141352845066254",
-    "caption": "\"The Planter's Rounds\" — Rish\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2096161440092528841",
     "translation": "The Town of the Cats",
     "name": "The Town of the Cats",
@@ -12610,5 +12597,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2107219364617314649",
     "caption": "\"forest and sun   Jasmine\"\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2107244478893351387",
+    "translation": "The Planter's Rounds",
+    "name": "The Planter's Rounds",
+    "triggers": [
+      "the planter's rounds"
+    ],
+    "band": "Rish",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2107244478893351387",
+    "caption": "\"The Planter's Rounds\" — Rish\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
