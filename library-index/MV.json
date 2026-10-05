@@ -624,14 +624,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Joy that stays",
-  "triggers": [
-   "joy that stays"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100993328233746714",
-  "tag": "$MfT"
- },
- {
   "name": "elven gold (1)",
   "triggers": [
    "elven gold (1)"
@@ -1301,6 +1293,14 @@
    "ebm- more love"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106877094701441091",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Joy that stays",
+  "triggers": [
+   "joy that stays"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106902303068365079",
   "tag": "$MfT"
  }
 ]

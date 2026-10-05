@@ -4738,14 +4738,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100973179925647864"
  },
  {
-  "band": "MV",
-  "name": "Joy that stays",
-  "triggers": [
-   "joy that stays"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100993328233746714"
- },
- {
   "band": "DD",
   "name": "Small Voices, Big Waves",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "ebm- more love"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106877094701441091"
+ },
+ {
+  "band": "MV",
+  "name": "Joy that stays",
+  "triggers": [
+   "joy that stays"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106902303068365079"
  }
 ]
