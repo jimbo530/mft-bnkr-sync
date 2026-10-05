@@ -5019,14 +5019,6 @@
  },
  {
   "band": "JS",
-  "name": "Capital for Humanity",
-  "triggers": [
-   "capital for humanity"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101723149880471791"
- },
- {
-  "band": "JS",
   "name": "Money With a Soul",
   "triggers": [
    "money with a soul"
@@ -7760,5 +7752,13 @@
    "clean the block"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107022993499021688"
+ },
+ {
+  "band": "JS",
+  "name": "Capital for Humanity",
+  "triggers": [
+   "capital for humanity"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107028087263166824"
  }
 ]
