@@ -2882,14 +2882,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096770485908279787"
  },
  {
-  "band": "WarMachine",
-  "name": "The Hordes Keep Coming",
-  "triggers": [
-   "the hordes keep coming"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096800696439918982"
- },
- {
   "band": "SEAS",
   "name": "A Banana A Day",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "love being alive - moon rasta"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107118678693036466"
+ },
+ {
+  "band": "WarMachine",
+  "name": "The Hordes Keep Coming",
+  "triggers": [
+   "the hordes keep coming"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107148865275097524"
  }
 ]
