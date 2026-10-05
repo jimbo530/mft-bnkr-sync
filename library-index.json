@@ -3426,14 +3426,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097973497418875033"
  },
  {
-  "band": "EBM",
-  "name": "Chorus Like an Army",
-  "triggers": [
-   "chorus like an army"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097978438569074735"
- },
- {
   "band": "Bongo",
   "name": "Always GM on Robinhood Chain",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "lift dem up"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106992795206496639"
+ },
+ {
+  "band": "EBM",
+  "name": "Chorus Like an Army",
+  "triggers": [
+   "chorus like an army"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106997866858176785"
  }
 ]
