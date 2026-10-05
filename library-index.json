@@ -4978,14 +4978,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101703005431005460"
  },
  {
-  "band": "JS",
-  "name": "Money With a Soul",
-  "triggers": [
-   "money with a soul"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101748314114871771"
- },
- {
   "band": "EBM",
   "name": "Interest In The Infinite",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "un-rug-able family"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107174033569489209"
+ },
+ {
+  "band": "JS",
+  "name": "Money With a Soul",
+  "triggers": [
+   "money with a soul"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107179034090119282"
  }
 ]

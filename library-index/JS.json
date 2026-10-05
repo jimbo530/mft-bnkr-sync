@@ -409,14 +409,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Money With a Soul",
-  "triggers": [
-   "money with a soul"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101748314114871771",
-  "tag": "$MfT"
- },
- {
   "name": "It Carries Two",
   "triggers": [
    "it carries two"
@@ -766,6 +758,14 @@
    "capital for humanity"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107028087263166824",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Money With a Soul",
+  "triggers": [
+   "money with a soul"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107179034090119282",
   "tag": "$MfT"
  }
 ]
