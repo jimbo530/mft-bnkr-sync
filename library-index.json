@@ -3634,14 +3634,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2098698212102062139"
  },
  {
-  "band": "Rish",
-  "name": "Wind Beneath The Spark",
-  "triggers": [
-   "wind beneath the spark"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098703251675726157"
- },
- {
   "band": "JS",
   "name": "The Kid The Vault Fed",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "invite a friend"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107204188295844019"
+ },
+ {
+  "band": "Rish",
+  "name": "Wind Beneath The Spark",
+  "triggers": [
+   "wind beneath the spark"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107209267723829354"
  }
 ]

@@ -217,14 +217,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Wind Beneath The Spark",
-  "triggers": [
-   "wind beneath the spark"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098703251675726157",
-  "tag": "$MfT"
- },
- {
   "name": "The Kindest Well",
   "triggers": [
    "the kindest well"
@@ -366,6 +358,14 @@
    "two shores, one agent"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107058274050646198",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Wind Beneath The Spark",
+  "triggers": [
+   "wind beneath the spark"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107209267723829354",
   "tag": "$MfT"
  }
 ]
