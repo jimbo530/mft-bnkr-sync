@@ -105,14 +105,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Water to the Village",
-  "triggers": [
-   "water to the village"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095844355869200863",
-  "tag": "$MfT"
- },
- {
   "name": "Dig a Little Deeper",
   "triggers": [
    "dig a little deeper"
@@ -494,6 +486,14 @@
    "every road a grove"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107088468320915962",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Water to the Village",
+  "triggers": [
+   "water to the village"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107113633209581638",
   "tag": "$MfT"
  }
 ]

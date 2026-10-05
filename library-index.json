@@ -2402,14 +2402,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095819206633607393"
  },
  {
-  "band": "DD",
-  "name": "Water to the Village",
-  "triggers": [
-   "water to the village"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095844355869200863"
- },
- {
   "band": "MR",
   "name": "The Ground We Stand On",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "every road a grove"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107088468320915962"
+ },
+ {
+  "band": "DD",
+  "name": "Water to the Village",
+  "triggers": [
+   "water to the village"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107113633209581638"
  }
 ]
