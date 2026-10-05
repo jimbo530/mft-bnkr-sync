@@ -2538,14 +2538,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096065857470251437"
  },
  {
-  "band": "EBM",
-  "name": "Clean the Block",
-  "triggers": [
-   "clean the block"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096085948752679424"
- },
- {
   "band": "DD",
   "name": "Dig a Little Deeper",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "chorus like an army"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106997866858176785"
+ },
+ {
+  "band": "EBM",
+  "name": "Clean the Block",
+  "triggers": [
+   "clean the block"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107022993499021688"
  }
 ]

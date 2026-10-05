@@ -4123,19 +4123,6 @@
     "caption": "\"A Captain, Not A King\" — Seize the Seas\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2096085948752679424",
-    "translation": "Clean the Block",
-    "name": "Clean the Block",
-    "triggers": [
-      "clean the block"
-    ],
-    "band": "EBM",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2096085948752679424",
-    "caption": "\"Clean the Block\" — Elves of Ballinmoore\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2096091023743001075",
     "translation": "Dig a Little Deeper",
     "name": "Dig a Little Deeper",
@@ -12610,5 +12597,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2106997866858176785",
     "caption": "\"Chorus Like an Army\" — Elves of Ballinmoore\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2107022993499021688",
+    "translation": "Clean the Block",
+    "name": "Clean the Block",
+    "triggers": [
+      "clean the block"
+    ],
+    "band": "EBM",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2107022993499021688",
+    "caption": "\"Clean the Block\" — Elves of Ballinmoore\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
