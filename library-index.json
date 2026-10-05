@@ -3986,14 +3986,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2099357501460205850"
  },
  {
-  "band": "MR",
-  "name": "Lift Dem Up",
-  "triggers": [
-   "lift dem up"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099377674468622529"
- },
- {
   "band": "JS",
   "name": "First Seat",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "roots and rhythm"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106967695799312465"
+ },
+ {
+  "band": "MR",
+  "name": "Lift Dem Up",
+  "triggers": [
+   "lift dem up"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2106992795206496639"
  }
 ]
