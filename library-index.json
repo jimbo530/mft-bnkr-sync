@@ -4362,14 +4362,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100394371367457184"
  },
  {
-  "band": "JS",
-  "name": "Streets to Roots",
-  "triggers": [
-   "streets to roots"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100414498842509338"
- },
- {
   "band": "EBM",
   "name": "Meme For Trees",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the daily dose"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107400488463257702"
+ },
+ {
+  "band": "JS",
+  "name": "Streets to Roots",
+  "triggers": [
+   "streets to roots"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107425657248473184"
  }
 ]
