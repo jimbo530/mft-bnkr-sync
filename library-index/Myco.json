@@ -560,14 +560,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Grow With Every Play",
-  "triggers": [
-   "grow with every play"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102483130003198418",
-  "tag": "$MfT"
- },
- {
   "name": "Bloom on the Blockchain",
   "triggers": [
    "bloom on the blockchain"
@@ -861,6 +853,14 @@
    "dancing on the line"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107249555032911950",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Grow With Every Play",
+  "triggers": [
+   "grow with every play"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107460943177212402",
   "tag": "$MfT"
  }
 ]

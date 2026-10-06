@@ -5187,14 +5187,6 @@
  },
  {
   "band": "Myco",
-  "name": "Grow With Every Play",
-  "triggers": [
-   "grow with every play"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102483130003198418"
- },
- {
-  "band": "Myco",
   "name": "Bloom on the Blockchain",
   "triggers": [
    "bloom on the blockchain"
@@ -7760,5 +7752,13 @@
    "the long parade"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107455865477316817"
+ },
+ {
+  "band": "Myco",
+  "name": "Grow With Every Play",
+  "triggers": [
+   "grow with every play"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107460943177212402"
  }
 ]
