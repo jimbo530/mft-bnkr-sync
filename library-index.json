@@ -3170,14 +3170,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097701640794972279"
  },
  {
-  "band": "Rish",
-  "name": "A Little Kid Said Thank You",
-  "triggers": [
-   "a little kid said thank you"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097706671728431238"
- },
- {
   "band": "DGT",
   "name": "Plant 'Em Where the Ledger Can't Reach",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "keep dancing"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107576701710393489"
+ },
+ {
+  "band": "Rish",
+  "name": "A Little Kid Said Thank You",
+  "triggers": [
+   "a little kid said thank you"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107606891677315330"
  }
 ]
