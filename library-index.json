@@ -4178,14 +4178,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2099951418832527364"
  },
  {
-  "band": "JS",
-  "name": "Alliance",
-  "triggers": [
-   "alliance"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099976620714901688"
- },
- {
   "band": "MV",
   "name": "growalition",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "two war-grounds"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107304902720446508"
+ },
+ {
+  "band": "JS",
+  "name": "Alliance",
+  "triggers": [
+   "alliance"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107309905086394861"
  }
 ]
