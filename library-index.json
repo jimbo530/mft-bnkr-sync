@@ -1186,14 +1186,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093483828153094204"
  },
  {
-  "band": "EBM",
-  "name": "LIQUIDITY FOR THE PLANET",
-  "triggers": [
-   "liquidity for the planet"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093488840702833090"
- },
- {
   "band": "DD",
   "name": "Kind Folk (In the Strangest Places)",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "grow with every play"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107460943177212402"
+ },
+ {
+  "band": "EBM",
+  "name": "LIQUIDITY FOR THE PLANET",
+  "triggers": [
+   "liquidity for the planet"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107486114583831012"
  }
 ]
