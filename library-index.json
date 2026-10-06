@@ -5762,14 +5762,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2103716234957091135"
  },
  {
-  "band": "MR",
-  "name": "Roots In The Rhythm",
-  "triggers": [
-   "roots in the rhythm"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103736357805846952"
- },
- {
   "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “INTERNET ROOTS",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the vault sealed by oath"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107340139714257031"
+ },
+ {
+  "band": "MR",
+  "name": "Roots In The Rhythm",
+  "triggers": [
+   "roots in the rhythm"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107365260734627957"
  }
 ]
