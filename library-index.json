@@ -4850,14 +4850,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101652641335885899"
  },
  {
-  "band": "EBM",
-  "name": "Drop ’Em If You Got ’Em",
-  "triggers": [
-   "drop ’em if you got ’em"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101677805989736910"
- },
- {
   "band": "MV",
   "name": "regen rise",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "liquidity for the planet"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107486114583831012"
+ },
+ {
+  "band": "EBM",
+  "name": "Drop ’Em If You Got ’Em",
+  "triggers": [
+   "drop ’em if you got ’em"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107491110272577904"
  }
 ]
