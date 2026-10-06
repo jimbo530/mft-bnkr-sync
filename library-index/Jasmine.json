@@ -41,14 +41,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Shade I'll Never Sit In",
-  "triggers": [
-   "shade i'll never sit in"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094213582082764858",
-  "tag": "$MfT"
- },
- {
   "name": "Glad You're Here",
   "triggers": [
    "glad you're here"
@@ -118,6 +110,14 @@
    "warmth of the dwarven hearth"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106660680799490441",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Shade I'll Never Sit In",
+  "triggers": [
+   "shade i'll never sit in"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107274705644171621",
   "tag": "$MfT"
  }
 ]
