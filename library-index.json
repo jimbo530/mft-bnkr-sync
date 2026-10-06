@@ -2754,14 +2754,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096664801615163803"
  },
  {
-  "band": "MR",
-  "name": "No Chains In The Garden",
-  "triggers": [
-   "no chains in the garden"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096674862609596841"
- },
- {
   "band": "Strut",
   "name": "Put On A Show",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the oldest provider"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107516258820194677"
+ },
+ {
+  "band": "MR",
+  "name": "No Chains In The Garden",
+  "triggers": [
+   "no chains in the garden"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107521283235762441"
  }
 ]

@@ -161,14 +161,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "No Chains In The Garden",
-  "triggers": [
-   "no chains in the garden"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096674862609596841",
-  "tag": "$MfT"
- },
- {
   "name": "Everybody s Welcome",
   "triggers": [
    "everybody s welcome"
@@ -438,6 +430,14 @@
    "the oldest provider"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107516258820194677",
+  "tag": "$MfT"
+ },
+ {
+  "name": "No Chains In The Garden",
+  "triggers": [
+   "no chains in the garden"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107521283235762441",
   "tag": "$MfT"
  }
 ]
