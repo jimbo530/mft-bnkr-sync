@@ -4066,14 +4066,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2099875961655181673"
  },
  {
-  "band": "EBM",
-  "name": "ELVES OF BALLINMOORE — “POUND BY POUND”",
-  "triggers": [
-   "elves of ballinmoore — “pound by pound”"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099901091538202978"
- },
- {
   "band": "MV",
   "name": "Digerie Dude Base is for Everyone",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "blue marble rock"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107546464851267791"
+ },
+ {
+  "band": "EBM",
+  "name": "ELVES OF BALLINMOORE — “POUND BY POUND”",
+  "triggers": [
+   "elves of ballinmoore — “pound by pound”"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107551536230347211"
  }
 ]
