@@ -1378,14 +1378,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093785822864535942"
  },
  {
-  "band": "MR",
-  "name": "The Oldest Provider",
-  "triggers": [
-   "the oldest provider"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093790844134330431"
- },
- {
   "band": "EBM",
   "name": "The Prompt Heard",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "drop ’em if you got ’em"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107491110272577904"
+ },
+ {
+  "band": "MR",
+  "name": "The Oldest Provider",
+  "triggers": [
+   "the oldest provider"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107516258820194677"
  }
 ]
