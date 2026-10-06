@@ -5571,14 +5571,6 @@
  },
  {
   "band": "MV",
-  "name": "Blue Marble Rock",
-  "triggers": [
-   "blue marble rock"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103484714451410978"
- },
- {
-  "band": "MV",
   "name": "Pass it on Gary Strings",
   "triggers": [
    "pass it on gary strings"
@@ -7760,5 +7752,13 @@
    "no chains in the garden"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107521283235762441"
+ },
+ {
+  "band": "MV",
+  "name": "Blue Marble Rock",
+  "triggers": [
+   "blue marble rock"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107546464851267791"
  }
 ]
