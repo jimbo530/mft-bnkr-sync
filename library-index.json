@@ -3162,14 +3162,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097555634694594619"
  },
  {
-  "band": "HammerTone",
-  "name": "The Vault Sealed by Oath",
-  "triggers": [
-   "the vault sealed by oath"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097580837180936238"
- },
- {
   "band": "DD",
   "name": "Your Name Arrives Before You",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "warband of one"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107335132369600823"
+ },
+ {
+  "band": "HammerTone",
+  "name": "The Vault Sealed by Oath",
+  "triggers": [
+   "the vault sealed by oath"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107340139714257031"
  }
 ]
