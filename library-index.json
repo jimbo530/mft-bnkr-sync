@@ -2130,14 +2130,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095250484961448080"
  },
  {
-  "band": "JS",
-  "name": "The Daily Dose",
-  "triggers": [
-   "the daily dose"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095280677767815322"
- },
- {
   "band": "Myco",
   "name": "- Spore Report",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the vault that keeps its word"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107370365546578415"
+ },
+ {
+  "band": "JS",
+  "name": "The Daily Dose",
+  "triggers": [
+   "the daily dose"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107400488463257702"
  }
 ]
