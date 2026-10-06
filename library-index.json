@@ -3866,14 +3866,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2099382667997303120"
  },
  {
-  "band": "DGT",
-  "name": "The Long Parade",
-  "triggers": [
-   "the long parade"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099407889785905154"
- },
- {
   "band": "Bongo",
   "name": "One Brick",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "press the button"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107430691348550042"
+ },
+ {
+  "band": "DGT",
+  "name": "The Long Parade",
+  "triggers": [
+   "the long parade"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107455865477316817"
  }
 ]
