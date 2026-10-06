@@ -1786,14 +1786,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094540863653232914"
  },
  {
-  "band": "CB",
-  "name": "Press the Button",
-  "triggers": [
-   "press the button"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094545980788019315"
- },
- {
   "band": "EBM",
   "name": "Name It Once",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "streets to roots"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107425657248473184"
+ },
+ {
+  "band": "CB",
+  "name": "Press the Button",
+  "triggers": [
+   "press the button"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107430691348550042"
  }
 ]

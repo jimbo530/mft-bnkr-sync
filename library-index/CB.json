@@ -97,14 +97,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Press the Button",
-  "triggers": [
-   "press the button"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094545980788019315",
-  "tag": "$MfT"
- },
- {
   "name": "Join the Raid",
   "triggers": [
    "join the raid"
@@ -502,6 +494,14 @@
    "digerie dude - pulse of the forest"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107279698707321127",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Press the Button",
+  "triggers": [
+   "press the button"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107430691348550042",
   "tag": "$MfT"
  }
 ]
