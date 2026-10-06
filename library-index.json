@@ -4962,14 +4962,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2102080486424051969"
  },
  {
-  "band": "JS",
-  "name": "Keep Dancing",
-  "triggers": [
-   "keep dancing"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102100614213726547"
- },
- {
   "band": "MV",
   "name": "EBM - Thousand Year Plan",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "elves of ballinmoore — “pound by pound”"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107551536230347211"
+ },
+ {
+  "band": "JS",
+  "name": "Keep Dancing",
+  "triggers": [
+   "keep dancing"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107576701710393489"
  }
 ]
