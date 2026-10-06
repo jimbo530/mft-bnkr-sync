@@ -377,14 +377,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "EBM - Global Village",
-  "triggers": [
-   "ebm - global village"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2104239677653794939",
-  "tag": "$MfT"
- },
- {
   "name": "Started, Made, Done",
   "triggers": [
    "started, made, done"
@@ -502,6 +494,14 @@
    "press the button"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107430691348550042",
+  "tag": "$MfT"
+ },
+ {
+  "name": "EBM - Global Village",
+  "triggers": [
+   "ebm - global village"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107611923894124986",
   "tag": "$MfT"
  }
 ]

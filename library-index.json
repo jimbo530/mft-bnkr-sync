@@ -5906,14 +5906,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2104219622580903987"
  },
  {
-  "band": "CB",
-  "name": "EBM - Global Village",
-  "triggers": [
-   "ebm - global village"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2104239677653794939"
- },
- {
   "band": "EBM",
   "name": "All-Time High",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "a little kid said thank you"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107606891677315330"
+ },
+ {
+  "band": "CB",
+  "name": "EBM - Global Village",
+  "triggers": [
+   "ebm - global village"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107611923894124986"
  }
 ]
