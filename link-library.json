@@ -3954,19 +3954,6 @@
     "caption": "\"Catch the Song, Pass the Song\" — Bongo\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2095950050882924835",
-    "translation": "Two War-Grounds",
-    "name": "Two War-Grounds",
-    "triggers": [
-      "two war-grounds"
-    ],
-    "band": "WarMachine",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2095950050882924835",
-    "caption": "\"Two War-Grounds\" — War Machine\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2095970253385637962",
     "translation": "Two Chains, One Forward",
     "name": "Two Chains, One Forward",
@@ -12610,5 +12597,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2107279698707321127",
     "caption": "\"Digerie Dude - Pulse of the Forest\" — CB\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2107304902720446508",
+    "translation": "Two War-Grounds",
+    "name": "Two War-Grounds",
+    "triggers": [
+      "two war-grounds"
+    ],
+    "band": "WarMachine",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2107304902720446508",
+    "caption": "\"Two War-Grounds\" — War Machine\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

@@ -2434,14 +2434,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095945016036196493"
  },
  {
-  "band": "WarMachine",
-  "name": "Two War-Grounds",
-  "triggers": [
-   "two war-grounds"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095950050882924835"
- },
- {
   "band": "CB",
   "name": "Two Chains, One Forward",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "digerie dude - pulse of the forest"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107279698707321127"
+ },
+ {
+  "band": "WarMachine",
+  "name": "Two War-Grounds",
+  "triggers": [
+   "two war-grounds"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107304902720446508"
  }
 ]
