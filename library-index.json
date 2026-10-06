@@ -5722,14 +5722,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2103560211088753048"
  },
  {
-  "band": "CB",
-  "name": "Digerie Dude - Pulse of the Forest",
-  "triggers": [
-   "digerie dude - pulse of the forest"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103565235650961657"
- },
- {
   "band": "MR",
   "name": "I Love Being Alive",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "shade i'll never sit in"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107274705644171621"
+ },
+ {
+  "band": "CB",
+  "name": "Digerie Dude - Pulse of the Forest",
+  "triggers": [
+   "digerie dude - pulse of the forest"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107279698707321127"
  }
 ]
