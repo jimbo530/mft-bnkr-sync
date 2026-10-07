@@ -3034,14 +3034,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097384507334676615"
  },
  {
-  "band": "DD",
-  "name": "The Well at the Bend",
-  "triggers": [
-   "the well at the bend"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097419767892119819"
- },
- {
   "band": "Myco",
   "name": "What Had To Rot",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "(tender resilience)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107818281721561175"
+ },
+ {
+  "band": "DD",
+  "name": "The Well at the Bend",
+  "triggers": [
+   "the well at the bend"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107823313632333960"
  }
 ]

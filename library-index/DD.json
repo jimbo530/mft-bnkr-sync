@@ -145,14 +145,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Well at the Bend",
-  "triggers": [
-   "the well at the bend"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097419767892119819",
-  "tag": "$MfT"
- },
- {
   "name": "Gather the Good Road",
   "triggers": [
    "gather the good road"
@@ -494,6 +486,14 @@
    "(tender resilience)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107818281721561175",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Well at the Bend",
+  "triggers": [
+   "the well at the bend"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107823313632333960",
   "tag": "$MfT"
  }
 ]
