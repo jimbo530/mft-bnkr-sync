@@ -328,14 +328,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "- It Does Not Go Unseen",
-  "triggers": [
-   "- it does not go unseen"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098426456988647456",
-  "tag": "$MfT"
- },
- {
   "name": "- Spark In The Soil",
   "triggers": [
    "- spark in the soil"
@@ -861,6 +853,14 @@
    "grow with every play"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107460943177212402",
+  "tag": "$MfT"
+ },
+ {
+  "name": "- It Does Not Go Unseen",
+  "triggers": [
+   "- it does not go unseen"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107667311192584228",
   "tag": "$MfT"
  }
 ]
