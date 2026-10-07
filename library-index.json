@@ -4586,14 +4586,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101174511294992519"
  },
  {
-  "band": "MR",
-  "name": "We Water Each Other vid",
-  "triggers": [
-   "we water each other vid"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101199662900277516"
- },
- {
   "band": "MV",
   "name": "Natalie greatness grows",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "forever is longer than you know"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107672290481651880"
+ },
+ {
+  "band": "MR",
+  "name": "We Water Each Other vid",
+  "triggers": [
+   "we water each other vid"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107697485002977740"
  }
 ]
