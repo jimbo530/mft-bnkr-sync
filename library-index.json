@@ -3874,14 +3874,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2099578959511933353"
  },
  {
-  "band": "NN",
-  "name": "Pass It On",
-  "triggers": [
-   "pass it on"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099609228138656027"
- },
- {
   "band": "Myco",
   "name": "Crypto Spring",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the deep foundation"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107848487261831400"
+ },
+ {
+  "band": "NN",
+  "name": "Pass It On",
+  "triggers": [
+   "pass it on"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107853481138655620"
  }
 ]
