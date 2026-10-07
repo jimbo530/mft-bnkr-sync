@@ -592,14 +592,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Dance To Defend The Earth",
-  "triggers": [
-   "dance to defend the earth"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103766521218584659",
-  "tag": "$MfT"
- },
- {
   "name": "Pizza Day Party",
   "triggers": [
    "pizza day party"
@@ -861,6 +853,14 @@
    "the deep foundation"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107848487261831400",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Dance To Defend The Earth",
+  "triggers": [
+   "dance to defend the earth"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107878727648424403",
   "tag": "$MfT"
  }
 ]
