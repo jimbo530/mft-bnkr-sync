@@ -3786,14 +3786,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2099453133747282031"
  },
  {
-  "band": "WarMachine",
-  "name": "Strike Up Da Bands",
-  "triggers": [
-   "strike up da bands"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099458198625194243"
- },
- {
   "band": "Biggins",
   "name": "Harder To Get In (If Your Daddy Did)",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the long walk's done"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107939119217136106"
+ },
+ {
+  "band": "WarMachine",
+  "name": "Strike Up Da Bands",
+  "triggers": [
+   "strike up da bands"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107969223423140213"
  }
 ]
