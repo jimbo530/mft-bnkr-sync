@@ -5578,14 +5578,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2103837039477027213"
  },
  {
-  "band": "CB",
-  "name": "Signal through the noise",
-  "triggers": [
-   "signal through the noise"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103842081739317378"
- },
- {
   "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “THOUSAND YEAR PL",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the grind holds"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107883704815149178"
+ },
+ {
+  "band": "CB",
+  "name": "Signal through the noise",
+  "triggers": [
+   "signal through the noise"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107908890058797267"
  }
 ]
