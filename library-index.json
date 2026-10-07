@@ -4226,14 +4226,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100268556122292536"
  },
  {
-  "band": "Myco",
-  "name": "Altcoin Blossoms",
-  "triggers": [
-   "altcoin blossoms"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100288699028095298"
- },
- {
   "band": "EBM",
   "name": "emerald signal 22726",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "cheap tricks expensive forests"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107732722273726682"
+ },
+ {
+  "band": "Myco",
+  "name": "Altcoin Blossoms",
+  "triggers": [
+   "altcoin blossoms"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107757888370315349"
  }
 ]
