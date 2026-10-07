@@ -57,14 +57,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "March to the Time War",
-  "triggers": [
-   "march to the time war"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097389606484205765",
-  "tag": "$MfT"
- },
- {
   "name": "Da Long Road",
   "triggers": [
    "da long road"
@@ -158,6 +150,14 @@
    "warband of one"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107335132369600823",
+  "tag": "$MfT"
+ },
+ {
+  "name": "March to the Time War",
+  "triggers": [
+   "march to the time war"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107788095143780591",
   "tag": "$MfT"
  }
 ]

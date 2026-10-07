@@ -3034,14 +3034,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097384507334676615"
  },
  {
-  "band": "WarMachine",
-  "name": "March to the Time War",
-  "triggers": [
-   "march to the time war"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097389606484205765"
- },
- {
   "band": "DD",
   "name": "The Well at the Bend",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "communities"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107762917638570454"
+ },
+ {
+  "band": "WarMachine",
+  "name": "March to the Time War",
+  "triggers": [
+   "march to the time war"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107788095143780591"
  }
 ]
