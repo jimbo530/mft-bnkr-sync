@@ -6177,19 +6177,6 @@
     "caption": "\"I Live Here Now (By the Wall)\" — Bongo\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2099327302010015847",
-    "translation": "The Wall That Pays",
-    "name": "The Wall That Pays",
-    "triggers": [
-      "the wall that pays"
-    ],
-    "band": "HammerTone",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2099327302010015847",
-    "caption": "\"The Wall That Pays\" — Hammer Tone\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2099352511144489236",
     "translation": "Older Than The Wire",
     "name": "Older Than The Wire",
@@ -12610,5 +12597,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2107611923894124986",
     "caption": "\"EBM - Global Village\" — CB\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2107637090015928803",
+    "translation": "The Wall That Pays",
+    "name": "The Wall That Pays",
+    "triggers": [
+      "the wall that pays"
+    ],
+    "band": "HammerTone",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2107637090015928803",
+    "caption": "\"The Wall That Pays\" — Hammer Tone\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
