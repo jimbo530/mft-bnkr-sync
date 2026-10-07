@@ -2362,14 +2362,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095849424656150968"
  },
  {
-  "band": "Myco",
-  "name": "The Deep Foundation",
-  "triggers": [
-   "the deep foundation"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095869589770891592"
- },
- {
   "band": "Bongo",
   "name": "Meme For Trees",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the well at the bend"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107823313632333960"
+ },
+ {
+  "band": "Myco",
+  "name": "The Deep Foundation",
+  "triggers": [
+   "the deep foundation"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107848487261831400"
  }
 ]
