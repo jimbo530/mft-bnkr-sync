@@ -2370,14 +2370,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095899760351695246"
  },
  {
-  "band": "CB",
-  "name": "Live in Seconds",
-  "triggers": [
-   "live in seconds"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095924886476624162"
- },
- {
   "band": "Bongo",
   "name": "Catch the Song, Pass the Song",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "signal through the noise"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107908890058797267"
+ },
+ {
+  "band": "CB",
+  "name": "Live in Seconds",
+  "triggers": [
+   "live in seconds"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107913907973042306"
  }
 ]
