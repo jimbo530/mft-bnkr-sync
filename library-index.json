@@ -5258,14 +5258,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2102961268864770533"
  },
  {
-  "band": "DD",
-  "name": "(TENDER RESILIENCE)",
-  "triggers": [
-   "(tender resilience)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102981403050680360"
- },
- {
   "band": "Myco",
   "name": "Forever Locked",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "devil wants my song"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107793122629406894"
+ },
+ {
+  "band": "DD",
+  "name": "(TENDER RESILIENCE)",
+  "triggers": [
+   "(tender resilience)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107818281721561175"
  }
 ]
