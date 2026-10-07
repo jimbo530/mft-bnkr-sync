@@ -3690,14 +3690,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2099131059887538233"
  },
  {
-  "band": "HammerTone",
-  "name": "The Grind Holds",
-  "triggers": [
-   "the grind holds"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099161251712557213"
- },
- {
   "band": "Myco",
   "name": "Love Is the Light",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "dance to defend the earth"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107878727648424403"
+ },
+ {
+  "band": "HammerTone",
+  "name": "The Grind Holds",
+  "triggers": [
+   "the grind holds"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107883704815149178"
  }
 ]
