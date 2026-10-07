@@ -4362,14 +4362,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100570524761919494"
  },
  {
-  "band": "MR",
-  "name": "Green Hearts Strong Feet",
-  "triggers": [
-   "green hearts strong feet"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100590659413389364"
- },
- {
   "band": "Myco",
   "name": "The Return of the Bulls",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "we water each other vid"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107697485002977740"
+ },
+ {
+  "band": "MR",
+  "name": "Green Hearts Strong Feet",
+  "triggers": [
+   "green hearts strong feet"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107702482667196465"
  }
 ]
