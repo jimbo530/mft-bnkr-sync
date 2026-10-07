@@ -4618,14 +4618,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101320427138113613"
  },
  {
-  "band": "DD",
-  "name": "Communities",
-  "triggers": [
-   "communities"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101370802650141014"
- },
- {
   "band": "MR",
   "name": "Opportunity To Be Great",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "altcoin blossoms"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107757888370315349"
+ },
+ {
+  "band": "DD",
+  "name": "Communities",
+  "triggers": [
+   "communities"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107762917638570454"
  }
 ]
