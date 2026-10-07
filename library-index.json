@@ -2074,14 +2074,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095205162998517818"
  },
  {
-  "band": "JS",
-  "name": "Frens in the Field",
-  "triggers": [
-   "frens in the field"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095210213016010908"
- },
- {
   "band": "MR",
   "name": "Stand in the Rain",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "strike up da bands"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107969223423140213"
+ },
+ {
+  "band": "JS",
+  "name": "Frens in the Field",
+  "triggers": [
+   "frens in the field"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107974261163831379"
  }
 ]
