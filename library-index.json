@@ -5762,14 +5762,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2103942727721222191"
  },
  {
-  "band": "EBM",
-  "name": "Forever is longer than you Know",
-  "triggers": [
-   "forever is longer than you know"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103967859294585163"
- },
- {
   "band": "MV",
   "name": "MC - Scratch the Earth",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "- it does not go unseen"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107667311192584228"
+ },
+ {
+  "band": "EBM",
+  "name": "Forever is longer than you Know",
+  "triggers": [
+   "forever is longer than you know"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107672290481651880"
  }
 ]
