@@ -3498,14 +3498,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2098401256427356260"
  },
  {
-  "band": "NN",
-  "name": "Cheap Tricks Expensive Forests",
-  "triggers": [
-   "cheap tricks expensive forests"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098431445362463232"
- },
- {
   "band": "RickyBobbie",
   "name": "Fastest Word in the Sky",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "move your feet, fund the forest"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107727693265457154"
+ },
+ {
+  "band": "NN",
+  "name": "Cheap Tricks Expensive Forests",
+  "triggers": [
+   "cheap tricks expensive forests"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107732722273726682"
  }
 ]

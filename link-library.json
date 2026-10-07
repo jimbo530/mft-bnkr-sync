@@ -5683,19 +5683,6 @@
     "caption": "\"Round Up the Good Ones\" — Rish\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2098431445362463232",
-    "translation": "Cheap Tricks Expensive Forests",
-    "name": "Cheap Tricks Expensive Forests",
-    "triggers": [
-      "cheap tricks expensive forests"
-    ],
-    "band": "NN",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2098431445362463232",
-    "caption": "\"Cheap Tricks Expensive Forests\" — Natilie Nightclub\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2098491850432635087",
     "translation": "Fastest Word in the Sky",
     "name": "Fastest Word in the Sky",
@@ -12610,5 +12597,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2107727693265457154",
     "caption": "\"Move Your Feet, Fund The Forest\" — Myco\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2107732722273726682",
+    "translation": "Cheap Tricks Expensive Forests",
+    "name": "Cheap Tricks Expensive Forests",
+    "triggers": [
+      "cheap tricks expensive forests"
+    ],
+    "band": "NN",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2107732722273726682",
+    "caption": "\"Cheap Tricks Expensive Forests\" — Natilie Nightclub\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
