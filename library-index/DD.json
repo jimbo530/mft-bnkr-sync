@@ -201,14 +201,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Long Walk's Done",
-  "triggers": [
-   "the long walk's done"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098315683603906785",
-  "tag": "$MfT"
- },
- {
   "name": "The Giving Floor",
   "triggers": [
    "the giving floor"
@@ -494,6 +486,14 @@
    "the well at the bend"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107823313632333960",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Long Walk's Done",
+  "triggers": [
+   "the long walk's done"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107939119217136106",
   "tag": "$MfT"
  }
 ]

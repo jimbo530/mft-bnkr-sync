@@ -3418,14 +3418,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2098290511408779481"
  },
  {
-  "band": "DD",
-  "name": "The Long Walk's Done",
-  "triggers": [
-   "the long walk's done"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098315683603906785"
- },
- {
   "band": "CB",
   "name": "The Based Lord",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "live in seconds"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107913907973042306"
+ },
+ {
+  "band": "DD",
+  "name": "The Long Walk's Done",
+  "triggers": [
+   "the long walk's done"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107939119217136106"
  }
 ]
