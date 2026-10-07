@@ -4002,14 +4002,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2099825700559581220"
  },
  {
-  "band": "JS",
-  "name": "Devil Wants My Song",
-  "triggers": [
-   "devil wants my song"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099850795487310238"
- },
- {
   "band": "Myco",
   "name": "Tunes For Trees",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "march to the time war"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107788095143780591"
+ },
+ {
+  "band": "JS",
+  "name": "Devil Wants My Song",
+  "triggers": [
+   "devil wants my song"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107793122629406894"
  }
 ]
