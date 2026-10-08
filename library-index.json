@@ -2594,14 +2594,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096443314396389388"
  },
  {
-  "band": "Myco",
-  "name": "- Two Currents, One Flow",
-  "triggers": [
-   "- two currents, one flow"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096463495776575893"
- },
- {
   "band": "JS",
   "name": "Back The Beginning",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "forever locked"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108095053570691187"
+ },
+ {
+  "band": "Myco",
+  "name": "- Two Currents, One Flow",
+  "triggers": [
+   "- two currents, one flow"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108120266135961638"
  }
 ]
