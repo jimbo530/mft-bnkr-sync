@@ -5090,14 +5090,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2102754898550861881"
  },
  {
-  "band": "JS",
-  "name": "Jony Sings, dance until morning",
-  "triggers": [
-   "jony sings, dance until morning"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102759948505522582"
- },
- {
   "band": "Gurdy",
   "name": "Someone Bet on Me",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "fund the forest"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108029721690755118"
+ },
+ {
+  "band": "JS",
+  "name": "Jony Sings, dance until morning",
+  "triggers": [
+   "jony sings, dance until morning"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108034717832356147"
  }
 ]
