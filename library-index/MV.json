@@ -608,14 +608,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Fund The Forest",
-  "triggers": [
-   "fund the forest"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100822142694654256",
-  "tag": "$MfT"
- },
- {
   "name": "elven gold (1)",
   "triggers": [
    "elven gold (1)"
@@ -1301,6 +1293,14 @@
    "blue marble rock"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107546464851267791",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Fund The Forest",
+  "triggers": [
+   "fund the forest"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108029721690755118",
   "tag": "$MfT"
  }
 ]

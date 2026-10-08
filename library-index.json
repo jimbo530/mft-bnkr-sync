@@ -4338,14 +4338,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100797035767038239"
  },
  {
-  "band": "MV",
-  "name": "Fund The Forest",
-  "triggers": [
-   "fund the forest"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100822142694654256"
- },
- {
   "band": "JS",
   "name": "Proof of life jony-natilie",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "jony sings, mangrove"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108004515597177192"
+ },
+ {
+  "band": "MV",
+  "name": "Fund The Forest",
+  "triggers": [
+   "fund the forest"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108029721690755118"
  }
 ]
