@@ -4698,14 +4698,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2102004954332274850"
  },
  {
-  "band": "MR",
-  "name": "Shade For Tomorrow",
-  "triggers": [
-   "shade for tomorrow"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102025112430031049"
- },
- {
   "band": "JS",
   "name": "Each One Carries Two",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "raid for the children"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108210849105969386"
+ },
+ {
+  "band": "MR",
+  "name": "Shade For Tomorrow",
+  "triggers": [
+   "shade for tomorrow"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108215895663218756"
  }
 ]

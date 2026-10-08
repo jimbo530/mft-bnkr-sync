@@ -265,14 +265,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Shade For Tomorrow",
-  "triggers": [
-   "shade for tomorrow"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102025112430031049",
-  "tag": "$MfT"
- },
- {
   "name": "Love Is The Power",
   "triggers": [
    "love is the power"
@@ -438,6 +430,14 @@
    "stand in the rain"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108059857853063293",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Shade For Tomorrow",
+  "triggers": [
+   "shade for tomorrow"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108215895663218756",
   "tag": "$MfT"
  }
 ]
