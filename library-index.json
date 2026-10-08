@@ -3394,14 +3394,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2098698212102062139"
  },
  {
-  "band": "JS",
-  "name": "The Kid The Vault Fed",
-  "triggers": [
-   "the kid the vault fed"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098728367545549247"
- },
- {
   "band": "DD",
   "name": "A Pouch That Holds It All",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "green it up"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108246047235494149"
+ },
+ {
+  "band": "JS",
+  "name": "The Kid The Vault Fed",
+  "triggers": [
+   "the kid the vault fed"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108271208181399596"
  }
 ]

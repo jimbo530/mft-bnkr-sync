@@ -177,14 +177,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Kid The Vault Fed",
-  "triggers": [
-   "the kid the vault fed"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098728367545549247",
-  "tag": "$MfT"
- },
- {
   "name": "Pull Up to the Space",
   "triggers": [
    "pull up to the space"
@@ -766,6 +758,14 @@
    "blockchain boogie"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108185697647575520",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Kid The Vault Fed",
+  "triggers": [
+   "the kid the vault fed"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108271208181399596",
   "tag": "$MfT"
  }
 ]
