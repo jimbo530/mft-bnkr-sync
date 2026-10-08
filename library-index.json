@@ -3435,14 +3435,6 @@
  },
  {
   "band": "EBM",
-  "name": "Raid for the Children",
-  "triggers": [
-   "raid for the children"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098778723017191782"
- },
- {
-  "band": "EBM",
   "name": "Costs You Nothing",
   "triggers": [
    "costs you nothing"
@@ -7760,5 +7752,13 @@
    "blockchain boogie"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108185697647575520"
+ },
+ {
+  "band": "EBM",
+  "name": "Raid for the Children",
+  "triggers": [
+   "raid for the children"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108210849105969386"
  }
 ]
