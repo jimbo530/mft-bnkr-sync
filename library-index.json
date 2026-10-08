@@ -2786,14 +2786,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096856049449861628"
  },
  {
-  "band": "RickyBobbie",
-  "name": "Sign On",
-  "triggers": [
-   "sign on"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096861049987174539"
- },
- {
   "band": "Myco",
   "name": "Hold the Deck",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "stand in the rain"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108059857853063293"
+ },
+ {
+  "band": "RickyBobbie",
+  "name": "Sign On",
+  "triggers": [
+   "sign on"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108064896298459342"
  }
 ]
