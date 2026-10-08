@@ -2434,14 +2434,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096111125674737962"
  },
  {
-  "band": "JS",
-  "name": "A Buck and an Acorn",
-  "triggers": [
-   "a buck and an acorn"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096136269289910686"
- },
- {
   "band": "Rish",
   "name": "The Town of the Cats",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "- two currents, one flow"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108120266135961638"
+ },
+ {
+  "band": "JS",
+  "name": "A Buck and an Acorn",
+  "triggers": [
+   "a buck and an acorn"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108125248583303441"
  }
 ]
