@@ -233,14 +233,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "They Paid Me To Feed You",
-  "triggers": [
-   "they paid me to feed you"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098038845241487380",
-  "tag": "$MfT"
- },
- {
   "name": "Pay the Bills (Then We Play)",
   "triggers": [
    "pay the bills (then we play)"
@@ -366,6 +358,14 @@
    "1,312 jpegs"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2106726091339563414",
+  "tag": "$MfT"
+ },
+ {
+  "name": "They Paid Me To Feed You",
+  "triggers": [
+   "they paid me to feed you"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108180618483752977",
   "tag": "$MfT"
  }
 ]

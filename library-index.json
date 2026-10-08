@@ -3218,14 +3218,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2098033828430266861"
  },
  {
-  "band": "Bongo",
-  "name": "They Paid Me To Feed You",
-  "triggers": [
-   "they paid me to feed you"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098038845241487380"
- },
- {
   "band": "HammerTone",
   "name": "The Guild That Raises You",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "sing it, plant it"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108155495928266841"
+ },
+ {
+  "band": "Bongo",
+  "name": "They Paid Me To Feed You",
+  "triggers": [
+   "they paid me to feed you"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108180618483752977"
  }
 ]
