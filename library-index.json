@@ -5475,14 +5475,6 @@
  },
  {
   "band": "MV",
-  "name": "EBM - Char to the Root",
-  "triggers": [
-   "ebm - char to the root"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2104043389238776261"
- },
- {
-  "band": "MV",
   "name": "Love is the work - Jasmine",
   "triggers": [
    "love is the work - jasmine"
@@ -7760,5 +7752,13 @@
    "digerie dude - pulse of the forest"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108301481921090013"
+ },
+ {
+  "band": "MV",
+  "name": "EBM - Char to the Root",
+  "triggers": [
+   "ebm - char to the root"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108331664820617667"
  }
 ]
