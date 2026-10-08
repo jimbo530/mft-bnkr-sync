@@ -121,14 +121,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Two Chains, One Forward",
-  "triggers": [
-   "two chains, one forward"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095970253385637962",
-  "tag": "$MfT"
- },
- {
   "name": "Proof of Function",
   "triggers": [
    "proof of function"
@@ -502,6 +494,14 @@
    "sing it, plant it"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108155495928266841",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Two Chains, One Forward",
+  "triggers": [
+   "two chains, one forward"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108241063064322465",
   "tag": "$MfT"
  }
 ]

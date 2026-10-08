@@ -2362,14 +2362,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095945016036196493"
  },
  {
-  "band": "CB",
-  "name": "Two Chains, One Forward",
-  "triggers": [
-   "two chains, one forward"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095970253385637962"
- },
- {
   "band": "Myco",
   "name": "The Soil Remembers",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "shade for tomorrow"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108215895663218756"
+ },
+ {
+  "band": "CB",
+  "name": "Two Chains, One Forward",
+  "triggers": [
+   "two chains, one forward"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108241063064322465"
  }
 ]
