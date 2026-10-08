@@ -2434,14 +2434,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096065857470251437"
  },
  {
-  "band": "DD",
-  "name": "Dig a Little Deeper",
-  "triggers": [
-   "dig a little deeper"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096091023743001075"
- },
- {
   "band": "CB",
   "name": "Proof of Function",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "frens in the field"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107974261163831379"
+ },
+ {
+  "band": "DD",
+  "name": "Dig a Little Deeper",
+  "triggers": [
+   "dig a little deeper"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2107999470478577890"
  }
 ]
