@@ -2650,14 +2650,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096564165112459756"
  },
  {
-  "band": "JS",
-  "name": "Stands On Its Own",
-  "triggers": [
-   "stands on its own"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096569178568147367"
- },
- {
   "band": "Rish",
   "name": "Bet On Yourself",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "sign on"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108064896298459342"
+ },
+ {
+  "band": "JS",
+  "name": "Stands On Its Own",
+  "triggers": [
+   "stands on its own"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108090070624260591"
  }
 ]
