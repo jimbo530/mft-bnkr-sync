@@ -632,14 +632,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "J&N make today count",
-  "triggers": [
-   "j&n make today count"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101572119721038152",
-  "tag": "$MfT"
- },
- {
   "name": "Myko - Keep Moving",
   "triggers": [
    "myko - keep moving"
@@ -1301,6 +1293,14 @@
    "ebm - char to the root"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108331664820617667",
+  "tag": "$MfT"
+ },
+ {
+  "name": "J&N make today count",
+  "triggers": [
+   "j&n make today count"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108336651470561289",
   "tag": "$MfT"
  }
 ]

@@ -4498,14 +4498,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101526813918781535"
  },
  {
-  "band": "MV",
-  "name": "J&N make today count",
-  "triggers": [
-   "j&n make today count"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101572119721038152"
- },
- {
   "band": "JS",
   "name": "Jaguars",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "ebm - char to the root"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108331664820617667"
+ },
+ {
+  "band": "MV",
+  "name": "J&N make today count",
+  "triggers": [
+   "j&n make today count"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108336651470561289"
  }
 ]
