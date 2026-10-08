@@ -5146,14 +5146,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2102880749858763254"
  },
  {
-  "band": "JS",
-  "name": "Jony Sings, Mangrove",
-  "triggers": [
-   "jony sings, mangrove"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102905877527155065"
- },
- {
   "band": "NN",
   "name": "It Will Change Your Life",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "dig a little deeper"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107999470478577890"
+ },
+ {
+  "band": "JS",
+  "name": "Jony Sings, Mangrove",
+  "triggers": [
+   "jony sings, mangrove"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108004515597177192"
  }
 ]
