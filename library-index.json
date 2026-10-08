@@ -3386,14 +3386,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2098350959415972012"
  },
  {
-  "band": "Strut",
-  "name": "Plant It Loud",
-  "triggers": [
-   "plant it loud"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098366011523162322"
- },
- {
   "band": "Rish",
   "name": "Round Up the Good Ones",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "a buck and an acorn"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108125248583303441"
+ },
+ {
+  "band": "Strut",
+  "name": "Plant It Loud",
+  "triggers": [
+   "plant it loud"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108150456375525805"
  }
 ]
