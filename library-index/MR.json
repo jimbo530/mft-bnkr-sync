@@ -81,14 +81,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Stand in the Rain",
-  "triggers": [
-   "stand in the rain"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095225269669789784",
-  "tag": "$MfT"
- },
- {
   "name": "Shade I Won t Sit In",
   "triggers": [
    "shade i won t sit in"
@@ -438,6 +430,14 @@
    "green hearts strong feet"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107702482667196465",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Stand in the Rain",
+  "triggers": [
+   "stand in the rain"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108059857853063293",
   "tag": "$MfT"
  }
 ]

@@ -2074,14 +2074,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095205162998517818"
  },
  {
-  "band": "MR",
-  "name": "Stand in the Rain",
-  "triggers": [
-   "stand in the rain"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095225269669789784"
- },
- {
   "band": "EBM",
   "name": "The Forest Waters Itself",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "jony sings, dance until morning"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108034717832356147"
+ },
+ {
+  "band": "MR",
+  "name": "Stand in the Rain",
+  "triggers": [
+   "stand in the rain"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108059857853063293"
  }
 ]
