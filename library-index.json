@@ -5138,14 +5138,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2102961268864770533"
  },
  {
-  "band": "Myco",
-  "name": "Forever Locked",
-  "triggers": [
-   "forever locked"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102986429655630080"
- },
- {
   "band": "MV",
   "name": "Myko - Listen Close",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "stands on its own"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108090070624260591"
+ },
+ {
+  "band": "Myco",
+  "name": "Forever Locked",
+  "triggers": [
+   "forever locked"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108095053570691187"
  }
 ]
