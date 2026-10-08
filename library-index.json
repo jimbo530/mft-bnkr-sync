@@ -1458,14 +1458,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093967005787291879"
  },
  {
-  "band": "CB",
-  "name": "Green It Up",
-  "triggers": [
-   "green it up"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093987105017897057"
- },
- {
   "band": "Rish",
   "name": "Plant It Brave",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "two chains, one forward"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108241063064322465"
+ },
+ {
+  "band": "CB",
+  "name": "Green It Up",
+  "triggers": [
+   "green it up"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108246047235494149"
  }
 ]

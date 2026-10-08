@@ -81,14 +81,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Green It Up",
-  "triggers": [
-   "green it up"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093987105017897057",
-  "tag": "$MfT"
- },
- {
   "name": "Room For Everyone",
   "triggers": [
    "room for everyone"
@@ -502,6 +494,14 @@
    "two chains, one forward"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108241063064322465",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Green It Up",
+  "triggers": [
+   "green it up"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108246047235494149",
   "tag": "$MfT"
  }
 ]
