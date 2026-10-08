@@ -3562,14 +3562,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2099045482894930156"
  },
  {
-  "band": "CB",
-  "name": "Sing It, Plant It",
-  "triggers": [
-   "sing it, plant it"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099050516542067078"
- },
- {
   "band": "Rish",
   "name": "The Mending",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "plant it loud"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108150456375525805"
+ },
+ {
+  "band": "CB",
+  "name": "Sing It, Plant It",
+  "triggers": [
+   "sing it, plant it"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108155495928266841"
  }
 ]
