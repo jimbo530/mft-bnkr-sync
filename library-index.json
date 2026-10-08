@@ -3986,14 +3986,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100102438090940645"
  },
  {
-  "band": "JS",
-  "name": "Blockchain Boogie",
-  "triggers": [
-   "blockchain boogie"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100122542040133634"
- },
- {
   "band": "MV",
   "name": "EBM - No Turning back.",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "they paid me to feed you"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108180618483752977"
+ },
+ {
+  "band": "JS",
+  "name": "Blockchain Boogie",
+  "triggers": [
+   "blockchain boogie"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108185697647575520"
  }
 ]
