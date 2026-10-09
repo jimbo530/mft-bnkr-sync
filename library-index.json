@@ -5282,14 +5282,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2103691073142841644"
  },
  {
-  "band": "JS",
-  "name": "Jony Sings, Jaguars",
-  "triggers": [
-   "jony sings, jaguars"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103711161271165064"
- },
- {
   "band": "Myco",
   "name": "On-Chain Garden",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "natali learn to earn"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108407141199413331"
+ },
+ {
+  "band": "JS",
+  "name": "Jony Sings, Jaguars",
+  "triggers": [
+   "jony sings, jaguars"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108442369448161784"
  }
 ]
