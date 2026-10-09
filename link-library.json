@@ -2133,19 +2133,6 @@
     "caption": "\"Jony Sings gotta get paid\" — Jony Sings\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2093725429668409632",
-    "translation": "The Block Plants Oaks",
-    "name": "The Block Plants Oaks",
-    "triggers": [
-      "the block plants oaks"
-    ],
-    "band": "JS",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2093725429668409632",
-    "caption": "\"The Block Plants Oaks\" — Jony Sings\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2093730410253455839",
     "translation": "Champion of the Trees",
     "name": "Champion of the Trees",
@@ -12610,5 +12597,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2108603455761727879",
     "caption": "\"I Don't Strut (I Arrive)\" — Miss Strut\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2108608490801357247",
+    "translation": "The Block Plants Oaks",
+    "name": "The Block Plants Oaks",
+    "triggers": [
+      "the block plants oaks"
+    ],
+    "band": "JS",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2108608490801357247",
+    "caption": "\"The Block Plants Oaks\" — Jony Sings\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

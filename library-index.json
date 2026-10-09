@@ -1330,14 +1330,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093710327766466574"
  },
  {
-  "band": "JS",
-  "name": "The Block Plants Oaks",
-  "triggers": [
-   "the block plants oaks"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093725429668409632"
- },
- {
   "band": "MR",
   "name": "Champion of the Trees",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "i don't strut (i arrive)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108603455761727879"
+ },
+ {
+  "band": "JS",
+  "name": "The Block Plants Oaks",
+  "triggers": [
+   "the block plants oaks"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108608490801357247"
  }
 ]

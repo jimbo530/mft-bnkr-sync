@@ -65,14 +65,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Block Plants Oaks",
-  "triggers": [
-   "the block plants oaks"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093725429668409632",
-  "tag": "$MfT"
- },
- {
   "name": "Build the Grove",
   "triggers": [
    "build the grove"
@@ -766,6 +758,14 @@
    "living it up"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108563200249655458",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Block Plants Oaks",
+  "triggers": [
+   "the block plants oaks"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108608490801357247",
   "tag": "$MfT"
  }
 ]
