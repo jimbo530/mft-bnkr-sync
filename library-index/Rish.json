@@ -9,14 +9,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "A Coin for the Round",
-  "triggers": [
-   "a coin for the round"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093524093547024531",
-  "tag": "$MfT"
- },
- {
   "name": "The Warden's Round",
   "triggers": [
    "the warden's round"
@@ -366,6 +358,14 @@
    "a little kid said thank you"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107606891677315330",
+  "tag": "$MfT"
+ },
+ {
+  "name": "A Coin for the Round",
+  "triggers": [
+   "a coin for the round"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108402143665250413",
   "tag": "$MfT"
  }
 ]

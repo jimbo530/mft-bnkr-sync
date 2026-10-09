@@ -1202,14 +1202,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093508988356673696"
  },
  {
-  "band": "Rish",
-  "name": "A Coin for the Round",
-  "triggers": [
-   "a coin for the round"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093524093547024531"
- },
- {
   "band": "Bongo",
   "name": "CHARGE! (The Ballad of Bold Nobi)",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "un rugables"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108366912014958910"
+ },
+ {
+  "band": "Rish",
+  "name": "A Coin for the Round",
+  "triggers": [
+   "a coin for the round"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108402143665250413"
  }
 ]
