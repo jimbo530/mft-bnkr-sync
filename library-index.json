@@ -5482,14 +5482,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2104068512071246126"
  },
  {
-  "band": "Myco",
-  "name": "Pizza Day Party",
-  "triggers": [
-   "pizza day party"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2104088685507477955"
- },
- {
   "band": "MV",
   "name": "Guardians of the Gate   Jasmine",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "j&n make today count"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108336651470561289"
+ },
+ {
+  "band": "Myco",
+  "name": "Pizza Day Party",
+  "triggers": [
+   "pizza day party"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108361874932719725"
  }
 ]
