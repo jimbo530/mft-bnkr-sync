@@ -5442,14 +5442,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2104194368328327595"
  },
  {
-  "band": "DD",
-  "name": "Signal in the Noise",
-  "triggers": [
-   "signal in the noise"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2104214504884036040"
- },
- {
   "band": "CB",
   "name": "Building for the Bulls",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "living it up"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108563200249655458"
+ },
+ {
+  "band": "DD",
+  "name": "Signal in the Noise",
+  "triggers": [
+   "signal in the noise"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108568241236816100"
  }
 ]

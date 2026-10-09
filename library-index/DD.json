@@ -353,14 +353,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Signal in the Noise",
-  "triggers": [
-   "signal in the noise"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2104214504884036040",
-  "tag": "$MfT"
- },
- {
   "name": "Quite Revolution of Love",
   "triggers": [
    "quite revolution of love"
@@ -494,6 +486,14 @@
    "dig a little deeper"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107999470478577890",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Signal in the Noise",
+  "triggers": [
+   "signal in the noise"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108568241236816100",
   "tag": "$MfT"
  }
 ]
