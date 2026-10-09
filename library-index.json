@@ -3906,14 +3906,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100102438090940645"
  },
  {
-  "band": "MV",
-  "name": "EBM - No Turning back.",
-  "triggers": [
-   "ebm - no turning back."
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100127579575398834"
- },
- {
   "band": "JS",
   "name": "Jony Sings Alliance",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the door in the halls"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108487701653598697"
+ },
+ {
+  "band": "MV",
+  "name": "EBM - No Turning back.",
+  "triggers": [
+   "ebm - no turning back."
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108522962047414364"
  }
 ]
