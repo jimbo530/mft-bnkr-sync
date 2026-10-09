@@ -81,14 +81,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Shade I Won t Sit In",
-  "triggers": [
-   "shade i won t sit in"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095331017770852527",
-  "tag": "$MfT"
- },
- {
   "name": "The Heaviest End",
   "triggers": [
    "the heaviest end"
@@ -438,6 +430,14 @@
    "shade for tomorrow"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108215895663218756",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Shade I Won t Sit In",
+  "triggers": [
+   "shade i won t sit in"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108482629079007522",
   "tag": "$MfT"
  }
 ]
