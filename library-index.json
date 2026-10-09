@@ -2074,14 +2074,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095250484961448080"
  },
  {
-  "band": "Myco",
-  "name": "- Spore Report",
-  "triggers": [
-   "- spore report"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095300829112602861"
- },
- {
   "band": "Strut",
   "name": "FUD Off the Runway",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "jony sings, jaguars"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108442369448161784"
+ },
+ {
+  "band": "Myco",
+  "name": "- Spore Report",
+  "triggers": [
+   "- spore report"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108447435089432959"
  }
 ]
