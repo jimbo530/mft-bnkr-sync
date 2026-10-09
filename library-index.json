@@ -3986,14 +3986,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100218211039895866"
  },
  {
-  "band": "MV",
-  "name": "Natali Learn to Earn",
-  "triggers": [
-   "natali learn to earn"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100238323709018444"
- },
- {
   "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “ALLIANCE FIRE”",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "a coin for the round"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108402143665250413"
+ },
+ {
+  "band": "MV",
+  "name": "Natali Learn to Earn",
+  "triggers": [
+   "natali learn to earn"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108407141199413331"
  }
 ]
