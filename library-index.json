@@ -2986,14 +2986,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097585881880125471"
  },
  {
-  "band": "Myco",
-  "name": "- The Sky People Came To Party",
-  "triggers": [
-   "- the sky people came to party"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097611072299540779"
- },
- {
   "band": "NN",
   "name": "The Lady Keeps the Leaves",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "ebm - no turning back."
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108522962047414364"
+ },
+ {
+  "band": "Myco",
+  "name": "- The Sky People Came To Party",
+  "triggers": [
+   "- the sky people came to party"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108527986194452579"
  }
 ]
