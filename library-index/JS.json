@@ -385,14 +385,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Living It Up",
-  "triggers": [
-   "living it up"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102654251277132020",
-  "tag": "$MfT"
- },
- {
   "name": "Jony Sings - Living it Up",
   "triggers": [
    "jony sings - living it up"
@@ -766,6 +758,14 @@
    "jony sings, jaguars"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108442369448161784",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Living It Up",
+  "triggers": [
+   "living it up"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108563200249655458",
   "tag": "$MfT"
  }
 ]

@@ -4850,14 +4850,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2102634132786356654"
  },
  {
-  "band": "JS",
-  "name": "Living It Up",
-  "triggers": [
-   "living it up"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102654251277132020"
- },
- {
   "band": "Myco",
   "name": "Go Do Something Nice",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "- the sky people came to party"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108527986194452579"
+ },
+ {
+  "band": "JS",
+  "name": "Living It Up",
+  "triggers": [
+   "living it up"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108563200249655458"
  }
 ]
