@@ -4274,14 +4274,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101219812735115402"
  },
  {
-  "band": "DD",
-  "name": "Title  “Scared Money Can’t Win”",
-  "triggers": [
-   "title  “scared money can’t win”"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101244919360671957"
- },
- {
   "band": "Gurdy",
   "name": "Crawls Back Singing",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "digerie dude - touch grass revolution"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108648734099657158"
+ },
+ {
+  "band": "DD",
+  "name": "Title  “Scared Money Can’t Win”",
+  "triggers": [
+   "title  “scared money can’t win”"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108683952319807718"
  }
 ]

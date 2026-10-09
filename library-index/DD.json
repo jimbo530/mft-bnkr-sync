@@ -305,14 +305,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Title  “Scared Money Can’t Win”",
-  "triggers": [
-   "title  “scared money can’t win”"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101244919360671957",
-  "tag": "$MfT"
- },
- {
   "name": "Build It Anyway",
   "triggers": [
    "build it anyway"
@@ -494,6 +486,14 @@
    "signal in the noise"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108568241236816100",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Title  “Scared Money Can’t Win”",
+  "triggers": [
+   "title  “scared money can’t win”"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108683952319807718",
   "tag": "$MfT"
  }
 ]
