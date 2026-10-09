@@ -3835,14 +3835,6 @@
  },
  {
   "band": "Myco",
-  "name": "One Act At A Time",
-  "triggers": [
-   "one act at a time"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100026965038108945"
- },
- {
-  "band": "Myco",
   "name": "Bull Market Festival",
   "triggers": [
    "bull market festival"
@@ -7760,5 +7752,13 @@
    "the block plants oaks"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108608490801357247"
+ },
+ {
+  "band": "Myco",
+  "name": "One Act At A Time",
+  "triggers": [
+   "one act at a time"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108643750272504252"
  }
 ]
