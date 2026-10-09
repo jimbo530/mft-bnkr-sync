@@ -2809,19 +2809,6 @@
     "caption": "\"The Coconut Takes Requests!\" — Bongo\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2094540863653232914",
-    "translation": "I Don't Strut (I Arrive)",
-    "name": "I Don't Strut (I Arrive)",
-    "triggers": [
-      "i don't strut (i arrive)"
-    ],
-    "band": "Strut",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2094540863653232914",
-    "caption": "\"I Don't Strut (I Arrive)\" — Miss Strut\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2094561000166969769",
     "translation": "Name It Once",
     "name": "Name It Once",
@@ -12610,5 +12597,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2108568241236816100",
     "caption": "\"Signal in the Noise\" — Digerie Dude\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2108603455761727879",
+    "translation": "I Don't Strut (I Arrive)",
+    "name": "I Don't Strut (I Arrive)",
+    "triggers": [
+      "i don't strut (i arrive)"
+    ],
+    "band": "Strut",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2108603455761727879",
+    "caption": "\"I Don't Strut (I Arrive)\" — Miss Strut\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

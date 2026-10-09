@@ -25,14 +25,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "I Don't Strut (I Arrive)",
-  "triggers": [
-   "i don't strut (i arrive)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094540863653232914",
-  "tag": "$MfT"
- },
- {
   "name": "FUD Off the Runway",
   "triggers": [
    "fud off the runway"
@@ -126,6 +118,14 @@
    "plant it loud"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108150456375525805",
+  "tag": "$MfT"
+ },
+ {
+  "name": "I Don't Strut (I Arrive)",
+  "triggers": [
+   "i don't strut (i arrive)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108603455761727879",
   "tag": "$MfT"
  }
 ]

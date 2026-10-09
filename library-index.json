@@ -1746,14 +1746,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094530661839192445"
  },
  {
-  "band": "Strut",
-  "name": "I Don't Strut (I Arrive)",
-  "triggers": [
-   "i don't strut (i arrive)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094540863653232914"
- },
- {
   "band": "EBM",
   "name": "Name It Once",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "signal in the noise"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108568241236816100"
+ },
+ {
+  "band": "Strut",
+  "name": "I Don't Strut (I Arrive)",
+  "triggers": [
+   "i don't strut (i arrive)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108603455761727879"
  }
 ]
