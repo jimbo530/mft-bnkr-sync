@@ -4442,14 +4442,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101622449888457155"
  },
  {
-  "band": "MV",
-  "name": "Digerie Dude - Touch Grass Revolution",
-  "triggers": [
-   "digerie dude - touch grass revolution"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101627478351470910"
- },
- {
   "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “DIAMOND HAND THE",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "one act at a time"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108643750272504252"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Touch Grass Revolution",
+  "triggers": [
+   "digerie dude - touch grass revolution"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108648734099657158"
  }
 ]
