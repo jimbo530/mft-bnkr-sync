@@ -2858,14 +2858,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097243607786733763"
  },
  {
-  "band": "HammerTone",
-  "name": "The Door in the Halls",
-  "triggers": [
-   "the door in the halls"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097268766472057091"
- },
- {
   "band": "ALAN",
   "name": "The Lord Who Rules Nobody",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "shade i won t sit in"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108482629079007522"
+ },
+ {
+  "band": "HammerTone",
+  "name": "The Door in the Halls",
+  "triggers": [
+   "the door in the halls"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108487701653598697"
  }
 ]
