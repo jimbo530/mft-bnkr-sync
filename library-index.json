@@ -4170,14 +4170,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101124169819713618"
  },
  {
-  "band": "JS",
-  "name": "GROWalition Rising",
-  "triggers": [
-   "growalition rising"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101144266017821102"
- },
- {
   "band": "Myco",
   "name": "Show Me What You Got",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "coast to the cabinet"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108890336789454927"
+ },
+ {
+  "band": "JS",
+  "name": "GROWalition Rising",
+  "triggers": [
+   "growalition rising"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108925581224034644"
  }
 ]
