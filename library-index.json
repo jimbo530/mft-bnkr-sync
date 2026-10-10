@@ -1722,14 +1722,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094495429014458557"
  },
  {
-  "band": "EBM",
-  "name": "The Realest Magic",
-  "triggers": [
-   "the realest magic"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094515561212363230"
- },
- {
   "band": "Bongo",
   "name": "The Coconut Takes Requests",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "forest on fire   rock (v2)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108804783544959482"
+ },
+ {
+  "band": "EBM",
+  "name": "The Realest Magic",
+  "triggers": [
+   "the realest magic"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108809768030613579"
  }
 ]
