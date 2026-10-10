@@ -3386,14 +3386,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2099015274687045818"
  },
  {
-  "band": "JS",
-  "name": "Pull Up to the Space",
-  "triggers": [
-   "pull up to the space"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099020271575245107"
- },
- {
   "band": "CB",
   "name": "Plant It Loud",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "no kings (just this guy)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108930562350080338"
+ },
+ {
+  "band": "JS",
+  "name": "Pull Up to the Space",
+  "triggers": [
+   "pull up to the space"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108970864733483334"
  }
 ]
