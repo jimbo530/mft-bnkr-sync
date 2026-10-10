@@ -4794,14 +4794,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2102910939666264119"
  },
  {
-  "band": "CB",
-  "name": "Unstoppable System",
-  "triggers": [
-   "unstoppable system"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102931037315604931"
- },
- {
   "band": "JS",
   "name": "Circulate Good",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "digerie dude - early and right"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2109006121327333511"
+ },
+ {
+  "band": "CB",
+  "name": "Unstoppable System",
+  "triggers": [
+   "unstoppable system"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2109011147420533016"
  }
 ]
