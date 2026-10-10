@@ -1642,14 +1642,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094329345108017532"
  },
  {
-  "band": "Rish",
-  "name": "Come All Ye (Sing a Forest)",
-  "triggers": [
-   "come all ye (sing a forest)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094334372690206932"
- },
- {
   "band": "DD",
   "name": "Carried by Your Love",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the realest magic"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108809768030613579"
+ },
+ {
+  "band": "Rish",
+  "name": "Come All Ye (Sing a Forest)",
+  "triggers": [
+   "come all ye (sing a forest)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108845000951779521"
  }
 ]
