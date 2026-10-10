@@ -3042,14 +3042,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097822532405461299"
  },
  {
-  "band": "EBM",
-  "name": "The Canopy Owes Nobody",
-  "triggers": [
-   "the canopy owes nobody"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097827412574691521"
- },
- {
   "band": "Jasmine",
   "name": "Back A Friend's Dream",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "ebm - getting based"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108724212517032367"
+ },
+ {
+  "band": "EBM",
+  "name": "The Canopy Owes Nobody",
+  "triggers": [
+   "the canopy owes nobody"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108729240216567925"
  }
 ]
