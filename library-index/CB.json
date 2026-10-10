@@ -329,14 +329,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Started, Made, Done",
-  "triggers": [
-   "started, made, done"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2104345327742402764",
-  "tag": "$MfT"
- },
- {
   "name": "EBM - Code Not Coal",
   "triggers": [
    "ebm - code not coal"
@@ -502,6 +494,14 @@
    "ebm - getting based"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108724212517032367",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Started, Made, Done",
+  "triggers": [
+   "started, made, done"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108769564464955711",
   "tag": "$MfT"
  }
 ]
