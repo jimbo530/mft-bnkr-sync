@@ -3850,14 +3850,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100077239513534856"
  },
  {
-  "band": "ALAN",
-  "name": "The Sounds of the Barn Yard",
-  "triggers": [
-   "the sounds of the barn yard"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100102438090940645"
- },
- {
   "band": "JS",
   "name": "Jony Sings Alliance",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the canopy owes nobody"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108729240216567925"
+ },
+ {
+  "band": "ALAN",
+  "name": "The Sounds of the Barn Yard",
+  "triggers": [
+   "the sounds of the barn yard"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108764514158084369"
  }
 ]
