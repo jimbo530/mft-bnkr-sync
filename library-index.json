@@ -2170,14 +2170,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095623012301029761"
  },
  {
-  "band": "PW",
-  "name": "Ship It Loud",
-  "triggers": [
-   "ship it loud"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095632959399137664"
- },
- {
   "band": "MR",
   "name": "The Heaviest End",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "come all ye (sing a forest)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108845000951779521"
+ },
+ {
+  "band": "PW",
+  "name": "Ship It Loud",
+  "triggers": [
+   "ship it loud"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108850044883312958"
  }
 ]

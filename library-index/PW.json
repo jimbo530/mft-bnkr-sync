@@ -9,14 +9,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Ship It Loud",
-  "triggers": [
-   "ship it loud"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095632959399137664",
-  "tag": "$MfT"
- },
- {
   "name": "March Of The Crownless",
   "triggers": [
    "march of the crownless"
@@ -38,6 +30,14 @@
    "the meme lord's fanfare"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2099578959511933353",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Ship It Loud",
+  "triggers": [
+   "ship it loud"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108850044883312958",
   "tag": "$MfT"
  }
 ]
