@@ -257,14 +257,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Proof of life jony-natilie",
-  "triggers": [
-   "proof of life jony-natilie"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100842328063685072",
-  "tag": "$MfT"
- },
- {
   "name": "Lessons In The Ledger",
   "triggers": [
    "lessons in the ledger"
@@ -766,6 +758,14 @@
    "pull up to the space"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108970864733483334",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Proof of life jony-natilie",
+  "triggers": [
+   "proof of life jony-natilie"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2109051416618619046",
   "tag": "$MfT"
  }
 ]

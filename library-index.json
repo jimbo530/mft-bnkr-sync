@@ -4042,14 +4042,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100797035767038239"
  },
  {
-  "band": "JS",
-  "name": "Proof of life jony-natilie",
-  "triggers": [
-   "proof of life jony-natilie"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100842328063685072"
- },
- {
   "band": "CB",
   "name": "Future is Here",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "three weeks in a minute"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2109046365875523880"
+ },
+ {
+  "band": "JS",
+  "name": "Proof of life jony-natilie",
+  "triggers": [
+   "proof of life jony-natilie"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2109051416618619046"
  }
 ]
