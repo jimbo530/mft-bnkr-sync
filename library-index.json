@@ -2714,14 +2714,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096996995244171664"
  },
  {
-  "band": "MR",
-  "name": "Coast to the Cabinet",
-  "triggers": [
-   "coast to the cabinet"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097001982485475430"
- },
- {
   "band": "NN",
   "name": "The Judge s Table",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "name your nobody"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108885265506869587"
+ },
+ {
+  "band": "MR",
+  "name": "Coast to the Cabinet",
+  "triggers": [
+   "coast to the cabinet"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108890336789454927"
  }
 ]

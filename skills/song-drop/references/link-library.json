@@ -4409,19 +4409,6 @@
     "caption": "\"The Wall That Never Falls\" — War Machine\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2097001982485475430",
-    "translation": "Coast to the Cabinet",
-    "name": "Coast to the Cabinet",
-    "triggers": [
-      "coast to the cabinet"
-    ],
-    "band": "MR",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2097001982485475430",
-    "caption": "\"Coast to the Cabinet\" — Moon Rasta\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2097062420237672811",
     "translation": "The Judge s Table",
     "name": "The Judge s Table",
@@ -12610,5 +12597,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2108885265506869587",
     "caption": "\"Name Your Nobody\" — Jony Sings\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2108890336789454927",
+    "translation": "Coast to the Cabinet",
+    "name": "Coast to the Cabinet",
+    "triggers": [
+      "coast to the cabinet"
+    ],
+    "band": "MR",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2108890336789454927",
+    "caption": "\"Coast to the Cabinet\" — Moon Rasta\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
