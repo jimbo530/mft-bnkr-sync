@@ -2066,14 +2066,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095406557756379311"
  },
  {
-  "band": "RickyBobbie",
-  "name": "Three Weeks in a Minute",
-  "triggers": [
-   "three weeks in a minute"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095426631443550630"
- },
- {
   "band": "CB",
   "name": "Eight Inbound",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "unstoppable system"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2109011147420533016"
+ },
+ {
+  "band": "RickyBobbie",
+  "name": "Three Weeks in a Minute",
+  "triggers": [
+   "three weeks in a minute"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2109046365875523880"
  }
 ]

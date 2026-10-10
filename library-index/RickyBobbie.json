@@ -57,14 +57,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Three Weeks in a Minute",
-  "triggers": [
-   "three weeks in a minute"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095426631443550630",
-  "tag": "$MfT"
- },
- {
   "name": "No Value But Songs We Sing",
   "triggers": [
    "no value but songs we sing"
@@ -102,6 +94,14 @@
    "sign on"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108064896298459342",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Three Weeks in a Minute",
+  "triggers": [
+   "three weeks in a minute"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2109046365875523880",
   "tag": "$MfT"
  }
 ]
