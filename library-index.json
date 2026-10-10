@@ -1498,14 +1498,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094072696560619768"
  },
  {
-  "band": "JS",
-  "name": "Name Your Nobody",
-  "triggers": [
-   "name your nobody"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094087752958546411"
- },
- {
   "band": "Bongo",
   "name": "The Hungry Drum",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "ship it loud"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108850044883312958"
+ },
+ {
+  "band": "JS",
+  "name": "Name Your Nobody",
+  "triggers": [
+   "name your nobody"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108885265506869587"
  }
 ]
