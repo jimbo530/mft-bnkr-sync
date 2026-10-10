@@ -4587,14 +4587,6 @@
  },
  {
   "band": "MV",
-  "name": "Digerie Dude - Early and Right",
-  "triggers": [
-   "digerie dude - early and right"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102327108378796362"
- },
- {
-  "band": "MV",
   "name": "Seen when it matters",
   "triggers": [
    "seen when it matters"
@@ -7760,5 +7752,13 @@
    "pull up to the space"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108970864733483334"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Early and Right",
+  "triggers": [
+   "digerie dude - early and right"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2109006121327333511"
  }
 ]

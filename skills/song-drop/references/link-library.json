@@ -7451,19 +7451,6 @@
     "caption": "\"Zoom out\" — Digerie Dude\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2102327108378796362",
-    "translation": "Digerie Dude - Early and Right",
-    "name": "Digerie Dude - Early and Right",
-    "triggers": [
-      "digerie dude - early and right"
-    ],
-    "band": "MV",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2102327108378796362",
-    "caption": "\"Digerie Dude - Early and Right\"\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2102332146954162420",
     "translation": "Seen when it matters",
     "name": "Seen when it matters",
@@ -12610,5 +12597,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2108970864733483334",
     "caption": "\"Pull Up to the Space\" — Jony Sings\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2109006121327333511",
+    "translation": "Digerie Dude - Early and Right",
+    "name": "Digerie Dude - Early and Right",
+    "triggers": [
+      "digerie dude - early and right"
+    ],
+    "band": "MV",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2109006121327333511",
+    "caption": "\"Digerie Dude - Early and Right\"\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
