@@ -5314,14 +5314,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2103988028821651827"
  },
  {
-  "band": "CB",
-  "name": "EBM - Getting Based",
-  "triggers": [
-   "ebm - getting based"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2104013178300506481"
- },
- {
   "band": "MV",
   "name": "EBM - Code Not Coal",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "nobody s tree"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108689022885228637"
+ },
+ {
+  "band": "CB",
+  "name": "EBM - Getting Based",
+  "triggers": [
+   "ebm - getting based"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108724212517032367"
  }
 ]

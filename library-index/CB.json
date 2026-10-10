@@ -321,14 +321,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "EBM - Getting Based",
-  "triggers": [
-   "ebm - getting based"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2104013178300506481",
-  "tag": "$MfT"
- },
- {
   "name": "Building for the Bulls",
   "triggers": [
    "building for the bulls"
@@ -502,6 +494,14 @@
    "green it up"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108246047235494149",
+  "tag": "$MfT"
+ },
+ {
+  "name": "EBM - Getting Based",
+  "triggers": [
+   "ebm - getting based"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2108724212517032367",
   "tag": "$MfT"
  }
 ]
