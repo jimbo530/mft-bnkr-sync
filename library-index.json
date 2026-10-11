@@ -4586,14 +4586,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2102478063531344340"
  },
  {
-  "band": "Myco",
-  "name": "Bloom on the Blockchain",
-  "triggers": [
-   "bloom on the blockchain"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102503288335708377"
- },
- {
   "band": "EBM",
   "name": "Drop The Memes",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the mending"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2109172182043553988"
+ },
+ {
+  "band": "Myco",
+  "name": "Bloom on the Blockchain",
+  "triggers": [
+   "bloom on the blockchain"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2109207428436791639"
  }
 ]
