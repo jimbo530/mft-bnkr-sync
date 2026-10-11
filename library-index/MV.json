@@ -432,14 +432,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Forest on Fire   rock",
-  "triggers": [
-   "forest on fire   rock"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099770270001119654",
-  "tag": "$MfT"
- },
- {
   "name": "Digerie Dude Base is for Everyone",
   "triggers": [
    "digerie dude base is for everyone"
@@ -1301,6 +1293,14 @@
    "digerie dude - early and right"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2109006121327333511",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Forest on Fire   rock",
+  "triggers": [
+   "forest on fire   rock"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2109131945191862763",
   "tag": "$MfT"
  }
 ]
