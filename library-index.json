@@ -4770,14 +4770,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2102910939666264119"
  },
  {
-  "band": "JS",
-  "name": "Circulate Good",
-  "triggers": [
-   "circulate good"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102936066223218772"
- },
- {
   "band": "EBM",
   "name": "Ballinmoore Elves",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "morale (da sad ork shanty)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2109086629755285665"
+ },
+ {
+  "band": "JS",
+  "name": "Circulate Good",
+  "triggers": [
+   "circulate good"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2109091633216024744"
  }
 ]
