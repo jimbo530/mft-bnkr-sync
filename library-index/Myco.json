@@ -144,14 +144,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Canopy Drinks the Bass",
-  "triggers": [
-   "the canopy drinks the bass"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094248823187034295",
-  "tag": "$MfT"
- },
- {
   "name": "Underground Choir",
   "triggers": [
    "underground choir"
@@ -861,6 +853,14 @@
    "one act at a time"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108643750272504252",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Canopy Drinks the Bass",
+  "triggers": [
+   "the canopy drinks the bass"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2109167162799603751",
   "tag": "$MfT"
  }
 ]

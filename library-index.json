@@ -1578,14 +1578,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094233718386811012"
  },
  {
-  "band": "Myco",
-  "name": "The Canopy Drinks the Bass",
-  "triggers": [
-   "the canopy drinks the bass"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094248823187034295"
- },
- {
   "band": "EBM",
   "name": "Compost By The Snow",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "forest on fire   rock"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2109131945191862763"
+ },
+ {
+  "band": "Myco",
+  "name": "The Canopy Drinks the Bass",
+  "triggers": [
+   "the canopy drinks the bass"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2109167162799603751"
  }
 ]
