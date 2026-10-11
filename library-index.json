@@ -3714,14 +3714,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100021878471491930"
  },
  {
-  "band": "Myco",
-  "name": "Bull Market Festival",
-  "triggers": [
-   "bull market festival"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100047090223079539"
- },
- {
   "band": "MV",
   "name": "My own Name, - Jasmine",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "bloom on the blockchain"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2109207428436791639"
+ },
+ {
+  "band": "Myco",
+  "name": "Bull Market Festival",
+  "triggers": [
+   "bull market festival"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2109212466940870826"
  }
 ]
