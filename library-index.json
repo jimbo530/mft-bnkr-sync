@@ -1578,14 +1578,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094253836479213836"
  },
  {
-  "band": "SEAS",
-  "name": "Set Sail",
-  "triggers": [
-   "set sail"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094274020359159834"
- },
- {
   "band": "EBM",
   "name": "Feed The People",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "pennies into thunder"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2109247653598925268"
+ },
+ {
+  "band": "SEAS",
+  "name": "Set Sail",
+  "triggers": [
+   "set sail"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2109252725087015340"
  }
 ]
