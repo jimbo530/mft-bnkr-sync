@@ -1951,19 +1951,6 @@
     "caption": "\"EBM - Marc on base burger boys\"\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2093564313625665771",
-    "translation": "Pennies Into Thunder",
-    "name": "Pennies Into Thunder",
-    "triggers": [
-      "pennies into thunder"
-    ],
-    "band": "Strut",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2093564313625665771",
-    "caption": "\"Pennies Into Thunder\" — Miss Strut\nlisten, like, and share to fund forests"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2093569394160922634",
     "translation": "For the Tree and the Bees",
     "name": "For the Tree and the Bees",
@@ -12610,5 +12597,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2109212466940870826",
     "caption": "\"Bull Market Festival\" — Myco\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2109247653598925268",
+    "translation": "Pennies Into Thunder",
+    "name": "Pennies Into Thunder",
+    "triggers": [
+      "pennies into thunder"
+    ],
+    "band": "Strut",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2109247653598925268",
+    "caption": "\"Pennies Into Thunder\" — Miss Strut\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

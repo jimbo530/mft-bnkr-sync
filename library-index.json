@@ -1218,14 +1218,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093544245512556760"
  },
  {
-  "band": "Strut",
-  "name": "Pennies Into Thunder",
-  "triggers": [
-   "pennies into thunder"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093564313625665771"
- },
- {
   "band": "ALAN",
   "name": "For the Tree and the Bees",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "bull market festival"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2109212466940870826"
+ },
+ {
+  "band": "Strut",
+  "name": "Pennies Into Thunder",
+  "triggers": [
+   "pennies into thunder"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2109247653598925268"
  }
 ]
