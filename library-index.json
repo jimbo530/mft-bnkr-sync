@@ -2122,14 +2122,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095547525444866442"
  },
  {
-  "band": "WarMachine",
-  "name": "Morale (Da Sad Ork Shanty)",
-  "triggers": [
-   "morale (da sad ork shanty)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095552568361468405"
- },
- {
   "band": "DGT",
   "name": "Exact Change",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "proof of life jony-natilie"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2109051416618619046"
+ },
+ {
+  "band": "WarMachine",
+  "name": "Morale (Da Sad Ork Shanty)",
+  "triggers": [
+   "morale (da sad ork shanty)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2109086629755285665"
  }
 ]
