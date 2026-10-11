@@ -3370,14 +3370,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2099045482894930156"
  },
  {
-  "band": "Rish",
-  "name": "The Mending",
-  "triggers": [
-   "the mending"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099075679060947332"
- },
- {
   "band": "Myco",
   "name": "- Counted and Kept",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the canopy drinks the bass"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2109167162799603751"
+ },
+ {
+  "band": "Rish",
+  "name": "The Mending",
+  "triggers": [
+   "the mending"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2109172182043553988"
  }
 ]
