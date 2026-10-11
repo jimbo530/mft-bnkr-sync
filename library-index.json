@@ -4530,14 +4530,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2102251605122777130"
  },
  {
-  "band": "JS",
-  "name": "Jony Sings - For the Builders",
-  "triggers": [
-   "jony sings - for the builders"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102256644109349334"
- },
- {
   "band": "MR",
   "name": "Love Is The Power",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "circulate good"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2109091633216024744"
+ },
+ {
+  "band": "JS",
+  "name": "Jony Sings - For the Builders",
+  "triggers": [
+   "jony sings - for the builders"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2109126908214427905"
  }
 ]
