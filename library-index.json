@@ -3338,14 +3338,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2098990120426696800"
  },
  {
-  "band": "DGT",
-  "name": "Second-Line For Your Fear",
-  "triggers": [
-   "second-line for your fear"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099015274687045818"
- },
- {
   "band": "CB",
   "name": "Plant It Loud",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "set sail"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2109252725087015340"
+ },
+ {
+  "band": "DGT",
+  "name": "Second-Line For Your Fear",
+  "triggers": [
+   "second-line for your fear"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2110148652517794255"
  }
 ]
