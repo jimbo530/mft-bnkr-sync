@@ -1594,14 +1594,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094329345108017532"
  },
  {
-  "band": "DD",
-  "name": "Carried by Your Love",
-  "triggers": [
-   "carried by your love"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094354556096299243"
- },
- {
   "band": "JS",
   "name": "I Poured It Tea",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "we will get there"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2110385205156466728"
+ },
+ {
+  "band": "DD",
+  "name": "Carried by Your Love",
+  "triggers": [
+   "carried by your love"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2110390234768720212"
  }
 ]
