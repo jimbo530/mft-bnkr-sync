@@ -5562,14 +5562,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2104974597875450069"
  },
  {
-  "band": "JS",
-  "name": "Proof Of Life",
-  "triggers": [
-   "proof of life"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2104979600946139558"
- },
- {
   "band": "NN",
   "name": "Let the Agent Handle It",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the kindest well"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2110269431716684016"
+ },
+ {
+  "band": "JS",
+  "name": "Proof Of Life",
+  "triggers": [
+   "proof of life"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2110304671143166198"
  }
 ]
