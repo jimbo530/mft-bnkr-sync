@@ -369,14 +369,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "we will get there",
-  "triggers": [
-   "we will get there"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103363919943233726",
-  "tag": "$MfT"
- },
- {
   "name": "For The Builders",
   "triggers": [
    "for the builders"
@@ -766,6 +758,14 @@
    "proof of life"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2110304671143166198",
+  "tag": "$MfT"
+ },
+ {
+  "name": "we will get there",
+  "triggers": [
+   "we will get there"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2110385205156466728",
   "tag": "$MfT"
  }
 ]

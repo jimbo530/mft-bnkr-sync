@@ -4770,14 +4770,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2103338713887482277"
  },
  {
-  "band": "JS",
-  "name": "we will get there",
-  "triggers": [
-   "we will get there"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103363919943233726"
- },
- {
   "band": "MR",
   "name": "Green Hearts vid",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "bring the water"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2110349974311469063"
+ },
+ {
+  "band": "JS",
+  "name": "we will get there",
+  "triggers": [
+   "we will get there"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2110385205156466728"
  }
 ]
