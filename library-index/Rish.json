@@ -57,14 +57,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Let's Grow",
-  "triggers": [
-   "let's grow"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094430080294416749",
-  "tag": "$MfT"
- },
- {
   "name": "The Long Weather",
   "triggers": [
    "the long weather"
@@ -366,6 +358,14 @@
    "the mending"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2109172182043553988",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Let's Grow",
+  "triggers": [
+   "let's grow"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2110188863872266719",
   "tag": "$MfT"
  }
 ]
