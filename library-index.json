@@ -3907,14 +3907,6 @@
  },
  {
   "band": "MV",
-  "name": "Biggins Mcjamin - Math isn't Mathing",
-  "triggers": [
-   "biggins mcjamin - math isn't mathing"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100771863798452473"
- },
- {
-  "band": "MV",
   "name": "Pass it on",
   "triggers": [
    "pass it on"
@@ -7760,5 +7752,13 @@
    "banana a day"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2110430450137145419"
+ },
+ {
+  "band": "MV",
+  "name": "Biggins Mcjamin - Math isn't Mathing",
+  "triggers": [
+   "biggins mcjamin - math isn't mathing"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2110465735625465967"
  }
 ]
