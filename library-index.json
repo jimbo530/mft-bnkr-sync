@@ -4770,14 +4770,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2103207882791555524"
  },
  {
-  "band": "EBM",
-  "name": "Locked Forever",
-  "triggers": [
-   "locked forever"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103258203790196853"
- },
- {
   "band": "MV",
   "name": "nothing without you - Biggins Mcjamin",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "let's grow"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2110188863872266719"
+ },
+ {
+  "band": "EBM",
+  "name": "Locked Forever",
+  "triggers": [
+   "locked forever"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2110224150706999473"
  }
 ]
