@@ -4490,14 +4490,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2102377439674446175"
  },
  {
-  "band": "ALAN",
-  "name": "Here Building Anyway",
-  "triggers": [
-   "here building anyway"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102382463418880420"
- },
- {
   "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “GOLD TO GREEN (O",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "proof of life"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2110304671143166198"
+ },
+ {
+  "band": "ALAN",
+  "name": "Here Building Anyway",
+  "triggers": [
+   "here building anyway"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2110309653338800607"
  }
 ]
