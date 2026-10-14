@@ -2954,14 +2954,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097943198555332690"
  },
  {
-  "band": "NN",
-  "name": "Every Ovation a Tree",
-  "triggers": [
-   "every ovation a tree"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097948244282118530"
- },
- {
   "band": "DGT",
   "name": "Party While You're Here",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "build it anyway"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2110470757167894755"
+ },
+ {
+  "band": "NN",
+  "name": "Every Ovation a Tree",
+  "triggers": [
+   "every ovation a tree"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2110505984053457021"
  }
 ]
