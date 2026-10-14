@@ -4674,14 +4674,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2103187794789056658"
  },
  {
-  "band": "ALAN",
-  "name": "Burgers Feed the People",
-  "triggers": [
-   "burgers feed the people"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103207882791555524"
- },
- {
   "band": "MV",
   "name": "nothing without you - Biggins Mcjamin",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "every ovation a tree"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2110505984053457021"
+ },
+ {
+  "band": "ALAN",
+  "name": "Burgers Feed the People",
+  "triggers": [
+   "burgers feed the people"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2110510984112566416"
  }
 ]
