@@ -4507,14 +4507,6 @@
  },
  {
   "band": "EBM",
-  "name": "You Make The Magic Happen",
-  "triggers": [
-   "you make the magic happen"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102402610477052197"
- },
- {
-  "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “GOLD TO GREEN (O",
   "triggers": [
    "elves of ballinmoore — “gold to green (o"
@@ -7760,5 +7752,13 @@
    "the hearth that tends itself"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2110229167421673533"
+ },
+ {
+  "band": "EBM",
+  "name": "You Make The Magic Happen",
+  "triggers": [
+   "you make the magic happen"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2110264381736898689"
  }
 ]
