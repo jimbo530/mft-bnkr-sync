@@ -1770,14 +1770,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094862922778288172"
  },
  {
-  "band": "CB",
-  "name": "Bring the Water",
-  "triggers": [
-   "bring the water"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094883013196689483"
- },
- {
   "band": "DD",
   "name": "Hands That Lift The Maker",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "here building anyway"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2110309653338800607"
+ },
+ {
+  "band": "CB",
+  "name": "Bring the Water",
+  "triggers": [
+   "bring the water"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2110349974311469063"
  }
 ]
