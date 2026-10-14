@@ -1386,14 +1386,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093911593457209837"
  },
  {
-  "band": "RickyBobbie",
-  "name": "Banana A Day",
-  "triggers": [
-   "banana a day"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093926736866017781"
- },
- {
   "band": "NN",
   "name": "The Price of a Song Darling",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "digerie dude - pulse of the forest (1)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2110425475386401101"
+ },
+ {
+  "band": "RickyBobbie",
+  "name": "Banana A Day",
+  "triggers": [
+   "banana a day"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2110430450137145419"
  }
 ]
