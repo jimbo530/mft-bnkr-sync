@@ -4667,14 +4667,6 @@
  },
  {
   "band": "MV",
-  "name": "Digerie Dude - Pulse of the Forest (1)",
-  "triggers": [
-   "digerie dude - pulse of the forest (1)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103082025427128561"
- },
- {
-  "band": "MV",
   "name": "Digeri Dude - Rabbit Hole",
   "triggers": [
    "digeri dude - rabbit hole"
@@ -7760,5 +7752,13 @@
    "carried by your love"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2110390234768720212"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Pulse of the Forest (1)",
+  "triggers": [
+   "digerie dude - pulse of the forest (1)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2110425475386401101"
  }
 ]
