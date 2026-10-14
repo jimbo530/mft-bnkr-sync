@@ -1506,14 +1506,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094133110505976198"
  },
  {
-  "band": "Rish",
-  "name": "The Hearth That Tends Itself",
-  "triggers": [
-   "the hearth that tends itself"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094153188349812878"
- },
- {
   "band": "Jasmine",
   "name": "It Rides for You",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "locked forever"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2110224150706999473"
+ },
+ {
+  "band": "Rish",
+  "name": "The Hearth That Tends Itself",
+  "triggers": [
+   "the hearth that tends itself"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2110229167421673533"
  }
 ]
