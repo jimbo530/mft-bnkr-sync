@@ -32,14 +32,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Still Building After Dark",
-  "triggers": [
-   "still building after dark"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093705249097654754",
-  "tag": "$MfT"
- },
- {
   "name": "The Lord Who Rules Nobody",
   "triggers": [
    "the lord who rules nobody"
@@ -133,6 +125,14 @@
    "the sounds of the barn yard"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108764514158084369",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Still Building After Dark",
+  "triggers": [
+   "still building after dark"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2110183868754014352",
   "tag": "$MfT"
  }
 ]
