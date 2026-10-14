@@ -297,14 +297,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Build It Anyway",
-  "triggers": [
-   "build it anyway"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101521790820307341",
-  "tag": "$MfT"
- },
- {
   "name": "Nations as One",
   "triggers": [
    "nations as one"
@@ -494,6 +486,14 @@
    "carried by your love"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2110390234768720212",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Build It Anyway",
+  "triggers": [
+   "build it anyway"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2110470757167894755",
   "tag": "$MfT"
  }
 ]

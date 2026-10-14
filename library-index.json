@@ -4146,14 +4146,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101501664427438486"
  },
  {
-  "band": "DD",
-  "name": "Build It Anyway",
-  "triggers": [
-   "build it anyway"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101521790820307341"
- },
- {
   "band": "JS",
   "name": "Songs For The Builders",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "biggins mcjamin - math isn't mathing"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2110465735625465967"
+ },
+ {
+  "band": "DD",
+  "name": "Build It Anyway",
+  "triggers": [
+   "build it anyway"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2110470757167894755"
  }
 ]
