@@ -169,14 +169,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Kindest Well",
-  "triggers": [
-   "the kindest well"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098758606615171183",
-  "tag": "$MfT"
- },
- {
   "name": "Keeper Of The Flame",
   "triggers": [
    "keeper of the flame"
@@ -366,6 +358,14 @@
    "the hearth that tends itself"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2110229167421673533",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Kindest Well",
+  "triggers": [
+   "the kindest well"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2110269431716684016",
   "tag": "$MfT"
  }
 ]

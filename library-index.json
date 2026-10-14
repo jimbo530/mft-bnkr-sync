@@ -3218,14 +3218,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2098733450169577912"
  },
  {
-  "band": "Rish",
-  "name": "The Kindest Well",
-  "triggers": [
-   "the kindest well"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098758606615171183"
- },
- {
   "band": "EBM",
   "name": "Costs You Nothing",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "you make the magic happen"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2110264381736898689"
+ },
+ {
+  "band": "Rish",
+  "name": "The Kindest Well",
+  "triggers": [
+   "the kindest well"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2110269431716684016"
  }
 ]
