@@ -1394,14 +1394,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093946943755911340"
  },
  {
-  "band": "MR",
-  "name": "The Long Rains",
-  "triggers": [
-   "the long rains"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093951865071300998"
- },
- {
   "band": "Myco",
   "name": "- Two Rivers, Many Tools",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "ebm- doubt cant touch us."
   ],
   "xPost": "https://x.com/MemeForTrees/status/2110792844638028096"
+ },
+ {
+  "band": "MR",
+  "name": "The Long Rains",
+  "triggers": [
+   "the long rains"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2110828062451421618"
  }
 ]
