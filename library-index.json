@@ -3106,14 +3106,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2098350959415972012"
  },
  {
-  "band": "Rish",
-  "name": "Round Up the Good Ones",
-  "triggers": [
-   "round up the good ones"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098401256427356260"
- },
- {
   "band": "RickyBobbie",
   "name": "Fastest Word in the Sky",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "move like magic"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2110747585895944311"
+ },
+ {
+  "band": "Rish",
+  "name": "Round Up the Good Ones",
+  "triggers": [
+   "round up the good ones"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2110752610781180200"
  }
 ]
