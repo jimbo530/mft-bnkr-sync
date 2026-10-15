@@ -4282,14 +4282,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2102125806591803485"
  },
  {
-  "band": "JS",
-  "name": "Move Like Magic",
-  "triggers": [
-   "move like magic"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102130811939995784"
- },
- {
   "band": "MV",
   "name": "ballinmorre elves forestkids",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "open the jungle door"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2110712340832198809"
+ },
+ {
+  "band": "JS",
+  "name": "Move Like Magic",
+  "triggers": [
+   "move like magic"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2110747585895944311"
  }
 ]
