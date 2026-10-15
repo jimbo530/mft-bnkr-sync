@@ -2362,14 +2362,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096538981349429714"
  },
  {
-  "band": "EBM",
-  "name": "The First Joke",
-  "triggers": [
-   "the first joke"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096543965226906022"
- },
- {
   "band": "Myco",
   "name": "Roots That Hold",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the wide path"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2110868376146808880"
+ },
+ {
+  "band": "EBM",
+  "name": "The First Joke",
+  "triggers": [
+   "the first joke"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2110873398523916403"
  }
 ]
