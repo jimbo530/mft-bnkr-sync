@@ -1250,14 +1250,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093604619196797226"
  },
  {
-  "band": "NN",
-  "name": "The Club Is Open Darlings",
-  "triggers": [
-   "the club is open darlings"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093609663770075412"
- },
- {
   "band": "MR",
   "name": "Haul the Harvest Home",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "burgers feed the people"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2110510984112566416"
+ },
+ {
+  "band": "NN",
+  "name": "The Club Is Open Darlings",
+  "triggers": [
+   "the club is open darlings"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2110546248977571988"
  }
 ]
