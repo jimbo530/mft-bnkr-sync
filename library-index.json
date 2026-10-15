@@ -1682,14 +1682,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094782389692108801"
  },
  {
-  "band": "MR",
-  "name": "Something Real Beneath Our Feet",
-  "triggers": [
-   "something real beneath our feet"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094787433522962735"
- },
- {
   "band": "DGT",
   "name": "The Trust That Can't Be Repossessed",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "round up the good ones"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2110752610781180200"
+ },
+ {
+  "band": "MR",
+  "name": "Something Real Beneath Our Feet",
+  "triggers": [
+   "something real beneath our feet"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2110787843962400850"
  }
 ]
