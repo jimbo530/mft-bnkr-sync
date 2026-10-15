@@ -5267,19 +5267,6 @@
     "caption": "\"Forward\" — CB\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2098929680183070771",
-    "translation": "Every Land Knows A Tyrant",
-    "name": "Every Land Knows A Tyrant",
-    "triggers": [
-      "every land knows a tyrant"
-    ],
-    "band": "DD",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2098929680183070771",
-    "caption": "\"Every Land Knows A Tyrant\" — Digerie Dude\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2098959876688839072",
     "translation": "A Lord With Manners",
     "name": "A Lord With Manners",
@@ -12610,5 +12597,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2110546248977571988",
     "caption": "\"The Club Is Open Darlings\" — Natilie Nightclub\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2110551250185965900",
+    "translation": "Every Land Knows A Tyrant",
+    "name": "Every Land Knows A Tyrant",
+    "triggers": [
+      "every land knows a tyrant"
+    ],
+    "band": "DD",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2110551250185965900",
+    "caption": "\"Every Land Knows A Tyrant\" — Digerie Dude\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

@@ -3242,14 +3242,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2098899489595539871"
  },
  {
-  "band": "DD",
-  "name": "Every Land Knows A Tyrant",
-  "triggers": [
-   "every land knows a tyrant"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098929680183070771"
- },
- {
   "band": "NN",
   "name": "A Lord With Manners",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the club is open darlings"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2110546248977571988"
+ },
+ {
+  "band": "DD",
+  "name": "Every Land Knows A Tyrant",
+  "triggers": [
+   "every land knows a tyrant"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2110551250185965900"
  }
 ]
