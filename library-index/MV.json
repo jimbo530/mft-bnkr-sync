@@ -664,14 +664,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Work now, dance later - Moon Rasta",
-  "triggers": [
-   "work now, dance later - moon rasta"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102251605122777130",
-  "tag": "$MfT"
- },
- {
   "name": "Seen when it matters",
   "triggers": [
    "seen when it matters"
@@ -1301,6 +1293,14 @@
    "digerie dude - stand through the storm"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2110586522932072856",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Work now, dance later - Moon Rasta",
+  "triggers": [
+   "work now, dance later - moon rasta"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2110591560135946295",
   "tag": "$MfT"
  }
 ]

@@ -4370,14 +4370,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2102231430977744914"
  },
  {
-  "band": "MV",
-  "name": "Work now, dance later - Moon Rasta",
-  "triggers": [
-   "work now, dance later - moon rasta"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102251605122777130"
- },
- {
   "band": "MR",
   "name": "Love Is The Power",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "digerie dude - stand through the storm"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2110586522932072856"
+ },
+ {
+  "band": "MV",
+  "name": "Work now, dance later - Moon Rasta",
+  "triggers": [
+   "work now, dance later - moon rasta"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2110591560135946295"
  }
 ]
