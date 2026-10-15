@@ -1522,14 +1522,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094208591632736518"
  },
  {
-  "band": "NN",
-  "name": "Open The Jungle Door",
-  "triggers": [
-   "open the jungle door"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094228728805048329"
- },
- {
   "band": "Gurdy",
   "name": "Society is a Meme",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "grow something great"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2110672075987771712"
+ },
+ {
+  "band": "NN",
+  "name": "Open The Jungle Door",
+  "triggers": [
+   "open the jungle door"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2110712340832198809"
  }
 ]
