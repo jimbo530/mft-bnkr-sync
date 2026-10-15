@@ -2432,19 +2432,6 @@
     "caption": "\"Hundred Hands\" — Rish\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2094233718386811012",
-    "translation": "Society is a Meme",
-    "name": "Society is a Meme",
-    "triggers": [
-      "society is a meme"
-    ],
-    "band": "Gurdy",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2094233718386811012",
-    "caption": "\"Society is a Meme\" — Gurdy\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2094253836479213836",
     "translation": "Compost By The Snow",
     "name": "Compost By The Snow",
@@ -12610,5 +12597,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2110828062451421618",
     "caption": "\"The Long Rains\" — Moon Rasta\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2110833145553592728",
+    "translation": "Society is a Meme",
+    "name": "Society is a Meme",
+    "triggers": [
+      "society is a meme"
+    ],
+    "band": "Gurdy",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2110833145553592728",
+    "caption": "\"Society is a Meme\" — Gurdy\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

@@ -9,14 +9,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Society is a Meme",
-  "triggers": [
-   "society is a meme"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094233718386811012",
-  "tag": "$MfT"
- },
- {
   "name": "Crank The Wheel (Monkey Town)",
   "triggers": [
    "crank the wheel (monkey town)"
@@ -70,6 +62,14 @@
    "raise the cracks"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2110667059654725939",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Society is a Meme",
+  "triggers": [
+   "society is a meme"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2110833145553592728",
   "tag": "$MfT"
  }
 ]

@@ -1514,14 +1514,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094208591632736518"
  },
  {
-  "band": "Gurdy",
-  "name": "Society is a Meme",
-  "triggers": [
-   "society is a meme"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094233718386811012"
- },
- {
   "band": "EBM",
   "name": "Compost By The Snow",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the long rains"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2110828062451421618"
+ },
+ {
+  "band": "Gurdy",
+  "name": "Society is a Meme",
+  "triggers": [
+   "society is a meme"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2110833145553592728"
  }
 ]
