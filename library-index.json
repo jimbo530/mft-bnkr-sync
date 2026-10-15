@@ -2242,14 +2242,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096186662875173315"
  },
  {
-  "band": "Gurdy",
-  "name": "RAISE THE CRACKS",
-  "triggers": [
-   "raise the cracks"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096211797334261827"
- },
- {
   "band": "MR",
   "name": "First Everybody Builds",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "jony sings decentralize"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2110631828562276648"
+ },
+ {
+  "band": "Gurdy",
+  "name": "RAISE THE CRACKS",
+  "triggers": [
+   "raise the cracks"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2110667059654725939"
  }
 ]
