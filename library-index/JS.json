@@ -305,14 +305,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "jony sings decentralize",
-  "triggers": [
-   "jony sings decentralize"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102155939570761948",
-  "tag": "$MfT"
- },
- {
   "name": "You Can Keep The Crowns",
   "triggers": [
    "you can keep the crowns"
@@ -766,6 +758,14 @@
    "we will get there"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2110385205156466728",
+  "tag": "$MfT"
+ },
+ {
+  "name": "jony sings decentralize",
+  "triggers": [
+   "jony sings decentralize"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2110631828562276648",
   "tag": "$MfT"
  }
 ]

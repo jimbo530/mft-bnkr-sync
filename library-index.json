@@ -4322,14 +4322,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2102150906032644517"
  },
  {
-  "band": "JS",
-  "name": "jony sings decentralize",
-  "triggers": [
-   "jony sings decentralize"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102155939570761948"
- },
- {
   "band": "DD",
   "name": "Nations as One",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "steady as di riddim"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2110626773146714599"
+ },
+ {
+  "band": "JS",
+  "name": "jony sings decentralize",
+  "triggers": [
+   "jony sings decentralize"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2110631828562276648"
  }
 ]
