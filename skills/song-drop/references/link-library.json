@@ -4539,19 +4539,6 @@
     "caption": "\"Vault That Don't Run Dry\" — Elves of Ballinmoore\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2097701640794972279",
-    "translation": "The Wide Path",
-    "name": "The Wide Path",
-    "triggers": [
-      "the wide path"
-    ],
-    "band": "DD",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2097701640794972279",
-    "caption": "\"The Wide Path\" — Digerie Dude\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2097731957698232545",
     "translation": "Plant 'Em Where the Ledger Can't Reach",
     "name": "Plant 'Em Where the Ledger Can't Reach",
@@ -12610,5 +12597,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2110833145553592728",
     "caption": "\"Society is a Meme\" — Gurdy\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2110868376146808880",
+    "translation": "The Wide Path",
+    "name": "The Wide Path",
+    "triggers": [
+      "the wide path"
+    ],
+    "band": "DD",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2110868376146808880",
+    "caption": "\"The Wide Path\" — Digerie Dude\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

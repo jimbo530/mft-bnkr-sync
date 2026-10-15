@@ -145,14 +145,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Wide Path",
-  "triggers": [
-   "the wide path"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097701640794972279",
-  "tag": "$MfT"
- },
- {
   "name": "Carry the Water",
   "triggers": [
    "carry the water"
@@ -494,6 +486,14 @@
    "every land knows a tyrant"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2110551250185965900",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Wide Path",
+  "triggers": [
+   "the wide path"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2110868376146808880",
   "tag": "$MfT"
  }
 ]

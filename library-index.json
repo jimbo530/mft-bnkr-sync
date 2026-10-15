@@ -2794,14 +2794,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097671464887484583"
  },
  {
-  "band": "DD",
-  "name": "The Wide Path",
-  "triggers": [
-   "the wide path"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097701640794972279"
- },
- {
   "band": "DGT",
   "name": "Plant 'Em Where the Ledger Can't Reach",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "society is a meme"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2110833145553592728"
+ },
+ {
+  "band": "DD",
+  "name": "The Wide Path",
+  "triggers": [
+   "the wide path"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2110868376146808880"
  }
 ]
