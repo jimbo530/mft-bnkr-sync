@@ -121,14 +121,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Grow Something Great",
-  "triggers": [
-   "grow something great"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096518806390595622",
-  "tag": "$MfT"
- },
- {
   "name": "Last Call Is a Lie",
   "triggers": [
    "last call is a lie"
@@ -374,6 +366,14 @@
    "the club is open darlings"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2110546248977571988",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Grow Something Great",
+  "triggers": [
+   "grow something great"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2110672075987771712",
   "tag": "$MfT"
  }
 ]

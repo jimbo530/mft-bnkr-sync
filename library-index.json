@@ -2387,14 +2387,6 @@
  },
  {
   "band": "NN",
-  "name": "Grow Something Great",
-  "triggers": [
-   "grow something great"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096518806390595622"
- },
- {
-  "band": "NN",
   "name": "Last Call Is a Lie",
   "triggers": [
    "last call is a lie"
@@ -7760,5 +7752,13 @@
    "raise the cracks"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2110667059654725939"
+ },
+ {
+  "band": "NN",
+  "name": "Grow Something Great",
+  "triggers": [
+   "grow something great"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2110672075987771712"
  }
 ]
