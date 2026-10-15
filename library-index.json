@@ -4786,14 +4786,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2103786699050340419"
  },
  {
-  "band": "MV",
-  "name": "EBM- DOUBT CANT TOUCH US.",
-  "triggers": [
-   "ebm- doubt cant touch us."
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103791691945722233"
- },
- {
   "band": "JS",
   "name": "Build The World Together",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "something real beneath our feet"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2110787843962400850"
+ },
+ {
+  "band": "MV",
+  "name": "EBM- DOUBT CANT TOUCH US.",
+  "triggers": [
+   "ebm- doubt cant touch us."
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2110792844638028096"
  }
 ]
