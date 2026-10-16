@@ -185,14 +185,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "One Piece at a Time",
-  "triggers": [
-   "one piece at a time"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101093969090482425",
-  "tag": "$MfT"
- },
- {
   "name": "Welcome to the Race (HOLM's Reel)",
   "triggers": [
    "welcome to the race (holm's reel)"
@@ -366,6 +358,14 @@
    "round up the good ones"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2110752610781180200",
+  "tag": "$MfT"
+ },
+ {
+  "name": "One Piece at a Time",
+  "triggers": [
+   "one piece at a time"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111155261058544035",
   "tag": "$MfT"
  }
 ]

@@ -3778,14 +3778,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101073844123607125"
  },
  {
-  "band": "Rish",
-  "name": "One Piece at a Time",
-  "triggers": [
-   "one piece at a time"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101093969090482425"
- },
- {
   "band": "CB",
   "name": "EBM - Together we grow CB",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "- the cost of the canopy"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111150233686020152"
+ },
+ {
+  "band": "Rish",
+  "name": "One Piece at a Time",
+  "triggers": [
+   "one piece at a time"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111155261058544035"
  }
 ]
