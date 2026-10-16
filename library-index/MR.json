@@ -25,14 +25,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Haul the Harvest Home",
-  "triggers": [
-   "haul the harvest home"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093624716044984794",
-  "tag": "$MfT"
- },
- {
   "name": "Champion of the Trees",
   "triggers": [
    "champion of the trees"
@@ -438,6 +430,14 @@
    "five hundred homes"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2110989153894633797",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Haul the Harvest Home",
+  "triggers": [
+   "haul the harvest home"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111230764637442172",
   "tag": "$MfT"
  }
 ]

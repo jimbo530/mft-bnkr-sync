@@ -1242,14 +1242,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093604619196797226"
  },
  {
-  "band": "MR",
-  "name": "Haul the Harvest Home",
-  "triggers": [
-   "haul the harvest home"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093624716044984794"
- },
- {
   "band": "JS",
   "name": "Everybody Drinks",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "we saved you a seat"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111195514100207828"
+ },
+ {
+  "band": "MR",
+  "name": "Haul the Harvest Home",
+  "triggers": [
+   "haul the harvest home"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111230764637442172"
  }
 ]
