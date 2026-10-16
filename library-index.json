@@ -3147,14 +3147,6 @@
  },
  {
   "band": "DD",
-  "name": "The Seed In My Pack",
-  "triggers": [
-   "the seed in my pack"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099216633474494506"
- },
- {
-  "band": "DD",
   "name": "Noon Over The New Grove",
   "triggers": [
    "noon over the new grove"
@@ -7760,5 +7752,13 @@
    "one piece at a time"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111155261058544035"
+ },
+ {
+  "band": "DD",
+  "name": "The Seed In My Pack",
+  "triggers": [
+   "the seed in my pack"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111190482109759717"
  }
 ]

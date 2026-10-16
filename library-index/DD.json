@@ -209,14 +209,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Seed In My Pack",
-  "triggers": [
-   "the seed in my pack"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099216633474494506",
-  "tag": "$MfT"
- },
- {
   "name": "Noon Over The New Grove",
   "triggers": [
    "noon over the new grove"
@@ -494,6 +486,14 @@
    "the wide path"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2110868376146808880",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Seed In My Pack",
+  "triggers": [
+   "the seed in my pack"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111190482109759717",
   "tag": "$MfT"
  }
 ]
