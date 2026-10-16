@@ -2434,14 +2434,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096770485908279787"
  },
  {
-  "band": "SEAS",
-  "name": "A Banana A Day",
-  "triggers": [
-   "a banana a day"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096825814280962120"
- },
- {
   "band": "DGT",
   "name": "Somebody Bet On You",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "friday on the green"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2110994197801025909"
+ },
+ {
+  "band": "SEAS",
+  "name": "A Banana A Day",
+  "triggers": [
+   "a banana a day"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111029384484184516"
  }
 ]

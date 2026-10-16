@@ -41,14 +41,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "A Banana A Day",
-  "triggers": [
-   "a banana a day"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096825814280962120",
-  "tag": "$MfT"
- },
- {
   "name": "Stores That Never Empty",
   "triggers": [
    "stores that never empty"
@@ -78,6 +70,14 @@
    "set sail"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2109252725087015340",
+  "tag": "$MfT"
+ },
+ {
+  "name": "A Banana A Day",
+  "triggers": [
+   "a banana a day"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111029384484184516",
   "tag": "$MfT"
  }
 ]

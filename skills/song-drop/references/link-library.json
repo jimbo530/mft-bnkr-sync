@@ -3954,19 +3954,6 @@
     "caption": "\"Plain Language Door\" — Elves of Ballinmoore\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2096825814280962120",
-    "translation": "A Banana A Day",
-    "name": "A Banana A Day",
-    "triggers": [
-      "a banana a day"
-    ],
-    "band": "SEAS",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2096825814280962120",
-    "caption": "\"A Banana A Day\" — Seize the Seas\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2096830946968264836",
     "translation": "Somebody Bet On You",
     "name": "Somebody Bet On You",
@@ -12610,5 +12597,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2110994197801025909",
     "caption": "\"Friday on the Green\" — Jony Sings\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2111029384484184516",
+    "translation": "A Banana A Day",
+    "name": "A Banana A Day",
+    "triggers": [
+      "a banana a day"
+    ],
+    "band": "SEAS",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2111029384484184516",
+    "caption": "\"A Banana A Day\" — Seize the Seas\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
