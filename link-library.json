@@ -3018,19 +3018,6 @@
     "special": true
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2095205162998517818",
-    "translation": "- The Cost of the Canopy",
-    "name": "- The Cost of the Canopy",
-    "triggers": [
-      "- the cost of the canopy"
-    ],
-    "band": "Myco",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2095205162998517818",
-    "caption": "\"- The Cost of the Canopy\" — Myco\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2095230345989808226",
     "translation": "The Forest Waters Itself",
     "name": "The Forest Waters Itself",
@@ -12610,5 +12597,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2111114992191721480",
     "caption": "\"The Architecture of Trust\" — Jony Sings\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2111150233686020152",
+    "translation": "- The Cost of the Canopy",
+    "name": "- The Cost of the Canopy",
+    "triggers": [
+      "- the cost of the canopy"
+    ],
+    "band": "Myco",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2111150233686020152",
+    "caption": "\"- The Cost of the Canopy\" — Myco\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

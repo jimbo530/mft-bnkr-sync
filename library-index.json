@@ -1858,14 +1858,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095190072865817013"
  },
  {
-  "band": "Myco",
-  "name": "- The Cost of the Canopy",
-  "triggers": [
-   "- the cost of the canopy"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095205162998517818"
- },
- {
   "band": "EBM",
   "name": "The Forest Waters Itself",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the architecture of trust"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111114992191721480"
+ },
+ {
+  "band": "Myco",
+  "name": "- The Cost of the Canopy",
+  "triggers": [
+   "- the cost of the canopy"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111150233686020152"
  }
 ]
