@@ -1682,14 +1682,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094827693913043425"
  },
  {
-  "band": "NN",
-  "name": "Darling That s the Magic",
-  "triggers": [
-   "darling that s the magic"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094842786608480309"
- },
- {
   "band": "Bongo",
   "name": "Both Fires",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "she keeps herself flying"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2110913620691370009"
+ },
+ {
+  "band": "NN",
+  "name": "Darling That s the Magic",
+  "triggers": [
+   "darling that s the magic"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2110948899036819917"
  }
 ]
