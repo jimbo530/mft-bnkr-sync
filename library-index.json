@@ -2554,14 +2554,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097324102293856529"
  },
  {
-  "band": "NN",
-  "name": "We Saved You a Seat",
-  "triggers": [
-   "we saved you a seat"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097329192144666636"
- },
- {
   "band": "CB",
   "name": "Green Candle Anthem",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the seed in my pack"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111190482109759717"
+ },
+ {
+  "band": "NN",
+  "name": "We Saved You a Seat",
+  "triggers": [
+   "we saved you a seat"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111195514100207828"
  }
 ]
