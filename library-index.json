@@ -2387,14 +2387,6 @@
  },
  {
   "band": "MR",
-  "name": "Five Hundred Homes",
-  "triggers": [
-   "five hundred homes"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096659722896118233"
- },
- {
-  "band": "MR",
   "name": "It Feeds Its Own Fire",
   "triggers": [
    "it feeds its own fire"
@@ -7760,5 +7752,13 @@
    "it does it for you"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2110953884763963789"
+ },
+ {
+  "band": "MR",
+  "name": "Five Hundred Homes",
+  "triggers": [
+   "five hundred homes"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2110989153894633797"
  }
 ]
