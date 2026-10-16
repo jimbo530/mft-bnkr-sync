@@ -2952,19 +2952,6 @@
     "caption": "\"Crank The Wheel (Monkey Town)\" — Gurdy\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2095089419514450031",
-    "translation": "She Keeps Herself Flying",
-    "name": "She Keeps Herself Flying",
-    "triggers": [
-      "she keeps herself flying"
-    ],
-    "band": "RickyBobbie",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2095089419514450031",
-    "caption": "\"She Keeps Herself Flying\" — Ricky Bobbie\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2095104504840540520",
     "translation": "The Whole Bar Onchain",
     "name": "The Whole Bar Onchain",
@@ -12610,5 +12597,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2110908629645746594",
     "caption": "\"The Price of a Song Darling\" — Natilie Nightclub\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2110913620691370009",
+    "translation": "She Keeps Herself Flying",
+    "name": "She Keeps Herself Flying",
+    "triggers": [
+      "she keeps herself flying"
+    ],
+    "band": "RickyBobbie",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2110913620691370009",
+    "caption": "\"She Keeps Herself Flying\" — Ricky Bobbie\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

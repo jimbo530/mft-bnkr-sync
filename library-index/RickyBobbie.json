@@ -41,14 +41,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "She Keeps Herself Flying",
-  "triggers": [
-   "she keeps herself flying"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095089419514450031",
-  "tag": "$MfT"
- },
- {
   "name": "No Value But Songs We Sing",
   "triggers": [
    "no value but songs we sing"
@@ -102,6 +94,14 @@
    "banana a day"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2110430450137145419",
+  "tag": "$MfT"
+ },
+ {
+  "name": "She Keeps Herself Flying",
+  "triggers": [
+   "she keeps herself flying"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2110913620691370009",
   "tag": "$MfT"
  }
 ]

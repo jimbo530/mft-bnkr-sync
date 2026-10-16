@@ -1834,14 +1834,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095084373255102679"
  },
  {
-  "band": "RickyBobbie",
-  "name": "She Keeps Herself Flying",
-  "triggers": [
-   "she keeps herself flying"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095089419514450031"
- },
- {
   "band": "Rish",
   "name": "The Whole Bar Onchain",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the price of a song darling"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2110908629645746594"
+ },
+ {
+  "band": "RickyBobbie",
+  "name": "She Keeps Herself Flying",
+  "triggers": [
+   "she keeps herself flying"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2110913620691370009"
  }
 ]
