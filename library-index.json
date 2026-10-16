@@ -2474,14 +2474,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096946649507516707"
  },
  {
-  "band": "Myco",
-  "name": "The Vault That Feeds",
-  "triggers": [
-   "the vault that feeds"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096966812793466963"
- },
- {
   "band": "DD",
   "name": "Digerie Dude - Believe in SomeETHing (1)",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "a banana a day"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111029384484184516"
+ },
+ {
+  "band": "Myco",
+  "name": "The Vault That Feeds",
+  "triggers": [
+   "the vault that feeds"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111034421956473016"
  }
 ]
