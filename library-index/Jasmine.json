@@ -33,14 +33,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "It Rides for You",
-  "triggers": [
-   "it rides for you"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094168286187438528",
-  "tag": "$MfT"
- },
- {
   "name": "Glad You're Here",
   "triggers": [
    "glad you're here"
@@ -118,6 +110,14 @@
    "shade i'll never sit in"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2107274705644171621",
+  "tag": "$MfT"
+ },
+ {
+  "name": "It Rides for You",
+  "triggers": [
+   "it rides for you"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111235817288949815",
   "tag": "$MfT"
  }
 ]
