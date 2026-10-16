@@ -1226,14 +1226,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093569394160922634"
  },
  {
-  "band": "JS",
-  "name": "The Architecture of Trust",
-  "triggers": [
-   "the architecture of trust"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093584447236886896"
- },
- {
   "band": "NN",
   "name": "The Velvet Ledger",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "room for everyone"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111109983639097463"
+ },
+ {
+  "band": "JS",
+  "name": "The Architecture of Trust",
+  "triggers": [
+   "the architecture of trust"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111114992191721480"
  }
 ]
