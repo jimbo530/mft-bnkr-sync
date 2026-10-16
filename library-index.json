@@ -1466,14 +1466,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094107894006370641"
  },
  {
-  "band": "CB",
-  "name": "Room For Everyone",
-  "triggers": [
-   "room for everyone"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094133110505976198"
- },
- {
   "band": "Jasmine",
   "name": "It Rides for You",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the stone beneath"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111074722012098984"
+ },
+ {
+  "band": "CB",
+  "name": "Room For Everyone",
+  "triggers": [
+   "room for everyone"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111109983639097463"
  }
 ]
