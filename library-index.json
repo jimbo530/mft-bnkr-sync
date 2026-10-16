@@ -2114,14 +2114,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095975287183876244"
  },
  {
-  "band": "JS",
-  "name": "Friday on the Green",
-  "triggers": [
-   "friday on the green"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095990317266731389"
- },
- {
   "band": "Bongo",
   "name": "What's Over There On Base",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "five hundred homes"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2110989153894633797"
+ },
+ {
+  "band": "JS",
+  "name": "Friday on the Green",
+  "triggers": [
+   "friday on the green"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2110994197801025909"
  }
 ]
