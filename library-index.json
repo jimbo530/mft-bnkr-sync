@@ -2434,14 +2434,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097117787822932291"
  },
  {
-  "band": "JS",
-  "name": "Everybody Plants",
-  "triggers": [
-   "everybody plants"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097122811525447799"
- },
- {
   "band": "NN",
   "name": "Just Ask Darling",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the good word"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111351500073013388"
+ },
+ {
+  "band": "JS",
+  "name": "Everybody Plants",
+  "triggers": [
+   "everybody plants"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111356572257374507"
  }
 ]

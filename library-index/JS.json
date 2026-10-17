@@ -129,14 +129,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Everybody Plants",
-  "triggers": [
-   "everybody plants"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097122811525447799",
-  "tag": "$MfT"
- },
- {
   "name": "Nobody At the Back",
   "triggers": [
    "nobody at the back"
@@ -766,6 +758,14 @@
    "the architecture of trust"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111114992191721480",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Everybody Plants",
+  "triggers": [
+   "everybody plants"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111356572257374507",
   "tag": "$MfT"
  }
 ]
