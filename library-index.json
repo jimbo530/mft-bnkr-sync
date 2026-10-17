@@ -2442,14 +2442,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097178133237522835"
  },
  {
-  "band": "Rish",
-  "name": "Will Ye March",
-  "triggers": [
-   "will ye march"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097183230268997696"
- },
- {
   "band": "Strut",
   "name": "We Make Things Work",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "fastest word in the sky"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111437059281830310"
+ },
+ {
+  "band": "Rish",
+  "name": "Will Ye March",
+  "triggers": [
+   "will ye march"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111472356396876046"
  }
 ]
