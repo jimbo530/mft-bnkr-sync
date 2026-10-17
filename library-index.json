@@ -2003,14 +2003,6 @@
  },
  {
   "band": "Bongo",
-  "name": "Meme For Trees",
-  "triggers": [
-   "meme for trees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095899760351695246"
- },
- {
-  "band": "Bongo",
   "name": "Catch the Song, Pass the Song",
   "triggers": [
    "catch the song, pass the song"
@@ -7760,5 +7752,13 @@
    "it feeds its own fire"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111557858252734831"
+ },
+ {
+  "band": "Bongo",
+  "name": "Meme For Trees",
+  "triggers": [
+   "meme for trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111593083024412909"
  }
 ]

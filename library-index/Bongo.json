@@ -153,14 +153,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Meme For Trees",
-  "triggers": [
-   "meme for trees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095899760351695246",
-  "tag": "$MfT"
- },
- {
   "name": "Catch the Song, Pass the Song",
   "triggers": [
    "catch the song, pass the song"
@@ -366,6 +358,14 @@
    "the famitree"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111271012062937519",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Meme For Trees",
+  "triggers": [
+   "meme for trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111593083024412909",
   "tag": "$MfT"
  }
 ]
