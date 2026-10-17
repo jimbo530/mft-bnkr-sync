@@ -1386,14 +1386,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093992161167413500"
  },
  {
-  "band": "EBM",
-  "name": "No Gate",
-  "triggers": [
-   "no gate"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094007259030270313"
- },
- {
   "band": "Bongo",
   "name": "For MemeForTrees — 0fcd",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "meme to a mangrove"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111512602534621683"
+ },
+ {
+  "band": "EBM",
+  "name": "No Gate",
+  "triggers": [
+   "no gate"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111517624869777754"
  }
 ]
