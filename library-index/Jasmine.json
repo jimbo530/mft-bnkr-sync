@@ -49,14 +49,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Back A Friend's Dream",
-  "triggers": [
-   "back a friend's dream"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097852632752652343",
-  "tag": "$MfT"
- },
- {
   "name": "A Banana a Day (Monkey Town)",
   "triggers": [
    "a banana a day (monkey town)"
@@ -118,6 +110,14 @@
    "it rides for you"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111235817288949815",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Back A Friend's Dream",
+  "triggers": [
+   "back a friend's dream"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111477393370017877",
   "tag": "$MfT"
  }
 ]
