@@ -97,14 +97,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Setups in Disguise",
-  "triggers": [
-   "setups in disguise"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095169896405496159",
-  "tag": "$MfT"
- },
- {
   "name": "Will Ye Prompt It",
   "triggers": [
    "will ye prompt it"
@@ -366,6 +358,14 @@
    "one piece at a time"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111155261058544035",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Setups in Disguise",
+  "triggers": [
+   "setups in disguise"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111276043373859255",
   "tag": "$MfT"
  }
 ]

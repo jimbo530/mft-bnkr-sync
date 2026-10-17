@@ -1818,14 +1818,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095149846554423658"
  },
  {
-  "band": "Rish",
-  "name": "Setups in Disguise",
-  "triggers": [
-   "setups in disguise"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095169896405496159"
- },
- {
   "band": "MR",
   "name": "Everybody in the Circle",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the famitree"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111271012062937519"
+ },
+ {
+  "band": "Rish",
+  "name": "Setups in Disguise",
+  "triggers": [
+   "setups in disguise"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111276043373859255"
  }
 ]
