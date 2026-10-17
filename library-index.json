@@ -1658,14 +1658,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094908213929861134"
  },
  {
-  "band": "Myco",
-  "name": "Underground Choir",
-  "triggers": [
-   "underground choir"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094928352826007857"
- },
- {
   "band": "Bongo",
   "name": "What Is Happening (Welcome, Friend)",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "meme for trees"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111593083024412909"
+ },
+ {
+  "band": "Myco",
+  "name": "Underground Choir",
+  "triggers": [
+   "underground choir"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111598163123458466"
  }
 ]

@@ -144,14 +144,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Underground Choir",
-  "triggers": [
-   "underground choir"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094928352826007857",
-  "tag": "$MfT"
- },
- {
   "name": "- Every Day Above the Dark",
   "triggers": [
    "- every day above the dark"
@@ -861,6 +853,14 @@
    "- the cost of the canopy"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111150233686020152",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Underground Choir",
+  "triggers": [
+   "underground choir"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111598163123458466",
   "tag": "$MfT"
  }
 ]
