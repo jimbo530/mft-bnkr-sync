@@ -2882,14 +2882,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2098350959415972012"
  },
  {
-  "band": "RickyBobbie",
-  "name": "Fastest Word in the Sky",
-  "triggers": [
-   "fastest word in the sky"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098491850432635087"
- },
- {
   "band": "DD",
   "name": "The Giving Floor",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "name it and it's made"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111396850771132504"
+ },
+ {
+  "band": "RickyBobbie",
+  "name": "Fastest Word in the Sky",
+  "triggers": [
+   "fastest word in the sky"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111437059281830310"
  }
 ]
