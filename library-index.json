@@ -1458,14 +1458,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094253836479213836"
  },
  {
-  "band": "EBM",
-  "name": "Feed The People",
-  "triggers": [
-   "feed the people"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094294106797183241"
- },
- {
   "band": "NN",
   "name": "Little Meme Little Tree",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "no gate"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111517624869777754"
+ },
+ {
+  "band": "EBM",
+  "name": "Feed The People",
+  "triggers": [
+   "feed the people"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111552818809122841"
  }
 ]

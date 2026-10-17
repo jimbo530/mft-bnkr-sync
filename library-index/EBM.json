@@ -158,14 +158,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Feed The People",
-  "triggers": [
-   "feed the people"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094294106797183241",
-  "tag": "$MfT"
- },
- {
   "name": "Name It Once",
   "triggers": [
    "name it once"
@@ -859,6 +851,14 @@
    "no gate"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111517624869777754",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Feed The People",
+  "triggers": [
+   "feed the people"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111552818809122841",
   "tag": "$MfT"
  }
 ]
