@@ -2274,14 +2274,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096589323353088097"
  },
  {
-  "band": "DD",
-  "name": "Meme to a Mangrove",
-  "triggers": [
-   "meme to a mangrove"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096594342316024156"
- },
- {
   "band": "Myco",
   "name": "- Mycelium Never Empties",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "back a friend's dream"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111477393370017877"
+ },
+ {
+  "band": "DD",
+  "name": "Meme to a Mangrove",
+  "triggers": [
+   "meme to a mangrove"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111512602534621683"
  }
 ]
