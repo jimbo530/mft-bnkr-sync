@@ -9,14 +9,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Quick Word, Quick Run",
-  "triggers": [
-   "quick word, quick run"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094067624355197267",
-  "tag": "$MfT"
- },
- {
   "name": "Quick Off the Line",
   "triggers": [
    "quick off the line"
@@ -102,6 +94,14 @@
    "she keeps herself flying"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2110913620691370009",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Quick Word, Quick Run",
+  "triggers": [
+   "quick word, quick run"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111311275812630768",
   "tag": "$MfT"
  }
 ]

@@ -1418,14 +1418,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094052563893031093"
  },
  {
-  "band": "RickyBobbie",
-  "name": "Quick Word, Quick Run",
-  "triggers": [
-   "quick word, quick run"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094067624355197267"
- },
- {
   "band": "DD",
   "name": "The Roads Never End",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "setups in disguise"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111276043373859255"
+ },
+ {
+  "band": "RickyBobbie",
+  "name": "Quick Word, Quick Run",
+  "triggers": [
+   "quick word, quick run"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111311275812630768"
  }
 ]
