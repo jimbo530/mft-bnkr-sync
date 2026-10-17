@@ -1682,14 +1682,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094928352826007857"
  },
  {
-  "band": "EBM",
-  "name": "Ten Years Deep",
-  "triggers": [
-   "ten years deep"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094943409861480478"
- },
- {
   "band": "Bongo",
   "name": "What Is Happening (Welcome, Friend)",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "quick word, quick run"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111311275812630768"
+ },
+ {
+  "band": "EBM",
+  "name": "Ten Years Deep",
+  "triggers": [
+   "ten years deep"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111316312123117681"
  }
 ]
