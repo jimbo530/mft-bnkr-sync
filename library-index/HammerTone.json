@@ -49,14 +49,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Name It and It's Made",
-  "triggers": [
-   "name it and it's made"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097505298973868244",
-  "tag": "$MfT"
- },
- {
   "name": "The Guild That Raises You",
   "triggers": [
    "the guild that raises you"
@@ -134,6 +126,14 @@
    "the stone beneath"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111074722012098984",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Name It and It's Made",
+  "triggers": [
+   "name it and it's made"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111396850771132504",
   "tag": "$MfT"
  }
 ]
