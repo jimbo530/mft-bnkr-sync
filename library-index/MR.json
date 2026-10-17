@@ -97,14 +97,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "It Feeds Its Own Fire",
-  "triggers": [
-   "it feeds its own fire"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096664801615163803",
-  "tag": "$MfT"
- },
- {
   "name": "Everybody s Welcome",
   "triggers": [
    "everybody s welcome"
@@ -438,6 +430,14 @@
    "haul the harvest home"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111230764637442172",
+  "tag": "$MfT"
+ },
+ {
+  "name": "It Feeds Its Own Fire",
+  "triggers": [
+   "it feeds its own fire"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111557858252734831",
   "tag": "$MfT"
  }
 ]

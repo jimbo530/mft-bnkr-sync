@@ -2274,14 +2274,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096634562218483896"
  },
  {
-  "band": "MR",
-  "name": "It Feeds Its Own Fire",
-  "triggers": [
-   "it feeds its own fire"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096664801615163803"
- },
- {
   "band": "Strut",
   "name": "Put On A Show",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "feed the people"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111552818809122841"
+ },
+ {
+  "band": "MR",
+  "name": "It Feeds Its Own Fire",
+  "triggers": [
+   "it feeds its own fire"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111557858252734831"
  }
 ]
