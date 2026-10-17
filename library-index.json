@@ -2786,14 +2786,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2098124400528638120"
  },
  {
-  "band": "EBM",
-  "name": "Witness In The Timber",
-  "triggers": [
-   "witness in the timber"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098129390664052829"
- },
- {
   "band": "Myco",
   "name": "Everything Came Up",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "everybody plants"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111356572257374507"
+ },
+ {
+  "band": "EBM",
+  "name": "Witness In The Timber",
+  "triggers": [
+   "witness in the timber"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111391797708554441"
  }
 ]

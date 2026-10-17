@@ -286,14 +286,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Witness In The Timber",
-  "triggers": [
-   "witness in the timber"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098129390664052829",
-  "tag": "$MfT"
- },
- {
   "name": "The Garden Watch",
   "triggers": [
    "the garden watch"
@@ -859,6 +851,14 @@
    "the good word"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111351500073013388",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Witness In The Timber",
+  "triggers": [
+   "witness in the timber"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111391797708554441",
   "tag": "$MfT"
  }
 ]
