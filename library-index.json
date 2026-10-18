@@ -2106,14 +2106,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096367860310331840"
  },
  {
-  "band": "NN",
-  "name": "Hoodies Keep Me Warm",
-  "triggers": [
-   "hoodies keep me warm"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096387938871341397"
- },
- {
   "band": "CB",
   "name": "Everyone Onchain By Friday",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the town that grew a monkey"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111839774361153962"
+ },
+ {
+  "band": "NN",
+  "name": "Hoodies Keep Me Warm",
+  "triggers": [
+   "hoodies keep me warm"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111874985409040601"
  }
 ]
