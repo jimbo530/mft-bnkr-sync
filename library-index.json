@@ -1874,14 +1874,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095597866366439617"
  },
  {
-  "band": "WarMachine",
-  "name": "Smash Da Ants",
-  "triggers": [
-   "smash da ants"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095623012301029761"
- },
- {
   "band": "MR",
   "name": "The Heaviest End",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "hundred hands"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111879978295894405"
+ },
+ {
+  "band": "WarMachine",
+  "name": "Smash Da Ants",
+  "triggers": [
+   "smash da ants"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111915242435330160"
  }
 ]

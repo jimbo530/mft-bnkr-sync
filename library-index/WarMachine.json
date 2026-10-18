@@ -25,14 +25,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Smash Da Ants",
-  "triggers": [
-   "smash da ants"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095623012301029761",
-  "tag": "$MfT"
- },
- {
   "name": "An Army Behind You",
   "triggers": [
    "an army behind you"
@@ -158,6 +150,14 @@
    "morale (da sad ork shanty)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2109086629755285665",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Smash Da Ants",
+  "triggers": [
+   "smash da ants"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111915242435330160",
   "tag": "$MfT"
  }
 ]
