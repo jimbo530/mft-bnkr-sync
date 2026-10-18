@@ -1394,14 +1394,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094047514940854367"
  },
  {
-  "band": "Rish",
-  "name": "The Good Way (We Grow Every Day)",
-  "triggers": [
-   "the good way (we grow every day)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094052563893031093"
- },
- {
   "band": "DD",
   "name": "The Roads Never End",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "smash da ants"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111915242435330160"
+ },
+ {
+  "band": "Rish",
+  "name": "The Good Way (We Grow Every Day)",
+  "triggers": [
+   "the good way (we grow every day)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111920288510193806"
  }
 ]

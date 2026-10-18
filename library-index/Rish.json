@@ -17,14 +17,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Good Way (We Grow Every Day)",
-  "triggers": [
-   "the good way (we grow every day)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094052563893031093",
-  "tag": "$MfT"
- },
- {
   "name": "The Love You Give",
   "triggers": [
    "the love you give"
@@ -366,6 +358,14 @@
    "hundred hands"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111879978295894405",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Good Way (We Grow Every Day)",
+  "triggers": [
+   "the good way (we grow every day)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111920288510193806",
   "tag": "$MfT"
  }
 ]
