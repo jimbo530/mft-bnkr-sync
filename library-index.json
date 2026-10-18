@@ -1930,14 +1930,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095658123243458922"
  },
  {
-  "band": "NN",
-  "name": "One Clean Drop",
-  "triggers": [
-   "one clean drop"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095663197495685294"
- },
- {
   "band": "SEAS",
   "name": "Pull for the Horizon",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "underground choir"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111598163123458466"
+ },
+ {
+  "band": "NN",
+  "name": "One Clean Drop",
+  "triggers": [
+   "one clean drop"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111633352142868639"
  }
 ]

@@ -57,14 +57,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "One Clean Drop",
-  "triggers": [
-   "one clean drop"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095663197495685294",
-  "tag": "$MfT"
- },
- {
   "name": "The Path to Personal Shows",
   "triggers": [
    "the path to personal shows"
@@ -374,6 +366,14 @@
    "we saved you a seat"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111195514100207828",
+  "tag": "$MfT"
+ },
+ {
+  "name": "One Clean Drop",
+  "triggers": [
+   "one clean drop"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111633352142868639",
   "tag": "$MfT"
  }
 ]
