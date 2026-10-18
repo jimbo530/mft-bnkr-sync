@@ -1378,14 +1378,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093967005787291879"
  },
  {
-  "band": "Rish",
-  "name": "Plant It Brave",
-  "triggers": [
-   "plant it brave"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093992161167413500"
- },
- {
   "band": "Bongo",
   "name": "For MemeForTrees — 0fcd",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "- counted and kept"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111638438587871569"
+ },
+ {
+  "band": "Rish",
+  "name": "Plant It Brave",
+  "triggers": [
+   "plant it brave"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111673655029616752"
  }
 ]

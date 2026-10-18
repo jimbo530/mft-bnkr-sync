@@ -17,14 +17,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Plant It Brave",
-  "triggers": [
-   "plant it brave"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093992161167413500",
-  "tag": "$MfT"
- },
- {
   "name": "The Good Way (We Grow Every Day)",
   "triggers": [
    "the good way (we grow every day)"
@@ -366,6 +358,14 @@
    "will ye march"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111472356396876046",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Plant It Brave",
+  "triggers": [
+   "plant it brave"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111673655029616752",
   "tag": "$MfT"
  }
 ]
