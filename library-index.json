@@ -2010,14 +2010,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096040733740253616"
  },
  {
-  "band": "SEAS",
-  "name": "A Captain, Not A King",
-  "triggers": [
-   "a captain, not a king"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096065857470251437"
- },
- {
   "band": "CB",
   "name": "Proof of Function",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "what is happening (welcome, friend)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111754141584282027"
+ },
+ {
+  "band": "SEAS",
+  "name": "A Captain, Not A King",
+  "triggers": [
+   "a captain, not a king"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111759216956313700"
  }
 ]
