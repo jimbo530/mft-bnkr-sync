@@ -1434,14 +1434,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094193446462374315"
  },
  {
-  "band": "Rish",
-  "name": "Hundred Hands",
-  "triggers": [
-   "hundred hands"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094208591632736518"
- },
- {
   "band": "EBM",
   "name": "Compost By The Snow",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "hoodies keep me warm"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111874985409040601"
+ },
+ {
+  "band": "Rish",
+  "name": "Hundred Hands",
+  "triggers": [
+   "hundred hands"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111879978295894405"
  }
 ]

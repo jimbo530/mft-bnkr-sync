@@ -33,14 +33,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Hundred Hands",
-  "triggers": [
-   "hundred hands"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094208591632736518",
-  "tag": "$MfT"
- },
- {
   "name": "The Long Weather",
   "triggers": [
    "the long weather"
@@ -366,6 +358,14 @@
    "plant it brave"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111673655029616752",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Hundred Hands",
+  "triggers": [
+   "hundred hands"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111879978295894405",
   "tag": "$MfT"
  }
 ]
