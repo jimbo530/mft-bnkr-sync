@@ -3002,14 +3002,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2099357501460205850"
  },
  {
-  "band": "JS",
-  "name": "First Seat",
-  "triggers": [
-   "first seat"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099382667997303120"
- },
- {
   "band": "Bongo",
   "name": "One Brick",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "party while you're here"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111678734033949028"
+ },
+ {
+  "band": "JS",
+  "name": "First Seat",
+  "triggers": [
+   "first seat"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111713919127425389"
  }
 ]
