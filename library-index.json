@@ -1650,14 +1650,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094908213929861134"
  },
  {
-  "band": "Bongo",
-  "name": "What Is Happening (Welcome, Friend)",
-  "triggers": [
-   "what is happening (welcome, friend)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094948437472973073"
- },
- {
   "band": "DD",
   "name": "One Long Breath",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "just got out"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111718979056091205"
+ },
+ {
+  "band": "Bongo",
+  "name": "What Is Happening (Welcome, Friend)",
+  "triggers": [
+   "what is happening (welcome, friend)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111754141584282027"
  }
 ]
