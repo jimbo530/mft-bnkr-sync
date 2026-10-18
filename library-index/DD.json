@@ -129,14 +129,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Carry the Water",
-  "triggers": [
-   "carry the water"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098033828430266861",
-  "tag": "$MfT"
- },
- {
   "name": "Every Land Pays In",
   "triggers": [
    "every land pays in"
@@ -494,6 +486,14 @@
    "the town that grew a monkey"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111839774361153962",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Carry the Water",
+  "triggers": [
+   "carry the water"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111955512535228491",
   "tag": "$MfT"
  }
 ]

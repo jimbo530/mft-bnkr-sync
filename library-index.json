@@ -2570,14 +2570,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2098008640581996797"
  },
  {
-  "band": "DD",
-  "name": "Carry the Water",
-  "triggers": [
-   "carry the water"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098033828430266861"
- },
- {
   "band": "HammerTone",
   "name": "The Guild That Raises You",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the good way (we grow every day)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111920288510193806"
+ },
+ {
+  "band": "DD",
+  "name": "Carry the Water",
+  "triggers": [
+   "carry the water"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111955512535228491"
  }
 ]
