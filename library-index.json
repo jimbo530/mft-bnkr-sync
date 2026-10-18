@@ -1954,14 +1954,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095819206633607393"
  },
  {
-  "band": "MR",
-  "name": "The Ground We Stand On",
-  "triggers": [
-   "the ground we stand on"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095849424656150968"
- },
- {
   "band": "Bongo",
   "name": "Catch the Song, Pass the Song",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "a captain, not a king"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111759216956313700"
+ },
+ {
+  "band": "MR",
+  "name": "The Ground We Stand On",
+  "triggers": [
+   "the ground we stand on"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111799527640285238"
  }
 ]
