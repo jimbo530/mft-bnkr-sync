@@ -288,14 +288,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "- Fruiting Bodies",
-  "triggers": [
-   "- fruiting bodies"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099357501460205850",
-  "tag": "$MfT"
- },
- {
   "name": "Crypto Spring",
   "triggers": [
    "crypto spring"
@@ -861,6 +853,14 @@
    "- counted and kept"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111638438587871569",
+  "tag": "$MfT"
+ },
+ {
+  "name": "- Fruiting Bodies",
+  "triggers": [
+   "- fruiting bodies"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111834710368264556",
   "tag": "$MfT"
  }
 ]
