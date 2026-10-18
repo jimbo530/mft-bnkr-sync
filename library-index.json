@@ -2626,14 +2626,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097943198555332690"
  },
  {
-  "band": "DGT",
-  "name": "Party While You're Here",
-  "triggers": [
-   "party while you're here"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097973497418875033"
- },
- {
   "band": "Bongo",
   "name": "Always GM on Robinhood Chain",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "plant it brave"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111673655029616752"
+ },
+ {
+  "band": "DGT",
+  "name": "Party While You're Here",
+  "triggers": [
+   "party while you're here"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111678734033949028"
  }
 ]
