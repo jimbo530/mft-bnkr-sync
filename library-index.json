@@ -1762,14 +1762,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095129634853560830"
  },
  {
-  "band": "DGT",
-  "name": "Just Got Out",
-  "triggers": [
-   "just got out"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095149846554423658"
- },
- {
   "band": "MR",
   "name": "Everybody in the Circle",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "first seat"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111713919127425389"
+ },
+ {
+  "band": "DGT",
+  "name": "Just Got Out",
+  "triggers": [
+   "just got out"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111718979056091205"
  }
 ]
