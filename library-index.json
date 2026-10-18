@@ -2986,14 +2986,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2099558861099208955"
  },
  {
-  "band": "PW",
-  "name": "The Meme Lord's Fanfare",
-  "triggers": [
-   "the meme lord's fanfare"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099578959511933353"
- },
- {
   "band": "Myco",
   "name": "Crypto Spring",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "carry the water"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111955512535228491"
+ },
+ {
+  "band": "PW",
+  "name": "The Meme Lord's Fanfare",
+  "triggers": [
+   "the meme lord's fanfare"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111960508328722606"
  }
 ]
