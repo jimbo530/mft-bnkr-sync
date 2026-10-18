@@ -2091,14 +2091,6 @@
  },
  {
   "band": "DD",
-  "name": "The Town That Grew A Monkey",
-  "triggers": [
-   "the town that grew a monkey"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096342701050335705"
- },
- {
-  "band": "DD",
   "name": "The Sun Comes Back",
   "triggers": [
    "the sun comes back"
@@ -7760,5 +7752,13 @@
    "- fruiting bodies"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111834710368264556"
+ },
+ {
+  "band": "DD",
+  "name": "The Town That Grew A Monkey",
+  "triggers": [
+   "the town that grew a monkey"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111839774361153962"
  }
 ]

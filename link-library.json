@@ -3395,19 +3395,6 @@
     "caption": "\"Ko Came Early\" — Jony Sings\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2096342701050335705",
-    "translation": "The Town That Grew A Monkey",
-    "name": "The Town That Grew A Monkey",
-    "triggers": [
-      "the town that grew a monkey"
-    ],
-    "band": "DD",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2096342701050335705",
-    "caption": "\"The Town That Grew A Monkey\" — Digerie Dude\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2096362823316132023",
     "translation": "The Sun Comes Back",
     "name": "The Sun Comes Back",
@@ -12610,5 +12597,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2111834710368264556",
     "caption": "\"- Fruiting Bodies\" — Myco\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2111839774361153962",
+    "translation": "The Town That Grew A Monkey",
+    "name": "The Town That Grew A Monkey",
+    "triggers": [
+      "the town that grew a monkey"
+    ],
+    "band": "DD",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2111839774361153962",
+    "caption": "\"The Town That Grew A Monkey\" — Digerie Dude\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
