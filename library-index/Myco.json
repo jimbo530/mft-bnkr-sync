@@ -256,14 +256,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "- Spores Don't Read The Chart",
-  "triggers": [
-   "- spores don't read the chart"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098194893092909499",
-  "tag": "$MfT"
- },
- {
   "name": "- Spark In The Soil",
   "triggers": [
    "- spark in the soil"
@@ -861,6 +853,14 @@
    "- fruiting bodies"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111834710368264556",
+  "tag": "$MfT"
+ },
+ {
+  "name": "- Spores Don't Read The Chart",
+  "triggers": [
+   "- spores don't read the chart"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112076399720763864",
   "tag": "$MfT"
  }
 ]

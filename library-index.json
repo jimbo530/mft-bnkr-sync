@@ -2610,14 +2610,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2098169727411462289"
  },
  {
-  "band": "Myco",
-  "name": "- Spores Don't Read The Chart",
-  "triggers": [
-   "- spores don't read the chart"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098194893092909499"
- },
- {
   "band": "MR",
   "name": "Someone Bet On The Seed",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the whole bar onchain"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112041025627701652"
+ },
+ {
+  "band": "Myco",
+  "name": "- Spores Don't Read The Chart",
+  "triggers": [
+   "- spores don't read the chart"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112076399720763864"
  }
 ]
