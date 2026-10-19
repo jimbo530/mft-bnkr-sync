@@ -17,14 +17,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "I Saw You First",
-  "triggers": [
-   "i saw you first"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093826076216631350",
-  "tag": "$MfT"
- },
- {
   "name": "Little Meme Little Tree",
   "triggers": [
    "little meme little tree"
@@ -374,6 +366,14 @@
    "last call is a lie"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112036055083819037",
+  "tag": "$MfT"
+ },
+ {
+  "name": "I Saw You First",
+  "triggers": [
+   "i saw you first"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112202125715382676",
   "tag": "$MfT"
  }
 ]

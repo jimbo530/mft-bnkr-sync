@@ -1314,14 +1314,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093805938532614152"
  },
  {
-  "band": "NN",
-  "name": "I Saw You First",
-  "triggers": [
-   "i saw you first"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093826076216631350"
- },
- {
   "band": "SEAS",
   "name": "Feed Your Crew",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "water is life"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112197093754298424"
+ },
+ {
+  "band": "NN",
+  "name": "I Saw You First",
+  "triggers": [
+   "i saw you first"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112202125715382676"
  }
 ]
