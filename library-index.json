@@ -2402,14 +2402,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097792233449591288"
  },
  {
-  "band": "DGT",
-  "name": "Open The Gates (Monkey Town Tonight)",
-  "triggers": [
-   "open the gates (monkey town tonight)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097822532405461299"
- },
- {
   "band": "Jasmine",
   "name": "A Banana a Day (Monkey Town)",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "digerie dude - believe in someething (1)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112317895350816772"
+ },
+ {
+  "band": "DGT",
+  "name": "Open The Gates (Monkey Town Tonight)",
+  "triggers": [
+   "open the gates (monkey town tonight)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112322964997693891"
  }
 ]

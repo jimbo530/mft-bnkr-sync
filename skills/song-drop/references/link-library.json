@@ -3902,19 +3902,6 @@
     "caption": "\"Light The Spark\" — CB\ngood tunes, real forests"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2097822532405461299",
-    "translation": "Open The Gates (Monkey Town Tonight)",
-    "name": "Open The Gates (Monkey Town Tonight)",
-    "triggers": [
-      "open the gates (monkey town tonight)"
-    ],
-    "band": "DGT",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2097822532405461299",
-    "caption": "\"Open The Gates (Monkey Town Tonight)\" — Damned Good Time Orchestra\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2097857657428226137",
     "translation": "A Banana a Day (Monkey Town)",
     "name": "A Banana a Day (Monkey Town)",
@@ -12610,5 +12597,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2112317895350816772",
     "caption": "\"Digerie Dude - Believe in SomeETHing (1)\" — Digerie Dude\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2112322964997693891",
+    "translation": "Open The Gates (Monkey Town Tonight)",
+    "name": "Open The Gates (Monkey Town Tonight)",
+    "triggers": [
+      "open the gates (monkey town tonight)"
+    ],
+    "band": "DGT",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2112322964997693891",
+    "caption": "\"Open The Gates (Monkey Town Tonight)\" — Damned Good Time Orchestra\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
