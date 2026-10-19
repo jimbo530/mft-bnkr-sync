@@ -1354,14 +1354,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094012255721406889"
  },
  {
-  "band": "DGT",
-  "name": "Requests at Last Call",
-  "triggers": [
-   "requests at last call"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094047514940854367"
- },
- {
   "band": "DD",
   "name": "The Roads Never End",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "i saw you first"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112202125715382676"
+ },
+ {
+  "band": "DGT",
+  "name": "Requests at Last Call",
+  "triggers": [
+   "requests at last call"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112237343138562445"
  }
 ]

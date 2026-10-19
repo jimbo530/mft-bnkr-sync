@@ -65,14 +65,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Requests at Last Call",
-  "triggers": [
-   "requests at last call"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094047514940854367",
-  "tag": "$MfT"
- },
- {
   "name": "The Trust That Can't Be Repossessed",
   "triggers": [
    "the trust that can't be repossessed"
@@ -246,6 +238,14 @@
    "just got out"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111718979056091205",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Requests at Last Call",
+  "triggers": [
+   "requests at last call"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112237343138562445",
   "tag": "$MfT"
  }
 ]
