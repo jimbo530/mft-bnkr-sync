@@ -1818,14 +1818,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095476969571795118"
  },
  {
-  "band": "EBM",
-  "name": "One Road, Eyes Open",
-  "triggers": [
-   "one road, eyes open"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095502143356579975"
- },
- {
   "band": "Myco",
   "name": "- Sky People (Good Vibes Make Forests)",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the meme lord's fanfare"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111960508328722606"
+ },
+ {
+  "band": "EBM",
+  "name": "One Road, Eyes Open",
+  "triggers": [
+   "one road, eyes open"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2111995772262646019"
  }
 ]
