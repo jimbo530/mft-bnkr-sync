@@ -1194,14 +1194,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093503976431841313"
  },
  {
-  "band": "JS",
-  "name": "Finally Found The One",
-  "triggers": [
-   "finally found the one"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093508988356673696"
- },
- {
   "band": "Bongo",
   "name": "CHARGE! (The Ballad of Bold Nobi)",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "one road, eyes open"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111995772262646019"
+ },
+ {
+  "band": "JS",
+  "name": "Finally Found The One",
+  "triggers": [
+   "finally found the one"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112000762184089970"
  }
 ]
