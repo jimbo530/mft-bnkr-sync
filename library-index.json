@@ -1706,14 +1706,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095084373255102679"
  },
  {
-  "band": "Rish",
-  "name": "The Whole Bar Onchain",
-  "triggers": [
-   "the whole bar onchain"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095104504840540520"
- },
- {
   "band": "DGT",
   "name": "Pull Up a Chair",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "last call is a lie"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112036055083819037"
+ },
+ {
+  "band": "Rish",
+  "name": "The Whole Bar Onchain",
+  "triggers": [
+   "the whole bar onchain"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112041025627701652"
  }
 ]
