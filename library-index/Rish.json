@@ -121,14 +121,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Plant It, Ye Giants",
-  "triggers": [
-   "plant it, ye giants"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099206542725726491",
-  "tag": "$MfT"
- },
- {
   "name": "The Hillside Remembers",
   "triggers": [
    "the hillside remembers"
@@ -366,6 +358,14 @@
    "the whole bar onchain"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112041025627701652",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Plant It, Ye Giants",
+  "triggers": [
+   "plant it, ye giants"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112161860812255732",
   "tag": "$MfT"
  }
 ]

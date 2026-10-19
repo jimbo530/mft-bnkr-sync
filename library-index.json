@@ -2803,14 +2803,6 @@
  },
  {
   "band": "Rish",
-  "name": "Plant It, Ye Giants",
-  "triggers": [
-   "plant it, ye giants"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099206542725726491"
- },
- {
-  "band": "Rish",
   "name": "The Hillside Remembers",
   "triggers": [
    "the hillside remembers"
@@ -7760,5 +7752,13 @@
    "da long road"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112121596160655553"
+ },
+ {
+  "band": "Rish",
+  "name": "Plant It, Ye Giants",
+  "triggers": [
+   "plant it, ye giants"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112161860812255732"
  }
 ]
