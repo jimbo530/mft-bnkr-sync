@@ -2874,14 +2874,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2099432994310107487"
  },
  {
-  "band": "WarMachine",
-  "name": "Da Long Road",
-  "triggers": [
-   "da long road"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099453133747282031"
- },
- {
   "band": "Biggins",
   "name": "Harder To Get In (If Your Daddy Did)",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the well that never runs dry"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112116563557900467"
+ },
+ {
+  "band": "WarMachine",
+  "name": "Da Long Road",
+  "triggers": [
+   "da long road"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112121596160655553"
  }
 ]
