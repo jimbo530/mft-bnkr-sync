@@ -2250,14 +2250,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097243607786733763"
  },
  {
-  "band": "ALAN",
-  "name": "The Lord Who Rules Nobody",
-  "triggers": [
-   "the lord who rules nobody"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097298930388124113"
- },
- {
   "band": "MR",
   "name": "The Morning Wind Provides",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "plain language door"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112242395064471908"
+ },
+ {
+  "band": "ALAN",
+  "name": "The Lord Who Rules Nobody",
+  "triggers": [
+   "the lord who rules nobody"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112277597308494301"
  }
 ]
