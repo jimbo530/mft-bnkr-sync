@@ -246,14 +246,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Plain Language Door",
-  "triggers": [
-   "plain language door"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096770485908279787",
-  "tag": "$MfT"
- },
- {
   "name": "Vault That Don't Run Dry",
   "triggers": [
    "vault that don't run dry"
@@ -859,6 +851,14 @@
    "one road, eyes open"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111995772262646019",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Plain Language Door",
+  "triggers": [
+   "plain language door"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112242395064471908",
   "tag": "$MfT"
  }
 ]

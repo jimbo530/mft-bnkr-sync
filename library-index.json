@@ -2138,14 +2138,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096765418346066295"
  },
  {
-  "band": "EBM",
-  "name": "Plain Language Door",
-  "triggers": [
-   "plain language door"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096770485908279787"
- },
- {
   "band": "DGT",
   "name": "Somebody Bet On You",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "requests at last call"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112237343138562445"
+ },
+ {
+  "band": "EBM",
+  "name": "Plain Language Door",
+  "triggers": [
+   "plain language door"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112242395064471908"
  }
 ]
