@@ -2114,14 +2114,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096493636699509206"
  },
  {
-  "band": "NN",
-  "name": "Last Call Is a Lie",
-  "triggers": [
-   "last call is a lie"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096538981349429714"
- },
- {
   "band": "Myco",
   "name": "Roots That Hold",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "finally found the one"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112000762184089970"
+ },
+ {
+  "band": "NN",
+  "name": "Last Call Is a Lie",
+  "triggers": [
+   "last call is a lie"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112036055083819037"
  }
 ]
