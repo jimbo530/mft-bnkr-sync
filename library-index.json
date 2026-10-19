@@ -2298,14 +2298,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097444955371229394"
  },
  {
-  "band": "DGT",
-  "name": "Gone in a Second",
-  "triggers": [
-   "gone in a second"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097449995758711171"
- },
- {
   "band": "MR",
   "name": "Built To Outlive Me",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the lord who rules nobody"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112277597308494301"
+ },
+ {
+  "band": "DGT",
+  "name": "Gone in a Second",
+  "triggers": [
+   "gone in a second"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112282677969604970"
  }
 ]
