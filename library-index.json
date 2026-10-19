@@ -1362,14 +1362,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093946943755911340"
  },
  {
-  "band": "Myco",
-  "name": "- Two Rivers, Many Tools",
-  "triggers": [
-   "- two rivers, many tools"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093967005787291879"
- },
- {
   "band": "Bongo",
   "name": "For MemeForTrees — 0fcd",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "- spores don't read the chart"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112076399720763864"
+ },
+ {
+  "band": "Myco",
+  "name": "- Two Rivers, Many Tools",
+  "triggers": [
+   "- two rivers, many tools"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112081301910016348"
  }
 ]
