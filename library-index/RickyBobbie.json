@@ -25,14 +25,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Well That Never Runs Dry",
-  "triggers": [
-   "the well that never runs dry"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095023933506437577",
-  "tag": "$MfT"
- },
- {
   "name": "No Value But Songs We Sing",
   "triggers": [
    "no value but songs we sing"
@@ -102,6 +94,14 @@
    "fastest word in the sky"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111437059281830310",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Well That Never Runs Dry",
+  "triggers": [
+   "the well that never runs dry"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112116563557900467",
   "tag": "$MfT"
  }
 ]

@@ -1658,14 +1658,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095008838692802564"
  },
  {
-  "band": "RickyBobbie",
-  "name": "The Well That Never Runs Dry",
-  "triggers": [
-   "the well that never runs dry"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095023933506437577"
- },
- {
   "band": "MR",
   "name": "Feed the Column",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "- two rivers, many tools"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112081301910016348"
+ },
+ {
+  "band": "RickyBobbie",
+  "name": "The Well That Never Runs Dry",
+  "triggers": [
+   "the well that never runs dry"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112116563557900467"
  }
 ]
