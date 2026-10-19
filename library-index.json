@@ -1178,14 +1178,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093045953070575889"
  },
  {
-  "band": "MR",
-  "name": "Water Is Life",
-  "triggers": [
-   "water is life"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093483828153094204"
- },
- {
   "band": "DD",
   "name": "Kind Folk (In the Strangest Places)",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "plant it, ye giants"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112161860812255732"
+ },
+ {
+  "band": "MR",
+  "name": "Water Is Life",
+  "triggers": [
+   "water is life"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112197093754298424"
  }
 ]
