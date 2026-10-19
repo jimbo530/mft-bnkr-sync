@@ -2178,14 +2178,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096946649507516707"
  },
  {
-  "band": "DD",
-  "name": "Digerie Dude - Believe in SomeETHing (1)",
-  "triggers": [
-   "digerie dude - believe in someething (1)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096971839591305501"
- },
- {
   "band": "WarMachine",
   "name": "The Wall That Never Falls",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "gone in a second"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112282677969604970"
+ },
+ {
+  "band": "DD",
+  "name": "Digerie Dude - Believe in SomeETHing (1)",
+  "triggers": [
+   "digerie dude - believe in someething (1)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112317895350816772"
  }
 ]

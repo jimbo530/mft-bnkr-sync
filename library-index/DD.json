@@ -105,14 +105,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Digerie Dude - Believe in SomeETHing (1)",
-  "triggers": [
-   "digerie dude - believe in someething (1)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096971839591305501",
-  "tag": "$MfT"
- },
- {
   "name": "Gather the Good Road",
   "triggers": [
    "gather the good road"
@@ -494,6 +486,14 @@
    "carry the water"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111955512535228491",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Digerie Dude - Believe in SomeETHing (1)",
+  "triggers": [
+   "digerie dude - believe in someething (1)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112317895350816772",
   "tag": "$MfT"
  }
 ]
