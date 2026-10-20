@@ -5442,14 +5442,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2106066709962449094"
  },
  {
-  "band": "NN",
-  "name": "Ask Me Why I Stay",
-  "triggers": [
-   "ask me why i stay"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2106071735753658793"
- },
- {
   "band": "RickyBobbie",
   "name": "Wind In Your Sails",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "tavern at the tide"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112358112233472506"
+ },
+ {
+  "band": "NN",
+  "name": "Ask Me Why I Stay",
+  "triggers": [
+   "ask me why i stay"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112363188079513636"
  }
 ]
