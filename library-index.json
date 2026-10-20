@@ -1546,14 +1546,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094822609934221369"
  },
  {
-  "band": "Rish",
-  "name": "Plant It Back",
-  "triggers": [
-   "plant it back"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094827693913043425"
- },
- {
   "band": "Bongo",
   "name": "Both Fires",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "roots that hold"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112478958461575246"
+ },
+ {
+  "band": "Rish",
+  "name": "Plant It Back",
+  "triggers": [
+   "plant it back"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112483986907803933"
  }
 ]
