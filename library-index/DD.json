@@ -89,14 +89,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Down the Trade Routes",
-  "triggers": [
-   "down the trade routes"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094968617859252308",
-  "tag": "$MfT"
- },
- {
   "name": "The Sun Comes Back",
   "triggers": [
    "the sun comes back"
@@ -494,6 +486,14 @@
    "digerie dude - believe in someething (1)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112317895350816772",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Down the Trade Routes",
+  "triggers": [
+   "down the trade routes"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112403453485961720",
   "tag": "$MfT"
  }
 ]

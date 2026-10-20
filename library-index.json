@@ -1602,14 +1602,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094963554822529044"
  },
  {
-  "band": "DD",
-  "name": "Down the Trade Routes",
-  "triggers": [
-   "down the trade routes"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094968617859252308"
- },
- {
   "band": "EBM",
   "name": "The Whole Block Came",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "keep your purse"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112398445189206366"
+ },
+ {
+  "band": "DD",
+  "name": "Down the Trade Routes",
+  "triggers": [
+   "down the trade routes"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112403453485961720"
  }
 ]
