@@ -2547,14 +2547,6 @@
  },
  {
   "band": "CB",
-  "name": "The Based Lord",
-  "triggers": [
-   "the based lord"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098320719637627236"
- },
- {
-  "band": "CB",
   "name": "Onchain Forest",
   "triggers": [
    "onchain forest"
@@ -7760,5 +7752,13 @@
    "before the drums wake"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112438636981404078"
+ },
+ {
+  "band": "CB",
+  "name": "The Based Lord",
+  "triggers": [
+   "the based lord"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112443717021815180"
  }
 ]
