@@ -1522,14 +1522,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094767256194388463"
  },
  {
-  "band": "CB",
-  "name": "Join the Raid",
-  "triggers": [
-   "join the raid"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094782389692108801"
- },
- {
   "band": "DGT",
   "name": "The Trust That Can't Be Repossessed",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "gather the good road"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112604786134524051"
+ },
+ {
+  "band": "CB",
+  "name": "Join the Raid",
+  "triggers": [
+   "join the raid"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112639972591181900"
  }
 ]
