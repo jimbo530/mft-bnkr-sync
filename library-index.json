@@ -2202,14 +2202,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097243607786733763"
  },
  {
-  "band": "MR",
-  "name": "The Morning Wind Provides",
-  "triggers": [
-   "the morning wind provides"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097304016019407011"
- },
- {
   "band": "Strut",
   "name": "Feathers Down",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "a banana a day (monkey town)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112559467355144526"
+ },
+ {
+  "band": "MR",
+  "name": "The Morning Wind Provides",
+  "triggers": [
+   "the morning wind provides"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112564512888918223"
  }
 ]
