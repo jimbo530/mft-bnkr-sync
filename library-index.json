@@ -2514,14 +2514,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2098698212102062139"
  },
  {
-  "band": "DD",
-  "name": "A Pouch That Holds It All",
-  "triggers": [
-   "a pouch that holds it all"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098733450169577912"
- },
- {
   "band": "EBM",
   "name": "Costs You Nothing",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "for memefortrees — 0fcd"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112645035661431028"
+ },
+ {
+  "band": "DD",
+  "name": "A Pouch That Holds It All",
+  "triggers": [
+   "a pouch that holds it all"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112680272118321586"
  }
 ]
