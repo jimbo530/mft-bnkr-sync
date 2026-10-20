@@ -1874,14 +1874,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096010492359619064"
  },
  {
-  "band": "MR",
-  "name": "Before the Drums Wake",
-  "triggers": [
-   "before the drums wake"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096015483032015040"
- },
- {
   "band": "NN",
   "name": "Can t Doomscroll And Dance",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "down the trade routes"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112403453485961720"
+ },
+ {
+  "band": "MR",
+  "name": "Before the Drums Wake",
+  "triggers": [
+   "before the drums wake"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112438636981404078"
  }
 ]

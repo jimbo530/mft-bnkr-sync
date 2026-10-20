@@ -65,14 +65,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Before the Drums Wake",
-  "triggers": [
-   "before the drums wake"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096015483032015040",
-  "tag": "$MfT"
- },
- {
   "name": "First Everybody Builds",
   "triggers": [
    "first everybody builds"
@@ -438,6 +430,14 @@
    "water is life"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112197093754298424",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Before the Drums Wake",
+  "triggers": [
+   "before the drums wake"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112438636981404078",
   "tag": "$MfT"
  }
 ]
