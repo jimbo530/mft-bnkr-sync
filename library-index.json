@@ -2746,14 +2746,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2099503504750510509"
  },
  {
-  "band": "DGT",
-  "name": "They Buried It (It Danced)",
-  "triggers": [
-   "they buried it (it danced)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099528693404016905"
- },
- {
   "band": "HammerTone",
   "name": "The Hall That Wouldn't Fall",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the morning wind provides"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112564512888918223"
+ },
+ {
+  "band": "DGT",
+  "name": "They Buried It (It Danced)",
+  "triggers": [
+   "they buried it (it danced)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112599807067918711"
  }
 ]
