@@ -1370,14 +1370,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094173392618266891"
  },
  {
-  "band": "Rish",
-  "name": "The Love You Give",
-  "triggers": [
-   "the love you give"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094193446462374315"
- },
- {
   "band": "EBM",
   "name": "Compost By The Snow",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "a pouch that holds it all"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112680272118321586"
+ },
+ {
+  "band": "Rish",
+  "name": "The Love You Give",
+  "triggers": [
+   "the love you give"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112685299096498493"
  }
 ]
