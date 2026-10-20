@@ -2042,14 +2042,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096493636699509206"
  },
  {
-  "band": "Myco",
-  "name": "Roots That Hold",
-  "triggers": [
-   "roots that hold"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096564165112459756"
- },
- {
   "band": "Rish",
   "name": "Bet On Yourself",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the based lord"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112443717021815180"
+ },
+ {
+  "band": "Myco",
+  "name": "Roots That Hold",
+  "triggers": [
+   "roots that hold"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112478958461575246"
  }
 ]

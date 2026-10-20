@@ -184,14 +184,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Roots That Hold",
-  "triggers": [
-   "roots that hold"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096564165112459756",
-  "tag": "$MfT"
- },
- {
   "name": "- Mycelium Never Empties",
   "triggers": [
    "- mycelium never empties"
@@ -861,6 +853,14 @@
    "- two rivers, many tools"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112081301910016348",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Roots That Hold",
+  "triggers": [
+   "roots that hold"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112478958461575246",
   "tag": "$MfT"
  }
 ]
