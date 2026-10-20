@@ -97,14 +97,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Gather the Good Road",
-  "triggers": [
-   "gather the good road"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097495278735516105",
-  "tag": "$MfT"
- },
- {
   "name": "Your Name Arrives Before You",
   "triggers": [
    "your name arrives before you"
@@ -494,6 +486,14 @@
    "down the trade routes"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112403453485961720",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Gather the Good Road",
+  "triggers": [
+   "gather the good road"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112604786134524051",
   "tag": "$MfT"
  }
 ]

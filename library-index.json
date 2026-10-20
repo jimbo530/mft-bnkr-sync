@@ -2250,14 +2250,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097475168524218707"
  },
  {
-  "band": "DD",
-  "name": "Gather the Good Road",
-  "triggers": [
-   "gather the good road"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097495278735516105"
- },
- {
   "band": "Rish",
   "name": "Bread and Water",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "they buried it (it danced)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112599807067918711"
+ },
+ {
+  "band": "DD",
+  "name": "Gather the Good Road",
+  "triggers": [
+   "gather the good road"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112604786134524051"
  }
 ]
