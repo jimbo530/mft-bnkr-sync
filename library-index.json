@@ -1346,14 +1346,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093946943755911340"
  },
  {
-  "band": "Bongo",
-  "name": "For MemeForTrees — 0fcd",
-  "triggers": [
-   "for memefortrees — 0fcd"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094012255721406889"
- },
- {
   "band": "DD",
   "name": "The Roads Never End",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "join the raid"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112639972591181900"
+ },
+ {
+  "band": "Bongo",
+  "name": "For MemeForTrees — 0fcd",
+  "triggers": [
+   "for memefortrees — 0fcd"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112645035661431028"
  }
 ]
