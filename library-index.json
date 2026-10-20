@@ -2354,14 +2354,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097792233449591288"
  },
  {
-  "band": "Jasmine",
-  "name": "A Banana a Day (Monkey Town)",
-  "triggers": [
-   "a banana a day (monkey town)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097857657428226137"
- },
- {
   "band": "Myco",
   "name": "Already Connected",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "built to outlast"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112524250309357935"
+ },
+ {
+  "band": "Jasmine",
+  "name": "A Banana a Day (Monkey Town)",
+  "triggers": [
+   "a banana a day (monkey town)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112559467355144526"
  }
 ]

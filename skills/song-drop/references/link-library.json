@@ -3824,19 +3824,6 @@
     "caption": "\"Light The Spark\" — CB\ngood tunes, real forests"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2097857657428226137",
-    "translation": "A Banana a Day (Monkey Town)",
-    "name": "A Banana a Day (Monkey Town)",
-    "triggers": [
-      "a banana a day (monkey town)"
-    ],
-    "band": "Jasmine",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2097857657428226137",
-    "caption": "\"A Banana a Day (Monkey Town)\" — Jasmine\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2097882787923612039",
     "translation": "Already Connected",
     "name": "Already Connected",
@@ -12610,5 +12597,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2112524250309357935",
     "caption": "\"Built To Outlast\" — Biggins Mcjammin\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2112559467355144526",
+    "translation": "A Banana a Day (Monkey Town)",
+    "name": "A Banana a Day (Monkey Town)",
+    "triggers": [
+      "a banana a day (monkey town)"
+    ],
+    "band": "Jasmine",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2112559467355144526",
+    "caption": "\"A Banana a Day (Monkey Town)\" — Jasmine\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

@@ -49,14 +49,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "A Banana a Day (Monkey Town)",
-  "triggers": [
-   "a banana a day (monkey town)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097857657428226137",
-  "tag": "$MfT"
- },
- {
   "name": "Come and Stay Free",
   "triggers": [
    "come and stay free"
@@ -118,6 +110,14 @@
    "back a friend's dream"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111477393370017877",
+  "tag": "$MfT"
+ },
+ {
+  "name": "A Banana a Day (Monkey Town)",
+  "triggers": [
+   "a banana a day (monkey town)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112559467355144526",
   "tag": "$MfT"
  }
 ]
