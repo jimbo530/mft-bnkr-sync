@@ -2258,14 +2258,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097475168524218707"
  },
  {
-  "band": "Biggins",
-  "name": "Built To Outlast",
-  "triggers": [
-   "built to outlast"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097480127319789955"
- },
- {
   "band": "DD",
   "name": "Gather the Good Road",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "plant it back"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112483986907803933"
+ },
+ {
+  "band": "Biggins",
+  "name": "Built To Outlast",
+  "triggers": [
+   "built to outlast"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112524250309357935"
  }
 ]

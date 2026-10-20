@@ -57,14 +57,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Built To Outlast",
-  "triggers": [
-   "built to outlast"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097480127319789955",
-  "tag": "$MfT"
- },
- {
   "name": "Start The Thing",
   "triggers": [
    "start the thing"
@@ -102,6 +94,14 @@
    "no kings (just this guy)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2108930562350080338",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Built To Outlast",
+  "triggers": [
+   "built to outlast"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112524250309357935",
   "tag": "$MfT"
  }
 ]
