@@ -232,14 +232,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Everything Came Up",
-  "triggers": [
-   "everything came up"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098134458507334062",
-  "tag": "$MfT"
- },
- {
   "name": "- Spark In The Soil",
   "triggers": [
    "- spark in the soil"
@@ -861,6 +853,14 @@
    "roots that hold"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112478958461575246",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Everything Came Up",
+  "triggers": [
+   "everything came up"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112846322973765668",
   "tag": "$MfT"
  }
 ]

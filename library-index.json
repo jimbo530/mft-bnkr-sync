@@ -2354,14 +2354,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2098124400528638120"
  },
  {
-  "band": "Myco",
-  "name": "Everything Came Up",
-  "triggers": [
-   "everything came up"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098134458507334062"
- },
- {
   "band": "DD",
   "name": "Every Land Pays In",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "little meme little tree"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112841324206367119"
+ },
+ {
+  "band": "Myco",
+  "name": "Everything Came Up",
+  "triggers": [
+   "everything came up"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112846322973765668"
  }
 ]
