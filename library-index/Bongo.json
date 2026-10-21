@@ -193,14 +193,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "I Live Here Now (By the Wall)",
-  "triggers": [
-   "i live here now (by the wall)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099307169204019316",
-  "tag": "$MfT"
- },
- {
   "name": "One Brick",
   "triggers": [
    "one brick"
@@ -366,6 +358,14 @@
    "what's over there on base"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112765828072407337",
+  "tag": "$MfT"
+ },
+ {
+  "name": "I Live Here Now (By the Wall)",
+  "triggers": [
+   "i live here now (by the wall)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112801022536044832",
   "tag": "$MfT"
  }
 ]

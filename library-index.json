@@ -2618,14 +2618,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2099276979165974619"
  },
  {
-  "band": "Bongo",
-  "name": "I Live Here Now (By the Wall)",
-  "triggers": [
-   "i live here now (by the wall)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099307169204019316"
- },
- {
   "band": "DD",
   "name": "Older Than The Wire",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "what's over there on base"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112765828072407337"
+ },
+ {
+  "band": "Bongo",
+  "name": "I Live Here Now (By the Wall)",
+  "triggers": [
+   "i live here now (by the wall)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112801022536044832"
  }
 ]
