@@ -2402,14 +2402,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2098350959415972012"
  },
  {
-  "band": "DD",
-  "name": "The Giving Floor",
-  "triggers": [
-   "the giving floor"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098522042672849152"
- },
- {
   "band": "Biggins",
   "name": "Start The Thing",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "one reason (trees)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2113002382221070576"
+ },
+ {
+  "band": "DD",
+  "name": "The Giving Floor",
+  "triggers": [
+   "the giving floor"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2113007435275223309"
  }
 ]
