@@ -1378,14 +1378,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094253836479213836"
  },
  {
-  "band": "NN",
-  "name": "Little Meme Little Tree",
-  "triggers": [
-   "little meme little tree"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094309212184625416"
- },
- {
   "band": "Strut",
   "name": "Learn Out Loud",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "out of the trees"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112806087254483435"
+ },
+ {
+  "band": "NN",
+  "name": "Little Meme Little Tree",
+  "triggers": [
+   "little meme little tree"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112841324206367119"
  }
 ]
