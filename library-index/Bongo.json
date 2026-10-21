@@ -169,14 +169,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "One Reason (Trees)",
-  "triggers": [
-   "one reason (trees)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097918047121973379",
-  "tag": "$MfT"
- },
- {
   "name": "Always GM on Robinhood Chain",
   "triggers": [
    "always gm on robinhood chain"
@@ -366,6 +358,14 @@
    "i live here now (by the wall)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112801022536044832",
+  "tag": "$MfT"
+ },
+ {
+  "name": "One Reason (Trees)",
+  "triggers": [
+   "one reason (trees)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2113002382221070576",
   "tag": "$MfT"
  }
 ]
