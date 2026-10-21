@@ -1739,14 +1739,6 @@
  },
  {
   "band": "MR",
-  "name": "The Heaviest End",
-  "triggers": [
-   "the heaviest end"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095638036281172103"
- },
- {
-  "band": "MR",
   "name": "The Roar Plants the Grove",
   "triggers": [
    "the roar plants the grove"
@@ -7760,5 +7752,13 @@
    "costs you nothing"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112886583699361974"
+ },
+ {
+  "band": "MR",
+  "name": "The Heaviest End",
+  "triggers": [
+   "the heaviest end"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112921859117195468"
  }
 ]
