@@ -1834,14 +1834,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095975287183876244"
  },
  {
-  "band": "Bongo",
-  "name": "What's Over There On Base",
-  "triggers": [
-   "what's over there on base"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096010492359619064"
- },
- {
   "band": "NN",
   "name": "Can t Doomscroll And Dance",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the party needs no king"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112760813685551326"
+ },
+ {
+  "band": "Bongo",
+  "name": "What's Over There On Base",
+  "triggers": [
+   "what's over there on base"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112765828072407337"
  }
 ]
