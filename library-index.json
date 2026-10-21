@@ -2346,14 +2346,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2098139552737009796"
  },
  {
-  "band": "EBM",
-  "name": "The Garden Watch",
-  "triggers": [
-   "the garden watch"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098164690249535604"
- },
- {
   "band": "DD",
   "name": "The Orchard That Was a Fence",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "everybody drinks"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112962127040229535"
+ },
+ {
+  "band": "EBM",
+  "name": "The Garden Watch",
+  "triggers": [
+   "the garden watch"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112967108531257625"
  }
 ]

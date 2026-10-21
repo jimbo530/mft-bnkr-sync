@@ -3811,19 +3811,6 @@
     "caption": "\"Every Land Pays In\" — Digerie Dude\npress play, plant trees"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2098164690249535604",
-    "translation": "The Garden Watch",
-    "name": "The Garden Watch",
-    "triggers": [
-      "the garden watch"
-    ],
-    "band": "EBM",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2098164690249535604",
-    "caption": "\"The Garden Watch\" — Elves of Ballinmoore\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2098169727411462289",
     "translation": "The Orchard That Was a Fence",
     "name": "The Orchard That Was a Fence",
@@ -12610,5 +12597,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2112962127040229535",
     "caption": "\"Everybody Drinks\" — Jony Sings\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2112967108531257625",
+    "translation": "The Garden Watch",
+    "name": "The Garden Watch",
+    "triggers": [
+      "the garden watch"
+    ],
+    "band": "EBM",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2112967108531257625",
+    "caption": "\"The Garden Watch\" — Elves of Ballinmoore\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
