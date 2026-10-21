@@ -2090,14 +2090,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096886314163404860"
  },
  {
-  "band": "JS",
-  "name": "Pull Up a Stoop",
-  "triggers": [
-   "pull up a stoop"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096891278252220647"
- },
- {
   "band": "Bongo",
   "name": "Set Sail (Seize the Seas)",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "a damned good time"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112720555833008200"
+ },
+ {
+  "band": "JS",
+  "name": "Pull Up a Stoop",
+  "triggers": [
+   "pull up a stoop"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112725557943099449"
  }
 ]
