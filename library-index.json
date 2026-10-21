@@ -1730,14 +1730,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095597866366439617"
  },
  {
-  "band": "MR",
-  "name": "The Roar Plants the Grove",
-  "triggers": [
-   "the roar plants the grove"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095658123243458922"
- },
- {
   "band": "SEAS",
   "name": "Pull for the Horizon",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the giving floor"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2113007435275223309"
+ },
+ {
+  "band": "MR",
+  "name": "The Roar Plants the Grove",
+  "triggers": [
+   "the roar plants the grove"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2113042604187123742"
  }
 ]
