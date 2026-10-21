@@ -1514,14 +1514,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094807585333326124"
  },
  {
-  "band": "Biggins",
-  "name": "Out of the Trees",
-  "triggers": [
-   "out of the trees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094822609934221369"
- },
- {
   "band": "Bongo",
   "name": "Both Fires",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "i live here now (by the wall)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112801022536044832"
+ },
+ {
+  "band": "Biggins",
+  "name": "Out of the Trees",
+  "triggers": [
+   "out of the trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112806087254483435"
  }
 ]

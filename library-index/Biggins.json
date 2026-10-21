@@ -33,14 +33,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Out of the Trees",
-  "triggers": [
-   "out of the trees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094822609934221369",
-  "tag": "$MfT"
- },
- {
   "name": "Name It Once",
   "triggers": [
    "name it once"
@@ -102,6 +94,14 @@
    "built to outlast"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112524250309357935",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Out of the Trees",
+  "triggers": [
+   "out of the trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112806087254483435",
   "tag": "$MfT"
  }
 ]
