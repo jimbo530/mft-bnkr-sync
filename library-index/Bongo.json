@@ -161,14 +161,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Party Needs No King",
-  "triggers": [
-   "the party needs no king"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096312499381363119",
-  "tag": "$MfT"
- },
- {
   "name": "Welcome To Monkey Town (Name Him Once!)",
   "triggers": [
    "welcome to monkey town (name him once!)"
@@ -366,6 +358,14 @@
    "for memefortrees — 0fcd"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112645035661431028",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Party Needs No King",
+  "triggers": [
+   "the party needs no king"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112760813685551326",
   "tag": "$MfT"
  }
 ]

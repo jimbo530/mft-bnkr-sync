@@ -1914,14 +1914,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096292321687945612"
  },
  {
-  "band": "Bongo",
-  "name": "The Party Needs No King",
-  "triggers": [
-   "the party needs no king"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096312499381363119"
- },
- {
   "band": "JS",
   "name": "The Magic s in the Crowd",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "pull up a stoop"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112725557943099449"
+ },
+ {
+  "band": "Bongo",
+  "name": "The Party Needs No King",
+  "triggers": [
+   "the party needs no king"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112760813685551326"
  }
 ]
