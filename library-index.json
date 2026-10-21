@@ -1906,14 +1906,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096241977536774150"
  },
  {
-  "band": "DGT",
-  "name": "A Damned Good Time",
-  "triggers": [
-   "a damned good time"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096267244518945096"
- },
- {
   "band": "CB",
   "name": "Attention Tree Appreciators",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the love you give"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112685299096498493"
+ },
+ {
+  "band": "DGT",
+  "name": "A Damned Good Time",
+  "triggers": [
+   "a damned good time"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2112720555833008200"
  }
 ]
