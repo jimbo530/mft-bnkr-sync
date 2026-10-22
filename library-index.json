@@ -2346,14 +2346,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2098290511408779481"
  },
  {
-  "band": "CB",
-  "name": "Onchain Forest",
-  "triggers": [
-   "onchain forest"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098345832881827953"
- },
- {
   "band": "DGT",
   "name": "The Benevolent Racket",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "bet on the dreamer"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2113163446225109130"
+ },
+ {
+  "band": "CB",
+  "name": "Onchain Forest",
+  "triggers": [
+   "onchain forest"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2113168430639579271"
  }
 ]

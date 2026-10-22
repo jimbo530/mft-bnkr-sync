@@ -145,14 +145,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Onchain Forest",
-  "triggers": [
-   "onchain forest"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098345832881827953",
-  "tag": "$MfT"
- },
- {
   "name": "STILL HERE FORWARD",
   "triggers": [
    "still here forward"
@@ -502,6 +494,14 @@
    "join the raid"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112639972591181900",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Onchain Forest",
+  "triggers": [
+   "onchain forest"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2113168430639579271",
   "tag": "$MfT"
  }
 ]
