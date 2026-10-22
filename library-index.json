@@ -2570,14 +2570,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2099503504750510509"
  },
  {
-  "band": "HammerTone",
-  "name": "The Hall That Wouldn't Fall",
-  "triggers": [
-   "the hall that wouldn't fall"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099553789346824245"
- },
- {
   "band": "Strut",
   "name": "We Throw The Party",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the wall that never falls"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2113082916544675992"
+ },
+ {
+  "band": "HammerTone",
+  "name": "The Hall That Wouldn't Fall",
+  "triggers": [
+   "the hall that wouldn't fall"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2113087932672159770"
  }
 ]
