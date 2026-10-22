@@ -65,14 +65,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "We Throw The Party",
-  "triggers": [
-   "we throw the party"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099558861099208955",
-  "tag": "$MfT"
- },
- {
   "name": "The First Yes",
   "triggers": [
    "the first yes"
@@ -126,6 +118,14 @@
    "feathers down"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2113128164742377808",
+  "tag": "$MfT"
+ },
+ {
+  "name": "We Throw The Party",
+  "triggers": [
+   "we throw the party"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2113410054464372834",
   "tag": "$MfT"
  }
 ]

@@ -2458,14 +2458,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2099503504750510509"
  },
  {
-  "band": "Strut",
-  "name": "We Throw The Party",
-  "triggers": [
-   "we throw the party"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099558861099208955"
- },
- {
   "band": "Myco",
   "name": "Crypto Spring",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "what had to rot"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2113405006598561940"
+ },
+ {
+  "band": "Strut",
+  "name": "We Throw The Party",
+  "triggers": [
+   "we throw the party"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2113410054464372834"
  }
 ]
