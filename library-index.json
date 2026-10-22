@@ -1378,14 +1378,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094314276982813145"
  },
  {
-  "band": "DD",
-  "name": "The Road Made Family",
-  "triggers": [
-   "the road made family"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094329345108017532"
- },
- {
   "band": "JS",
   "name": "I Poured It Tea",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the lady keeps the leaves"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2113364724490342478"
+ },
+ {
+  "band": "DD",
+  "name": "The Road Made Family",
+  "triggers": [
+   "the road made family"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2113369802186100769"
  }
 ]
