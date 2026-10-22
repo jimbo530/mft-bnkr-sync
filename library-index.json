@@ -2058,14 +2058,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097384507334676615"
  },
  {
-  "band": "Myco",
-  "name": "What Had To Rot",
-  "triggers": [
-   "what had to rot"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097444955371229394"
- },
- {
   "band": "MR",
   "name": "Built To Outlive Me",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the road made family"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2113369802186100769"
+ },
+ {
+  "band": "Myco",
+  "name": "What Had To Rot",
+  "triggers": [
+   "what had to rot"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2113405006598561940"
  }
 ]
