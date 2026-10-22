@@ -2442,14 +2442,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2099276979165974619"
  },
  {
-  "band": "DD",
-  "name": "Older Than The Wire",
-  "triggers": [
-   "older than the wire"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099352511144489236"
- },
- {
   "band": "Bongo",
   "name": "One Brick",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "hands that lift the maker"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2113324503996530978"
+ },
+ {
+  "band": "DD",
+  "name": "Older Than The Wire",
+  "triggers": [
+   "older than the wire"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2113329494064857122"
  }
 ]

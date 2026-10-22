@@ -137,14 +137,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Older Than The Wire",
-  "triggers": [
-   "older than the wire"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099352511144489236",
-  "tag": "$MfT"
- },
- {
   "name": "Creator Economy",
   "triggers": [
    "creator economy"
@@ -494,6 +486,14 @@
    "hands that lift the maker"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2113324503996530978",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Older Than The Wire",
+  "triggers": [
+   "older than the wire"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2113329494064857122",
   "tag": "$MfT"
  }
 ]
