@@ -2298,14 +2298,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2098225040168820900"
  },
  {
-  "band": "Bongo",
-  "name": "Pay the Bills (Then We Play)",
-  "triggers": [
-   "pay the bills (then we play)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098230118946619843"
- },
- {
   "band": "DD",
   "name": "One River",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "she carries her own"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2113248999381651957"
+ },
+ {
+  "band": "Bongo",
+  "name": "Pay the Bills (Then We Play)",
+  "triggers": [
+   "pay the bills (then we play)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2113284233263268195"
  }
 ]
