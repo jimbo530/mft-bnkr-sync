@@ -2090,14 +2090,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097243607786733763"
  },
  {
-  "band": "Strut",
-  "name": "Feathers Down",
-  "triggers": [
-   "feathers down"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097324102293856529"
- },
- {
   "band": "CB",
   "name": "Green Candle Anthem",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "one night ahead"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2113123215870427204"
+ },
+ {
+  "band": "Strut",
+  "name": "Feathers Down",
+  "triggers": [
+   "feathers down"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2113128164742377808"
  }
 ]
