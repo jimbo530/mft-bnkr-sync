@@ -1554,14 +1554,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094988699775721752"
  },
  {
-  "band": "Bongo",
-  "name": "Bet On The Dreamer",
-  "triggers": [
-   "bet on the dreamer"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095003812004036731"
- },
- {
   "band": "RickyBobbie",
   "name": "She Carries Her Own",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "feathers down"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2113128164742377808"
+ },
+ {
+  "band": "Bongo",
+  "name": "Bet On The Dreamer",
+  "triggers": [
+   "bet on the dreamer"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2113163446225109130"
  }
 ]
