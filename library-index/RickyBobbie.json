@@ -17,14 +17,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "She Carries Her Own",
-  "triggers": [
-   "she carries her own"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095008838692802564",
-  "tag": "$MfT"
- },
- {
   "name": "No Value But Songs We Sing",
   "triggers": [
    "no value but songs we sing"
@@ -102,6 +94,14 @@
    "the well that never runs dry"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112116563557900467",
+  "tag": "$MfT"
+ },
+ {
+  "name": "She Carries Her Own",
+  "triggers": [
+   "she carries her own"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2113248999381651957",
   "tag": "$MfT"
  }
 ]

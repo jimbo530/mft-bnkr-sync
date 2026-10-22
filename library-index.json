@@ -1554,14 +1554,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094988699775721752"
  },
  {
-  "band": "RickyBobbie",
-  "name": "She Carries Her Own",
-  "triggers": [
-   "she carries her own"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095008838692802564"
- },
- {
   "band": "MR",
   "name": "Feed the Column",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "just ask darling"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2113208751658283165"
+ },
+ {
+  "band": "RickyBobbie",
+  "name": "She Carries Her Own",
+  "triggers": [
+   "she carries her own"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2113248999381651957"
  }
 ]
