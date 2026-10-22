@@ -1762,14 +1762,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095763828755538195"
  },
  {
-  "band": "DGT",
-  "name": "One Night Ahead",
-  "triggers": [
-   "one night ahead"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095789102620618765"
- },
- {
   "band": "Myco",
   "name": "Connect the Good",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the hall that wouldn't fall"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2113087932672159770"
+ },
+ {
+  "band": "DGT",
+  "name": "One Night Ahead",
+  "triggers": [
+   "one night ahead"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2113123215870427204"
  }
 ]
