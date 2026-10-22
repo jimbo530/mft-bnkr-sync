@@ -2042,14 +2042,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097117787822932291"
  },
  {
-  "band": "NN",
-  "name": "Just Ask Darling",
-  "triggers": [
-   "just ask darling"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097178133237522835"
- },
- {
   "band": "Strut",
   "name": "We Make Things Work",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "will ye prompt it"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2113203706338382032"
+ },
+ {
+  "band": "NN",
+  "name": "Just Ask Darling",
+  "triggers": [
+   "just ask darling"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2113208751658283165"
  }
 ]
