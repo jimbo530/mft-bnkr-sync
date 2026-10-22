@@ -2106,14 +2106,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097585881880125471"
  },
  {
-  "band": "NN",
-  "name": "The Lady Keeps the Leaves",
-  "triggers": [
-   "the lady keeps the leaves"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097616024967213328"
- },
- {
   "band": "Rish",
   "name": "The First Loaf",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "older than the wire"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2113329494064857122"
+ },
+ {
+  "band": "NN",
+  "name": "The Lady Keeps the Leaves",
+  "triggers": [
+   "the lady keeps the leaves"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2113364724490342478"
  }
 ]
