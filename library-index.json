@@ -1514,14 +1514,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094862922778288172"
  },
  {
-  "band": "DD",
-  "name": "Hands That Lift The Maker",
-  "triggers": [
-   "hands that lift the maker"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094888089504080380"
- },
- {
   "band": "MR",
   "name": "Feed the Village",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the sun comes back"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2113289277731688729"
+ },
+ {
+  "band": "DD",
+  "name": "Hands That Lift The Maker",
+  "triggers": [
+   "hands that lift the maker"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2113324503996530978"
  }
 ]

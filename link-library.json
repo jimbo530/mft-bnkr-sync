@@ -2432,19 +2432,6 @@
     "caption": "\"The Good Road\" — Rish\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2094888089504080380",
-    "translation": "Hands That Lift The Maker",
-    "name": "Hands That Lift The Maker",
-    "triggers": [
-      "hands that lift the maker"
-    ],
-    "band": "DD",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2094888089504080380",
-    "caption": "\"Hands That Lift The Maker\" — Digerie Dude\ndance to defend the earth"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2094903140373934309",
     "translation": "Feed the Village",
     "name": "Feed the Village",
@@ -12610,5 +12597,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2113289277731688729",
     "caption": "\"The Sun Comes Back\" — Digerie Dude\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2113324503996530978",
+    "translation": "Hands That Lift The Maker",
+    "name": "Hands That Lift The Maker",
+    "triggers": [
+      "hands that lift the maker"
+    ],
+    "band": "DD",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2113324503996530978",
+    "caption": "\"Hands That Lift The Maker\" — Digerie Dude\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
