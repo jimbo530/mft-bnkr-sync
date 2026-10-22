@@ -1730,14 +1730,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095688326955049239"
  },
  {
-  "band": "Rish",
-  "name": "Will Ye Prompt It",
-  "triggers": [
-   "will ye prompt it"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095708455185101218"
- },
- {
   "band": "NN",
   "name": "The Path to Personal Shows",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "onchain forest"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2113168430639579271"
+ },
+ {
+  "band": "Rish",
+  "name": "Will Ye Prompt It",
+  "triggers": [
+   "will ye prompt it"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2113203706338382032"
  }
 ]

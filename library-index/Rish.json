@@ -49,14 +49,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Will Ye Prompt It",
-  "triggers": [
-   "will ye prompt it"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095708455185101218",
-  "tag": "$MfT"
- },
- {
   "name": "The Town of the Cats",
   "triggers": [
    "the town of the cats"
@@ -366,6 +358,14 @@
    "keeper of the flame"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112926896723841506",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Will Ye Prompt It",
+  "triggers": [
+   "will ye prompt it"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2113203706338382032",
   "tag": "$MfT"
  }
 ]
