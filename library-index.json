@@ -1850,14 +1850,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096337600214626385"
  },
  {
-  "band": "DD",
-  "name": "The Sun Comes Back",
-  "triggers": [
-   "the sun comes back"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096362823316132023"
- },
- {
   "band": "Myco",
   "name": "Rain Is the Reason",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "pay the bills (then we play)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2113284233263268195"
+ },
+ {
+  "band": "DD",
+  "name": "The Sun Comes Back",
+  "triggers": [
+   "the sun comes back"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2113289277731688729"
  }
 ]
