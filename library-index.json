@@ -2154,14 +2154,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2098199920582791349"
  },
  {
-  "band": "NN",
-  "name": "The Money Never Leaves The Party",
-  "triggers": [
-   "the money never leaves the party"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098225040168820900"
- },
- {
   "band": "DD",
   "name": "One River",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "pull up a chair"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2113727157100740884"
+ },
+ {
+  "band": "NN",
+  "name": "The Money Never Leaves The Party",
+  "triggers": [
+   "the money never leaves the party"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2113732148423258407"
  }
 ]
