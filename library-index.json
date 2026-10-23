@@ -1874,14 +1874,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096710095287591380"
  },
  {
-  "band": "Bongo",
-  "name": "Welcome To Monkey Town (Name Him Once!)",
-  "triggers": [
-   "welcome to monkey town (name him once!)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096740300542636468"
- },
- {
   "band": "Strut",
   "name": "Bow To Nobody (Dance With Everybody)",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "hold the deck"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2113686886992486739"
+ },
+ {
+  "band": "Bongo",
+  "name": "Welcome To Monkey Town (Name Him Once!)",
+  "triggers": [
+   "welcome to monkey town (name him once!)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2113691878948311202"
  }
 ]
