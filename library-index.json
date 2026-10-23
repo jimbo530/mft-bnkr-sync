@@ -1746,14 +1746,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095975287183876244"
  },
  {
-  "band": "NN",
-  "name": "Can t Doomscroll And Dance",
-  "triggers": [
-   "can t doomscroll and dance"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096035616957825479"
- },
- {
   "band": "CB",
   "name": "Proof of Function",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "for no reason at all"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2113490595335262635"
+ },
+ {
+  "band": "NN",
+  "name": "Can t Doomscroll And Dance",
+  "triggers": [
+   "can t doomscroll and dance"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2113525819326738767"
  }
 ]
