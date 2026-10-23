@@ -1754,14 +1754,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096035616957825479"
  },
  {
-  "band": "DGT",
-  "name": "One More Night at Shillwood",
-  "triggers": [
-   "one more night at shillwood"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096040733740253616"
- },
- {
   "band": "CB",
   "name": "Proof of Function",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "first everybody builds"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2113450324308459595"
+ },
+ {
+  "band": "DGT",
+  "name": "One More Night at Shillwood",
+  "triggers": [
+   "one more night at shillwood"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2113485592990228985"
  }
 ]
