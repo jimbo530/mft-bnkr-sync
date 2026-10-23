@@ -2510,19 +2510,6 @@
     "caption": "\"Crank The Wheel (Monkey Town)\" — Gurdy\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2095109552135975047",
-    "translation": "Pull Up a Chair",
-    "name": "Pull Up a Chair",
-    "triggers": [
-      "pull up a chair"
-    ],
-    "band": "DGT",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2095109552135975047",
-    "caption": "\"Pull Up a Chair\" — Damned Good Time Orchestra\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2095129634853560830",
     "translation": "Spread the Spark",
     "name": "Spread the Spark",
@@ -12610,5 +12597,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2113691878948311202",
     "caption": "\"Welcome To Monkey Town (Name Him Once!)\" — Bongo\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2113727157100740884",
+    "translation": "Pull Up a Chair",
+    "name": "Pull Up a Chair",
+    "triggers": [
+      "pull up a chair"
+    ],
+    "band": "DGT",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2113727157100740884",
+    "caption": "\"Pull Up a Chair\" — Damned Good Time Orchestra\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

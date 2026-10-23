@@ -1562,14 +1562,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095084373255102679"
  },
  {
-  "band": "DGT",
-  "name": "Pull Up a Chair",
-  "triggers": [
-   "pull up a chair"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095109552135975047"
- },
- {
   "band": "Rish",
   "name": "Spread the Spark",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "welcome to monkey town (name him once!)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2113691878948311202"
+ },
+ {
+  "band": "DGT",
+  "name": "Pull Up a Chair",
+  "triggers": [
+   "pull up a chair"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2113727157100740884"
  }
 ]

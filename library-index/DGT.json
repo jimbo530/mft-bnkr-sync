@@ -73,14 +73,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Pull Up a Chair",
-  "triggers": [
-   "pull up a chair"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095109552135975047",
-  "tag": "$MfT"
- },
- {
   "name": "One More Grove Tonight",
   "triggers": [
    "one more grove tonight"
@@ -246,6 +238,14 @@
    "one more night at shillwood"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2113485592990228985",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Pull Up a Chair",
+  "triggers": [
+   "pull up a chair"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2113727157100740884",
   "tag": "$MfT"
  }
 ]
