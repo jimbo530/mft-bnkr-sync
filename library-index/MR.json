@@ -105,14 +105,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Once You Have Seen",
-  "triggers": [
-   "once you have seen"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099276979165974619",
-  "tag": "$MfT"
- },
- {
   "name": "Work Now Dance Later",
   "triggers": [
    "work now dance later"
@@ -438,6 +430,14 @@
    "first everybody builds"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2113450324308459595",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Once You Have Seen",
+  "triggers": [
+   "once you have seen"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2113566085085630774",
   "tag": "$MfT"
  }
 ]
