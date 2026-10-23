@@ -2074,14 +2074,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097887812477493688"
  },
  {
-  "band": "PW",
-  "name": "The Public Works March",
-  "triggers": [
-   "the public works march"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097943198555332690"
- },
- {
   "band": "Bongo",
   "name": "Always GM on Robinhood Chain",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the money never leaves the party"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2113732148423258407"
+ },
+ {
+  "band": "PW",
+  "name": "The Public Works March",
+  "triggers": [
+   "the public works march"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2113767357835288818"
  }
 ]
