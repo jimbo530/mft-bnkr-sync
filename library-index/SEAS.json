@@ -9,14 +9,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Feed Your Crew",
-  "triggers": [
-   "feed your crew"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093871372879466617",
-  "tag": "$MfT"
- },
- {
   "name": "The Bells of Port Royal",
   "triggers": [
    "the bells of port royal"
@@ -78,6 +70,14 @@
    "a captain, not a king"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2111759216956313700",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Feed Your Crew",
+  "triggers": [
+   "feed your crew"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2113772410008670372",
   "tag": "$MfT"
  }
 ]

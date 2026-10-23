@@ -1306,14 +1306,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093805938532614152"
  },
  {
-  "band": "SEAS",
-  "name": "Feed Your Crew",
-  "triggers": [
-   "feed your crew"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093871372879466617"
- },
- {
   "band": "Bongo",
   "name": "The Chest That Never Empties",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the public works march"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2113767357835288818"
+ },
+ {
+  "band": "SEAS",
+  "name": "Feed Your Crew",
+  "triggers": [
+   "feed your crew"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2113772410008670372"
  }
 ]
