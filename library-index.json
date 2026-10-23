@@ -1530,14 +1530,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094963554822529044"
  },
  {
-  "band": "EBM",
-  "name": "The Whole Block Came",
-  "triggers": [
-   "the whole block came"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094988699775721752"
- },
- {
   "band": "MR",
   "name": "Feed the Column",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "an army behind you"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2113611403059659015"
+ },
+ {
+  "band": "EBM",
+  "name": "The Whole Block Came",
+  "triggers": [
+   "the whole block came"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2113646609380581443"
  }
 ]
