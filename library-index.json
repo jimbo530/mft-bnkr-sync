@@ -1642,14 +1642,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095406557756379311"
  },
  {
-  "band": "CB",
-  "name": "Eight Inbound",
-  "triggers": [
-   "eight inbound"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095431673374487015"
- },
- {
   "band": "NN",
   "name": "New Address",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "once you have seen"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2113566085085630774"
+ },
+ {
+  "band": "CB",
+  "name": "Eight Inbound",
+  "triggers": [
+   "eight inbound"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2113571126957711465"
  }
 ]
