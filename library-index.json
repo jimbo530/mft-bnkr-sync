@@ -1810,14 +1810,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096413116879737251"
  },
  {
-  "band": "WarMachine",
-  "name": "An Army Behind You",
-  "triggers": [
-   "an army behind you"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096418182328135724"
- },
- {
   "band": "EBM",
   "name": "Revolution of Money",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "eight inbound"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2113571126957711465"
+ },
+ {
+  "band": "WarMachine",
+  "name": "An Army Behind You",
+  "triggers": [
+   "an army behind you"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2113611403059659015"
  }
 ]
