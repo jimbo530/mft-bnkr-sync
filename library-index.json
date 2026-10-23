@@ -2202,14 +2202,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2098069052199403686"
  },
  {
-  "band": "Rish",
-  "name": "Will Ye Come to Shillwood",
-  "triggers": [
-   "will ye come to shillwood"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098094287829274706"
- },
- {
   "band": "MR",
   "name": "Third of the Harvest",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "we throw the party"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2113410054464372834"
+ },
+ {
+  "band": "Rish",
+  "name": "Will Ye Come to Shillwood",
+  "triggers": [
+   "will ye come to shillwood"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2113445291810582625"
  }
 ]
