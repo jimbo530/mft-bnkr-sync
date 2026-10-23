@@ -1874,14 +1874,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096710095287591380"
  },
  {
-  "band": "EBM",
-  "name": "Mutiny",
-  "triggers": [
-   "mutiny"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096735255688303075"
- },
- {
   "band": "Bongo",
   "name": "Welcome To Monkey Town (Name Him Once!)",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the whole block came"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2113646609380581443"
+ },
+ {
+  "band": "EBM",
+  "name": "Mutiny",
+  "triggers": [
+   "mutiny"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2113651606717641059"
  }
 ]
