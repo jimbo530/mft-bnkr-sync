@@ -41,14 +41,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Tunnels of Darkness",
-  "triggers": [
-   "tunnels of darkness"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095597866366439617",
-  "tag": "$MfT"
- },
- {
   "name": "Come and Stay Free",
   "triggers": [
    "come and stay free"
@@ -118,6 +110,14 @@
    "a banana a day (monkey town)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2112559467355144526",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Tunnels of Darkness",
+  "triggers": [
+   "tunnels of darkness"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2113807678963175599",
   "tag": "$MfT"
  }
 ]
