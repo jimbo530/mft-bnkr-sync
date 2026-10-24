@@ -1626,14 +1626,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095945016036196493"
  },
  {
-  "band": "Myco",
-  "name": "The Soil Remembers",
-  "triggers": [
-   "the soil remembers"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095975287183876244"
- },
- {
   "band": "CB",
   "name": "Proof of Function",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "back the beginning"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114054248421896685"
+ },
+ {
+  "band": "Myco",
+  "name": "The Soil Remembers",
+  "triggers": [
+   "the soil remembers"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114089536850448581"
  }
 ]

@@ -152,14 +152,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Soil Remembers",
-  "triggers": [
-   "the soil remembers"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095975287183876244",
-  "tag": "$MfT"
- },
- {
   "name": "- The Beats Hit Different (When They Fund Forests)",
   "triggers": [
    "- the beats hit different (when they fund forests)"
@@ -861,6 +853,14 @@
    "hold the deck"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2113686886992486739",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Soil Remembers",
+  "triggers": [
+   "the soil remembers"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114089536850448581",
   "tag": "$MfT"
  }
 ]
