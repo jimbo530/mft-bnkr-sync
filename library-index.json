@@ -1810,14 +1810,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096705020011962371"
  },
  {
-  "band": "JS",
-  "name": "Money That Feeds",
-  "triggers": [
-   "money that feeds"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096710095287591380"
- },
- {
   "band": "Strut",
   "name": "Bow To Nobody (Dance With Everybody)",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "nobody at the back"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2113928479158735297"
+ },
+ {
+  "band": "JS",
+  "name": "Money That Feeds",
+  "triggers": [
+   "money that feeds"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2113933454215655500"
  }
 ]
