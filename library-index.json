@@ -1386,14 +1386,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094450137661599907"
  },
  {
-  "band": "DD",
-  "name": "Dancefloor Grows a Forest",
-  "triggers": [
-   "dancefloor grows a forest"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094455172210577465"
- },
- {
   "band": "Rish",
   "name": "The Long Weather",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "exact change"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114014067283095803"
+ },
+ {
+  "band": "DD",
+  "name": "Dancefloor Grows a Forest",
+  "triggers": [
+   "dancefloor grows a forest"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114049264913358959"
  }
 ]
