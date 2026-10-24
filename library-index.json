@@ -1730,14 +1730,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096443314396389388"
  },
  {
-  "band": "JS",
-  "name": "Back The Beginning",
-  "triggers": [
-   "back the beginning"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096468473039798561"
- },
- {
   "band": "EBM",
   "name": "No Hands",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "dancefloor grows a forest"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114049264913358959"
+ },
+ {
+  "band": "JS",
+  "name": "Back The Beginning",
+  "triggers": [
+   "back the beginning"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114054248421896685"
  }
 ]
