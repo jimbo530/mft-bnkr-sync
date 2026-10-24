@@ -126,14 +126,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Plug That Backs Real Ones",
-  "triggers": [
-   "plug that backs real ones"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093649874486993304",
-  "tag": "$MfT"
- },
- {
   "name": "Drop Memes, Fund Trees",
   "triggers": [
    "drop memes, fund trees"
@@ -859,6 +851,14 @@
    "mutiny"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2113651606717641059",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Plug That Backs Real Ones",
+  "triggers": [
+   "plug that backs real ones"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114134815050027509",
   "tag": "$MfT"
  }
 ]

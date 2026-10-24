@@ -1226,14 +1226,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093604619196797226"
  },
  {
-  "band": "EBM",
-  "name": "Plug That Backs Real Ones",
-  "triggers": [
-   "plug that backs real ones"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093649874486993304"
- },
- {
   "band": "JS",
   "name": "Decentralize",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "against da fud"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114129786272358691"
+ },
+ {
+  "band": "EBM",
+  "name": "Plug That Backs Real Ones",
+  "triggers": [
+   "plug that backs real ones"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114134815050027509"
  }
 ]
