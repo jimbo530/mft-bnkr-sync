@@ -1274,14 +1274,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093745584532258870"
  },
  {
-  "band": "WarMachine",
-  "name": "Against Da FUD",
-  "triggers": [
-   "against da fud"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093750537028022736"
- },
- {
   "band": "Rish",
   "name": "The Warden's Round",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "already connected"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114094521524855214"
+ },
+ {
+  "band": "WarMachine",
+  "name": "Against Da FUD",
+  "triggers": [
+   "against da fud"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114129786272358691"
  }
 ]

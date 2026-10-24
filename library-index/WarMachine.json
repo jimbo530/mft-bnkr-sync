@@ -9,14 +9,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Against Da FUD",
-  "triggers": [
-   "against da fud"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093750537028022736",
-  "tag": "$MfT"
- },
- {
   "name": "Earn It",
   "triggers": [
    "earn it"
@@ -158,6 +150,14 @@
    "an army behind you"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2113611403059659015",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Against Da FUD",
+  "triggers": [
+   "against da fud"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114129786272358691",
   "tag": "$MfT"
  }
 ]
