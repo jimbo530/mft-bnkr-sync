@@ -1906,14 +1906,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097208371392745540"
  },
  {
-  "band": "Biggins",
-  "name": "It Brought Its Own Pack",
-  "triggers": [
-   "it brought its own pack"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097238635233861852"
- },
- {
   "band": "Strut",
   "name": "Clown Around Town",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the path to personal shows"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2113812665906655342"
+ },
+ {
+  "band": "Biggins",
+  "name": "It Brought Its Own Pack",
+  "triggers": [
+   "it brought its own pack"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2113847892192444869"
  }
 ]
