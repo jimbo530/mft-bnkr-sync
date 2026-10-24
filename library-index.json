@@ -1266,14 +1266,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093710327766466574"
  },
  {
-  "band": "MR",
-  "name": "Champion of the Trees",
-  "triggers": [
-   "champion of the trees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093730410253455839"
- },
- {
   "band": "DGT",
   "name": "Lucky To Be Here",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "it brought its own pack"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2113847892192444869"
+ },
+ {
+  "band": "MR",
+  "name": "Champion of the Trees",
+  "triggers": [
+   "champion of the trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2113852973373637098"
  }
 ]
