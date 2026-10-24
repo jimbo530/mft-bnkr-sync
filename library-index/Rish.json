@@ -41,14 +41,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Spread the Spark",
-  "triggers": [
-   "spread the spark"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095129634853560830",
-  "tag": "$MfT"
- },
- {
   "name": "The Town of the Cats",
   "triggers": [
    "the town of the cats"
@@ -366,6 +358,14 @@
    "will ye come to shillwood"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2113445291810582625",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Spread the Spark",
+  "triggers": [
+   "spread the spark"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2113893210288201839",
   "tag": "$MfT"
  }
 ]

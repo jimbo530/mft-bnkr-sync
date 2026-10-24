@@ -1538,14 +1538,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095084373255102679"
  },
  {
-  "band": "Rish",
-  "name": "Spread the Spark",
-  "triggers": [
-   "spread the spark"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095129634853560830"
- },
- {
   "band": "MR",
   "name": "Everybody in the Circle",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the chest is full (party anyway)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2113888158009938050"
+ },
+ {
+  "band": "Rish",
+  "name": "Spread the Spark",
+  "triggers": [
+   "spread the spark"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2113893210288201839"
  }
 ]
