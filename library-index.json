@@ -1402,14 +1402,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094475356111536163"
  },
  {
-  "band": "Bongo",
-  "name": "The Chest Is Full (Party Anyway)",
-  "triggers": [
-   "the chest is full (party anyway)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094490445090898311"
- },
- {
   "band": "SEAS",
   "name": "The Bells of Port Royal",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "champion of the trees"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2113852973373637098"
+ },
+ {
+  "band": "Bongo",
+  "name": "The Chest Is Full (Party Anyway)",
+  "triggers": [
+   "the chest is full (party anyway)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2113888158009938050"
  }
 ]
