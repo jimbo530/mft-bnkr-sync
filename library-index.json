@@ -1658,14 +1658,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095688326955049239"
  },
  {
-  "band": "NN",
-  "name": "The Path to Personal Shows",
-  "triggers": [
-   "the path to personal shows"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095738652831666569"
- },
- {
   "band": "Bongo",
   "name": "Number Go Up, Number Go Down (Always Fun In Monkey Town)",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "tunnels of darkness"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2113807678963175599"
+ },
+ {
+  "band": "NN",
+  "name": "The Path to Personal Shows",
+  "triggers": [
+   "the path to personal shows"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2113812665906655342"
  }
 ]

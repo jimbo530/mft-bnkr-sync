@@ -33,14 +33,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Path to Personal Shows",
-  "triggers": [
-   "the path to personal shows"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095738652831666569",
-  "tag": "$MfT"
- },
- {
   "name": "Bad for Business",
   "triggers": [
    "bad for business"
@@ -374,6 +366,14 @@
    "the money never leaves the party"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2113732148423258407",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Path to Personal Shows",
+  "triggers": [
+   "the path to personal shows"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2113812665906655342",
   "tag": "$MfT"
  }
 ]
