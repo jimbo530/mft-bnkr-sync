@@ -1482,14 +1482,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094862922778288172"
  },
  {
-  "band": "MR",
-  "name": "Feed the Village",
-  "triggers": [
-   "feed the village"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094903140373934309"
- },
- {
   "band": "Biggins",
   "name": "Name It Once",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "money that feeds"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2113933454215655500"
+ },
+ {
+  "band": "MR",
+  "name": "Feed the Village",
+  "triggers": [
+   "feed the village"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2113973732712595466"
  }
 ]
