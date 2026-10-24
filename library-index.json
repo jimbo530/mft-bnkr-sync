@@ -1626,14 +1626,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095688326955049239"
  },
  {
-  "band": "Bongo",
-  "name": "Number Go Up, Number Go Down (Always Fun In Monkey Town)",
-  "triggers": [
-   "number go up, number go down (always fun in monkey town)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095763828755538195"
- },
- {
   "band": "Myco",
   "name": "Connect the Good",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "feed the village"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2113973732712595466"
+ },
+ {
+  "band": "Bongo",
+  "name": "Number Go Up, Number Go Down (Always Fun In Monkey Town)",
+  "triggers": [
+   "number go up, number go down (always fun in monkey town)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114009001029501033"
  }
 ]
