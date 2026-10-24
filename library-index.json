@@ -1946,14 +1946,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097792233449591288"
  },
  {
-  "band": "Myco",
-  "name": "Already Connected",
-  "triggers": [
-   "already connected"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097882787923612039"
- },
- {
   "band": "RickyBobbie",
   "name": "No Value But Songs We Sing",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the soil remembers"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114089536850448581"
+ },
+ {
+  "band": "Myco",
+  "name": "Already Connected",
+  "triggers": [
+   "already connected"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114094521524855214"
  }
 ]
