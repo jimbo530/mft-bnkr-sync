@@ -2615,19 +2615,6 @@
     "caption": "\"Glad You're Here\" — Jasmine\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2095572826099003559",
-    "translation": "Exact Change",
-    "name": "Exact Change",
-    "triggers": [
-      "exact change"
-    ],
-    "band": "DGT",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2095572826099003559",
-    "caption": "\"Exact Change\" — Damned Good Time Orchestra\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2095688326955049239",
     "translation": "Pull for the Horizon",
     "name": "Pull for the Horizon",
@@ -12610,5 +12597,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2114009001029501033",
     "caption": "\"Number Go Up, Number Go Down (Always Fun In Monkey Town)\" — Bongo\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2114014067283095803",
+    "translation": "Exact Change",
+    "name": "Exact Change",
+    "triggers": [
+      "exact change"
+    ],
+    "band": "DGT",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2114014067283095803",
+    "caption": "\"Exact Change\" — Damned Good Time Orchestra\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

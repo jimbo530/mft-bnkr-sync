@@ -1610,14 +1610,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095547525444866442"
  },
  {
-  "band": "DGT",
-  "name": "Exact Change",
-  "triggers": [
-   "exact change"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095572826099003559"
- },
- {
   "band": "SEAS",
   "name": "Pull for the Horizon",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "number go up, number go down (always fun in monkey town)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114009001029501033"
+ },
+ {
+  "band": "DGT",
+  "name": "Exact Change",
+  "triggers": [
+   "exact change"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114014067283095803"
  }
 ]
