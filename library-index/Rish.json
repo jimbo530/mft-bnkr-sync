@@ -9,14 +9,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Long Weather",
-  "triggers": [
-   "the long weather"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094475356111536163",
-  "tag": "$MfT"
- },
- {
   "name": "The Good Road",
   "triggers": [
    "the good road"
@@ -366,6 +358,14 @@
    "the warden's round"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114336157676798145",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Long Weather",
+  "triggers": [
+   "the long weather"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114376418586968389",
   "tag": "$MfT"
  }
 ]
