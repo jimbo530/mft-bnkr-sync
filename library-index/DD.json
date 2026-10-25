@@ -113,14 +113,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Noon Over The New Grove",
-  "triggers": [
-   "noon over the new grove"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099221661815910815",
-  "tag": "$MfT"
- },
- {
   "name": "Creator Economy",
   "triggers": [
    "creator economy"
@@ -494,6 +486,14 @@
    "dancefloor grows a forest"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114049264913358959",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Noon Over The New Grove",
+  "triggers": [
+   "noon over the new grove"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114250592054870054",
   "tag": "$MfT"
  }
 ]

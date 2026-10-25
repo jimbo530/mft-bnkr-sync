@@ -2106,14 +2106,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2099211584652374162"
  },
  {
-  "band": "DD",
-  "name": "Noon Over The New Grove",
-  "triggers": [
-   "noon over the new grove"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099221661815910815"
- },
- {
   "band": "MR",
   "name": "First The Forest Eats",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "receipts"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114215305316577467"
+ },
+ {
+  "band": "DD",
+  "name": "Noon Over The New Grove",
+  "triggers": [
+   "noon over the new grove"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114250592054870054"
  }
 ]
