@@ -2082,14 +2082,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2099045482894930156"
  },
  {
-  "band": "EBM",
-  "name": "Receipts",
-  "triggers": [
-   "receipts"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099105870076359078"
- },
- {
   "band": "Myco",
   "name": "- Name It Once (Monkey Town)",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "third of the harvest"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114210320663130162"
+ },
+ {
+  "band": "EBM",
+  "name": "Receipts",
+  "triggers": [
+   "receipts"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114215305316577467"
  }
 ]
