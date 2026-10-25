@@ -1650,14 +1650,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096367860310331840"
  },
  {
-  "band": "CB",
-  "name": "Everyone Onchain By Friday",
-  "triggers": [
-   "everyone onchain by friday"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096413116879737251"
- },
- {
   "band": "EBM",
   "name": "Revolution of Money",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the long weather"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114376418586968389"
+ },
+ {
+  "band": "CB",
+  "name": "Everyone Onchain By Friday",
+  "triggers": [
+   "everyone onchain by friday"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114411643123781814"
  }
 ]
