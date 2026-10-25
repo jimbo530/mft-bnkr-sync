@@ -1706,14 +1706,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096765418346066295"
  },
  {
-  "band": "DGT",
-  "name": "Somebody Bet On You",
-  "triggers": [
-   "somebody bet on you"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096830946968264836"
- },
- {
   "band": "MR",
   "name": "Everybody s Welcome",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the chorus is a network"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114456898808188990"
+ },
+ {
+  "band": "DGT",
+  "name": "Somebody Bet On You",
+  "triggers": [
+   "somebody bet on you"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114492211421123027"
  }
 ]
