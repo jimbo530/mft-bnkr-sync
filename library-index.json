@@ -1666,14 +1666,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096317478003425716"
  },
  {
-  "band": "JS",
-  "name": "Ko Came Early",
-  "triggers": [
-   "ko came early"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096337600214626385"
- },
- {
   "band": "Myco",
   "name": "Rain Is the Reason",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "post laugh plant repeat"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114170060981813651"
+ },
+ {
+  "band": "JS",
+  "name": "Ko Came Early",
+  "triggers": [
+   "ko came early"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114175040543474066"
  }
 ]
