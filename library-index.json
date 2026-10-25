@@ -1362,14 +1362,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094409912155578449"
  },
  {
-  "band": "HammerTone",
-  "name": "Proof From the Sky",
-  "triggers": [
-   "proof from the sky"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094450137661599907"
- },
- {
   "band": "Rish",
   "name": "The Long Weather",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "noon over the new grove"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114250592054870054"
+ },
+ {
+  "band": "HammerTone",
+  "name": "Proof From the Sky",
+  "triggers": [
+   "proof from the sky"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114255640642085025"
  }
 ]
