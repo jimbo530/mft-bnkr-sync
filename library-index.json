@@ -1778,14 +1778,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097243607786733763"
  },
  {
-  "band": "CB",
-  "name": "Green Candle Anthem",
-  "triggers": [
-   "green candle anthem"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097354357620555896"
- },
- {
   "band": "MR",
   "name": "The Long Rain Feeds",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "everyone onchain by friday"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114411643123781814"
+ },
+ {
+  "band": "CB",
+  "name": "Green Candle Anthem",
+  "triggers": [
+   "green candle anthem"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114416684677091677"
  }
 ]
