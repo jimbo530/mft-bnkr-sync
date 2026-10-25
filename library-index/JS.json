@@ -41,14 +41,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Build the Grove",
-  "triggers": [
-   "build the grove"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093911593457209837",
-  "tag": "$MfT"
- },
- {
   "name": "I Poured It Tea",
   "triggers": [
    "i poured it tea"
@@ -766,6 +758,14 @@
    "ko came early"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114175040543474066",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Build the Grove",
+  "triggers": [
+   "build the grove"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114451902905700606",
   "tag": "$MfT"
  }
 ]

@@ -1282,14 +1282,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093886435912786204"
  },
  {
-  "band": "JS",
-  "name": "Build the Grove",
-  "triggers": [
-   "build the grove"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093911593457209837"
- },
- {
   "band": "DGT",
   "name": "More Life Than Half the Charts",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "green candle anthem"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114416684677091677"
+ },
+ {
+  "band": "JS",
+  "name": "Build the Grove",
+  "triggers": [
+   "build the grove"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114451902905700606"
  }
 ]
