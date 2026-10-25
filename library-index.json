@@ -1954,14 +1954,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2098069052199403686"
  },
  {
-  "band": "MR",
-  "name": "Third of the Harvest",
-  "triggers": [
-   "third of the harvest"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098099241226752249"
- },
- {
   "band": "Jasmine",
   "name": "Come and Stay Free",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "ko came early"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114175040543474066"
+ },
+ {
+  "band": "MR",
+  "name": "Third of the Harvest",
+  "triggers": [
+   "third of the harvest"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114210320663130162"
  }
 ]
