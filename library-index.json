@@ -1802,14 +1802,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097550638129295763"
  },
  {
-  "band": "Myco",
-  "name": "The Chorus Is a Network",
-  "triggers": [
-   "the chorus is a network"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097555634694594619"
- },
- {
   "band": "DD",
   "name": "Your Name Arrives Before You",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "build the grove"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114451902905700606"
+ },
+ {
+  "band": "Myco",
+  "name": "The Chorus Is a Network",
+  "triggers": [
+   "the chorus is a network"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114456898808188990"
  }
 ]
