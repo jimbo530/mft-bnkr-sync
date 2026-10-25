@@ -1890,14 +1890,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097731957698232545"
  },
  {
-  "band": "Myco",
-  "name": "The Catalog of Tools",
-  "triggers": [
-   "the catalog of tools"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097762054010532170"
- },
- {
   "band": "CB",
   "name": "Light The Spark",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "proof from the sky"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114255640642085025"
+ },
+ {
+  "band": "Myco",
+  "name": "The Catalog of Tools",
+  "triggers": [
+   "the catalog of tools"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114290847508263144"
  }
 ]
