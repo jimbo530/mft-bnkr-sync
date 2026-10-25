@@ -1970,14 +1970,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2098290511408779481"
  },
  {
-  "band": "DGT",
-  "name": "The Benevolent Racket",
-  "triggers": [
-   "the benevolent racket"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098350959415972012"
- },
- {
   "band": "Biggins",
   "name": "Start The Thing",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the warden's round"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114336157676798145"
+ },
+ {
+  "band": "DGT",
+  "name": "The Benevolent Racket",
+  "triggers": [
+   "the benevolent racket"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114371436496236577"
  }
 ]

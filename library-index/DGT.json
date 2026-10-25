@@ -97,14 +97,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Benevolent Racket",
-  "triggers": [
-   "the benevolent racket"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098350959415972012",
-  "tag": "$MfT"
- },
- {
   "name": "We Built the Furnace Ourselves",
   "triggers": [
    "we built the furnace ourselves"
@@ -246,6 +238,14 @@
    "exact change"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114014067283095803",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Benevolent Racket",
+  "triggers": [
+   "the benevolent racket"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114371436496236577",
   "tag": "$MfT"
  }
 ]
