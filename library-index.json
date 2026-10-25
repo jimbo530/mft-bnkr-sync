@@ -1858,14 +1858,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097585881880125471"
  },
  {
-  "band": "Rish",
-  "name": "The First Loaf",
-  "triggers": [
-   "the first loaf"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097641236987367748"
- },
- {
   "band": "CB",
   "name": "STILL HERE (FORWARD)",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the catalog of tools"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114290847508263144"
+ },
+ {
+  "band": "Rish",
+  "name": "The First Loaf",
+  "triggers": [
+   "the first loaf"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114295883525222553"
  }
 ]
