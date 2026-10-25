@@ -1810,14 +1810,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097646228506845313"
  },
  {
-  "band": "EBM",
-  "name": "Vault That Don't Run Dry",
-  "triggers": [
-   "vault that don't run dry"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097671464887484583"
- },
- {
   "band": "DGT",
   "name": "Plant 'Em Where the Ledger Can't Reach",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "somebody bet on you"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114492211421123027"
+ },
+ {
+  "band": "EBM",
+  "name": "Vault That Don't Run Dry",
+  "triggers": [
+   "vault that don't run dry"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114497214651211822"
  }
 ]
