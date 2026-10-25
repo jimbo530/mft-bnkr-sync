@@ -121,14 +121,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Post Laugh Plant Repeat",
-  "triggers": [
-   "post laugh plant repeat"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097736880229933387",
-  "tag": "$MfT"
- },
- {
   "name": "Light The Spark",
   "triggers": [
    "light the spark"
@@ -502,6 +494,14 @@
    "eight inbound"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2113571126957711465",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Post Laugh Plant Repeat",
+  "triggers": [
+   "post laugh plant repeat"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114170060981813651",
   "tag": "$MfT"
  }
 ]
