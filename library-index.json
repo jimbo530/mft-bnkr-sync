@@ -1842,14 +1842,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2098793841054585008"
  },
  {
-  "band": "Myco",
-  "name": "- Spark In The Soil",
-  "triggers": [
-   "- spark in the soil"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098808955434565758"
- },
- {
   "band": "EBM",
   "name": "The Grove Remembers Who Showed Up",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "come and stay free"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114774023431221366"
+ },
+ {
+  "band": "Myco",
+  "name": "- Spark In The Soil",
+  "triggers": [
+   "- spark in the soil"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114779073159299420"
  }
 ]

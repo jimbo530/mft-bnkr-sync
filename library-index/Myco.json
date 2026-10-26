@@ -168,14 +168,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "- Spark In The Soil",
-  "triggers": [
-   "- spark in the soil"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098808955434565758",
-  "tag": "$MfT"
- },
- {
   "name": "- Name It Once (Monkey Town)",
   "triggers": [
    "- name it once (monkey town)"
@@ -861,6 +853,14 @@
    "connect the good"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114612968717423018",
+  "tag": "$MfT"
+ },
+ {
+  "name": "- Spark In The Soil",
+  "triggers": [
+   "- spark in the soil"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114779073159299420",
   "tag": "$MfT"
  }
 ]
