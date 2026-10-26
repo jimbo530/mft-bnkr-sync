@@ -1770,14 +1770,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097887812477493688"
  },
  {
-  "band": "ALAN",
-  "name": "Thanks For Listening",
-  "triggers": [
-   "thanks for listening"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098008640581996797"
- },
- {
   "band": "HammerTone",
   "name": "The Guild That Raises You",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the roads never end"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114814291379470359"
+ },
+ {
+  "band": "ALAN",
+  "name": "Thanks For Listening",
+  "triggers": [
+   "thanks for listening"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114819317569135099"
  }
 ]
