@@ -1290,14 +1290,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093946943755911340"
  },
  {
-  "band": "DD",
-  "name": "The Roads Never End",
-  "triggers": [
-   "the roads never end"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094072696560619768"
- },
- {
   "band": "Bongo",
   "name": "The Hungry Drum",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "- spark in the soil"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114779073159299420"
+ },
+ {
+  "band": "DD",
+  "name": "The Roads Never End",
+  "triggers": [
+   "the roads never end"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114814291379470359"
  }
 ]
