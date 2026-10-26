@@ -1778,14 +1778,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097887812477493688"
  },
  {
-  "band": "Bongo",
-  "name": "Always GM on Robinhood Chain",
-  "triggers": [
-   "always gm on robinhood chain"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098003628015460682"
- },
- {
   "band": "ALAN",
   "name": "Thanks For Listening",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "they came to us"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114733754472149399"
+ },
+ {
+  "band": "Bongo",
+  "name": "Always GM on Robinhood Chain",
+  "triggers": [
+   "always gm on robinhood chain"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114738791533387842"
  }
 ]
