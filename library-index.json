@@ -1570,14 +1570,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096111125674737962"
  },
  {
-  "band": "Rish",
-  "name": "The Town of the Cats",
-  "triggers": [
-   "the town of the cats"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096161440092528841"
- },
- {
   "band": "Myco",
   "name": "- The Beats Hit Different (When They Fund Forests)",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "march of the crownless"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114653189622358368"
+ },
+ {
+  "band": "Rish",
+  "name": "The Town of the Cats",
+  "triggers": [
+   "the town of the cats"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114658215614906821"
  }
 ]
