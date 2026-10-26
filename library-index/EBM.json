@@ -158,14 +158,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "They Came to Us",
-  "triggers": [
-   "they came to us"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094742125447426247",
-  "tag": "$MfT"
- },
- {
   "name": "Grove Report — Jun 18, 2026",
   "triggers": [
    "grove report — jun 18, 2026"
@@ -859,6 +851,14 @@
    "vault that don't run dry"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114497214651211822",
+  "tag": "$MfT"
+ },
+ {
+  "name": "They Came to Us",
+  "triggers": [
+   "they came to us"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114733754472149399",
   "tag": "$MfT"
  }
 ]

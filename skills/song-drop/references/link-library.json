@@ -2211,19 +2211,6 @@
     "caption": "\"Quick Off the Line\" — Ricky Bobbie\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2094742125447426247",
-    "translation": "They Came to Us",
-    "name": "They Came to Us",
-    "triggers": [
-      "they came to us"
-    ],
-    "band": "EBM",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2094742125447426247",
-    "caption": "\"They Came to Us\" — Elves of Ballinmoore\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2094747119118610916",
     "translation": "Grove Report — Jun 18, 2026",
     "name": "Grove Report — Jun 18, 2026",
@@ -12610,5 +12597,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2114698507344838949",
     "caption": "\"New Address\" — Natilie Nightclub\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2114733754472149399",
+    "translation": "They Came to Us",
+    "name": "They Came to Us",
+    "triggers": [
+      "they came to us"
+    ],
+    "band": "EBM",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2114733754472149399",
+    "caption": "\"They Came to Us\" — Elves of Ballinmoore\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
