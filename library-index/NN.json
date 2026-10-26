@@ -25,14 +25,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "New Address",
-  "triggers": [
-   "new address"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095456844135141713",
-  "tag": "$MfT"
- },
- {
   "name": "Bad for Business",
   "triggers": [
    "bad for business"
@@ -374,6 +366,14 @@
    "a lord with manners"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114617992516391392",
+  "tag": "$MfT"
+ },
+ {
+  "name": "New Address",
+  "triggers": [
+   "new address"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114698507344838949",
   "tag": "$MfT"
  }
 ]

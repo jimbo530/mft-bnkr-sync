@@ -1530,14 +1530,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095406557756379311"
  },
  {
-  "band": "NN",
-  "name": "New Address",
-  "triggers": [
-   "new address"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095456844135141713"
- },
- {
   "band": "JS",
   "name": "Name Him Once",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the town of the cats"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114658215614906821"
+ },
+ {
+  "band": "NN",
+  "name": "New Address",
+  "triggers": [
+   "new address"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114698507344838949"
  }
 ]
