@@ -57,14 +57,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "A Lord With Manners",
-  "triggers": [
-   "a lord with manners"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098959876688839072",
-  "tag": "$MfT"
- },
- {
   "name": "Power Of A Meme",
   "triggers": [
    "power of a meme"
@@ -374,6 +366,14 @@
    "the path to personal shows"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2113812665906655342",
+  "tag": "$MfT"
+ },
+ {
+  "name": "A Lord With Manners",
+  "triggers": [
+   "a lord with manners"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114617992516391392",
   "tag": "$MfT"
  }
 ]

@@ -1922,14 +1922,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2098899489595539871"
  },
  {
-  "band": "NN",
-  "name": "A Lord With Manners",
-  "triggers": [
-   "a lord with manners"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098959876688839072"
- },
- {
   "band": "DD",
   "name": "Where the Maps Run Out",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "connect the good"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114612968717423018"
+ },
+ {
+  "band": "NN",
+  "name": "A Lord With Manners",
+  "triggers": [
+   "a lord with manners"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114617992516391392"
  }
 ]
