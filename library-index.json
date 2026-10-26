@@ -1386,14 +1386,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094767256194388463"
  },
  {
-  "band": "DGT",
-  "name": "The Trust That Can't Be Repossessed",
-  "triggers": [
-   "the trust that can't be repossessed"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094807585333326124"
- },
- {
   "band": "Bongo",
   "name": "Both Fires",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "thanks for listening"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114819317569135099"
+ },
+ {
+  "band": "DGT",
+  "name": "The Trust That Can't Be Repossessed",
+  "triggers": [
+   "the trust that can't be repossessed"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114854571080061294"
  }
 ]
