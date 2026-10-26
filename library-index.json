@@ -1562,14 +1562,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095688326955049239"
  },
  {
-  "band": "Myco",
-  "name": "Connect the Good",
-  "triggers": [
-   "connect the good"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095819206633607393"
- },
- {
   "band": "CB",
   "name": "Proof of Function",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "someone bet on the seed"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114577696361456010"
+ },
+ {
+  "band": "Myco",
+  "name": "Connect the Good",
+  "triggers": [
+   "connect the good"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114612968717423018"
  }
 ]

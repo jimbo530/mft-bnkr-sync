@@ -144,14 +144,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Connect the Good",
-  "triggers": [
-   "connect the good"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095819206633607393",
-  "tag": "$MfT"
- },
- {
   "name": "- The Beats Hit Different (When They Fund Forests)",
   "triggers": [
    "- the beats hit different (when they fund forests)"
@@ -861,6 +853,14 @@
    "the chorus is a network"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114456898808188990",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Connect the Good",
+  "triggers": [
+   "connect the good"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114612968717423018",
   "tag": "$MfT"
  }
 ]
