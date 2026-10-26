@@ -1794,14 +1794,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2098063973497073978"
  },
  {
-  "band": "Jasmine",
-  "name": "Come and Stay Free",
-  "triggers": [
-   "come and stay free"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098124400528638120"
- },
- {
   "band": "DD",
   "name": "Every Land Pays In",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "always gm on robinhood chain"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114738791533387842"
+ },
+ {
+  "band": "Jasmine",
+  "name": "Come and Stay Free",
+  "triggers": [
+   "come and stay free"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114774023431221366"
  }
 ]
