@@ -1746,14 +1746,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097359350536757618"
  },
  {
-  "band": "PW",
-  "name": "March Of The Crownless",
-  "triggers": [
-   "march of the crownless"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097384507334676615"
- },
- {
   "band": "MR",
   "name": "Built To Outlive Me",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "a lord with manners"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114617992516391392"
+ },
+ {
+  "band": "PW",
+  "name": "March Of The Crownless",
+  "triggers": [
+   "march of the crownless"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114653189622358368"
  }
 ]

@@ -9,14 +9,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "March Of The Crownless",
-  "triggers": [
-   "march of the crownless"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097384507334676615",
-  "tag": "$MfT"
- },
- {
   "name": "Ship It Loud",
   "triggers": [
    "ship it loud"
@@ -38,6 +30,14 @@
    "the public works march"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2113767357835288818",
+  "tag": "$MfT"
+ },
+ {
+  "name": "March Of The Crownless",
+  "triggers": [
+   "march of the crownless"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114653189622358368",
   "tag": "$MfT"
  }
 ]
