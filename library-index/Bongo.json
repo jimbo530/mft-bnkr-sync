@@ -113,14 +113,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Catch the Song, Pass the Song",
-  "triggers": [
-   "catch the song, pass the song"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095945016036196493",
-  "tag": "$MfT"
- },
- {
   "name": "Slow Trees, Fast Drums",
   "triggers": [
    "slow trees, fast drums"
@@ -366,6 +358,14 @@
    "number go up, number go down (always fun in monkey town)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114009001029501033",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Catch the Song, Pass the Song",
+  "triggers": [
+   "catch the song, pass the song"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114537470066876909",
   "tag": "$MfT"
  }
 ]

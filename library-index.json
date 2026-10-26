@@ -1570,14 +1570,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095819206633607393"
  },
  {
-  "band": "Bongo",
-  "name": "Catch the Song, Pass the Song",
-  "triggers": [
-   "catch the song, pass the song"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095945016036196493"
- },
- {
   "band": "CB",
   "name": "Proof of Function",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "put on a show"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114532439578067454"
+ },
+ {
+  "band": "Bongo",
+  "name": "Catch the Song, Pass the Song",
+  "triggers": [
+   "catch the song, pass the song"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114537470066876909"
  }
 ]
