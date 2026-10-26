@@ -1691,14 +1691,6 @@
  },
  {
   "band": "Strut",
-  "name": "Put On A Show",
-  "triggers": [
-   "put on a show"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096705020011962371"
- },
- {
-  "band": "Strut",
   "name": "Bow To Nobody (Dance With Everybody)",
   "triggers": [
    "bow to nobody (dance with everybody)"
@@ -7760,5 +7752,13 @@
    "vault that don't run dry"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114497214651211822"
+ },
+ {
+  "band": "Strut",
+  "name": "Put On A Show",
+  "triggers": [
+   "put on a show"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114532439578067454"
  }
 ]
