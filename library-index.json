@@ -1842,14 +1842,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2098063973497073978"
  },
  {
-  "band": "MR",
-  "name": "Name It Once",
-  "triggers": [
-   "name it once"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098069052199403686"
- },
- {
   "band": "Jasmine",
   "name": "Come and Stay Free",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "catch the song, pass the song"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114537470066876909"
+ },
+ {
+  "band": "MR",
+  "name": "Name It Once",
+  "triggers": [
+   "name it once"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114572696503607751"
  }
 ]
