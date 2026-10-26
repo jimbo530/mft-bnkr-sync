@@ -1882,14 +1882,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2099211584652374162"
  },
  {
-  "band": "MR",
-  "name": "First The Forest Eats",
-  "triggers": [
-   "first the forest eats"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099266958201954329"
- },
- {
   "band": "Bongo",
   "name": "One Brick",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the trust that can't be repossessed"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114854571080061294"
+ },
+ {
+  "band": "MR",
+  "name": "First The Forest Eats",
+  "triggers": [
+   "first the forest eats"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114859581562061271"
  }
 ]
