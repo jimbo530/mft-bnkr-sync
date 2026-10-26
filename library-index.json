@@ -1866,14 +1866,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2098169727411462289"
  },
  {
-  "band": "MR",
-  "name": "Someone Bet On The Seed",
-  "triggers": [
-   "someone bet on the seed"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098199920582791349"
- },
- {
   "band": "DD",
   "name": "One River",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "name it once"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114572696503607751"
+ },
+ {
+  "band": "MR",
+  "name": "Someone Bet On The Seed",
+  "triggers": [
+   "someone bet on the seed"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114577696361456010"
  }
 ]
