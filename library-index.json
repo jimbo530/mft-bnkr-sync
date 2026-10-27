@@ -1666,14 +1666,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097208371392745540"
  },
  {
-  "band": "Strut",
-  "name": "Clown Around Town",
-  "triggers": [
-   "clown around town"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097243607786733763"
- },
- {
   "band": "MR",
   "name": "The Long Rain Feeds",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "glad you're here"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114940108826681552"
+ },
+ {
+  "band": "Strut",
+  "name": "Clown Around Town",
+  "triggers": [
+   "clown around town"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114975336471404675"
  }
 ]
