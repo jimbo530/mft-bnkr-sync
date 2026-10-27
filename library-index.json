@@ -1522,14 +1522,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096241977536774150"
  },
  {
-  "band": "CB",
-  "name": "Attention Tree Appreciators",
-  "triggers": [
-   "attention tree appreciators"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096292321687945612"
- },
- {
   "band": "JS",
   "name": "The Magic s in the Crowd",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "- every day above the dark"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2115020652843290660"
+ },
+ {
+  "band": "CB",
+  "name": "Attention Tree Appreciators",
+  "triggers": [
+   "attention tree appreciators"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2115060867083444577"
  }
 ]
