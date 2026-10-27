@@ -1770,14 +1770,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2099186429003763898"
  },
  {
-  "band": "Rish",
-  "name": "The Hillside Remembers",
-  "triggers": [
-   "the hillside remembers"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099211584652374162"
- },
- {
   "band": "Bongo",
   "name": "One Brick",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "one river"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2115141436911890537"
+ },
+ {
+  "band": "Rish",
+  "name": "The Hillside Remembers",
+  "triggers": [
+   "the hillside remembers"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2115176668868321547"
  }
 ]
