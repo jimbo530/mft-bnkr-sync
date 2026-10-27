@@ -7186,14 +7186,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2113646609380581443"
  },
  {
-  "band": "EBM",
-  "name": "Mutiny",
-  "triggers": [
-   "mutiny"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2113651606717641059"
- },
- {
   "band": "Myco",
   "name": "Hold the Deck",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the hillside remembers"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2115176668868321547"
+ },
+ {
+  "band": "EBM",
+  "name": "Mutiny",
+  "triggers": [
+   "mutiny"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2115181695364178015"
  }
 ]
