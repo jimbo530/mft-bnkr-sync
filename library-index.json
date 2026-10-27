@@ -1746,14 +1746,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097792233449591288"
  },
  {
-  "band": "RickyBobbie",
-  "name": "No Value But Songs We Sing",
-  "triggers": [
-   "no value but songs we sing"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097887812477493688"
- },
- {
   "band": "HammerTone",
   "name": "The Guild That Raises You",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "compost by the snow"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114894805595537856"
+ },
+ {
+  "band": "RickyBobbie",
+  "name": "No Value But Songs We Sing",
+  "triggers": [
+   "no value but songs we sing"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114899815456776459"
  }
 ]
