@@ -1634,14 +1634,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097117787822932291"
  },
  {
-  "band": "Strut",
-  "name": "We Make Things Work",
-  "triggers": [
-   "we make things work"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097208371392745540"
- },
- {
   "band": "MR",
   "name": "The Long Rain Feeds",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "plant it loud"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2115096138487316537"
+ },
+ {
+  "band": "Strut",
+  "name": "We Make Things Work",
+  "triggers": [
+   "we make things work"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2115101167080362466"
  }
 ]
