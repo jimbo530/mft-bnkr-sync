@@ -1402,14 +1402,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095029011365634503"
  },
  {
-  "band": "Myco",
-  "name": "- Every Day Above the Dark",
-  "triggers": [
-   "- every day above the dark"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095064261940711662"
- },
- {
   "band": "Rish",
   "name": "Just Say It, Wee One",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "start the thing"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2115015570571596171"
+ },
+ {
+  "band": "Myco",
+  "name": "- Every Day Above the Dark",
+  "triggers": [
+   "- every day above the dark"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2115020652843290660"
  }
 ]
