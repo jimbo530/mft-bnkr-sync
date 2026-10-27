@@ -17,14 +17,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Feed the Column",
-  "triggers": [
-   "feed the column"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095029011365634503",
-  "tag": "$MfT"
- },
- {
   "name": "Everybody in the Circle",
   "triggers": [
    "everybody in the circle"
@@ -438,6 +430,14 @@
    "first the forest eats"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114859581562061271",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Feed the Column",
+  "triggers": [
+   "feed the column"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2115136366526828630",
   "tag": "$MfT"
  }
 ]

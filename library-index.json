@@ -1394,14 +1394,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094963554822529044"
  },
  {
-  "band": "MR",
-  "name": "Feed the Column",
-  "triggers": [
-   "feed the column"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095029011365634503"
- },
- {
   "band": "Rish",
   "name": "Just Say It, Wee One",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "we make things work"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2115101167080362466"
+ },
+ {
+  "band": "MR",
+  "name": "Feed the Column",
+  "triggers": [
+   "feed the column"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2115136366526828630"
  }
 ]
