@@ -41,14 +41,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Kind Folk (In the Strangest Places)",
-  "triggers": [
-   "kind folk (in the strangest places)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093503976431841313",
-  "tag": "$MfT"
- },
- {
   "name": "One Long Breath",
   "triggers": [
    "one long breath"
@@ -494,6 +486,14 @@
    "one river"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2115141436911890537",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Kind Folk (In the Strangest Places)",
+  "triggers": [
+   "kind folk (in the strangest places)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2115216970958184591",
   "tag": "$MfT"
  }
 ]

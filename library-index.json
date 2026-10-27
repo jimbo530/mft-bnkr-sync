@@ -1178,14 +1178,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093045953070575889"
  },
  {
-  "band": "DD",
-  "name": "Kind Folk (In the Strangest Places)",
-  "triggers": [
-   "kind folk (in the strangest places)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093503976431841313"
- },
- {
   "band": "Bongo",
   "name": "CHARGE! (The Ballad of Bold Nobi)",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "mutiny"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2115181695364178015"
+ },
+ {
+  "band": "DD",
+  "name": "Kind Folk (In the Strangest Places)",
+  "triggers": [
+   "kind folk (in the strangest places)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2115216970958184591"
  }
 ]
