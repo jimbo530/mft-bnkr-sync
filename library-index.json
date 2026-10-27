@@ -1346,14 +1346,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094530661839192445"
  },
  {
-  "band": "EBM",
-  "name": "Name It Once",
-  "triggers": [
-   "name it once"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094561000166969769"
- },
- {
   "band": "RickyBobbie",
   "name": "Quick Off the Line",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "clown around town"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114975336471404675"
+ },
+ {
+  "band": "EBM",
+  "name": "Name It Once",
+  "triggers": [
+   "name it once"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114980329840693303"
  }
 ]

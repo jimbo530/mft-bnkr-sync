@@ -142,14 +142,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Name It Once",
-  "triggers": [
-   "name it once"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094561000166969769",
-  "tag": "$MfT"
- },
- {
   "name": "Grove Report — Jun 18, 2026",
   "triggers": [
    "grove report — jun 18, 2026"
@@ -859,6 +851,14 @@
    "compost by the snow"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114894805595537856",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Name It Once",
+  "triggers": [
+   "name it once"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114980329840693303",
   "tag": "$MfT"
  }
 ]
