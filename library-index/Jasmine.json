@@ -33,14 +33,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Glad You're Here",
-  "triggers": [
-   "glad you're here"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095547525444866442",
-  "tag": "$MfT"
- },
- {
   "name": "One Family At A Time",
   "triggers": [
    "one family at a time"
@@ -118,6 +110,14 @@
    "come and stay free"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114774023431221366",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Glad You're Here",
+  "triggers": [
+   "glad you're here"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114940108826681552",
   "tag": "$MfT"
  }
 ]
