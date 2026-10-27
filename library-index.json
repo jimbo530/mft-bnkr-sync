@@ -1266,14 +1266,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093805938532614152"
  },
  {
-  "band": "Bongo",
-  "name": "The Chest That Never Empties",
-  "triggers": [
-   "the chest that never empties"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093886435912786204"
- },
- {
   "band": "DGT",
   "name": "More Life Than Half the Charts",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "kind folk (in the strangest places)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2115216970958184591"
+ },
+ {
+  "band": "Bongo",
+  "name": "The Chest That Never Empties",
+  "triggers": [
+   "the chest that never empties"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2115221961068458131"
  }
 ]
