@@ -1706,14 +1706,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2098169727411462289"
  },
  {
-  "band": "DD",
-  "name": "One River",
-  "triggers": [
-   "one river"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098255281222279436"
- },
- {
   "band": "Strut",
   "name": "You're The Show",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "feed the column"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2115136366526828630"
+ },
+ {
+  "band": "DD",
+  "name": "One River",
+  "triggers": [
+   "one river"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2115141436911890537"
  }
 ]
