@@ -1306,14 +1306,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094173392618266891"
  },
  {
-  "band": "EBM",
-  "name": "Compost By The Snow",
-  "triggers": [
-   "compost by the snow"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094253836479213836"
- },
- {
   "band": "Strut",
   "name": "Learn Out Loud",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "first the forest eats"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114859581562061271"
+ },
+ {
+  "band": "EBM",
+  "name": "Compost By The Snow",
+  "triggers": [
+   "compost by the snow"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114894805595537856"
  }
 ]
