@@ -97,14 +97,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Both Fires",
-  "triggers": [
-   "both fires"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094847777012355299",
-  "tag": "$MfT"
- },
- {
   "name": "Burgers From the Sky",
   "triggers": [
    "burgers from the sky"
@@ -366,6 +358,14 @@
    "always gm on robinhood chain"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114738791533387842",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Both Fires",
+  "triggers": [
+   "both fires"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114935038621941883",
   "tag": "$MfT"
  }
 ]

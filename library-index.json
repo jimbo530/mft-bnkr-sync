@@ -1378,14 +1378,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094767256194388463"
  },
  {
-  "band": "Bongo",
-  "name": "Both Fires",
-  "triggers": [
-   "both fires"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094847777012355299"
- },
- {
   "band": "Rish",
   "name": "The Good Road",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "no value but songs we sing"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114899815456776459"
+ },
+ {
+  "band": "Bongo",
+  "name": "Both Fires",
+  "triggers": [
+   "both fires"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2114935038621941883"
  }
 ]
