@@ -2162,14 +2162,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101043597369848073"
  },
  {
-  "band": "EBM",
-  "name": "Never Miss a Day",
-  "triggers": [
-   "never miss a day"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101068806064091247"
- },
- {
   "band": "CB",
   "name": "EBM - Together we grow CB",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "bread and water"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2115539043781874134"
+ },
+ {
+  "band": "EBM",
+  "name": "Never Miss a Day",
+  "triggers": [
+   "never miss a day"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2115544081992417721"
  }
 ]
