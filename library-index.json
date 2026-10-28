@@ -1522,14 +1522,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096589323353088097"
  },
  {
-  "band": "Myco",
-  "name": "- Mycelium Never Empties",
-  "triggers": [
-   "- mycelium never empties"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096619562003272092"
- },
- {
   "band": "EBM",
   "name": "The Bulletin",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "built to outlive me"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2115377985947648248"
+ },
+ {
+  "band": "Myco",
+  "name": "- Mycelium Never Empties",
+  "triggers": [
+   "- mycelium never empties"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2115383033578606764"
  }
 ]

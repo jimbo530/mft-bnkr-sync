@@ -152,14 +152,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "- Mycelium Never Empties",
-  "triggers": [
-   "- mycelium never empties"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096619562003272092",
-  "tag": "$MfT"
- },
- {
   "name": "- Name It Once (Monkey Town)",
   "triggers": [
    "- name it once (monkey town)"
@@ -861,6 +853,14 @@
    "- every day above the dark"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2115020652843290660",
+  "tag": "$MfT"
+ },
+ {
+  "name": "- Mycelium Never Empties",
+  "triggers": [
+   "- mycelium never empties"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2115383033578606764",
   "tag": "$MfT"
  }
 ]
