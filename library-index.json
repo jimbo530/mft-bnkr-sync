@@ -1458,14 +1458,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095688326955049239"
  },
  {
-  "band": "Myco",
-  "name": "- The Beats Hit Different (When They Fund Forests)",
-  "triggers": [
-   "- the beats hit different (when they fund forests)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096186662875173315"
- },
- {
   "band": "Bongo",
   "name": "Slow Trees, Fast Drums",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the grove remembers who showed up"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2115423284049174853"
+ },
+ {
+  "band": "Myco",
+  "name": "- The Beats Hit Different (When They Fund Forests)",
+  "triggers": [
+   "- the beats hit different (when they fund forests)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2115458519130341504"
  }
 ]
