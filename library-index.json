@@ -1642,14 +1642,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097731957698232545"
  },
  {
-  "band": "HammerTone",
-  "name": "The Guild That Raises You",
-  "triggers": [
-   "the guild that raises you"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098063973497073978"
- },
- {
   "band": "DD",
   "name": "Every Land Pays In",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "light the spark"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2115302494511231432"
+ },
+ {
+  "band": "HammerTone",
+  "name": "The Guild That Raises You",
+  "triggers": [
+   "the guild that raises you"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2115337731102450114"
  }
 ]
