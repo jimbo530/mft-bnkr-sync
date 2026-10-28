@@ -41,14 +41,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Built To Outlive Me",
-  "triggers": [
-   "built to outlive me"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097475168524218707",
-  "tag": "$MfT"
- },
- {
   "name": "Work Now Dance Later",
   "triggers": [
    "work now dance later"
@@ -438,6 +430,14 @@
    "pennies with receipts"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2115297484318613660",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Built To Outlive Me",
+  "triggers": [
+   "built to outlive me"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2115377985947648248",
   "tag": "$MfT"
  }
 ]

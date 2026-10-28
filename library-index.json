@@ -1594,14 +1594,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097359350536757618"
  },
  {
-  "band": "MR",
-  "name": "Built To Outlive Me",
-  "triggers": [
-   "built to outlive me"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097475168524218707"
- },
- {
   "band": "Rish",
   "name": "Bread and Water",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "more life than half the charts"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2115342805342056558"
+ },
+ {
+  "band": "MR",
+  "name": "Built To Outlive Me",
+  "triggers": [
+   "built to outlive me"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2115377985947648248"
  }
 ]
