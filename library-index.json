@@ -1378,14 +1378,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095069235336589511"
  },
  {
-  "band": "Gurdy",
-  "name": "Crank The Wheel (Monkey Town)",
-  "triggers": [
-   "crank the wheel (monkey town)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095084373255102679"
- },
- {
   "band": "MR",
   "name": "Everybody in the Circle",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "let it die (watch me)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2115463546075009206"
+ },
+ {
+  "band": "Gurdy",
+  "name": "Crank The Wheel (Monkey Town)",
+  "triggers": [
+   "crank the wheel (monkey town)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2115498780350898667"
  }
 ]
