@@ -1266,14 +1266,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093805938532614152"
  },
  {
-  "band": "DGT",
-  "name": "More Life Than Half the Charts",
-  "triggers": [
-   "more life than half the charts"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093946943755911340"
- },
- {
   "band": "Bongo",
   "name": "The Hungry Drum",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the guild that raises you"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2115337731102450114"
+ },
+ {
+  "band": "DGT",
+  "name": "More Life Than Half the Charts",
+  "triggers": [
+   "more life than half the charts"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2115342805342056558"
  }
 ]
