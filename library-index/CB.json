@@ -81,14 +81,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Proof of Function",
-  "triggers": [
-   "proof of function"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096111125674737962",
-  "tag": "$MfT"
- },
- {
   "name": "STILL HERE (FORWARD)",
   "triggers": [
    "still here (forward)"
@@ -502,6 +494,14 @@
    "plant it loud"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2115096138487316537",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Proof of Function",
+  "triggers": [
+   "proof of function"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2115262186956214412",
   "tag": "$MfT"
  }
 ]

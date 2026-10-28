@@ -1466,14 +1466,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095688326955049239"
  },
  {
-  "band": "CB",
-  "name": "Proof of Function",
-  "triggers": [
-   "proof of function"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096111125674737962"
- },
- {
   "band": "Myco",
   "name": "- The Beats Hit Different (When They Fund Forests)",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the magic s in the crowd"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2115257149433446412"
+ },
+ {
+  "band": "CB",
+  "name": "Proof of Function",
+  "triggers": [
+   "proof of function"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2115262186956214412"
  }
 ]
