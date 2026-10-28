@@ -1498,14 +1498,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096241977536774150"
  },
  {
-  "band": "JS",
-  "name": "The Magic s in the Crowd",
-  "triggers": [
-   "the magic s in the crowd"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096317478003425716"
- },
- {
   "band": "Myco",
   "name": "Rain Is the Reason",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the chest that never empties"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2115221961068458131"
+ },
+ {
+  "band": "JS",
+  "name": "The Magic s in the Crowd",
+  "triggers": [
+   "the magic s in the crowd"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2115257149433446412"
  }
 ]
