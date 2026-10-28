@@ -1642,14 +1642,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097731957698232545"
  },
  {
-  "band": "CB",
-  "name": "Light The Spark",
-  "triggers": [
-   "light the spark"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097792233449591288"
- },
- {
   "band": "HammerTone",
   "name": "The Guild That Raises You",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "pennies with receipts"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2115297484318613660"
+ },
+ {
+  "band": "CB",
+  "name": "Light The Spark",
+  "triggers": [
+   "light the spark"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2115302494511231432"
  }
 ]
