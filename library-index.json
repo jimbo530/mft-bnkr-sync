@@ -1706,14 +1706,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2099478292055105582"
  },
  {
-  "band": "Biggins",
-  "name": "Let It Die (Watch Me)",
-  "triggers": [
-   "let it die (watch me)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099483324825620725"
- },
- {
   "band": "Jasmine",
   "name": "One Family At A Time",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "- the beats hit different (when they fund forests)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2115458519130341504"
+ },
+ {
+  "band": "Biggins",
+  "name": "Let It Die (Watch Me)",
+  "triggers": [
+   "let it die (watch me)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2115463546075009206"
  }
 ]
