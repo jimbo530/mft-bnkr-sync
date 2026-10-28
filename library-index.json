@@ -2258,14 +2258,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101068806064091247"
  },
  {
-  "band": "MR",
-  "name": "Pennies With Receipts",
-  "triggers": [
-   "pennies with receipts"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101073844123607125"
- },
- {
   "band": "CB",
   "name": "EBM - Together we grow CB",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "proof of function"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2115262186956214412"
+ },
+ {
+  "band": "MR",
+  "name": "Pennies With Receipts",
+  "triggers": [
+   "pennies with receipts"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2115297484318613660"
  }
 ]

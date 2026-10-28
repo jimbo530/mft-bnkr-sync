@@ -3668,19 +3668,6 @@
     "caption": "\"Never Miss a Day\" — Elves of Ballinmoore\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2101073844123607125",
-    "translation": "Pennies With Receipts",
-    "name": "Pennies With Receipts",
-    "triggers": [
-      "pennies with receipts"
-    ],
-    "band": "MR",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2101073844123607125",
-    "caption": "\"Pennies With Receipts\" — Moon Rasta\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2101098998832722127",
     "translation": "EBM - Together we grow CB",
     "name": "EBM - Together we grow CB",
@@ -12610,5 +12597,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2115262186956214412",
     "caption": "\"Proof of Function\" — CB\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2115297484318613660",
+    "translation": "Pennies With Receipts",
+    "name": "Pennies With Receipts",
+    "triggers": [
+      "pennies with receipts"
+    ],
+    "band": "MR",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2115297484318613660",
+    "caption": "\"Pennies With Receipts\" — Moon Rasta\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
