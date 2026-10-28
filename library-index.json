@@ -1650,14 +1650,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2098793841054585008"
  },
  {
-  "band": "EBM",
-  "name": "The Grove Remembers Who Showed Up",
-  "triggers": [
-   "the grove remembers who showed up"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098834091005051178"
- },
- {
   "band": "RickyBobbie",
   "name": "Sail With The Crownless",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "- mycelium never empties"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2115383033578606764"
+ },
+ {
+  "band": "EBM",
+  "name": "The Grove Remembers Who Showed Up",
+  "triggers": [
+   "the grove remembers who showed up"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2115423284049174853"
  }
 ]
