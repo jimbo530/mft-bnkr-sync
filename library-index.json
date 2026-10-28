@@ -1562,14 +1562,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097359350536757618"
  },
  {
-  "band": "Rish",
-  "name": "Bread and Water",
-  "triggers": [
-   "bread and water"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097550638129295763"
- },
- {
   "band": "DD",
   "name": "Your Name Arrives Before You",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "learn out loud"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2115503807576641957"
+ },
+ {
+  "band": "Rish",
+  "name": "Bread and Water",
+  "triggers": [
+   "bread and water"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2115539043781874134"
  }
 ]
