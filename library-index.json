@@ -1282,14 +1282,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094173392618266891"
  },
  {
-  "band": "Strut",
-  "name": "Learn Out Loud",
-  "triggers": [
-   "learn out loud"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094314276982813145"
- },
- {
   "band": "JS",
   "name": "I Poured It Tea",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "crank the wheel (monkey town)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2115498780350898667"
+ },
+ {
+  "band": "Strut",
+  "name": "Learn Out Loud",
+  "triggers": [
+   "learn out loud"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2115503807576641957"
  }
 ]
