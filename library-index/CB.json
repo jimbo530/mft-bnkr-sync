@@ -81,14 +81,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "STILL HERE (FORWARD)",
-  "triggers": [
-   "still here (forward)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097646228506845313",
-  "tag": "$MfT"
- },
- {
   "name": "STILL HERE FORWARD",
   "triggers": [
    "still here forward"
@@ -502,6 +494,14 @@
    "light the spark"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2115302494511231432",
+  "tag": "$MfT"
+ },
+ {
+  "name": "STILL HERE (FORWARD)",
+  "triggers": [
+   "still here (forward)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2115946849970389283",
   "tag": "$MfT"
  }
 ]

@@ -1514,14 +1514,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097585881880125471"
  },
  {
-  "band": "CB",
-  "name": "STILL HERE (FORWARD)",
-  "triggers": [
-   "still here (forward)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097646228506845313"
- },
- {
   "band": "DGT",
   "name": "Plant 'Em Where the Ledger Can't Reach",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "i poured it tea"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2115941769112170708"
+ },
+ {
+  "band": "CB",
+  "name": "STILL HERE (FORWARD)",
+  "triggers": [
+   "still here (forward)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2115946849970389283"
  }
 ]
