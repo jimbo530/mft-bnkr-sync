@@ -2368,19 +2368,6 @@
     "caption": "\"- Rain Is the Reason\" — Myco\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2096438310704947433",
-    "translation": "Revolution of Money",
-    "name": "Revolution of Money",
-    "triggers": [
-      "revolution of money"
-    ],
-    "band": "EBM",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2096438310704947433",
-    "caption": "\"Revolution of Money\" — Elves of Ballinmoore\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2096443314396389388",
     "translation": "Bad for Business",
     "name": "Bad for Business",
@@ -12610,5 +12597,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2115821020116381855",
     "caption": "\"Raise the Hall\" — Hammer Tone\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2115826008645349621",
+    "translation": "Revolution of Money",
+    "name": "Revolution of Money",
+    "triggers": [
+      "revolution of money"
+    ],
+    "band": "EBM",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2115826008645349621",
+    "caption": "\"Revolution of Money\" — Elves of Ballinmoore\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

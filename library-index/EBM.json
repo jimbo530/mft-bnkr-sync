@@ -174,14 +174,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Revolution of Money",
-  "triggers": [
-   "revolution of money"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096438310704947433",
-  "tag": "$MfT"
- },
- {
   "name": "No Hands",
   "triggers": [
    "no hands"
@@ -859,6 +851,14 @@
    "never miss a day"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2115544081992417721",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Revolution of Money",
+  "triggers": [
+   "revolution of money"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2115826008645349621",
   "tag": "$MfT"
  }
 ]

@@ -1458,14 +1458,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096367860310331840"
  },
  {
-  "band": "EBM",
-  "name": "Revolution of Money",
-  "triggers": [
-   "revolution of money"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096438310704947433"
- },
- {
   "band": "NN",
   "name": "Bad for Business",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "raise the hall"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2115821020116381855"
+ },
+ {
+  "band": "EBM",
+  "name": "Revolution of Money",
+  "triggers": [
+   "revolution of money"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2115826008645349621"
  }
 ]
