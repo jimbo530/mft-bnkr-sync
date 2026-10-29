@@ -73,14 +73,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Roots That Hold Forever",
-  "triggers": [
-   "roots that hold forever"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098793841054585008",
-  "tag": "$MfT"
- },
- {
   "name": "Where the Maps Run Out",
   "triggers": [
    "where the maps run out"
@@ -494,6 +486,14 @@
    "kind folk (in the strangest places)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2115216970958184591",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Roots That Hold Forever",
+  "triggers": [
+   "roots that hold forever"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2115861285887762502",
   "tag": "$MfT"
  }
 ]

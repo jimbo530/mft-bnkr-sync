@@ -1586,14 +1586,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2098290511408779481"
  },
  {
-  "band": "DD",
-  "name": "Roots That Hold Forever",
-  "triggers": [
-   "roots that hold forever"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098793841054585008"
- },
- {
   "band": "RickyBobbie",
   "name": "Sail With The Crownless",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "revolution of money"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2115826008645349621"
+ },
+ {
+  "band": "DD",
+  "name": "Roots That Hold Forever",
+  "triggers": [
+   "roots that hold forever"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2115861285887762502"
  }
 ]
