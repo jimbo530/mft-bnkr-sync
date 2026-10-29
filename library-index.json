@@ -1650,14 +1650,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2099427960709173302"
  },
  {
-  "band": "HammerTone",
-  "name": "Raise the Hall",
-  "triggers": [
-   "raise the hall"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099432994310107487"
- },
- {
   "band": "Biggins",
   "name": "Harder To Get In (If Your Daddy Did)",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the bells of port royal"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2115785743549214953"
+ },
+ {
+  "band": "HammerTone",
+  "name": "Raise the Hall",
+  "triggers": [
+   "raise the hall"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2115821020116381855"
  }
 ]
