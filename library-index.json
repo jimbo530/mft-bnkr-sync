@@ -1226,14 +1226,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093664983343092195"
  },
  {
-  "band": "DGT",
-  "name": "One More Plate Before Dawn",
-  "triggers": [
-   "one more plate before dawn"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093670071830745264"
- },
- {
   "band": "EBM",
   "name": "Drop Memes, Fund Trees",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the good road"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2115866316800172187"
+ },
+ {
+  "band": "DGT",
+  "name": "One More Plate Before Dawn",
+  "triggers": [
+   "one more plate before dawn"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2115901645783527734"
  }
 ]
