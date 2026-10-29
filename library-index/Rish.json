@@ -9,14 +9,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Good Road",
-  "triggers": [
-   "the good road"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094862922778288172",
-  "tag": "$MfT"
- },
- {
   "name": "Just Say It, Wee One",
   "triggers": [
    "just say it, wee one"
@@ -366,6 +358,14 @@
    "bread and water"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2115539043781874134",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Good Road",
+  "triggers": [
+   "the good road"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2115866316800172187",
   "tag": "$MfT"
  }
 ]

@@ -1330,14 +1330,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094767256194388463"
  },
  {
-  "band": "Rish",
-  "name": "The Good Road",
-  "triggers": [
-   "the good road"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094862922778288172"
- },
- {
   "band": "Biggins",
   "name": "Name It Once",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "roots that hold forever"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2115861285887762502"
+ },
+ {
+  "band": "Rish",
+  "name": "The Good Road",
+  "triggers": [
+   "the good road"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2115866316800172187"
  }
 ]
