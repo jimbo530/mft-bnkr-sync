@@ -1274,14 +1274,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094173392618266891"
  },
  {
-  "band": "JS",
-  "name": "I Poured It Tea",
-  "triggers": [
-   "i poured it tea"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094369601727402136"
- },
- {
   "band": "WarMachine",
   "name": "Earn It",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "slow trees, fast drums"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2115906544197914990"
+ },
+ {
+  "band": "JS",
+  "name": "I Poured It Tea",
+  "triggers": [
+   "i poured it tea"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2115941769112170708"
  }
 ]
