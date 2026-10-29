@@ -97,14 +97,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Slow Trees, Fast Drums",
-  "triggers": [
-   "slow trees, fast drums"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096236992899985464",
-  "tag": "$MfT"
- },
- {
   "name": "One Brick",
   "triggers": [
    "one brick"
@@ -366,6 +358,14 @@
    "set sail (seize the seas)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2115579269703197117",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Slow Trees, Fast Drums",
+  "triggers": [
+   "slow trees, fast drums"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2115906544197914990",
   "tag": "$MfT"
  }
 ]

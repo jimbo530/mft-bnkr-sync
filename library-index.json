@@ -1418,14 +1418,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095688326955049239"
  },
  {
-  "band": "Bongo",
-  "name": "Slow Trees, Fast Drums",
-  "triggers": [
-   "slow trees, fast drums"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096236992899985464"
- },
- {
   "band": "EBM",
   "name": "Hoodies for the People",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "one more plate before dawn"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2115901645783527734"
+ },
+ {
+  "band": "Bongo",
+  "name": "Slow Trees, Fast Drums",
+  "triggers": [
+   "slow trees, fast drums"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2115906544197914990"
  }
 ]
