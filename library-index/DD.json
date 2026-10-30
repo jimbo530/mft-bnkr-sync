@@ -65,14 +65,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Where the Maps Run Out",
-  "triggers": [
-   "where the maps run out"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098990120426696800",
-  "tag": "$MfT"
- },
- {
   "name": "Creator Economy",
   "triggers": [
    "creator economy"
@@ -494,6 +486,14 @@
    "your name arrives before you"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2115987119424393707",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Where the Maps Run Out",
+  "triggers": [
+   "where the maps run out"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116102874472100034",
   "tag": "$MfT"
  }
 ]

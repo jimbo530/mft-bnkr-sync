@@ -1538,14 +1538,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2098899489595539871"
  },
  {
-  "band": "DD",
-  "name": "Where the Maps Run Out",
-  "triggers": [
-   "where the maps run out"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098990120426696800"
- },
- {
   "band": "Myco",
   "name": "- Name It Once (Monkey Town)",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "one brick"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116067594687930464"
+ },
+ {
+  "band": "DD",
+  "name": "Where the Maps Run Out",
+  "triggers": [
+   "where the maps run out"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116102874472100034"
  }
 ]
