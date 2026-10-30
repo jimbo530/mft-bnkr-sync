@@ -1274,14 +1274,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094173392618266891"
  },
  {
-  "band": "WarMachine",
-  "name": "Earn It",
-  "triggers": [
-   "earn it"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094409912155578449"
- },
- {
   "band": "Bongo",
   "name": "The Coconut Takes Requests",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "still here forward"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116268959326421486"
+ },
+ {
+  "band": "WarMachine",
+  "name": "Earn It",
+  "triggers": [
+   "earn it"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116304192075653578"
  }
 ]
