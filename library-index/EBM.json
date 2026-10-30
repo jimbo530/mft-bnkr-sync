@@ -174,14 +174,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "No Hands",
-  "triggers": [
-   "no hands"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096493636699509206",
-  "tag": "$MfT"
- },
- {
   "name": "The Bulletin",
   "triggers": [
    "the bulletin"
@@ -859,6 +851,14 @@
    "revolution of money"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2115826008645349621",
+  "tag": "$MfT"
+ },
+ {
+  "name": "No Hands",
+  "triggers": [
+   "no hands"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116027330573291779",
   "tag": "$MfT"
  }
 ]

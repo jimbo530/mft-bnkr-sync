@@ -1434,14 +1434,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096443314396389388"
  },
  {
-  "band": "EBM",
-  "name": "No Hands",
-  "triggers": [
-   "no hands"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096493636699509206"
- },
- {
   "band": "Rish",
   "name": "Bet On Yourself",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "toast to tomorrow"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116022340135862523"
+ },
+ {
+  "band": "EBM",
+  "name": "No Hands",
+  "triggers": [
+   "no hands"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116027330573291779"
  }
 ]
