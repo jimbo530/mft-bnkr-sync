@@ -1442,14 +1442,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096634562218483896"
  },
  {
-  "band": "Strut",
-  "name": "Bow To Nobody (Dance With Everybody)",
-  "triggers": [
-   "bow to nobody (dance with everybody)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096765418346066295"
- },
- {
   "band": "MR",
   "name": "Everybody s Welcome",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "sail with the crownless"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116183394291740724"
+ },
+ {
+  "band": "Strut",
+  "name": "Bow To Nobody (Dance With Everybody)",
+  "triggers": [
+   "bow to nobody (dance with everybody)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116188432191922321"
  }
 ]
