@@ -1539,14 +1539,6 @@
  },
  {
   "band": "Myco",
-  "name": "Love Is the Light",
-  "triggers": [
-   "love is the light"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099186429003763898"
- },
- {
-  "band": "Myco",
   "name": "Crypto Spring",
   "triggers": [
    "crypto spring"
@@ -7760,5 +7752,13 @@
    "hoodies for the people"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116107858185994538"
+ },
+ {
+  "band": "Myco",
+  "name": "Love Is the Light",
+  "triggers": [
+   "love is the light"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116148186276368799"
  }
 ]

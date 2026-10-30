@@ -152,14 +152,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Love Is the Light",
-  "triggers": [
-   "love is the light"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099186429003763898",
-  "tag": "$MfT"
- },
- {
   "name": "Crypto Spring",
   "triggers": [
    "crypto spring"
@@ -861,6 +853,14 @@
    "- the beats hit different (when they fund forests)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2115458519130341504",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Love Is the Light",
+  "triggers": [
+   "love is the light"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116148186276368799",
   "tag": "$MfT"
  }
 ]
