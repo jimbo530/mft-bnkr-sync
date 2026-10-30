@@ -1282,14 +1282,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094530661839192445"
  },
  {
-  "band": "RickyBobbie",
-  "name": "Quick Off the Line",
-  "triggers": [
-   "quick off the line"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094566025387814963"
- },
- {
   "band": "EBM",
   "name": "Grove Report — Jun 18, 2026",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "earn it"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116304192075653578"
+ },
+ {
+  "band": "RickyBobbie",
+  "name": "Quick Off the Line",
+  "triggers": [
+   "quick off the line"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116309182659895774"
  }
 ]
