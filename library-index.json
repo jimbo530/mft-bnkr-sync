@@ -1410,14 +1410,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095688326955049239"
  },
  {
-  "band": "Myco",
-  "name": "Rain Is the Reason",
-  "triggers": [
-   "rain is the reason"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096367860310331840"
- },
- {
   "band": "NN",
   "name": "Bad for Business",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "bow to nobody (dance with everybody)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116188432191922321"
+ },
+ {
+  "band": "Myco",
+  "name": "Rain Is the Reason",
+  "triggers": [
+   "rain is the reason"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116223666467836171"
  }
 ]
