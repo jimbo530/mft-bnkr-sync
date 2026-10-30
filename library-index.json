@@ -1562,14 +1562,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2099186429003763898"
  },
  {
-  "band": "Bongo",
-  "name": "One Brick",
-  "triggers": [
-   "one brick"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099427960709173302"
- },
- {
   "band": "Myco",
   "name": "Crypto Spring",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "one family at a time"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116062599993299167"
+ },
+ {
+  "band": "Bongo",
+  "name": "One Brick",
+  "triggers": [
+   "one brick"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116067594687930464"
  }
 ]
