@@ -1490,14 +1490,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097087580709798261"
  },
  {
-  "band": "NN",
-  "name": "Toast to Tomorrow",
-  "triggers": [
-   "toast to tomorrow"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097117787822932291"
- },
- {
   "band": "MR",
   "name": "The Long Rain Feeds",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "your name arrives before you"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2115987119424393707"
+ },
+ {
+  "band": "NN",
+  "name": "Toast to Tomorrow",
+  "triggers": [
+   "toast to tomorrow"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116022340135862523"
  }
 ]
