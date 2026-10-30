@@ -1410,14 +1410,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095688326955049239"
  },
  {
-  "band": "EBM",
-  "name": "Hoodies for the People",
-  "triggers": [
-   "hoodies for the people"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096241977536774150"
- },
- {
   "band": "Myco",
   "name": "Rain Is the Reason",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "where the maps run out"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116102874472100034"
+ },
+ {
+  "band": "EBM",
+  "name": "Hoodies for the People",
+  "triggers": [
+   "hoodies for the people"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116107858185994538"
  }
 ]

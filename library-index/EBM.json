@@ -166,14 +166,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Hoodies for the People",
-  "triggers": [
-   "hoodies for the people"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096241977536774150",
-  "tag": "$MfT"
- },
- {
   "name": "The Bulletin",
   "triggers": [
    "the bulletin"
@@ -859,6 +851,14 @@
    "no hands"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116027330573291779",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Hoodies for the People",
+  "triggers": [
+   "hoodies for the people"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116107858185994538",
   "tag": "$MfT"
  }
 ]
