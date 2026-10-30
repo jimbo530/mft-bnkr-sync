@@ -1506,14 +1506,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097359350536757618"
  },
  {
-  "band": "DD",
-  "name": "Your Name Arrives Before You",
-  "triggers": [
-   "your name arrives before you"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097585881880125471"
- },
- {
   "band": "DGT",
   "name": "Plant 'Em Where the Ledger Can't Reach",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "harder to get in (if your daddy did)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2115982070153367569"
+ },
+ {
+  "band": "DD",
+  "name": "Your Name Arrives Before You",
+  "triggers": [
+   "your name arrives before you"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2115987119424393707"
  }
 ]
