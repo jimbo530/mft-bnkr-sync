@@ -1482,14 +1482,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2098290511408779481"
  },
  {
-  "band": "CB",
-  "name": "STILL HERE FORWARD",
-  "triggers": [
-   "still here forward"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098899489595539871"
- },
- {
   "band": "Myco",
   "name": "- Name It Once (Monkey Town)",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the patient ones"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116263893437739014"
+ },
+ {
+  "band": "CB",
+  "name": "STILL HERE FORWARD",
+  "triggers": [
+   "still here forward"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116268959326421486"
  }
 ]
