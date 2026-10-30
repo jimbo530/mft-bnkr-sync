@@ -150,14 +150,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Patient Ones",
-  "triggers": [
-   "the patient ones"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094767256194388463",
-  "tag": "$MfT"
- },
- {
   "name": "The Forest Waters Itself",
   "triggers": [
    "the forest waters itself"
@@ -859,6 +851,14 @@
    "hoodies for the people"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116107858185994538",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Patient Ones",
+  "triggers": [
+   "the patient ones"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116263893437739014",
   "tag": "$MfT"
  }
 ]

@@ -1306,14 +1306,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094747119118610916"
  },
  {
-  "band": "EBM",
-  "name": "The Patient Ones",
-  "triggers": [
-   "the patient ones"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094767256194388463"
- },
- {
   "band": "Biggins",
   "name": "Name It Once",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "everybody in the circle"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116228654053126346"
+ },
+ {
+  "band": "EBM",
+  "name": "The Patient Ones",
+  "triggers": [
+   "the patient ones"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116263893437739014"
  }
 ]
