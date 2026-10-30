@@ -1514,14 +1514,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2098290511408779481"
  },
  {
-  "band": "RickyBobbie",
-  "name": "Sail With The Crownless",
-  "triggers": [
-   "sail with the crownless"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098894484381602128"
- },
- {
   "band": "CB",
   "name": "STILL HERE FORWARD",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "love is the light"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116148186276368799"
+ },
+ {
+  "band": "RickyBobbie",
+  "name": "Sail With The Crownless",
+  "triggers": [
+   "sail with the crownless"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116183394291740724"
  }
 ]
