@@ -1338,14 +1338,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095069235336589511"
  },
  {
-  "band": "MR",
-  "name": "Everybody in the Circle",
-  "triggers": [
-   "everybody in the circle"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095190072865817013"
- },
- {
   "band": "EBM",
   "name": "The Forest Waters Itself",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "rain is the reason"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116223666467836171"
+ },
+ {
+  "band": "MR",
+  "name": "Everybody in the Circle",
+  "triggers": [
+   "everybody in the circle"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116228654053126346"
  }
 ]
