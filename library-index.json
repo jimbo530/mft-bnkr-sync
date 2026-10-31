@@ -1402,14 +1402,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2098139552737009796"
  },
  {
-  "band": "DD",
-  "name": "The Orchard That Was a Fence",
-  "triggers": [
-   "the orchard that was a fence"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098169727411462289"
- },
- {
   "band": "Strut",
   "name": "You're The Show",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "name it once"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116429974559224272"
+ },
+ {
+  "band": "DD",
+  "name": "The Orchard That Was a Fence",
+  "triggers": [
+   "the orchard that was a fence"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116465212366688682"
  }
 ]
