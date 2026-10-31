@@ -1314,14 +1314,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095476969571795118"
  },
  {
-  "band": "Rish",
-  "name": "Bet On Yourself",
-  "triggers": [
-   "bet on yourself"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096589323353088097"
- },
- {
   "band": "MR",
   "name": "Everybody s Welcome",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "every land pays in"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116626326970835094"
+ },
+ {
+  "band": "Rish",
+  "name": "Bet On Yourself",
+  "triggers": [
+   "bet on yourself"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116631355526164605"
  }
 ]
