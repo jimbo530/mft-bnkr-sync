@@ -1202,14 +1202,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093569394160922634"
  },
  {
-  "band": "NN",
-  "name": "The Velvet Ledger",
-  "triggers": [
-   "the velvet ledger"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093589529907142864"
- },
- {
   "band": "Biggins",
   "name": "Out of the Treeline",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "- name it once (monkey town)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116510566399299629"
+ },
+ {
+  "band": "NN",
+  "name": "The Velvet Ledger",
+  "triggers": [
+   "the velvet ledger"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116545743880081458"
  }
 ]

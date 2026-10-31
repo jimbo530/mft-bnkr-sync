@@ -9,14 +9,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Velvet Ledger",
-  "triggers": [
-   "the velvet ledger"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093589529907142864",
-  "tag": "$MfT"
- },
- {
   "name": "The Greenest Thing In The Room",
   "triggers": [
    "the greenest thing in the room"
@@ -374,6 +366,14 @@
    "toast to tomorrow"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116022340135862523",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Velvet Ledger",
+  "triggers": [
+   "the velvet ledger"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116545743880081458",
   "tag": "$MfT"
  }
 ]
