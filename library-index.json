@@ -1242,14 +1242,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093710327766466574"
  },
  {
-  "band": "DGT",
-  "name": "Lucky To Be Here",
-  "triggers": [
-   "lucky to be here"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093745584532258870"
- },
- {
   "band": "EBM",
   "name": "The Prompt Heard",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the hungry drum"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116389758452531687"
+ },
+ {
+  "band": "DGT",
+  "name": "Lucky To Be Here",
+  "triggers": [
+   "lucky to be here"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116425007089819782"
  }
 ]
