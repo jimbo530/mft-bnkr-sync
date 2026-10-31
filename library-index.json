@@ -1386,14 +1386,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096589323353088097"
  },
  {
-  "band": "EBM",
-  "name": "The Bulletin",
-  "triggers": [
-   "the bulletin"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096634562218483896"
- },
- {
   "band": "MR",
   "name": "Everybody s Welcome",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "one long breath"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116344427367010590"
+ },
+ {
+  "band": "EBM",
+  "name": "The Bulletin",
+  "triggers": [
+   "the bulletin"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116349450293580197"
  }
 ]
