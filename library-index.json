@@ -1298,14 +1298,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094908213929861134"
  },
  {
-  "band": "DD",
-  "name": "One Long Breath",
-  "triggers": [
-   "one long breath"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094963554822529044"
- },
- {
   "band": "Rish",
   "name": "Just Say It, Wee One",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "quick off the line"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116309182659895774"
+ },
+ {
+  "band": "DD",
+  "name": "One Long Breath",
+  "triggers": [
+   "one long breath"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116344427367010590"
  }
 ]
