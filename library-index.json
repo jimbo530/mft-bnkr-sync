@@ -1322,14 +1322,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095476969571795118"
  },
  {
-  "band": "SEAS",
-  "name": "Pull for the Horizon",
-  "triggers": [
-   "pull for the horizon"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095688326955049239"
- },
- {
   "band": "NN",
   "name": "Bad for Business",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the velvet ledger"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116545743880081458"
+ },
+ {
+  "band": "SEAS",
+  "name": "Pull for the Horizon",
+  "triggers": [
+   "pull for the horizon"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116550813313126893"
  }
 ]

@@ -9,14 +9,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Pull for the Horizon",
-  "triggers": [
-   "pull for the horizon"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095688326955049239",
-  "tag": "$MfT"
- },
- {
   "name": "Stores That Never Empty",
   "triggers": [
    "stores that never empty"
@@ -78,6 +70,14 @@
    "the bells of port royal"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2115785743549214953",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Pull for the Horizon",
+  "triggers": [
+   "pull for the horizon"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116550813313126893",
   "tag": "$MfT"
  }
 ]
