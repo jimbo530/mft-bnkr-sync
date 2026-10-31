@@ -1354,14 +1354,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097359350536757618"
  },
  {
-  "band": "DD",
-  "name": "Every Land Pays In",
-  "triggers": [
-   "every land pays in"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098139552737009796"
- },
- {
   "band": "Strut",
   "name": "You're The Show",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "what survives the dark"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116591097690382798"
+ },
+ {
+  "band": "DD",
+  "name": "Every Land Pays In",
+  "triggers": [
+   "every land pays in"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116626326970835094"
  }
 ]
