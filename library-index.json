@@ -1274,14 +1274,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094747119118610916"
  },
  {
-  "band": "Biggins",
-  "name": "Name It Once",
-  "triggers": [
-   "name it once"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094908213929861134"
- },
- {
   "band": "Rish",
   "name": "Just Say It, Wee One",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "lucky to be here"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116425007089819782"
+ },
+ {
+  "band": "Biggins",
+  "name": "Name It Once",
+  "triggers": [
+   "name it once"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116429974559224272"
  }
 ]
