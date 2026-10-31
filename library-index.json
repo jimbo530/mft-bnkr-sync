@@ -1242,14 +1242,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093805938532614152"
  },
  {
-  "band": "Myco",
-  "name": "What Survives the Dark",
-  "triggers": [
-   "what survives the dark"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094173392618266891"
- },
- {
   "band": "EBM",
   "name": "Grove Report — Jun 18, 2026",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "bad for business"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116585999367016951"
+ },
+ {
+  "band": "Myco",
+  "name": "What Survives the Dark",
+  "triggers": [
+   "what survives the dark"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116591097690382798"
  }
 ]
