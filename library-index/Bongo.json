@@ -73,14 +73,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Coconut Takes Requests",
-  "triggers": [
-   "the coconut takes requests"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094530661839192445",
-  "tag": "$MfT"
- },
- {
   "name": "Burgers From the Sky",
   "triggers": [
    "burgers from the sky"
@@ -366,6 +358,14 @@
    "the hungry drum"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116389758452531687",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Coconut Takes Requests",
+  "triggers": [
+   "the coconut takes requests"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116470267950088604",
   "tag": "$MfT"
  }
 ]

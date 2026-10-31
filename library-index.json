@@ -1258,14 +1258,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2094173392618266891"
  },
  {
-  "band": "Bongo",
-  "name": "The Coconut Takes Requests",
-  "triggers": [
-   "the coconut takes requests"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094530661839192445"
- },
- {
   "band": "EBM",
   "name": "Grove Report — Jun 18, 2026",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the orchard that was a fence"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116465212366688682"
+ },
+ {
+  "band": "Bongo",
+  "name": "The Coconut Takes Requests",
+  "triggers": [
+   "the coconut takes requests"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116470267950088604"
  }
 ]
