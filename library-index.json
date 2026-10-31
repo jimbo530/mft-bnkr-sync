@@ -1418,14 +1418,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097359350536757618"
  },
  {
-  "band": "DGT",
-  "name": "Plant 'Em Where the Ledger Can't Reach",
-  "triggers": [
-   "plant 'em where the ledger can't reach"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097731957698232545"
- },
- {
   "band": "DD",
   "name": "Every Land Pays In",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the bulletin"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116349450293580197"
+ },
+ {
+  "band": "DGT",
+  "name": "Plant 'Em Where the Ledger Can't Reach",
+  "triggers": [
+   "plant 'em where the ledger can't reach"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116384782305099989"
  }
 ]

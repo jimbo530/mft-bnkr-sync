@@ -57,14 +57,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Plant 'Em Where the Ledger Can't Reach",
-  "triggers": [
-   "plant 'em where the ledger can't reach"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097731957698232545",
-  "tag": "$MfT"
- },
- {
   "name": "We Built the Furnace Ourselves",
   "triggers": [
    "we built the furnace ourselves"
@@ -246,6 +238,14 @@
    "one more plate before dawn"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2115901645783527734",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Plant 'Em Where the Ledger Can't Reach",
+  "triggers": [
+   "plant 'em where the ledger can't reach"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116384782305099989",
   "tag": "$MfT"
  }
 ]

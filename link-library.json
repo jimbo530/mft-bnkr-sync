@@ -2303,19 +2303,6 @@
     "caption": "\"The Long Rain Feeds\" — Moon Rasta\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2097731957698232545",
-    "translation": "Plant 'Em Where the Ledger Can't Reach",
-    "name": "Plant 'Em Where the Ledger Can't Reach",
-    "triggers": [
-      "plant 'em where the ledger can't reach"
-    ],
-    "band": "DGT",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2097731957698232545",
-    "caption": "\"Plant 'Em Where the Ledger Can't Reach\" — Damned Good Time Orchestra\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2098139552737009796",
     "translation": "Every Land Pays In",
     "name": "Every Land Pays In",
@@ -12610,5 +12597,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2116349450293580197",
     "caption": "\"The Bulletin\" — Elves of Ballinmoore\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2116384782305099989",
+    "translation": "Plant 'Em Where the Ledger Can't Reach",
+    "name": "Plant 'Em Where the Ledger Can't Reach",
+    "triggers": [
+      "plant 'em where the ledger can't reach"
+    ],
+    "band": "DGT",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2116384782305099989",
+    "caption": "\"Plant 'Em Where the Ledger Can't Reach\" — Damned Good Time Orchestra\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
