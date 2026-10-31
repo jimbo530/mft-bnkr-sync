@@ -1330,14 +1330,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097062420237672811"
  },
  {
-  "band": "JS",
-  "name": "Plate on the Table",
-  "triggers": [
-   "plate on the table"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097087580709798261"
- },
- {
   "band": "Strut",
   "name": "You're The Show",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "the long rain feeds"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116666533866803407"
+ },
+ {
+  "band": "JS",
+  "name": "Plate on the Table",
+  "triggers": [
+   "plate on the table"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116671607657697514"
  }
 ]
