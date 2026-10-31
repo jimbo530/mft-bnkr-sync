@@ -1258,14 +1258,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093805938532614152"
  },
  {
-  "band": "Bongo",
-  "name": "The Hungry Drum",
-  "triggers": [
-   "the hungry drum"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094092796428738833"
- },
- {
   "band": "Myco",
   "name": "What Survives the Dark",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "plant 'em where the ledger can't reach"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116384782305099989"
+ },
+ {
+  "band": "Bongo",
+  "name": "The Hungry Drum",
+  "triggers": [
+   "the hungry drum"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116389758452531687"
  }
 ]

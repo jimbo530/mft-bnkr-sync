@@ -73,14 +73,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Hungry Drum",
-  "triggers": [
-   "the hungry drum"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094092796428738833",
-  "tag": "$MfT"
- },
- {
   "name": "The Coconut Takes Requests",
   "triggers": [
    "the coconut takes requests"
@@ -366,6 +358,14 @@
    "one brick"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116067594687930464",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Hungry Drum",
+  "triggers": [
+   "the hungry drum"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116389758452531687",
   "tag": "$MfT"
  }
 ]
