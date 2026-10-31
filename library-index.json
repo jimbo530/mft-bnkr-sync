@@ -1338,14 +1338,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2097087580709798261"
  },
  {
-  "band": "MR",
-  "name": "The Long Rain Feeds",
-  "triggers": [
-   "the long rain feeds"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097359350536757618"
- },
- {
   "band": "Strut",
   "name": "You're The Show",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "bet on yourself"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116631355526164605"
+ },
+ {
+  "band": "MR",
+  "name": "The Long Rain Feeds",
+  "triggers": [
+   "the long rain feeds"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116666533866803407"
  }
 ]
