@@ -1322,14 +1322,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095476969571795118"
  },
  {
-  "band": "NN",
-  "name": "Bad for Business",
-  "triggers": [
-   "bad for business"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2096443314396389388"
- },
- {
   "band": "Rish",
   "name": "Bet On Yourself",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "pull for the horizon"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116550813313126893"
+ },
+ {
+  "band": "NN",
+  "name": "Bad for Business",
+  "triggers": [
+   "bad for business"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116585999367016951"
  }
 ]
