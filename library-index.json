@@ -1403,14 +1403,6 @@
  },
  {
   "band": "Myco",
-  "name": "- Name It Once (Monkey Town)",
-  "triggers": [
-   "- name it once (monkey town)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099110934769746279"
- },
- {
-  "band": "Myco",
   "name": "Crypto Spring",
   "triggers": [
    "crypto spring"
@@ -7760,5 +7752,13 @@
    "the coconut takes requests"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116470267950088604"
+ },
+ {
+  "band": "Myco",
+  "name": "- Name It Once (Monkey Town)",
+  "triggers": [
+   "- name it once (monkey town)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116510566399299629"
  }
 ]
