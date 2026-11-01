@@ -1178,14 +1178,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093045953070575889"
  },
  {
-  "band": "Bongo",
-  "name": "CHARGE! (The Ballad of Bold Nobi)",
-  "triggers": [
-   "charge! (the ballad of bold nobi)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093529088816205880"
- },
- {
   "band": "MV",
   "name": "EBM - Marc on base burger boys",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "grove report — jun 18, 2026"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116706800707744149"
+ },
+ {
+  "band": "Bongo",
+  "name": "CHARGE! (The Ballad of Bold Nobi)",
+  "triggers": [
+   "charge! (the ballad of bold nobi)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116711868773376441"
  }
 ]
