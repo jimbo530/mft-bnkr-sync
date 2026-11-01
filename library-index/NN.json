@@ -17,14 +17,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Judge s Table",
-  "triggers": [
-   "the judge s table"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2097062420237672811",
-  "tag": "$MfT"
- },
- {
   "name": "Power Of A Meme",
   "triggers": [
    "power of a meme"
@@ -374,6 +366,14 @@
    "bad for business"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116585999367016951",
+  "tag": "$MfT"
+ },
+ {
+  "name": "The Judge s Table",
+  "triggers": [
+   "the judge s table"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116752133517168807",
   "tag": "$MfT"
  }
 ]
