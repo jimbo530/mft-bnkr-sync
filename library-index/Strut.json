@@ -17,14 +17,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "You're The Show",
-  "triggers": [
-   "you're the show"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2098290511408779481",
-  "tag": "$MfT"
- },
- {
   "name": "The First Yes",
   "triggers": [
    "the first yes"
@@ -126,6 +118,14 @@
    "bow to nobody (dance with everybody)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116188432191922321",
+  "tag": "$MfT"
+ },
+ {
+  "name": "You're The Show",
+  "triggers": [
+   "you're the show"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116787358460723623",
   "tag": "$MfT"
  }
 ]
