@@ -7800,5 +7800,13 @@
    "can't fold us"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116872881736974458"
+ },
+ {
+  "band": "EBM",
+  "name": "Dirt Money",
+  "triggers": [
+   "dirt money"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116908113764766061"
  }
 ]

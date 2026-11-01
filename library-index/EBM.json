@@ -868,5 +868,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116872881736974458",
   "tag": "$MfT"
+ },
+ {
+  "name": "Dirt Money",
+  "triggers": [
+   "dirt money"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116908113764766061",
+  "tag": "$MfT"
  }
 ]
