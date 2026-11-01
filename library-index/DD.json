@@ -511,5 +511,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116948422687092948",
   "tag": "$MfT"
+ },
+ {
+  "name": "The Drone That Holds",
+  "triggers": [
+   "the drone that holds"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116953460230791264",
+  "tag": "$MfT"
  }
 ]
