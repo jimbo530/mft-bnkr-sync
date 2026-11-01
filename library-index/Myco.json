@@ -878,5 +878,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116993726476148996",
   "tag": "$MfT"
+ },
+ {
+  "name": "- Dream Out Loud",
+  "triggers": [
+   "- dream out loud"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2117028908193157316",
+  "tag": "$MfT"
  }
 ]
