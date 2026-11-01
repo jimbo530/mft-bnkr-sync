@@ -1290,14 +1290,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095406557756379311"
  },
  {
-  "band": "JS",
-  "name": "Name Him Once",
-  "triggers": [
-   "name him once"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095476969571795118"
- },
- {
   "band": "MR",
   "name": "Everybody s Welcome",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "charge! (the ballad of bold nobi)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116711868773376441"
+ },
+ {
+  "band": "JS",
+  "name": "Name Him Once",
+  "triggers": [
+   "name him once"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116747057239134585"
  }
 ]
