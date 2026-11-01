@@ -495,5 +495,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116626326970835094",
   "tag": "$MfT"
+ },
+ {
+  "name": "Dance The World We Want",
+  "triggers": [
+   "dance the world we want"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116913162674921668",
+  "tag": "$MfT"
  }
 ]
