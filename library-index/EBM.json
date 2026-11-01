@@ -860,5 +860,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116706800707744149",
   "tag": "$MfT"
+ },
+ {
+  "name": "Can't Fold Us",
+  "triggers": [
+   "can't fold us"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116872881736974458",
+  "tag": "$MfT"
  }
 ]

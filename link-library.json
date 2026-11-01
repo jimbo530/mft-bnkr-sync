@@ -12662,5 +12662,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2116867936472154391",
     "caption": "\"The Rain Skips the Runners\" — Damned Good Time Orchestra\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2116872881736974458",
+    "translation": "Can't Fold Us",
+    "name": "Can't Fold Us",
+    "triggers": [
+      "can't fold us"
+    ],
+    "band": "EBM",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2116872881736974458",
+    "caption": "\"Can't Fold Us\" — Elves of Ballinmoore\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
