@@ -503,5 +503,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116913162674921668",
   "tag": "$MfT"
+ },
+ {
+  "name": "Everybody In",
+  "triggers": [
+   "everybody in"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116948422687092948",
+  "tag": "$MfT"
  }
 ]
