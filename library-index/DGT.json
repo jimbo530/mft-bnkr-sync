@@ -263,5 +263,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116827662249288027",
   "tag": "$MfT"
+ },
+ {
+  "name": "Dip Boogie",
+  "triggers": [
+   "dip boogie"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116832683544211925",
+  "tag": "$MfT"
  }
 ]
