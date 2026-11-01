@@ -247,5 +247,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116425007089819782",
   "tag": "$MfT"
+ },
+ {
+  "name": "Bear Market Ballroom",
+  "triggers": [
+   "bear market ballroom"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116792427621019977",
+  "tag": "$MfT"
  }
 ]
