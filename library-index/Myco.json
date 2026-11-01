@@ -862,5 +862,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116591097690382798",
   "tag": "$MfT"
+ },
+ {
+  "name": "- All One Network",
+  "triggers": [
+   "- all one network"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116988690987712572",
+  "tag": "$MfT"
  }
 ]
