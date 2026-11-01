@@ -142,14 +142,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Grove Report — Jun 18, 2026",
-  "triggers": [
-   "grove report — jun 18, 2026"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094747119118610916",
-  "tag": "$MfT"
- },
- {
   "name": "The Forest Waters Itself",
   "triggers": [
    "the forest waters itself"
@@ -859,6 +851,14 @@
    "the bulletin"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116349450293580197",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Grove Report — Jun 18, 2026",
+  "triggers": [
+   "grove report — jun 18, 2026"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116706800707744149",
   "tag": "$MfT"
  }
 ]

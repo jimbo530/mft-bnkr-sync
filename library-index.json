@@ -1242,14 +1242,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093805938532614152"
  },
  {
-  "band": "EBM",
-  "name": "Grove Report — Jun 18, 2026",
-  "triggers": [
-   "grove report — jun 18, 2026"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2094747119118610916"
- },
- {
   "band": "Rish",
   "name": "Just Say It, Wee One",
   "triggers": [
@@ -7760,5 +7752,13 @@
    "plate on the table"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116671607657697514"
+ },
+ {
+  "band": "EBM",
+  "name": "Grove Report — Jun 18, 2026",
+  "triggers": [
+   "grove report — jun 18, 2026"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2116706800707744149"
  }
 ]
