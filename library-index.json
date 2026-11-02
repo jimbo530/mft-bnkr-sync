@@ -7928,5 +7928,13 @@
    "unbothered"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2117194997585887713"
+ },
+ {
+  "band": "Gurdy",
+  "name": "Grind It Out",
+  "triggers": [
+   "grind it out"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2117230278821253238"
  }
 ]

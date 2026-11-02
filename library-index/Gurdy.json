@@ -71,5 +71,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2115498780350898667",
   "tag": "$MfT"
+ },
+ {
+  "name": "Grind It Out",
+  "triggers": [
+   "grind it out"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2117230278821253238",
+  "tag": "$MfT"
  }
 ]
