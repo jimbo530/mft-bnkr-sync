@@ -894,5 +894,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2117033988829171996",
   "tag": "$MfT"
+ },
+ {
+  "name": "- Seeds Of Tomorrow",
+  "triggers": [
+   "- seeds of tomorrow"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2117069214787809543",
+  "tag": "$MfT"
  }
 ]
