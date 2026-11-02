@@ -7960,5 +7960,13 @@
    "open the door"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2117275574469120261"
+ },
+ {
+  "band": "DGT",
+  "name": "Diggin' In The Dark",
+  "triggers": [
+   "diggin' in the dark"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2117310801673351574"
  }
 ]

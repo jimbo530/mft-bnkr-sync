@@ -12935,5 +12935,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2117275574469120261",
     "caption": "\"Open The Door\" — CB\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2117310801673351574",
+    "translation": "Diggin' In The Dark",
+    "name": "Diggin' In The Dark",
+    "triggers": [
+      "diggin' in the dark"
+    ],
+    "band": "DGT",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2117310801673351574",
+    "caption": "\"Diggin' In The Dark\" — Damned Good Time Orchestra\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

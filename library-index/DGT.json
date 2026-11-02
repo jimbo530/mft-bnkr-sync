@@ -279,5 +279,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116867936472154391",
   "tag": "$MfT"
+ },
+ {
+  "name": "Diggin' In The Dark",
+  "triggers": [
+   "diggin' in the dark"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2117310801673351574",
+  "tag": "$MfT"
  }
 ]
