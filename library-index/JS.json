@@ -767,5 +767,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116747057239134585",
   "tag": "$MfT"
+ },
+ {
+  "name": "Blueprint In My Head",
+  "triggers": [
+   "blueprint in my head"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2117149738868887705",
+  "tag": "$MfT"
  }
 ]
