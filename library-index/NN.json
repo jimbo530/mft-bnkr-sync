@@ -383,5 +383,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2117189965205340670",
   "tag": "$MfT"
+ },
+ {
+  "name": "Unbothered",
+  "triggers": [
+   "unbothered"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2117194997585887713",
+  "tag": "$MfT"
  }
 ]
