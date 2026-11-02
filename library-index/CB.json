@@ -503,5 +503,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116268959326421486",
   "tag": "$MfT"
+ },
+ {
+  "name": "Foundations (Keep It Simple)",
+  "triggers": [
+   "foundations (keep it simple)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2117270545091764421",
+  "tag": "$MfT"
  }
 ]
