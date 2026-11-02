@@ -367,5 +367,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116711868773376441",
   "tag": "$MfT"
+ },
+ {
+  "name": "Carnival Of Tomorrow",
+  "triggers": [
+   "carnival of tomorrow"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2117351033206649005",
+  "tag": "$MfT"
  }
 ]

@@ -7976,5 +7976,13 @@
    "the show goes on"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2117315800298135595"
+ },
+ {
+  "band": "Bongo",
+  "name": "Carnival Of Tomorrow",
+  "triggers": [
+   "carnival of tomorrow"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2117351033206649005"
  }
 ]
