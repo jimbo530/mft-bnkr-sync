@@ -7880,5 +7880,13 @@
    "- the network never stops"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2117074253421891928"
+ },
+ {
+  "band": "MR",
+  "name": "Roots Go Down",
+  "triggers": [
+   "roots go down"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2117109483503485232"
  }
 ]

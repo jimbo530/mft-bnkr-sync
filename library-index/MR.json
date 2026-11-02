@@ -439,5 +439,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116666533866803407",
   "tag": "$MfT"
+ },
+ {
+  "name": "Roots Go Down",
+  "triggers": [
+   "roots go down"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2117109483503485232",
+  "tag": "$MfT"
  }
 ]
