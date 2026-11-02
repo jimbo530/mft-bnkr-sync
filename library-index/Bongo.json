@@ -383,5 +383,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2117356061954834514",
   "tag": "$MfT"
+ },
+ {
+  "name": "Hand In Hand",
+  "triggers": [
+   "hand in hand"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2117391331123179686",
+  "tag": "$MfT"
  }
 ]

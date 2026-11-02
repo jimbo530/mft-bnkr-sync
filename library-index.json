@@ -7992,5 +7992,13 @@
    "drums don't stop"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2117356061954834514"
+ },
+ {
+  "band": "Bongo",
+  "name": "Hand In Hand",
+  "triggers": [
+   "hand in hand"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2117391331123179686"
  }
 ]
