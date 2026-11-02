@@ -511,5 +511,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2117270545091764421",
   "tag": "$MfT"
+ },
+ {
+  "name": "Open The Door",
+  "triggers": [
+   "open the door"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2117275574469120261",
+  "tag": "$MfT"
  }
 ]

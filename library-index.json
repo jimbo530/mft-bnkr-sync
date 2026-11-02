@@ -7952,5 +7952,13 @@
    "foundations (keep it simple)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2117270545091764421"
+ },
+ {
+  "band": "CB",
+  "name": "Open The Door",
+  "triggers": [
+   "open the door"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2117275574469120261"
  }
 ]
