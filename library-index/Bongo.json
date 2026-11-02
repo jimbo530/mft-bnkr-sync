@@ -391,5 +391,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2117391331123179686",
   "tag": "$MfT"
+ },
+ {
+  "name": "We All Got To Build It",
+  "triggers": [
+   "we all got to build it"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2117396326019170530",
+  "tag": "$MfT"
  }
 ]
