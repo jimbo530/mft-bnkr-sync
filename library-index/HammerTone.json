@@ -135,5 +135,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2115821020116381855",
   "tag": "$MfT"
+ },
+ {
+  "name": "Brick By Brick",
+  "triggers": [
+   "brick by brick"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2117517112679821512",
+  "tag": "$MfT"
  }
 ]
