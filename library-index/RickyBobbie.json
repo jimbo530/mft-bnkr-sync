@@ -135,5 +135,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2117476891384844451",
   "tag": "$MfT"
+ },
+ {
+  "name": "Nothing Stops The Base",
+  "triggers": [
+   "nothing stops the base"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2117512078604820560",
+  "tag": "$MfT"
  }
 ]
