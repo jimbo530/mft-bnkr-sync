@@ -13143,5 +13143,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2117597692507332638",
     "caption": "\"Can't Be Stopped\" — War Machine\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2117632916985364605",
+    "translation": "Dirt Under The Nails",
+    "name": "Dirt Under The Nails",
+    "triggers": [
+      "dirt under the nails"
+    ],
+    "band": "WarMachine",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2117632916985364605",
+    "caption": "\"Dirt Under The Nails\" — War Machine\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

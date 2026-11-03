@@ -167,5 +167,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2117597692507332638",
   "tag": "$MfT"
+ },
+ {
+  "name": "Dirt Under The Nails",
+  "triggers": [
+   "dirt under the nails"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2117632916985364605",
+  "tag": "$MfT"
  }
 ]
