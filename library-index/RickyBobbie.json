@@ -111,5 +111,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2117431588774371677",
   "tag": "$MfT"
+ },
+ {
+  "name": "Can't Stop Won't Stop",
+  "triggers": [
+   "can't stop won't stop"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2117436621872091269",
+  "tag": "$MfT"
  }
 ]
