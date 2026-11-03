@@ -8128,5 +8128,13 @@
    "won't quit"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2117713439627870477"
+ },
+ {
+  "band": "Jasmine",
+  "name": "All Of Us",
+  "triggers": [
+   "all of us"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2117718435912122371"
  }
 ]

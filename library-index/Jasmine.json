@@ -119,5 +119,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116062599993299167",
   "tag": "$MfT"
+ },
+ {
+  "name": "All Of Us",
+  "triggers": [
+   "all of us"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2117718435912122371",
+  "tag": "$MfT"
  }
 ]
