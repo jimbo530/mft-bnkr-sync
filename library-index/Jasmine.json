@@ -127,5 +127,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2117718435912122371",
   "tag": "$MfT"
+ },
+ {
+  "name": "Plant It Anyway",
+  "triggers": [
+   "plant it anyway"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2117753708192645220",
+  "tag": "$MfT"
  }
 ]
