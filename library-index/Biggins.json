@@ -103,5 +103,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116429974559224272",
   "tag": "$MfT"
+ },
+ {
+  "name": "Down In The Dirt",
+  "triggers": [
+   "down in the dirt"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2117678210175389932",
+  "tag": "$MfT"
  }
 ]
