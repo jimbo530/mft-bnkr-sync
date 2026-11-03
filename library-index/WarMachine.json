@@ -175,5 +175,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2117632916985364605",
   "tag": "$MfT"
+ },
+ {
+  "name": "Hidden Gems",
+  "triggers": [
+   "hidden gems"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2117637959541268533",
+  "tag": "$MfT"
  }
 ]
