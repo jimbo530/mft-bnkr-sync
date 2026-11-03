@@ -8024,5 +8024,13 @@
    "can't stop won't stop"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2117436621872091269"
+ },
+ {
+  "band": "RickyBobbie",
+  "name": "Dig Where The Map Says X",
+  "triggers": [
+   "dig where the map says x"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2117471815035420719"
  }
 ]
