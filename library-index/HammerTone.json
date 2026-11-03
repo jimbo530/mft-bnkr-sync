@@ -143,5 +143,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2117517112679821512",
   "tag": "$MfT"
+ },
+ {
+  "name": "Built To Last",
+  "triggers": [
+   "built to last"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2117552382460527011",
+  "tag": "$MfT"
  }
 ]
