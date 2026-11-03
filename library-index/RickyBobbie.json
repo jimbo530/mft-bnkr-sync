@@ -103,5 +103,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116309182659895774",
   "tag": "$MfT"
+ },
+ {
+  "name": "All Hands",
+  "triggers": [
+   "all hands"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2117431588774371677",
+  "tag": "$MfT"
  }
 ]
