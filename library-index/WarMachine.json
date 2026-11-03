@@ -159,5 +159,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116304192075653578",
   "tag": "$MfT"
+ },
+ {
+  "name": "Can't Be Stopped",
+  "triggers": [
+   "can't be stopped"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2117597692507332638",
+  "tag": "$MfT"
  }
 ]
