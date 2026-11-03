@@ -111,5 +111,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2117678210175389932",
   "tag": "$MfT"
+ },
+ {
+  "name": "Won't Quit",
+  "triggers": [
+   "won't quit"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2117713439627870477",
+  "tag": "$MfT"
  }
 ]

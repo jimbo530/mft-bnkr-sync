@@ -13195,5 +13195,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2117678210175389932",
     "caption": "\"Down In The Dirt\" — Biggins Mcjammin\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2117713439627870477",
+    "translation": "Won't Quit",
+    "name": "Won't Quit",
+    "triggers": [
+      "won't quit"
+    ],
+    "band": "Biggins",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2117713439627870477",
+    "caption": "\"Won't Quit\" — Biggins Mcjammin\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
