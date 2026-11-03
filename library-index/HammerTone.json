@@ -151,5 +151,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2117552382460527011",
   "tag": "$MfT"
+ },
+ {
+  "name": "Foundation Stone",
+  "triggers": [
+   "foundation stone"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2117557442795966938",
+  "tag": "$MfT"
  }
 ]
