@@ -8032,5 +8032,13 @@
    "dig where the map says x"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2117471815035420719"
+ },
+ {
+  "band": "RickyBobbie",
+  "name": "Full Sail Ahead",
+  "triggers": [
+   "full sail ahead"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2117476891384844451"
  }
 ]

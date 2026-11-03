@@ -127,5 +127,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2117471815035420719",
   "tag": "$MfT"
+ },
+ {
+  "name": "Full Sail Ahead",
+  "triggers": [
+   "full sail ahead"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2117476891384844451",
+  "tag": "$MfT"
  }
 ]
