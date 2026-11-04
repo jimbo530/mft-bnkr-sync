@@ -8200,5 +8200,13 @@
    "the encore"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2117879532912885913"
+ },
+ {
+  "band": "Strut",
+  "name": "Throw The Party Now",
+  "triggers": [
+   "throw the party now"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2117914723165393293"
  }
 ]

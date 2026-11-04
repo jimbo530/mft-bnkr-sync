@@ -135,5 +135,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2117879532912885913",
   "tag": "$MfT"
+ },
+ {
+  "name": "Throw The Party Now",
+  "triggers": [
+   "throw the party now"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2117914723165393293",
+  "tag": "$MfT"
  }
 ]
