@@ -535,5 +535,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2118050673057030513",
   "tag": "$MfT"
+ },
+ {
+  "name": "Man for the Job",
+  "triggers": [
+   "man for the job"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2118055761137795226",
+  "tag": "$MfT"
  }
 ]
