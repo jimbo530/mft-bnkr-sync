@@ -79,5 +79,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116550813313126893",
   "tag": "$MfT"
+ },
+ {
+  "name": "Haul For The Hidden Gold",
+  "triggers": [
+   "haul for the hidden gold"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2117839231917674721",
+  "tag": "$MfT"
  }
 ]
