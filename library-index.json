@@ -8288,5 +8288,13 @@
    "something true"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2118090995795390538"
+ },
+ {
+  "band": "DD",
+  "name": "Inhale the Nourish",
+  "triggers": [
+   "inhale the nourish"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2118095975596142684"
  }
 ]

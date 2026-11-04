@@ -519,5 +519,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116953460230791264",
   "tag": "$MfT"
+ },
+ {
+  "name": "Inhale the Nourish",
+  "triggers": [
+   "inhale the nourish"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2118095975596142684",
+  "tag": "$MfT"
  }
 ]
