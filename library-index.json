@@ -8280,5 +8280,13 @@
    "man for the job"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2118055761137795226"
+ },
+ {
+  "band": "CB",
+  "name": "Something True",
+  "triggers": [
+   "something true"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2118090995795390538"
  }
 ]

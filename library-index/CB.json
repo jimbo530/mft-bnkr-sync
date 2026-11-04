@@ -543,5 +543,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2118055761137795226",
   "tag": "$MfT"
+ },
+ {
+  "name": "Something True",
+  "triggers": [
+   "something true"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2118090995795390538",
+  "tag": "$MfT"
  }
 ]
