@@ -910,5 +910,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2117074253421891928",
   "tag": "$MfT"
+ },
+ {
+  "name": "- True Things Grow",
+  "triggers": [
+   "- true things grow"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2118010483689111876",
+  "tag": "$MfT"
  }
 ]
