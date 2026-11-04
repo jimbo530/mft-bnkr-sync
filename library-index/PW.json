@@ -39,5 +39,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114653189622358368",
   "tag": "$MfT"
+ },
+ {
+  "name": "Cornerstone March",
+  "triggers": [
+   "cornerstone march"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2117919760700571665",
+  "tag": "$MfT"
  }
 ]

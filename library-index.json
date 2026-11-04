@@ -8208,5 +8208,13 @@
    "throw the party now"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2117914723165393293"
+ },
+ {
+  "band": "PW",
+  "name": "Cornerstone March",
+  "triggers": [
+   "cornerstone march"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2117919760700571665"
  }
 ]
