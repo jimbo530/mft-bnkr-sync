@@ -13299,5 +13299,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2117839231917674721",
     "caption": "\"Haul For The Hidden Gold\" — Seize the Seas\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2117874495935406205",
+    "translation": "Weathered Worse",
+    "name": "Weathered Worse",
+    "triggers": [
+      "weathered worse"
+    ],
+    "band": "SEAS",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2117874495935406205",
+    "caption": "\"Weathered Worse\" — Seize the Seas\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

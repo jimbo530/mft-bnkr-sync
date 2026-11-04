@@ -87,5 +87,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2117839231917674721",
   "tag": "$MfT"
+ },
+ {
+  "name": "Weathered Worse",
+  "triggers": [
+   "weathered worse"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2117874495935406205",
+  "tag": "$MfT"
  }
 ]
