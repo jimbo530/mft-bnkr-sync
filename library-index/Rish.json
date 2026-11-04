@@ -367,5 +367,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116631355526164605",
   "tag": "$MfT"
+ },
+ {
+  "name": "A Song Not Written Yet",
+  "triggers": [
+   "a song not written yet"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2117793973200679249",
+  "tag": "$MfT"
  }
 ]
