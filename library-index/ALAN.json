@@ -134,5 +134,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2114819317569135099",
   "tag": "$MfT"
+ },
+ {
+  "name": "A Toast To What We'll Build",
+  "triggers": [
+   "a toast to what we'll build"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2117965148014977334",
+  "tag": "$MfT"
  }
 ]
