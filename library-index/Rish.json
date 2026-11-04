@@ -375,5 +375,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2117793973200679249",
   "tag": "$MfT"
+ },
+ {
+  "name": "Raise It Together",
+  "triggers": [
+   "raise it together"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2117799001973997600",
+  "tag": "$MfT"
  }
 ]
