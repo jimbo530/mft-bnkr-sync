@@ -527,5 +527,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2118015489444040825",
   "tag": "$MfT"
+ },
+ {
+  "name": "Dance All Day Long",
+  "triggers": [
+   "dance all day long"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2118050673057030513",
+  "tag": "$MfT"
  }
 ]

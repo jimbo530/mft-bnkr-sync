@@ -8264,5 +8264,13 @@
    "dance all day long (extended mix)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2118015489444040825"
+ },
+ {
+  "band": "CB",
+  "name": "Dance All Day Long",
+  "triggers": [
+   "dance all day long"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2118050673057030513"
  }
 ]
