@@ -926,5 +926,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2118171517196390761",
   "tag": "$MfT"
+ },
+ {
+  "name": "- Roots Drink Our Intention",
+  "triggers": [
+   "- roots drink our intention"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2118176546242400612",
+  "tag": "$MfT"
  }
 ]
