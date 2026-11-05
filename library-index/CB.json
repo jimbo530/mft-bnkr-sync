@@ -551,5 +551,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2118090995795390538",
   "tag": "$MfT"
+ },
+ {
+  "name": "Light in Every Heart",
+  "triggers": [
+   "light in every heart"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2118470941751587174",
+  "tag": "$MfT"
  }
 ]
