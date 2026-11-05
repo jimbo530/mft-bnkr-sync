@@ -455,5 +455,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2117114474259739046",
   "tag": "$MfT"
+ },
+ {
+  "name": "Children of the Living Web",
+  "triggers": [
+   "children of the living web"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2118463431388839957",
+  "tag": "$MfT"
  }
 ]
