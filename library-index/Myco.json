@@ -918,5 +918,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2118010483689111876",
   "tag": "$MfT"
+ },
+ {
+  "name": "- Messengers of Harmony",
+  "triggers": [
+   "- messengers of harmony"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2118171517196390761",
+  "tag": "$MfT"
  }
 ]
