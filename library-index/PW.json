@@ -55,5 +55,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2117955042359521503",
   "tag": "$MfT"
+ },
+ {
+  "name": "So It Is",
+  "triggers": [
+   "so it is"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2118644640995856837",
+  "tag": "$MfT"
  }
 ]
