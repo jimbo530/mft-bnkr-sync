@@ -1466,14 +1466,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100147747961655802"
  },
  {
-  "band": "JS",
-  "name": "GROWalition vid",
-  "triggers": [
-   "growalition vid"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100152780774142251"
- },
- {
   "band": "MV",
   "name": "Natilie - It will change your life.",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "base is for builders"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2118765442235879551"
+ },
+ {
+  "band": "JS",
+  "name": "GROWalition vid",
+  "triggers": [
+   "growalition vid"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2118772977856598030"
  }
 ]
