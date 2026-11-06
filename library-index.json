@@ -2586,14 +2586,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2103685993316471258"
  },
  {
-  "band": "DD",
-  "name": "Carry the Seed",
-  "triggers": [
-   "carry the seed"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103691073142841644"
- },
- {
   "band": "Myco",
   "name": "On-Chain Garden",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "growalition vid"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2118772977856598030"
+ },
+ {
+  "band": "DD",
+  "name": "Carry the Seed",
+  "triggers": [
+   "carry the seed"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2118825814980440529"
  }
 ]
