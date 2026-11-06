@@ -158,5 +158,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2117975218039759273",
   "tag": "$MfT"
+ },
+ {
+  "name": "Gather the Light",
+  "triggers": [
+   "gather the light"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2118712573725909373",
+  "tag": "$MfT"
  }
 ]
