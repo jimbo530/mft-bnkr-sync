@@ -391,5 +391,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2117834195636482456",
   "tag": "$MfT"
+ },
+ {
+  "name": "Morning Mist Lifts from the Hills",
+  "triggers": [
+   "morning mist lifts from the hills"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2118591729016144338",
+  "tag": "$MfT"
  }
 ]
