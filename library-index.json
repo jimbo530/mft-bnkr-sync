@@ -1450,14 +1450,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100052122003796150"
  },
  {
-  "band": "CB",
-  "name": "BASE is for Builders",
-  "triggers": [
-   "base is for builders"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100072250221216113"
- },
- {
   "band": "MV",
   "name": "Forests For The Future",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "gather the light"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2118712573725909373"
+ },
+ {
+  "band": "CB",
+  "name": "BASE is for Builders",
+  "triggers": [
+   "base is for builders"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2118765442235879551"
  }
 ]
