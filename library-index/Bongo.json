@@ -399,5 +399,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2117396326019170530",
   "tag": "$MfT"
+ },
+ {
+  "name": "Pulse of Living Time",
+  "triggers": [
+   "pulse of living time"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2118523843073425810",
+  "tag": "$MfT"
  }
 ]
