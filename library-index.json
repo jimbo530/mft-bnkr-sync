@@ -1562,14 +1562,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100394371367457184"
  },
  {
-  "band": "EBM",
-  "name": "Meme For Trees",
-  "triggers": [
-   "meme for trees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100419497018503458"
- },
- {
   "band": "CB",
   "name": "EBM - Fighting TEMERAIRE",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "carry the seed"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2118825814980440529"
+ },
+ {
+  "band": "EBM",
+  "name": "Meme For Trees",
+  "triggers": [
+   "meme for trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2118833323774472641"
  }
 ]

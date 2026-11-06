@@ -166,14 +166,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Meme For Trees",
-  "triggers": [
-   "meme for trees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100419497018503458",
-  "tag": "$MfT"
- },
- {
   "name": "A Billion Strong",
   "triggers": [
    "a billion strong"
@@ -875,6 +867,14 @@
    "dirt money"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2116908113764766061",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Meme For Trees",
+  "triggers": [
+   "meme for trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2118833323774472641",
   "tag": "$MfT"
  }
 ]
