@@ -167,5 +167,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2117592647455969372",
   "tag": "$MfT"
+ },
+ {
+  "name": "All the Roots That Hold the Earth",
+  "triggers": [
+   "all the roots that hold the earth"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2118531375238119496",
+  "tag": "$MfT"
  }
 ]
