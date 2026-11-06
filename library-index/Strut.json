@@ -143,5 +143,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2117914723165393293",
   "tag": "$MfT"
+ },
+ {
+  "name": "We Are Happy, We Are Growing",
+  "triggers": [
+   "we are happy, we are growing"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2118705015510516007",
+  "tag": "$MfT"
  }
 ]
