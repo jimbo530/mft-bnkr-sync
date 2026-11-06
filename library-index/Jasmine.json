@@ -143,5 +143,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2117758698965659996",
   "tag": "$MfT"
+ },
+ {
+  "name": "Settle Like Fertile Rain",
+  "triggers": [
+   "settle like fertile rain"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2118584223300804631",
+  "tag": "$MfT"
  }
 ]
