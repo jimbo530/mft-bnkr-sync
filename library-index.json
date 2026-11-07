@@ -1250,14 +1250,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095250484961448080"
  },
  {
-  "band": "Strut",
-  "name": "FUD Off the Runway",
-  "triggers": [
-   "fud off the runway"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095305803162857641"
- },
- {
   "band": "HammerTone",
   "name": "Nail It Down",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "learn to earn"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2119135340942205374"
+ },
+ {
+  "band": "Strut",
+  "name": "FUD Off the Runway",
+  "triggers": [
+   "fud off the runway"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2119188143286952295"
  }
 ]

@@ -9,14 +9,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "FUD Off the Runway",
-  "triggers": [
-   "fud off the runway"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095305803162857641",
-  "tag": "$MfT"
- },
- {
   "name": "The First Yes",
   "triggers": [
    "the first yes"
@@ -150,6 +142,14 @@
    "we are happy, we are growing"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2118705015510516007",
+  "tag": "$MfT"
+ },
+ {
+  "name": "FUD Off the Runway",
+  "triggers": [
+   "fud off the runway"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2119188143286952295",
   "tag": "$MfT"
  }
 ]
