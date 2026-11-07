@@ -768,14 +768,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Pass it on Gary Strings",
-  "triggers": [
-   "pass it on gary strings"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103509880812257461",
-  "tag": "$MfT"
- },
- {
   "name": "Water Each Other - Moon Rasta",
   "triggers": [
    "water each other - moon rasta"
@@ -1301,6 +1293,14 @@
    "ebm - we are based"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2118893775195930728",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Pass it on Gary Strings",
+  "triggers": [
+   "pass it on gary strings"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2119074964565336382",
   "tag": "$MfT"
  }
 ]
