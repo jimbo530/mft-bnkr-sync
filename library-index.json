@@ -1178,14 +1178,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093544245512556760"
  },
  {
-  "band": "ALAN",
-  "name": "For the Tree and the Bees",
-  "triggers": [
-   "for the tree and the bees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093569394160922634"
- },
- {
   "band": "Biggins",
   "name": "Out of the Treeline",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "fud off the runway"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2119188143286952295"
+ },
+ {
+  "band": "ALAN",
+  "name": "For the Tree and the Bees",
+  "triggers": [
+   "for the tree and the bees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2119195735669252158"
  }
 ]
