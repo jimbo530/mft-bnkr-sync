@@ -1826,14 +1826,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101300285268250835"
  },
  {
-  "band": "EBM",
-  "name": "ELVES OF BALLINMOORE — “ANOTHER DAY OF M",
-  "triggers": [
-   "elves of ballinmoore — “another day of m"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101320427138113613"
- },
- {
   "band": "MR",
   "name": "Opportunity To Be Great",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "meme for trees"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2118833323774472641"
+ },
+ {
+  "band": "EBM",
+  "name": "ELVES OF BALLINMOORE — “ANOTHER DAY OF M",
+  "triggers": [
+   "elves of ballinmoore — “another day of m"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2118886216665805111"
  }
 ]
