@@ -304,14 +304,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Compost to the Canopy",
-  "triggers": [
-   "compost to the canopy"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103162614343680372",
-  "tag": "$MfT"
- },
- {
   "name": "Real Proof",
   "triggers": [
    "real proof"
@@ -933,6 +925,14 @@
    "- roots drink our intention"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2118176546242400612",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Compost to the Canopy",
+  "triggers": [
+   "compost to the canopy"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2118946620444193234",
   "tag": "$MfT"
  }
 ]

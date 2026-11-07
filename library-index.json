@@ -2386,14 +2386,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2103137437161566344"
  },
  {
-  "band": "Myco",
-  "name": "Compost to the Canopy",
-  "triggers": [
-   "compost to the canopy"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103162614343680372"
- },
- {
   "band": "EBM",
   "name": "FROM MEMES TO MANGROVES v2",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "ebm - we are based"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2118893775195930728"
+ },
+ {
+  "band": "Myco",
+  "name": "Compost to the Canopy",
+  "triggers": [
+   "compost to the canopy"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2118946620444193234"
  }
 ]

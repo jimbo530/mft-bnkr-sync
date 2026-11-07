@@ -3876,19 +3876,6 @@
     "caption": "\"Digerie Dude-  Tender Resilience.\"\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2103162614343680372",
-    "translation": "Compost to the Canopy",
-    "name": "Compost to the Canopy",
-    "triggers": [
-      "compost to the canopy"
-    ],
-    "band": "Myco",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2103162614343680372",
-    "caption": "\"- Compost to the Canopy\" — Myco\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2103187794789056658",
     "translation": "FROM MEMES TO MANGROVES v2",
     "name": "FROM MEMES TO MANGROVES v2",
@@ -13650,5 +13637,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2118893775195930728",
     "caption": "\"EBM - We Are BASED\"\nevery listen grows the jungle 🎶🌿\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2118946620444193234",
+    "translation": "Compost to the Canopy",
+    "name": "Compost to the Canopy",
+    "triggers": [
+      "compost to the canopy"
+    ],
+    "band": "Myco",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2118946620444193234",
+    "caption": "\"- Compost to the Canopy\" — Myco\npress play, plant trees ▶️🌲\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
