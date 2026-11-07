@@ -3330,19 +3330,6 @@
     "caption": "\"Each One Carries Two\" — Jony Sings\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2102080486424051969",
-    "translation": "Learn To Earn",
-    "name": "Learn To Earn",
-    "triggers": [
-      "learn to earn"
-    ],
-    "band": "NN",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2102080486424051969",
-    "caption": "\"Learn To Earn\" — Natilie Nightclub\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2102105746141757661",
     "translation": "EBM - Thousand Year Plan",
     "name": "EBM - Thousand Year Plan",
@@ -13650,5 +13637,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2119127802138038571",
     "caption": "\"Hero For Being Here\" — Myco\nthis bag pumps itself while funding forests 🌲📈\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2119135340942205374",
+    "translation": "Learn To Earn",
+    "name": "Learn To Earn",
+    "triggers": [
+      "learn to earn"
+    ],
+    "band": "NN",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2119135340942205374",
+    "caption": "\"Learn To Earn\" — Natilie Nightclub\npaper hands plant trees too 🧻🌱\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]

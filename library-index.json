@@ -2050,14 +2050,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2102075453632590144"
  },
  {
-  "band": "NN",
-  "name": "Learn To Earn",
-  "triggers": [
-   "learn to earn"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102080486424051969"
- },
- {
   "band": "MV",
   "name": "EBM - Thousand Year Plan",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "hero for being here"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2119127802138038571"
+ },
+ {
+  "band": "NN",
+  "name": "Learn To Earn",
+  "triggers": [
+   "learn to earn"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2119135340942205374"
  }
 ]
