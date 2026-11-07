@@ -1171,14 +1171,6 @@
  },
  {
   "band": "MV",
-  "name": "EBM - We Are BASED",
-  "triggers": [
-   "ebm - we are based"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093045953070575889"
- },
- {
-  "band": "MV",
   "name": "EBM - Marc on base burger boys",
   "triggers": [
    "ebm - marc on base burger boys"
@@ -8400,5 +8392,13 @@
    "elves of ballinmoore — “another day of m"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2118886216665805111"
+ },
+ {
+  "band": "MV",
+  "name": "EBM - We Are BASED",
+  "triggers": [
+   "ebm - we are based"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2118893775195930728"
  }
 ]
