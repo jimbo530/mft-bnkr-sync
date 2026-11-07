@@ -1426,14 +1426,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100001752766410936"
  },
  {
-  "band": "DD",
-  "name": "Digeri Dude - I endure",
-  "triggers": [
-   "digeri dude - i endure"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100021878471491930"
- },
- {
   "band": "MV",
   "name": "My own Name, - Jasmine",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "i love being alive"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2119014512892232078"
+ },
+ {
+  "band": "DD",
+  "name": "Digeri Dude - I endure",
+  "triggers": [
+   "digeri dude - i endure"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2119067405125132508"
  }
 ]

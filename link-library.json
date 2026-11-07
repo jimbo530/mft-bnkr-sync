@@ -2316,19 +2316,6 @@
     "caption": "\"Digerie Dude - Working in the night\"\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2100021878471491930",
-    "translation": "Digeri Dude - I endure",
-    "name": "Digeri Dude - I endure",
-    "triggers": [
-      "digeri dude - i endure"
-    ],
-    "band": "DD",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2100021878471491930",
-    "caption": "\"Digeri Dude - I endure\" — Digerie Dude\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2100052122003796150",
     "translation": "My own Name, - Jasmine",
     "name": "My own Name, - Jasmine",
@@ -13650,5 +13637,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2119014512892232078",
     "caption": "\"I Love Being Alive\" — Moon Rasta\npumps itself. plants forests. 🌲💰\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2119067405125132508",
+    "translation": "Digeri Dude - I endure",
+    "name": "Digeri Dude - I endure",
+    "triggers": [
+      "digeri dude - i endure"
+    ],
+    "band": "DD",
+    "tag": "$MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2119067405125132508",
+    "caption": "\"Digeri Dude - I endure\" — Digerie Dude\nturn it up for the trees 🔊🌳\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   }
 ]
