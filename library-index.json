@@ -2722,14 +2722,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2104269887916953770"
  },
  {
-  "band": "Myco",
-  "name": "Hero For Being Here",
-  "triggers": [
-   "hero for being here"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2104290004839080064"
- },
- {
   "band": "MV",
   "name": "EBM - Decentraland Chainport",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "pass it on gary strings"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2119074964565336382"
+ },
+ {
+  "band": "Myco",
+  "name": "Hero For Being Here",
+  "triggers": [
+   "hero for being here"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2119127802138038571"
  }
 ]
