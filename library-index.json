@@ -2322,14 +2322,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2102880749858763254"
  },
  {
-  "band": "NN",
-  "name": "It Will Change Your Life",
-  "triggers": [
-   "it will change your life"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102910939666264119"
- },
- {
   "band": "EBM",
   "name": "Ballinmoore Elves",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "compost to the canopy"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2118946620444193234"
+ },
+ {
+  "band": "NN",
+  "name": "It Will Change Your Life",
+  "triggers": [
+   "it will change your life"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2118954160032788489"
  }
 ]
