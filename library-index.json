@@ -2498,14 +2498,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2103560211088753048"
  },
  {
-  "band": "MR",
-  "name": "I Love Being Alive",
-  "triggers": [
-   "i love being alive"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103585367039307930"
- },
- {
   "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “YUCKY DUCKS x TR",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "jony sings roots and rythm"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2119006972540313926"
+ },
+ {
+  "band": "MR",
+  "name": "I Love Being Alive",
+  "triggers": [
+   "i love being alive"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2119014512892232078"
  }
 ]
