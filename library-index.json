@@ -2602,14 +2602,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2104189351093563753"
  },
  {
-  "band": "MV",
-  "name": "diversity the key",
-  "triggers": [
-   "diversity the key"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2104194368328327595"
- },
- {
   "band": "CB",
   "name": "Building for the Bulls",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "songs for the builders"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2119497726740058168"
+ },
+ {
+  "band": "MV",
+  "name": "diversity the key",
+  "triggers": [
+   "diversity the key"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2119550533874643167"
  }
 ]
