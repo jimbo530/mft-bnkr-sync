@@ -304,14 +304,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "On-Chain Garden",
-  "triggers": [
-   "on-chain garden"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103716234957091135",
-  "tag": "$MfT"
- },
- {
   "name": "Magic Comes From You",
   "triggers": [
    "magic comes from you"
@@ -933,6 +925,14 @@
    "crypto spring"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2119308982938443975",
+  "tag": "$MfT"
+ },
+ {
+  "name": "On-Chain Garden",
+  "triggers": [
+   "on-chain garden"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2119316542147952986",
   "tag": "$MfT"
  }
 ]

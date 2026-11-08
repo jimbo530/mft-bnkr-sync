@@ -2474,14 +2474,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2103685993316471258"
  },
  {
-  "band": "Myco",
-  "name": "On-Chain Garden",
-  "triggers": [
-   "on-chain garden"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103716234957091135"
- },
- {
   "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “INTERNET ROOTS",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "crypto spring"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2119308982938443975"
+ },
+ {
+  "band": "Myco",
+  "name": "On-Chain Garden",
+  "triggers": [
+   "on-chain garden"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2119316542147952986"
  }
 ]
