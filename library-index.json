@@ -2458,14 +2458,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2103635735194571204"
  },
  {
-  "band": "Myco",
-  "name": "Real Proof",
-  "triggers": [
-   "real proof"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103660880072180152"
- },
- {
   "band": "JS",
   "name": "Dance Until Morning",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "on-chain garden"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2119316542147952986"
+ },
+ {
+  "band": "Myco",
+  "name": "Real Proof",
+  "triggers": [
+   "real proof"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2119369391699603890"
  }
 ]
