@@ -2138,14 +2138,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2102583789037785514"
  },
  {
-  "band": "MV",
-  "name": "Lighter than before",
-  "triggers": [
-   "lighter than before"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102629092554154483"
- },
- {
   "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “LISTEN, LIKE, AN",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "diversity the key"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2119550533874643167"
+ },
+ {
+  "band": "MV",
+  "name": "Lighter than before",
+  "triggers": [
+   "lighter than before"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2119558137334100386"
  }
 ]
