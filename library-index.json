@@ -1746,14 +1746,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101149337090744533"
  },
  {
-  "band": "EBM",
-  "name": "Share The Memes, Fund The Trees",
-  "triggers": [
-   "share the memes, fund the trees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101174511294992519"
- },
- {
   "band": "MV",
   "name": "Natalie greatness grows",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "for the tree and the bees"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2119195735669252158"
+ },
+ {
+  "band": "EBM",
+  "name": "Share The Memes, Fund The Trees",
+  "triggers": [
+   "share the memes, fund the trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2119248596063182966"
  }
 ]
