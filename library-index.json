@@ -1827,14 +1827,6 @@
  },
  {
   "band": "JS",
-  "name": "Songs For The Builders",
-  "triggers": [
-   "songs for the builders"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101526813918781535"
- },
- {
-  "band": "JS",
   "name": "Jaguars",
   "triggers": [
    "jaguars"
@@ -8400,5 +8392,13 @@
    "guardians on the floor"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2119490187952574663"
+ },
+ {
+  "band": "JS",
+  "name": "Songs For The Builders",
+  "triggers": [
+   "songs for the builders"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2119497726740058168"
  }
 ]
