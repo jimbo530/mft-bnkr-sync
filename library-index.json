@@ -2146,14 +2146,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2102478063531344340"
  },
  {
-  "band": "EBM",
-  "name": "Drop The Memes",
-  "triggers": [
-   "drop the memes"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102528428264030684"
- },
- {
   "band": "MV",
   "name": "Natalie 1000 futures",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "share the memes, fund the trees"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2119248596063182966"
+ },
+ {
+  "band": "EBM",
+  "name": "Drop The Memes",
+  "triggers": [
+   "drop the memes"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2119256102529294814"
  }
 ]
