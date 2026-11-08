@@ -1722,14 +1722,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101119154434572442"
  },
  {
-  "band": "DD",
-  "name": "Open Roads",
-  "triggers": [
-   "open roads"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101124169819713618"
- },
- {
   "band": "Myco",
   "name": "Show Me What You Got",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "real proof"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2119369391699603890"
+ },
+ {
+  "band": "DD",
+  "name": "Open Roads",
+  "triggers": [
+   "open roads"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2119376950237995288"
  }
 ]

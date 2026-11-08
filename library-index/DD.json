@@ -73,14 +73,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Open Roads",
-  "triggers": [
-   "open roads"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101124169819713618",
-  "tag": "$MfT"
- },
- {
   "name": "Nations as One",
   "triggers": [
    "nations as one"
@@ -534,6 +526,14 @@
    "digeri dude - i endure"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2119067405125132508",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Open Roads",
+  "triggers": [
+   "open roads"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2119376950237995288",
   "tag": "$MfT"
  }
 ]
