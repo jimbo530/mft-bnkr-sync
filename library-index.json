@@ -2642,14 +2642,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2104269887916953770"
  },
  {
-  "band": "MV",
-  "name": "EBM - Decentraland Chainport",
-  "triggers": [
-   "ebm - decentraland chainport"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2104315143051972937"
- },
- {
   "band": "Myco",
   "name": "Magic Comes From You",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "elves of ballinmoore — “more love, more"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2119429799529623713"
+ },
+ {
+  "band": "MV",
+  "name": "EBM - Decentraland Chainport",
+  "triggers": [
+   "ebm - decentraland chainport"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2119437343375417412"
  }
 ]
