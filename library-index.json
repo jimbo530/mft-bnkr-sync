@@ -1274,14 +1274,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096856049449861628"
  },
  {
-  "band": "Myco",
-  "name": "Crypto Spring",
-  "triggers": [
-   "crypto spring"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099629345367019788"
- },
- {
   "band": "CB",
   "name": "Need More Base",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "drop the memes"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2119256102529294814"
+ },
+ {
+  "band": "Myco",
+  "name": "Crypto Spring",
+  "triggers": [
+   "crypto spring"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2119308982938443975"
  }
 ]

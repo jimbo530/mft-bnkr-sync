@@ -128,14 +128,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Crypto Spring",
-  "triggers": [
-   "crypto spring"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099629345367019788",
-  "tag": "$MfT"
- },
- {
   "name": "Tunes For Trees",
   "triggers": [
    "tunes for trees"
@@ -933,6 +925,14 @@
    "hero for being here"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2119127802138038571",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Crypto Spring",
+  "triggers": [
+   "crypto spring"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2119308982938443975",
   "tag": "$MfT"
  }
 ]
