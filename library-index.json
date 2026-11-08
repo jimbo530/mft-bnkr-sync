@@ -1370,14 +1370,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2099926298944561193"
  },
  {
-  "band": "Myco",
-  "name": "Guardians On The Floor",
-  "triggers": [
-   "guardians on the floor"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099946466991079565"
- },
- {
   "band": "MV",
   "name": "Digerie Dude- We grow As one",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "ebm - decentraland chainport"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2119437343375417412"
+ },
+ {
+  "band": "Myco",
+  "name": "Guardians On The Floor",
+  "triggers": [
+   "guardians on the floor"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2119490187952574663"
  }
 ]
