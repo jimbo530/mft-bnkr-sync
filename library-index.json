@@ -1658,14 +1658,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101023511678468338"
  },
  {
-  "band": "MV",
-  "name": "elven gold (1)",
-  "triggers": [
-   "elven gold (1)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101043597369848073"
- },
- {
   "band": "CB",
   "name": "EBM - Together we grow CB",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "magic comes from you"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2119746897262891059"
+ },
+ {
+  "band": "MV",
+  "name": "elven gold (1)",
+  "triggers": [
+   "elven gold (1)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2119754407185166480"
  }
 ]
