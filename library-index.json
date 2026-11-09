@@ -2282,14 +2282,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2103514912467173641"
  },
  {
-  "band": "CB",
-  "name": "Proof of Freedom",
-  "triggers": [
-   "proof of freedom"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103535064701108499"
- },
- {
   "band": "JS",
   "name": "For The Builders",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "jony lessons in the ledger"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2119928066034061442"
+ },
+ {
+  "band": "CB",
+  "name": "Proof of Freedom",
+  "triggers": [
+   "proof of freedom"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2119935683427008746"
  }
 ]

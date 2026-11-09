@@ -3707,19 +3707,6 @@
     "caption": "\"Day To Build The Dream\" — Elves of Ballinmoore\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2103535064701108499",
-    "translation": "Proof of Freedom",
-    "name": "Proof of Freedom",
-    "triggers": [
-      "proof of freedom"
-    ],
-    "band": "CB",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2103535064701108499",
-    "caption": "\"Proof of Freedom\" — CB\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2103560211088753048",
     "translation": "For The Builders",
     "name": "For The Builders",
@@ -13650,5 +13637,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2119928066034061442",
     "caption": "\"Jony Lessons in the ledger\" — Jony Sings\nevery trade waters the forest 💧🌳\n\nMfT"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2119935683427008746",
+    "translation": "Proof of Freedom",
+    "name": "Proof of Freedom",
+    "triggers": [
+      "proof of freedom"
+    ],
+    "band": "CB",
+    "tag": "MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2119935683427008746",
+    "caption": "\"Proof of Freedom\" — CB\npaper hands plant trees too 🧻🌱\n\nMfT"
   }
 ]
