@@ -1466,14 +1466,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100344005775024460"
  },
  {
-  "band": "MV",
-  "name": "love and hate  Jasmine",
-  "triggers": [
-   "love and hate  jasmine"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100364182851924249"
- },
- {
   "band": "JS",
   "name": "Regen Rising",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "spin that planet round"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2119807264236179718"
+ },
+ {
+  "band": "MV",
+  "name": "love and hate  Jasmine",
+  "triggers": [
+   "love and hate  jasmine"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2119814863094427653"
  }
 ]
