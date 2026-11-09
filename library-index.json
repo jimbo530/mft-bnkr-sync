@@ -2146,14 +2146,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2102709626638639357"
  },
  {
-  "band": "JS",
-  "name": "Jony Sings - Living it Up",
-  "triggers": [
-   "jony sings - living it up"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102729753618702584"
- },
- {
   "band": "EBM",
   "name": "Ballinmoore Bounce",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "jony sings alliance"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2119671329058177316"
+ },
+ {
+  "band": "JS",
+  "name": "Jony Sings - Living it Up",
+  "triggers": [
+   "jony sings - living it up"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2119678924292546864"
  }
 ]
