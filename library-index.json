@@ -1466,14 +1466,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100344005775024460"
  },
  {
-  "band": "JS",
-  "name": "Regen Rising",
-  "triggers": [
-   "regen rising"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100394371367457184"
- },
- {
   "band": "CB",
   "name": "EBM - Fighting TEMERAIRE",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "love and hate  jasmine"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2119814863094427653"
+ },
+ {
+  "band": "JS",
+  "name": "Regen Rising",
+  "triggers": [
+   "regen rising"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2119867659307057347"
  }
 ]

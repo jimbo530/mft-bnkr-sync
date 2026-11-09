@@ -65,14 +65,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Regen Rising",
-  "triggers": [
-   "regen rising"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100394371367457184",
-  "tag": "$MfT"
- },
- {
   "name": "Jony Lessons in the ledger",
   "triggers": [
    "jony lessons in the ledger"
@@ -783,5 +775,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2119678924292546864",
   "tag": "$MfT"
+ },
+ {
+  "name": "Regen Rising",
+  "triggers": [
+   "regen rising"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2119867659307057347",
+  "tag": "MfT"
  }
 ]
