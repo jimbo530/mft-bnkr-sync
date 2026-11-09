@@ -1355,14 +1355,6 @@
  },
  {
   "band": "MV",
-  "name": "Digerie Dude Base is for Everyone",
-  "triggers": [
-   "digerie dude base is for everyone"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099921267302212052"
- },
- {
-  "band": "MV",
   "name": "nattily grow greatness",
   "triggers": [
    "nattily grow greatness"
@@ -8400,5 +8392,13 @@
    "banker season"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2119610965817774473"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude Base is for Everyone",
+  "triggers": [
+   "digerie dude base is for everyone"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2119618525417402645"
  }
 ]
