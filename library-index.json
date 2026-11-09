@@ -1890,14 +1890,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101773464092684786"
  },
  {
-  "band": "ALAN",
-  "name": "Banker Season",
-  "triggers": [
-   "banker season"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101778463875022867"
- },
- {
   "band": "EBM",
   "name": "Like, Comment, Share",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "lighter than before"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2119558137334100386"
+ },
+ {
+  "band": "ALAN",
+  "name": "Banker Season",
+  "triggers": [
+   "banker season"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2119610965817774473"
  }
 ]
