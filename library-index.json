@@ -2562,14 +2562,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2104269887916953770"
  },
  {
-  "band": "Myco",
-  "name": "Magic Comes From You",
-  "triggers": [
-   "magic comes from you"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2104340334427709497"
- },
- {
   "band": "Rish",
   "name": "Welcome to the Race (HOLM's Reel)",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "digerie dude - working in the night"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2119739312547709144"
+ },
+ {
+  "band": "Myco",
+  "name": "Magic Comes From You",
+  "triggers": [
+   "magic comes from you"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2119746897262891059"
  }
 ]
