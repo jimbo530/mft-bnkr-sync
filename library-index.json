@@ -2051,14 +2051,6 @@
  },
  {
   "band": "MV",
-  "name": "Spin that planet round",
-  "triggers": [
-   "spin that planet round"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102478063531344340"
- },
- {
-  "band": "MV",
   "name": "Natalie 1000 futures",
   "triggers": [
    "natalie 1000 futures"
@@ -8400,5 +8392,13 @@
    "elven gold (1)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2119754407185166480"
+ },
+ {
+  "band": "MV",
+  "name": "Spin that planet round",
+  "triggers": [
+   "spin that planet round"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2119807264236179718"
  }
 ]
