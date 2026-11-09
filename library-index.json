@@ -1379,14 +1379,6 @@
  },
  {
   "band": "MV",
-  "name": "Digerie Dude - Working in the night",
-  "triggers": [
-   "digerie dude - working in the night"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100001752766410936"
- },
- {
-  "band": "MV",
   "name": "My own Name, - Jasmine",
   "triggers": [
    "my own name, - jasmine"
@@ -8400,5 +8392,13 @@
    "mushroom web"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2119731774620127500"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Working in the night",
+  "triggers": [
+   "digerie dude - working in the night"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2119739312547709144"
  }
 ]
