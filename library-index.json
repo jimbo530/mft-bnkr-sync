@@ -1482,14 +1482,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100444707503390999"
  },
  {
-  "band": "JS",
-  "name": "Jony Lessons in the ledger",
-  "triggers": [
-   "jony lessons in the ledger"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100464848328925361"
- },
- {
   "band": "MV",
   "name": "J&N you dont know",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "every day we grow"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2119875236904526256"
+ },
+ {
+  "band": "JS",
+  "name": "Jony Lessons in the ledger",
+  "triggers": [
+   "jony lessons in the ledger"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2119928066034061442"
  }
 ]

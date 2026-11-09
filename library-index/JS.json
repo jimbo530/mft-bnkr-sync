@@ -65,14 +65,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Jony Lessons in the ledger",
-  "triggers": [
-   "jony lessons in the ledger"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100464848328925361",
-  "tag": "$MfT"
- },
- {
   "name": "Proof Of Life vid",
   "triggers": [
    "proof of life vid"
@@ -782,6 +774,14 @@
    "regen rising"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2119867659307057347",
+  "tag": "MfT"
+ },
+ {
+  "name": "Jony Lessons in the ledger",
+  "triggers": [
+   "jony lessons in the ledger"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2119928066034061442",
   "tag": "MfT"
  }
 ]
