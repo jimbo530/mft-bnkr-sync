@@ -1402,14 +1402,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100077239513534856"
  },
  {
-  "band": "JS",
-  "name": "Jony Sings Alliance",
-  "triggers": [
-   "jony sings alliance"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100147747961655802"
- },
- {
   "band": "MV",
   "name": "Natilie - It will change your life.",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "digerie dude base is for everyone"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2119618525417402645"
+ },
+ {
+  "band": "JS",
+  "name": "Jony Sings Alliance",
+  "triggers": [
+   "jony sings alliance"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2119671329058177316"
  }
 ]

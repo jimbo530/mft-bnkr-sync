@@ -41,14 +41,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Jony Sings Alliance",
-  "triggers": [
-   "jony sings alliance"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100147747961655802",
-  "tag": "$MfT"
- },
- {
   "name": "Party God",
   "triggers": [
    "party god"
@@ -782,6 +774,14 @@
    "songs for the builders"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2119497726740058168",
+  "tag": "$MfT"
+ },
+ {
+  "name": "Jony Sings Alliance",
+  "triggers": [
+   "jony sings alliance"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2119671329058177316",
   "tag": "$MfT"
  }
 ]
