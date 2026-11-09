@@ -1875,14 +1875,6 @@
  },
  {
   "band": "Myco",
-  "name": "Every Day We Grow",
-  "triggers": [
-   "every day we grow"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101899292118044854"
- },
- {
-  "band": "Myco",
   "name": "Impact Flywheel",
   "triggers": [
    "impact flywheel"
@@ -8400,5 +8392,13 @@
    "regen rising"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2119867659307057347"
+ },
+ {
+  "band": "Myco",
+  "name": "Every Day We Grow",
+  "triggers": [
+   "every day we grow"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2119875236904526256"
  }
 ]
