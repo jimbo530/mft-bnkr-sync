@@ -1418,14 +1418,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100177973127078048"
  },
  {
-  "band": "Myco",
-  "name": "Mushroom Web",
-  "triggers": [
-   "mushroom web"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100188030254404054"
- },
- {
   "band": "MV",
   "name": "The more love you give - Biggins Mcjamin",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "jony sings - living it up"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2119678924292546864"
+ },
+ {
+  "band": "Myco",
+  "name": "Mushroom Web",
+  "triggers": [
+   "mushroom web"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2119731774620127500"
  }
 ]
