@@ -2010,14 +2010,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2102558587943854290"
  },
  {
-  "band": "Myco",
-  "name": "Make Some Magic",
-  "triggers": [
-   "make some magic"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102578757785571623"
- },
- {
   "band": "MV",
   "name": "Digerie Dude- We Grow",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "mangrove"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2120056428022911013"
+ },
+ {
+  "band": "Myco",
+  "name": "Make Some Magic",
+  "triggers": [
+   "make some magic"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2120109271656309232"
  }
 ]
