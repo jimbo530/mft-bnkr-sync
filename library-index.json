@@ -2002,14 +2002,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2102684453180965121"
  },
  {
-  "band": "DD",
-  "name": "Open Mic Internet",
-  "triggers": [
-   "open mic internet"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102704580299575797"
- },
- {
   "band": "CB",
   "name": "Born on Chain",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "agent army"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2120290465740214716"
+ },
+ {
+  "band": "DD",
+  "name": "Open Mic Internet",
+  "triggers": [
+   "open mic internet"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2120298024513474928"
  }
 ]
