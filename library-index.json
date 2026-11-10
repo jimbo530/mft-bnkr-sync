@@ -1762,14 +1762,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101602315706741138"
  },
  {
-  "band": "MV",
-  "name": "Myko - Keep Moving",
-  "triggers": [
-   "myko - keep moving"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101622449888457155"
- },
- {
   "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “DIAMOND HAND THE",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "make some magic"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2120109271656309232"
+ },
+ {
+  "band": "MV",
+  "name": "Myko - Keep Moving",
+  "triggers": [
+   "myko - keep moving"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2120169678081273950"
  }
 ]
