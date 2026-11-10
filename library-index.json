@@ -2426,14 +2426,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2104189351093563753"
  },
  {
-  "band": "CB",
-  "name": "Building for the Bulls",
-  "triggers": [
-   "building for the bulls"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2104219622580903987"
- },
- {
   "band": "EBM",
   "name": "All-Time High",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "elves of ballinmoore — “alliance fire”"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2120230077195485399"
+ },
+ {
+  "band": "CB",
+  "name": "Building for the Bulls",
+  "triggers": [
+   "building for the bulls"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2120237678453043481"
  }
 ]
