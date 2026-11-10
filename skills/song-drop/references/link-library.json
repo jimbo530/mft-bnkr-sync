@@ -3161,19 +3161,6 @@
     "caption": "\"Seen when it matters\"\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2102357312434323879",
-    "translation": "Agent Army",
-    "name": "Agent Army",
-    "triggers": [
-      "agent army"
-    ],
-    "band": "Myco",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2102357312434323879",
-    "caption": "\"Agent Army\" — Myco\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2102377439674446175",
     "translation": "Digerie Dude - Build it Anyway",
     "name": "Digerie Dude - Build it Anyway",
@@ -13650,5 +13637,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2120237678453043481",
     "caption": "\"Building for the Bulls\" — CB\nlove you famitree 🌲💚\n\nMfT"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2120290465740214716",
+    "translation": "Agent Army",
+    "name": "Agent Army",
+    "triggers": [
+      "agent army"
+    ],
+    "band": "Myco",
+    "tag": "MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2120290465740214716",
+    "caption": "\"Agent Army\" — Myco\nit pumps itself so you can hug trees 🫂🌲\n\nMfT"
   }
 ]

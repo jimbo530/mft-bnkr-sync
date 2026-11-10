@@ -240,14 +240,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Agent Army",
-  "triggers": [
-   "agent army"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102357312434323879",
-  "tag": "$MfT"
- },
- {
   "name": "Go Do Something Nice",
   "triggers": [
    "go do something nice"
@@ -933,6 +925,14 @@
    "make some magic"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2120109271656309232",
+  "tag": "MfT"
+ },
+ {
+  "name": "Agent Army",
+  "triggers": [
+   "agent army"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2120290465740214716",
   "tag": "MfT"
  }
 ]

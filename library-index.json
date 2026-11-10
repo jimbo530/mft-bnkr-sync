@@ -1946,14 +1946,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2102332146954162420"
  },
  {
-  "band": "Myco",
-  "name": "Agent Army",
-  "triggers": [
-   "agent army"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102357312434323879"
- },
- {
   "band": "MV",
   "name": "Digerie Dude - Build it Anyway",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "building for the bulls"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2120237678453043481"
+ },
+ {
+  "band": "Myco",
+  "name": "Agent Army",
+  "triggers": [
+   "agent army"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2120290465740214716"
  }
 ]
