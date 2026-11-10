@@ -1410,14 +1410,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100177973127078048"
  },
  {
-  "band": "EBM",
-  "name": "ELVES OF BALLINMOORE — “ALLIANCE FIRE”",
-  "triggers": [
-   "elves of ballinmoore — “alliance fire”"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100263525503414448"
- },
- {
   "band": "MV",
   "name": "Each one matters",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "the more love you give - biggins mcjamin"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2120177226217869425"
+ },
+ {
+  "band": "EBM",
+  "name": "ELVES OF BALLINMOORE — “ALLIANCE FIRE”",
+  "triggers": [
+   "elves of ballinmoore — “alliance fire”"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2120230077195485399"
  }
 ]
