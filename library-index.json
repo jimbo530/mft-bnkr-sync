@@ -1706,14 +1706,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101375819364884896"
  },
  {
-  "band": "MV",
-  "name": "dungeon games",
-  "triggers": [
-   "dungeon games"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101395965236183197"
- },
- {
   "band": "ALAN",
   "name": "The Chest That Never Empties",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "proof of freedom"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2119935683427008746"
+ },
+ {
+  "band": "MV",
+  "name": "dungeon games",
+  "triggers": [
+   "dungeon games"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2119988453626556711"
  }
 ]
