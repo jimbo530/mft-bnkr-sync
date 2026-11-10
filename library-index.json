@@ -1626,14 +1626,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101018491805438305"
  },
  {
-  "band": "Myco",
-  "name": "We All Are One",
-  "triggers": [
-   "we all are one"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101023511678468338"
- },
- {
   "band": "CB",
   "name": "EBM - Together we grow CB",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "dungeon games"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2119988453626556711"
+ },
+ {
+  "band": "Myco",
+  "name": "We All Are One",
+  "triggers": [
+   "we all are one"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2119995990950154276"
  }
 ]

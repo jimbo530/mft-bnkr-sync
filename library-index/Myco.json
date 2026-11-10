@@ -176,14 +176,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "We All Are One",
-  "triggers": [
-   "we all are one"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101023511678468338",
-  "tag": "$MfT"
- },
- {
   "name": "(🎧 “Thanks for Being Here”) (1)",
   "triggers": [
    "(🎧 “thanks for being here”) (1)"
@@ -933,6 +925,14 @@
    "every day we grow"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2119875236904526256",
+  "tag": "MfT"
+ },
+ {
+  "name": "We All Are One",
+  "triggers": [
+   "we all are one"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2119995990950154276",
   "tag": "MfT"
  }
 ]
