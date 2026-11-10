@@ -1506,14 +1506,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100520209861800133"
  },
  {
-  "band": "JS",
-  "name": "Mangrove",
-  "triggers": [
-   "mangrove"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100545327719674195"
- },
- {
   "band": "DD",
   "name": "(ROOTS THAT HOLD US)",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "bigger than your box - biggins"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2120048844461265236"
+ },
+ {
+  "band": "JS",
+  "name": "Mangrove",
+  "triggers": [
+   "mangrove"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2120056428022911013"
  }
 ]
