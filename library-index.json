@@ -1410,14 +1410,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100177973127078048"
  },
  {
-  "band": "MV",
-  "name": "The more love you give - Biggins Mcjamin",
-  "triggers": [
-   "the more love you give - biggins mcjamin"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100218211039895866"
- },
- {
   "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “ALLIANCE FIRE”",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "myko - keep moving"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2120169678081273950"
+ },
+ {
+  "band": "MV",
+  "name": "The more love you give - Biggins Mcjamin",
+  "triggers": [
+   "the more love you give - biggins mcjamin"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2120177226217869425"
  }
 ]
