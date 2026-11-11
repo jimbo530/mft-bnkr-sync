@@ -1347,14 +1347,6 @@
  },
  {
   "band": "MV",
-  "name": "nattily grow greatness",
-  "triggers": [
-   "nattily grow greatness"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099926298944561193"
- },
- {
-  "band": "MV",
   "name": "Digerie Dude- We grow As one",
   "triggers": [
    "digerie dude- we grow as one"
@@ -8400,5 +8392,13 @@
    "digerie dude - quite revolution of love"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2120539604231020875"
+ },
+ {
+  "band": "MV",
+  "name": "nattily grow greatness",
+  "triggers": [
+   "nattily grow greatness"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2120592407360090279"
  }
 ]
