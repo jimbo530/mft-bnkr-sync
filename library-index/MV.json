@@ -408,14 +408,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "EBM- Internet Magic",
-  "triggers": [
-   "ebm- internet magic"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099699810026545556",
-  "tag": "$MfT"
- },
- {
   "name": "Digerie Dude- Carry the light",
   "triggers": [
    "digerie dude- carry the light"
@@ -1301,6 +1293,14 @@
    "the more love you give - biggins mcjamin"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2120177226217869425",
+  "tag": "MfT"
+ },
+ {
+  "name": "EBM- Internet Magic",
+  "triggers": [
+   "ebm- internet magic"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2120358414555455868",
   "tag": "MfT"
  }
 ]

@@ -1290,14 +1290,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2099674642017391057"
  },
  {
-  "band": "MV",
-  "name": "EBM- Internet Magic",
-  "triggers": [
-   "ebm- internet magic"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099699810026545556"
- },
- {
   "band": "DD",
   "name": "Creator Economy",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "impact flywheel"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2120350862350451113"
+ },
+ {
+  "band": "MV",
+  "name": "EBM- Internet Magic",
+  "triggers": [
+   "ebm- internet magic"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2120358414555455868"
  }
 ]
