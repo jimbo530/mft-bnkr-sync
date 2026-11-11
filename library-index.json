@@ -4202,14 +4202,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2107667311192584228"
  },
  {
-  "band": "EBM",
-  "name": "Forever is longer than you Know",
-  "triggers": [
-   "forever is longer than you know"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2107672290481651880"
- },
- {
   "band": "MR",
   "name": "We Water Each Other vid",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "day to build the dream"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2120411260017684548"
+ },
+ {
+  "band": "EBM",
+  "name": "Forever Is Longer Than You Know",
+  "triggers": [
+   "forever is longer than you know"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2120418814659551285"
  }
 ]
