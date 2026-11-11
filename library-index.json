@@ -1626,14 +1626,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101219812735115402"
  },
  {
-  "band": "Gurdy",
-  "name": "Crawls Back Singing",
-  "triggers": [
-   "crawls back singing"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101249984674820473"
- },
- {
   "band": "JS",
   "name": "Lessons In The Ledger",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "digerie dude- bridges not walls"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2120479204131127523"
+ },
+ {
+  "band": "Gurdy",
+  "name": "Crawls Back Singing",
+  "triggers": [
+   "crawls back singing"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2120531998808649815"
  }
 ]
