@@ -1338,14 +1338,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2099870955715571936"
  },
  {
-  "band": "Myco",
-  "name": "Echoes To Eternity",
-  "triggers": [
-   "echoes to eternity"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099875961655181673"
- },
- {
   "band": "MV",
   "name": "Digerie Dude- We grow As one",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "like, comment, share"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2120652851793821819"
+ },
+ {
+  "band": "Myco",
+  "name": "Echoes To Eternity",
+  "triggers": [
+   "echoes to eternity"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2120660385837564055"
  }
 ]
