@@ -2178,14 +2178,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2103464618941145526"
  },
  {
-  "band": "EBM",
-  "name": "Day To Build The Dream",
-  "triggers": [
-   "day to build the dream"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103514912467173641"
- },
- {
   "band": "JS",
   "name": "For The Builders",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "ebm- internet magic"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2120358414555455868"
+ },
+ {
+  "band": "EBM",
+  "name": "Day To Build The Dream",
+  "triggers": [
+   "day to build the dream"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2120411260017684548"
  }
 ]
