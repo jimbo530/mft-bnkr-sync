@@ -2322,14 +2322,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2103988028821651827"
  },
  {
-  "band": "MV",
-  "name": "EBM - Code Not Coal",
-  "triggers": [
-   "ebm - code not coal"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2104018237759398124"
- },
- {
   "band": "JS",
   "name": "jony sings blockchain boogie",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "forever is longer than you know"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2120418814659551285"
+ },
+ {
+  "band": "MV",
+  "name": "EBM - Code Not Coal",
+  "triggers": [
+   "ebm - code not coal"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2120471666253865302"
  }
 ]
