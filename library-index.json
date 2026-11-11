@@ -1818,14 +1818,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101853991940284507"
  },
  {
-  "band": "Myco",
-  "name": "Impact Flywheel",
-  "triggers": [
-   "impact flywheel"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101904327690301872"
- },
- {
   "band": "MV",
   "name": "Digerie Dude - Creators Economy",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "open mic internet"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2120298024513474928"
+ },
+ {
+  "band": "Myco",
+  "name": "Impact Flywheel",
+  "triggers": [
+   "impact flywheel"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2120350862350451113"
  }
 ]
