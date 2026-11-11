@@ -121,14 +121,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "You Can Keep The Crowns",
-  "triggers": [
-   "you can keep the crowns"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102231430977744914",
-  "tag": "$MfT"
- },
- {
   "name": "Cellars Sewers And Spells",
   "triggers": [
    "cellars sewers and spells"
@@ -782,6 +774,14 @@
    "mangrove"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2120056428022911013",
+  "tag": "MfT"
+ },
+ {
+  "name": "You Can Keep The Crowns",
+  "triggers": [
+   "you can keep the crowns"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2120599958134919567",
   "tag": "MfT"
  }
 ]

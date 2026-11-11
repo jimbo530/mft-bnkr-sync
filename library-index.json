@@ -1874,14 +1874,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2102226480159711395"
  },
  {
-  "band": "JS",
-  "name": "You Can Keep The Crowns",
-  "triggers": [
-   "you can keep the crowns"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102231430977744914"
- },
- {
   "band": "MR",
   "name": "Love Is The Power",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "nattily grow greatness"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2120592407360090279"
+ },
+ {
+  "band": "JS",
+  "name": "You Can Keep The Crowns",
+  "triggers": [
+   "you can keep the crowns"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2120599958134919567"
  }
 ]
