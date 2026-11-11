@@ -206,14 +206,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Like, Comment, Share",
-  "triggers": [
-   "like, comment, share"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101798601013821786",
-  "tag": "$MfT"
- },
- {
   "name": "ELVES OF BALLINMOORE — “GOLD TO GREEN (O",
   "triggers": [
    "elves of ballinmoore — “gold to green (o"
@@ -875,6 +867,14 @@
    "forever is longer than you know"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2120418814659551285",
+  "tag": "MfT"
+ },
+ {
+  "name": "Like, Comment, Share",
+  "triggers": [
+   "like, comment, share"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2120652851793821819",
   "tag": "MfT"
  }
 ]

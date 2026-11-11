@@ -1754,14 +1754,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101773464092684786"
  },
  {
-  "band": "EBM",
-  "name": "Like, Comment, Share",
-  "triggers": [
-   "like, comment, share"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101798601013821786"
- },
- {
   "band": "MV",
   "name": "Digerie Dude - Community",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "you can keep the crowns"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2120599958134919567"
+ },
+ {
+  "band": "EBM",
+  "name": "Like, Comment, Share",
+  "triggers": [
+   "like, comment, share"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2120652851793821819"
  }
 ]
