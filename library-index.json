@@ -2339,14 +2339,6 @@
  },
  {
   "band": "MV",
-  "name": "Digerie Dude- Bridges not walls",
-  "triggers": [
-   "digerie dude- bridges not walls"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2104068512071246126"
- },
- {
-  "band": "MV",
   "name": "Guardians of the Gate   Jasmine",
   "triggers": [
    "guardians of the gate   jasmine"
@@ -8400,5 +8392,13 @@
    "ebm - code not coal"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2120471666253865302"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude- Bridges not walls",
+  "triggers": [
+   "digerie dude- bridges not walls"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2120479204131127523"
  }
 ]
