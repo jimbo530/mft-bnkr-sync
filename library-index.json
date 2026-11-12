@@ -1387,14 +1387,6 @@
  },
  {
   "band": "JS",
-  "name": "Welcome To The Show",
-  "triggers": [
-   "welcome to the show"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100339010308550896"
- },
- {
-  "band": "JS",
   "name": "Alive",
   "triggers": [
    "alive"
@@ -8400,5 +8392,13 @@
    "a hopping good time"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2120841567615267182"
+ },
+ {
+  "band": "JS",
+  "name": "Welcome To The Show",
+  "triggers": [
+   "welcome to the show"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2120894427795198118"
  }
 ]
