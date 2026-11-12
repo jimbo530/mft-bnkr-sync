@@ -1579,14 +1579,6 @@
  },
  {
   "band": "MR",
-  "name": "Love Being Alive vid",
-  "triggers": [
-   "love being alive vid"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101300285268250835"
- },
- {
-  "band": "MR",
   "name": "Opportunity To Be Great",
   "triggers": [
    "opportunity to be great"
@@ -8400,5 +8392,13 @@
    "digerie dude the choice"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2120962388342055072"
+ },
+ {
+  "band": "MR",
+  "name": "Love Being Alive vid",
+  "triggers": [
+   "love being alive vid"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2121015177856303535"
  }
 ]
