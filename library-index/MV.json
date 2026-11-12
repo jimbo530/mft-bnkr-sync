@@ -608,14 +608,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Digerie Dude-  Tender Resilience.",
-  "triggers": [
-   "digerie dude-  tender resilience."
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103137437161566344",
-  "tag": "$MfT"
- },
- {
   "name": "nothing without you - Biggins Mcjamin",
   "triggers": [
    "nothing without you - biggins mcjamin"
@@ -1301,6 +1293,14 @@
    "each one matters"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2120834045885947936",
+  "tag": "MfT"
+ },
+ {
+  "name": "Digerie Dude-  Tender Resilience.",
+  "triggers": [
+   "digerie dude-  tender resilience."
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2120901944340369835",
   "tag": "MfT"
  }
 ]
