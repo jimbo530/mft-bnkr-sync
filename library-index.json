@@ -1602,14 +1602,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101219812735115402"
  },
  {
-  "band": "JS",
-  "name": "Lessons In The Ledger",
-  "triggers": [
-   "lessons in the ledger"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101270129799573848"
- },
- {
   "band": "NN",
   "name": "Power Of A Meme",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "give it away"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2120720790702235655"
+ },
+ {
+  "band": "JS",
+  "name": "Lessons In The Ledger",
+  "triggers": [
+   "lessons in the ledger"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2120773643382735224"
  }
 ]
