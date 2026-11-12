@@ -33,14 +33,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Nail It Down",
-  "triggers": [
-   "nail it down"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095325932785447109",
-  "tag": "$MfT"
- },
- {
   "name": "The Guildmaster Who Asks Nothing",
   "triggers": [
    "the guildmaster who asks nothing"
@@ -175,5 +167,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2118531375238119496",
   "tag": "$MfT"
+ },
+ {
+  "name": "Nail It Down",
+  "triggers": [
+   "nail it down"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2120781175564234871",
+  "tag": "MfT"
  }
 ]

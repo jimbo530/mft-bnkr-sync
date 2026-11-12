@@ -1242,14 +1242,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095250484961448080"
  },
  {
-  "band": "HammerTone",
-  "name": "Nail It Down",
-  "triggers": [
-   "nail it down"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095325932785447109"
- },
- {
   "band": "NN",
   "name": "The Greenest Thing In The Room",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "lessons in the ledger"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2120773643382735224"
+ },
+ {
+  "band": "HammerTone",
+  "name": "Nail It Down",
+  "triggers": [
+   "nail it down"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2120781175564234871"
  }
 ]
