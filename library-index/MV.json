@@ -496,14 +496,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Pass it on",
-  "triggers": [
-   "pass it on"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100797035767038239",
-  "tag": "$MfT"
- },
- {
   "name": "Natalie greatness grows",
   "triggers": [
    "natalie greatness grows"
@@ -1301,6 +1293,14 @@
    "nattily grow greatness"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2120592407360090279",
+  "tag": "MfT"
+ },
+ {
+  "name": "Pass it on",
+  "triggers": [
+   "pass it on"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2120713205093707979",
   "tag": "MfT"
  }
 ]
