@@ -1722,14 +1722,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101853991940284507"
  },
  {
-  "band": "MV",
-  "name": "Digerie Dude - Creators Economy",
-  "triggers": [
-   "digerie dude - creators economy"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101954660495966514"
- },
- {
   "band": "NN",
   "name": "1000 Futures",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "digerie dude-  tender resilience."
   ],
   "xPost": "https://x.com/MemeForTrees/status/2120901944340369835"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Creators Economy",
+  "triggers": [
+   "digerie dude - creators economy"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2120954835788759175"
  }
 ]

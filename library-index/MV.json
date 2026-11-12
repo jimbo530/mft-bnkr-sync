@@ -520,14 +520,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Digerie Dude - Creators Economy",
-  "triggers": [
-   "digerie dude - creators economy"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101954660495966514",
-  "tag": "$MfT"
- },
- {
   "name": "J&N every day is an opportunity.",
   "triggers": [
    "j&n every day is an opportunity."
@@ -1301,6 +1293,14 @@
    "digerie dude-  tender resilience."
   ],
   "xPost": "https://x.com/MemeForTrees/status/2120901944340369835",
+  "tag": "MfT"
+ },
+ {
+  "name": "Digerie Dude - Creators Economy",
+  "triggers": [
+   "digerie dude - creators economy"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2120954835788759175",
   "tag": "MfT"
  }
 ]
