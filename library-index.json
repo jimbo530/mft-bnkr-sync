@@ -2035,14 +2035,6 @@
  },
  {
   "band": "MV",
-  "name": "Digerie Dude The Choice",
-  "triggers": [
-   "digerie dude the choice"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103414254204289360"
- },
- {
-  "band": "MV",
   "name": "Digerie Dude - I endure",
   "triggers": [
    "digerie dude - i endure"
@@ -8400,5 +8392,13 @@
    "digerie dude - creators economy"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2120954835788759175"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude The Choice",
+  "triggers": [
+   "digerie dude the choice"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2120962388342055072"
  }
 ]

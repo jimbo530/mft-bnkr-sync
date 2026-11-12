@@ -3304,19 +3304,6 @@
     "caption": "\"ELVES OF BALLINMOORE — “CHAR TO THE ROOT\" — Elves of Ballinmoore\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2103414254204289360",
-    "translation": "Digerie Dude The Choice",
-    "name": "Digerie Dude The Choice",
-    "triggers": [
-      "digerie dude the choice"
-    ],
-    "band": "MV",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2103414254204289360",
-    "caption": "\"Digerie Dude The Choice\"\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2103434378701348883",
     "translation": "Digerie Dude - I endure",
     "name": "Digerie Dude - I endure",
@@ -13650,5 +13637,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2120954835788759175",
     "caption": "\"Digerie Dude - Creators Economy\"\ndance to defend the earth 💃🌍\n\nMfT"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2120962388342055072",
+    "translation": "Digerie Dude The Choice",
+    "name": "Digerie Dude The Choice",
+    "triggers": [
+      "digerie dude the choice"
+    ],
+    "band": "MV",
+    "tag": "MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2120962388342055072",
+    "caption": "\"Digerie Dude The Choice\"\nself-watering money tree 🌳💧📈\n\nMfT"
   }
 ]
