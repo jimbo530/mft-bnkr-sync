@@ -1378,14 +1378,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100177973127078048"
  },
  {
-  "band": "MV",
-  "name": "Each one matters",
-  "triggers": [
-   "each one matters"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100268556122292536"
- },
- {
   "band": "EBM",
   "name": "emerald signal 22726",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "nail it down"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2120781175564234871"
+ },
+ {
+  "band": "MV",
+  "name": "Each one matters",
+  "triggers": [
+   "each one matters"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2120834045885947936"
  }
 ]
