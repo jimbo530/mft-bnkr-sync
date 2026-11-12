@@ -184,14 +184,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Give It Away",
-  "triggers": [
-   "give it away"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101471475714650426",
-  "tag": "$MfT"
- },
- {
   "name": "Green Candle Sunrise",
   "triggers": [
    "green candle sunrise"
@@ -933,6 +925,14 @@
    "echoes to eternity"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2120660385837564055",
+  "tag": "MfT"
+ },
+ {
+  "name": "Give It Away",
+  "triggers": [
+   "give it away"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2120720790702235655",
   "tag": "MfT"
  }
 ]

@@ -2693,19 +2693,6 @@
     "caption": "\"ELVES OF BALLINMOORE — “COMMUNITY OF COM\" — Elves of Ballinmoore\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2101471475714650426",
-    "translation": "Give It Away",
-    "name": "Give It Away",
-    "triggers": [
-      "give it away"
-    ],
-    "band": "Myco",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2101471475714650426",
-    "caption": "\"Give It Away\" — Myco\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2101476488637800678",
     "translation": "Green Candle Sunrise",
     "name": "Green Candle Sunrise",
@@ -13650,5 +13637,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2120713205093707979",
     "caption": "\"Pass it on\"\ndance to defend the earth 💃🌍\n\nMfT"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2120720790702235655",
+    "translation": "Give It Away",
+    "name": "Give It Away",
+    "triggers": [
+      "give it away"
+    ],
+    "band": "Myco",
+    "tag": "MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2120720790702235655",
+    "caption": "\"Give It Away\" — Myco\nit pumps itself so you can hug trees 🫂🌲\n\nMfT"
   }
 ]
