@@ -1306,14 +1306,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2099750081738027125"
  },
  {
-  "band": "ALAN",
-  "name": "A Hopping Good Time",
-  "triggers": [
-   "a hopping good time"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099775285612699847"
- },
- {
   "band": "MR",
   "name": "Work Now Dance Later",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "each one matters"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2120834045885947936"
+ },
+ {
+  "band": "ALAN",
+  "name": "A Hopping Good Time",
+  "triggers": [
+   "a hopping good time"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2120841567615267182"
  }
 ]
