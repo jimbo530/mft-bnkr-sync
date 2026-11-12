@@ -2114,14 +2114,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2103811859451146676"
  },
  {
-  "band": "JS",
-  "name": "jony sings Polyraiders",
-  "triggers": [
-   "jony sings polyraiders"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103837039477027213"
- },
- {
   "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “THOUSAND YEAR PL",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "love being alive vid"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2121015177856303535"
+ },
+ {
+  "band": "JS",
+  "name": "jony sings Polyraiders",
+  "triggers": [
+   "jony sings polyraiders"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2121022781391348120"
  }
 ]
