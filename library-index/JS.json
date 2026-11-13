@@ -121,14 +121,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Make Today Count",
-  "triggers": [
-   "make today count"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102880749858763254",
-  "tag": "$MfT"
- },
- {
   "name": "Investors of Tomorrow",
   "triggers": [
    "investors of tomorrow"
@@ -782,6 +774,14 @@
    "for the builders"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2121135979125731511",
+  "tag": "MfT"
+ },
+ {
+  "name": "Make Today Count",
+  "triggers": [
+   "make today count"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2121203963798114524",
   "tag": "MfT"
  }
 ]

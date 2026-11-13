@@ -1882,14 +1882,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2102855580217946375"
  },
  {
-  "band": "JS",
-  "name": "Make Today Count",
-  "triggers": [
-   "make today count"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102880749858763254"
- },
- {
   "band": "EBM",
   "name": "Ballinmoore Elves",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "j&n every day is an opportunity."
   ],
   "xPost": "https://x.com/MemeForTrees/status/2121196375794679983"
+ },
+ {
+  "band": "JS",
+  "name": "Make Today Count",
+  "triggers": [
+   "make today count"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2121203963798114524"
  }
 ]
