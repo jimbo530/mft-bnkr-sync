@@ -2095,19 +2095,6 @@
     "caption": "\"Creator Economy\" — Digerie Dude\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2099724974516789552",
-    "translation": "Digerie Dude- Carry the light",
-    "name": "Digerie Dude- Carry the light",
-    "triggers": [
-      "digerie dude- carry the light"
-    ],
-    "band": "MV",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2099724974516789552",
-    "caption": "\"Digerie Dude- Carry the light\"\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2099750081738027125",
     "translation": "Natilie - Base is for you",
     "name": "Natilie - Base is for you",
@@ -13650,5 +13637,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2121256804046807371",
     "caption": "\"Someone Bet on Me\" — Gurdy\nthis bag pumps itself while funding forests 🌲📈\n\nMfT"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2121264360412602477",
+    "translation": "Digerie Dude- Carry the light",
+    "name": "Digerie Dude- Carry the light",
+    "triggers": [
+      "digerie dude- carry the light"
+    ],
+    "band": "MV",
+    "tag": "MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2121264360412602477",
+    "caption": "\"Digerie Dude- Carry the light\"\npress play, plant trees ▶️🌲\n\nMfT"
   }
 ]

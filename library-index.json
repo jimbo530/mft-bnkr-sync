@@ -1290,14 +1290,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2099719937891631431"
  },
  {
-  "band": "MV",
-  "name": "Digerie Dude- Carry the light",
-  "triggers": [
-   "digerie dude- carry the light"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099724974516789552"
- },
- {
   "band": "CB",
   "name": "Natilie - Base is for you",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "someone bet on me"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2121256804046807371"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude- Carry the light",
+  "triggers": [
+   "digerie dude- carry the light"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2121264360412602477"
  }
 ]
