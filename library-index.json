@@ -1882,14 +1882,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2103056909649494383"
  },
  {
-  "band": "MV",
-  "name": "Digeri Dude - Rabbit Hole",
-  "triggers": [
-   "digeri dude - rabbit hole"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103112268753879079"
- },
- {
   "band": "JS",
   "name": "Investors of Tomorrow",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "each one carries two"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2121377602753462296"
+ },
+ {
+  "band": "MV",
+  "name": "Digeri Dude - Rabbit Hole",
+  "triggers": [
+   "digeri dude - rabbit hole"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2121385153222062192"
  }
 ]

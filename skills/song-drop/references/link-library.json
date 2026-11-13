@@ -3057,19 +3057,6 @@
     "caption": "\"Forest Got Funded\" — Elves of Ballinmoore\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2103112268753879079",
-    "translation": "Digeri Dude - Rabbit Hole",
-    "name": "Digeri Dude - Rabbit Hole",
-    "triggers": [
-      "digeri dude - rabbit hole"
-    ],
-    "band": "MV",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2103112268753879079",
-    "caption": "\"Digeri Dude - Rabbit Hole\"\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2103132411320041800",
     "translation": "Investors of Tomorrow",
     "name": "Investors of Tomorrow",
@@ -13650,5 +13637,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2121377602753462296",
     "caption": "\"Each One Carries Two\" — Jony Sings\nthe only bag that buys itself and grows forests ♻️🌳\n\nMfT"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2121385153222062192",
+    "translation": "Digeri Dude - Rabbit Hole",
+    "name": "Digeri Dude - Rabbit Hole",
+    "triggers": [
+      "digeri dude - rabbit hole"
+    ],
+    "band": "MV",
+    "tag": "MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2121385153222062192",
+    "caption": "\"Digeri Dude - Rabbit Hole\"\nthe machine never sleeps, the forest never stops 🌲⚙️\n\nMfT"
   }
 ]

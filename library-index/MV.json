@@ -560,14 +560,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Digeri Dude - Rabbit Hole",
-  "triggers": [
-   "digeri dude - rabbit hole"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103112268753879079",
-  "tag": "$MfT"
- },
- {
   "name": "nothing without you - Biggins Mcjamin",
   "triggers": [
    "nothing without you - biggins mcjamin"
@@ -1301,6 +1293,14 @@
    "pass it on hollow hailer"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2121324769660289075",
+  "tag": "MfT"
+ },
+ {
+  "name": "Digeri Dude - Rabbit Hole",
+  "triggers": [
+   "digeri dude - rabbit hole"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2121385153222062192",
   "tag": "MfT"
  }
 ]
