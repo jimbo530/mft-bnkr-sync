@@ -1690,14 +1690,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101823794629300550"
  },
  {
-  "band": "ALAN",
-  "name": "The Rules Are the Rules",
-  "triggers": [
-   "the rules are the rules"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101828823234888086"
- },
- {
   "band": "NN",
   "name": "Velvet And Valor",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "my own name, - jasmine"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2121075634315161648"
+ },
+ {
+  "band": "ALAN",
+  "name": "The Rules Are the Rules",
+  "triggers": [
+   "the rules are the rules"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2121083115934240967"
  }
 ]
