@@ -544,14 +544,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "treegens do what you please for the trees",
-  "triggers": [
-   "treegens do what you please for the trees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102226480159711395",
-  "tag": "$MfT"
- },
- {
   "name": "Seen when it matters",
   "triggers": [
    "seen when it matters"
@@ -1301,6 +1293,14 @@
    "my own name, - jasmine"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2121075634315161648",
+  "tag": "MfT"
+ },
+ {
+  "name": "treegens do what you please for the trees",
+  "triggers": [
+   "treegens do what you please for the trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2121143584787202250",
   "tag": "MfT"
  }
 ]

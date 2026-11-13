@@ -1762,14 +1762,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2102206308506026483"
  },
  {
-  "band": "MV",
-  "name": "treegens do what you please for the trees",
-  "triggers": [
-   "treegens do what you please for the trees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102226480159711395"
- },
- {
   "band": "MR",
   "name": "Love Is The Power",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "for the builders"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2121135979125731511"
+ },
+ {
+  "band": "MV",
+  "name": "treegens do what you please for the trees",
+  "triggers": [
+   "treegens do what you please for the trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2121143584787202250"
  }
 ]
