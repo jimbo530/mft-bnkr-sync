@@ -2026,14 +2026,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2103464618941145526"
  },
  {
-  "band": "JS",
-  "name": "For The Builders",
-  "triggers": [
-   "for the builders"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103560211088753048"
- },
- {
   "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “YUCKY DUCKS x TR",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "the rules are the rules"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2121083115934240967"
+ },
+ {
+  "band": "JS",
+  "name": "For The Builders",
+  "triggers": [
+   "for the builders"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2121135979125731511"
  }
 ]

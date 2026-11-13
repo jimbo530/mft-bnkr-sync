@@ -145,14 +145,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "For The Builders",
-  "triggers": [
-   "for the builders"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103560211088753048",
-  "tag": "$MfT"
- },
- {
   "name": "Dance Until Morning",
   "triggers": [
    "dance until morning"
@@ -782,6 +774,14 @@
    "jony sings polyraiders"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2121022781391348120",
+  "tag": "MfT"
+ },
+ {
+  "name": "For The Builders",
+  "triggers": [
+   "for the builders"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2121135979125731511",
   "tag": "MfT"
  }
 ]
