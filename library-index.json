@@ -1522,14 +1522,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101018491805438305"
  },
  {
-  "band": "CB",
-  "name": "EBM - Together we grow CB",
-  "triggers": [
-   "ebm - together we grow cb"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101098998832722127"
- },
- {
   "band": "Myco",
   "name": "(🎧 “Thanks for Being Here”) (1)",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "digerie dude- carry the light"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2121264360412602477"
+ },
+ {
+  "band": "CB",
+  "name": "EBM - Together we grow CB",
+  "triggers": [
+   "ebm - together we grow cb"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2121317155425640875"
  }
 ]

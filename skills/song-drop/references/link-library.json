@@ -2472,19 +2472,6 @@
     "caption": "\"Small Voices, Big Waves\" — Digerie Dude\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2101098998832722127",
-    "translation": "EBM - Together we grow CB",
-    "name": "EBM - Together we grow CB",
-    "triggers": [
-      "ebm - together we grow cb"
-    ],
-    "band": "CB",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2101098998832722127",
-    "caption": "\"EBM - Together we grow CB\" — CB\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2101119154434572442",
     "translation": "(🎧 “Thanks for Being Here”) (1)",
     "name": "(🎧 “Thanks for Being Here”) (1)",
@@ -13650,5 +13637,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2121264360412602477",
     "caption": "\"Digerie Dude- Carry the light\"\npress play, plant trees ▶️🌲\n\nMfT"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2121317155425640875",
+    "translation": "EBM - Together we grow CB",
+    "name": "EBM - Together we grow CB",
+    "triggers": [
+      "ebm - together we grow cb"
+    ],
+    "band": "CB",
+    "tag": "MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2121317155425640875",
+    "caption": "\"EBM - Together we grow CB\" — CB\ndance to defend the earth 💃🌍\n\nMfT"
   }
 ]
