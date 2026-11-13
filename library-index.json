@@ -1690,14 +1690,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101999903375245795"
  },
  {
-  "band": "JS",
-  "name": "Each One Carries Two",
-  "triggers": [
-   "each one carries two"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102075453632590144"
- },
- {
   "band": "MV",
   "name": "EBM - Thousand Year Plan",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "pass it on hollow hailer"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2121324769660289075"
+ },
+ {
+  "band": "JS",
+  "name": "Each One Carries Two",
+  "triggers": [
+   "each one carries two"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2121377602753462296"
  }
 ]
