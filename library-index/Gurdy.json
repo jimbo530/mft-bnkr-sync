@@ -9,14 +9,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Someone Bet on Me",
-  "triggers": [
-   "someone bet on me"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102805241569648769",
-  "tag": "$MfT"
- },
- {
   "name": "Something Real to Hold",
   "triggers": [
    "something real to hold"
@@ -86,6 +78,14 @@
    "crawls back singing"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2120531998808649815",
+  "tag": "MfT"
+ },
+ {
+  "name": "Someone Bet on Me",
+  "triggers": [
+   "someone bet on me"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2121256804046807371",
   "tag": "MfT"
  }
 ]

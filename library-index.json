@@ -1850,14 +1850,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2102754898550861881"
  },
  {
-  "band": "Gurdy",
-  "name": "Someone Bet on Me",
-  "triggers": [
-   "someone bet on me"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102805241569648769"
- },
- {
   "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “TREES UP, BAGS U",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "make today count"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2121203963798114524"
+ },
+ {
+  "band": "Gurdy",
+  "name": "Someone Bet on Me",
+  "triggers": [
+   "someone bet on me"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2121256804046807371"
  }
 ]
