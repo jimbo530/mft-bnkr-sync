@@ -584,14 +584,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "If it was easy",
-  "triggers": [
-   "if it was easy"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103892398296142270",
-  "tag": "$MfT"
- },
- {
   "name": "MC - Scratch the Earth",
   "triggers": [
    "mc - scratch the earth"
@@ -1301,6 +1293,14 @@
    "natalie greatness grows"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2121498437787021785",
+  "tag": "MfT"
+ },
+ {
+  "name": "If it was easy",
+  "triggers": [
+   "if it was easy"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2121619237114441806",
   "tag": "MfT"
  }
 ]

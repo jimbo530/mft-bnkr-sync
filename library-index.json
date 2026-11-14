@@ -1994,14 +1994,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2103887367207592283"
  },
  {
-  "band": "MV",
-  "name": "If it was easy",
-  "triggers": [
-   "if it was easy"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103892398296142270"
- },
- {
   "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “MEMES TURN TO TREES",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "future is here"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2121611681356738783"
+ },
+ {
+  "band": "MV",
+  "name": "If it was easy",
+  "triggers": [
+   "if it was easy"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2121619237114441806"
  }
 ]
