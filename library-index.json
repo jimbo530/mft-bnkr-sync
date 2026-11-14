@@ -1386,14 +1386,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100469879786574190"
  },
  {
-  "band": "JS",
-  "name": "Proof Of Life vid",
-  "triggers": [
-   "proof of life vid"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100515168945873175"
- },
- {
   "band": "MV",
   "name": "EBM - Every Signal Plants Trees",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "drop memes, fund trees"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2121679630675456431"
+ },
+ {
+  "band": "JS",
+  "name": "Proof Of Life vid",
+  "triggers": [
+   "proof of life vid"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2121732436790788571"
  }
 ]
