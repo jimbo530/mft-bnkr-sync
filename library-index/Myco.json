@@ -152,14 +152,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Diamond Roots",
-  "triggers": [
-   "diamond roots"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100973179925647864",
-  "tag": "$MfT"
- },
- {
   "name": "(🎧 “Thanks for Being Here”) (1)",
   "triggers": [
    "(🎧 “thanks for being here”) (1)"
@@ -933,6 +925,14 @@
    "proof of good"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2121438042120446360",
+  "tag": "MfT"
+ },
+ {
+  "name": "Diamond Roots",
+  "triggers": [
+   "diamond roots"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2121558829951242733",
   "tag": "MfT"
  }
 ]

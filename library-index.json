@@ -1490,14 +1490,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100968163613589506"
  },
  {
-  "band": "Myco",
-  "name": "Diamond Roots",
-  "triggers": [
-   "diamond roots"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100973179925647864"
- },
- {
   "band": "DD",
   "name": "Small Voices, Big Waves",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "(roots that hold us)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2121551277008048537"
+ },
+ {
+  "band": "Myco",
+  "name": "Diamond Roots",
+  "triggers": [
+   "diamond roots"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2121558829951242733"
  }
 ]
