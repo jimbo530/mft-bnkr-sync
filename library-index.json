@@ -1818,14 +1818,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2103011595823505603"
  },
  {
-  "band": "ALAN",
-  "name": "Name It Once (The Ballad of Monkey Town)",
-  "triggers": [
-   "name it once (the ballad of monkey town)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103031723722199515"
- },
- {
   "band": "EBM",
   "name": "Forest Got Funded",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "if it was easy"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2121619237114441806"
+ },
+ {
+  "band": "ALAN",
+  "name": "Name It Once (The Ballad of Monkey Town)",
+  "triggers": [
+   "name it once (the ballad of monkey town)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2121672065094738369"
  }
 ]
