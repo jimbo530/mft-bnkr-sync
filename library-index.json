@@ -1386,14 +1386,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100439663055974766"
  },
  {
-  "band": "Myco",
-  "name": "Proof of Good",
-  "triggers": [
-   "proof of good"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100444707503390999"
- },
- {
   "band": "MV",
   "name": "J&N you dont know",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "digerie dude - long way home"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2121430492406784007"
+ },
+ {
+  "band": "Myco",
+  "name": "Proof of Good",
+  "triggers": [
+   "proof of good"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2121438042120446360"
  }
 ]
