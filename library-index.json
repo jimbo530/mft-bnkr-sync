@@ -1475,14 +1475,6 @@
  },
  {
   "band": "CB",
-  "name": "Future is Here",
-  "triggers": [
-   "future is here"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100942990470455779"
- },
- {
-  "band": "CB",
   "name": "Misunderstood",
   "triggers": [
    "misunderstood"
@@ -8400,5 +8392,13 @@
    "diamond roots"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2121558829951242733"
+ },
+ {
+  "band": "CB",
+  "name": "Future is Here",
+  "triggers": [
+   "future is here"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2121611681356738783"
  }
 ]
