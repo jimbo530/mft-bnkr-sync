@@ -1410,14 +1410,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100520209861800133"
  },
  {
-  "band": "DD",
-  "name": "(ROOTS THAT HOLD US)",
-  "triggers": [
-   "(roots that hold us)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100570524761919494"
- },
- {
   "band": "Myco",
   "name": "The Return of the Bulls",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "natalie greatness grows"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2121498437787021785"
+ },
+ {
+  "band": "DD",
+  "name": "(ROOTS THAT HOLD US)",
+  "triggers": [
+   "(roots that hold us)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2121551277008048537"
  }
 ]
