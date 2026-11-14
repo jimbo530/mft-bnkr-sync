@@ -1194,14 +1194,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093664983343092195"
  },
  {
-  "band": "EBM",
-  "name": "Drop Memes, Fund Trees",
-  "triggers": [
-   "drop memes, fund trees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093685123812119014"
- },
- {
   "band": "JS",
   "name": "Jony Sings gotta get paid",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "name it once (the ballad of monkey town)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2121672065094738369"
+ },
+ {
+  "band": "EBM",
+  "name": "Drop Memes, Fund Trees",
+  "triggers": [
+   "drop memes, fund trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2121679630675456431"
  }
 ]

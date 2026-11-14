@@ -126,14 +126,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Drop Memes, Fund Trees",
-  "triggers": [
-   "drop memes, fund trees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093685123812119014",
-  "tag": "$MfT"
- },
- {
   "name": "The Prompt Heard",
   "triggers": [
    "the prompt heard"
@@ -875,6 +867,14 @@
    "like, comment, share"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2120652851793821819",
+  "tag": "MfT"
+ },
+ {
+  "name": "Drop Memes, Fund Trees",
+  "triggers": [
+   "drop memes, fund trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2121679630675456431",
   "tag": "MfT"
  }
 ]
