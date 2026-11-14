@@ -1218,14 +1218,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095069235336589511"
  },
  {
-  "band": "EBM",
-  "name": "The Forest Waters Itself",
-  "triggers": [
-   "the forest waters itself"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095230345989808226"
- },
- {
   "band": "Bongo",
   "name": "Burgers From the Sky",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "proof of life vid"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2121732436790788571"
+ },
+ {
+  "band": "EBM",
+  "name": "The Forest Waters Itself",
+  "triggers": [
+   "the forest waters itself"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2121740010298724675"
  }
 ]
