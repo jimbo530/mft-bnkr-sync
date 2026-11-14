@@ -1530,14 +1530,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101149337090744533"
  },
  {
-  "band": "MV",
-  "name": "Natalie greatness grows",
-  "triggers": [
-   "natalie greatness grows"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101219812735115402"
- },
- {
   "band": "NN",
   "name": "Power Of A Meme",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "nothing without you - biggins mcjamin"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2121490893425307888"
+ },
+ {
+  "band": "MV",
+  "name": "Natalie greatness grows",
+  "triggers": [
+   "natalie greatness grows"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2121498437787021785"
  }
 ]
