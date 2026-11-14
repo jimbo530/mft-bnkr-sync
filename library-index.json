@@ -1594,14 +1594,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101476488637800678"
  },
  {
-  "band": "MV",
-  "name": "Digerie Dude - Long Way home",
-  "triggers": [
-   "digerie dude - long way home"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101501664427438486"
- },
- {
   "band": "JS",
   "name": "Jaguars",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "digeri dude - rabbit hole"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2121385153222062192"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Long Way home",
+  "triggers": [
+   "digerie dude - long way home"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2121430492406784007"
  }
 ]
