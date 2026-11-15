@@ -49,14 +49,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "(QUIET REVOLUTION OF LOVE)",
-  "triggers": [
-   "(quiet revolution of love)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100746687643840567",
-  "tag": "$MfT"
- },
- {
   "name": "Small Voices, Big Waves",
   "triggers": [
    "small voices, big waves"
@@ -534,6 +526,14 @@
    "(roots that hold us)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2121551277008048537",
+  "tag": "MfT"
+ },
+ {
+  "name": "(QUIET REVOLUTION OF LOVE)",
+  "triggers": [
+   "(quiet revolution of love)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2122041999364604133",
   "tag": "MfT"
  }
 ]

@@ -1419,14 +1419,6 @@
  },
  {
   "band": "DD",
-  "name": "(QUIET REVOLUTION OF LOVE)",
-  "triggers": [
-   "(quiet revolution of love)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100746687643840567"
- },
- {
-  "band": "DD",
   "name": "Small Voices, Big Waves",
   "triggers": [
    "small voices, big waves"
@@ -8400,5 +8392,13 @@
    "love is the power"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2122034448334012638"
+ },
+ {
+  "band": "DD",
+  "name": "(QUIET REVOLUTION OF LOVE)",
+  "triggers": [
+   "(quiet revolution of love)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2122041999364604133"
  }
 ]
