@@ -2602,19 +2602,6 @@
     "caption": "\"Nations as One\" — Digerie Dude\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2102206308506026483",
-    "translation": "Digerie Dude - Plastic in the tide",
-    "name": "Digerie Dude - Plastic in the tide",
-    "triggers": [
-      "digerie dude - plastic in the tide"
-    ],
-    "band": "MV",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2102206308506026483",
-    "caption": "\"Digerie Dude - Plastic in the tide\"\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2102301898627809523",
     "translation": "Cellars Sewers And Spells",
     "name": "Cellars Sewers And Spells",
@@ -13650,5 +13637,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2122094864410009951",
     "caption": "\"Born on Chain\" — CB\nlove you famitree 🌲💚\n\nMfT"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2122102401721061487",
+    "translation": "Digerie Dude - Plastic in the tide",
+    "name": "Digerie Dude - Plastic in the tide",
+    "triggers": [
+      "digerie dude - plastic in the tide"
+    ],
+    "band": "MV",
+    "tag": "MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2122102401721061487",
+    "caption": "\"Digerie Dude - Plastic in the tide\"\ngood tunes, real forests 🎵🌲\n\nMfT"
   }
 ]

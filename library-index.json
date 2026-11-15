@@ -1602,14 +1602,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2102181160335908993"
  },
  {
-  "band": "MV",
-  "name": "Digerie Dude - Plastic in the tide",
-  "triggers": [
-   "digerie dude - plastic in the tide"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102206308506026483"
- },
- {
   "band": "JS",
   "name": "Cellars Sewers And Spells",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "born on chain"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2122094864410009951"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Plastic in the tide",
+  "triggers": [
+   "digerie dude - plastic in the tide"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2122102401721061487"
  }
 ]
