@@ -1514,14 +1514,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101476488637800678"
  },
  {
-  "band": "JS",
-  "name": "Jaguars",
-  "triggers": [
-   "jaguars"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101577108719804571"
- },
- {
   "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “WE ARE BASED”",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "work now dance later"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2121853215524168088"
+ },
+ {
+  "band": "JS",
+  "name": "Jaguars",
+  "triggers": [
+   "jaguars"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2121860778470883488"
  }
 ]

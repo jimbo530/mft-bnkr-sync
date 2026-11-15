@@ -2459,19 +2459,6 @@
     "caption": "\"Green Candle Sunrise\" — Myco\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2101577108719804571",
-    "translation": "Jaguars",
-    "name": "Jaguars",
-    "triggers": [
-      "jaguars"
-    ],
-    "band": "JS",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2101577108719804571",
-    "caption": "\"Jaguars\" — Jony Sings\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2101597246881988884",
     "translation": "ELVES OF BALLINMOORE — “WE ARE BASED”",
     "name": "ELVES OF BALLINMOORE — “WE ARE BASED”",
@@ -13650,5 +13637,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2121853215524168088",
     "caption": "\"Work Now Dance Later\" — Moon Rasta\nbag pumps. trees grow. 🌳🔥\n\nMfT"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2121860778470883488",
+    "translation": "Jaguars",
+    "name": "Jaguars",
+    "triggers": [
+      "jaguars"
+    ],
+    "band": "JS",
+    "tag": "MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2121860778470883488",
+    "caption": "\"Jaguars\" — Jony Sings\nforests go up 🌲📈\n\nMfT"
   }
 ]
