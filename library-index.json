@@ -1274,14 +1274,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2099719937891631431"
  },
  {
-  "band": "MR",
-  "name": "Work Now Dance Later",
-  "triggers": [
-   "work now dance later"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099795398726500706"
- },
- {
   "band": "Myco",
   "name": "Tunes For Trees",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "investors of tomorrow"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2121800415343722782"
+ },
+ {
+  "band": "MR",
+  "name": "Work Now Dance Later",
+  "triggers": [
+   "work now dance later"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2121853215524168088"
  }
 ]
