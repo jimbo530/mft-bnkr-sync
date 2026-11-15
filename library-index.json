@@ -1738,14 +1738,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2102855580217946375"
  },
  {
-  "band": "EBM",
-  "name": "Ballinmoore Elves",
-  "triggers": [
-   "ballinmoore elves"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102961268864770533"
- },
- {
   "band": "CB",
   "name": "Digerie Dude - Zoom Out",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "ebm - marc on base burger boys"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2121974064302448940"
+ },
+ {
+  "band": "EBM",
+  "name": "Ballinmoore Elves",
+  "triggers": [
+   "ballinmoore elves"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2121981599537340566"
  }
 ]
