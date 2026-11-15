@@ -2628,19 +2628,6 @@
     "caption": "\"Digerie Dude - Plastic in the tide\"\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2102281803318829237",
-    "translation": "Love Is The Power",
-    "name": "Love Is The Power",
-    "triggers": [
-      "love is the power"
-    ],
-    "band": "MR",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2102281803318829237",
-    "caption": "\"Love Is The Power\" — Moon Rasta\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2102301898627809523",
     "translation": "Cellars Sewers And Spells",
     "name": "Cellars Sewers And Spells",
@@ -13650,5 +13637,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2121981599537340566",
     "caption": "\"Ballinmoore Elves\" — Elves of Ballinmoore\nlove you famitree 🌲💚\n\nMfT"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2122034448334012638",
+    "translation": "Love Is The Power",
+    "name": "Love Is The Power",
+    "triggers": [
+      "love is the power"
+    ],
+    "band": "MR",
+    "tag": "MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2122034448334012638",
+    "caption": "\"Love Is The Power\" — Moon Rasta\npaper hands plant trees too 🧻🌱\n\nMfT"
   }
 ]

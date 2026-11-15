@@ -33,14 +33,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Love Is The Power",
-  "triggers": [
-   "love is the power"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102281803318829237",
-  "tag": "$MfT"
- },
- {
   "name": "Green Hearts vid",
   "triggers": [
    "green hearts vid"
@@ -462,6 +454,14 @@
    "work now dance later"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2121853215524168088",
+  "tag": "MfT"
+ },
+ {
+  "name": "Love Is The Power",
+  "triggers": [
+   "love is the power"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2122034448334012638",
   "tag": "MfT"
  }
 ]
