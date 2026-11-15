@@ -1682,14 +1682,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2102684453180965121"
  },
  {
-  "band": "CB",
-  "name": "Born on Chain",
-  "triggers": [
-   "born on chain"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102709626638639357"
- },
- {
   "band": "EBM",
   "name": "Ballinmoore Bounce",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "(quiet revolution of love)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2122041999364604133"
+ },
+ {
+  "band": "CB",
+  "name": "Born on Chain",
+  "triggers": [
+   "born on chain"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2122094864410009951"
  }
 ]
