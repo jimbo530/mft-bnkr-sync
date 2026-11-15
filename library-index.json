@@ -1170,14 +1170,6 @@
   "promote": true
  },
  {
-  "band": "MV",
-  "name": "EBM - Marc on base burger boys",
-  "triggers": [
-   "ebm - marc on base burger boys"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093544245512556760"
- },
- {
   "band": "Biggins",
   "name": "Out of the Treeline",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "misunderstood"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2121921213723189753"
+ },
+ {
+  "band": "MV",
+  "name": "EBM - Marc on base burger boys",
+  "triggers": [
+   "ebm - marc on base burger boys"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2121974064302448940"
  }
 ]

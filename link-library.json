@@ -1873,19 +1873,6 @@
     "promote": true
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2093544245512556760",
-    "translation": "EBM - Marc on base burger boys",
-    "name": "EBM - Marc on base burger boys",
-    "triggers": [
-      "ebm - marc on base burger boys"
-    ],
-    "band": "MV",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2093544245512556760",
-    "caption": "\"EBM - Marc on base burger boys\"\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2093604619196797226",
     "translation": "Out of the Treeline",
     "name": "Out of the Treeline",
@@ -13650,5 +13637,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2121921213723189753",
     "caption": "\"Misunderstood\" — CB\nforests go up 🌲📈\n\nMfT"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2121974064302448940",
+    "translation": "EBM - Marc on base burger boys",
+    "name": "EBM - Marc on base burger boys",
+    "triggers": [
+      "ebm - marc on base burger boys"
+    ],
+    "band": "MV",
+    "tag": "MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2121974064302448940",
+    "caption": "\"EBM - Marc on base burger boys\"\nbag pumps. trees grow. 🌳🔥\n\nMfT"
   }
 ]
