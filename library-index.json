@@ -1794,14 +1794,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2103056909649494383"
  },
  {
-  "band": "JS",
-  "name": "Investors of Tomorrow",
-  "triggers": [
-   "investors of tomorrow"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103132411320041800"
- },
- {
   "band": "EBM",
   "name": "FROM MEMES TO MANGROVES v2",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "natilie - base is for you"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2121792861234434430"
+ },
+ {
+  "band": "JS",
+  "name": "Investors of Tomorrow",
+  "triggers": [
+   "investors of tomorrow"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2121800415343722782"
  }
 ]

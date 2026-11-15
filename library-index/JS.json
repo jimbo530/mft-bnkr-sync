@@ -105,14 +105,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Investors of Tomorrow",
-  "triggers": [
-   "investors of tomorrow"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103132411320041800",
-  "tag": "$MfT"
- },
- {
   "name": "Jony Sings Welcome to the show",
   "triggers": [
    "jony sings welcome to the show"
@@ -782,6 +774,14 @@
    "proof of life vid"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2121732436790788571",
+  "tag": "MfT"
+ },
+ {
+  "name": "Investors of Tomorrow",
+  "triggers": [
+   "investors of tomorrow"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2121800415343722782",
   "tag": "MfT"
  }
 ]
