@@ -1274,14 +1274,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2099719937891631431"
  },
  {
-  "band": "CB",
-  "name": "Natilie - Base is for you",
-  "triggers": [
-   "natilie - base is for you"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099750081738027125"
- },
- {
   "band": "MR",
   "name": "Work Now Dance Later",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "the forest waters itself"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2121740010298724675"
+ },
+ {
+  "band": "CB",
+  "name": "Natilie - Base is for you",
+  "triggers": [
+   "natilie - base is for you"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2121792861234434430"
  }
 ]
