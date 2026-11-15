@@ -1434,14 +1434,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100746687643840567"
  },
  {
-  "band": "CB",
-  "name": "Misunderstood",
-  "triggers": [
-   "misunderstood"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100968163613589506"
- },
- {
   "band": "DD",
   "name": "Small Voices, Big Waves",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "they follow us"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2121913621164835325"
+ },
+ {
+  "band": "CB",
+  "name": "Misunderstood",
+  "triggers": [
+   "misunderstood"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2121921213723189753"
  }
 ]
