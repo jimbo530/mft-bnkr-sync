@@ -1922,14 +1922,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2103867216613511329"
  },
  {
-  "band": "CB",
-  "name": "They Follow US",
-  "triggers": [
-   "they follow us"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103887367207592283"
- },
- {
   "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “MEMES TURN TO TREES",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "jaguars"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2121860778470883488"
+ },
+ {
+  "band": "CB",
+  "name": "They Follow US",
+  "triggers": [
+   "they follow us"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2121913621164835325"
  }
 ]
