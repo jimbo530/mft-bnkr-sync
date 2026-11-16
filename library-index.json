@@ -1626,14 +1626,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2102332146954162420"
  },
  {
-  "band": "MV",
-  "name": "Digerie Dude - Build it Anyway",
-  "triggers": [
-   "digerie dude - build it anyway"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102377439674446175"
- },
- {
   "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “GOLD TO GREEN (O",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "digerie dude - plastic in the tide"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2122102401721061487"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Build it Anyway",
+  "triggers": [
+   "digerie dude - build it anyway"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2122155247359385807"
  }
 ]
