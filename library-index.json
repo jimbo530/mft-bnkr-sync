@@ -1914,14 +1914,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2104189351093563753"
  },
  {
-  "band": "EBM",
-  "name": "All-Time High",
-  "triggers": [
-   "all-time high"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2104269887916953770"
- },
- {
   "band": "Rish",
   "name": "Welcome to the Race (HOLM's Reel)",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "ballinmoore bounce"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2122215596725088274"
+ },
+ {
+  "band": "EBM",
+  "name": "All-Time High",
+  "triggers": [
+   "all-time high"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2122223209944596612"
  }
 ]
