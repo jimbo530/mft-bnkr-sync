@@ -1394,14 +1394,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100671201156747388"
  },
  {
-  "band": "EBM",
-  "name": "A Billion Strong",
-  "triggers": [
-   "a billion strong"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100716486104842352"
- },
- {
   "band": "MV",
   "name": "Saltwater crown - Jasmine",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "digerie dude - believe in someething"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2122457237733982535"
+ },
+ {
+  "band": "EBM",
+  "name": "A Billion Strong",
+  "triggers": [
+   "a billion strong"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2122464776689193421"
  }
 ]
