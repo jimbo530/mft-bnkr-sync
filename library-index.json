@@ -1667,14 +1667,6 @@
  },
  {
   "band": "EBM",
-  "name": "Ballinmoore Bounce",
-  "triggers": [
-   "ballinmoore bounce"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102754898550861881"
- },
- {
-  "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “TREES UP, BAGS U",
   "triggers": [
    "elves of ballinmoore — “trees up, bags u"
@@ -8400,5 +8392,13 @@
    "water each other - moon rasta"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2122162751803974061"
+ },
+ {
+  "band": "EBM",
+  "name": "Ballinmoore Bounce",
+  "triggers": [
+   "ballinmoore bounce"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2122215596725088274"
  }
 ]
