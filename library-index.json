@@ -1747,14 +1747,6 @@
  },
  {
   "band": "EBM",
-  "name": "ELVES OF BALLINMOORE — “DOUBT CAN’T TOUC",
-  "triggers": [
-   "elves of ballinmoore — “doubt can’t touc"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103464618941145526"
- },
- {
-  "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “YUCKY DUCKS x TR",
   "triggers": [
    "elves of ballinmoore — “yucky ducks x tr"
@@ -8400,5 +8392,13 @@
    "bet on the dreamer"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2122336430978392383"
+ },
+ {
+  "band": "EBM",
+  "name": "ELVES OF BALLINMOORE — “DOUBT CAN’T TOUC",
+  "triggers": [
+   "elves of ballinmoore — “doubt can’t touc"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2122343945925513495"
  }
 ]
