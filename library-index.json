@@ -1594,14 +1594,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2102150906032644517"
  },
  {
-  "band": "DD",
-  "name": "Nations as One",
-  "triggers": [
-   "nations as one"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102181160335908993"
- },
- {
   "band": "JS",
   "name": "Cellars Sewers And Spells",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "all-time high"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2122223209944596612"
+ },
+ {
+  "band": "DD",
+  "name": "Nations as One",
+  "triggers": [
+   "nations as one"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2122276035412529243"
  }
 ]
