@@ -1394,14 +1394,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100671201156747388"
  },
  {
-  "band": "JS",
-  "name": "Jony it carries 2",
-  "triggers": [
-   "jony it carries 2"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100691336064126985"
- },
- {
   "band": "EBM",
   "name": "A Billion Strong",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "nations as one"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2122276035412529243"
+ },
+ {
+  "band": "JS",
+  "name": "Jony it carries 2",
+  "triggers": [
+   "jony it carries 2"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2122283591941984490"
  }
 ]
