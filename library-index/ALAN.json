@@ -32,14 +32,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Bet On The Dreamer",
-  "triggers": [
-   "bet on the dreamer"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103867216613511329",
-  "tag": "$MfT"
- },
- {
   "name": "For bankrbot — gg3p",
   "triggers": [
    "for bankrbot — gg3p"
@@ -165,6 +157,14 @@
    "name it once (the ballad of monkey town)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2121672065094738369",
+  "tag": "MfT"
+ },
+ {
+  "name": "Bet On The Dreamer",
+  "triggers": [
+   "bet on the dreamer"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2122336430978392383",
   "tag": "MfT"
  }
 ]

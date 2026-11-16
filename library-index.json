@@ -1818,14 +1818,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2103862160791093465"
  },
  {
-  "band": "ALAN",
-  "name": "Bet On The Dreamer",
-  "triggers": [
-   "bet on the dreamer"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103867216613511329"
- },
- {
   "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “MEMES TURN TO TREES",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "jony it carries 2"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2122283591941984490"
+ },
+ {
+  "band": "ALAN",
+  "name": "Bet On The Dreamer",
+  "triggers": [
+   "bet on the dreamer"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2122336430978392383"
  }
 ]
