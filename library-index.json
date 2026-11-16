@@ -1610,14 +1610,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2102332146954162420"
  },
  {
-  "band": "EBM",
-  "name": "ELVES OF BALLINMOORE — “GOLD TO GREEN (O",
-  "triggers": [
-   "elves of ballinmoore — “gold to green (o"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102452935481319826"
- },
- {
   "band": "MV",
   "name": "Natalie 1000 futures",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "elves of ballinmoore — “doubt can’t touc"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2122343945925513495"
+ },
+ {
+  "band": "EBM",
+  "name": "ELVES OF BALLINMOORE — “GOLD TO GREEN (O",
+  "triggers": [
+   "elves of ballinmoore — “gold to green (o"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2122396836568691087"
  }
 ]

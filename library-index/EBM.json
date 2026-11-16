@@ -190,14 +190,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "ELVES OF BALLINMOORE — “GOLD TO GREEN (O",
-  "triggers": [
-   "elves of ballinmoore — “gold to green (o"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102452935481319826",
-  "tag": "$MfT"
- },
- {
   "name": "ELVES OF BALLINMOORE — “LISTEN, LIKE, AN",
   "triggers": [
    "elves of ballinmoore — “listen, like, an"
@@ -875,6 +867,14 @@
    "elves of ballinmoore — “doubt can’t touc"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2122343945925513495",
+  "tag": "MfT"
+ },
+ {
+  "name": "ELVES OF BALLINMOORE — “GOLD TO GREEN (O",
+  "triggers": [
+   "elves of ballinmoore — “gold to green (o"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2122396836568691087",
   "tag": "MfT"
  }
 ]
