@@ -2901,19 +2901,6 @@
     "caption": "\"ELVES OF BALLINMOORE — “YUCKY DUCKS x TR\" — Elves of Ballinmoore\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2103610536730456364",
-    "translation": "Water Each Other - Moon Rasta",
-    "name": "Water Each Other - Moon Rasta",
-    "triggers": [
-      "water each other - moon rasta"
-    ],
-    "band": "MV",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2103610536730456364",
-    "caption": "\"Water Each Other - Moon Rasta\"\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2103635735194571204",
     "translation": "Digerie Dude - Signal in the Noise",
     "name": "Digerie Dude - Signal in the Noise",
@@ -13650,5 +13637,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2122155247359385807",
     "caption": "\"Digerie Dude - Build it Anyway\"\nbag pumps. trees grow. 🌳🔥\n\nMfT"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2122162751803974061",
+    "translation": "Water Each Other - Moon Rasta",
+    "name": "Water Each Other - Moon Rasta",
+    "triggers": [
+      "water each other - moon rasta"
+    ],
+    "band": "MV",
+    "tag": "MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2122162751803974061",
+    "caption": "\"Water Each Other - Moon Rasta\"\none bag. self-pumping. forest-funding. 🍃📈\n\nMfT"
   }
 ]

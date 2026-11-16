@@ -1787,14 +1787,6 @@
  },
  {
   "band": "MV",
-  "name": "Water Each Other - Moon Rasta",
-  "triggers": [
-   "water each other - moon rasta"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103610536730456364"
- },
- {
-  "band": "MV",
   "name": "Digerie Dude - Signal in the Noise",
   "triggers": [
    "digerie dude - signal in the noise"
@@ -8400,5 +8392,13 @@
    "digerie dude - build it anyway"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2122155247359385807"
+ },
+ {
+  "band": "MV",
+  "name": "Water Each Other - Moon Rasta",
+  "triggers": [
+   "water each other - moon rasta"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2122162751803974061"
  }
 ]
