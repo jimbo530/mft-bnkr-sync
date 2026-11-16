@@ -1770,14 +1770,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2103761534988013676"
  },
  {
-  "band": "MV",
-  "name": "Digerie Dude - Believe in SomeETHing",
-  "triggers": [
-   "digerie dude - believe in someething"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103786699050340419"
- },
- {
   "band": "JS",
   "name": "Build The World Together",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "elves of ballinmoore — “light load, livi"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2122404389583257605"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Believe in SomeETHing",
+  "triggers": [
+   "digerie dude - believe in someething"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2122457237733982535"
  }
 ]
