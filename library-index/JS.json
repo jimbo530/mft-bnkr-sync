@@ -89,14 +89,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Jony Sings Welcome to the show",
-  "triggers": [
-   "jony sings welcome to the show"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103338713887482277",
-  "tag": "$MfT"
- },
- {
   "name": "Dance Until Morning",
   "triggers": [
    "dance until morning"
@@ -782,6 +774,14 @@
    "jony it carries 2"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2122283591941984490",
+  "tag": "MfT"
+ },
+ {
+  "name": "Jony Sings Welcome to the show",
+  "triggers": [
+   "jony sings welcome to the show"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2122585540348325929",
   "tag": "MfT"
  }
 ]

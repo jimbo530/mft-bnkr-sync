@@ -2719,19 +2719,6 @@
     "caption": "\"Help The Homies\" — Elves of Ballinmoore\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2103338713887482277",
-    "translation": "Jony Sings Welcome to the show",
-    "name": "Jony Sings Welcome to the show",
-    "triggers": [
-      "jony sings welcome to the show"
-    ],
-    "band": "JS",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2103338713887482277",
-    "caption": "\"Jony Sings Welcome to the show\" — Jony Sings\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2103384004586012724",
     "translation": "Green Hearts vid",
     "name": "Green Hearts vid",
@@ -13650,5 +13637,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2122577988105412796",
     "caption": "\"regen rise\"\nkeep it growing 🍃🔥\n\nMfT"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2122585540348325929",
+    "translation": "Jony Sings Welcome to the show",
+    "name": "Jony Sings Welcome to the show",
+    "triggers": [
+      "jony sings welcome to the show"
+    ],
+    "band": "JS",
+    "tag": "MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2122585540348325929",
+    "caption": "\"Jony Sings Welcome to the show\" — Jony Sings\ndance to defend the earth 💃🌍\n\nMfT"
   }
 ]

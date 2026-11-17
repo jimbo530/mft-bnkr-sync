@@ -1674,14 +1674,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2103313583337586769"
  },
  {
-  "band": "JS",
-  "name": "Jony Sings Welcome to the show",
-  "triggers": [
-   "jony sings welcome to the show"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103338713887482277"
- },
- {
   "band": "MR",
   "name": "Green Hearts vid",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "regen rise"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2122577988105412796"
+ },
+ {
+  "band": "JS",
+  "name": "Jony Sings Welcome to the show",
+  "triggers": [
+   "jony sings welcome to the show"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2122585540348325929"
  }
 ]
