@@ -1522,14 +1522,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101853991940284507"
  },
  {
-  "band": "NN",
-  "name": "1000 Futures",
-  "triggers": [
-   "1000 futures"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101999903375245795"
- },
- {
   "band": "MV",
   "name": "EBM - Thousand Year Plan",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "elves of ballinmoore — “thousand year pl"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2122698828360851764"
+ },
+ {
+  "band": "NN",
+  "name": "1000 Futures",
+  "triggers": [
+   "1000 futures"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2122706358604611925"
  }
 ]

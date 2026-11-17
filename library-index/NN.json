@@ -33,14 +33,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "1000 Futures",
-  "triggers": [
-   "1000 futures"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101999903375245795",
-  "tag": "$MfT"
- },
- {
   "name": "Forest Song 2",
   "triggers": [
    "forest song 2"
@@ -391,5 +383,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2119135340942205374",
   "tag": "$MfT"
+ },
+ {
+  "name": "1000 Futures",
+  "triggers": [
+   "1000 futures"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2122706358604611925",
+  "tag": "MfT"
  }
 ]
