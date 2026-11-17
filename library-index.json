@@ -1579,14 +1579,6 @@
  },
  {
   "band": "MV",
-  "name": "Seen when it matters",
-  "triggers": [
-   "seen when it matters"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102332146954162420"
- },
- {
-  "band": "MV",
   "name": "Natalie 1000 futures",
   "triggers": [
    "natalie 1000 futures"
@@ -8400,5 +8392,13 @@
    "jony sings welcome to the show"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2122585540348325929"
+ },
+ {
+  "band": "MV",
+  "name": "Seen when it matters",
+  "triggers": [
+   "seen when it matters"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2122638396631761134"
  }
 ]
