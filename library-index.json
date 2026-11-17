@@ -1610,14 +1610,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2102583789037785514"
  },
  {
-  "band": "EBM",
-  "name": "ELVES OF BALLINMOORE — “LISTEN, LIKE, AN",
-  "triggers": [
-   "elves of ballinmoore — “listen, like, an"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102634132786356654"
- },
- {
   "band": "Myco",
   "name": "Go Do Something Nice",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "signal in the silence"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2122517633685737898"
+ },
+ {
+  "band": "EBM",
+  "name": "ELVES OF BALLINMOORE — “LISTEN, LIKE, AN",
+  "triggers": [
+   "elves of ballinmoore — “listen, like, an"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2122525186637386227"
  }
 ]
