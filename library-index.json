@@ -1354,14 +1354,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100520209861800133"
  },
  {
-  "band": "Myco",
-  "name": "The Return of the Bulls",
-  "triggers": [
-   "the return of the bulls"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100595705647653336"
- },
- {
   "band": "CB",
   "name": "Open the Gates",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "green candle sunrise"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2122766764970754457"
+ },
+ {
+  "band": "Myco",
+  "name": "The Return of the Bulls",
+  "triggers": [
+   "the return of the bulls"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2122819617873703013"
  }
 ]

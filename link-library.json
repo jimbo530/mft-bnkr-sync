@@ -2199,19 +2199,6 @@
     "caption": "\"EBM - Every Signal Plants Trees\"\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2100595705647653336",
-    "translation": "The Return of the Bulls",
-    "name": "The Return of the Bulls",
-    "triggers": [
-      "the return of the bulls"
-    ],
-    "band": "Myco",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2100595705647653336",
-    "caption": "\"The Return of the Bulls\" — Myco\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2100646042681090123",
     "translation": "Open the Gates",
     "name": "Open the Gates",
@@ -13650,5 +13637,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2122766764970754457",
     "caption": "\"Green Candle Sunrise\" — Myco\npress play, plant trees ▶️🌲\n\nMfT"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2122819617873703013",
+    "translation": "The Return of the Bulls",
+    "name": "The Return of the Bulls",
+    "triggers": [
+      "the return of the bulls"
+    ],
+    "band": "Myco",
+    "tag": "MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2122819617873703013",
+    "caption": "\"The Return of the Bulls\" — Myco\nstay amazing famitree 🌞🌱\n\nMfT"
   }
 ]
