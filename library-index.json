@@ -1754,14 +1754,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2103741361681817745"
  },
  {
-  "band": "CB",
-  "name": "Signal in the silence",
-  "triggers": [
-   "signal in the silence"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103761534988013676"
- },
- {
   "band": "JS",
   "name": "Build The World Together",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "a billion strong"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2122464776689193421"
+ },
+ {
+  "band": "CB",
+  "name": "Signal in the silence",
+  "triggers": [
+   "signal in the silence"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2122517633685737898"
  }
 ]
