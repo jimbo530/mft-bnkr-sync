@@ -1739,14 +1739,6 @@
  },
  {
   "band": "JS",
-  "name": "Jony Sings, devil wants my song",
-  "triggers": [
-   "jony sings, devil wants my song"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2104138972372795715"
- },
- {
-  "band": "JS",
   "name": "Jony Sings, alive",
   "triggers": [
    "jony sings, alive"
@@ -8400,5 +8392,13 @@
    "the return of the bulls"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2122819617873703013"
+ },
+ {
+  "band": "JS",
+  "name": "Jony Sings, devil wants my song",
+  "triggers": [
+   "jony sings, devil wants my song"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2122827173618688177"
  }
 ]
