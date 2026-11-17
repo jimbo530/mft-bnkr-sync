@@ -1723,14 +1723,6 @@
  },
  {
   "band": "EBM",
-  "name": "ELVES OF BALLINMOORE — “THOUSAND YEAR PL",
-  "triggers": [
-   "elves of ballinmoore — “thousand year pl"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103862160791093465"
- },
- {
-  "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “MEMES TURN TO TREES",
   "triggers": [
    "elves of ballinmoore — “memes turn to trees"
@@ -8400,5 +8392,13 @@
    "forests for the future"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2122645929014481344"
+ },
+ {
+  "band": "EBM",
+  "name": "ELVES OF BALLINMOORE — “THOUSAND YEAR PL",
+  "triggers": [
+   "elves of ballinmoore — “thousand year pl"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2122698828360851764"
  }
 ]
