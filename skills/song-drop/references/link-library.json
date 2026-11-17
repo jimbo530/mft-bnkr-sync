@@ -2355,19 +2355,6 @@
     "caption": "\"ELVES OF BALLINMOORE — “COMMUNITY OF COM\" — Elves of Ballinmoore\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2101476488637800678",
-    "translation": "Green Candle Sunrise",
-    "name": "Green Candle Sunrise",
-    "triggers": [
-      "green candle sunrise"
-    ],
-    "band": "Myco",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2101476488637800678",
-    "caption": "\"Green Candle Sunrise\" — Myco\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2101597246881988884",
     "translation": "ELVES OF BALLINMOORE — “WE ARE BASED”",
     "name": "ELVES OF BALLINMOORE — “WE ARE BASED”",
@@ -13650,5 +13637,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2122759175008587782",
     "caption": "\"Natalie 1000 futures\"\nthe bag that pumps itself and plants forests 🔥🌳\n\nMfT"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2122766764970754457",
+    "translation": "Green Candle Sunrise",
+    "name": "Green Candle Sunrise",
+    "triggers": [
+      "green candle sunrise"
+    ],
+    "band": "Myco",
+    "tag": "MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2122766764970754457",
+    "caption": "\"Green Candle Sunrise\" — Myco\npress play, plant trees ▶️🌲\n\nMfT"
   }
 ]

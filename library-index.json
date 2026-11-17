@@ -1450,14 +1450,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101451330615148703"
  },
  {
-  "band": "Myco",
-  "name": "Green Candle Sunrise",
-  "triggers": [
-   "green candle sunrise"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101476488637800678"
- },
- {
   "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “WE ARE BASED”",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "natalie 1000 futures"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2122759175008587782"
+ },
+ {
+  "band": "Myco",
+  "name": "Green Candle Sunrise",
+  "triggers": [
+   "green candle sunrise"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2122766764970754457"
  }
 ]
