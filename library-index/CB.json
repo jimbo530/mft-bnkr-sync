@@ -105,14 +105,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Block by Block",
-  "triggers": [
-   "block by block"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103917655958724778",
-  "tag": "$MfT"
- },
- {
   "name": "EBM - Code Not Coal",
   "triggers": [
    "ebm - code not coal"
@@ -558,6 +550,14 @@
    "ebm - fighting temeraire"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2122879956267016593",
+  "tag": "MfT"
+ },
+ {
+  "name": "Block by Block",
+  "triggers": [
+   "block by block"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2122948009591787942",
   "tag": "MfT"
  }
 ]

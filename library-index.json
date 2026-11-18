@@ -1690,14 +1690,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2103912492367835384"
  },
  {
-  "band": "CB",
-  "name": "Block by Block",
-  "triggers": [
-   "block by block"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103917655958724778"
- },
- {
   "band": "JS",
   "name": "jony sings blockchain boogie",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "mc - scratch the earth"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2122940409202553093"
+ },
+ {
+  "band": "CB",
+  "name": "Block by Block",
+  "triggers": [
+   "block by block"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2122948009591787942"
  }
 ]
