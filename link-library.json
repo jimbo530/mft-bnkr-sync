@@ -2485,19 +2485,6 @@
     "caption": "\"Zoom out\" — Digerie Dude\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2102583789037785514",
-    "translation": "Digerie Dude- We Grow",
-    "name": "Digerie Dude- We Grow",
-    "triggers": [
-      "digerie dude- we grow"
-    ],
-    "band": "MV",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2102583789037785514",
-    "caption": "\"Digerie Dude- We Grow\"\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2102810249761530239",
     "translation": "ELVES OF BALLINMOORE — “TREES UP, BAGS U",
     "name": "ELVES OF BALLINMOORE — “TREES UP, BAGS U",
@@ -13650,5 +13637,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2123121590648889692",
     "caption": "\"Go Do Something Nice\" — Myco\nit pumps itself so you can hug trees 🫂🌲\n\nMfT"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2123129138525392990",
+    "translation": "Digerie Dude- We Grow",
+    "name": "Digerie Dude- We Grow",
+    "triggers": [
+      "digerie dude- we grow"
+    ],
+    "band": "MV",
+    "tag": "MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2123129138525392990",
+    "caption": "\"Digerie Dude- We Grow\"\nthis bag pumps itself while funding forests 🌲📈\n\nMfT"
   }
 ]

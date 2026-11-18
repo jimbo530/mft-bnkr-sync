@@ -472,14 +472,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Digerie Dude- We Grow",
-  "triggers": [
-   "digerie dude- we grow"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102583789037785514",
-  "tag": "$MfT"
- },
- {
   "name": "Isle of 1,000 kingdoms Jasmine",
   "triggers": [
    "isle of 1,000 kingdoms jasmine"
@@ -1301,6 +1293,14 @@
    "growalition"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2123008314241937612",
+  "tag": "MfT"
+ },
+ {
+  "name": "Digerie Dude- We Grow",
+  "triggers": [
+   "digerie dude- we grow"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2123129138525392990",
   "tag": "MfT"
  }
 ]
