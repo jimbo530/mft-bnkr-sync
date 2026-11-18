@@ -1378,14 +1378,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101119154434572442"
  },
  {
-  "band": "Myco",
-  "name": "Show Me What You Got",
-  "triggers": [
-   "show me what you got"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101149337090744533"
- },
- {
   "band": "NN",
   "name": "Power Of A Meme",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "jony sings gotta get paid"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2123181948457664742"
+ },
+ {
+  "band": "Myco",
+  "name": "Show Me What You Got",
+  "triggers": [
+   "show me what you got"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2123189536138068409"
  }
 ]
