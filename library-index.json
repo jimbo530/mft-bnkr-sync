@@ -1538,14 +1538,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2102583789037785514"
  },
  {
-  "band": "Myco",
-  "name": "Go Do Something Nice",
-  "triggers": [
-   "go do something nice"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102684453180965121"
- },
- {
   "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “TREES UP, BAGS U",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "dance until morning"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2123068742116450451"
+ },
+ {
+  "band": "Myco",
+  "name": "Go Do Something Nice",
+  "triggers": [
+   "go do something nice"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2123121590648889692"
  }
 ]

@@ -2498,19 +2498,6 @@
     "caption": "\"Digerie Dude- We Grow\"\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2102684453180965121",
-    "translation": "Go Do Something Nice",
-    "name": "Go Do Something Nice",
-    "triggers": [
-      "go do something nice"
-    ],
-    "band": "Myco",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2102684453180965121",
-    "caption": "\"Go Do Something Nice\" — Myco\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2102810249761530239",
     "translation": "ELVES OF BALLINMOORE — “TREES UP, BAGS U",
     "name": "ELVES OF BALLINMOORE — “TREES UP, BAGS U",
@@ -13650,5 +13637,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2123068742116450451",
     "caption": "\"Dance Until Morning\" — Jony Sings\nbag pumps. trees grow. 🌳🔥\n\nMfT"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2123121590648889692",
+    "translation": "Go Do Something Nice",
+    "name": "Go Do Something Nice",
+    "triggers": [
+      "go do something nice"
+    ],
+    "band": "Myco",
+    "tag": "MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2123121590648889692",
+    "caption": "\"Go Do Something Nice\" — Myco\nit pumps itself so you can hug trees 🫂🌲\n\nMfT"
   }
 ]
