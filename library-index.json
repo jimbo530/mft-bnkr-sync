@@ -1330,14 +1330,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100344005775024460"
  },
  {
-  "band": "CB",
-  "name": "EBM - Fighting TEMERAIRE",
-  "triggers": [
-   "ebm - fighting temeraire"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100439663055974766"
- },
- {
   "band": "MV",
   "name": "J&N you dont know",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "jony sings, devil wants my song"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2122827173618688177"
+ },
+ {
+  "band": "CB",
+  "name": "EBM - Fighting TEMERAIRE",
+  "triggers": [
+   "ebm - fighting temeraire"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2122879956267016593"
  }
 ]
