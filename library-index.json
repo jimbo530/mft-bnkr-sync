@@ -1682,14 +1682,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2103811859451146676"
  },
  {
-  "band": "EBM",
-  "name": "ELVES OF BALLINMOORE — “MEMES TURN TO TREES",
-  "triggers": [
-   "elves of ballinmoore — “memes turn to trees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103912492367835384"
- },
- {
   "band": "JS",
   "name": "jony sings blockchain boogie",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "block by block"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2122948009591787942"
+ },
+ {
+  "band": "EBM",
+  "name": "ELVES OF BALLINMOORE — “MEMES TURN TO TREES",
+  "triggers": [
+   "elves of ballinmoore — “memes turn to trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2123000829825130734"
  }
 ]

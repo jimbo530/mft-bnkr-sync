@@ -238,14 +238,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "ELVES OF BALLINMOORE — “MEMES TURN TO TREES",
-  "triggers": [
-   "elves of ballinmoore — “memes turn to trees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103912492367835384",
-  "tag": "$MfT"
- },
- {
   "name": "Halls Outlive Kingdoms",
   "triggers": [
    "halls outlive kingdoms"
@@ -875,6 +867,14 @@
    "elves of ballinmoore — “thousand year pl"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2122698828360851764",
+  "tag": "MfT"
+ },
+ {
+  "name": "ELVES OF BALLINMOORE — “MEMES TURN TO TREES",
+  "triggers": [
+   "elves of ballinmoore — “memes turn to trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2123000829825130734",
   "tag": "MfT"
  }
 ]
