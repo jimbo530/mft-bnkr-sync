@@ -1698,14 +1698,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2103917655958724778"
  },
  {
-  "band": "MV",
-  "name": "MC - Scratch the Earth",
-  "triggers": [
-   "mc - scratch the earth"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103988028821651827"
- },
- {
   "band": "JS",
   "name": "jony sings blockchain boogie",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "jony sings, alive"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2122887523114402240"
+ },
+ {
+  "band": "MV",
+  "name": "MC - Scratch the Earth",
+  "triggers": [
+   "mc - scratch the earth"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2122940409202553093"
  }
 ]

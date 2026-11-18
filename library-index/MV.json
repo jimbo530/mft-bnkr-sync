@@ -512,14 +512,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "MC - Scratch the Earth",
-  "triggers": [
-   "mc - scratch the earth"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103988028821651827",
-  "tag": "$MfT"
- },
- {
   "name": "Love is the work - Jasmine",
   "triggers": [
    "love is the work - jasmine"
@@ -1301,6 +1293,14 @@
    "natalie 1000 futures"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2122759175008587782",
+  "tag": "MfT"
+ },
+ {
+  "name": "MC - Scratch the Earth",
+  "triggers": [
+   "mc - scratch the earth"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2122940409202553093",
   "tag": "MfT"
  }
 ]
