@@ -1730,14 +1730,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2104113856029106500"
  },
  {
-  "band": "JS",
-  "name": "Jony Sings, alive",
-  "triggers": [
-   "jony sings, alive"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2104169169990160716"
- },
- {
   "band": "MV",
   "name": "Digerie Dude - Crown of Silence",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "ebm - fighting temeraire"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2122879956267016593"
+ },
+ {
+  "band": "JS",
+  "name": "Jony Sings, alive",
+  "triggers": [
+   "jony sings, alive"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2122887523114402240"
  }
 ]
