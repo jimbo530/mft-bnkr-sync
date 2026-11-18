@@ -1283,14 +1283,6 @@
  },
  {
   "band": "MV",
-  "name": "growalition",
-  "triggers": [
-   "growalition"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099996763494986068"
- },
- {
-  "band": "MV",
   "name": "Natilie - It will change your life.",
   "triggers": [
    "natilie - it will change your life."
@@ -8400,5 +8392,13 @@
    "elves of ballinmoore — “memes turn to trees"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2123000829825130734"
+ },
+ {
+  "band": "MV",
+  "name": "growalition",
+  "triggers": [
+   "growalition"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2123008314241937612"
  }
 ]
