@@ -1586,14 +1586,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2103056909649494383"
  },
  {
-  "band": "EBM",
-  "name": "FROM MEMES TO MANGROVES v2",
-  "triggers": [
-   "from memes to mangroves v2"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103187794789056658"
- },
- {
   "band": "MV",
   "name": "Isle of 1,000 kingdoms Jasmine",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "growalition"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2123008314241937612"
+ },
+ {
+  "band": "EBM",
+  "name": "FROM MEMES TO MANGROVES v2",
+  "triggers": [
+   "from memes to mangroves v2"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2123061203052134907"
  }
 ]
