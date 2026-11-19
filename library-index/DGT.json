@@ -303,5 +303,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2118652189866328449",
   "tag": "$MfT"
+ },
+ {
+  "name": "The Whole Orchard Swings",
+  "triggers": [
+   "the whole orchard swings"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2123423592750715243",
+  "tag": "MfT"
  }
 ]
