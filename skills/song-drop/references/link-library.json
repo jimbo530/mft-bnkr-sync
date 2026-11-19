@@ -2589,19 +2589,6 @@
     "caption": "\"Digerie Dude - I endure\"\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2103590376565055991",
-    "translation": "ELVES OF BALLINMOORE — “YUCKY DUCKS x TR",
-    "name": "ELVES OF BALLINMOORE — “YUCKY DUCKS x TR",
-    "triggers": [
-      "elves of ballinmoore — “yucky ducks x tr"
-    ],
-    "band": "EBM",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2103590376565055991",
-    "caption": "\"ELVES OF BALLINMOORE — “YUCKY DUCKS x TR\" — Elves of Ballinmoore\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2103635735194571204",
     "translation": "Digerie Dude - Signal in the Noise",
     "name": "Digerie Dude - Signal in the Noise",
@@ -13650,5 +13637,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2123189536138068409",
     "caption": "\"Show Me What You Got\" — Myco\nevery trade waters the forest 💧🌳\n\nMfT"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2123242387702952156",
+    "translation": "ELVES OF BALLINMOORE — “YUCKY DUCKS x TR",
+    "name": "ELVES OF BALLINMOORE — “YUCKY DUCKS x TR",
+    "triggers": [
+      "elves of ballinmoore — “yucky ducks x tr"
+    ],
+    "band": "EBM",
+    "tag": "MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2123242387702952156",
+    "caption": "\"ELVES OF BALLINMOORE — “YUCKY DUCKS x TR\" — Elves of Ballinmoore\nit pumps itself so you can hug trees 🫂🌲\n\nMfT"
   }
 ]

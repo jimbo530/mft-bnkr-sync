@@ -1594,14 +1594,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2103434378701348883"
  },
  {
-  "band": "EBM",
-  "name": "ELVES OF BALLINMOORE — “YUCKY DUCKS x TR",
-  "triggers": [
-   "elves of ballinmoore — “yucky ducks x tr"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103590376565055991"
- },
- {
   "band": "MV",
   "name": "Digerie Dude - Signal in the Noise",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "show me what you got"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2123189536138068409"
+ },
+ {
+  "band": "EBM",
+  "name": "ELVES OF BALLINMOORE — “YUCKY DUCKS x TR",
+  "triggers": [
+   "elves of ballinmoore — “yucky ducks x tr"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2123242387702952156"
  }
 ]
