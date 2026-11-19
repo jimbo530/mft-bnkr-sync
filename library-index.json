@@ -1314,14 +1314,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100469879786574190"
  },
  {
-  "band": "MV",
-  "name": "EBM - Every Signal Plants Trees",
-  "triggers": [
-   "ebm - every signal plants trees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100520209861800133"
- },
- {
   "band": "CB",
   "name": "Open the Gates",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "velvet and valor"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2123363179539427422"
+ },
+ {
+  "band": "MV",
+  "name": "EBM - Every Signal Plants Trees",
+  "triggers": [
+   "ebm - every signal plants trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2123370741282353460"
  }
 ]

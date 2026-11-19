@@ -424,14 +424,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "EBM - Every Signal Plants Trees",
-  "triggers": [
-   "ebm - every signal plants trees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100520209861800133",
-  "tag": "$MfT"
- },
- {
   "name": "You matter here -G.O.A.T.",
   "triggers": [
    "you matter here -g.o.a.t."
@@ -1301,6 +1293,14 @@
    "digerie dude- we grow"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2123129138525392990",
+  "tag": "MfT"
+ },
+ {
+  "name": "EBM - Every Signal Plants Trees",
+  "triggers": [
+   "ebm - every signal plants trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2123370741282353460",
   "tag": "MfT"
  }
 ]
