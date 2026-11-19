@@ -2355,19 +2355,6 @@
     "caption": "\"Play For Impact\" — Myco\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2101853991940284507",
-    "translation": "Velvet And Valor",
-    "name": "Velvet And Valor",
-    "triggers": [
-      "velvet and valor"
-    ],
-    "band": "NN",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2101853991940284507",
-    "caption": "\"Velvet And Valor\" — Natilie Nightclub\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2102105746141757661",
     "translation": "EBM - Thousand Year Plan",
     "name": "EBM - Thousand Year Plan",
@@ -13650,5 +13637,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2123310367182843911",
     "caption": "\"Circular Didgeridoo\" — Myco\ngrow with us 🌳🫶\n\nMfT"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2123363179539427422",
+    "translation": "Velvet And Valor",
+    "name": "Velvet And Valor",
+    "triggers": [
+      "velvet and valor"
+    ],
+    "band": "NN",
+    "tag": "MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2123363179539427422",
+    "caption": "\"Velvet And Valor\" — Natilie Nightclub\nit pumps itself so you can hug trees 🫂🌲\n\nMfT"
   }
 ]

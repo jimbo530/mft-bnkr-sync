@@ -1450,14 +1450,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101823794629300550"
  },
  {
-  "band": "NN",
-  "name": "Velvet And Valor",
-  "triggers": [
-   "velvet and valor"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101853991940284507"
- },
- {
   "band": "MV",
   "name": "EBM - Thousand Year Plan",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "circular didgeridoo"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2123310367182843911"
+ },
+ {
+  "band": "NN",
+  "name": "Velvet And Valor",
+  "triggers": [
+   "velvet and valor"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2123363179539427422"
  }
 ]
