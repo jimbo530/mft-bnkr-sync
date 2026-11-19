@@ -136,14 +136,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Circular Didgeridoo",
-  "triggers": [
-   "circular didgeridoo"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100177973127078048",
-  "tag": "$MfT"
- },
- {
   "name": "(🎧 “Thanks for Being Here”) (1)",
   "triggers": [
    "(🎧 “thanks for being here”) (1)"
@@ -933,6 +925,14 @@
    "show me what you got"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2123189536138068409",
+  "tag": "MfT"
+ },
+ {
+  "name": "Circular Didgeridoo",
+  "triggers": [
+   "circular didgeridoo"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2123310367182843911",
   "tag": "MfT"
  }
 ]

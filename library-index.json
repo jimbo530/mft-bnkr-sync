@@ -1282,14 +1282,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100172881778884680"
  },
  {
-  "band": "Myco",
-  "name": "Circular Didgeridoo",
-  "triggers": [
-   "circular didgeridoo"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100177973127078048"
- },
- {
   "band": "EBM",
   "name": "emerald signal 22726",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "jony sings move like magic"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2123302780563578920"
+ },
+ {
+  "band": "Myco",
+  "name": "Circular Didgeridoo",
+  "triggers": [
+   "circular didgeridoo"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2123310367182843911"
  }
 ]
