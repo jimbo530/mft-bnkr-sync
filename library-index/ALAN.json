@@ -166,5 +166,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2122336430978392383",
   "tag": "MfT"
+ },
+ {
+  "name": "Rooted Deep",
+  "triggers": [
+   "rooted deep"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2123491520799981625",
+  "tag": "MfT"
  }
 ]
