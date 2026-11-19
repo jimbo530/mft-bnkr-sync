@@ -407,5 +407,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2118523843073425810",
   "tag": "$MfT"
+ },
+ {
+  "name": "Grow It Loud",
+  "triggers": [
+   "grow it loud"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2123431125871624198",
+  "tag": "MfT"
  }
 ]
