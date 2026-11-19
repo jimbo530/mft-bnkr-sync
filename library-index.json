@@ -1522,14 +1522,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2102830375894434178"
  },
  {
-  "band": "JS",
-  "name": "Jony Sings move like magic",
-  "triggers": [
-   "jony sings move like magic"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102855580217946375"
- },
- {
   "band": "CB",
   "name": "Digerie Dude - Zoom Out",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "jony sings, party god"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2123249934421885132"
+ },
+ {
+  "band": "JS",
+  "name": "Jony Sings move like magic",
+  "triggers": [
+   "jony sings move like magic"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2123302780563578920"
  }
 ]
