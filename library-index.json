@@ -1338,14 +1338,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100646042681090123"
  },
  {
-  "band": "JS",
-  "name": "Jony Sings, Party god",
-  "triggers": [
-   "jony sings, party god"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100666127953113486"
- },
- {
   "band": "MV",
   "name": "You matter here -G.O.A.T.",
   "triggers": [
@@ -8400,5 +8392,13 @@
    "elves of ballinmoore — “yucky ducks x tr"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2123242387702952156"
+ },
+ {
+  "band": "JS",
+  "name": "Jony Sings, Party god",
+  "triggers": [
+   "jony sings, party god"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2123249934421885132"
  }
 ]
