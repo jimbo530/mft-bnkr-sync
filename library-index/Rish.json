@@ -399,5 +399,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2118591729016144338",
   "tag": "$MfT"
+ },
+ {
+  "name": "The Ground Remembers",
+  "triggers": [
+   "the ground remembers"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2123483919320260788",
+  "tag": "MfT"
  }
 ]
