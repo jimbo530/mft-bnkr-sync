@@ -25,14 +25,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Opportunity To Be Great",
-  "triggers": [
-   "opportunity to be great"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101375819364884896",
-  "tag": "$MfT"
- },
- {
   "name": "Green Hearts vid",
   "triggers": [
    "green hearts vid"
@@ -462,6 +454,14 @@
    "love is the power"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2122034448334012638",
+  "tag": "MfT"
+ },
+ {
+  "name": "Opportunity To Be Great",
+  "triggers": [
+   "opportunity to be great"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2123725507631972788",
   "tag": "MfT"
  }
 ]
