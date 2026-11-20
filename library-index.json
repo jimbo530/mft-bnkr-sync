@@ -1498,14 +1498,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2103741361681817745"
  },
  {
-  "band": "JS",
-  "name": "jony sings blockchain boogie",
-  "triggers": [
-   "jony sings blockchain boogie"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2104038353741955165"
- },
- {
   "band": "MV",
   "name": "Guardians of the Gate   Jasmine",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "elves of ballinmoore — “trees up, bags u"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2123899258789089408"
+ },
+ {
+  "band": "JS",
+  "name": "jony sings blockchain boogie",
+  "triggers": [
+   "jony sings blockchain boogie"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2123906813724680559"
  }
 ]
