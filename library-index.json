@@ -1178,14 +1178,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2093604619196797226"
  },
  {
-  "band": "JS",
-  "name": "Decentralize",
-  "triggers": [
-   "decentralize"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2093664983343092195"
- },
- {
   "band": "EBM",
   "name": "The Prompt Heard",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "digerie dude - zoom out"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2123785947812606235"
+ },
+ {
+  "band": "JS",
+  "name": "Decentralize",
+  "triggers": [
+   "decentralize"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2123793499417874907"
  }
 ]
