@@ -97,14 +97,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Digerie Dude - Zoom Out",
-  "triggers": [
-   "digerie dude - zoom out"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103011595823505603",
-  "tag": "$MfT"
- },
- {
   "name": "EBM - Code Not Coal",
   "triggers": [
    "ebm - code not coal"
@@ -558,6 +550,14 @@
    "block by block"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2122948009591787942",
+  "tag": "MfT"
+ },
+ {
+  "name": "Digerie Dude - Zoom Out",
+  "triggers": [
+   "digerie dude - zoom out"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2123785947812606235",
   "tag": "MfT"
  }
 ]

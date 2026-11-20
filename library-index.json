@@ -1458,14 +1458,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2102810249761530239"
  },
  {
-  "band": "CB",
-  "name": "Digerie Dude - Zoom Out",
-  "triggers": [
-   "digerie dude - zoom out"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103011595823505603"
- },
- {
   "band": "MV",
   "name": "Isle of 1,000 kingdoms Jasmine",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "j&n you dont know"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2123733113519865887"
+ },
+ {
+  "band": "CB",
+  "name": "Digerie Dude - Zoom Out",
+  "triggers": [
+   "digerie dude - zoom out"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2123785947812606235"
  }
 ]
