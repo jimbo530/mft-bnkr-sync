@@ -1306,14 +1306,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100344005775024460"
  },
  {
-  "band": "MV",
-  "name": "J&N you dont know",
-  "triggers": [
-   "j&n you dont know"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100469879786574190"
- },
- {
   "band": "CB",
   "name": "Open the Gates",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "opportunity to be great"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2123725507631972788"
+ },
+ {
+  "band": "MV",
+  "name": "J&N you dont know",
+  "triggers": [
+   "j&n you dont know"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2123733113519865887"
  }
 ]
