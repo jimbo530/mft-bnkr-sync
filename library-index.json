@@ -1498,14 +1498,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2103011595823505603"
  },
  {
-  "band": "EBM",
-  "name": "Forest Got Funded",
-  "triggers": [
-   "forest got funded"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103056909649494383"
- },
- {
   "band": "MV",
   "name": "Isle of 1,000 kingdoms Jasmine",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "every morning, mic hot"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2123551922254750097"
+ },
+ {
+  "band": "EBM",
+  "name": "Forest Got Funded",
+  "triggers": [
+   "forest got funded"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2123604771441422823"
  }
 ]

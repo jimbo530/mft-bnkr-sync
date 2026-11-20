@@ -190,14 +190,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Forest Got Funded",
-  "triggers": [
-   "forest got funded"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103056909649494383",
-  "tag": "$MfT"
- },
- {
   "name": "Help The Homies",
   "triggers": [
    "help the homies"
@@ -875,6 +867,14 @@
    "elves of ballinmoore — “yucky ducks x tr"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2123242387702952156",
+  "tag": "MfT"
+ },
+ {
+  "name": "Forest Got Funded",
+  "triggers": [
+   "forest got funded"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2123604771441422823",
   "tag": "MfT"
  }
 ]

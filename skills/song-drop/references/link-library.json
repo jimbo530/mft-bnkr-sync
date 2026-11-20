@@ -2433,19 +2433,6 @@
     "caption": "\"Digerie Dude - Zoom Out\" — CB\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2103056909649494383",
-    "translation": "Forest Got Funded",
-    "name": "Forest Got Funded",
-    "triggers": [
-      "forest got funded"
-    ],
-    "band": "EBM",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2103056909649494383",
-    "caption": "\"Forest Got Funded\" — Elves of Ballinmoore\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2103288440498409910",
     "translation": "Isle of 1,000 kingdoms Jasmine",
     "name": "Isle of 1,000 kingdoms Jasmine",
@@ -13702,5 +13689,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2123551922254750097",
     "caption": "\"Every Morning, Mic Hot\" — Myco\nself-watering money tree 🌳💧📈\n\nMfT"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2123604771441422823",
+    "translation": "Forest Got Funded",
+    "name": "Forest Got Funded",
+    "triggers": [
+      "forest got funded"
+    ],
+    "band": "EBM",
+    "tag": "MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2123604771441422823",
+    "caption": "\"Forest Got Funded\" — Elves of Ballinmoore\nevery trade waters the forest 💧🌳\n\nMfT"
   }
 ]
