@@ -65,14 +65,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Build The World Together",
-  "triggers": [
-   "build the world together"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103811859451146676",
-  "tag": "$MfT"
- },
- {
   "name": "jony sings blockchain boogie",
   "triggers": [
    "jony sings blockchain boogie"
@@ -782,6 +774,14 @@
    "jony sings move like magic"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2123302780563578920",
+  "tag": "MfT"
+ },
+ {
+  "name": "Build The World Together",
+  "triggers": [
+   "build the world together"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2123612273415516527",
   "tag": "MfT"
  }
 ]

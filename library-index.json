@@ -1555,14 +1555,6 @@
  },
  {
   "band": "JS",
-  "name": "Build The World Together",
-  "triggers": [
-   "build the world together"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103811859451146676"
- },
- {
-  "band": "JS",
   "name": "jony sings blockchain boogie",
   "triggers": [
    "jony sings blockchain boogie"
@@ -8432,5 +8424,13 @@
    "forest got funded"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2123604771441422823"
+ },
+ {
+  "band": "JS",
+  "name": "Build The World Together",
+  "triggers": [
+   "build the world together"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2123612273415516527"
  }
 ]
