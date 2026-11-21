@@ -1490,14 +1490,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2104113856029106500"
  },
  {
-  "band": "MV",
-  "name": "Digerie Dude - Crown of Silence",
-  "triggers": [
-   "digerie dude - crown of silence"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2104189351093563753"
- },
- {
   "band": "Rish",
   "name": "Welcome to the Race (HOLM's Reel)",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "magic today"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2123967209282101502"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Crown of Silence",
+  "triggers": [
+   "digerie dude - crown of silence"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2124020054681419890"
  }
 ]
