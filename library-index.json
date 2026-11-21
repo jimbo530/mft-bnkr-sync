@@ -1370,14 +1370,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2102105746141757661"
  },
  {
-  "band": "JS",
-  "name": "Cellars Sewers And Spells",
-  "triggers": [
-   "cellars sewers and spells"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102301898627809523"
- },
- {
   "band": "DD",
   "name": "Zoom out",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "digerie dude - community"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2124208795270173150"
+ },
+ {
+  "band": "JS",
+  "name": "Cellars Sewers And Spells",
+  "triggers": [
+   "cellars sewers and spells"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2124261632180097238"
  }
 ]
