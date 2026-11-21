@@ -128,14 +128,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Tunes For Trees",
-  "triggers": [
-   "tunes for trees"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099870955715571936",
-  "tag": "$MfT"
- },
- {
   "name": "Play For Impact",
   "triggers": [
    "play for impact"
@@ -933,6 +925,14 @@
    "magic today"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2123967209282101502",
+  "tag": "MfT"
+ },
+ {
+  "name": "Tunes For Trees",
+  "triggers": [
+   "tunes for trees"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2124269138554028461",
   "tag": "MfT"
  }
 ]
