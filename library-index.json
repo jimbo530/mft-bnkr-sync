@@ -1434,14 +1434,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2103635735194571204"
  },
  {
-  "band": "EBM",
-  "name": "ELVES OF BALLINMOORE — “INTERNET ROOTS",
-  "triggers": [
-   "elves of ballinmoore — “internet roots"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103741361681817745"
- },
- {
   "band": "MV",
   "name": "Guardians of the Gate   Jasmine",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "the greenest thing in the room"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2124148346839318718"
+ },
+ {
+  "band": "EBM",
+  "name": "ELVES OF BALLINMOORE — “INTERNET ROOTS",
+  "triggers": [
+   "elves of ballinmoore — “internet roots"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2124201201403109719"
  }
 ]

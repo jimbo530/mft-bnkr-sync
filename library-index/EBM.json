@@ -182,14 +182,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "ELVES OF BALLINMOORE — “INTERNET ROOTS",
-  "triggers": [
-   "elves of ballinmoore — “internet roots"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103741361681817745",
-  "tag": "$MfT"
- },
- {
   "name": "Halls Outlive Kingdoms",
   "triggers": [
    "halls outlive kingdoms"
@@ -875,6 +867,14 @@
    "elves of ballinmoore — “char to the root"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2124140819544228066",
+  "tag": "MfT"
+ },
+ {
+  "name": "ELVES OF BALLINMOORE — “INTERNET ROOTS",
+  "triggers": [
+   "elves of ballinmoore — “internet roots"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2124201201403109719",
   "tag": "MfT"
  }
 ]
