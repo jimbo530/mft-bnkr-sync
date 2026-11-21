@@ -432,14 +432,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Digerie Dude - Community",
-  "triggers": [
-   "digerie dude - community"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101803663555465431",
-  "tag": "$MfT"
- },
- {
   "name": "EBM - Thousand Year Plan",
   "triggers": [
    "ebm - thousand year plan"
@@ -1301,6 +1293,14 @@
    "digerie dude - crown of silence"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2124020054681419890",
+  "tag": "MfT"
+ },
+ {
+  "name": "Digerie Dude - Community",
+  "triggers": [
+   "digerie dude - community"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2124208795270173150",
   "tag": "MfT"
  }
 ]

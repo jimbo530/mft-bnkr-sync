@@ -1354,14 +1354,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101773464092684786"
  },
  {
-  "band": "MV",
-  "name": "Digerie Dude - Community",
-  "triggers": [
-   "digerie dude - community"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101803663555465431"
- },
- {
   "band": "Myco",
   "name": "Play For Impact",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "elves of ballinmoore — “internet roots"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2124201201403109719"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Community",
+  "triggers": [
+   "digerie dude - community"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2124208795270173150"
  }
 ]

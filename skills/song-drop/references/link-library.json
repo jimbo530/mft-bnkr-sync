@@ -2199,19 +2199,6 @@
     "caption": "\"It Carries Two\" — Jony Sings\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2101803663555465431",
-    "translation": "Digerie Dude - Community",
-    "name": "Digerie Dude - Community",
-    "triggers": [
-      "digerie dude - community"
-    ],
-    "band": "MV",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2101803663555465431",
-    "caption": "\"Digerie Dude - Community\"\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2101823794629300550",
     "translation": "Play For Impact",
     "name": "Play For Impact",
@@ -13702,5 +13689,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2124201201403109719",
     "caption": "\"ELVES OF BALLINMOORE — “INTERNET ROOTS\" — Elves of Ballinmoore\ndance to defend the earth 💃🌍\n\nMfT"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2124208795270173150",
+    "translation": "Digerie Dude - Community",
+    "name": "Digerie Dude - Community",
+    "triggers": [
+      "digerie dude - community"
+    ],
+    "band": "MV",
+    "tag": "MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2124208795270173150",
+    "caption": "\"Digerie Dude - Community\"\npaper hands plant trees too 🧻🌱\n\nMfT"
   }
 ]
