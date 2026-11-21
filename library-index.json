@@ -1194,14 +1194,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095069235336589511"
  },
  {
-  "band": "NN",
-  "name": "The Greenest Thing In The Room",
-  "triggers": [
-   "the greenest thing in the room"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095376317789200837"
- },
- {
   "band": "DGT",
   "name": "One More Grove Tonight",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "elves of ballinmoore — “char to the root"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2124140819544228066"
+ },
+ {
+  "band": "NN",
+  "name": "The Greenest Thing In The Room",
+  "triggers": [
+   "the greenest thing in the room"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2124148346839318718"
  }
 ]
