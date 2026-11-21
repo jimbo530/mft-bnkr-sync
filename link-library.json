@@ -2147,19 +2147,6 @@
     "caption": "\"Small Voices, Big Waves\" — Digerie Dude\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2101275173110297030",
-    "translation": "Power Of A Meme",
-    "name": "Power Of A Meme",
-    "triggers": [
-      "power of a meme"
-    ],
-    "band": "NN",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2101275173110297030",
-    "caption": "\"Power Of A Meme\" — Natilie Nightclub\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2101400987034362134",
     "translation": "The Chest That Never Empties",
     "name": "The Chest That Never Empties",
@@ -13702,5 +13689,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2124027596719497589",
     "caption": "\"Burgers From the Sky\" — Bongo\n\nhold 10,000,000 MfT and you're standing in the rain — holder airdrops falling from the pool's real fees. BURGERS raining now, gold and game-world coins staged next. stay held between snapshots or you sit a round out. on-chain, daily, no promises — just weather.\n\nMfT"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2124080448179515708",
+    "translation": "Power Of A Meme",
+    "name": "Power Of A Meme",
+    "triggers": [
+      "power of a meme"
+    ],
+    "band": "NN",
+    "tag": "MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2124080448179515708",
+    "caption": "\"Power Of A Meme\" — Natilie Nightclub\npress play, plant trees ▶️🌲\n\nMfT"
   }
 ]

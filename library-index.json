@@ -1322,14 +1322,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101018491805438305"
  },
  {
-  "band": "NN",
-  "name": "Power Of A Meme",
-  "triggers": [
-   "power of a meme"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101275173110297030"
- },
- {
   "band": "ALAN",
   "name": "The Chest That Never Empties",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "burgers from the sky"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2124027596719497589"
+ },
+ {
+  "band": "NN",
+  "name": "Power Of A Meme",
+  "triggers": [
+   "power of a meme"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2124080448179515708"
  }
 ]
