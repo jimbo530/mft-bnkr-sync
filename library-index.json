@@ -1362,14 +1362,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101597246881988884"
  },
  {
-  "band": "Myco",
-  "name": "Magic Today",
-  "triggers": [
-   "magic today"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101602315706741138"
- },
- {
   "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “DIAMOND HAND THE",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "(🎧 “thanks for being here”) (1)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2123959661128724500"
+ },
+ {
+  "band": "Myco",
+  "name": "Magic Today",
+  "triggers": [
+   "magic today"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2123967209282101502"
  }
 ]

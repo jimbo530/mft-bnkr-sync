@@ -136,14 +136,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Magic Today",
-  "triggers": [
-   "magic today"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101602315706741138",
-  "tag": "$MfT"
- },
- {
   "name": "Play For Impact",
   "triggers": [
    "play for impact"
@@ -933,6 +925,14 @@
    "(🎧 “thanks for being here”) (1)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2123959661128724500",
+  "tag": "MfT"
+ },
+ {
+  "name": "Magic Today",
+  "triggers": [
+   "magic today"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2123967209282101502",
   "tag": "MfT"
  }
 ]

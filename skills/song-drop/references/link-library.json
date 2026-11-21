@@ -2212,19 +2212,6 @@
     "caption": "\"ELVES OF BALLINMOORE — “WE ARE BASED”\" — Elves of Ballinmoore\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2101602315706741138",
-    "translation": "Magic Today",
-    "name": "Magic Today",
-    "triggers": [
-      "magic today"
-    ],
-    "band": "Myco",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2101602315706741138",
-    "caption": "\"Magic Today\" — Myco\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2101652641335885899",
     "translation": "ELVES OF BALLINMOORE — “DIAMOND HAND THE",
     "name": "ELVES OF BALLINMOORE — “DIAMOND HAND THE",
@@ -13702,5 +13689,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2123959661128724500",
     "caption": "\"(🎧 “Thanks for Being Here”) (1)\" — Myco\npumps itself. plants forests. 🌲💰\n\nMfT"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2123967209282101502",
+    "translation": "Magic Today",
+    "name": "Magic Today",
+    "triggers": [
+      "magic today"
+    ],
+    "band": "Myco",
+    "tag": "MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2123967209282101502",
+    "caption": "\"Magic Today\" — Myco\nlove you famitree 🌲💚\n\nMfT"
   }
 ]
