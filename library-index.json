@@ -1194,14 +1194,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095069235336589511"
  },
  {
-  "band": "Bongo",
-  "name": "Burgers From the Sky",
-  "triggers": [
-   "burgers from the sky"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095250484961448080"
- },
- {
   "band": "NN",
   "name": "The Greenest Thing In The Room",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "digerie dude - crown of silence"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2124020054681419890"
+ },
+ {
+  "band": "Bongo",
+  "name": "Burgers From the Sky",
+  "triggers": [
+   "burgers from the sky"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2124027596719497589"
  }
 ]

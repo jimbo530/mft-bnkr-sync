@@ -65,14 +65,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Burgers From the Sky",
-  "triggers": [
-   "burgers from the sky"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095250484961448080",
-  "tag": "$MfT"
- },
- {
   "name": "They Paid Me Nothing (And I Love It)",
   "triggers": [
    "they paid me nothing (and i love it)"
@@ -414,6 +406,14 @@
    "grow it loud"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2123431125871624198",
+  "tag": "MfT"
+ },
+ {
+  "name": "Burgers From the Sky",
+  "triggers": [
+   "burgers from the sky"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2124027596719497589",
   "tag": "MfT"
  }
 ]
