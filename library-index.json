@@ -1226,14 +1226,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2099951418832527364"
  },
  {
-  "band": "EBM",
-  "name": "emerald signal 22726",
-  "triggers": [
-   "emerald signal 22726"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100293723317821861"
- },
- {
   "band": "CB",
   "name": "Open the Gates",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "elves of ballinmoore — “we are based”"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2124624027733954743"
+ },
+ {
+  "band": "EBM",
+  "name": "emerald signal 22726",
+  "triggers": [
+   "emerald signal 22726"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2124631541787554076"
  }
 ]
