@@ -1298,14 +1298,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101597246881988884"
  },
  {
-  "band": "EBM",
-  "name": "Interest In The Infinite",
-  "triggers": [
-   "interest in the infinite"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101753350576288167"
- },
- {
   "band": "JS",
   "name": "It Carries Two",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "creator economy"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2124389981892325575"
+ },
+ {
+  "band": "EBM",
+  "name": "Interest In The Infinite",
+  "triggers": [
+   "interest in the infinite"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2124442843779317887"
  }
 ]

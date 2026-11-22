@@ -158,14 +158,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Interest In The Infinite",
-  "triggers": [
-   "interest in the infinite"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101753350576288167",
-  "tag": "$MfT"
- },
- {
   "name": "Help The Homies",
   "triggers": [
    "help the homies"
@@ -875,6 +867,14 @@
    "elves of ballinmoore — “diamond hand the"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2124322036491137281",
+  "tag": "MfT"
+ },
+ {
+  "name": "Interest In The Infinite",
+  "triggers": [
+   "interest in the infinite"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2124442843779317887",
   "tag": "MfT"
  }
 ]
