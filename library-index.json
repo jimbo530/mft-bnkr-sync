@@ -1282,14 +1282,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101451330615148703"
  },
  {
-  "band": "EBM",
-  "name": "ELVES OF BALLINMOORE — “WE ARE BASED”",
-  "triggers": [
-   "elves of ballinmoore — “we are based”"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101597246881988884"
- },
- {
   "band": "JS",
   "name": "It Carries Two",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "digerie dude - i endure"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2124571174067732639"
+ },
+ {
+  "band": "EBM",
+  "name": "ELVES OF BALLINMOORE — “WE ARE BASED”",
+  "triggers": [
+   "elves of ballinmoore — “we are based”"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2124624027733954743"
  }
 ]
