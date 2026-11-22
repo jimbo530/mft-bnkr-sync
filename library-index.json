@@ -1331,14 +1331,6 @@
  },
  {
   "band": "MV",
-  "name": "Digerie Dude - I endure",
-  "triggers": [
-   "digerie dude - i endure"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103434378701348883"
- },
- {
-  "band": "MV",
   "name": "Guardians of the Gate   Jasmine",
   "triggers": [
    "guardians of the gate   jasmine"
@@ -8432,5 +8424,13 @@
    "isle of 1,000 kingdoms jasmine"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2124563582322987239"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - I endure",
+  "triggers": [
+   "digerie dude - i endure"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2124571174067732639"
  }
 ]
