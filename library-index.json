@@ -1323,14 +1323,6 @@
  },
  {
   "band": "EBM",
-  "name": "ELVES OF BALLINMOORE — “DIAMOND HAND THE",
-  "triggers": [
-   "elves of ballinmoore — “diamond hand the"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101652641335885899"
- },
- {
-  "band": "EBM",
   "name": "Interest In The Infinite",
   "triggers": [
    "interest in the infinite"
@@ -8432,5 +8424,13 @@
    "tunes for trees"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2124269138554028461"
+ },
+ {
+  "band": "EBM",
+  "name": "ELVES OF BALLINMOORE — “DIAMOND HAND THE",
+  "triggers": [
+   "elves of ballinmoore — “diamond hand the"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2124322036491137281"
  }
 ]
