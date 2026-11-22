@@ -41,14 +41,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Creator Economy",
-  "triggers": [
-   "creator economy"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099719937891631431",
-  "tag": "$MfT"
- },
- {
   "name": "Small Voices, Big Waves",
   "triggers": [
    "small voices, big waves"
@@ -534,6 +526,14 @@
    "nations as one"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2122276035412529243",
+  "tag": "MfT"
+ },
+ {
+  "name": "Creator Economy",
+  "triggers": [
+   "creator economy"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2124389981892325575",
   "tag": "MfT"
  }
 ]
