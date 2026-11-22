@@ -81,14 +81,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Need More Base",
-  "triggers": [
-   "need more base"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099634392800866639",
-  "tag": "$MfT"
- },
- {
   "name": "Open the Gates",
   "triggers": [
    "open the gates"
@@ -558,6 +550,14 @@
    "digerie dude - zoom out"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2123785947812606235",
+  "tag": "MfT"
+ },
+ {
+  "name": "Need More Base",
+  "triggers": [
+   "need more base"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2124510781953699988",
   "tag": "MfT"
  }
 ]

@@ -1210,14 +1210,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2096856049449861628"
  },
  {
-  "band": "CB",
-  "name": "Need More Base",
-  "triggers": [
-   "need more base"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099634392800866639"
- },
- {
   "band": "MV",
   "name": "Digerie Dude - Still Learning Still Loving",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "digerie dude - signal in the noise"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2124503222542848380"
+ },
+ {
+  "band": "CB",
+  "name": "Need More Base",
+  "triggers": [
+   "need more base"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2124510781953699988"
  }
 ]
