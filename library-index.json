@@ -1355,14 +1355,6 @@
  },
  {
   "band": "MV",
-  "name": "Digerie Dude - Signal in the Noise",
-  "triggers": [
-   "digerie dude - signal in the noise"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103635735194571204"
- },
- {
-  "band": "MV",
   "name": "Guardians of the Gate   Jasmine",
   "triggers": [
    "guardians of the gate   jasmine"
@@ -8432,5 +8424,13 @@
    "play for impact"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2124450375478468959"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Signal in the Noise",
+  "triggers": [
+   "digerie dude - signal in the noise"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2124503222542848380"
  }
 ]
