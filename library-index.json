@@ -1210,14 +1210,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2099951418832527364"
  },
  {
-  "band": "CB",
-  "name": "Open the Gates",
-  "triggers": [
-   "open the gates"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100646042681090123"
- },
- {
   "band": "DD",
   "name": "Small Voices, Big Waves",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "you matter here -g.o.a.t."
   ],
   "xPost": "https://x.com/MemeForTrees/status/2124895826669367383"
+ },
+ {
+  "band": "CB",
+  "name": "Open the Gates",
+  "triggers": [
+   "open the gates"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2124948674727829643"
  }
 ]
