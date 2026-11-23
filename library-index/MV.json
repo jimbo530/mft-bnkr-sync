@@ -400,14 +400,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "You matter here -G.O.A.T.",
-  "triggers": [
-   "you matter here -g.o.a.t."
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100671201156747388",
-  "tag": "$MfT"
- },
- {
   "name": "EBM - Thousand Year Plan",
   "triggers": [
    "ebm - thousand year plan"
@@ -1301,6 +1293,14 @@
    "saltwater crown - jasmine"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2124835434026995915",
+  "tag": "MfT"
+ },
+ {
+  "name": "You matter here -G.O.A.T.",
+  "triggers": [
+   "you matter here -g.o.a.t."
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2124895826669367383",
   "tag": "MfT"
  }
 ]

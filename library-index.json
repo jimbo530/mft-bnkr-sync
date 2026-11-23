@@ -1218,14 +1218,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2100646042681090123"
  },
  {
-  "band": "MV",
-  "name": "You matter here -G.O.A.T.",
-  "triggers": [
-   "you matter here -g.o.a.t."
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2100671201156747388"
- },
- {
   "band": "DD",
   "name": "Small Voices, Big Waves",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "the chest that never empties"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2124888275689066927"
+ },
+ {
+  "band": "MV",
+  "name": "You matter here -G.O.A.T.",
+  "triggers": [
+   "you matter here -g.o.a.t."
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2124895826669367383"
  }
 ]
