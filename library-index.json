@@ -1194,14 +1194,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2095069235336589511"
  },
  {
-  "band": "DGT",
-  "name": "One More Grove Tonight",
-  "triggers": [
-   "one more grove tonight"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2095406557756379311"
- },
- {
   "band": "MR",
   "name": "Everybody s Welcome",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "digerie dude - still learning still loving"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2124691978587722151"
+ },
+ {
+  "band": "DGT",
+  "name": "One More Grove Tonight",
+  "triggers": [
+   "one more grove tonight"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2124744820962865579"
  }
 ]
