@@ -1211,14 +1211,6 @@
  },
  {
   "band": "MV",
-  "name": "Digerie Dude - Still Learning Still Loving",
-  "triggers": [
-   "digerie dude - still learning still loving"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099674642017391057"
- },
- {
-  "band": "MV",
   "name": "Digerie Dude- We grow As one",
   "triggers": [
    "digerie dude- we grow as one"
@@ -8432,5 +8424,13 @@
    "it carries two"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2124684382669533526"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude - Still Learning Still Loving",
+  "triggers": [
+   "digerie dude - still learning still loving"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2124691978587722151"
  }
 ]
