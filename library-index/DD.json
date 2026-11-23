@@ -49,14 +49,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Zoom out",
-  "triggers": [
-   "zoom out"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2102306924418977860",
-  "tag": "$MfT"
- },
- {
   "name": "Quite Revolution of Love",
   "triggers": [
    "quite revolution of love"
@@ -534,6 +526,14 @@
    "creator economy"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2124389981892325575",
+  "tag": "MfT"
+ },
+ {
+  "name": "Zoom out",
+  "triggers": [
+   "zoom out"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2124956213980848513",
   "tag": "MfT"
  }
 ]
