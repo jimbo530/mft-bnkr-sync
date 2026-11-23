@@ -1274,14 +1274,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2103313583337586769"
  },
  {
-  "band": "MR",
-  "name": "Green Hearts vid",
-  "triggers": [
-   "green hearts vid"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103384004586012724"
- },
- {
   "band": "MV",
   "name": "Guardians of the Gate   Jasmine",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "elves of ballinmoore — “community of com"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2124752370886168610"
+ },
+ {
+  "band": "MR",
+  "name": "Green Hearts vid",
+  "triggers": [
+   "green hearts vid"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2124827870832857550"
  }
 ]
