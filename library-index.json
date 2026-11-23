@@ -1250,14 +1250,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101400987034362134"
  },
  {
-  "band": "EBM",
-  "name": "ELVES OF BALLINMOORE — “COMMUNITY OF COM",
-  "triggers": [
-   "elves of ballinmoore — “community of com"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101451330615148703"
- },
- {
   "band": "MV",
   "name": "EBM - Thousand Year Plan",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "one more grove tonight"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2124744820962865579"
+ },
+ {
+  "band": "EBM",
+  "name": "ELVES OF BALLINMOORE — “COMMUNITY OF COM",
+  "triggers": [
+   "elves of ballinmoore — “community of com"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2124752370886168610"
  }
 ]

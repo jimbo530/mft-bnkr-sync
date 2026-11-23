@@ -134,14 +134,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "ELVES OF BALLINMOORE — “COMMUNITY OF COM",
-  "triggers": [
-   "elves of ballinmoore — “community of com"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101451330615148703",
-  "tag": "$MfT"
- },
- {
   "name": "Help The Homies",
   "triggers": [
    "help the homies"
@@ -875,6 +867,14 @@
    "emerald signal 22726"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2124631541787554076",
+  "tag": "MfT"
+ },
+ {
+  "name": "ELVES OF BALLINMOORE — “COMMUNITY OF COM",
+  "triggers": [
+   "elves of ballinmoore — “community of com"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2124752370886168610",
   "tag": "MfT"
  }
 ]
