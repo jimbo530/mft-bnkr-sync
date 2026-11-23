@@ -1274,14 +1274,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2101451330615148703"
  },
  {
-  "band": "JS",
-  "name": "It Carries Two",
-  "triggers": [
-   "it carries two"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101773464092684786"
- },
- {
   "band": "MV",
   "name": "EBM - Thousand Year Plan",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "emerald signal 22726"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2124631541787554076"
+ },
+ {
+  "band": "JS",
+  "name": "It Carries Two",
+  "triggers": [
+   "it carries two"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2124684382669533526"
  }
 ]
