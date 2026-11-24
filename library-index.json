@@ -8058,14 +8058,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2123725507631972788"
  },
  {
-  "band": "MV",
-  "name": "J&N you dont know",
-  "triggers": [
-   "j&n you dont know"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2123733113519865887"
- },
- {
   "band": "CB",
   "name": "Digerie Dude - Zoom Out",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "plain words, open road"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2125197795602653580"
+ },
+ {
+  "band": "MV",
+  "name": "J&N you dont know",
+  "triggers": [
+   "j&n you dont know"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2125250652808908986"
  }
 ]
