@@ -1210,14 +1210,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2099951418832527364"
  },
  {
-  "band": "DD",
-  "name": "Small Voices, Big Waves",
-  "triggers": [
-   "small voices, big waves"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2101018491805438305"
- },
- {
   "band": "MV",
   "name": "EBM - Thousand Year Plan",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "guardians of the gate   jasmine"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2125009072772514136"
+ },
+ {
+  "band": "DD",
+  "name": "Small Voices, Big Waves",
+  "triggers": [
+   "small voices, big waves"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2125016609882243184"
  }
 ]

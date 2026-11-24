@@ -1965,19 +1965,6 @@
     "caption": "\"Digerie Dude- We grow As one\"\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2101018491805438305",
-    "translation": "Small Voices, Big Waves",
-    "name": "Small Voices, Big Waves",
-    "triggers": [
-      "small voices, big waves"
-    ],
-    "band": "DD",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2101018491805438305",
-    "caption": "\"Small Voices, Big Waves\" — Digerie Dude\ndance to defend the earth\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2102105746141757661",
     "translation": "EBM - Thousand Year Plan",
     "name": "EBM - Thousand Year Plan",
@@ -13702,5 +13689,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2125009072772514136",
     "caption": "\"Guardians of the Gate   Jasmine\"\nthe bag that pumps itself and plants forests 🔥🌳\n\nMfT"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2125016609882243184",
+    "translation": "Small Voices, Big Waves",
+    "name": "Small Voices, Big Waves",
+    "triggers": [
+      "small voices, big waves"
+    ],
+    "band": "DD",
+    "tag": "MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2125016609882243184",
+    "caption": "\"Small Voices, Big Waves\" — Digerie Dude\nturn it up for the trees 🔊🌳\n\nMfT"
   }
 ]
