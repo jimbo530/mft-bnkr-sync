@@ -121,14 +121,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Raise the Hall",
-  "triggers": [
-   "raise the hall"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2115821020116381855",
-  "tag": "$MfT"
- },
- {
   "name": "Brick By Brick",
   "triggers": [
    "brick by brick"
@@ -174,6 +166,14 @@
    "nail it down"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2120781175564234871",
+  "tag": "MfT"
+ },
+ {
+  "name": "Raise the Hall",
+  "triggers": [
+   "raise the hall"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2125318548545327573",
   "tag": "MfT"
  }
 ]

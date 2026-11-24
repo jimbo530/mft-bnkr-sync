@@ -5722,14 +5722,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2115785743549214953"
  },
  {
-  "band": "HammerTone",
-  "name": "Raise the Hall",
-  "triggers": [
-   "raise the hall"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2115821020116381855"
- },
- {
   "band": "EBM",
   "name": "Revolution of Money",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "man for the job"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2125311047355523266"
+ },
+ {
+  "band": "HammerTone",
+  "name": "Raise the Hall",
+  "triggers": [
+   "raise the hall"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2125318548545327573"
  }
 ]
