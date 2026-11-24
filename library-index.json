@@ -4714,14 +4714,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2112846322973765668"
  },
  {
-  "band": "EBM",
-  "name": "Costs You Nothing",
-  "triggers": [
-   "costs you nothing"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2112886583699361974"
- },
- {
   "band": "MR",
   "name": "The Heaviest End",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "raise the hall"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2125318548545327573"
+ },
+ {
+  "band": "EBM",
+  "name": "Costs You Nothing",
+  "triggers": [
+   "costs you nothing"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2125371431466717421"
  }
 ]
