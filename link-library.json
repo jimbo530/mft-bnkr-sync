@@ -10740,19 +10740,6 @@
     "caption": "\"Dance All Day Long\" — CB\nmuch love famitree 💚🌳\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2118055761137795226",
-    "translation": "Man for the Job",
-    "name": "Man for the Job",
-    "triggers": [
-      "man for the job"
-    ],
-    "band": "CB",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2118055761137795226",
-    "caption": "\"Man for the Job\" — CB\nthis bag pumps itself while funding forests 🌲📈\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2118090995795390538",
     "translation": "Something True",
     "name": "Something True",
@@ -13702,5 +13689,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2125258192359768135",
     "caption": "\"Strike Up Da Bands\" — War Machine\npaper hands plant trees too 🧻🌱\n\nMfT"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2125311047355523266",
+    "translation": "Man for the Job",
+    "name": "Man for the Job",
+    "triggers": [
+      "man for the job"
+    ],
+    "band": "CB",
+    "tag": "MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2125311047355523266",
+    "caption": "\"Man for the Job\" — CB\nthis bag pumps itself while funding forests 🌲📈\n\nMfT"
   }
 ]

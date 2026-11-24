@@ -6611,14 +6611,6 @@
  },
  {
   "band": "CB",
-  "name": "Man for the Job",
-  "triggers": [
-   "man for the job"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2118055761137795226"
- },
- {
-  "band": "CB",
   "name": "Something True",
   "triggers": [
    "something true"
@@ -8432,5 +8424,13 @@
    "strike up da bands"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2125258192359768135"
+ },
+ {
+  "band": "CB",
+  "name": "Man for the Job",
+  "triggers": [
+   "man for the job"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2125311047355523266"
  }
 ]
