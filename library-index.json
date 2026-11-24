@@ -6938,14 +6938,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2119376950237995288"
  },
  {
-  "band": "EBM",
-  "name": "ELVES OF BALLINMOORE — “MORE LOVE, MORE",
-  "triggers": [
-   "elves of ballinmoore — “more love, more"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2119429799529623713"
- },
- {
   "band": "MV",
   "name": "EBM - Decentraland Chainport",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "help the homies"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2125076965912711323"
+ },
+ {
+  "band": "EBM",
+  "name": "ELVES OF BALLINMOORE — “MORE LOVE, MORE",
+  "triggers": [
+   "elves of ballinmoore — “more love, more"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2125129830534365522"
  }
 ]
