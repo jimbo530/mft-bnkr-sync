@@ -1203,14 +1203,6 @@
  },
  {
   "band": "MV",
-  "name": "Digerie Dude- We grow As one",
-  "triggers": [
-   "digerie dude- we grow as one"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2099951418832527364"
- },
- {
-  "band": "MV",
   "name": "EBM - Thousand Year Plan",
   "triggers": [
    "ebm - thousand year plan"
@@ -8432,5 +8424,13 @@
    "small voices, big waves"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2125016609882243184"
+ },
+ {
+  "band": "MV",
+  "name": "Digerie Dude- We grow As one",
+  "triggers": [
+   "digerie dude- we grow as one"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2125069421852938296"
  }
 ]
