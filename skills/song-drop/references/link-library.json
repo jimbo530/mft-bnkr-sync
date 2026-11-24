@@ -3122,19 +3122,6 @@
     "caption": "\"Work Now Dance Later vid\" — Moon Rasta\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2105492924188303752",
-    "translation": "The Roots Hold It Up",
-    "name": "The Roots Hold It Up",
-    "triggers": [
-      "the roots hold it up"
-    ],
-    "band": "Biggins",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2105492924188303752",
-    "caption": "\"The Roots Hold It Up\" — Biggins Mcjammin\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2105513096529739881",
     "translation": "That's How We Grow",
     "name": "That's How We Grow",
@@ -13702,5 +13689,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2125137410757464192",
     "caption": "\"Every Morning, Mic Hot\" — Myco\nself-watering money tree 🌳💧📈\n\nMfT"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2125190205611069943",
+    "translation": "The Roots Hold It Up",
+    "name": "The Roots Hold It Up",
+    "triggers": [
+      "the roots hold it up"
+    ],
+    "band": "Biggins",
+    "tag": "MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2125190205611069943",
+    "caption": "\"The Roots Hold It Up\" — Biggins Mcjammin\npaper hands plant trees too 🧻🌱\n\nMfT"
   }
 ]

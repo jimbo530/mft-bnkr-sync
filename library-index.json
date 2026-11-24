@@ -1922,14 +1922,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2105487941900325272"
  },
  {
-  "band": "Biggins",
-  "name": "The Roots Hold It Up",
-  "triggers": [
-   "the roots hold it up"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2105492924188303752"
- },
- {
   "band": "Rish",
   "name": "That's How We Grow",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "every morning, mic hot"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2125137410757464192"
+ },
+ {
+  "band": "Biggins",
+  "name": "The Roots Hold It Up",
+  "triggers": [
+   "the roots hold it up"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2125190205611069943"
  }
 ]
