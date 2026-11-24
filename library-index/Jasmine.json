@@ -41,14 +41,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Plain Words, Open Road",
-  "triggers": [
-   "plain words, open road"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2106398924638404634",
-  "tag": "$MfT"
- },
- {
   "name": "Warmth of the Dwarven Hearth",
   "triggers": [
    "warmth of the dwarven hearth"
@@ -151,5 +143,13 @@
   ],
   "xPost": "https://x.com/MemeForTrees/status/2118584223300804631",
   "tag": "$MfT"
+ },
+ {
+  "name": "Plain Words, Open Road",
+  "triggers": [
+   "plain words, open road"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2125197795602653580",
+  "tag": "MfT"
  }
 ]

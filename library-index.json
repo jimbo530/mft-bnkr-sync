@@ -2386,14 +2386,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2106373727529181628"
  },
  {
-  "band": "Jasmine",
-  "name": "Plain Words, Open Road",
-  "triggers": [
-   "plain words, open road"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2106398924638404634"
- },
- {
   "band": "CB",
   "name": "Chain Reaction Diplomacy",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "the roots hold it up"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2125190205611069943"
+ },
+ {
+  "band": "Jasmine",
+  "name": "Plain Words, Open Road",
+  "triggers": [
+   "plain words, open road"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2125197795602653580"
  }
 ]
