@@ -1210,14 +1210,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2102105746141757661"
  },
  {
-  "band": "EBM",
-  "name": "Help The Homies",
-  "triggers": [
-   "help the homies"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2103313583337586769"
- },
- {
   "band": "Rish",
   "name": "Welcome to the Race (HOLM's Reel)",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "digerie dude- we grow as one"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2125069421852938296"
+ },
+ {
+  "band": "EBM",
+  "name": "Help The Homies",
+  "triggers": [
+   "help the homies"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2125076965912711323"
  }
 ]
