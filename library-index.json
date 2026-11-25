@@ -6987,14 +6987,6 @@
  },
  {
   "band": "MV",
-  "name": "elven gold (1)",
-  "triggers": [
-   "elven gold (1)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2119754407185166480"
- },
- {
-  "band": "MV",
   "name": "Spin that planet round",
   "triggers": [
    "spin that planet round"
@@ -8432,5 +8424,13 @@
    "digerie dude- we grow as one"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2125378951308587468"
+ },
+ {
+  "band": "MV",
+  "name": "elven gold (1)",
+  "triggers": [
+   "elven gold (1)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2125431832241918143"
  }
 ]
