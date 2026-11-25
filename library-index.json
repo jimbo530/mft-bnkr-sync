@@ -4482,14 +4482,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2112282677969604970"
  },
  {
-  "band": "DD",
-  "name": "Digerie Dude - Believe in SomeETHing (1)",
-  "triggers": [
-   "digerie dude - believe in someething (1)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2112317895350816772"
- },
- {
   "band": "DGT",
   "name": "Open The Gates (Monkey Town Tonight)",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "cheap tricks expensive forests"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2125560174953865391"
+ },
+ {
+  "band": "DD",
+  "name": "Digerie Dude - Believe in SomeETHing (1)",
+  "triggers": [
+   "digerie dude - believe in someething (1)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2125612984948920774"
  }
 ]
