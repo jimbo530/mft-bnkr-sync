@@ -2978,14 +2978,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2107606891677315330"
  },
  {
-  "band": "CB",
-  "name": "EBM - Global Village",
-  "triggers": [
-   "ebm - global village"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2107611923894124986"
- },
- {
   "band": "HammerTone",
   "name": "The Wall That Pays",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "digerie dude - believe in someething (1)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2125612984948920774"
+ },
+ {
+  "band": "CB",
+  "name": "EBM - Global Village",
+  "triggers": [
+   "ebm - global village"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2125620572063211589"
  }
 ]
