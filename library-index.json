@@ -7490,14 +7490,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2121732436790788571"
  },
  {
-  "band": "EBM",
-  "name": "The Forest Waters Itself",
-  "triggers": [
-   "the forest waters itself"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2121740010298724675"
- },
- {
   "band": "CB",
   "name": "Natilie - Base is for you",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "will ye prompt it"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2125439373080395871"
+ },
+ {
+  "band": "EBM",
+  "name": "The Forest Waters Itself",
+  "triggers": [
+   "the forest waters itself"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2125492218978844876"
  }
 ]
