@@ -7083,14 +7083,6 @@
  },
  {
   "band": "EBM",
-  "name": "Day To Build The Dream",
-  "triggers": [
-   "day to build the dream"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2120411260017684548"
- },
- {
-  "band": "EBM",
   "name": "Forever Is Longer Than You Know",
   "triggers": [
    "forever is longer than you know"
@@ -8432,5 +8424,13 @@
    "one long breath"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2125673427000299957"
+ },
+ {
+  "band": "EBM",
+  "name": "Day To Build The Dream",
+  "triggers": [
+   "day to build the dream"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2125680974981640221"
  }
 ]
