@@ -3778,14 +3778,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2110385205156466728"
  },
  {
-  "band": "DD",
-  "name": "Carried by Your Love",
-  "triggers": [
-   "carried by your love"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2110390234768720212"
- },
- {
   "band": "MV",
   "name": "Digerie Dude - Pulse of the Forest (1)",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "digerie dude - working in the night"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2125499787180986843"
+ },
+ {
+  "band": "DD",
+  "name": "Carried by Your Love",
+  "triggers": [
+   "carried by your love"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2125552582747664816"
  }
 ]
