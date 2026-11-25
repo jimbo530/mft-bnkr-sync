@@ -4818,14 +4818,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2113168430639579271"
  },
  {
-  "band": "Rish",
-  "name": "Will Ye Prompt It",
-  "triggers": [
-   "will ye prompt it"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2113203706338382032"
- },
- {
   "band": "NN",
   "name": "Just Ask Darling",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "elven gold (1)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2125431832241918143"
+ },
+ {
+  "band": "Rish",
+  "name": "Will Ye Prompt It",
+  "triggers": [
+   "will ye prompt it"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2125439373080395871"
  }
 ]

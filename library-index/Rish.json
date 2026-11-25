@@ -281,14 +281,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Will Ye Prompt It",
-  "triggers": [
-   "will ye prompt it"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2113203706338382032",
-  "tag": "$MfT"
- },
- {
   "name": "Will Ye Come to Shillwood",
   "triggers": [
    "will ye come to shillwood"
@@ -406,6 +398,14 @@
    "the ground remembers"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2123483919320260788",
+  "tag": "MfT"
+ },
+ {
+  "name": "Will Ye Prompt It",
+  "triggers": [
+   "will ye prompt it"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2125439373080395871",
   "tag": "MfT"
  }
 ]
