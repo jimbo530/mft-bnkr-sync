@@ -5866,14 +5866,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2116309182659895774"
  },
  {
-  "band": "DD",
-  "name": "One Long Breath",
-  "triggers": [
-   "one long breath"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2116344427367010590"
- },
- {
   "band": "EBM",
   "name": "The Bulletin",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "ebm - global village"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2125620572063211589"
+ },
+ {
+  "band": "DD",
+  "name": "One Long Breath",
+  "triggers": [
+   "one long breath"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2125673427000299957"
  }
 ]
