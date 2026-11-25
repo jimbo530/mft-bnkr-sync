@@ -1288,19 +1288,19 @@
   "tag": "MfT"
  },
  {
-  "name": "Digerie Dude- We grow As one",
-  "triggers": [
-   "digerie dude- we grow as one"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2125069421852938296",
-  "tag": "MfT"
- },
- {
   "name": "J&N you dont know",
   "triggers": [
    "j&n you dont know"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2125250652808908986",
+  "tag": "MfT"
+ },
+ {
+  "name": "Digerie Dude- We grow As one",
+  "triggers": [
+   "digerie dude- we grow as one"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2125378951308587468",
   "tag": "MfT"
  }
 ]
