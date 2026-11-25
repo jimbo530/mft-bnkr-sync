@@ -4916,19 +4916,6 @@
     "caption": "\"Move Your Feet, Fund The Forest\" — Myco\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2107732722273726682",
-    "translation": "Cheap Tricks Expensive Forests",
-    "name": "Cheap Tricks Expensive Forests",
-    "triggers": [
-      "cheap tricks expensive forests"
-    ],
-    "band": "NN",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2107732722273726682",
-    "caption": "\"Cheap Tricks Expensive Forests\" — Natilie Nightclub\nlisten, like, and share to fund forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2107757888370315349",
     "translation": "Altcoin Blossoms",
     "name": "Altcoin Blossoms",
@@ -13702,5 +13689,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2125552582747664816",
     "caption": "\"Carried by Your Love\" — Digerie Dude\nmuch love famitree 💚🌳\n\nMfT"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2125560174953865391",
+    "translation": "Cheap Tricks Expensive Forests",
+    "name": "Cheap Tricks Expensive Forests",
+    "triggers": [
+      "cheap tricks expensive forests"
+    ],
+    "band": "NN",
+    "tag": "MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2125560174953865391",
+    "caption": "\"Cheap Tricks Expensive Forests\" — Natilie Nightclub\npress play, plant trees ▶️🌲\n\nMfT"
   }
 ]

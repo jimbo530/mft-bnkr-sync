@@ -3026,14 +3026,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2107727693265457154"
  },
  {
-  "band": "NN",
-  "name": "Cheap Tricks Expensive Forests",
-  "triggers": [
-   "cheap tricks expensive forests"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2107732722273726682"
- },
- {
   "band": "Myco",
   "name": "Altcoin Blossoms",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "carried by your love"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2125552582747664816"
+ },
+ {
+  "band": "NN",
+  "name": "Cheap Tricks Expensive Forests",
+  "triggers": [
+   "cheap tricks expensive forests"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2125560174953865391"
  }
 ]
