@@ -12690,19 +12690,6 @@
     "caption": "\"Jony Sings gotta get paid\" — Jony Sings\nforests go up 🌲📈\n\nMfT"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2123189536138068409",
-    "translation": "Show Me What You Got",
-    "name": "Show Me What You Got",
-    "triggers": [
-      "show me what you got"
-    ],
-    "band": "Myco",
-    "tag": "MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2123189536138068409",
-    "caption": "\"Show Me What You Got\" — Myco\nevery trade waters the forest 💧🌳\n\nMfT"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2123242387702952156",
     "translation": "ELVES OF BALLINMOORE — “YUCKY DUCKS x TR",
     "name": "ELVES OF BALLINMOORE — “YUCKY DUCKS x TR",
@@ -13702,5 +13689,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2125680974981640221",
     "caption": "\"Day To Build The Dream\" — Elves of Ballinmoore\npumps itself. plants forests. 🌲💰\n\nMfT"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2125733822184517643",
+    "translation": "Show Me What You Got",
+    "name": "Show Me What You Got",
+    "triggers": [
+      "show me what you got"
+    ],
+    "band": "Myco",
+    "tag": "MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2125733822184517643",
+    "caption": "\"Show Me What You Got\" — Myco\nevery trade waters the forest 💧🌳\n\nMfT"
   }
 ]

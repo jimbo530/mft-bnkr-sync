@@ -7810,14 +7810,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2123181948457664742"
  },
  {
-  "band": "Myco",
-  "name": "Show Me What You Got",
-  "triggers": [
-   "show me what you got"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2123189536138068409"
- },
- {
   "band": "EBM",
   "name": "ELVES OF BALLINMOORE — “YUCKY DUCKS x TR",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "day to build the dream"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2125680974981640221"
+ },
+ {
+  "band": "Myco",
+  "name": "Show Me What You Got",
+  "triggers": [
+   "show me what you got"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2125733822184517643"
  }
 ]
