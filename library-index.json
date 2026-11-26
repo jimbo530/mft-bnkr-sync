@@ -4475,14 +4475,6 @@
  },
  {
   "band": "NN",
-  "name": "Ask Me Why I Stay",
-  "triggers": [
-   "ask me why i stay"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2112363188079513636"
- },
- {
-  "band": "NN",
   "name": "Keep Your Purse",
   "triggers": [
    "keep your purse"
@@ -8432,5 +8424,13 @@
    "follow the signal up"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2125854609549705476"
+ },
+ {
+  "band": "NN",
+  "name": "Ask Me Why I Stay",
+  "triggers": [
+   "ask me why i stay"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2125862155656339845"
  }
 ]
