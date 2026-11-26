@@ -5330,14 +5330,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2114779073159299420"
  },
  {
-  "band": "DD",
-  "name": "The Roads Never End",
-  "triggers": [
-   "the roads never end"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2114814291379470359"
- },
- {
   "band": "ALAN",
   "name": "Thanks For Listening",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "pass it on gary strings"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2125982961510031366"
+ },
+ {
+  "band": "DD",
+  "name": "The Roads Never End",
+  "triggers": [
+   "the roads never end"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2126035800806592771"
  }
 ]
