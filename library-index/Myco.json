@@ -344,14 +344,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Altcoin Blossoms",
-  "triggers": [
-   "altcoin blossoms"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2107757888370315349",
-  "tag": "$MfT"
- },
- {
   "name": "The Deep Foundation",
   "triggers": [
    "the deep foundation"
@@ -933,6 +925,14 @@
    "follow the signal up"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2125854609549705476",
+  "tag": "MfT"
+ },
+ {
+  "name": "Altcoin Blossoms",
+  "triggers": [
+   "altcoin blossoms"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2125915012661203028",
   "tag": "MfT"
  }
 ]

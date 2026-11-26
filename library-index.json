@@ -3002,14 +3002,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2107727693265457154"
  },
  {
-  "band": "Myco",
-  "name": "Altcoin Blossoms",
-  "triggers": [
-   "altcoin blossoms"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2107757888370315349"
- },
- {
   "band": "DD",
   "name": "Communities",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "ask me why i stay"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2125862155656339845"
+ },
+ {
+  "band": "Myco",
+  "name": "Altcoin Blossoms",
+  "triggers": [
+   "altcoin blossoms"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2125915012661203028"
  }
 ]
