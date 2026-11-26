@@ -393,14 +393,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Dance All Day Long (Extended Mix)",
-  "triggers": [
-   "dance all day long (extended mix)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2118015489444040825",
-  "tag": "$MfT"
- },
- {
   "name": "Dance All Day Long",
   "triggers": [
    "dance all day long"
@@ -558,6 +550,14 @@
    "ebm - global village"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2125620572063211589",
+  "tag": "MfT"
+ },
+ {
+  "name": "Dance All Day Long (Extended Mix)",
+  "triggers": [
+   "dance all day long (extended mix)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2125922566996951508",
   "tag": "MfT"
  }
 ]
