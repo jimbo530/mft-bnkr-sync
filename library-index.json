@@ -1746,14 +1746,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2105226202696855773"
  },
  {
-  "band": "DD",
-  "name": "Đi Tiếp (One More Mile)",
-  "triggers": [
-   "đi tiếp (one more mile)"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2105231237178634504"
- },
- {
   "band": "MV",
   "name": "Digerie Dude - Open Mic",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "proof of freedom"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2126043371571409386"
+ },
+ {
+  "band": "DD",
+  "name": "Đi Tiếp (One More Mile)",
+  "triggers": [
+   "đi tiếp (one more mile)"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2126096196406059224"
  }
 ]
