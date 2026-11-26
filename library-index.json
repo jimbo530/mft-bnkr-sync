@@ -7850,14 +7850,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2123604771441422823"
  },
  {
-  "band": "JS",
-  "name": "Build The World Together",
-  "triggers": [
-   "build the world together"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2123612273415516527"
- },
- {
   "band": "MV",
   "name": "ballinmorre elves forestkids",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "dance all day long (extended mix)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2125922566996951508"
+ },
+ {
+  "band": "JS",
+  "name": "Build The World Together",
+  "triggers": [
+   "build the world together"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2125975412719141225"
  }
 ]

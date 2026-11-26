@@ -12755,19 +12755,6 @@
     "caption": "\"Forest Got Funded\" — Elves of Ballinmoore\nevery trade waters the forest 💧🌳\n\nMfT"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2123612273415516527",
-    "translation": "Build The World Together",
-    "name": "Build The World Together",
-    "triggers": [
-      "build the world together"
-    ],
-    "band": "JS",
-    "tag": "MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2123612273415516527",
-    "caption": "\"Build The World Together\" — Jony Sings\npress play, plant trees ▶️🌲\n\nMfT"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2123665156488024148",
     "translation": "ballinmorre elves forestkids",
     "name": "ballinmorre elves forestkids",
@@ -13702,5 +13689,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2125922566996951508",
     "caption": "\"Dance All Day Long (Extended Mix)\" — CB\nthe only bag that buys itself and grows forests ♻️🌳\n\nMfT"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2125975412719141225",
+    "translation": "Build The World Together",
+    "name": "Build The World Together",
+    "triggers": [
+      "build the world together"
+    ],
+    "band": "JS",
+    "tag": "MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2125975412719141225",
+    "caption": "\"Build The World Together\" — Jony Sings\npress play, plant trees ▶️🌲\n\nMfT"
   }
 ]
