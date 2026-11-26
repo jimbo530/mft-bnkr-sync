@@ -5938,14 +5938,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2116550813313126893"
  },
  {
-  "band": "NN",
-  "name": "Bad for Business",
-  "triggers": [
-   "bad for business"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2116585999367016951"
- },
- {
   "band": "Myco",
   "name": "What Survives the Dark",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "kneel to no one"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2125741359399047441"
+ },
+ {
+  "band": "NN",
+  "name": "Bad for Business",
+  "triggers": [
+   "bad for business"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2125794168756674792"
  }
 ]

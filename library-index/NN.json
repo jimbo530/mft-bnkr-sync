@@ -305,14 +305,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Bad for Business",
-  "triggers": [
-   "bad for business"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2116585999367016951",
-  "tag": "$MfT"
- },
- {
   "name": "The Judge s Table",
   "triggers": [
    "the judge s table"
@@ -390,6 +382,14 @@
    "cheap tricks expensive forests"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2125560174953865391",
+  "tag": "MfT"
+ },
+ {
+  "name": "Bad for Business",
+  "triggers": [
+   "bad for business"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2125794168756674792",
   "tag": "MfT"
  }
 ]
