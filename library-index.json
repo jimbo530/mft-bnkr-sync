@@ -6698,14 +6698,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2119067405125132508"
  },
  {
-  "band": "MV",
-  "name": "Pass it on Gary Strings",
-  "triggers": [
-   "pass it on gary strings"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2119074964565336382"
- },
- {
   "band": "Myco",
   "name": "Hero For Being Here",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "build the world together"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2125975412719141225"
+ },
+ {
+  "band": "MV",
+  "name": "Pass it on Gary Strings",
+  "triggers": [
+   "pass it on gary strings"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2125982961510031366"
  }
 ]
