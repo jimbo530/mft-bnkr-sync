@@ -6898,14 +6898,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2119928066034061442"
  },
  {
-  "band": "CB",
-  "name": "Proof of Freedom",
-  "triggers": [
-   "proof of freedom"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2119935683427008746"
- },
- {
   "band": "MV",
   "name": "dungeon games",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "the roads never end"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2126035800806592771"
+ },
+ {
+  "band": "CB",
+  "name": "Proof of Freedom",
+  "triggers": [
+   "proof of freedom"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2126043371571409386"
  }
 ]
