@@ -3096,19 +3096,6 @@
     "caption": "\"The Machine Broke Down (The Band Did Not)\" — Damned Good Time Orchestra\ngood tunes, real forests\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2105467805994750271",
-    "translation": "Follow the Signal Up",
-    "name": "Follow the Signal Up",
-    "triggers": [
-      "follow the signal up"
-    ],
-    "band": "Myco",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2105467805994750271",
-    "caption": "\"- Follow the Signal Up\" — Myco\nevery listen grows the jungle\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2105487941900325272",
     "translation": "Work Now Dance Later vid",
     "name": "Work Now Dance Later vid",
@@ -13702,5 +13689,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2125801769439465747",
     "caption": "\"- What Had To Rot\" — Myco\ngood tunes, real forests 🎵🌲\n\nMfT"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2125854609549705476",
+    "translation": "Follow the Signal Up",
+    "name": "Follow the Signal Up",
+    "triggers": [
+      "follow the signal up"
+    ],
+    "band": "Myco",
+    "tag": "MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2125854609549705476",
+    "caption": "\"- Follow the Signal Up\" — Myco\ngood tunes, real forests 🎵🌲\n\nMfT"
   }
 ]

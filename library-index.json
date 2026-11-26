@@ -1906,14 +1906,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2105462811933446234"
  },
  {
-  "band": "Myco",
-  "name": "Follow the Signal Up",
-  "triggers": [
-   "follow the signal up"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2105467805994750271"
- },
- {
   "band": "MR",
   "name": "Work Now Dance Later vid",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "what had to rot"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2125801769439465747"
+ },
+ {
+  "band": "Myco",
+  "name": "Follow the Signal Up",
+  "triggers": [
+   "follow the signal up"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2125854609549705476"
  }
 ]
