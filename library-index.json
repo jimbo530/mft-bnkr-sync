@@ -5714,14 +5714,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2116062599993299167"
  },
  {
-  "band": "Bongo",
-  "name": "One Brick",
-  "triggers": [
-   "one brick"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2116067594687930464"
- },
- {
   "band": "DD",
   "name": "Where the Maps Run Out",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "đi tiếp (one more mile)"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2126096196406059224"
+ },
+ {
+  "band": "Bongo",
+  "name": "One Brick",
+  "triggers": [
+   "one brick"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2126103693758013674"
  }
 ]

@@ -329,14 +329,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "One Brick",
-  "triggers": [
-   "one brick"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2116067594687930464",
-  "tag": "$MfT"
- },
- {
   "name": "The Hungry Drum",
   "triggers": [
    "the hungry drum"
@@ -414,6 +406,14 @@
    "burgers from the sky"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2124027596719497589",
+  "tag": "MfT"
+ },
+ {
+  "name": "One Brick",
+  "triggers": [
+   "one brick"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2126103693758013674",
   "tag": "MfT"
  }
 ]
