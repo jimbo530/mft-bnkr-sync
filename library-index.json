@@ -2706,14 +2706,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2107028087263166824"
  },
  {
-  "band": "WarMachine",
-  "name": "Kneel To No One",
-  "triggers": [
-   "kneel to no one"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2107053236427399179"
- },
- {
   "band": "Rish",
   "name": "Two Shores, One Agent",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "show me what you got"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2125733822184517643"
+ },
+ {
+  "band": "WarMachine",
+  "name": "Kneel To No One",
+  "triggers": [
+   "kneel to no one"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2125741359399047441"
  }
 ]

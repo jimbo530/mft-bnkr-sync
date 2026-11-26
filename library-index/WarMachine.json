@@ -57,14 +57,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Kneel To No One",
-  "triggers": [
-   "kneel to no one"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2107053236427399179",
-  "tag": "$MfT"
- },
- {
   "name": "The Hordes Keep Coming",
   "triggers": [
    "the hordes keep coming"
@@ -190,6 +182,14 @@
    "strike up da bands"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2125258192359768135",
+  "tag": "MfT"
+ },
+ {
+  "name": "Kneel To No One",
+  "triggers": [
+   "kneel to no one"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2125741359399047441",
   "tag": "MfT"
  }
 ]
