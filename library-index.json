@@ -4842,14 +4842,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2113369802186100769"
  },
  {
-  "band": "Myco",
-  "name": "What Had To Rot",
-  "triggers": [
-   "what had to rot"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2113405006598561940"
- },
- {
   "band": "Strut",
   "name": "We Throw The Party",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "bad for business"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2125794168756674792"
+ },
+ {
+  "band": "Myco",
+  "name": "What Had To Rot",
+  "triggers": [
+   "what had to rot"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2125801769439465747"
  }
 ]
