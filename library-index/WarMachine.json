@@ -129,14 +129,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Against Da FUD",
-  "triggers": [
-   "against da fud"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2114129786272358691",
-  "tag": "$MfT"
- },
- {
   "name": "Earn It",
   "triggers": [
    "earn it"
@@ -190,6 +182,14 @@
    "kneel to no one"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2125741359399047441",
+  "tag": "MfT"
+ },
+ {
+  "name": "Against Da FUD",
+  "triggers": [
+   "against da fud"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2126398168413659410",
   "tag": "MfT"
  }
 ]

@@ -5042,14 +5042,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2114094521524855214"
  },
  {
-  "band": "WarMachine",
-  "name": "Against Da FUD",
-  "triggers": [
-   "against da fud"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2114129786272358691"
- },
- {
   "band": "EBM",
   "name": "Plug That Backs Real Ones",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "put on a show"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2126345320363675812"
+ },
+ {
+  "band": "WarMachine",
+  "name": "Against Da FUD",
+  "triggers": [
+   "against da fud"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2126398168413659410"
  }
 ]
