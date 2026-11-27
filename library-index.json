@@ -3946,14 +3946,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2110989153894633797"
  },
  {
-  "band": "JS",
-  "name": "Friday on the Green",
-  "triggers": [
-   "friday on the green"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2110994197801025909"
- },
- {
   "band": "SEAS",
   "name": "A Banana A Day",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "against da fud"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2126398168413659410"
+ },
+ {
+  "band": "JS",
+  "name": "Friday on the Green",
+  "triggers": [
+   "friday on the green"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2126405676133953957"
  }
 ]
