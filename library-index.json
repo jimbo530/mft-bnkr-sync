@@ -2554,14 +2554,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2106756285106442318"
  },
  {
-  "band": "CB",
-  "name": "It Keeps Itself Alive",
-  "triggers": [
-   "it keeps itself alive"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2106786492420952284"
- },
- {
   "band": "WarMachine",
   "name": "Sing To the Machine",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "a captain, not a king"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2126277374903771397"
+ },
+ {
+  "band": "CB",
+  "name": "It Keeps Itself Alive",
+  "triggers": [
+   "it keeps itself alive"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2126284892820418893"
  }
 ]
