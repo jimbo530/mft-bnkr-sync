@@ -7090,14 +7090,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2120834045885947936"
  },
  {
-  "band": "ALAN",
-  "name": "A Hopping Good Time",
-  "triggers": [
-   "a hopping good time"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2120841567615267182"
- },
- {
   "band": "JS",
   "name": "Welcome To The Show",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "one river"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2126164133921882412"
+ },
+ {
+  "band": "ALAN",
+  "name": "A Hopping Good Time",
+  "triggers": [
+   "a hopping good time"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2126216940947427393"
  }
 ]
