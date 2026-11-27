@@ -5442,14 +5442,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2115136366526828630"
  },
  {
-  "band": "DD",
-  "name": "One River",
-  "triggers": [
-   "one river"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2115141436911890537"
- },
- {
   "band": "Rish",
   "name": "The Hillside Remembers",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "ballinmoore bounce"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2126156576775962931"
+ },
+ {
+  "band": "DD",
+  "name": "One River",
+  "triggers": [
+   "one river"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2126164133921882412"
  }
 ]
