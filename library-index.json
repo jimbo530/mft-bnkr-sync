@@ -5194,14 +5194,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2114497214651211822"
  },
  {
-  "band": "Strut",
-  "name": "Put On A Show",
-  "triggers": [
-   "put on a show"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2114532439578067454"
- },
- {
   "band": "Bongo",
   "name": "Catch the Song, Pass the Song",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "it keeps itself alive"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2126284892820418893"
+ },
+ {
+  "band": "Strut",
+  "name": "Put On A Show",
+  "triggers": [
+   "put on a show"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2126345320363675812"
  }
 ]

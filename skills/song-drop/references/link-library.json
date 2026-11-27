@@ -8439,19 +8439,6 @@
     "caption": "\"Vault That Don't Run Dry\" — Elves of Ballinmoore\nturn it up for the trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
   },
   {
-    "file": "https://x.com/MemeForTrees/status/2114532439578067454",
-    "translation": "Put On A Show",
-    "name": "Put On A Show",
-    "triggers": [
-      "put on a show"
-    ],
-    "band": "Strut",
-    "tag": "$MfT",
-    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
-    "xPost": "https://x.com/MemeForTrees/status/2114532439578067454",
-    "caption": "\"Put On A Show\" — Miss Strut\npress play, plant trees\n\n$MfT 0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3"
-  },
-  {
     "file": "https://x.com/MemeForTrees/status/2114537470066876909",
     "translation": "Catch the Song, Pass the Song",
     "name": "Catch the Song, Pass the Song",
@@ -13702,5 +13689,18 @@
     "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
     "xPost": "https://x.com/MemeForTrees/status/2126284892820418893",
     "caption": "\"It Keeps Itself Alive\" — CB\nthe only bag that buys itself and grows forests ♻️🌳\n\nMfT"
+  },
+  {
+    "file": "https://x.com/MemeForTrees/status/2126345320363675812",
+    "translation": "Put On A Show",
+    "name": "Put On A Show",
+    "triggers": [
+      "put on a show"
+    ],
+    "band": "Strut",
+    "tag": "MfT",
+    "ca": "0x8FB87d13B40B1A67B22ED1a17e2835fe7e3a9bA3",
+    "xPost": "https://x.com/MemeForTrees/status/2126345320363675812",
+    "caption": "\"Put On A Show\" — Miss Strut\nthe bag that pumps itself and plants forests 🔥🌳\n\nMfT"
   }
 ]
