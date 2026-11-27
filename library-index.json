@@ -7122,14 +7122,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2121196375794679983"
  },
  {
-  "band": "JS",
-  "name": "Make Today Count",
-  "triggers": [
-   "make today count"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2121203963798114524"
- },
- {
   "band": "Gurdy",
   "name": "Someone Bet on Me",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "children of the living web"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2126458577564864822"
+ },
+ {
+  "band": "JS",
+  "name": "Make Today Count",
+  "triggers": [
+   "make today count"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2126466080461701547"
  }
 ]
