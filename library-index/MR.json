@@ -409,14 +409,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "Children of the Living Web",
-  "triggers": [
-   "children of the living web"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2118463431388839957",
-  "tag": "$MfT"
- },
- {
   "name": "I Love Being Alive",
   "triggers": [
    "i love being alive"
@@ -462,6 +454,14 @@
    "green hearts vid"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2124827870832857550",
+  "tag": "MfT"
+ },
+ {
+  "name": "Children of the Living Web",
+  "triggers": [
+   "children of the living web"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2126458577564864822",
   "tag": "MfT"
  }
 ]

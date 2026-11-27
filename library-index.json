@@ -6450,14 +6450,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2118176546242400612"
  },
  {
-  "band": "MR",
-  "name": "Children of the Living Web",
-  "triggers": [
-   "children of the living web"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2118463431388839957"
- },
- {
   "band": "CB",
   "name": "Light in Every Heart",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "friday on the green"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2126405676133953957"
+ },
+ {
+  "band": "MR",
+  "name": "Children of the Living Web",
+  "triggers": [
+   "children of the living web"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2126458577564864822"
  }
 ]
