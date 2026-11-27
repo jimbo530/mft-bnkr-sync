@@ -241,14 +241,6 @@
   "tag": "$MfT"
  },
  {
-  "name": "The Whole Bar Onchain",
-  "triggers": [
-   "the whole bar onchain"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2112041025627701652",
-  "tag": "$MfT"
- },
- {
   "name": "Plant It, Ye Giants",
   "triggers": [
    "plant it, ye giants"
@@ -406,6 +398,14 @@
    "will ye prompt it"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2125439373080395871",
+  "tag": "MfT"
+ },
+ {
+  "name": "The Whole Bar Onchain",
+  "triggers": [
+   "the whole bar onchain"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2126224525985550719",
   "tag": "MfT"
  }
 ]

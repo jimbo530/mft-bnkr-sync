@@ -4346,14 +4346,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2112036055083819037"
  },
  {
-  "band": "Rish",
-  "name": "The Whole Bar Onchain",
-  "triggers": [
-   "the whole bar onchain"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2112041025627701652"
- },
- {
   "band": "Myco",
   "name": "- Spores Don't Read The Chart",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "a hopping good time"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2126216940947427393"
+ },
+ {
+  "band": "Rish",
+  "name": "The Whole Bar Onchain",
+  "triggers": [
+   "the whole bar onchain"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2126224525985550719"
  }
 ]
