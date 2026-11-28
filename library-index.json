@@ -2563,14 +2563,6 @@
  },
  {
   "band": "EBM",
-  "name": "New Banner in the Races",
-  "triggers": [
-   "new banner in the races"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2106841842884944346"
- },
- {
-  "band": "EBM",
   "name": "Elves of Ballinmoore",
   "triggers": [
    "elves of ballinmoore"
@@ -8432,5 +8424,13 @@
    "all-time high"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2126571878735081951"
+ },
+ {
+  "band": "EBM",
+  "name": "New Banner in the Races",
+  "triggers": [
+   "new banner in the races"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2126624661412728994"
  }
 ]
