@@ -4378,14 +4378,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2112242395064471908"
  },
  {
-  "band": "ALAN",
-  "name": "The Lord Who Rules Nobody",
-  "triggers": [
-   "the lord who rules nobody"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2112277597308494301"
- },
- {
   "band": "DGT",
   "name": "Gone in a Second",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "pass it on"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2126526522362073199"
+ },
+ {
+  "band": "ALAN",
+  "name": "The Lord Who Rules Nobody",
+  "triggers": [
+   "the lord who rules nobody"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2126564307081073029"
  }
 ]
