@@ -1570,14 +1570,6 @@
   "xPost": "https://x.com/MemeForTrees/status/2104949397830156344"
  },
  {
-  "band": "WarMachine",
-  "name": "Fast as the Forge-Fire",
-  "triggers": [
-   "fast as the forge-fire"
-  ],
-  "xPost": "https://x.com/MemeForTrees/status/2104954379425980596"
- },
- {
   "band": "HammerTone",
   "name": "The Guildmaster Who Asks Nothing",
   "triggers": [
@@ -8432,5 +8424,13 @@
    "new banner in the races"
   ],
   "xPost": "https://x.com/MemeForTrees/status/2126624661412728994"
+ },
+ {
+  "band": "WarMachine",
+  "name": "Fast as the Forge-Fire",
+  "triggers": [
+   "fast as the forge-fire"
+  ],
+  "xPost": "https://x.com/MemeForTrees/status/2126632258987507892"
  }
 ]
